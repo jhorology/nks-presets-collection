@@ -1,0 +1,26 @@
+{
+  "name": "nks-presets-collection",
+  "version": "0.0.1",
+  "description": "Native Kontrol Stander presets collection",
+  "author": {
+    "name": "jhorology",
+    "email": "jhorology2014@gmail.com",
+    "url": "https://github.com/jhorology"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhorology/nks-presets-collection"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-coffeelint": "^0.5.0",
+    "gulp-nks-rewrite-meta": "0.0.1",
+    "gulp-watch": "^4.3.5",
+    "js-beautify": "^1.5.10"
+  }
+}
