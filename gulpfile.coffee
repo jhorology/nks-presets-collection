@@ -46,6 +46,7 @@ gulp.task 'clean', (cb) ->
 # deploy all presets and resources
 gulp.task 'deploy', [
   'deploy-velvet'
+  'deploy-serum'
   'deploy-resources'
 ]
   
