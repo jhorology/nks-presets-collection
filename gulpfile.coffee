@@ -123,6 +123,11 @@ gulp.task 'deploy-serum', ->
 # NI Resources
 # ---------------------------
 gulp.task 'deploy-resources', ->
-  gulp.src ['NI Resources/**/*.png','NI Resources/**/*.meta'], read: true
+  gulp.src [
+    'NI Resources/**/*.png'
+    'NI Resources/**/*.meta'
+    'NI Resources/**/*.json'
+    ]
+  , read: true
     .pipe gulp.dest "#{$.NIResourcesDir}"
 
