@@ -19,8 +19,9 @@
     "gulp": "^3.9.0",
     "gulp-coffee": "^2.3.1",
     "gulp-coffeelint": "^0.5.0",
-    "gulp-nks-rewrite-meta": "0.0.1",
+    "gulp-nks-rewrite-meta": "0.0.3",
     "gulp-watch": "^4.3.5",
-    "js-beautify": "^1.5.10"
+    "js-beautify": "^1.5.10",
+    "sqlite3": "^3.1.0"
   }
 }
