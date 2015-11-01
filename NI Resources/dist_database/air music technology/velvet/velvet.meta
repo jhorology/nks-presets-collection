@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <resource version="1.0.0.0">
+
   <vendor>Air Music Technology</vendor>
+
   <name>Velvet</name>
-  <type>image</type>
+
+  <type>dist_database</type>
+
 </resource>
