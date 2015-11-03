@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "a8976c94-c9e7-46d9-9bf6-5d44aa773b94",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ Neutral [7S]",
+  "deviceType": "INST",
+  "comment": "Step Sequenced & coll stuff",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "7 Skies"
+}

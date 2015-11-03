@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "d0296682-de0a-4752-b4b2-baca58c1a28c",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD ArticWind [CFA]",
+  "deviceType": "INST",
+  "comment": "Cold digital Pad Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "CFA-Sound"
+}

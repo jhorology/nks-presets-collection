@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "65bb36e3-ab03-40d5-87c0-955d656f53cb",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ Minor Arp [SN]",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Seth Norman"
+}

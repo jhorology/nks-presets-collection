@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "af6073e9-0ea3-4494-afe3-e99c7c59c2be",
+  "types": [
+    ["Bass"]
+  ],
+  "name": "BA FunkMogue [CFA]",
+  "deviceType": "INST",
+  "comment": "Formanted Moog Bass",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "CFA-Sound"
+}

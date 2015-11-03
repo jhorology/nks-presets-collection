@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "b9a75768-be4f-40fd-9ed9-45fa45fe03c8",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Hold This Note [FP]",
+  "deviceType": "INST",
+  "comment": "Mod wheel controls Cassini space probe",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

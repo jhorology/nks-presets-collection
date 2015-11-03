@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "d8f832e5-4122-45b7-a395-804bbf492882",
+  "types": [
+    ["Bass"]
+  ],
+  "name": "BA Mute Bass Gtr [BR]",
+  "deviceType": "INST",
+  "comment": "Velocity Enabled Mute Bass Guitar",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "B Roy Sound"
+}

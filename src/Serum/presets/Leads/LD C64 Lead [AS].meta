@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "9066843f-d4b4-444d-8346-ca66b9487559",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD C64 Lead [AS]",
+  "deviceType": "INST",
+  "comment": "Mod W. - Gating",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Adam Szabo"
+}

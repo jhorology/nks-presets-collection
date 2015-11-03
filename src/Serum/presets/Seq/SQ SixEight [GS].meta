@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "d631a996-6723-44b3-a88e-9aa92fec6379",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ SixEight [GS]",
+  "deviceType": "INST",
+  "comment": "mod+macros",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

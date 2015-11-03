@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "ec842001-aa29-4b7c-a7c7-7a0d61df237c",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY Monolithic [SD]",
+  "deviceType": "INST",
+  "comment": "'default' comment (its a joke)",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

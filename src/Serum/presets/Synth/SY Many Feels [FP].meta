@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "a216af61-cee3-4828-8c2a-07607d4984ff",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY Many Feels [FP]",
+  "deviceType": "INST",
+  "comment": "Mod Wheel to cutoff, harmonic",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

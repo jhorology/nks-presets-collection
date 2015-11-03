@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "7de0d432-d3f3-4fd3-aef2-9994b6663218",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY PavingRhodes [SD]",
+  "deviceType": "INST",
+  "comment": "Simple Rhodes Patch - velocity",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

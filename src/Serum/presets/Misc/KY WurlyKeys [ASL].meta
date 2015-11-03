@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "cc5b7827-5e53-43cf-a221-164ef47f06d9",
+  "types": [
+    ["Keyboard"]
+  ],
+  "name": "KY WurlyKeys [ASL]",
+  "deviceType": "INST",
+  "comment": "Wurlitzer 200a Emulation",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "ASL Soundlab"
+}

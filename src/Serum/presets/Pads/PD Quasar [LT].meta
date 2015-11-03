@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "58fd6852-6e09-4d92-b71f-bfaa34c48147",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Quasar [LT]",
+  "deviceType": "INST",
+  "comment": "Hold for rising soft sync.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Lance Thackeray"
+}

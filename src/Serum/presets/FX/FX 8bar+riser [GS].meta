@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "c4e57d26-57c2-4d8a-9fc5-192bb450e1ad",
+  "types": [
+    ["SFX"]
+  ],
+  "name": "FX 8bar+riser [GS]",
+  "deviceType": "INST",
+  "comment": "longer than 8bars use modwheel",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

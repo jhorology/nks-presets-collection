@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "f330aaeb-212e-4efb-855e-8bb91c2c5aa8",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Voicy [7S]",
+  "deviceType": "INST",
+  "comment": "Voicy Lead but works as bass too",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "7 Skies"
+}

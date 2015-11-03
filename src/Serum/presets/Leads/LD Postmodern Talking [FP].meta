@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "3e4104c2-6f1b-4dce-ba67-63aa8456cddb",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Postmodern Talking [FP]",
+  "deviceType": "INST",
+  "comment": "Mod wheel to wavetable stuff",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

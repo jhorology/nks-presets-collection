@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "0371aeef-44be-4850-89ff-3e36a440ea4b",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Slow Pad [AS]",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Adam Szabo"
+}

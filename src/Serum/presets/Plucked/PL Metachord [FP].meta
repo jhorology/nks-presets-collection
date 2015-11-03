@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "b8cd8fe2-fe71-4b5b-8163-55ebdaa49104",
+  "types": [
+    ["Pluck"]
+  ],
+  "name": "PL Metachord [FP]",
+  "deviceType": "INST",
+  "comment": "Mod wheel makes it bigger",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

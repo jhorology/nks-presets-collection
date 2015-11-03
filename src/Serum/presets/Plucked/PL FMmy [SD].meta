@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "881b756d-1740-44e3-8e7d-76f96724da0c",
+  "types": [
+    ["Pluck"]
+  ],
+  "name": "PL FMmy [SD]",
+  "deviceType": "INST",
+  "comment": "Additive wave with Velo->Noise",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

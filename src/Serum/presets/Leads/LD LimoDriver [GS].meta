@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "79025dcb-6d46-424c-8526-ea64fa7f062b",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD LimoDriver [GS]",
+  "deviceType": "INST",
+  "comment": "mod",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

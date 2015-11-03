@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "ef033011-e69b-46bc-bd41-dff962f894e5",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Watery [SD]",
+  "deviceType": "INST",
+  "comment": "Spastic modulation",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

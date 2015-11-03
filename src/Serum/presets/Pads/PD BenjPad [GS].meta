@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "ba9e7485-91f8-42ce-aa91-bdb0917ff07b",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD BenjPad [GS]",
+  "deviceType": "INST",
+  "comment": "mod space",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

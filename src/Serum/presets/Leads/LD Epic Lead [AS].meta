@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "84a1209c-fce7-4754-a010-84df2c5a5248",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Epic Lead [AS]",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Adam Szabo"
+}

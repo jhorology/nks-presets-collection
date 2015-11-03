@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "447d620a-ec04-4038-b87c-18886da33482",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Old Lead [FN]",
+  "deviceType": "INST",
+  "comment": "http://www.particular-sound.de/",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Frank Neumann"
+}

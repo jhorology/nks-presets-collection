@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "67164cbc-a01c-439c-9409-f68160e91968",
+  "types": [
+    ["Bass"]
+  ],
+  "name": "BA Ampology [CFA]",
+  "deviceType": "INST",
+  "comment": "Fat E-Bass Emulation",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "CFA-Sound"
+}

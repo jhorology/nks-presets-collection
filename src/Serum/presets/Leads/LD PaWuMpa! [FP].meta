@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "edc0f1da-f51a-4c4c-8956-3407aa758b11",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD PaWuMpa! [FP]",
+  "deviceType": "INST",
+  "comment": "Mod Wheel to lots of stuff",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

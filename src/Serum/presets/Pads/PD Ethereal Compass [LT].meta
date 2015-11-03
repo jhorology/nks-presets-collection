@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "1f661f35-def4-4808-a916-6307d6c25e21",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Ethereal Compass [LT]",
+  "deviceType": "INST",
+  "comment": "Saw pad with shimmering feedback.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Lance Thackeray"
+}

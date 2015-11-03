@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "8bba7649-512b-4b83-9e27-1a6c20ccf80f",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Nadamoog [FP]",
+  "deviceType": "INST",
+  "comment": "Mod wheel to cutoff",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

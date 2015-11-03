@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "b420aeb7-ae0c-4284-8e7a-4766b66b966c",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Electro Lead BA [SN]",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Seth Norman"
+}

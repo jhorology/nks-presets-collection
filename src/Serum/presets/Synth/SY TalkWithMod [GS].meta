@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "93e248c4-c7ab-439a-8c15-ca49fea021c3",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY TalkWithMod [GS]",
+  "deviceType": "INST",
+  "comment": "use Macro1 & Mod Wheel!",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

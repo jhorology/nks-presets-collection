@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "35094f13-6a1e-4997-8202-325c9b33cb0e",
+  "types": [
+    ["Template"]
+  ],
+  "name": "INIT TableAnim [SD]",
+  "deviceType": "INST",
+  "comment": "just LFO to WTPos",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

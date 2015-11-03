@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "4cebd8ad-5c3f-4bb0-a36e-eaa1ede6cb94",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY Vintage Bells [FP]",
+  "deviceType": "INST",
+  "comment": "Mod wheel for cutoff & wobble",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

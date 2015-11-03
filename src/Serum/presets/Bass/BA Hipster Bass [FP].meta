@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "980b1f2c-7e33-4df9-8fff-a86269d539ae",
+  "types": [
+    ["Bass"]
+  ],
+  "name": "BA Hipster Bass [FP]",
+  "deviceType": "INST",
+  "comment": "FM 2:1 bass. Mod wheel lengthens attack.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "d6c19aa0-0e3e-408c-bc59-19a94b160d36",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY AnalogBrass [SD]",
+  "deviceType": "INST",
+  "comment": "MW->Cutoff",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

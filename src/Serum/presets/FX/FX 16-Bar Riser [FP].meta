@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "a1c939a3-4c23-450c-a59a-34c0c5419e79",
+  "types": [
+    ["SFX"]
+  ],
+  "name": "FX 16-Bar Riser [FP]",
+  "deviceType": "INST",
+  "comment": "Because why not?",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

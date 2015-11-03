@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "5ffac2cb-654b-4a86-8ba1-8179cf8625bb",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ Platypus [SN]",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Seth Norman"
+}

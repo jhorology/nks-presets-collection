@@ -3,6 +3,8 @@
 *.log
 target/
 build/
+dist/
+temp/
 components/
 node_modules/
 

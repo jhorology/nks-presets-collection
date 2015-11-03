@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "0d768f66-ad29-4943-83a5-7100bce802ad",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD BraveHeart [7S]",
+  "deviceType": "INST",
+  "comment": "Nice lead for sad stuff",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "7 Skies"
+}

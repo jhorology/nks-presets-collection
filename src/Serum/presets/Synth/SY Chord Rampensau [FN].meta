@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "ee111dee-47dd-4d27-80c6-25e4f3bef263",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY Chord Rampensau [FN]",
+  "deviceType": "INST",
+  "comment": "http://www.particular-sound.de/",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Frank Neumann"
+}

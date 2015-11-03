@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "414a0557-24c2-454d-983f-9557bf2ddf99",
+  "types": [
+    ["SFX"]
+  ],
+  "name": "FX Rampant 1 [LT]",
+  "deviceType": "INST",
+  "comment": "Pretty standard LFO ramp.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Lance Thackeray"
+}

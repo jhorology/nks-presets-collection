@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "8b50acd6-d8f1-4535-9f40-2d96825e0c8d",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ Chems [GS]",
+  "deviceType": "INST",
+  "comment": "Mod wheel",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

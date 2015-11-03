@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "2af30a51-1afe-4d41-b81f-749ffdb58c8d",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY Monotone [CFA]",
+  "deviceType": "INST",
+  "comment": "Driven Monosynth",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "CFA-Sound"
+}

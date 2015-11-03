@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "715d009b-f42a-4f6c-a549-dc03ba5000c2",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Panic Run [SD]",
+  "deviceType": "INST",
+  "comment": "I think I made this.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

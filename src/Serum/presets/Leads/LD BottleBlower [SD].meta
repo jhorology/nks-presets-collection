@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "69b2fdbe-247e-4165-8c15-16d8c5e879ae",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD BottleBlower [SD]",
+  "deviceType": "INST",
+  "comment": "Blowing Bottles",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

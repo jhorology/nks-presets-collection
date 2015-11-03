@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "bd6f992f-0700-4917-84aa-bdb5b66839ad",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD Clang [SD]",
+  "deviceType": "INST",
+  "comment": "FX courtesy of GS",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

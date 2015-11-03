@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "f0fba801-6126-4de1-88b1-c802e7b52396",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD LaughMod [GS]",
+  "deviceType": "INST",
+  "comment": "mod wheel fx",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

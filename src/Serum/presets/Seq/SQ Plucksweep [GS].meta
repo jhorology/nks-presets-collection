@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "4a42671d-5ca3-4b9b-8a25-7829bb001040",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ Plucksweep [GS]",
+  "deviceType": "INST",
+  "comment": "ModFltr, Macro1+Delay",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Genji Siraisi"
+}

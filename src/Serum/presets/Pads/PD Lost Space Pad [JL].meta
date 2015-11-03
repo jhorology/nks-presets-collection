@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "00f24149-7346-4680-af93-086ead355cbb",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Lost Space Pad [JL]",
+  "deviceType": "INST",
+  "comment": "Mod: Filter Fc opens for added Air.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "PlugInGuru.com"
+}

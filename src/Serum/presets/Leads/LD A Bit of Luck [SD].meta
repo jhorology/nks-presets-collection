@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "068e66bc-c8a8-4458-a657-83e138fc964e",
+  "types": [
+    ["Lead"]
+  ],
+  "name": "LD A Bit of Luck [SD]",
+  "deviceType": "INST",
+  "comment": "MW->Vibrato and Noise Trem.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Steve Duda"
+}

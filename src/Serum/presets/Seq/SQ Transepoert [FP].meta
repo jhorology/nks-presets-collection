@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "4d69d4eb-eae4-4c42-ab42-cbfc7bb35edc",
+  "types": [
+    ["Seq"]
+  ],
+  "name": "SQ Transepoert [FP]",
+  "deviceType": "INST",
+  "comment": "Heh. Just heh.",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Francis Preve"
+}

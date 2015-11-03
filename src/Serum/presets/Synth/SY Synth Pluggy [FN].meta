@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "0f6ced1b-5071-495a-9216-9a6ac03a0e76",
+  "types": [
+    ["Synth"]
+  ],
+  "name": "SY Synth Pluggy [FN]",
+  "deviceType": "INST",
+  "comment": "http://www.particular-sound.de/",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Frank Neumann"
+}

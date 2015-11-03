@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "2b2c5086-d737-4f59-a7e1-025670427a75",
+  "types": [
+    ["Pad"]
+  ],
+  "name": "PD Whispering Voice [FN]",
+  "deviceType": "INST",
+  "comment": "http://www.particular-sound.de/",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "Frank Neumann"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "Xfer Records",
+  "uuid": "dcb2a26a-28eb-4948-9cc0-47778fbd6b62",
+  "types": [
+    ["Pluck"]
+  ],
+  "name": "PL Totem [7S]",
+  "deviceType": "INST",
+  "comment": "Play it in a chord",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "author": "7 Skies"
+}
