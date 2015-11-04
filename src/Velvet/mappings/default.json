@@ -4,50 +4,51 @@
       "autoname": true,
       "id": 0,
       "name": "Volume",
-      "section": "Panel",
+      "section": "Master",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 62,
-      "name": "Tremolo",
+      "name": "Off/On",
+      "section": "Tremoro",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 1,
-      "name": "Tremolo Mode",
+      "name": "Stereo",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 2,
-      "name": "Tremolo Rate",
+      "name": "Rate",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 3,
-      "name": "Tremolo Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 81,
-      "name": "Extended Key Range",
+      "name": "Off/On",
       "section": "Key Range",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 79,
-      "name": "Key Range Low",
+      "name": "Low",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 80,
-      "name": "Key Range High",
+      "name": "High",
       "vflag": false
     }],
     [{
       "autoname": true,
       "id": 6,
       "name": "Mechanics FX",
-      "section": "Panel Tool",
+      "section": "Config",
       "vflag": false
     }, {
       "autoname": true,
@@ -65,41 +66,41 @@
       "name": "Tremolo Before FX",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 4,
-      "name": "Pickup Level",
+      "name": "Level",
       "section": "Pickup",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 5,
-      "name": "Mechanics Mode",
+      "name": "Mode",
       "section": "Mechanics",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 7,
-      "name": "Mechanics Level",
+      "name": "Level",
       "vflag": false
     }, {
       "autoname": true,
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 8,
-      "name": "Key Off Mode",
+      "name": "Mode",
       "section": "Key off",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 9,
-      "name": "Key Off Level",
+      "name": "Level",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 12,
-      "name": "Condition",
+      "name": "Mint/Bad",
       "section": "Condition",
       "vflag": false
     }, {
@@ -109,53 +110,53 @@
       "section": "Fine Tune",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 14,
-      "name": "Velocity Min",
+      "name": "Min",
       "section": "V.Curve",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 15,
-      "name": "Velocity Low Mid",
+      "name": "Low Mid",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 16,
-      "name": "Velocity High Mid",
+      "name": "High Mid",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 17,
-      "name": "Velocity Max",
+      "name": "Max",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 18,
-      "name": "Velocity To Level",
-      "section": "V.Response",
+      "name": "Level",
+      "section": "Velocity",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 19,
-      "name": "Velocity To Timbre",
+      "name": "Timber",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 20,
-      "name": "Timbre",
+      "name": "Soft/Hard",
       "section": "Timber",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 65,
-      "name": "Vintage Timbre",
+      "name": "Vintage",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 66,
-      "name": "Compressor post FX",
+      "name": "Off/On",
       "section": "Comp",
       "vflag": false
     }, {
@@ -164,9 +165,9 @@
       "name": "Compression",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 22,
-      "name": "Tube Drive",
+      "name": "Drive",
       "section": "Tube Drive",
       "vflag": false
     }, {
@@ -174,104 +175,104 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 23,
-      "name": "EQ",
+      "name": "Off/On",
       "section": "EQ",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 25,
-      "name": "EQ Bass",
+      "name": "Bass",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 26,
-      "name": "EQ Mid Freq",
+      "name": "Mid Freq",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 27,
-      "name": "EQ Mid Gain",
+      "name": "Mid Gain",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 28,
-      "name": "EQ Mid Q",
+      "name": "Mid Q",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 29,
-      "name": "EQ Treble",
+      "name": "Treble",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 24,
-      "name": "EQ Level",
+      "name": "Level",
       "vflag": false
     }, {
       "autoname": true,
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 30,
-      "name": "Distortion",
+      "name": "Off/On",
       "section": "Distortion",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 31,
-      "name": "Distortion Mode",
+      "name": "Mode",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 83,
-      "name": "Fuzz Drive",
+      "name": "Drive",
       "section": "Fuzz",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 84,
-      "name": "Fuzz Tone",
+      "name": "Tone",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 85,
-      "name": "Fuzz Mix",
+      "name": "Mix",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 86,
-      "name": "Ring Freq",
+      "name": "Freq",
       "section": "Ring",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 87,
-      "name": "Ring Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 88,
-      "name": "Ring Mix",
+      "name": "Mix",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 89,
-      "name": "Crush Freq",
+      "name": "Freq",
       "section": "Crush",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 90,
-      "name": "Crush Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 91,
-      "name": "Crush Mix",
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
@@ -290,35 +291,35 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 36,
-      "name": "Wah",
+      "name": "Off/On",
       "section": "Wah",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 38,
-      "name": "Wah Mode",
+      "name": "Mode",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 39,
-      "name": "Wah Pedal",
+      "name": "Pedal",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 40,
-      "name": "Wah Rate",
+      "name": "Rate",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 41,
-      "name": "Wah Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 37,
-      "name": "Wah Model",
+      "name": "Model",
       "vflag": false
     }, {
       "autoname": true,
@@ -330,34 +331,34 @@
     [{
       "autoname": false,
       "id": 42,
-      "name": "Mod Mode",
+      "name": "Off/On",
       "section": "Mod Select",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 43,
-      "name": "Mod Mode",
+      "name": "Mode",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 92,
-      "name": "Chorus Rate",
-      "section": "Mod Phaser",
+      "name": "Rate",
+      "section": "Chorus",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 93,
-      "name": "Chorus Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 94,
-      "name": "Chorus Feedback",
+      "name": "Feedback",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 95,
-      "name": "Chorus Mix",
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
@@ -367,78 +368,78 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 96,
-      "name": "Flanger Rate",
-      "section": "Mod Flanger",
+      "name": "Rate",
+      "section": "Flanger",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 97,
-      "name": "Flanger Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 98,
-      "name": "Flanger Feedback",
+      "name": "Feedback",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 99,
-      "name": "Flanger Mix",
+      "name": "Mix",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 100,
-      "name": "Phaser Rate",
-      "section": "Mod Phaser",
+      "name": "Rate",
+      "section": "Phaser",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 101,
-      "name": "Phaser Depth",
+      "name": "Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 102,
-      "name": "Phaser Feedback",
+      "name": "Feedback",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 103,
-      "name": "Phaser Mix",
+      "name": "Mix",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 48,
-      "name": "Cab",
+      "name": "Off/On",
       "section": "Cabinet",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 49,
-      "name": "Cab Mode",
+      "name": "Mode",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 50,
-      "name": "Cab Bass",
+      "name": "Bass",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 51,
-      "name": "Cab Mid",
+      "name": "Mid",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 52,
-      "name": "Cab Treble",
+      "name": "Treble",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 108,
-      "name": "Cab Mix",
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
@@ -448,30 +449,30 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 104,
-      "name": "Reverb",
+      "name": "Off/On",
       "section": "Reverb",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 105,
-      "name": "Reverb Mode",
+      "name": "Mode",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 106,
-      "name": "Reverb Pre-Delay",
+      "name": "Pre-Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 107,
-      "name": "Reverb Time",
+      "name": "Time",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 53,
-      "name": "Reverb Mix",
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
@@ -484,35 +485,35 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 54,
-      "name": "Delay",
+      "name": "Off/On",
       "section": "Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 56,
-      "name": "Delay Grid",
+      "name": "Grid",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 57,
-      "name": "Delay Time",
+      "name": "Time",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 58,
-      "name": "Delay Feedback",
+      "name": "Feedback",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 59,
-      "name": "Delay Tone",
+      "name": "Tone",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 60,
-      "name": "Delay Mix",
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
