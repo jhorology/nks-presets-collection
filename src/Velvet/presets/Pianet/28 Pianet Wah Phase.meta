@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "86d9d670-2d98-4b70-baa1-0bd3c3c10bff",
+  "uuid": "ce072a48-0417-4cf0-9853-2398eacc1683",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "28 Pianet Wah Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

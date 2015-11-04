@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c90e9ff3-4103-42f2-b8d7-11dd087d4c50",
+  "uuid": "41d4637c-1a78-4cc1-9e24-a696ffd0912b",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "52 A200 Warm Flanger",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

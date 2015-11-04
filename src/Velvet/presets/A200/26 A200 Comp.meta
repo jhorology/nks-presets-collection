@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "900df1f4-4c0d-4b2c-be7e-5cce60347e81",
+  "uuid": "8f991e88-7514-463d-836c-f29d1c77a4e3",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "26 A200 Comp",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

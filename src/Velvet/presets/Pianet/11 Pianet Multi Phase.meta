@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "150a667d-c177-44e9-aa87-f0cef67e7445",
+  "uuid": "b3d6aa62-922c-4eb2-9e2b-6d596170edaf",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "11 Pianet Multi Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

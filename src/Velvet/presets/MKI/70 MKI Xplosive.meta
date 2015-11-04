@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "10e2a218-5564-4373-a3f3-8b9ed40455d0",
+  "uuid": "c4de091b-a107-4ebc-9c7e-0791d60a442c",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "70 MKI Xplosive",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a2ac1061-2dc5-4d7e-b405-07bfee03a7c1",
+  "uuid": "2f81f89f-8a43-486b-b0f8-c560c32192f2",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "47 A200 Powerful",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

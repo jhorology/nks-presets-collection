@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d50c461c-8504-43b9-9e35-32e5ea3dc88d",
+  "uuid": "41cb3258-4706-473e-9d10-cf9dd90e2bd8",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "06 A200 Tine Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

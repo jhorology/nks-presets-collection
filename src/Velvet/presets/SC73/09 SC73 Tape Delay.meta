@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "82d58f16-753e-4882-b823-cf87685cb9b2",
+  "uuid": "c54411b4-f9b3-4c11-bbc6-cbdea26697a9",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "09 SC73 Tape Delay",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

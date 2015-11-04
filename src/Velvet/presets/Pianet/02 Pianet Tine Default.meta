@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2138add9-4094-4f7f-882d-195fe0e42c7e",
+  "uuid": "781c31d2-38ae-421b-beef-2d6a39132d67",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "02 Pianet Tine Default",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

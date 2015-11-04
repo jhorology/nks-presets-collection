@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "41dbc355-e44a-4f3d-bc1f-a92409f5d087",
+  "uuid": "148768b9-b5cc-470c-bede-8684809a0eaf",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "45 SC73 Perky",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

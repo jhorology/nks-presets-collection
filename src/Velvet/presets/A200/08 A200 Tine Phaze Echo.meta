@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f0af379b-c85e-4adf-bc99-5fba505810c9",
+  "uuid": "eb8a7a38-de30-43f6-ac54-84e61cb704e5",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "08 A200 Tine Phaze Echo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

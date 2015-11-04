@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "627387cc-e0d3-442c-af59-b6e3ab30c939",
+  "uuid": "a95056f9-83a7-4c89-a171-e3a8c5987d9f",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "21 MKI Metal Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

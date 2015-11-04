@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "60d81f20-c4e7-4a71-aac5-1af67a6773bd",
+  "uuid": "c1f09734-902b-42d5-8360-68e4dd6cc243",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "19 MKI Daves",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

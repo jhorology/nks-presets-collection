@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d66b9bf0-1c69-46b4-a668-526fee0a1bcf",
+  "uuid": "b42658da-4e65-4b35-9863-2aeb89707dff",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "05 MKI Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

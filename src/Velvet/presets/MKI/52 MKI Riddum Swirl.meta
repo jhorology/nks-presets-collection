@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c3e0d242-e084-406d-9f90-6d503c55496d",
+  "uuid": "b4981b07-78f7-4986-9f7a-4c2cc59c7f24",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "52 MKI Riddum Swirl",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

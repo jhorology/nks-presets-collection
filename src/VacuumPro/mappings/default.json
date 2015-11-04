@@ -1,0 +1,660 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Volume Trim",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Bend Range",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Arp On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Arp Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Arp Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "Modulation Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "Modulation Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Modulation Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "Modulation Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "Delay Ping-Pong",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "Delay Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 11,
+      "name": "Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "Delay Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 13,
+      "name": "Delay Low Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "Delay High Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 15,
+      "name": "Delay Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 16,
+      "name": "A VTO 1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 17,
+      "name": "A VTO 1 Range",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 18,
+      "name": "A VTO 1 Quad",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "A VTO 1 Finetune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "A VTO 1 Env To Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "A VTO 1 Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "A VTO 1 Delay Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "A VTO 1 Quad Detune",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 24,
+      "name": "A VTO 2 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "A VTO 2 Range",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 26,
+      "name": "A VTO 2 Quad",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "A VTO 2 Finetune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "A VTO 2 Env To Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 29,
+      "name": "A VTO 2 Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 30,
+      "name": "A VTO 2 Delay Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 31,
+      "name": "A VTO 2 Quad Detune",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 32,
+      "name": "A Glide Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 33,
+      "name": "A Glide Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 34,
+      "name": "A Ringmodulation",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 35,
+      "name": "A VTO 1 Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 36,
+      "name": "A VTO 2 Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 37,
+      "name": "A Mix Drive",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 38,
+      "name": "A HPF Cutoff",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 39,
+      "name": "A HPF Resonance",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 40,
+      "name": "A HPF Slope",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 41,
+      "name": "A HPF Saturation",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 42,
+      "name": "A HPF Env Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 43,
+      "name": "A HPF Keytracking",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 44,
+      "name": "A Filter Routing",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 45,
+      "name": "A LPF Cutoff",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 46,
+      "name": "A LPF Resonance",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 47,
+      "name": "A LPF Slope",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 48,
+      "name": "A LPF Saturation",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 49,
+      "name": "A LPF Env Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 50,
+      "name": "A LPF Keytracking",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "A VTO Drift",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "A Age Dust",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "Part A On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 54,
+      "name": "A VTA Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 55,
+      "name": "A VTA Shape",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 56,
+      "name": "A VTA Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "A Env 1 Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "A Env 1 Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "A Env 1 Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 60,
+      "name": "A Env 1 Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "A Env 1 Velocity Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "A Env 3 Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "A Env 3 Decay",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 64,
+      "name": "A Env 3 Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 65,
+      "name": "A Env 3 Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 66,
+      "name": "A Env 3 Velocity Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 67,
+      "name": "A Env Retrigger",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 68,
+      "name": "A LFO 1 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 69,
+      "name": "A LFO 1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 70,
+      "name": "A LFO 1 Fade",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 71,
+      "name": "A LFO 1 Sync",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 72,
+      "name": "A LFO 2 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 73,
+      "name": "A LFO 2 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 74,
+      "name": "A LFO 2 Fade",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 75,
+      "name": "A LFO 2 Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 76,
+      "name": "A LFO 1 Destination",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 77,
+      "name": "A Mod 1 Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 78,
+      "name": "A Mod 2 Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 79,
+      "name": "A Mod 1 Depth",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 80,
+      "name": "A Mod 2 Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 81,
+      "name": "A Mod 1 Destination",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 82,
+      "name": "A Mod 2 Destination",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "A Velocity to Amp",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "A Velocity to HPF",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 85,
+      "name": "A Velocity to LPF",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 86,
+      "name": "A Unused 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 87,
+      "name": "A VTO 2 Sync",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 88,
+      "name": "A VTO 1 Delay Repitch",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 89,
+      "name": "A VTO 2 Delay Repitch",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 90,
+      "name": "A HPF Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 91,
+      "name": "A Env Select",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 92,
+      "name": "A Env 4 Start Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 93,
+      "name": "A Env 4 Attack Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 94,
+      "name": "A Env 4 Slope 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 95,
+      "name": "A Env 4 Slope 2",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 96,
+      "name": "A Env 4 Dest.",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "A Env 2 Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "A Env 2 Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "A Env 2 Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 100,
+      "name": "A Env 2 Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "A Env 2 Velocity Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 102,
+      "name": "A Bandpass",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 103,
+      "name": "A Part Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 104,
+      "name": "A Unused 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 105,
+      "name": "A Unused 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 106,
+      "name": "A Unused 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 107,
+      "name": "A Unused 5",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "A Unused 6",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 109,
+      "name": "A Unused 7",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 110,
+      "name": "B VTO 1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 111,
+      "name": "B VTO 1 Range",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 112,
+      "name": "B VTO 1 Quad",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 113,
+      "name": "B VTO 1 Finetune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 114,
+      "name": "B VTO 1 Env To Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 115,
+      "name": "B VTO 1 Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 116,
+      "name": "B VTO 1 Delay Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 117,
+      "name": "B VTO 1 Quad Detune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 118,
+      "name": "B VTO 2 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 119,
+      "name": "B VTO 2 Range",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 120,
+      "name": "B VTO 2 Quad",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 121,
+      "name": "B VTO 2 Finetune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 122,
+      "name": "B VTO 2 Env To Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 123,
+      "name": "B VTO 2 Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 124,
+      "name": "B VTO 2 Delay Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 125,
+      "name": "B VTO 2 Quad Detune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 126,
+      "name": "B Glide Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 127,
+      "name": "B Glide Mode",
+      "vflag": false
+    }]
+  ]
+}

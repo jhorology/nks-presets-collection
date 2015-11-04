@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "baa1a78e-a259-457f-ab4a-029fd59361bd",
+  "uuid": "ba302039-0f3a-42f9-92d8-ae4f5647a95d",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "58 Pianet Soft Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

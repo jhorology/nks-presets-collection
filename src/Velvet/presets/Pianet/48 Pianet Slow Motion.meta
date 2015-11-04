@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "505b5a50-51c9-4b27-ad5c-b30f7804719e",
+  "uuid": "ab0d2d8d-d5be-473d-851c-e47dc4a2d67e",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "48 Pianet Slow Motion",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

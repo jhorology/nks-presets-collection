@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2bdd978e-d577-43e5-a776-ee213cf388ee",
+  "uuid": "a3759fc7-a93d-4d43-ae20-49879e45ff53",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "18 Pianet Solo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

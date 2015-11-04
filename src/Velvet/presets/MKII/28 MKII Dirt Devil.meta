@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ffd8594f-499f-41f2-93d8-91b098be239c",
+  "uuid": "a0ef0916-559e-42fa-9844-5e4b72c1b796",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "28 MKII Dirt Devil",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

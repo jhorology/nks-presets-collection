@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "23b28bd2-a720-4400-9d7c-75910f968d42",
+  "uuid": "25d1369e-c66b-4f30-b5a4-2f26bd63c559",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "15 A200 Clean Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

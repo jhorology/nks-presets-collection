@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8405a467-07bb-4c27-bf5e-ad9159f60b49",
+  "uuid": "1ace1c8f-8747-4c18-ad37-debf5dac33d1",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "35 SC73 The Answer",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

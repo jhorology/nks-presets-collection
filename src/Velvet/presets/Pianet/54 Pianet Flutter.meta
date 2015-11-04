@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "708a06ce-6152-4fa4-b8ab-f87cdc6af568",
+  "uuid": "b7dc6055-609b-4147-8bb6-b4bfe07d617d",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "54 Pianet Flutter",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

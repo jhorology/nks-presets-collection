@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "385f7671-f26e-4755-8667-ab452b93c77b",
+  "uuid": "a1297c8c-aef5-4b2d-b231-7a455b30706d",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "65 SC73 Cold Turkey",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

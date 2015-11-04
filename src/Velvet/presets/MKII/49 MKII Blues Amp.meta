@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9775be70-ad7d-4700-bc53-50c9a9fb172e",
+  "uuid": "d70fcf14-4ce1-456e-b00d-b99a6e29ae5f",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "49 MKII Blues Amp",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

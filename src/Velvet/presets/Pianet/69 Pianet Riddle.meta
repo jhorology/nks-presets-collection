@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "413f37b2-32ed-41f1-a544-45f231f58935",
+  "uuid": "577e7c53-6030-4268-b142-995a40a3039f",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "69 Pianet Riddle",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

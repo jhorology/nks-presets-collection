@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a8d04900-d8c5-478d-8dce-66771df1f62c",
+  "uuid": "3c0cac3e-9bb8-4390-826e-2f58a003c4ea",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "29 MKII Dirty Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

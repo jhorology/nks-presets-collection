@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c69d73a5-a459-4aea-a5b9-4636dd9d37ec",
+  "uuid": "e8c25a33-7d7e-4810-9b16-c8408211c014",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "62 SC73 Taped",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

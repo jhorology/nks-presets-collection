@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "333124d0-a7fc-4ac1-87d2-f4d79ff31066",
+  "uuid": "b5ef031c-9f4d-429f-bba3-f206051aad23",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "59 MKII Flanger Embedded",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

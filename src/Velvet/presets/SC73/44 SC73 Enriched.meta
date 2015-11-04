@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "33fb5bda-b3ef-4f67-9b99-5c1b90d1cf25",
+  "uuid": "8c64ad7c-77f0-494d-be6e-29580f6b16fa",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "44 SC73 Enriched",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

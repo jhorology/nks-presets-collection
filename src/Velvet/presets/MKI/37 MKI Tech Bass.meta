@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1904a714-b540-4c51-a21a-0c561d14d8e9",
+  "uuid": "a481474a-beb5-48d2-9583-bf784cfea9ff",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "37 MKI Tech Bass",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

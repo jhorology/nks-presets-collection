@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fa6c818b-8952-4ec1-b03a-5ba52f47c9c9",
+  "uuid": "5381b80b-7174-42bc-9767-473b933341ca",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "64 A200 Mellow Fuzz",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

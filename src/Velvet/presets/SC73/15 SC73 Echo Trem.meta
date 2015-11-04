@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "931c28a0-9628-4b6c-8d48-c0b98e5223d3",
+  "uuid": "0d3ab133-73bd-4b93-a390-8756a509f325",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "15 SC73 Echo Trem",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

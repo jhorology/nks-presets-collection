@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bd98d116-35d8-449a-92cd-76795ea9837b",
+  "uuid": "ff365128-6285-477a-8687-6517d424df52",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "53 MKII Green Flower",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "09f3a352-8185-459b-879b-72588736ba7b",
+  "uuid": "61feb748-f264-4ac8-b33c-579442bf44bf",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "69 MKI Wah Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

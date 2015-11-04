@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b9816f82-b63f-426c-a5dc-4c8cea46c65c",
+  "uuid": "793ce38b-cded-4877-804b-b8755e7fb0f4",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "17 SC73 Bright Radio",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

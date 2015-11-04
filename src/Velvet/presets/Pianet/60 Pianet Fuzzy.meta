@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "13017411-04c8-4715-aca5-65b1f0a0c19b",
+  "uuid": "5e94932e-55f8-4909-a927-b2e2a0bb154e",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "60 Pianet Fuzzy",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0958b81c-0046-4049-81af-c09f01980493",
+  "uuid": "ffcc8917-c45a-4f0f-bb69-4542e1c2540b",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "04 MKII Tine Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

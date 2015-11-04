@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "820d0823-f21c-44c1-b6a0-f2eb5f485b57",
+  "uuid": "3e19943a-04a4-43cd-a516-30a927c41104",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "59 A200 Full Fuzzed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

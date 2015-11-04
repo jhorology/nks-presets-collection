@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3f1bcf8e-0ff2-41be-9c1b-23f1a06fb77b",
+  "uuid": "e1f806e4-843e-425f-b6d8-b46ed2e5339a",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "01 SC73 Default",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

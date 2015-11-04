@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fff834bd-28a9-431c-b4c6-ca870c71744b",
+  "uuid": "2317115d-4e3b-4b07-8c36-d87ce49880bc",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "14 A200 Vib-Mu-Plex",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9fa1b884-87ca-4277-9adb-2df8b999d967",
+  "uuid": "79735b55-3559-454a-92b3-457c3ec3507d",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "42 Pianet Compressed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

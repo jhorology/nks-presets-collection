@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9500ba72-d017-4a91-ae55-bab2231520d2",
+  "uuid": "a5314fae-a4d3-4cc8-a3ca-9dc17b303ed1",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "44 MKI Rhythmic Phaze",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

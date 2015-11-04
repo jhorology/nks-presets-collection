@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3770b19d-cb51-4693-b39e-268f244abfd5",
+  "uuid": "275349dc-f827-4d70-8988-987a5708ab87",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "64 MKII Vintage Flavor",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

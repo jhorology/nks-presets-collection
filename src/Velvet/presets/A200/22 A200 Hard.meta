@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "17077d21-8cca-401b-8325-02ccfbe9da46",
+  "uuid": "8ca12b59-8a4f-4e7f-b9c9-f9914909b9d5",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "22 A200 Hard",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bd016bc6-2bc0-47d0-a202-a93fed6d2423",
+  "uuid": "c880e07b-a57f-4855-b30e-79f3a432139d",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "12 MKI Tine Echo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

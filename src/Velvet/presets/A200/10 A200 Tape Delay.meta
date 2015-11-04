@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "493816c4-0615-44e2-bc56-d2b01c2bf72d",
+  "uuid": "1fbbd83c-c39c-4572-8f39-04fa0e76ad12",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "10 A200 Tape Delay",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

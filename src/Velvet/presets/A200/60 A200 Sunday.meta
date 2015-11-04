@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f6136b4b-efab-4e22-a0c8-ad341805a2fe",
+  "uuid": "f2125488-469e-418c-a680-e1523f0b1206",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "60 A200 Sunday",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

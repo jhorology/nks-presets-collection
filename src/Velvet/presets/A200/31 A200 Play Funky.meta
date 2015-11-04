@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ab9b1f5e-54d4-4ac0-9b9d-8de54a921043",
+  "uuid": "ba73eecd-6f1b-4f1a-8809-0085dc4cab79",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "31 A200 Play Funky",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

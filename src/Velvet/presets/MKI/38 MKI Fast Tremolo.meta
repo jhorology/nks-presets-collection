@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1a74c3bf-9071-4e68-bb1e-244f239ca57e",
+  "uuid": "ccabd5d3-742d-4974-88f0-6b8ef13f3277",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "38 MKI Fast Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

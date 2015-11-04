@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "56d6f5d6-f3c4-4f37-b524-295b05ebff83",
+  "uuid": "803a47a8-11c3-4028-9f33-be9e0aa4e372",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "53 Pianet Bass",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

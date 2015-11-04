@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "adf0deec-8553-474c-8ff5-29e4d07de023",
+  "uuid": "c1e3315b-2fb6-4fc4-96d9-91d4ad27b0de",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "59 SC73 Stratosphere",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

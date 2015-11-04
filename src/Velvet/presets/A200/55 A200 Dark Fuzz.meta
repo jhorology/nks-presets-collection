@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b594702c-a14f-42d1-9a5a-f63a3422383b",
+  "uuid": "ee068407-e418-4446-94cf-8e9752f57ccd",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "55 A200 Dark Fuzz",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

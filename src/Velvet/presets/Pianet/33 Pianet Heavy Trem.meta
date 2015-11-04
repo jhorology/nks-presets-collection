@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a0dd8487-0165-482f-91e5-a5a3438b1551",
+  "uuid": "c709c273-d14c-4b77-ac37-fb15ae9b5406",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "33 Pianet Heavy Trem",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

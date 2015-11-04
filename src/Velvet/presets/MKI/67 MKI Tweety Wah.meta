@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "98e9e43d-45f7-44d1-8fd7-186203d06a2f",
+  "uuid": "3d46456b-ac5b-482b-9d0e-b25de45b9cb1",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "67 MKI Tweety Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

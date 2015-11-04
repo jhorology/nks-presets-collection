@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "862f724c-af9c-4d46-a418-a4056d5aed65",
+  "uuid": "372fc5a7-389f-4fe9-926b-4c908fc3eced",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "52 Pianet Wah Comp",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

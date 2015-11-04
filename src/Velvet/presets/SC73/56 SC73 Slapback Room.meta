@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "974c17b6-0308-4d4e-8687-a8c794fc54b3",
+  "uuid": "3e8ea8af-2a26-4d2b-9649-a8b763f37f5f",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "56 SC73 Slapback Room",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

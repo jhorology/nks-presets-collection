@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3731e143-97c5-49c9-956f-5fa86ea68c29",
+  "uuid": "0e2028b4-6f1b-4337-a621-b2b879db14ed",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "53 MKI Hard Play",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

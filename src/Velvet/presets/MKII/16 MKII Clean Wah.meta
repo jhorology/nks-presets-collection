@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5e0266f0-30a9-479f-a904-f9f835c567ab",
+  "uuid": "063af0b5-413e-4f15-8c53-b4961f40a174",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "16 MKII Clean Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

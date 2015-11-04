@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1137c481-aa7e-4d0b-9cf5-dad062dd211e",
+  "uuid": "5cf9517c-06d3-4624-8855-1ee4b52f4507",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "41 MKI Atmosphere",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

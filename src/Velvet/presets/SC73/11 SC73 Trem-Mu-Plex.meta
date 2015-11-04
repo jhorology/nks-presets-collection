@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e89c96db-6e88-4cb3-a78c-075cb58ca127",
+  "uuid": "e82edb00-df3f-47eb-b6e6-74a64b024711",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "11 SC73 Trem-Mu-Plex",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

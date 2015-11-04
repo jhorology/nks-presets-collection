@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "034f5150-75f5-44d2-8538-95b9c11249f7",
+  "uuid": "2a2c2dba-fc7e-4cf2-a120-ec9692153c43",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "50 MKI Evolving",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "23bee271-f110-41f7-a8fe-93797da75cd4",
+  "uuid": "18b9c2a1-8453-4adb-9048-7d6837b908ea",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "32 A200 No Power-Next door",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

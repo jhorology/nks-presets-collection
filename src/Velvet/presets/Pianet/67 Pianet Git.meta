@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0ed20990-e062-49a2-baa5-f8afb63a29bd",
+  "uuid": "b2672ae3-d6db-4d55-be37-0cf08f7fa2aa",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "67 Pianet Git",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ada097db-bdfe-4f03-9bea-f4a4e0c21802",
+  "uuid": "ed1e6ef8-9445-4538-9b0b-e56d48163362",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "11 MKII Dyno",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

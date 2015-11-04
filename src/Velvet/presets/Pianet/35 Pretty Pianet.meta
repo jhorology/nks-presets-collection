@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b1aa521c-f9fc-4d5b-803a-d897799d6bb1",
+  "uuid": "ab34d1ef-cc27-4400-8b1d-88c1a69434d5",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "35 Pretty Pianet",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

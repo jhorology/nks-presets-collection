@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e340ec7c-d858-4cff-a78f-697fc14a5371",
+  "uuid": "ad820174-f450-4617-b9f5-5d7ffc85b9df",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "54 SC73 Psycho Vibes",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

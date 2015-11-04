@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "490d0ebc-718f-4802-94d8-a68d6c62335f",
+  "uuid": "29a9c132-38dd-457c-8548-366345a4ad20",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "33 MKII Hard Flange",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

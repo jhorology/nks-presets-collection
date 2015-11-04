@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e6139e7c-a96d-4915-8f59-73d235d28f7d",
+  "uuid": "c9149392-4049-4e65-8cc1-50d152e6e0d2",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "47 MKII Warm Pad",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

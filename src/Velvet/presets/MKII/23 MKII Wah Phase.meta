@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aa328e55-1e5b-4cd6-9012-9779daeb988f",
+  "uuid": "493f7ae2-1572-4484-bc18-0f98103cfd4a",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "23 MKII Wah Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

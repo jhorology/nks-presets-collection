@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fb7d0847-7e6a-4abd-8693-e03c9ce45088",
+  "uuid": "4209be44-1bdc-4153-b582-dde6239dc46f",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "23 Pianette",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

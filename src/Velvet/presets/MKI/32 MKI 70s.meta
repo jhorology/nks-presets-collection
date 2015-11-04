@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6696a1c9-a069-4b86-b099-0e49c036aa7f",
+  "uuid": "a95a2972-c0c2-4855-ba9d-4049130b0ce6",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "32 MKI 70s",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

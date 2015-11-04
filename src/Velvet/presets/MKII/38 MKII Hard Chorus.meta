@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cf73f1bb-2312-4c74-9b86-cba7538f2c01",
+  "uuid": "516fce2b-dd50-489b-8d04-04ef467c0e40",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "38 MKII Hard Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

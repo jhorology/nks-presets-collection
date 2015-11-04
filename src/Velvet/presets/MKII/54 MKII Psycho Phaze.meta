@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "434c158f-f8e5-4578-9219-36a1db99d1a3",
+  "uuid": "5d99b9f2-a6d3-478d-9f31-b0939fccf2fc",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "54 MKII Psycho Phaze",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4087a239-2317-46f9-8b03-aa10bfe2f210",
+  "uuid": "ebf3847a-4d4b-47ef-9c8a-5d7c81c02121",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "66 MKI Sustaining Fuzz",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

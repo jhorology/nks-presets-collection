@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7572e6aa-ac27-4bc3-b7f3-09ad80adf539",
+  "uuid": "b075de75-5eb1-477a-acb6-53b2a52896f6",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "56 Pianet Sizzle",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

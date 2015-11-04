@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9a820b89-d513-4d33-9fc0-b9b2f6eda9f4",
+  "uuid": "9c6471ec-fc29-4348-8286-5a4a4c1c38a2",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "35 MKI Spring",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

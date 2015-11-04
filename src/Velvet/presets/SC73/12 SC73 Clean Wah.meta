@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "793b2a89-6329-4f2d-9c6e-6d1a71bcdac8",
+  "uuid": "46184d29-1e7b-40a5-84b7-fe82a6ea9f3c",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "12 SC73 Clean Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

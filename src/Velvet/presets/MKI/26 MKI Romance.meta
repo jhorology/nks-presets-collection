@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "57d83ca0-57ec-4c5d-9495-b36da24c8956",
+  "uuid": "7339a2ea-a106-4091-8703-fb01f2fe8682",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "26 MKI Romance",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

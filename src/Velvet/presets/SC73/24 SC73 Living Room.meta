@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6819ecf8-f931-4021-8b8b-5ebd45ba4e0a",
+  "uuid": "0784dd2e-51a9-4350-92fa-51e9dc54043c",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "24 SC73 Living Room",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

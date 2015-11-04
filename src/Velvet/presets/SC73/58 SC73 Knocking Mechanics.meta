@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "89be4002-099e-42ae-8d64-d85a849409cf",
+  "uuid": "28fc4eb1-0cc1-4230-9a9e-bc1521edced3",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "58 SC73 Knocking Mechanics",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

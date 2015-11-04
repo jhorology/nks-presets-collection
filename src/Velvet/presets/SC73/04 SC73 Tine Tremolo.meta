@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "28601b12-dffa-4924-a8ac-f40d3e08eaf3",
+  "uuid": "5bbc0c13-706a-48a2-9950-151ebed414a5",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "04 SC73 Tine Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

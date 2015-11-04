@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "12a93a77-e87d-4006-9829-545e05280cb3",
+  "uuid": "ba0469aa-615b-468b-9da1-dbc6cbe78e81",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "13 MKII Feedback Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

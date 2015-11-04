@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "13887318-4053-43ab-8ea3-f1c7f8bebdc6",
+  "uuid": "8f1e764a-6049-4d5f-82a5-b9c04ad5db88",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "11 A200 Compressed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4567f1e1-d078-431d-b762-ac0506f0b8cc",
+  "uuid": "c640b710-c95c-49ff-bbd4-b102e9b13ec2",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "06 MKII Tine Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

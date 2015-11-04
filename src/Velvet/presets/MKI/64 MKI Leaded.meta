@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "64836fe0-2ae8-468e-9cdc-8aca090999fd",
+  "uuid": "ff706fb3-363e-4de4-bbb7-359d2830a651",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "64 MKI Leaded",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

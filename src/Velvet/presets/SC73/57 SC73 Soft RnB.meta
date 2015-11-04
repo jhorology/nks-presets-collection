@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "13c9251d-ccfd-4dd5-8ea5-c7e9ba7fa6e5",
+  "uuid": "a5a04a2a-319a-44c0-b793-9945b510a069",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "57 SC73 Soft RnB",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

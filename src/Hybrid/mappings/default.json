@@ -1,0 +1,660 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Unison Voices",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Unison Detune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Unison Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Pitch Bend Range",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Key Split point",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "PartA Enable",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "PartA Unison On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "PartA Voice Mode",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "PartA Voice Limit",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "PartA Portamento Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "PartA Envelope Trigger",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 11,
+      "name": "PartA Octave",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "PartA Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 13,
+      "name": "PartA Pitch Bend",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "PartA Porta Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 15,
+      "name": "PartA Pitch Mod Src",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 16,
+      "name": "PartA Pitch Mod Lev",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 17,
+      "name": "PartA Chorus Send",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 18,
+      "name": "PartA Delay Send",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "PartA Reverb Send",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "PartA SSeq Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "PartA Phrase Select",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "PartA SSeq Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "PartA SSeq Sync",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 24,
+      "name": "PartA SSeq Latch",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "PartA SSeq Octave",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 26,
+      "name": "PartA SSeq Step",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "PartA SSeq Gate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "PartA SSeq Swing",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 29,
+      "name": "PartA Gate 01",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 30,
+      "name": "PartA Gate 02",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 31,
+      "name": "PartA Gate 03",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 32,
+      "name": "PartA Gate 04",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 33,
+      "name": "PartA Gate 05",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 34,
+      "name": "PartA Gate 06",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 35,
+      "name": "PartA Gate 07",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 36,
+      "name": "PartA Gate 08",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 37,
+      "name": "PartA Gate 09",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 38,
+      "name": "PartA Gate 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 39,
+      "name": "PartA Gate 11",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 40,
+      "name": "PartA Gate 12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 41,
+      "name": "PartA Gate 13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 42,
+      "name": "PartA Gate 14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 43,
+      "name": "PartA Gate 15",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 44,
+      "name": "PartA Gate 16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 45,
+      "name": "PartA Note 01",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 46,
+      "name": "PartA Note 02",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 47,
+      "name": "PartA Note 03",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 48,
+      "name": "PartA Note 04",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 49,
+      "name": "PartA Note 05",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 50,
+      "name": "PartA Note 06",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "PartA Note 07",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "PartA Note 08",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "PartA Note 09",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 54,
+      "name": "PartA Note 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 55,
+      "name": "PartA Note 11",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 56,
+      "name": "PartA Note 12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "PartA Note 13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "PartA Note 14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "PartA Note 15",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 60,
+      "name": "PartA Note 16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "PartA Velocity 01",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "PartA Velocity 02",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "PartA Velocity 03",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 64,
+      "name": "PartA Velocity 04",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 65,
+      "name": "PartA Velocity 05",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 66,
+      "name": "PartA Velocity 06",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 67,
+      "name": "PartA Velocity 07",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 68,
+      "name": "PartA Velocity 08",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 69,
+      "name": "PartA Velocity 09",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 70,
+      "name": "PartA Velocity 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 71,
+      "name": "PartA Velocity 11",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 72,
+      "name": "PartA Velocity 12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 73,
+      "name": "PartA Velocity 13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 74,
+      "name": "PartA Velocity 14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 75,
+      "name": "PartA Velocity 15",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 76,
+      "name": "PartA Velocity 16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 77,
+      "name": "PartA CtrlSeq1 01",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 78,
+      "name": "PartA CtrlSeq1 02",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 79,
+      "name": "PartA CtrlSeq1 03",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 80,
+      "name": "PartA CtrlSeq1 04",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 81,
+      "name": "PartA CtrlSeq1 05",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 82,
+      "name": "PartA CtrlSeq1 06",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "PartA CtrlSeq1 07",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "PartA CtrlSeq1 08",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 85,
+      "name": "PartA CtrlSeq1 09",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 86,
+      "name": "PartA CtrlSeq1 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 87,
+      "name": "PartA CtrlSeq1 11",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 88,
+      "name": "PartA CtrlSeq1 12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 89,
+      "name": "PartA CtrlSeq1 13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 90,
+      "name": "PartA CtrlSeq1 14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 91,
+      "name": "PartA CtrlSeq1 15",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 92,
+      "name": "PartA CtrlSeq1 16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 93,
+      "name": "PartA CtrlSeq2 01",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 94,
+      "name": "PartA CtrlSeq2 02",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 95,
+      "name": "PartA CtrlSeq2 03",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 96,
+      "name": "PartA CtrlSeq2 04",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "PartA CtrlSeq2 05",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "PartA CtrlSeq2 06",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "PartA CtrlSeq2 07",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 100,
+      "name": "PartA CtrlSeq2 08",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "PartA CtrlSeq2 09",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 102,
+      "name": "PartA CtrlSeq2 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 103,
+      "name": "PartA CtrlSeq2 11",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 104,
+      "name": "PartA CtrlSeq2 12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 105,
+      "name": "PartA CtrlSeq2 13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 106,
+      "name": "PartA CtrlSeq2 14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 107,
+      "name": "PartA CtrlSeq2 15",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "PartA CtrlSeq2 16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 109,
+      "name": "PartA CtrlSeq1 Mod Src",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 110,
+      "name": "PartA CtrlSeq1 Mod Lev",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 111,
+      "name": "PartA CtrlSeq2 Mod Src",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 112,
+      "name": "PartA CtrlSeq2 Mod Lev",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 113,
+      "name": "PartA Oscillator1 Wavetable",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 114,
+      "name": "PartA Oscillator1 Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 115,
+      "name": "PartA Oscillator1 Semi",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 116,
+      "name": "PartA Oscillator1 Cent",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 117,
+      "name": "PartA Oscillator1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 118,
+      "name": "PartA Oscillator1 Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 119,
+      "name": "PartA Oscillator1 Mod Dest1",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 120,
+      "name": "PartA Oscillator1 Mod Dest2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 121,
+      "name": "PartA Oscillator1 Mod Dest3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 122,
+      "name": "PartA Oscillator1 Mod Src1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 123,
+      "name": "PartA Oscillator1 Mod Src2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 124,
+      "name": "PartA Oscillator1 Mod Src3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 125,
+      "name": "PartA Oscillator1 Mod Lev1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 126,
+      "name": "PartA Oscillator1 Mod Lev2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 127,
+      "name": "PartA Oscillator1 Mod Lev3",
+      "vflag": false
+    }]
+  ]
+}

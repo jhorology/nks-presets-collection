@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "08d21ae9-660d-4638-b54a-971fd8dc3b1a",
+  "uuid": "c7403f07-9240-40b9-b6c4-1118532572be",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "51 Wooden Pianet",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

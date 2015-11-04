@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cd9ff01a-4e4e-4639-9123-3d9d14491059",
+  "uuid": "5c96c716-0646-41c8-9dee-892cf3dc4fb5",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "69 SC73 Fixed Wah Twang",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

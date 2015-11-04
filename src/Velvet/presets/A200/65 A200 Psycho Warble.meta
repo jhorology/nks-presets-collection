@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "986abb3c-3eb4-43e5-be00-763983559222",
+  "uuid": "cf5af5ab-cec9-4ef5-b0ad-f258fa0a39b6",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "65 A200 Psycho Warble",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

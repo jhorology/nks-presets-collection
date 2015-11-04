@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4423be03-41de-48a3-a2af-4e7bc4b35aeb",
+  "uuid": "77de6dfb-a006-436c-8261-05807b12dfa8",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "52 MKII The Duke",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

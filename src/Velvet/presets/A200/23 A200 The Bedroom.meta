@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "993ca13c-7331-4b0e-8d50-934e060b0b8c",
+  "uuid": "9ca53fec-10af-40b1-a9ab-988ec558b105",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "23 A200 The Bedroom",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

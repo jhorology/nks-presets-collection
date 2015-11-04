@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "718b8dee-a8f0-4390-8b4d-712ba8099635",
+  "uuid": "3d8f8981-67bf-4575-b44d-e07b7334345e",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "33 MKI Woody Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

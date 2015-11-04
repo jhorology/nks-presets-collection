@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "351e464a-3ecc-43c4-961f-254851451cbc",
+  "uuid": "8107cb0f-ef0d-4ce0-858b-23b1b4c13189",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "07 Pia Nett",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

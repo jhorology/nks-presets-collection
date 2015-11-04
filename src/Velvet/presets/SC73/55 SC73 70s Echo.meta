@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "86e7cdf9-b974-4cce-acab-f9434f6672c7",
+  "uuid": "87919d36-5452-4ec6-8206-609e7976a9e7",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "55 SC73 70s Echo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

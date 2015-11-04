@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5b51a630-ae91-40ac-bf4d-ed142b03db62",
+  "uuid": "eef46080-c19b-4c3f-ae04-fcf944c22f5c",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "46 A200 Thoughtful",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4fd1ef86-040d-45d0-b949-eeda2e925697",
+  "uuid": "9b4bcb84-0a03-4d49-afe6-c13bcb9fff1b",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "25 MKII Woody",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

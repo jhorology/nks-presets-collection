@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "408bda1c-7ec7-4ad2-81c4-3df6bc9da930",
+  "uuid": "1f596b78-f52c-4c6f-b861-104284cb0954",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "47 MKI Amplified Moods",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

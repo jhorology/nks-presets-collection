@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9997581b-10aa-43ea-82ee-4ea8e0cba640",
+  "uuid": "8e320548-1bd0-43c3-a95d-af50134fa554",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "57 MKI Slow Auto Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

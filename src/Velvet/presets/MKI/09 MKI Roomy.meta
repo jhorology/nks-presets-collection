@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5db66967-bf9d-4be1-ba59-8f0fa1dcca6c",
+  "uuid": "f10d3a92-cb3d-4dc3-a902-acfe39d48f67",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "09 MKI Roomy",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

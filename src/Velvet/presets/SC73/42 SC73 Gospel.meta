@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aaa53cde-5f55-4072-b410-0922995f4c76",
+  "uuid": "ea72bf43-5a6f-4545-adf5-0feaef455999",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "42 SC73 Gospel",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

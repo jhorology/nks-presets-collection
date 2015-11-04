@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "afacaf31-f8c4-4cba-ae05-14af1a4e8bf8",
+  "uuid": "1d52c87e-9efb-4b86-a23a-d19bfe3e63cb",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "40 MKI Distorted",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

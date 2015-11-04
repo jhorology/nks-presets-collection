@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8eadce68-e8b7-4a08-8a00-71a9c10850e0",
+  "uuid": "6bb57784-666f-46a0-9344-e2ad95ef6492",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "58 MKII Fat Mechanic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

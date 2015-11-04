@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "789a0045-6d45-4e1e-b836-259263ab6c53",
+  "uuid": "d85c7600-3781-41c4-a6bd-a02ca9e78232",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "39 MKII Rock Hard",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

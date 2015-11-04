@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "93c9481c-4dd6-4327-9ee9-167b6fe09c96",
+  "uuid": "ac6565c0-82d3-4ba3-a15b-b8b33a7f2b42",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "67 MKII Moon Base",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

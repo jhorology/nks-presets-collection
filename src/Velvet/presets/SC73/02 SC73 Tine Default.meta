@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "10d8a4ad-27f7-47fa-83cf-2e42c8102804",
+  "uuid": "9cc0d6f2-30c9-484a-83c1-1deabb54c9b0",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "02 SC73 Tine Default",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8b0411ed-8f37-4ab3-9069-6f2c331f5704",
+  "uuid": "6feb412f-26ba-4df2-afb7-baf4f58061ff",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "36 A200 60s Amped",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

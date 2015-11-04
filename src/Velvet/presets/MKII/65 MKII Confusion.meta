@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "70ae743a-dee4-449c-a6cb-de5575a7a7f5",
+  "uuid": "d6ead516-a03e-46a8-9fab-7efb645f2d43",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "65 MKII Confusion",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "19c39865-ba8a-412e-af9c-4261c76bf639",
+  "uuid": "735c71c5-2cb4-42ba-971b-de446f2336eb",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "59 MKI Sweepy Flanger",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "847679f3-25ce-40e6-80c6-57ef8920c171",
+  "uuid": "2a5e8e04-3d66-4c94-b288-08df47737993",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "24 MKII Operator",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

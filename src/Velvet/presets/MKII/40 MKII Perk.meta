@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "de8052fc-8459-4a89-aeed-0a979465f196",
+  "uuid": "dcbaef68-85d1-4623-9567-6354f92d721a",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "40 MKII Perk",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

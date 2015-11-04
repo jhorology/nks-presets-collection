@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "32ec474d-0121-4a34-8bfd-c3fe3e9e43b1",
+  "uuid": "ff62406a-7f3c-4efc-8f5f-dc4c19cc95c0",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "06 SC73 Tine Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

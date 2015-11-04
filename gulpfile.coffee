@@ -10,18 +10,26 @@ extract     = require 'gulp-riff-extractor'
 rewrite     = require 'gulp-nks-rewrite-meta'
 changed     = require 'gulp-changed'
 data        = require 'gulp-data'
+exec        = require 'gulp-exec'
 nks         = require 'nks-json'
 builder     = require './lib/riff-builder'
 beautify    = require 'js-beautify'
 uuid        = require 'uuid'
 
-# paths, misc settings
 $ =
   #
-  # distribution
+  # buld environment & misc settings
   #-------------------------------------------
   pub: "#{process.env.HOME}/Dropbox/Share/NKS"
   json_indent: 2
+  # gulp-exec options
+  execOpts:
+    continueOnError: false # default = false, true means don't emit error event
+    pipeStdout: false      # default = false, true means stdout is written to file.contents
+  execReportOpts:
+    err: true              # default = true, false means don't write err
+    stderr: true           # default = true, false means don't write stderr
+    stdout: true           # default = true, false means don't write stdout
 
   #
   # Native Instruments
@@ -33,7 +41,8 @@ $ =
   # Bitwig Studio
   #-------------------------------------------
   Bitwig:
-    presets: "#{process.env.HOME}/Bitwig Studio/Library/Presets"
+    presets: "#{process.env.HOME}/Documents/Bitwig Studio/Library/Presets"
+
   #
   # Air Music Technology Velvet
   #-------------------------------------------
@@ -42,6 +51,60 @@ $ =
     vendor: 'Air Music Technology'
     PLID:
       "VST.magic": "tvlV"
+  #
+  # Air Music Technology Xpand!2
+  #-------------------------------------------
+  Xpand2:
+    dir: 'Xpand!2'
+    vendor: 'Air Music Technology'
+    PLID:
+      "VST.magic": "2dpX"
+      
+  #
+  # Air Music Technology Loom
+  #-------------------------------------------
+  Loom:
+    dir: 'Loom'
+    vendor: 'Air Music Technology'
+    PLID:
+      "VST.magic": "mooL"
+      
+  #
+  # Air Music Technology Hybrid
+  #-------------------------------------------
+  Hybrid:
+    dir: 'Hybrid'
+    vendor: 'Air Music Technology'
+    PLID:
+      "VST.magic": "drbH"
+      
+  #
+  # Air Music Technology Vacuum Pro
+  #-------------------------------------------
+  VacuumPro:
+    dir: 'VacuumPro'
+    vendor: 'Air Music Technology'
+    PLID:
+      "VST.magic": "rPcV"
+      
+  #
+  # Air Music Technology Vacuum Pro
+  #-------------------------------------------
+  theRiser:
+    dir: 'theRiser'
+    vendor: 'Air Music Technology'
+    PLID:
+      "VST.magic": "rsRt"
+      
+  #
+  # Reveal Sound Spire
+  #-------------------------------------------
+  Spire:
+    dir: 'Spire'
+    vendor: 'Reveal Sound'
+    PLID:
+      "VST.magic": "Spir"
+      
   #
   # Xfer Records Serum
   #-------------------------------------------
@@ -145,7 +208,7 @@ gulp.task 'velvet-generate-meta', ->
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Velvet', folder, '']
+        bankchain: ['Velvet', 'Velvet Factory', folder]
         author: ''
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
@@ -200,6 +263,298 @@ gulp.task 'velvet-deploy-presets', ->
 
 # ---------------------------------------------------------------
 # end Air Music Technology Velvet
+#
+
+
+# ---------------------------------------------------------------
+# Air Music Technology Xpand!2
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Xpand!2  2.2.4.18852
+#  - recycle bitwig presets. https://github.com/jhorology/Xpand2Pack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'xpand2-print-default-meta', ->
+  _print_default_meta $.Xpand2.dir
+
+# print mapping of _Default.nksf
+gulp.task 'xpand2-print-default-mapping', ->
+  _print_default_mapping $.Xpand2.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'xpand2-print-plid', ->
+  _print_plid $.Xpand2.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'xpand2-generate-default-mapping', ->
+  _generate_default_mapping $.Xpand2.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'xpand2-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.Xpand2.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.Xpand2.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Air Music Technology Xpand!2
+#
+
+# ---------------------------------------------------------------
+# Air Music Technology Loom
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Loom  1.0.3.18538
+#  - recycle bitwig presets. https://github.com/jhorology/LoomPack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'loom-print-default-meta', ->
+  _print_default_meta $.Loom.dir
+
+# print mapping of _Default.nksf
+gulp.task 'loom-print-default-mapping', ->
+  _print_default_mapping $.Loom.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'loom-print-plid', ->
+  _print_plid $.Loom.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'loom-generate-default-mapping', ->
+  _generate_default_mapping $.Loom.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'loom-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.Loom.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.Loom.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Air Music Technology Loom
+#
+
+# ---------------------------------------------------------------
+# Air Music Technology Hybrid
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Hybrid  3.0.0.18468
+#  - recycle bitwig presets. https://github.com/jhorology/HybridPack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'hybrid-print-default-meta', ->
+  _print_default_meta $.Hybrid.dir
+
+# print mapping of _Default.nksf
+gulp.task 'hybrid-print-default-mapping', ->
+  _print_default_mapping $.Hybrid.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'hybrid-print-plid', ->
+  _print_plid $.Hybrid.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'hybrid-generate-default-mapping', ->
+  _generate_default_mapping $.Hybrid.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'hybrid-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.Hybrid.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.Hybrid.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Air Music Technology Hybrid
+#
+
+
+# ---------------------------------------------------------------
+# Air Music Technology VacuumPro
+#
+# notes
+#  - Komplete Kontrol  1.5.0(R3065)
+#  - VacuumPro         1.0.3.18538
+#  - recycle bitwig presets. https://github.com/jhorology/HybridPack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'vacuumpro-print-default-meta', ->
+  _print_default_meta $.VacuumPro.dir
+
+# print mapping of _Default.nksf
+gulp.task 'vacuumpro-print-default-mapping', ->
+  _print_default_mapping $.VacuumPro.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'vacuumpro-print-plid', ->
+  _print_plid $.VacuumPro.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'vacuumpro-generate-default-mapping', ->
+  _generate_default_mapping $.VacuumPro.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'vacuumpro-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.VacuumPro.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.VacuumPro.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Air Music Technology VacuumPro
+#
+
+
+# ---------------------------------------------------------------
+# Air Music Technology VacuumPro
+#
+# notes
+#  - Komplete Kontrol  1.5.0(R3065)
+#  - theRiser          *unknown
+#  - recycle bitwig presets. https://github.com/jhorology/theRiserPack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'theriser-print-default-meta', ->
+  _print_default_meta $.theRiser.dir
+
+# print mapping of _Default.nksf
+gulp.task 'theriser-print-default-mapping', ->
+  _print_default_mapping $.theRiser.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'theriser-print-plid', ->
+  _print_plid $.theRiser.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'theriser-generate-default-mapping', ->
+  _generate_default_mapping $.theRiser.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'theriser-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.theRiser.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.theRiser.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Air Music Technology theRiser
+#
+
+
+# ---------------------------------------------------------------
+# Reveal Sound Spire
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Spire    (*unknown version)
+#  - reuse bitwig presets. https://github.com/jhorology/Xpand2Pack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'spire-print-default-meta', ->
+  _print_default_meta $.Spire.dir
+
+# print mapping of _Default.nksf
+gulp.task 'spire-print-default-mapping', ->
+  _print_default_mapping $.Spire.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'spire-print-plid', ->
+  _print_plid $.Spire.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'spire-generate-default-mapping', ->
+  _generate_default_mapping $.Spire.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'spire-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.Spire.dir}/Factory Banks/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.Spire.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Reveal Sound Spire
 #
 
 
@@ -461,5 +816,4 @@ _deploy_resources = (dir) ->
 _deploy_presets = (dir) ->
   gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
     .pipe gulp.dest $.NI.userContent
-
 

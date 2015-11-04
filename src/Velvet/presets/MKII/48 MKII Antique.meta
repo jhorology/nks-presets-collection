@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "70476656-c2a1-43e9-a74e-eb2d7da500a3",
+  "uuid": "8942e701-4819-4afa-a408-3685c93213c6",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "48 MKII Antique",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKII", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
   "author": ""
 }

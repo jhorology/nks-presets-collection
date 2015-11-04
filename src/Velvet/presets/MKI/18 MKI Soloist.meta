@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "36614379-cf3c-4a11-83d5-80083049185e",
+  "uuid": "94bc4d33-07a2-4ba7-9af0-5886a6a33fbb",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "18 MKI Soloist",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

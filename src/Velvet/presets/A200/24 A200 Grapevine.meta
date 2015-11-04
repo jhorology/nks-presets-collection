@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "27276999-e061-41ce-aad6-4ee4300ab241",
+  "uuid": "f0049f41-97df-4963-b46b-07fba185d0dd",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "24 A200 Grapevine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "078a9650-c6b9-4504-bc61-489798b54bcb",
+  "uuid": "b7326313-e52a-4579-b4d5-95604a7a961e",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "39 MK1 Dirt Mechanic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

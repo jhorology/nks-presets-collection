@@ -1,0 +1,297 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Attack",
+      "section": "Easy",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Cutoff",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "Fine Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 7,
+      "name": "Edit 1",
+      "section": "Part A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Edit 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Edit 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Edit 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Edit 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Edit 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Off/On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "Edit 1",
+      "section": "Part B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Edit 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Edit 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Edit 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Edit 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Edit 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 40,
+      "name": "Off/On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 57,
+      "name": "Edit 1",
+      "section": "Part C",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "Edit 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "Edit 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "Edit 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "Edit 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Edit 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "Off/On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 82,
+      "name": "Edit 1",
+      "section": "Part D",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "Edit 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Edit 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "Edit 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Edit 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Edit 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "Off/On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 16,
+      "name": "FX 1",
+      "section": "Send A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "FX 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "FX 1",
+      "section": "Send B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "FX 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "FX 1",
+      "section": "Part C",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "FX 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "section": "Send D",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "FX 2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 107,
+      "name": "Off/On",
+      "section": "FX 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "FX1 Edit 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 109,
+      "name": "FX1 Edit 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "Off/On",
+      "section": "FX 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "Edit 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "Edit 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "2 To 1",
+      "vflag": false
+    }]
+  ]
+}

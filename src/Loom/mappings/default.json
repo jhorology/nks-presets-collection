@@ -1,0 +1,660 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Bend Range",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Modulation Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Modulation Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Modulation Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Master Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "Width",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "Mute FX",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Dist FX On",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "Mod FX On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "Delay FX On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "Reverb FX On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 11,
+      "name": "Mod FX Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "Distortion Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 13,
+      "name": "Distortion Drive",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "Distortion HighCut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 15,
+      "name": "Distortion Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 16,
+      "name": "Delay Stereo",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 17,
+      "name": "Delay Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 18,
+      "name": "Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "Delay Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "Delay Low Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "Delay High Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "Delay Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "Reverb Preset",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 24,
+      "name": "Reverb Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "Reverb Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 26,
+      "name": "Reverb High Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "Polyphony",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "Glide Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 29,
+      "name": "Max Num Partials",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 30,
+      "name": "Eco Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 31,
+      "name": "Spectral Dist Type",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 32,
+      "name": "Spectral Dist Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 33,
+      "name": "Spectral Dist Start",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 34,
+      "name": "Spectral Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 35,
+      "name": "Spectral Mod Speed",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 36,
+      "name": "Spectral Mod Start",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 37,
+      "name": "Spectral Mod Env Sel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 38,
+      "name": "Spectral Mod LFO Sel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 39,
+      "name": "Spectral Mod Ctrl Sel",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 40,
+      "name": "Spectral Mod Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 41,
+      "name": "Spectral Mod LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 42,
+      "name": "Spectral Mod Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 43,
+      "name": "Spectral Mod Env Dest",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 44,
+      "name": "Spectral Mod LFO Dest",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 45,
+      "name": "Spectral Mod Ctrl Dest",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 46,
+      "name": "Pitch Mod Env",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 47,
+      "name": "Pitch Mod LFO",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 48,
+      "name": "Pitch Mod Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 49,
+      "name": "Pitch Mod LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 50,
+      "name": "Env 1 Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "Env 1 Hold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "Env 1 Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "Env 1 Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 54,
+      "name": "Env 1 Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 55,
+      "name": "Env 2 Attack",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 56,
+      "name": "Env 2 Hold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "Env 2 Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "Env 2 Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "Env 2 Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 60,
+      "name": "Env 3 Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "Env 3 Hold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "Env 3 Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "Env 3 Sustain",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 64,
+      "name": "Env 3 Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 65,
+      "name": "Env 4 StartLevel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 66,
+      "name": "Env 4 AttackTime",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 67,
+      "name": "Env 4 Slope1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 68,
+      "name": "Env 4 Slope2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 69,
+      "name": "LFO 1 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 70,
+      "name": "LFO 1 Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 71,
+      "name": "LFO 1 Mode",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 72,
+      "name": "LFO 1 Fade",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 73,
+      "name": "LFO 2 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 74,
+      "name": "LFO 2 Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 75,
+      "name": "LFO 2 Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 76,
+      "name": "LFO 2 Fade",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 77,
+      "name": "LFO 3 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 78,
+      "name": "LFO 3 Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 79,
+      "name": "LFO 3 Mode",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 80,
+      "name": "LFO 3 Fade",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 81,
+      "name": "Easy Character",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 82,
+      "name": "Easy Complexity",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "Easy Tone",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "Easy Emphasis",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 85,
+      "name": "Easy Contour",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 86,
+      "name": "Easy Punch",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 87,
+      "name": "Easy Length",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 88,
+      "name": "Easy Time-FX",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 89,
+      "name": "Easy Modulation",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 90,
+      "name": "Easy Speed",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 91,
+      "name": "Easy Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 92,
+      "name": "MasterRsrd12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 93,
+      "name": "MasterRsrd13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 94,
+      "name": "MasterRsrd14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 95,
+      "name": "MasterRsrd15",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 96,
+      "name": "MasterRsrd16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "Module 1 Main",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "Module 1 Adjust 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "Module 1 Adjust 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 100,
+      "name": "Module 1 Adjust 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "Module 1 Adjust 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 102,
+      "name": "Module 1 Env",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 103,
+      "name": "Module 1 LFO",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 104,
+      "name": "Module 1 Ctrl",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 105,
+      "name": "Module 1 Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 106,
+      "name": "Module 1 LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 107,
+      "name": "Module 1 Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "Module 2 Main",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 109,
+      "name": "Module 2 Adjust 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 110,
+      "name": "Module 2 Adjust 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 111,
+      "name": "Module 2 Adjust 3",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 112,
+      "name": "Module 2 Adjust 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 113,
+      "name": "Module 2 Env",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 114,
+      "name": "Module 2 LFO",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 115,
+      "name": "Module 2 Ctrl",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 116,
+      "name": "Module 2 Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 117,
+      "name": "Module 2 LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 118,
+      "name": "Module 2 Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 119,
+      "name": "Module 3 Main",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 120,
+      "name": "Module 3 Adjust 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 121,
+      "name": "Module 3 Adjust 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 122,
+      "name": "Module 3 Adjust 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 123,
+      "name": "Module 3 Adjust 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 124,
+      "name": "Module 3 Env",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 125,
+      "name": "Module 3 LFO",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 126,
+      "name": "Module 3 Ctrl",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 127,
+      "name": "Module 3 Env Depth",
+      "vflag": false
+    }]
+  ]
+}

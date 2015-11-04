@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "074bce73-92df-4581-93d1-1abba2483450",
+  "uuid": "88fe28be-d84d-41cc-a051-02f1de0a8b14",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "27 MKI Soft FM",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "MKI", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
   "author": ""
 }

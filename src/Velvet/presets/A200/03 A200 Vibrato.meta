@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "abf35827-1da6-47e9-a58e-d5c3aa6584e0",
+  "uuid": "3690f333-e566-441d-af64-5ffb6d355d3c",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "03 A200 Vibrato",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

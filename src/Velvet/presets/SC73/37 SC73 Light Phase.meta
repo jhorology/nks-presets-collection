@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0b8894d7-f8ad-480a-b9eb-bc3950f52361",
+  "uuid": "af656a94-b225-4ec3-9363-171d37dd88f4",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "37 SC73 Light Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "SC73", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
   "author": ""
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cd87876c-feaf-4d0d-a1fa-2d1a21efb76a",
+  "uuid": "61344d91-a03f-4dd7-9d75-b509849d8a2d",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "14 Pianet Romantic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Pianet", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
   "author": ""
 }

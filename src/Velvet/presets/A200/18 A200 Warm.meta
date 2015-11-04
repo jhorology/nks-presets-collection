@@ -1,6 +1,6 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "205ee7f1-b457-4e53-a0df-251d26838a0c",
+  "uuid": "a83aca7c-24e6-4839-ac5b-d87c21066c73",
   "types": [
     ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
@@ -9,6 +9,6 @@
   "name": "18 A200 Warm",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "A200", ""],
+  "bankchain": ["Velvet", "Velvet Factory", "A200"],
   "author": ""
 }

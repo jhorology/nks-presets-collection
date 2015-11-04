@@ -1,0 +1,13 @@
+#!/bin/sh -e
+#
+# convert .bwpreset to NKS NCHK chunk
+#
+#  PLCK
+#     chunk version 4byte 43bit LE
+#     data  pluginsstates
+
+# unzip & remove first 156 byte
+unzip -p "$1" | tail -c +157 > "$2"
+
+# replace first 4 byte
+printf '\x1\x0\x0\x0' | dd conv=notrunc of="$2" bs=4 seek=0
