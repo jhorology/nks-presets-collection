@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "006dfac9-ce40-4ea1-bd96-59cf6cb9d9c8",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "modverb+macroDist+Delay",
+  "deviceType": "INST",
+  "name": "SQ 2notes [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ 2notes [GS]",
-  "deviceType": "INST",
-  "comment": "modverb+macroDist+Delay",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "8d1066a2-bc8b-4232-8e4e-2927e9afce69",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "140a17e9-5652-4d0d-b6a5-8432d12cc8e2",
+  "author": "Jordy Dazz",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Debby Downer [JD]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Debby Downer [JD]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Jordy Dazz"
+  "uuid": "a8cc0fa0-26a2-48c1-8ade-49f36ce05ace",
+  "vendor": "Xfer Records"
 }

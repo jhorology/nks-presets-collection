@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "6d24b9d3-7d41-4536-b8ad-9c3f2e915a8e",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY ModSync 1 [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY ModSync 1 [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "686f2b0e-f415-41cc-ba79-21086a83a58c",
+  "vendor": "Xfer Records"
 }

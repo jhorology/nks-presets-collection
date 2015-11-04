@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "07ddf9c7-9fe2-4785-be18-f487d27616e5",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Squerbo [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Squerbo [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "29638407-3bc8-4cd5-b7e3-8eaf6aabf6ee",
+  "vendor": "Xfer Records"
 }

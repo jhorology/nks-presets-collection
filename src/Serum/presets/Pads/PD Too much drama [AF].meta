@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f83999ce-912f-4dea-a99f-a000051f5064",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Too much drama [AF]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Too much drama [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "10856498-938c-49d3-af81-55166678c296",
+  "vendor": "Xfer Records"
 }

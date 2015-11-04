@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1e1678c0-5043-43a9-aaaf-0b8326a21d3b",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "ModWheel & velocity controls",
+  "deviceType": "INST",
+  "name": "FX Perfer [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Perfer [GS]",
-  "deviceType": "INST",
-  "comment": "ModWheel & velocity controls",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "c5c3cf77-0dce-40ac-bbf4-f588f6a14d82",
+  "vendor": "Xfer Records"
 }

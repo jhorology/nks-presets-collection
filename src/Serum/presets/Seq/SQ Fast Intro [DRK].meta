@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5c3d7c1a-5746-4dc9-95cc-a78538ea6789",
+  "author": "Derrek",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Fast Intro [DRK]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Fast Intro [DRK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Derrek"
+  "uuid": "d71dd811-61db-4f84-b753-23b8883b8ca7",
+  "vendor": "Xfer Records"
 }

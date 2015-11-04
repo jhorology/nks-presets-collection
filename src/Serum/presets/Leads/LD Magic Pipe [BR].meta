@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "55da33eb-a922-43cb-84d0-d7cc67097d0d",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mods and Macro for Variation",
+  "deviceType": "INST",
+  "name": "LD Magic Pipe [BR]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Magic Pipe [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mods and Macro for Variation",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "bc624d6e-ef12-47a0-8a2f-9e63662e11c7",
+  "vendor": "Xfer Records"
 }

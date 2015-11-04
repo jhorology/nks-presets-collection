@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "876e5c44-1fe5-4a61-8fe1-be0aeb5a5a3c",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Andes Nuts",
+  "deviceType": "INST",
+  "name": "LD PeterPiper [SD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD PeterPiper [SD]",
-  "deviceType": "INST",
-  "comment": "Andes Nuts",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "c3b9f7ea-a88c-4972-acd5-e9487b12f38c",
+  "vendor": "Xfer Records"
 }

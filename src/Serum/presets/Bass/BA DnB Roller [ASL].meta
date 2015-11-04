@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7a0c645a-50eb-4351-8ca9-0d69f266dc19",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA DnB Roller [ASL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA DnB Roller [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "9dbe1aaf-9f3e-4f42-9a8a-c579d2741836",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0312a8fc-2820-4263-a74b-5c0a0efe5bb1",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Linet [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Linet [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "9594d067-0a67-49a7-8293-49e87bc4149a",
+  "vendor": "Xfer Records"
 }

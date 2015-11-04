@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "566318a3-fbd4-4225-ac1c-8e30ce82b8eb",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY ElectricLight [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY ElectricLight [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "ba8e71e1-c422-4da8-8b08-69794a5bc939",
+  "vendor": "Xfer Records"
 }

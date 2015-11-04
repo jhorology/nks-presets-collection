@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5ab01bfb-0093-490b-aac6-a57bcb2f7dbe",
+  "author": "Paul Laski",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA The Realest [PL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA The Realest [PL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Paul Laski"
+  "uuid": "bad2c2ee-41ec-4165-b2bc-4c9d8b2fd113",
+  "vendor": "Xfer Records"
 }

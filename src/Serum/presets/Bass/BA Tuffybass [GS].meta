@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "35d0b40e-77fd-452a-a305-eb5f30a78523",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Tuffybass [GS]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Tuffybass [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "83407de3-d1b9-41b6-b084-12a2b29a7fa5",
+  "vendor": "Xfer Records"
 }

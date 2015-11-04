@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3f038766-1f10-4432-bedb-e752d75e448f",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod Wheel",
+  "deviceType": "INST",
+  "name": "PD Defiant [BR]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Defiant [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod Wheel",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "a3c44de1-313b-492a-bbe7-a81c15b5423e",
+  "vendor": "Xfer Records"
 }

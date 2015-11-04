@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "989128e6-97a3-444a-934d-fa5657c7725a",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod Wheel",
+  "deviceType": "INST",
+  "name": "BA Jackson [BR]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Jackson [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod Wheel",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "7c54444b-2080-4ac2-838d-0c2fe8762054",
+  "vendor": "Xfer Records"
 }

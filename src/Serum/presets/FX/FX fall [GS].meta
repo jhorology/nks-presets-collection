@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ac8af121-f462-4d62-b8cd-109c9a54509d",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "mod fx",
+  "deviceType": "INST",
+  "name": "FX fall [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX fall [GS]",
-  "deviceType": "INST",
-  "comment": "mod fx",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "d0c19a02-00cf-440b-a98e-a4e2e94e3d59",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0975a7e8-7380-45bd-813d-c42e71e7b543",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Great for Chords",
+  "deviceType": "INST",
+  "name": "SY Multicolor [CFA]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Multicolor [CFA]",
-  "deviceType": "INST",
-  "comment": "Great for Chords",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "b783032c-651c-4f09-8fd4-a4bba0f77787",
+  "vendor": "Xfer Records"
 }

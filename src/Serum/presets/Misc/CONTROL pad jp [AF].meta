@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d823bada-746c-4a27-911f-739ce73d3eaf",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "CONTROL pad jp [AF]",
   "types": [
     ["Pad"]
   ],
-  "name": "CONTROL pad jp [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "dce49084-f6ea-4fc1-a748-4103ec83386e",
+  "vendor": "Xfer Records"
 }

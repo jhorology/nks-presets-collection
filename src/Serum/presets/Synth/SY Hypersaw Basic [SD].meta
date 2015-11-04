@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1405065c-4e3f-476f-8f20-28d3cbe3402c",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Basic Hypersaw",
+  "deviceType": "INST",
+  "name": "SY Hypersaw Basic [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Hypersaw Basic [SD]",
-  "deviceType": "INST",
-  "comment": "Basic Hypersaw",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "115d0673-9781-4a6f-be99-bc9d15a9dc8a",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "49f9cf59-444e-408d-aebd-21e3b017d433",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Sweepin thru Frquencies",
+  "deviceType": "INST",
+  "name": "SY Augustines Bell Chapel [JL]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Augustines Bell Chapel [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Sweepin thru Frquencies",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "d931548c-b424-4fa0-bba3-ab63ae1e6f1d",
+  "vendor": "Xfer Records"
 }

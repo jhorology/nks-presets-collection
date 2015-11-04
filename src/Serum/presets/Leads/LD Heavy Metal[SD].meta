@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3d0a35cc-cf77-4094-a813-7ff71cec315a",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Made on Laptop Speakers.",
+  "deviceType": "INST",
+  "name": "LD Heavy Metal[SD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Heavy Metal[SD]",
-  "deviceType": "INST",
-  "comment": "Made on Laptop Speakers.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "675d29c0-cc8b-42f1-bd32-5d5589acdcab",
+  "vendor": "Xfer Records"
 }

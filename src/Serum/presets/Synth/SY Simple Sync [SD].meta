@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "cc55e8a5-4af9-4d57-bc7f-bc5d2ec87e3f",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Example of LFO as Envelope",
+  "deviceType": "INST",
+  "name": "SY Simple Sync [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Simple Sync [SD]",
-  "deviceType": "INST",
-  "comment": "Example of LFO as Envelope",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "79a55e4b-23a4-45d6-9d8d-e2e80be930dd",
+  "vendor": "Xfer Records"
 }

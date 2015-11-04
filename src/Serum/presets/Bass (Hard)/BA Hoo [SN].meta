@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "8f79f606-8c1b-4214-b9de-85e5344a9971",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Hoo [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Hoo [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "d9571e6a-7748-478a-9a70-095d238c9dba",
+  "vendor": "Xfer Records"
 }

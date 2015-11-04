@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f3257d71-b55f-42c5-a801-726d131af34f",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Macro + mod cntrl",
+  "deviceType": "INST",
+  "name": "SQ Rainycakes [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Rainycakes [GS]",
-  "deviceType": "INST",
-  "comment": "Macro + mod cntrl",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "1f0b4ae3-a568-4ccb-b177-ca8c47612bdf",
+  "vendor": "Xfer Records"
 }

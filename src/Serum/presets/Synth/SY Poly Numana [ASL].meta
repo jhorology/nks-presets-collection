@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a1abb1a2-963c-4045-9820-dc8077810c55",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Polymoog 280a Vox Humana",
+  "deviceType": "INST",
+  "name": "SY Poly Numana [ASL]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Poly Numana [ASL]",
-  "deviceType": "INST",
-  "comment": "Polymoog 280a Vox Humana",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "c32cb354-6153-4889-99af-5de3837f6f89",
+  "vendor": "Xfer Records"
 }

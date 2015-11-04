@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "54b23d69-5c0f-44b4-b076-74130a570f50",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "BA Evolving Bass [FN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Evolving Bass [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "9366a6bc-fe12-4175-8f3d-70b2d4d902b4",
+  "vendor": "Xfer Records"
 }

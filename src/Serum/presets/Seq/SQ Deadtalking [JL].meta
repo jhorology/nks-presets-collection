@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "bebee00c-fb17-4796-be22-d3266f9553c8",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Deadtalking [JL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Deadtalking [JL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "a16e47c8-8ab8-49fa-8846-2786a615a4ab",
+  "vendor": "Xfer Records"
 }

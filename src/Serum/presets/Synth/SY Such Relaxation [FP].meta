@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d4008803-24bf-4d11-8bd2-bcabb3e6432b",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod Wheel to cutoff",
+  "deviceType": "INST",
+  "name": "SY Such Relaxation [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Such Relaxation [FP]",
-  "deviceType": "INST",
-  "comment": "Mod Wheel to cutoff",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "7737125c-b273-42b9-96ed-84ceed644f36",
+  "vendor": "Xfer Records"
 }

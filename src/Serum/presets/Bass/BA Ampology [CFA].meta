@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "67164cbc-a01c-439c-9409-f68160e91968",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Fat E-Bass Emulation",
+  "deviceType": "INST",
+  "name": "BA Ampology [CFA]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Ampology [CFA]",
-  "deviceType": "INST",
-  "comment": "Fat E-Bass Emulation",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "0b27a9b3-3866-4083-9c7d-bafead2c68e7",
+  "vendor": "Xfer Records"
 }

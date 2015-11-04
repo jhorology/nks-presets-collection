@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "80dfbb57-d709-4871-a266-13e70cd9cf6b",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Raspy Strings [SW]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Raspy Strings [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "5a948cea-da58-45c6-81c7-d6ccac1fd796",
+  "vendor": "Xfer Records"
 }

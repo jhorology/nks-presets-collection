@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "079559b1-46d7-4a9a-9732-b768d464b302",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod Wheel",
+  "deviceType": "INST",
+  "name": "MID Fenugreek [BR]",
   "types": [
     ["Midrange"]
   ],
-  "name": "MID Fenugreek [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod Wheel",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "bfaebfda-2b88-4157-9d35-f313c8dbfbc8",
+  "vendor": "Xfer Records"
 }

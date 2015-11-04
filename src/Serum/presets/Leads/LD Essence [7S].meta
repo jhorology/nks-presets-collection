@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "553c97b1-a82e-4faf-898e-d822e40cbfd9",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Hardcoreeee Again",
+  "deviceType": "INST",
+  "name": "LD Essence [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Essence [7S]",
-  "deviceType": "INST",
-  "comment": "Hardcoreeee Again",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "147941fd-55cd-446a-a5df-05ba2bb28f02",
+  "vendor": "Xfer Records"
 }

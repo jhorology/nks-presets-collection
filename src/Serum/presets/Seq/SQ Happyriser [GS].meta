@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4412d16c-de2a-45c9-bfc6-3fdf38765677",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Happyriser [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Happyriser [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "3c6dae6b-52aa-42f9-be1c-0bff88e6dd86",
+  "vendor": "Xfer Records"
 }

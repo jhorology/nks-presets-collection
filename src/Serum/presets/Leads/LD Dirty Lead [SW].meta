@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "83b58f2f-7620-49d1-a037-cd0f8cf76e4f",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Dirty Lead [SW]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Dirty Lead [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "d1bbed8c-6183-4b3d-b658-c7a90330f6e5",
+  "vendor": "Xfer Records"
 }

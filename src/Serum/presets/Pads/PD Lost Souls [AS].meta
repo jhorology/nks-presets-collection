@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2e561173-5aee-43a1-8fb9-4a01c636b74c",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Lost Souls [AS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Lost Souls [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "9ca71e94-2684-4224-875f-0c66d4c77cd0",
+  "vendor": "Xfer Records"
 }

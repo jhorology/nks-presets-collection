@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d8fb900f-a942-4949-b396-97489dcdc65b",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Future Steps [LCV]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Future Steps [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "3ec96861-b357-41fb-a9cb-fdf1917a44d9",
+  "vendor": "Xfer Records"
 }

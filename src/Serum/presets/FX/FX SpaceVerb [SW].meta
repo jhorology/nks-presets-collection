@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ab7a7208-1bd9-4392-9591-2b3a875f413b",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX SpaceVerb [SW]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX SpaceVerb [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "e48aed24-1832-4450-bad0-e4e31e4e4e78",
+  "vendor": "Xfer Records"
 }

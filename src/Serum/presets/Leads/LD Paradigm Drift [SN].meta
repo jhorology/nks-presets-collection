@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "76aa16e3-00f5-40c9-9aa8-0f129eb98207",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Paradigm Drift [SN]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Paradigm Drift [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "4352157d-f198-442d-ac29-94fd602ac30e",
+  "vendor": "Xfer Records"
 }

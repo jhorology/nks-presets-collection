@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "19487ebd-d020-4a53-9831-d1400a100131",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Velocity Enabled",
+  "deviceType": "INST",
+  "name": "LD Scotland [BR]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Scotland [BR]",
-  "deviceType": "INST",
-  "comment": "Velocity Enabled",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "9001c2c1-aca8-429e-898c-6b0b08864553",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a31ed369-7220-49ed-99bb-3c7df6bab2ae",
+  "author": "Paul Laski",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Sweepad [PL]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Sweepad [PL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Paul Laski"
+  "uuid": "ef2f872f-91e9-4363-b07d-5b2287ed4222",
+  "vendor": "Xfer Records"
 }

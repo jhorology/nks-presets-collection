@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0440f082-7199-4d17-a52a-0beaf68d63f8",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Post Rock Pad 2 [SW]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Post Rock Pad 2 [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "c9b8528a-763d-47a1-b4e7-2a60d3699d70",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "97f05597-67e4-474b-aaa3-d7158359371d",
+  "author": "DiskoUnkle",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD D_Lead 1 [DU]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD D_Lead 1 [DU]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "DiskoUnkle"
+  "uuid": "e9933173-a69b-47a8-886e-29312e207faf",
+  "vendor": "Xfer Records"
 }

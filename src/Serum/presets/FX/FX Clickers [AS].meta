@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0a51e8ed-a4f4-4bb9-bf87-69b56a401ba3",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod W. - Click speed",
+  "deviceType": "INST",
+  "name": "FX Clickers [AS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Clickers [AS]",
-  "deviceType": "INST",
-  "comment": "Mod W. - Click speed",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "36e01c6b-845d-42c8-9208-e6724d4e55b5",
+  "vendor": "Xfer Records"
 }

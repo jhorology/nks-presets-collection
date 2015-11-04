@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "12c988cf-7800-43af-bae7-4297f74698d9",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Tom Cruise - War Of The World - Alien Tripod",
+  "deviceType": "INST",
+  "name": "FX Alien Tripod [BR]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Alien Tripod [BR]",
-  "deviceType": "INST",
-  "comment": "Tom Cruise - War Of The World - Alien Tripod",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "f26cf852-655b-4ae5-82e7-b134e7b07077",
+  "vendor": "Xfer Records"
 }

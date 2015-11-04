@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "cc423ce4-26a2-43f7-98fb-fe4054cbba08",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Crazy Lead",
+  "deviceType": "INST",
+  "name": "LD Jacked [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Jacked [7S]",
-  "deviceType": "INST",
-  "comment": "Crazy Lead",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "37df3f05-707b-42aa-b8e2-c9233c883cc4",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "35094f13-6a1e-4997-8202-325c9b33cb0e",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "just LFO to WTPos",
+  "deviceType": "INST",
+  "name": "INIT TableAnim [SD]",
   "types": [
     ["Template"]
   ],
-  "name": "INIT TableAnim [SD]",
-  "deviceType": "INST",
-  "comment": "just LFO to WTPos",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "5d8407c8-36e5-483b-996a-8014fefae554",
+  "vendor": "Xfer Records"
 }

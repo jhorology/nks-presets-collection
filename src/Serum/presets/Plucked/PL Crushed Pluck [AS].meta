@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ba7eee50-55b1-4930-adce-08598f91aba4",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL Crushed Pluck [AS]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Crushed Pluck [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "4b43513d-d9cd-4676-ba31-778a1295e6d2",
+  "vendor": "Xfer Records"
 }

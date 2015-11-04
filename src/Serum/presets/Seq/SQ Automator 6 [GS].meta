@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e5d1d7e9-202d-4600-a4f7-204255f8794c",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Automator 6 [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Automator 6 [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "23cb56f0-4b08-408d-a26f-e4a6e148ab56",
+  "vendor": "Xfer Records"
 }

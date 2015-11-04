@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "fac3a54f-7b6b-49ad-893f-709009ecc14b",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Moriccone [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Moriccone [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "afcd2a8b-0fd1-4748-acae-b76916168784",
+  "vendor": "Xfer Records"
 }

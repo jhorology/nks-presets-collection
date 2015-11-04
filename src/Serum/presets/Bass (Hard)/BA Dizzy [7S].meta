@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f141cf33-f312-4dd5-9d91-10c518c0c66b",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Dizzy [7S]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Dizzy [7S]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "dd52e448-bb2c-4439-a2f4-913abd0e0828",
+  "vendor": "Xfer Records"
 }

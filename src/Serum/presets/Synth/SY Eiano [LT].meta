@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "de486663-0aa8-4a83-96cf-1f19e6b840ae",
+  "author": "Lance Thackeray",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Not quite classic.",
+  "deviceType": "INST",
+  "name": "SY Eiano [LT]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Eiano [LT]",
-  "deviceType": "INST",
-  "comment": "Not quite classic.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Lance Thackeray"
+  "uuid": "56188d71-bc3f-481f-a7a1-037712ff0df3",
+  "vendor": "Xfer Records"
 }

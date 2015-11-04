@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "05c0faf7-7415-4593-b826-dec4597ecc1a",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod W. - remove gate",
+  "deviceType": "INST",
+  "name": "PD Gated Pad [AS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Gated Pad [AS]",
-  "deviceType": "INST",
-  "comment": "Mod W. - remove gate",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "918aa367-5275-4f5b-82e5-19986596e7ca",
+  "vendor": "Xfer Records"
 }

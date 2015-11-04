@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1445c398-6f29-4fe4-84fc-df42ee790b3e",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Sam's not feeling well",
+  "deviceType": "INST",
+  "name": "SY SAMsPissed [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY SAMsPissed [SD]",
-  "deviceType": "INST",
-  "comment": "Sam's not feeling well",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "ed59017e-e6ea-40ed-b504-7834ac60645a",
+  "vendor": "Xfer Records"
 }

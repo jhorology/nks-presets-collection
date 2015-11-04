@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "11bcdd52-71da-445e-a498-489e742a43c7",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Nu Skool Raver [ASL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Nu Skool Raver [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "9119070a-ef2f-4395-b8a2-86cf588a2c83",
+  "vendor": "Xfer Records"
 }

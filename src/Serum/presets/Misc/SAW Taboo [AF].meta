@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "aefab503-06c5-4d3a-8c83-193f95c1b04e",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SAW Taboo [AF]",
   "types": [
     ["Sawtooth"]
   ],
-  "name": "SAW Taboo [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "46f69dc0-dc57-4a6e-944b-cea4b9cc050a",
+  "vendor": "Xfer Records"
 }

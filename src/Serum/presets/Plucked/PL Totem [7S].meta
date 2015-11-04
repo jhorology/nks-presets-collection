@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "dcb2a26a-28eb-4948-9cc0-47778fbd6b62",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Play it in a chord",
+  "deviceType": "INST",
+  "name": "PL Totem [7S]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Totem [7S]",
-  "deviceType": "INST",
-  "comment": "Play it in a chord",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "46d49887-a8c7-4168-a3d8-84fd0c72fb07",
+  "vendor": "Xfer Records"
 }

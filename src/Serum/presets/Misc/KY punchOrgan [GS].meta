@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0ee2d17e-8d69-421f-a1f8-7297ba32c0b5",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "KY punchOrgan [GS]",
   "types": [
     ["Keyboard"]
   ],
-  "name": "KY punchOrgan [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "cc127812-b78c-4b85-a432-740de7b61bca",
+  "vendor": "Xfer Records"
 }

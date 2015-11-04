@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "12c7032e-3a10-4c00-b138-0e86630a5530",
+  "author": "Derrek",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL Nothing Special [DRK]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Nothing Special [DRK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Derrek"
+  "uuid": "28878f80-b0f1-4d05-b8ed-aacf6305259e",
+  "vendor": "Xfer Records"
 }

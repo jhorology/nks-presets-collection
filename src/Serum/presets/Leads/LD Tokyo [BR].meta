@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e9664a41-566d-4099-84e2-8569460a6028",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod Wheel Sakura",
+  "deviceType": "INST",
+  "name": "LD Tokyo [BR]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Tokyo [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod Wheel Sakura",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "f9fdb14e-fa95-4d7a-ae41-c67d8bf4991c",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "09a5348b-0a02-46c5-95c3-b0083e4be2e1",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SAW Nirvana [AF]",
   "types": [
     ["Sawtooth"]
   ],
-  "name": "SAW Nirvana [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "66ce9a8b-73a8-4eec-a1a3-489db48b47e2",
+  "vendor": "Xfer Records"
 }

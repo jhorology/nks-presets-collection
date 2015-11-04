@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "8263df4f-009f-48a8-bd43-ce8fe432d4f1",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod Wheel to cutoff, delay",
+  "deviceType": "INST",
+  "name": "PL So Dreamy [FP]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL So Dreamy [FP]",
-  "deviceType": "INST",
-  "comment": "Mod Wheel to cutoff, delay",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "c43a5870-fb54-42e1-8e4f-2ca0e186a314",
+  "vendor": "Xfer Records"
 }

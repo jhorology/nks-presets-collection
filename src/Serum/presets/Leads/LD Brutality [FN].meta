@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "951578b1-f7df-48b4-82d3-fe7cca9811b9",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "LD Brutality [FN]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Brutality [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "a8e96b82-7414-45e9-bf7e-9f3a918d9525",
+  "vendor": "Xfer Records"
 }

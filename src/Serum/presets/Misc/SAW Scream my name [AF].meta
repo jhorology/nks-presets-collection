@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3d173864-31de-4411-8c27-4da45d48bf0d",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SAW Scream my name [AF]",
   "types": [
     ["Sawtooth"]
   ],
-  "name": "SAW Scream my name [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "f8c06882-0d05-4558-bc4b-aae3ea1ed952",
+  "vendor": "Xfer Records"
 }

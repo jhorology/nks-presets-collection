@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c97f066e-2a5b-41a3-a156-13db3acdd619",
+  "author": "Paul Laski",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Ring Scream [PL]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Ring Scream [PL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Paul Laski"
+  "uuid": "0194f206-9dbd-47c1-863e-dbfeb8693a77",
+  "vendor": "Xfer Records"
 }

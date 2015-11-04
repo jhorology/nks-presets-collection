@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "6c2df818-862a-49a3-a1a3-05c3c1d5043f",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Your love is all I think about... K?",
+  "deviceType": "INST",
+  "name": "BA Headbass [FP]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Headbass [FP]",
-  "deviceType": "INST",
-  "comment": "Your love is all I think about... K?",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "445bf4e9-ea6a-4145-b65b-a0e4cec1baa7",
+  "vendor": "Xfer Records"
 }

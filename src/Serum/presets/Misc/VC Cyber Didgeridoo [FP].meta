@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2a91d7cb-1b1d-43b6-abf5-6b4fa6c38dd2",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod Wheel to cutoff",
+  "deviceType": "INST",
+  "name": "VC Cyber Didgeridoo [FP]",
   "types": [
     ["Choir"]
   ],
-  "name": "VC Cyber Didgeridoo [FP]",
-  "deviceType": "INST",
-  "comment": "Mod Wheel to cutoff",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "845d37ef-91bb-4011-91b3-42f6adce46e1",
+  "vendor": "Xfer Records"
 }

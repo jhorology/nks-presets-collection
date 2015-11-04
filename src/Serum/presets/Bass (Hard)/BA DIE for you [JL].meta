@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5f878fcb-5036-43fd-a429-3bb8839b382b",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Severe Mangling Occurs",
+  "deviceType": "INST",
+  "name": "BA DIE for you [JL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA DIE for you [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Severe Mangling Occurs",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "37dc58f7-4660-41fa-90a2-9b6dd14c1c9c",
+  "vendor": "Xfer Records"
 }

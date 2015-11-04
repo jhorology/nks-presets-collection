@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4eba5c1a-618a-4f77-bacd-12cf609dac31",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Simple Minds FTW!",
+  "deviceType": "INST",
+  "name": "SY Big Sleepy [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Big Sleepy [FP]",
-  "deviceType": "INST",
-  "comment": "Simple Minds FTW!",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "e88908ff-c522-40d9-89ca-37ea1f4177d7",
+  "vendor": "Xfer Records"
 }

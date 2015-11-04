@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2ec77208-cc8f-4bd0-9877-e00cf09ba04e",
+  "author": "DiskoUnkle",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA D_Bass 2 [DU]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA D_Bass 2 [DU]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "DiskoUnkle"
+  "uuid": "3532dc49-c522-4f7d-bac6-e11dddd94eea",
+  "vendor": "Xfer Records"
 }

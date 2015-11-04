@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "18ac7415-412a-45f5-8a5f-fe5b480c5901",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Inertia Wobbler [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Inertia Wobbler [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "f28ca2d0-6ea3-4e48-905f-d3603d378df0",
+  "vendor": "Xfer Records"
 }

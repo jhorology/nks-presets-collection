@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ee09d704-e1e4-4606-bea8-47e5965d0026",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "PL Metallica [FN]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Metallica [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "aa1eb5ec-21a3-4cf9-8796-d11f29d2fe3b",
+  "vendor": "Xfer Records"
 }

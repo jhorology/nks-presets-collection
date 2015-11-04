@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e5fac485-39ab-4d64-b454-f71c3b1f2634",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Modulated Chomper [ASL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Modulated Chomper [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "363014ae-ecd0-4407-a909-ef53fc322d63",
+  "vendor": "Xfer Records"
 }

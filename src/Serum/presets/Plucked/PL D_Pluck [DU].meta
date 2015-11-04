@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2096f0ba-dd64-4890-877f-c4c0dd6725fe",
+  "author": "DiskoUnkle",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL D_Pluck [DU]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL D_Pluck [DU]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "DiskoUnkle"
+  "uuid": "b126bb92-9f0c-4c66-987d-57cdaf618de6",
+  "vendor": "Xfer Records"
 }

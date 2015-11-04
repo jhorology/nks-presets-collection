@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "aacb8b73-7887-4145-b87b-82ef14937b1f",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Supersaw - Macro4 Pad Moprh",
+  "deviceType": "INST",
+  "name": "LD Titan [CFA]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Titan [CFA]",
-  "deviceType": "INST",
-  "comment": "Supersaw - Macro4 Pad Moprh",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "0e3fd36b-4daf-475c-881a-7776021ccfb4",
+  "vendor": "Xfer Records"
 }

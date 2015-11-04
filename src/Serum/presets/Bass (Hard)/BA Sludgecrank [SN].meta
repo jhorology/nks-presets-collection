@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9d7c9986-621f-4850-88c0-3b663df6fdc0",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Sludgecrank [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Sludgecrank [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "699d1033-fc8e-4fe1-a422-a6ee4916b9b6",
+  "vendor": "Xfer Records"
 }

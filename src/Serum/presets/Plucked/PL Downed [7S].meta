@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "039ce716-7843-437c-916e-8dcd257d7b6d",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Bit Reduced Pluck",
+  "deviceType": "INST",
+  "name": "PL Downed [7S]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Downed [7S]",
-  "deviceType": "INST",
-  "comment": "Bit Reduced Pluck",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "e840539a-9aa0-4487-a704-a90783c91633",
+  "vendor": "Xfer Records"
 }

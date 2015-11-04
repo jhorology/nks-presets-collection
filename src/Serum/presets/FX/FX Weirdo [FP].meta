@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9b699102-e127-49d9-beda-5f2c791a1456",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel to filter paramters",
+  "deviceType": "INST",
+  "name": "FX Weirdo [FP]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Weirdo [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel to filter paramters",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "937c63f3-fe9d-4ad7-9f07-e159c6d23493",
+  "vendor": "Xfer Records"
 }

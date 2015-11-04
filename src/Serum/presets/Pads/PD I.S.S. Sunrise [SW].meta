@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "8def3088-238e-4693-bce5-e247ea64c24b",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD I.S.S. Sunrise [SW]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD I.S.S. Sunrise [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "0744309c-f293-420e-a352-7ce854b31961",
+  "vendor": "Xfer Records"
 }

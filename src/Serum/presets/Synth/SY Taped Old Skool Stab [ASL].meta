@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "efd779e9-d921-4f77-a4d1-a39fe898694c",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Taped Old Skool Stab [ASL]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Taped Old Skool Stab [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "00708dcc-6129-4cec-9840-186357d1ffd9",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3c6114aa-8612-43fb-9bcf-ed7222da0392",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Hold the Note and use Mod",
+  "deviceType": "INST",
+  "name": "SQ Tell Sad Story [BR]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Tell Sad Story [BR]",
-  "deviceType": "INST",
-  "comment": "Hold the Note and use Mod",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "ed4632a7-062a-4793-b45b-f16363a30e39",
+  "vendor": "Xfer Records"
 }

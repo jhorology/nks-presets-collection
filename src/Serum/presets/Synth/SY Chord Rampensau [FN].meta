@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ee111dee-47dd-4d27-80c6-25e4f3bef263",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "SY Chord Rampensau [FN]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Chord Rampensau [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "c3a96aa3-52bb-4c6b-9616-8bfbb9c049b1",
+  "vendor": "Xfer Records"
 }

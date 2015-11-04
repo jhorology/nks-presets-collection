@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "674b5511-c91c-473d-8438-3b70f1beaf47",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Adds some atmosphere",
+  "deviceType": "INST",
+  "name": "SQ Dreams [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Dreams [7S]",
-  "deviceType": "INST",
-  "comment": "Adds some atmosphere",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "7388a8fc-554d-47c1-83d8-32f5d362334a",
+  "vendor": "Xfer Records"
 }

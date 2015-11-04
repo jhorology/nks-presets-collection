@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "fc0043ed-f6e5-4847-bcd8-b16ef6dd35b5",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Meow",
+  "deviceType": "INST",
+  "name": "LD Araba [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Araba [7S]",
-  "deviceType": "INST",
-  "comment": "Meow",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "4f343663-4b61-4661-a917-2484a582f153",
+  "vendor": "Xfer Records"
 }

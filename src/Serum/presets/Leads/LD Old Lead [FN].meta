@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "447d620a-ec04-4038-b87c-18886da33482",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "LD Old Lead [FN]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Old Lead [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "57fcc2d5-741d-4d72-b07e-f28d4564fecf",
+  "vendor": "Xfer Records"
 }

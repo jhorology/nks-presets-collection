@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9b1bc004-b320-4643-b161-757172f6fa0b",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA FuckButtons [SW]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA FuckButtons [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "d612168d-891c-4149-878c-c10cb7d2dc73",
+  "vendor": "Xfer Records"
 }

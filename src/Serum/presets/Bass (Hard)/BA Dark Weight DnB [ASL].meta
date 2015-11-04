@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2c5fd34f-e6eb-435e-9d14-0e4f38493aac",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Dark Weight DnB [ASL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Dark Weight DnB [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "9db4e7fc-7267-4b28-aa4c-861d40a54e19",
+  "vendor": "Xfer Records"
 }

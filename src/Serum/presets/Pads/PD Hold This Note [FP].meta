@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b9a75768-be4f-40fd-9ed9-45fa45fe03c8",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel controls Cassini space probe",
+  "deviceType": "INST",
+  "name": "PD Hold This Note [FP]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Hold This Note [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel controls Cassini space probe",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "f32b1880-a763-4a3f-9d91-68fdc68c000c",
+  "vendor": "Xfer Records"
 }

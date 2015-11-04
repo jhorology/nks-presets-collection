@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "46967830-ff5d-4785-8f04-dc2795b3d342",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY VeloCap [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY VeloCap [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "c0d84281-ac95-48fa-ae65-f362841d94a9",
+  "vendor": "Xfer Records"
 }

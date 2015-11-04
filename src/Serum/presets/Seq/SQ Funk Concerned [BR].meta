@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "8dd0ec8c-6d32-482d-858e-32cc2f6acf9b",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod to change the groove",
+  "deviceType": "INST",
+  "name": "SQ Funk Concerned [BR]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Funk Concerned [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod to change the groove",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "fec2fd05-6fb1-408c-a5eb-ac15267087aa",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "fdb3f9e6-721c-45d5-bf3a-399a10f3546f",
+  "author": "Dom Kane",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Organ Grinder [DK]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Organ Grinder [DK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Dom Kane"
+  "uuid": "f6bed70a-806c-49e2-88c1-8ba6ef1ee61d",
+  "vendor": "Xfer Records"
 }

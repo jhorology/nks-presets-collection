@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4070cec2-8826-4332-bf84-a1f98089968d",
+  "author": "Lance Thackeray",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "FM with a cozy crackle.",
+  "deviceType": "INST",
+  "name": "PD Event Horizon [LT]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Event Horizon [LT]",
-  "deviceType": "INST",
-  "comment": "FM with a cozy crackle.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Lance Thackeray"
+  "uuid": "91f24d89-378e-4389-aea0-f54538640b75",
+  "vendor": "Xfer Records"
 }

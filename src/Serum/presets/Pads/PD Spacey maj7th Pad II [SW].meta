@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d9cd5798-55d5-443a-af51-c2cbd5d6a570",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Spacey maj7th Pad II [SW]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Spacey maj7th Pad II [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "9552be0e-d5c3-4b07-9a83-7cdad9c514b6",
+  "vendor": "Xfer Records"
 }

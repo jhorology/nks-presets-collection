@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4e3d5dc9-9d6d-45b1-a633-2cc5cb6ebcde",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA 8bitfwap [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA 8bitfwap [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "ae624132-e22b-4822-8344-0af2a626705e",
+  "vendor": "Xfer Records"
 }

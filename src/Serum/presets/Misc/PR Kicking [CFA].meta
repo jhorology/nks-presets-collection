@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b2f36cc6-f3b4-420a-9c15-963bc208199d",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Simple Kickdrum",
+  "deviceType": "INST",
+  "name": "PR Kicking [CFA]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR Kicking [CFA]",
-  "deviceType": "INST",
-  "comment": "Simple Kickdrum",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "c31947e5-584b-4b44-a2b0-3b7fecad8e09",
+  "vendor": "Xfer Records"
 }

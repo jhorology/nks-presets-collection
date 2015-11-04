@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "616bdd18-ce1b-4de9-bf3f-8dd2b699bda1",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "FX Shotgun [FN]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Shotgun [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "5153d6ec-5a90-415b-896c-c7f30fab2c88",
+  "vendor": "Xfer Records"
 }

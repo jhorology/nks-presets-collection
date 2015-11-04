@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d5ce45f6-7814-4455-bfcc-2218b1f50393",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod Wheel controls swarming",
+  "deviceType": "INST",
+  "name": "LD Festival Beez [FP]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Festival Beez [FP]",
-  "deviceType": "INST",
-  "comment": "Mod Wheel controls swarming",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "b2bdae27-10eb-4638-806d-3ed159a6788c",
+  "vendor": "Xfer Records"
 }

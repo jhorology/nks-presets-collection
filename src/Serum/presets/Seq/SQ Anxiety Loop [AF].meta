@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1b000991-da36-476e-8326-c55123e7080d",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Anxiety Loop [AF]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Anxiety Loop [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "0ffc9a29-bb8c-40a8-b9e9-1fa20332f1c7",
+  "vendor": "Xfer Records"
 }

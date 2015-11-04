@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "565d9fd8-42bc-4b02-ba55-de29a3af1651",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Screamy Sync Square [ASL]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Screamy Sync Square [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "733d6b58-dcc1-4d50-9616-a51e52aadbde",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b1c2cb17-cff3-4c76-9d02-26cd8efcaba8",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX ConvergenceB [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX ConvergenceB [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "af8e824f-229e-4560-9896-18788caee354",
+  "vendor": "Xfer Records"
 }

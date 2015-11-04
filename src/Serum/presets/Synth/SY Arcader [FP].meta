@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0509363b-9fc8-48be-abe7-08e3ff98b9e7",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel gets dirty",
+  "deviceType": "INST",
+  "name": "SY Arcader [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Arcader [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel gets dirty",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "1d05e324-2771-4233-b756-b7db20d51579",
+  "vendor": "Xfer Records"
 }

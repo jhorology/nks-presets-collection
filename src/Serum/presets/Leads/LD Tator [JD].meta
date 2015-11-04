@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2ad14b9f-e4d2-46d2-9395-e2fd51c24c78",
+  "author": "Jordy Dazz",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Tator [JD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Tator [JD]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Jordy Dazz"
+  "uuid": "7855b380-bd70-4413-856d-8a518ab110da",
+  "vendor": "Xfer Records"
 }

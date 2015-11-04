@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "40770173-2de0-4dba-bdfd-7a65d191f834",
+  "author": "Lance Thackeray",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "G# is the key you're looking for...",
+  "deviceType": "INST",
+  "name": "SQ Blade [LT]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Blade [LT]",
-  "deviceType": "INST",
-  "comment": "G# is the key you're looking for...",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Lance Thackeray"
+  "uuid": "853994d7-e2f5-4cff-bb2e-6e85ad4ca16f",
+  "vendor": "Xfer Records"
 }

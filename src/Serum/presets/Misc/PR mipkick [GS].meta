@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "be3f1964-2b87-45b5-b7c5-fd629b2b86a4",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PR mipkick [GS]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR mipkick [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "9b269d82-f87c-4d65-acf9-3a2d00db340d",
+  "vendor": "Xfer Records"
 }

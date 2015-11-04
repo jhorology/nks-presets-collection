@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e3b7f523-2248-4fd0-9b2c-77a816ccd426",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "...so we put a 5th in your 5th",
+  "deviceType": "INST",
+  "name": "LD IHeardULike5ths [SD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD IHeardULike5ths [SD]",
-  "deviceType": "INST",
-  "comment": "...so we put a 5th in your 5th",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "8eb094f6-79e2-4795-92b8-5a8d2fa159e3",
+  "vendor": "Xfer Records"
 }

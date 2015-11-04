@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9e53a747-6604-4684-9608-0bab0b035d49",
+  "author": "Riktam",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Fast Runner [RI]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Fast Runner [RI]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Riktam"
+  "uuid": "ffddd51d-e4e1-4cae-8112-a81bcc5f8f9a",
+  "vendor": "Xfer Records"
 }

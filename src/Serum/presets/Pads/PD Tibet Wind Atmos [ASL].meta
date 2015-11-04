@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "191991b8-3283-4d63-8119-988ef1fad9ed",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Tibet Wind Atmos [ASL]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Tibet Wind Atmos [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "134bec35-f46b-4cf4-abfd-4dce77e30eba",
+  "vendor": "Xfer Records"
 }

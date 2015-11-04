@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e37c29d7-1759-4d5d-9e8a-d1c31dfdeff9",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA GRWL PNCH! [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA GRWL PNCH! [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "209910b5-dc1d-4fbc-9654-5e0cbf69aef7",
+  "vendor": "Xfer Records"
 }

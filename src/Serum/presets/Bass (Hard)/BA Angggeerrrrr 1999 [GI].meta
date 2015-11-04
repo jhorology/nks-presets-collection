@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9aae016c-680f-4157-9ea3-3e3e673cd9ec",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Angggeerrrrr 1999 [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Angggeerrrrr 1999 [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "78f57134-06e5-4582-b023-adaeae46f685",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "6325cc04-ccd3-4b47-a172-425c8f959ad0",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel to filter",
+  "deviceType": "INST",
+  "name": "SY Mr.Wiggles [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Mr.Wiggles [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel to filter",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "1624278f-01c4-4ae1-a69c-c8481614bdab",
+  "vendor": "Xfer Records"
 }

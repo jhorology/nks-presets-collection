@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "364e2046-7014-41ea-9c85-863d00d04d85",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Wobbly kinda",
+  "deviceType": "INST",
+  "name": "BA RBLz [7S]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA RBLz [7S]",
-  "deviceType": "INST",
-  "comment": "Wobbly kinda",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "c9a25dd1-7b81-41fa-83a2-61d909529e17",
+  "vendor": "Xfer Records"
 }

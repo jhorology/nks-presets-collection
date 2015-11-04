@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "08a9acf3-dd9a-47d8-8192-57f121cee2d4",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PR gamelan tweak [GS]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR gamelan tweak [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "29760083-7c23-4fc7-ba73-ed9cc4bf3de5",
+  "vendor": "Xfer Records"
 }

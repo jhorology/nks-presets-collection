@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3f4c2fd1-ae71-4e94-9875-902b98ed7264",
+  "author": "DiskoUnkle",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD D_Pad 2 [DU]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD D_Pad 2 [DU]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "DiskoUnkle"
+  "uuid": "107f2508-2f4d-446b-8347-bf187b6be08e",
+  "vendor": "Xfer Records"
 }

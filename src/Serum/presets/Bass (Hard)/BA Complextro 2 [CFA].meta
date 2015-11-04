@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "36f3fb9a-89c7-4075-af2b-d4bca0be8aed",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Complextro styled bass",
+  "deviceType": "INST",
+  "name": "BA Complextro 2 [CFA]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Complextro 2 [CFA]",
-  "deviceType": "INST",
-  "comment": "Complextro styled bass",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "8dcb0bee-c2bf-42ad-8151-b984be9b5870",
+  "vendor": "Xfer Records"
 }

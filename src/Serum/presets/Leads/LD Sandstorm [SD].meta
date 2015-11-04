@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "82f34779-f3a4-4f9b-9b59-50aded508304",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "D D D       G G G    F F F",
+  "deviceType": "INST",
+  "name": "LD Sandstorm [SD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Sandstorm [SD]",
-  "deviceType": "INST",
-  "comment": "D D D       G G G    F F F",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "83e18e2d-1087-4d03-99f2-55b780907877",
+  "vendor": "Xfer Records"
 }

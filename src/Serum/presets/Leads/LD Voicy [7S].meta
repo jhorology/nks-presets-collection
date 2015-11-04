@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f330aaeb-212e-4efb-855e-8bb91c2c5aa8",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Voicy Lead but works as bass too",
+  "deviceType": "INST",
+  "name": "LD Voicy [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Voicy [7S]",
-  "deviceType": "INST",
-  "comment": "Voicy Lead but works as bass too",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "871cef4b-71fe-403a-a4e2-040a34b6eeff",
+  "vendor": "Xfer Records"
 }

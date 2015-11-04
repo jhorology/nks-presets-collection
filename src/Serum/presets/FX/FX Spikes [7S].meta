@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f12a64b1-aa72-46ad-97cd-ae2a2f492854",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Hardcoreeeee!",
+  "deviceType": "INST",
+  "name": "FX Spikes [7S]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Spikes [7S]",
-  "deviceType": "INST",
-  "comment": "Hardcoreeeee!",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "2377f660-c4e2-442f-a808-ee31933237ee",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f276e93f-8210-44e6-88a2-3b5463052c50",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Zombie Growl [SD]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Zombie Growl [SD]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "758e5b7f-075f-4412-9979-ebf9ed047251",
+  "vendor": "Xfer Records"
 }

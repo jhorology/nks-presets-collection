@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f0238021-1246-4417-8a64-3cb01e4b327e",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Know your history",
+  "deviceType": "INST",
+  "name": "LD Birth Of Electro [FP]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Birth Of Electro [FP]",
-  "deviceType": "INST",
-  "comment": "Know your history",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "bc9c15dc-e8c5-4293-90c3-33e6fc2c1893",
+  "vendor": "Xfer Records"
 }

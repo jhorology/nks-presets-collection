@@ -22,7 +22,7 @@ $ =
   #-------------------------------------------
   pub: "#{process.env.HOME}/Dropbox/Share/NKS"
   json_indent: 2
-  
+
   #
   # Native Instruments
   #-------------------------------------------
@@ -62,7 +62,7 @@ where
   PresetDisplayName = $name
   and PresetRelativePath = $folder
 '''
-  
+
 gulp.task 'coffeelint', ->
   gulp.src ['*.coffee', "lib/*.coffee"]
     .pipe coffeelint 'coffeelint.json'
@@ -99,7 +99,7 @@ gulp.task 'velvet-prepare', ->
     .pipe rewrite (file, data) ->
       console.info beautify (JSON.stringify data), indent_size: 2
       undefined
-      
+
 gulp.task 'parse-deployed-velvet', ->
   gulp.src ["#{$.userContentDir}/Velvet/**/*.nksf"], read: true
     .pipe rewrite (file, data) ->
@@ -127,7 +127,7 @@ gulp.task 'deploy-velvet', ->
 # ---------------------------------------------------------------
 
 #
-# prepare tasks
+# preparing tasks
 # --------------------------------
 
 # print metadata of _Default.nksf
@@ -154,12 +154,6 @@ gulp.task 'serum-extract-raw-presets', ->
     ]
   , "src/#{$.Serum.dir}/presets"
 
-# copy resources to dist folder
-gulp.task 'serum-dist-resources', [
-  'serum-dist-image'
-  'serum-dist-database'
-]
-
 # generate metadata from serum's sqlite database
 gulp.task 'serum-generate-meta', ->
   # open database
@@ -173,14 +167,14 @@ gulp.task 'serum-generate-meta', ->
       # execute query
       db.get $.Serum.query, params, (err, row) ->
         done err,
-          author: row.Author?.trim()
-          bankchain: ['Serum', 'Serum Factory', '']
-          comment: row.Description?.trim()
-          deviceType: 'INST'
-          name: row.PresetDisplayName?.trim()
-          types: [[row.Category?.trim()]]
-          uuid: uuid.v4()
           vendor: $.Serum.vendor
+          uuid: uuid.v4()
+          types: [[row.Category?.trim()]]
+          name: row.PresetDisplayName?.trim()
+          deviceType: 'INST'
+          comment: row.Description?.trim()
+          bankchain: ['Serum', 'Serum Factory', '']
+          author: row.Author?.trim()
     .pipe data (file) ->
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
       file.contents = new Buffer json
@@ -192,6 +186,17 @@ gulp.task 'serum-generate-meta', ->
       # colse database
       db.close()
 
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'serum-dist', [
+  'serum-dist-image'
+  'serum-dist-database'
+  'serum-dist-presets'
+]
+
 # copy image resources to dist folder
 gulp.task 'serum-dist-image', ->
   _dist_image $.Serum.dir, $.Serum.vendor
@@ -202,56 +207,78 @@ gulp.task 'serum-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'serum-dist-presets', ->
-  gulp.src ["src/#{$.Serum.dir}/presets/**/*.pchk"], read: true
-    .pipe data (file) ->
-      console.info "#### 1"
-      riff = builder 'NIKS'
-      console.info "#### 1-1 #{file.path[..-5]}meta"
-      # NISI chunk -- metadata
-      meta = _serialize require "src/#{$.Serum.dir}/presets/#{file.relative[..-5]}meta"
-      console.info "#### 1-2"
-      riff.pushChunk 'NISI', meta
-      # NACA chunk -- mapping
-      console.info "#### 2"
-      mapping = _serialize require "src/#{$.Serum.dir}/mapping/default.json"
-      riff.pushChunk 'NICA', mapping
-      # PLID chunk -- plugin id
-      console.info "#### 3"
-      mapping = _serialize $.Serum.PLID
-      riff.pushChunk 'PLID', mapping
-      # PCHK chunk -- raw preset (pluginstates)
-      console.info "#### 4"
-      riff.pushChunk 'PCHK', file.contens
-      # output file contents
-      console.info "#### 5"
-      file.contents = riff.buffer()
-      # .pchk -> .nksf
-      file.path = "#{file.path[..-5]}nksf"
-    .pipe gulp.dest "dist/#{$.Serum.dir}/User Content"
+  _dist_presets $.Serum.dir, $.Serum.PLID
 
-# utility routines
-# ---------------------------
- 
-# desrilize to json object 
+# check
+gulp.task 'serum-check-dist-presets', ->
+  dist = "dist/#{$.Serum.dir}/User Content/#{$.Serum.dir}"
+  gulp.src ["#{dist}/**/*.nksf"], read: true
+    .pipe extract
+      form_type: 'NIKS'
+      chunk_ids: ['NISI', 'NICA', 'PLID']
+    .pipe data (file) ->
+      console.info _deserialize file
+
+#
+# deploy
+# --------------------------------
+gulp.task 'serum-deploy', [
+  'serum-deploy-resources'
+  'serum-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'serum-deploy-resources', ->
+  _deploy_resources $.Serum.dir
+
+# copy database resources to dist folder
+gulp.task 'serum-deploy-presets', ->
+  _deploy_presets $.Serum.dir
+
+
+
+# ---------------------------------------------------------------
+# end Xfer Record Serum
+
+
+
+
+
+
+# common routines
+# ---------------------------------------------------------------
+
+#
+# utility
+# --------------------------------
+# desrilize to json object
 _deserialize = (file) ->
   json = nks.deserializer file.contents
     .deserialize()
   beautify (JSON.stringify json), indent_size: $.json_indent
 
-# desrilize to json object 
+# desrilize to json object
 _serialize = (json) ->
-  console.info "kpoqkpwdqwd"
-  console.info beautify (JSON.stringify json), indent_size: $.json_indent
   nks.serializer json
     .serialize()
     .buffer()
+
+
+# read JSON file
+# * 'require' can't use for non '.js,.json' file
+_require_meta = (filePath) ->
+  JSON.parse fs.readFileSync filePath, "utf8"
+
+#
+# prepair
+# --------------------------------
 
 # generate default parameter mapping file
 _generate_default_mapping = (dir) ->
   gulp.src ["#{$.NI.userContent}/#{dir}/_Default.nksf"]
     .pipe changed "src/#{dir}/mappings",
       hasChanged: (stream, cb, file, dest) ->
-        dest = path.join (path.dirname dest), 'default.json' 
+        dest = path.join (path.dirname dest), 'default.json'
         changed.compareLastModifiedTime stream, cb, file, dest
     .pipe extract
       form_type: 'NIKS'
@@ -296,6 +323,10 @@ _extract_raw_presets = (srcs, dest) ->
       chunk_ids: ['PCHK']
     .pipe gulp.dest dest
 
+#
+# dist
+# --------------------------------
+
 # copy image resources to dist folder
 _dist_image = (dir, vendor) ->
   gulp.src ["src/#{dir}/resources/image/**/*.{json,meta,png}"]
@@ -307,5 +338,41 @@ _dist_database = (dir, vendor) ->
     .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{vendor.toLowerCase()}/#{dir.toLowerCase()}"
 
 
+# build presets file to dist folder
+_dist_presets = (dir, PLID) ->
+  presets = "src/#{dir}/presets"
+  mappings = "./src/#{dir}/mappings"
+  dist = "dist/#{dir}/User Content/#{dir}"
+  gulp.src ["#{presets}/**/*.pchk"], read: true
+    .pipe data (file) ->
+      riff = builder 'NIKS'
+      # NISI chunk -- metadata
+      meta = _serialize _require_meta "#{presets}/#{file.relative[..-5]}meta"
+      riff.pushChunk 'NISI', meta
+      # NACA chunk -- mapping
+      mapping = _serialize require "#{mappings}/default.json"
+      riff.pushChunk 'NICA', mapping
+      # PLID chunk -- plugin id
+      mapping = _serialize PLID
+      riff.pushChunk 'PLID', mapping
+      # PCHK chunk -- raw preset (pluginstates)
+      riff.pushChunk 'PCHK', file.contents
+      # output file contents
+      file.contents = riff.buffer()
+      # .pchk -> .nksf
+      file.path = "#{file.path[..-5]}nksf"
+    .pipe gulp.dest dist
 
+#
+# deploy
+# --------------------------------
 
+# copy resources to local environment
+_deploy_resources = (dir) ->
+  gulp.src ["dist/#{dir}/NI Resources/**/*.{json,meta,png}"]
+    .pipe gulp.dest $.NI.resources
+
+# copy presets to local environment
+_deploy_presets = (dir) ->
+  gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
+    .pipe gulp.dest $.NI.userContent

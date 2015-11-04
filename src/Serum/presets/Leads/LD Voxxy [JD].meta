@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3bd3a1de-fa60-4937-b98b-75767759f8a7",
+  "author": "Jordy Dazz",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Voxxy [JD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Voxxy [JD]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Jordy Dazz"
+  "uuid": "bfdd035a-47fd-4bc8-bde5-c725d67df8bc",
+  "vendor": "Xfer Records"
 }

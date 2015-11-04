@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9c024ea5-b910-4069-ab6a-e5c05cdab43d",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel lowers cutoff",
+  "deviceType": "INST",
+  "name": "LD Marina [FP]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Marina [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel lowers cutoff",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "773487a3-70a8-4819-a9f8-dddae46ec869",
+  "vendor": "Xfer Records"
 }

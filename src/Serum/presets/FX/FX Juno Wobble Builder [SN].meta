@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "62e0776d-8148-472d-8f14-13ac3afd91c8",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Juno Wobble Builder [SN]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Juno Wobble Builder [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "2a638825-e651-49b3-b3d4-94167c3a37b3",
+  "vendor": "Xfer Records"
 }

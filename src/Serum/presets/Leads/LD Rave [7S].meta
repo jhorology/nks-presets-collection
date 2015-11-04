@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "56759211-f609-4ef0-ba31-fb50eb8a42d5",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Acid-Ish Lead",
+  "deviceType": "INST",
+  "name": "LD Rave [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Rave [7S]",
-  "deviceType": "INST",
-  "comment": "Acid-Ish Lead",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "4d38f9bc-6941-4be1-a7b8-a7a82cf7ce2e",
+  "vendor": "Xfer Records"
 }

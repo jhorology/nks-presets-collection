@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ee715b20-7563-4add-83a4-bf732591e1f3",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel to extra spooky vibrato",
+  "deviceType": "INST",
+  "name": "LD Spookytastic [FP]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Spookytastic [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel to extra spooky vibrato",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "ec3eec65-8677-41c5-8e15-a4eaddb17347",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "68b53121-3fbb-4844-9633-36a41207beed",
+  "author": "Lance Thackeray",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Who needs a DAW anyway?",
+  "deviceType": "INST",
+  "name": "SQ Heh [LT]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Heh [LT]",
-  "deviceType": "INST",
-  "comment": "Who needs a DAW anyway?",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Lance Thackeray"
+  "uuid": "d970f399-9493-4534-b4c9-295466118625",
+  "vendor": "Xfer Records"
 }

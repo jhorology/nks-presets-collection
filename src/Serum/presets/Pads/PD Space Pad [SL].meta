@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3627a801-0262-47e0-95c9-767bb36bfabd",
+  "author": "SeamlessR",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Space Pad [SL]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Space Pad [SL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "SeamlessR"
+  "uuid": "8d46f60c-9ba2-4435-90ad-19ba2822b61b",
+  "vendor": "Xfer Records"
 }

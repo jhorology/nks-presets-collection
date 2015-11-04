@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d2241b52-6005-431b-ab6f-c059e2ecfd01",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "velocity to harmonic series",
+  "deviceType": "INST",
+  "name": "SY VeloHarm [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY VeloHarm [GS]",
-  "deviceType": "INST",
-  "comment": "velocity to harmonic series",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "d2ba1017-ae58-452c-86d7-0e311a24247b",
+  "vendor": "Xfer Records"
 }

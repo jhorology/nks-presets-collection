@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a92ce016-7655-489d-8e21-072f6b766b6d",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Electro Phrase 2 [SN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Electro Phrase 2 [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "b2327bd8-590a-4c0d-b82a-335f854f9ede",
+  "vendor": "Xfer Records"
 }

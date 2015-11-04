@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "6eaedcc4-50de-4527-aef2-01e52192c6eb",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Yep Serum can do that",
+  "deviceType": "INST",
+  "name": "SQ DownUnder [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ DownUnder [7S]",
-  "deviceType": "INST",
-  "comment": "Yep Serum can do that",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "aba7438f-c9dd-49af-92fc-9fde9268045e",
+  "vendor": "Xfer Records"
 }

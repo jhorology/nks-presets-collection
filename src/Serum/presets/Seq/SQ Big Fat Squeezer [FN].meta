@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "87de13a8-cc2d-4676-8cac-c682176e19c5",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "SQ Big Fat Squeezer [FN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Big Fat Squeezer [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "9ccba995-8f3d-40b6-8e83-4ba8cd132056",
+  "vendor": "Xfer Records"
 }

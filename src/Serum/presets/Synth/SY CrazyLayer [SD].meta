@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f1d43c27-286c-49ca-85ad-d9bb47ef8056",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Layer something with this for vibe",
+  "deviceType": "INST",
+  "name": "SY CrazyLayer [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY CrazyLayer [SD]",
-  "deviceType": "INST",
-  "comment": "Layer something with this for vibe",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "2edb4863-a0f5-4f8a-9c8f-60b28ed7f365",
+  "vendor": "Xfer Records"
 }

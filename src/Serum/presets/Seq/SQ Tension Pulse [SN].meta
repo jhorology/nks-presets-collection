@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "94b87eb5-e95a-42e9-a96b-4607444e9fbe",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Tension Pulse [SN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Tension Pulse [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "c763a5cf-4a55-4608-b6bd-ece06c824fe8",
+  "vendor": "Xfer Records"
 }

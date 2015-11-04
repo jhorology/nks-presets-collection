@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3630ae68-490d-4355-bc52-6055a377426d",
+  "author": "B-sides",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Bionic Squirrel [BS]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Bionic Squirrel [BS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B-sides"
+  "uuid": "7938c4f8-448d-40be-b33e-c0d4cf231f25",
+  "vendor": "Xfer Records"
 }

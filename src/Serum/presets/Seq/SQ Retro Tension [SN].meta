@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "833bd09d-d9fa-4686-afd1-1c9903fcb883",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Retro Tension [SN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Retro Tension [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "1e7caf31-d364-4f80-8f21-f3b63b51502e",
+  "vendor": "Xfer Records"
 }

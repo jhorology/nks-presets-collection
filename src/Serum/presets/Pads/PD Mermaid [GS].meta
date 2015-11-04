@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9dc6a359-27e0-421d-996d-2109cdeda261",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Mermaid [GS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Mermaid [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "afde4b61-0b95-46ba-bb73-a48bc537735e",
+  "vendor": "Xfer Records"
 }

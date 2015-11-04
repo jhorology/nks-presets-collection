@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5c750079-898c-4086-bc8c-86e09bcc374e",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Lo-fi Beat [AS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Lo-fi Beat [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "1df97b3d-3414-4001-b11b-a1882ba3b3f1",
+  "vendor": "Xfer Records"
 }

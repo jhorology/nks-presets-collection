@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "dde7cc1b-d275-4c59-88e0-23e66e56604b",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Moogy lead",
+  "deviceType": "INST",
+  "name": "LD Caliber [SD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Caliber [SD]",
-  "deviceType": "INST",
-  "comment": "Moogy lead",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "064b4b1a-9602-48ab-bda7-eb59089c27a5",
+  "vendor": "Xfer Records"
 }

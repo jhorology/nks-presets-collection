@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c5a8ee8f-fb92-4d22-8d60-c49dbc4fad26",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Darkens patch",
+  "deviceType": "INST",
+  "name": "SQ Fifth Ave 2 [JL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Fifth Ave 2 [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Darkens patch",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "0506d0fa-a71c-4425-8cdc-19cd99a23f60",
+  "vendor": "Xfer Records"
 }

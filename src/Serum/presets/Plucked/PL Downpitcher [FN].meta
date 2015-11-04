@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "eb6de63c-fc2c-4069-af65-6f3dcf217ad6",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "PL Downpitcher [FN]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Downpitcher [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "37c05243-47cb-490a-a9b7-b0a0000e6c11",
+  "vendor": "Xfer Records"
 }

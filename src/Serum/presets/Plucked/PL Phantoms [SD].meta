@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a474ef3b-ce14-486f-b09d-53989855c173",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "just a quick+dirty imitation.",
+  "deviceType": "INST",
+  "name": "PL Phantoms [SD]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Phantoms [SD]",
-  "deviceType": "INST",
-  "comment": "just a quick+dirty imitation.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "68b4af80-85e8-4781-9277-ebb8e2501970",
+  "vendor": "Xfer Records"
 }

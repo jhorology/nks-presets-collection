@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e56373da-451b-4cc8-8881-69b1eeef7947",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Junatic [AF]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Junatic [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "8e2abfce-5c2a-4e58-84c5-cbd778ff410e",
+  "vendor": "Xfer Records"
 }

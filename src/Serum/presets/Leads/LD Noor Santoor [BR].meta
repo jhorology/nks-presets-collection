@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "540395b3-ed97-4aac-a54f-a6eefab56bdf",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Pitch Wheel for Authentic Santoor Glides",
+  "deviceType": "INST",
+  "name": "LD Noor Santoor [BR]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Noor Santoor [BR]",
-  "deviceType": "INST",
-  "comment": "Use Pitch Wheel for Authentic Santoor Glides",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "0ca09a92-4062-42db-915c-221f6543d959",
+  "vendor": "Xfer Records"
 }

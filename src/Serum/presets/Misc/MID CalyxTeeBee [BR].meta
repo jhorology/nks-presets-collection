@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "46952d88-0a8e-458e-8f1d-7322d5dc1867",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Calyxteebee Style - Use Mod",
+  "deviceType": "INST",
+  "name": "MID CalyxTeeBee [BR]",
   "types": [
     ["Midrange"]
   ],
-  "name": "MID CalyxTeeBee [BR]",
-  "deviceType": "INST",
-  "comment": "Calyxteebee Style - Use Mod",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "5326b5a7-1b8d-44cd-8ea8-ce1d60633987",
+  "vendor": "Xfer Records"
 }

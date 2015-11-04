@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e036d6d5-1b18-40f4-a7eb-82f955331bab",
+  "author": "Ritkam",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD In Your Face [RI]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD In Your Face [RI]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Ritkam"
+  "uuid": "580cd6fa-a696-499b-886c-022b8ba19250",
+  "vendor": "Xfer Records"
 }

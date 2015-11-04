@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "09d68417-59a8-4efa-9199-bb915471162e",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SAW Find me [AF]",
   "types": [
     ["Sawtooth"]
   ],
-  "name": "SAW Find me [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "68cc25e7-2354-4e30-a281-ba293deca151",
+  "vendor": "Xfer Records"
 }

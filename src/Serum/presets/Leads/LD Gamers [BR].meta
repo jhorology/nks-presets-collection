@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "eade2719-2b1f-4ebb-af37-d614d03311f4",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mods and Macro",
+  "deviceType": "INST",
+  "name": "LD Gamers [BR]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Gamers [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mods and Macro",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "cb1a192a-6341-45f8-8d63-4a95eb2a21bb",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b94e47c7-7b81-4103-bdc1-ac06a327fa57",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY cHello [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY cHello [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "5560d758-c079-4778-a010-2bd59b62ff8c",
+  "vendor": "Xfer Records"
 }

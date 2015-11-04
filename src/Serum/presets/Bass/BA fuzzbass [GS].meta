@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "274e03b1-affe-4c57-99bd-dad1b6692140",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod your sustained notes",
+  "deviceType": "INST",
+  "name": "BA fuzzbass [GS]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA fuzzbass [GS]",
-  "deviceType": "INST",
-  "comment": "Mod your sustained notes",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "6b4191da-fdf3-4c3b-ae08-cf75259a1780",
+  "vendor": "Xfer Records"
 }

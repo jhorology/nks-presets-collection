@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b602994e-45d7-46ce-8f56-dc25bf616487",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "play it low for bad dreams.",
+  "deviceType": "INST",
+  "name": "SY Stereoid [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Stereoid [SD]",
-  "deviceType": "INST",
-  "comment": "play it low for bad dreams.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "f49879c0-9ee6-47eb-909b-2c43c401d941",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "aa42abb7-f253-408e-b56f-1aab9665cab2",
+  "author": "Riktam",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Chords Simple [RI]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Chords Simple [RI]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Riktam"
+  "uuid": "b7579b8d-6505-487e-98bd-8c665cb8c42b",
+  "vendor": "Xfer Records"
 }

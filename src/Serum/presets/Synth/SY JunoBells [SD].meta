@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "30431643-5874-4f51-a226-2e15f4fcead6",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "A City in Alaska",
+  "deviceType": "INST",
+  "name": "SY JunoBells [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY JunoBells [SD]",
-  "deviceType": "INST",
-  "comment": "A City in Alaska",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "5b01374f-9edc-48e4-b10f-47570b08f7f3",
+  "vendor": "Xfer Records"
 }

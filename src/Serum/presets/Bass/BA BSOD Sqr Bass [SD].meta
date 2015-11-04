@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e2bfd2e6-0eda-4013-b6af-0ba61e4f9c50",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "push it harder bass",
+  "deviceType": "INST",
+  "name": "BA BSOD Sqr Bass [SD]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA BSOD Sqr Bass [SD]",
-  "deviceType": "INST",
-  "comment": "push it harder bass",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "3e8fa882-ae8f-45c1-9b42-49af2d8b349a",
+  "vendor": "Xfer Records"
 }

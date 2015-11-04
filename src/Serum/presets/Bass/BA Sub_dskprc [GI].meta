@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c3e694dc-a43b-4d71-8213-29b3ed0d2ea8",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Sub_dskprc [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Sub_dskprc [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "c686ab07-194a-49f0-9867-fc0222121cd1",
+  "vendor": "Xfer Records"
 }

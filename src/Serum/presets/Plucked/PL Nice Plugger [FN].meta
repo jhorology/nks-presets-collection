@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "46853319-98b1-4cfd-bb4f-0203107cc228",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "PL Nice Plugger [FN]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Nice Plugger [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "1a0978c0-d83b-48d9-8582-6f93d9084dec",
+  "vendor": "Xfer Records"
 }

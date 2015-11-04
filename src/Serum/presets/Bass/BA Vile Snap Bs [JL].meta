@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f39306f7-fde4-4e9b-9f1d-9b5e3e10e701",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Changes OSC A Waveform & B Pitch]",
+  "deviceType": "INST",
+  "name": "BA Vile Snap Bs [JL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Vile Snap Bs [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Changes OSC A Waveform & B Pitch]",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "559df421-f630-4432-9c00-d9284310d70d",
+  "vendor": "Xfer Records"
 }

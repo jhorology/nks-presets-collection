@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "dd407917-c6a8-43be-9ce3-4ad0fb46e244",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY MellowBuzz [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY MellowBuzz [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "db235189-3146-45fa-b770-c3d31ead05a7",
+  "vendor": "Xfer Records"
 }

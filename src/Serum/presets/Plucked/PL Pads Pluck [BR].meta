@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7b1a7478-3112-44df-9394-d76990848919",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Chords for Pads and Single Notes for Plucks",
+  "deviceType": "INST",
+  "name": "PL Pads Pluck [BR]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Pads Pluck [BR]",
-  "deviceType": "INST",
-  "comment": "Chords for Pads and Single Notes for Plucks",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "249debaa-4fd2-44b5-99df-0803232e90f9",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3f577f5b-ba3c-4d47-9105-c302bcb6ec57",
+  "author": "Kris Giampa (Red-Eye)",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Angry Organ [KG]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Angry Organ [KG]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Kris Giampa (Red-Eye)"
+  "uuid": "3b284fb1-dfd6-4e99-a777-63a90a98dd62",
+  "vendor": "Xfer Records"
 }

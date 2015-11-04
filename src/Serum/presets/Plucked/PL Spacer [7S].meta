@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "05e25f9d-78e1-4900-821b-484e9cc0f89b",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Square Pluck",
+  "deviceType": "INST",
+  "name": "PL Spacer [7S]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Spacer [7S]",
-  "deviceType": "INST",
-  "comment": "Square Pluck",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "2a20b60d-ece5-45ab-8bb6-7e1fafac281a",
+  "vendor": "Xfer Records"
 }

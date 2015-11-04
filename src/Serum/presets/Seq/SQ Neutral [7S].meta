@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a8976c94-c9e7-46d9-9bf6-5d44aa773b94",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Step Sequenced & coll stuff",
+  "deviceType": "INST",
+  "name": "SQ Neutral [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Neutral [7S]",
-  "deviceType": "INST",
-  "comment": "Step Sequenced & coll stuff",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "4feb9790-f082-4f58-8ee2-95b84d5ea9e6",
+  "vendor": "Xfer Records"
 }

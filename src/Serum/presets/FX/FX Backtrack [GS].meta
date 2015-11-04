@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3e7af614-5265-457d-80f1-e0e0d7425408",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "mod vibr",
+  "deviceType": "INST",
+  "name": "FX Backtrack [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Backtrack [GS]",
-  "deviceType": "INST",
-  "comment": "mod vibr",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "23ca52fc-4086-484f-99ef-92ea5e12f877",
+  "vendor": "Xfer Records"
 }

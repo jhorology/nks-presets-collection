@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0c9e8fda-645e-4f6b-8155-085634296966",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "facebook.com/7skiesfan",
+  "deviceType": "INST",
+  "name": "LD Sad Melody [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Sad Melody [7S]",
-  "deviceType": "INST",
-  "comment": "facebook.com/7skiesfan",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "cf126399-1c9f-4ad2-886a-dc986a0263ff",
+  "vendor": "Xfer Records"
 }

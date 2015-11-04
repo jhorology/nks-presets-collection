@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "080e82c4-b296-4f2f-bc8d-51ac759992e6",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Beating Pad [AS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Beating Pad [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "69fc6eb9-bfd5-463d-8ae2-b28c3023b94e",
+  "vendor": "Xfer Records"
 }

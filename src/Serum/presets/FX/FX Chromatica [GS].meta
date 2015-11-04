@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ca96454c-b3a5-40d5-8231-52ea34411c26",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Chromatica [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Chromatica [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "5adadb55-f030-47e2-a228-b82002183e5f",
+  "vendor": "Xfer Records"
 }

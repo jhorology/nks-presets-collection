@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "bcf352c7-a613-4a43-9677-35dfc48a2b95",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Liquid neuro [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Liquid neuro [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "e27ffa2a-91bb-441e-a363-ee952df47b39",
+  "vendor": "Xfer Records"
 }

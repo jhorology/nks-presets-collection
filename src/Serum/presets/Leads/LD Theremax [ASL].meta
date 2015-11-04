@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d7a84025-ca92-4cc9-b12d-707f81087eba",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Theremax [ASL]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Theremax [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "2f5b11d4-3697-4437-8e1a-8facd56f7e79",
+  "vendor": "Xfer Records"
 }

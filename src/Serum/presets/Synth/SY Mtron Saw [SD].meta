@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "6b428d23-ae4c-4f6c-a3dd-1092452d052f",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "..if the Mellotron did saws...",
+  "deviceType": "INST",
+  "name": "SY Mtron Saw [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Mtron Saw [SD]",
-  "deviceType": "INST",
-  "comment": "..if the Mellotron did saws...",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "cac6f0b6-4023-4268-b6f0-e805a12a7c3e",
+  "vendor": "Xfer Records"
 }

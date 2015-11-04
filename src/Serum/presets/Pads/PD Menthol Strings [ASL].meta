@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7be3620c-6cef-4690-9b9b-cc13308cfc55",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Menthol Strings [ASL]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Menthol Strings [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "7b9676a4-dbe9-4094-ac4f-9ef60ff59afb",
+  "vendor": "Xfer Records"
 }

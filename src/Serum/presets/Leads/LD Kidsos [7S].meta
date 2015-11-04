@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f117aa99-2664-43d9-b3d4-37114fafbf9a",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Housey Square, lead support",
+  "deviceType": "INST",
+  "name": "LD Kidsos [7S]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Kidsos [7S]",
-  "deviceType": "INST",
-  "comment": "Housey Square, lead support",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "7c3dfebd-e705-4b7c-8e11-49cbb93a5005",
+  "vendor": "Xfer Records"
 }

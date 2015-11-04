@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d8531242-db10-4735-8771-a1c6d82a0948",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Trancy Bass [AS]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Trancy Bass [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "bdac6b4e-ba31-47e3-b421-195893f66039",
+  "vendor": "Xfer Records"
 }

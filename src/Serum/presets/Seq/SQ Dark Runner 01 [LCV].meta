@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "de441720-c48f-41e6-abd3-d357ae800df6",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Dark Runner 01 [LCV]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Dark Runner 01 [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "c3b5f2de-03cb-499d-b0ad-cc08187f288a",
+  "vendor": "Xfer Records"
 }

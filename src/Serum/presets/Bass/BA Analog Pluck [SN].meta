@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9b689cc3-98b3-48d7-8fff-bbc1273dae4d",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Analog Pluck [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Analog Pluck [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "bdc71393-9188-4323-9286-de53b62a1a31",
+  "vendor": "Xfer Records"
 }

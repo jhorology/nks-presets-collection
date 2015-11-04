@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "bdb20e95-3b10-4705-a5e4-9fe8671a122d",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA BitterBot [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA BitterBot [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "eb8bd213-4c92-4c12-a08f-e8717abdae18",
+  "vendor": "Xfer Records"
 }

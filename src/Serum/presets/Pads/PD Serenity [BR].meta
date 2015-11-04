@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f63152f6-1c11-4433-a946-4d2eb1f9445c",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "My Precious",
+  "deviceType": "INST",
+  "name": "PD Serenity [BR]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Serenity [BR]",
-  "deviceType": "INST",
-  "comment": "My Precious",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "d93cf33a-ffe0-4a2c-a282-933f36791531",
+  "vendor": "Xfer Records"
 }

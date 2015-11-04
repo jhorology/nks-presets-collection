@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d96ed3d5-b5e3-4856-9183-c1dfabfb992b",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL Big Bells [AS]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Big Bells [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "aa567430-6560-4102-aac0-b993af649524",
+  "vendor": "Xfer Records"
 }

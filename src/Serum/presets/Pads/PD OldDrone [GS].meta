@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ac9e0476-615a-4fb0-9dd6-e725a309a70e",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD OldDrone [GS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD OldDrone [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "1ed5c89e-e9ef-442c-b3c1-cb2e4ffb109d",
+  "vendor": "Xfer Records"
 }

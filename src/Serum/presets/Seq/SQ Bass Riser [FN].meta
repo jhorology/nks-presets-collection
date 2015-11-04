@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a0d6b47b-61fd-4e25-b40b-3daacc8bfcae",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "SQ Bass Riser [FN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Bass Riser [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "7dd17403-72c6-47a7-b989-0df8d6f8b78e",
+  "vendor": "Xfer Records"
 }

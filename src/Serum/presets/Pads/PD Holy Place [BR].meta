@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3334c254-6ab1-4582-a2d3-6b1584af7599",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod and Macro",
+  "deviceType": "INST",
+  "name": "PD Holy Place [BR]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Holy Place [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod and Macro",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "4e736644-63e3-4455-8986-d73f27b9c0db",
+  "vendor": "Xfer Records"
 }

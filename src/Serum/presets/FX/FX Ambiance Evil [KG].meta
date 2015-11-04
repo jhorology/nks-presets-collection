@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "8a99b277-52d0-4130-b361-e0b664a99091",
+  "author": "Kris Giampa (Red-Eye)",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Ambiance Evil [KG]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Ambiance Evil [KG]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Kris Giampa (Red-Eye)"
+  "uuid": "dfb15d6d-1a93-4531-924e-ea56910f36d3",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9ec6b624-fbc5-478d-9957-8a08145905c5",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Cannon [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Cannon [7S]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "716e9f88-6fd2-42f4-9422-2377c439574d",
+  "vendor": "Xfer Records"
 }

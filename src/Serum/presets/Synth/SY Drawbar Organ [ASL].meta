@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1020555c-735d-4582-9392-4a47549737e5",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Drawbar Organ [ASL]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Drawbar Organ [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "8d8f9493-c685-40b8-92d1-297d5cb9743e",
+  "vendor": "Xfer Records"
 }

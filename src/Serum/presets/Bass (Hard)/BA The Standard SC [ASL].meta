@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9b800bde-e7ec-4899-8486-61ec48ced553",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA The Standard SC [ASL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA The Standard SC [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "0ac83c16-17a2-464a-99b6-b60a8ea77544",
+  "vendor": "Xfer Records"
 }

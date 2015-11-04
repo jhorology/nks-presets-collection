@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "724829fa-8453-4555-aa15-db59d0576b5b",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Space Bach [SN]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Space Bach [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "01931c81-8364-4fc2-8c1f-42197a148010",
+  "vendor": "Xfer Records"
 }

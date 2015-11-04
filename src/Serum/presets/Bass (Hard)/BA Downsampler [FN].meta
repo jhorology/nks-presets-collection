@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b239d854-c2bf-4f9b-b8f9-67e8fec24ddf",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "BA Downsampler [FN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Downsampler [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "5173abf0-504d-4887-a630-facbffe98fee",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "738a5d48-69b6-4a46-bad8-72f0eb59959b",
+  "author": "Derrek",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL Tinkerbell [DRK]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Tinkerbell [DRK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Derrek"
+  "uuid": "9a8363f3-caf5-4e64-a29f-fa3677d7a364",
+  "vendor": "Xfer Records"
 }

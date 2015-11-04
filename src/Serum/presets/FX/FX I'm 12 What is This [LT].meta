@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d4e9ec38-0b4b-43a8-aa12-a1ae02a33f9d",
+  "author": "Lance Thackeray",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Glitch madness.",
+  "deviceType": "INST",
+  "name": "FX I'm 12 What is This [LT]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX I'm 12 What is This [LT]",
-  "deviceType": "INST",
-  "comment": "Glitch madness.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Lance Thackeray"
+  "uuid": "0fbe09dd-21f7-4f54-8e35-5deaba061822",
+  "vendor": "Xfer Records"
 }

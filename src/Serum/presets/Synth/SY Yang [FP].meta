@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "01e00823-93ac-4952-b121-ba24bbae4c34",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel to cutoff & release",
+  "deviceType": "INST",
+  "name": "SY Yang [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Yang [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel to cutoff & release",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "98f4e753-9648-4b82-8d67-b4545e4d21a5",
+  "vendor": "Xfer Records"
 }

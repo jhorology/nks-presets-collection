@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c597ec28-f012-4845-9d92-cf8df779b65c",
+  "author": "Riktam",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL Plucked [RI]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Plucked [RI]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Riktam"
+  "uuid": "74572abe-c8aa-4979-aff8-6e0f1eaf6952",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a6d70b23-ee13-4871-95e2-3783272f013c",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PR Dirty Kick [SN]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR Dirty Kick [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "05c474a7-756e-47fe-a5ab-4e7e69334b6f",
+  "vendor": "Xfer Records"
 }

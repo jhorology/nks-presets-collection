@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "dfcf1803-6868-46f1-a449-e7004779f9d2",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://7skies-music.com",
+  "deviceType": "INST",
+  "name": "BA BlackMask [7S]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA BlackMask [7S]",
-  "deviceType": "INST",
-  "comment": "http://7skies-music.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "055a12fd-0fb6-414d-b485-849ee4a4aa3e",
+  "vendor": "Xfer Records"
 }

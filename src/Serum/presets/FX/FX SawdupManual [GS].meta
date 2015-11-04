@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5b0e0a59-34c1-4e12-8d19-c9e25a73d0e9",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "use Macros & Mod Wheel!",
+  "deviceType": "INST",
+  "name": "FX SawdupManual [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX SawdupManual [GS]",
-  "deviceType": "INST",
-  "comment": "use Macros & Mod Wheel!",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "7daf3ff5-2206-4507-8e7e-f3560bafba4c",
+  "vendor": "Xfer Records"
 }

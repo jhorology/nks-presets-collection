@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ae04c9f5-e53f-49b2-aa80-7ca270e61ef3",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Hell Saw Sequence [SN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Hell Saw Sequence [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "04b2937c-e6ab-4a1d-b05a-cb3475e9a666",
+  "vendor": "Xfer Records"
 }

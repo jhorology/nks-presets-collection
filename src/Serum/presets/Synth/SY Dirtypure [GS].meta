@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b48cbc53-7b8e-4403-b7f6-31f01accb1df",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Dirtypure [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Dirtypure [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "1696efc3-65d8-46ab-a9ea-4c3354ffc3aa",
+  "vendor": "Xfer Records"
 }

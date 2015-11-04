@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "56485429-2bc7-438c-966d-1b66395522f5",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Bass Pitfire [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Bass Pitfire [7S]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "28e80d8e-e570-48c2-b95b-4197333aedf7",
+  "vendor": "Xfer Records"
 }

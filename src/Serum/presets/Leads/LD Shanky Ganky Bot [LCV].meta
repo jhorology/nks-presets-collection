@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "df34e9c6-7693-48a7-81e4-bd2d0bb73508",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Lower notes are nice",
+  "deviceType": "INST",
+  "name": "LD Shanky Ganky Bot [LCV]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Shanky Ganky Bot [LCV]",
-  "deviceType": "INST",
-  "comment": "Lower notes are nice",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "7352ce29-2b94-443b-a89f-f1ec37a10305",
+  "vendor": "Xfer Records"
 }

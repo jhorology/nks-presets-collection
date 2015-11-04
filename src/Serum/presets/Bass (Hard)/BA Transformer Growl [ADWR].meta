@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2e64730c-e45c-4fdd-aec8-0a1f9bec10f3",
+  "author": "AtDawnWeRage",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Transformer Growl [ADWR]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Transformer Growl [ADWR]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "AtDawnWeRage"
+  "uuid": "e9bce366-b986-45a6-b25a-9efa9f6a8b21",
+  "vendor": "Xfer Records"
 }

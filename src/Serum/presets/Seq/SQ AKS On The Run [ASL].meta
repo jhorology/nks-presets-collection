@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "fc43d3f3-317c-4f44-a591-c9038cc9439b",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "D# 165 BPM for the Floyd Vibe",
+  "deviceType": "INST",
+  "name": "SQ AKS On The Run [ASL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ AKS On The Run [ASL]",
-  "deviceType": "INST",
-  "comment": "D# 165 BPM for the Floyd Vibe",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "9e4321d7-ed4d-4c63-89c3-b5217fb775de",
+  "vendor": "Xfer Records"
 }

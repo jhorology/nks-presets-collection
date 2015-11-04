@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c3884e0c-f8e5-4c33-b83a-ec5c856ec6ae",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Lush Pad SOund",
+  "deviceType": "INST",
+  "name": "PD Lux [7S]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Lux [7S]",
-  "deviceType": "INST",
-  "comment": "Lush Pad SOund",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "cd6a44d3-c9a4-4e14-a2b3-f737161758e2",
+  "vendor": "Xfer Records"
 }

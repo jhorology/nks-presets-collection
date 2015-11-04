@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a115cac5-a62d-400c-b5e6-a3b30baf2a35",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Snailed [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Snailed [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "3f9c89f1-2e7f-4f92-924c-53c5adf4c4cc",
+  "vendor": "Xfer Records"
 }

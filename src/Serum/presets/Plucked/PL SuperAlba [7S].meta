@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "19f13bf0-4d3a-4956-ae88-dc9f323b0c8c",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Old Anjunabeats kind of plucks",
+  "deviceType": "INST",
+  "name": "PL SuperAlba [7S]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL SuperAlba [7S]",
-  "deviceType": "INST",
-  "comment": "Old Anjunabeats kind of plucks",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "461aa07c-7d33-4b5a-a880-75ac7aa99796",
+  "vendor": "Xfer Records"
 }

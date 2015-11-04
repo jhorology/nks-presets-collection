@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a5777f0f-3120-4083-928c-2c1c1e3544a2",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Warp the Sonics",
+  "deviceType": "INST",
+  "name": "LD Digi Radar Boss [JL]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Digi Radar Boss [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Warp the Sonics",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "3d897f1b-1cf3-448d-9a67-dd7bf6292680",
+  "vendor": "Xfer Records"
 }

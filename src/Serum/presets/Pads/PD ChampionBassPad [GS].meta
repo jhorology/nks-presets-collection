@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a004db2e-fc44-4797-98f4-970b8a493f7b",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD ChampionBassPad [GS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD ChampionBassPad [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "d8fe7ccb-d5d8-4703-a2eb-5412e2d92e5f",
+  "vendor": "Xfer Records"
 }

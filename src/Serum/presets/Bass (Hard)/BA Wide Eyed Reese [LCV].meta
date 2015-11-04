@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0769900e-86ae-4df5-b87c-283419641211",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Wide Eyed Reese [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Wide Eyed Reese [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "dd70965c-0bb0-4fb3-b82c-c1092b3f0062",
+  "vendor": "Xfer Records"
 }

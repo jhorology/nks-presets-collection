@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2b7a73c5-b6de-4a94-9951-1de80b98e5de",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Velocity -> Smack",
+  "deviceType": "INST",
+  "name": "PL Mallety [SD]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Mallety [SD]",
-  "deviceType": "INST",
-  "comment": "Velocity -> Smack",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "767e4e2e-6e28-436f-9650-3d4b172ae68c",
+  "vendor": "Xfer Records"
 }

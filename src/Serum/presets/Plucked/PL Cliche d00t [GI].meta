@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "02630357-1010-4be9-9b97-bcd137f44e18",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "PL Cliche d00t [GI]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Cliche d00t [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "45fa1759-9394-4d0f-ba12-19603a3bf9a9",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5abf75ea-6fc3-471e-baae-f26584d24f17",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Just debugging and liked it.",
+  "deviceType": "INST",
+  "name": "SQ New Wavy [SD]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ New Wavy [SD]",
-  "deviceType": "INST",
-  "comment": "Just debugging and liked it.",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "4722d1d8-bb31-4f4e-90d6-b041f9ac5f1d",
+  "vendor": "Xfer Records"
 }

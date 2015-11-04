@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "95d8fb15-3411-46b1-b530-2afe22dd9b36",
+  "author": "Dom Kane",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Bendy Metal [DK]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Bendy Metal [DK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Dom Kane"
+  "uuid": "99d44614-dcb8-4bb0-9b9c-133a24e2f169",
+  "vendor": "Xfer Records"
 }

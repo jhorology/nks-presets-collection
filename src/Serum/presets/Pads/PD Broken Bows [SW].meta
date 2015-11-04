@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0abcf53f-6bf8-460f-9aae-63b564ac6b4d",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Broken Bows [SW]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Broken Bows [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "3d0aee22-a1f2-41a8-b00b-3cc555a93847",
+  "vendor": "Xfer Records"
 }

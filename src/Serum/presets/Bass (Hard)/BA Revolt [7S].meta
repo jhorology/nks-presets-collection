@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "44d1bdae-67f4-4498-a5fc-53bb2480867d",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Works as both bass and lead",
+  "deviceType": "INST",
+  "name": "BA Revolt [7S]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Revolt [7S]",
-  "deviceType": "INST",
-  "comment": "Works as both bass and lead",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "f0fb39f8-05d7-4dcb-9886-7e62bd28c0c8",
+  "vendor": "Xfer Records"
 }

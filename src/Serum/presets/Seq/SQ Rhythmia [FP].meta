@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9e1491ac-1dcb-4152-b3c4-4d93d20aa70f",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel to cutoff",
+  "deviceType": "INST",
+  "name": "SQ Rhythmia [FP]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Rhythmia [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel to cutoff",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "dbc72429-2c3d-40e1-8ee0-dfc732873427",
+  "vendor": "Xfer Records"
 }

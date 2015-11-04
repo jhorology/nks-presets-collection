@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ab86502a-2f4c-45f0-9138-5b70c93ed40b",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Dub Screecher [SN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Dub Screecher [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "0a567152-7a0b-4725-835b-e5b9d4cbccb8",
+  "vendor": "Xfer Records"
 }

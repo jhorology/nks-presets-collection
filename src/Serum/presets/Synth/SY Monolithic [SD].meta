@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ec842001-aa29-4b7c-a7c7-7a0d61df237c",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "'default' comment (its a joke)",
+  "deviceType": "INST",
+  "name": "SY Monolithic [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Monolithic [SD]",
-  "deviceType": "INST",
-  "comment": "'default' comment (its a joke)",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "bd9f748a-673c-42d7-98b3-c7e66628df12",
+  "vendor": "Xfer Records"
 }

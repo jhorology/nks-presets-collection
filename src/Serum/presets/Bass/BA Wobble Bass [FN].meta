@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f78fcfd2-fed8-411c-a219-77015a0dd069",
+  "author": "Frank \"Xenox\" Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Wobble Bass [FN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Wobble Bass [FN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank \"Xenox\" Neumann"
+  "uuid": "e847d6d8-837a-4273-a20d-4566f87ced03",
+  "vendor": "Xfer Records"
 }

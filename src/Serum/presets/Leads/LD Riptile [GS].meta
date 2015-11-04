@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "6b1707ea-c271-4be3-ad0d-fe7ea503e6fd",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Riptile [GS]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Riptile [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "1b0a3152-850b-4a13-b3ab-9630975c61ee",
+  "vendor": "Xfer Records"
 }

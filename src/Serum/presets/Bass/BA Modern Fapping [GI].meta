@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "287f1f81-126d-49ba-bf41-29679225c0ea",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Modern Fapping [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Modern Fapping [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "1aba69e0-0cc8-4e26-a448-7ff3ec93312b",
+  "vendor": "Xfer Records"
 }

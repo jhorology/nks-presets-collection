@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c0b43be0-c77b-4b33-894a-37b37d267c51",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Pyg [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Pyg [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "74d127cb-8a30-41e1-8f44-a0dc7a57d661",
+  "vendor": "Xfer Records"
 }

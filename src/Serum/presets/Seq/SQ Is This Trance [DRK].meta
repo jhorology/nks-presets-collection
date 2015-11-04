@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b66c1bd7-e519-479f-ad5c-6416f836c821",
+  "author": "Derrek",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Is This Trance [DRK]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Is This Trance [DRK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Derrek"
+  "uuid": "156e86ea-dbb4-420f-9843-19cea48c4dfe",
+  "vendor": "Xfer Records"
 }

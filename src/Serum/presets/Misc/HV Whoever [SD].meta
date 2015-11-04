@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "af7f2530-523b-429d-b0dd-59fb2ecce005",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Thats it m8",
+  "deviceType": "INST",
+  "name": "HV Whoever [SD]",
   "types": [
     ["Hoover"]
   ],
-  "name": "HV Whoever [SD]",
-  "deviceType": "INST",
-  "comment": "Thats it m8",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "3ca6bf59-19d8-4c63-8b25-0508853bf3be",
+  "vendor": "Xfer Records"
 }

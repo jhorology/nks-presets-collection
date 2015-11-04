@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d70d97dc-69b2-459f-8a02-804c96c60c5b",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Modwheel me [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Modwheel me [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "f1871d31-e692-4ab4-9186-d8b52343f74b",
+  "vendor": "Xfer Records"
 }

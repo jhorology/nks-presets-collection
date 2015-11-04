@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d3c46c7e-6f2e-420d-96c0-819c4c39ef8b",
+  "author": "Duda & LCV",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "LCV edit of crusty vintage lead",
+  "deviceType": "INST",
+  "name": "PL Crusty Pluck [LCV]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Crusty Pluck [LCV]",
-  "deviceType": "INST",
-  "comment": "LCV edit of crusty vintage lead",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Duda & LCV"
+  "uuid": "85550496-5183-4dc8-b5d1-726fdc0039f1",
+  "vendor": "Xfer Records"
 }

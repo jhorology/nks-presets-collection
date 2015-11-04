@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "eca9d314-1e66-41ea-8f7b-69055c5b4057",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "macro and cheese",
+  "deviceType": "INST",
+  "name": "LD Mobius Sync [SD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Mobius Sync [SD]",
-  "deviceType": "INST",
-  "comment": "macro and cheese",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "c7469654-0f93-494e-9c0b-55831d352fe5",
+  "vendor": "Xfer Records"
 }

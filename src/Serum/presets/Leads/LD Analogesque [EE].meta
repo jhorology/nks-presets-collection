@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "08e67ed3-08b7-4499-a386-82df384d7ea6",
+  "author": "Eekkoo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Analogesque [EE]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Analogesque [EE]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Eekkoo"
+  "uuid": "50ed399a-f1d6-4c90-b0d5-aef6c7ecb62e",
+  "vendor": "Xfer Records"
 }

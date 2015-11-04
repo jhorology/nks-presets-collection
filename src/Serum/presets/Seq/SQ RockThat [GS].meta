@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4a6ac851-36da-4c10-a3fc-ccb42e13c7a6",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Remix of SQPerc04LT",
+  "deviceType": "INST",
+  "name": "SQ RockThat [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ RockThat [GS]",
-  "deviceType": "INST",
-  "comment": "Remix of SQPerc04LT",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "47e30a32-4ea6-495b-8342-3ccafe610979",
+  "vendor": "Xfer Records"
 }

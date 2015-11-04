@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "99f137c9-6d9b-4707-a7c9-47954c2a9f11",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Swinging Saws [ASL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Swinging Saws [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "77404ac7-cc0c-4767-b6c7-ea816ddb19e4",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4d459181-d763-4a65-920f-a148940910bf",
+  "author": "Shreddward",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Dub (Techno) [SW]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Dub (Techno) [SW]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Shreddward"
+  "uuid": "6003af8f-015f-4cec-98d5-58a7bc705124",
+  "vendor": "Xfer Records"
 }

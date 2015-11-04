@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "222c405d-3868-4e2a-8d22-698d13a5f7db",
+  "author": "Groove Q",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Bass & Seq",
+  "deviceType": "INST",
+  "name": "BA Chunky Bass Chop 2 [GQ]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Chunky Bass Chop 2 [GQ]",
-  "deviceType": "INST",
-  "comment": "Bass & Seq",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Groove Q"
+  "uuid": "8d68adab-7d4c-4ed4-b459-ec1343dfb6f8",
+  "vendor": "Xfer Records"
 }

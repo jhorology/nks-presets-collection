@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b410562c-18d8-47ab-b46d-f61ed9bbc05c",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Tu-um-wii [AF]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Tu-um-wii [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "9f4f224a-5e11-47de-aaf2-663806370910",
+  "vendor": "Xfer Records"
 }

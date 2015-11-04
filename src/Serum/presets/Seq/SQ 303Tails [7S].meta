@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "55099e64-1e5c-4965-8e52-6ee97b973425",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "rock them 303",
+  "deviceType": "INST",
+  "name": "SQ 303Tails [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ 303Tails [7S]",
-  "deviceType": "INST",
-  "comment": "rock them 303",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "028a5ce5-e184-4805-b6d0-af55c8e3e6c3",
+  "vendor": "Xfer Records"
 }

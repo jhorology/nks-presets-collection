@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "45157a36-67ae-4ed7-a104-87027d814cdd",
+  "author": "Steve Duda | SOR",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Look ma, I loaded a noise!",
+  "deviceType": "INST",
+  "name": "PD Horns of Fear [SD]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Horns of Fear [SD]",
-  "deviceType": "INST",
-  "comment": "Look ma, I loaded a noise!",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda | SOR"
+  "uuid": "fff98191-7042-4e88-9714-ce0e544008cd",
+  "vendor": "Xfer Records"
 }

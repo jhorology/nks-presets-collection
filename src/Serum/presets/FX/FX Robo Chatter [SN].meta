@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "adf7a612-34d3-439d-8baa-7af3318ddce5",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Robo Chatter [SN]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Robo Chatter [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "36559935-501a-473b-b782-67318c6550d4",
+  "vendor": "Xfer Records"
 }

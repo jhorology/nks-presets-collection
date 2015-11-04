@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b7f3aa9d-943f-4d74-bc4f-bcb95660ffa2",
+  "author": "B-sides",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ BassCrackin [BS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ BassCrackin [BS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B-sides"
+  "uuid": "af4f4003-6ea8-4ee6-8d97-d28c14f3a53e",
+  "vendor": "Xfer Records"
 }

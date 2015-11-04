@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "90aa5ac8-3f7d-444c-9b70-ae7e2a0c0031",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Y U Mod Wheel [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Y U Mod Wheel [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "463fb917-b707-4511-8ff8-8bca8dac89e1",
+  "vendor": "Xfer Records"
 }

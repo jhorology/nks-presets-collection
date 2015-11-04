@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4b61afbc-e79a-4763-9e17-2ecbec50cd18",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Hold notes with offset timing",
+  "deviceType": "INST",
+  "name": "PD Falling In Reverse [LCV]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Falling In Reverse [LCV]",
-  "deviceType": "INST",
-  "comment": "Hold notes with offset timing",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "a9cd8c3a-01ef-4d2d-87cd-3250fffe3b98",
+  "vendor": "Xfer Records"
 }

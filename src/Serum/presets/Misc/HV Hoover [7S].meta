@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "68a9ab8e-1c49-4fba-9de3-bde3a28a8289",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "HV Hoover [7S]",
   "types": [
     ["Hoover"]
   ],
-  "name": "HV Hoover [7S]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "c37f049a-4a6f-4d2d-ae4d-00783d55c0ba",
+  "vendor": "Xfer Records"
 }

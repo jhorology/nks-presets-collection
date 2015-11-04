@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9005b8ce-1db0-4df8-bc6b-b1aad5f05b2d",
+  "author": "Derrek",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA No Effects [DRK]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA No Effects [DRK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Derrek"
+  "uuid": "8c42c8fa-9a67-45fa-ab62-3211c0a5e2cb",
+  "vendor": "Xfer Records"
 }

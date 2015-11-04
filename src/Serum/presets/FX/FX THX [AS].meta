@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5f6f8901-733a-4ab8-8602-2691bb82a289",
+  "author": "Adam Szabo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX THX [AS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX THX [AS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Adam Szabo"
+  "uuid": "dba4de1c-13a3-4e53-ac90-47ce6b4b1a7f",
+  "vendor": "Xfer Records"
 }

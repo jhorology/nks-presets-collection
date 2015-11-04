@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a54b6d9f-874d-49e5-b1b5-ff60453251b2",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Bass dropper [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Bass dropper [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "e38ae966-2154-4179-bc51-f8e9125e7ba7",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f3c0dd9d-71d7-4bf2-a7d8-0114741a4da3",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Scratchy (Hold!) [AF]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Scratchy (Hold!) [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "e167816d-44bb-4b83-9072-c1a915d3430b",
+  "vendor": "Xfer Records"
 }

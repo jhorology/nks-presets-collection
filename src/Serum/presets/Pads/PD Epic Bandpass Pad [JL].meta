@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "521c5dd0-0f94-415a-9ec8-eb30bb3b0fd9",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "MOD: Faster Envelope and Brighter Sound",
+  "deviceType": "INST",
+  "name": "PD Epic Bandpass Pad [JL]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Epic Bandpass Pad [JL]",
-  "deviceType": "INST",
-  "comment": "MOD: Faster Envelope and Brighter Sound",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "527c7fe4-073e-425c-a65f-7f1d30377b85",
+  "vendor": "Xfer Records"
 }

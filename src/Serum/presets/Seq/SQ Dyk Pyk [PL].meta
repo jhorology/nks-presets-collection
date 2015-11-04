@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7e3f3215-1184-4f51-b96b-4f62463c6d4d",
+  "author": "Paul Laski",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Dyk Pyk [PL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Dyk Pyk [PL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Paul Laski"
+  "uuid": "421f055a-f285-462f-b853-9e2d9f06e122",
+  "vendor": "Xfer Records"
 }

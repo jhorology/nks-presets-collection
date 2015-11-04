@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e7706c7b-7b24-4b0c-b96d-9e217ed1641a",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod Wheel for purple vibrato",
+  "deviceType": "INST",
+  "name": "KY Let's Get Nutz [FP]",
   "types": [
     ["Keyboard"]
   ],
-  "name": "KY Let's Get Nutz [FP]",
-  "deviceType": "INST",
-  "comment": "Mod Wheel for purple vibrato",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "fccc2ceb-bb0b-4913-9620-2b03991248d6",
+  "vendor": "Xfer Records"
 }

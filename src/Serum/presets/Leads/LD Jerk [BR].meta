@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5f09e740-1b0b-4e3b-9b5c-f12b44030962",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mods and Macro",
+  "deviceType": "INST",
+  "name": "LD Jerk [BR]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Jerk [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mods and Macro",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "6b79d73d-3ef8-450c-9054-8401013491c5",
+  "vendor": "Xfer Records"
 }

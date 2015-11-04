@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1ba1e8e0-cc16-450e-bb7f-ccb2b453c309",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Dark Wobble Bass",
+  "deviceType": "INST",
+  "name": "BA DarkWobble [CFA]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA DarkWobble [CFA]",
-  "deviceType": "INST",
-  "comment": "Dark Wobble Bass",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "4313b882-e3f2-41cc-9c9e-df4a3b6f99c8",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ea3c31d6-9ae0-4bc2-aef5-a5fbdb2130f8",
+  "author": "AtDawnWeRage",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Talk Wobz [ADWR]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Talk Wobz [ADWR]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "AtDawnWeRage"
+  "uuid": "c5caff3a-43ed-4dde-9dd9-56ca27c65ce1",
+  "vendor": "Xfer Records"
 }

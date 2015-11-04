@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "060ac80b-5d7c-41ba-8970-086d2da53bf1",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Flic [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Flic [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "a6692223-8f03-48d4-b893-a56af434f52e",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5b75e417-7535-40e2-b182-34130b0086bb",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "BA Deth reece [GI]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Deth reece [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "b997f854-cd7c-41aa-af2b-361b8d9bf113",
+  "vendor": "Xfer Records"
 }

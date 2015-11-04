@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2b56e292-3f57-4ef7-962d-455b4c1f0a7f",
+  "author": "Lance Thackeray",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "But wait, there's more!",
+  "deviceType": "INST",
+  "name": "FX Rampant 2 [LT]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Rampant 2 [LT]",
-  "deviceType": "INST",
-  "comment": "But wait, there's more!",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Lance Thackeray"
+  "uuid": "c0efcb22-e5a7-465d-bb92-46be500fff42",
+  "vendor": "Xfer Records"
 }

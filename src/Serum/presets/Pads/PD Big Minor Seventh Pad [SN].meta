@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7c0da255-590c-4b7f-97a7-366914872ff1",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Big Minor Seventh Pad [SN]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Big Minor Seventh Pad [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "048e4f54-0019-4881-8722-78bf5058a930",
+  "vendor": "Xfer Records"
 }

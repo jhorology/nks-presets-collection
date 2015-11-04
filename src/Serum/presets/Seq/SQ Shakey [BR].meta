@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "47ae2678-7f3f-4d86-9643-5c909e4b6d43",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod Wheel",
+  "deviceType": "INST",
+  "name": "SQ Shakey [BR]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Shakey [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod Wheel",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "0acb6e96-d8da-4903-9fff-d1613946a2cc",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b5491e8c-6764-4c7b-95f5-c6f71bc7c5f4",
+  "author": "7 Skies",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "You can make a track",
+  "deviceType": "INST",
+  "name": "SQ Masters [7S]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Masters [7S]",
-  "deviceType": "INST",
-  "comment": "You can make a track",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "7 Skies"
+  "uuid": "5dbf8b4b-9d9c-4ed1-8c7a-6667a24b7fb3",
+  "vendor": "Xfer Records"
 }

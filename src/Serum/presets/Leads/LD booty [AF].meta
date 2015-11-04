@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "8da4e860-7d09-40d4-89bb-d477c1ef8fdc",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD booty [AF]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD booty [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "b93c5425-efc3-444f-b1e9-ba30eb3ec113",
+  "vendor": "Xfer Records"
 }

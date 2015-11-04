@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "828a1bad-1ca9-47e5-bec6-3b17378cc649",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "SY electro-y chords [GI]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY electro-y chords [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "e8e5fa50-c104-4502-adce-5d81dc5d5981",
+  "vendor": "Xfer Records"
 }

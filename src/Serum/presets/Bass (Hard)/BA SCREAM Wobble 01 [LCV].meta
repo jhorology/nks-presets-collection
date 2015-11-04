@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "211148c9-5e22-4665-9b1a-63001448f696",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA SCREAM Wobble 01 [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA SCREAM Wobble 01 [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "b4def8ee-af8d-4fd8-a5d6-3a6fc699afa6",
+  "vendor": "Xfer Records"
 }

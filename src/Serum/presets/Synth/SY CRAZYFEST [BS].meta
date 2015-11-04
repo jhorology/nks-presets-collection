@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a5e8c0fc-e933-4267-9c2c-3c4ac51851b1",
+  "author": "B-sides",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Basic Hypersaw",
+  "deviceType": "INST",
+  "name": "SY CRAZYFEST [BS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY CRAZYFEST [BS]",
-  "deviceType": "INST",
-  "comment": "Basic Hypersaw",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B-sides"
+  "uuid": "77fa4608-eb60-4b1d-88cd-a27ce63e79da",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "1f6fdd19-5694-44f1-b832-f77da1dfc023",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Noisy Complextro Bass",
+  "deviceType": "INST",
+  "name": "BA Razor [CFA]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Razor [CFA]",
-  "deviceType": "INST",
-  "comment": "Noisy Complextro Bass",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "720dbc62-28e9-42b1-a1b5-caf5a7720ca7",
+  "vendor": "Xfer Records"
 }

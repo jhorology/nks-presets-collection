@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ba9e7485-91f8-42ce-aa91-bdb0917ff07b",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "mod space",
+  "deviceType": "INST",
+  "name": "PD BenjPad [GS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD BenjPad [GS]",
-  "deviceType": "INST",
-  "comment": "mod space",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "fc0294d6-46b5-4b58-8159-23faab1fb913",
+  "vendor": "Xfer Records"
 }

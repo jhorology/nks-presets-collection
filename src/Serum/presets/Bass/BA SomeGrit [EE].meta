@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "9efe5887-00c4-4438-8689-8f06c2d41a10",
+  "author": "Eekkoo",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA SomeGrit [EE]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA SomeGrit [EE]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Eekkoo"
+  "uuid": "c0608c7d-8925-451b-9114-63b4f74fe104",
+  "vendor": "Xfer Records"
 }

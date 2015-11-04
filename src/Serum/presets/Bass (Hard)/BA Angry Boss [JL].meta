@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ec501450-d0b5-42ac-b392-616666d7a81c",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Warp the Sonics / Drop the Octave",
+  "deviceType": "INST",
+  "name": "BA Angry Boss [JL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Angry Boss [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Warp the Sonics / Drop the Octave",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "0985690f-84cc-4d6d-82d9-9438b4b6f75b",
+  "vendor": "Xfer Records"
 }

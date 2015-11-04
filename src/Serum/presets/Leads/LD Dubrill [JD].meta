@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "deb1d156-8683-42cc-8383-d675c4fa3a1a",
+  "author": "Jordy Dazz",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Dubrill [JD]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Dubrill [JD]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Jordy Dazz"
+  "uuid": "299fecb2-f3e3-411d-9c9c-607e84072379",
+  "vendor": "Xfer Records"
 }

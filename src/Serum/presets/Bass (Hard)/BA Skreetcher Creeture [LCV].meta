@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5415d1af-98fd-4aa8-b954-a57152815aeb",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Skreetcher Creeture [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Skreetcher Creeture [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "b0ec2a28-9107-4257-9555-f725b3d37147",
+  "vendor": "Xfer Records"
 }

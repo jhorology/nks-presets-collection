@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "c911068c-7345-41d3-a209-2611c128c785",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Know your history...",
+  "deviceType": "INST",
+  "name": "SY Linear Arithmetic [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Linear Arithmetic [FP]",
-  "deviceType": "INST",
-  "comment": "Know your history...",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "24191eb0-18f7-453a-8616-017db5ad067f",
+  "vendor": "Xfer Records"
 }

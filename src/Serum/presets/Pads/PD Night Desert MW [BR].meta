@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d945f6b2-68bb-4b17-b25a-3c20cb0c21e5",
+  "author": "B Roy Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Use Mod Wisely",
+  "deviceType": "INST",
+  "name": "PD Night Desert MW [BR]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Night Desert MW [BR]",
-  "deviceType": "INST",
-  "comment": "Use Mod Wisely",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "B Roy Sound"
+  "uuid": "f5d46a20-c34f-4aa0-91ba-b2e00e6463f8",
+  "vendor": "Xfer Records"
 }

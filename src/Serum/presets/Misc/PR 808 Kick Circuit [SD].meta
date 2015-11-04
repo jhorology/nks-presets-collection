@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "b89890fc-1963-4012-84e8-0a87d06fab96",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "808 kick drum",
+  "deviceType": "INST",
+  "name": "PR 808 Kick Circuit [SD]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR 808 Kick Circuit [SD]",
-  "deviceType": "INST",
-  "comment": "808 kick drum",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "2324ceb0-07b2-4520-b012-6df932d73c59",
+  "vendor": "Xfer Records"
 }

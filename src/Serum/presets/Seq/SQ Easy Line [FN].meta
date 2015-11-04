@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3aa5551e-68c2-42df-9499-bf29c295e07c",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "SQ Easy Line [FN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Easy Line [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "1cc8f2f1-5436-42db-a571-0ce98e1d79e7",
+  "vendor": "Xfer Records"
 }

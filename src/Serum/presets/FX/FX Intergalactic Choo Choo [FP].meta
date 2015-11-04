@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d1537edd-35a9-4004-a20b-e312933fccfc",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel activates warp drive",
+  "deviceType": "INST",
+  "name": "FX Intergalactic Choo Choo [FP]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Intergalactic Choo Choo [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel activates warp drive",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "92e178b8-76ff-4bc2-b002-957d2f27c4db",
+  "vendor": "Xfer Records"
 }

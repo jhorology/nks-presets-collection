@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2ad058c5-6f1f-46e0-9023-8ff273aba1d6",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "M1 Preset #17",
+  "deviceType": "INST",
+  "name": "BA Organ Bass [FP]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Organ Bass [FP]",
-  "deviceType": "INST",
-  "comment": "M1 Preset #17",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "5e90340c-36bf-4403-a207-24caf725f45b",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f3287c04-1d8f-4dc5-9f80-e6fcc1f0a809",
+  "author": "Gigantor",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://evolintent.com",
+  "deviceType": "INST",
+  "name": "SY Sickly keys [GI]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Sickly keys [GI]",
-  "deviceType": "INST",
-  "comment": "http://evolintent.com",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Gigantor"
+  "uuid": "1bafaaed-31b1-4824-8c4a-4bbd028658f8",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ac7759d4-dbca-400c-b938-f97c637a64e8",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod Wheel to Duran Duran (Charlies Angels)",
+  "deviceType": "INST",
+  "name": "SY Solina [FP]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Solina [FP]",
-  "deviceType": "INST",
-  "comment": "Mod Wheel to Duran Duran (Charlies Angels)",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "0742b822-6672-4388-8ada-265b751df9bd",
+  "vendor": "Xfer Records"
 }

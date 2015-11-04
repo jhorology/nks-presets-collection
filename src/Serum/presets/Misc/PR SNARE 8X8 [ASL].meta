@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f7dfa6d5-0a2f-40c4-9535-e7288ee906ba",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PR SNARE 8X8 [ASL]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR SNARE 8X8 [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "dedb8600-c10b-4bc9-b803-46bfdd47c661",
+  "vendor": "Xfer Records"
 }

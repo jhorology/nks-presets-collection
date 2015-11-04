@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "e3ac21f1-0453-40a3-b915-9d5f19e44362",
+  "author": "Paul Laski",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY One Note House wSub [PL]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY One Note House wSub [PL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Paul Laski"
+  "uuid": "d7430810-a59e-49bf-90e0-263d1bcb930c",
+  "vendor": "Xfer Records"
 }

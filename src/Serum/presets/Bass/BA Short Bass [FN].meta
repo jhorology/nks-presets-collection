@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "922c7e1f-ebbb-4fa4-a404-1dbdd09fcbf6",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "BA Short Bass [FN]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Short Bass [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "c4733db9-c8d0-414f-807c-bdea45c60720",
+  "vendor": "Xfer Records"
 }

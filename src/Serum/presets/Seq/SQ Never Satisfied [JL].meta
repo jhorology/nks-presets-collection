@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3b94ae79-7d17-4871-8ab4-90bbb0ba39ab",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Darkens & Distorts",
+  "deviceType": "INST",
+  "name": "SQ Never Satisfied [JL]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Never Satisfied [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Darkens & Distorts",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "af417a1f-5d25-47f7-a014-0ffe1410973d",
+  "vendor": "Xfer Records"
 }

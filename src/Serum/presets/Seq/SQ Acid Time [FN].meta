@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "32f3c6ba-75ed-4ab5-97ea-a1a469894ca4",
+  "author": "Frank Neumann",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "http://www.particular-sound.de/",
+  "deviceType": "INST",
+  "name": "SQ Acid Time [FN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Acid Time [FN]",
-  "deviceType": "INST",
-  "comment": "http://www.particular-sound.de/",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Frank Neumann"
+  "uuid": "abf40902-283e-45a7-aa1d-1eb79cbd7d72",
+  "vendor": "Xfer Records"
 }

@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "bb89d413-9736-46c9-8c89-2cdb0e9b05f2",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Gritty Complextro Bass",
+  "deviceType": "INST",
+  "name": "BA Drill [CFA]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Drill [CFA]",
-  "deviceType": "INST",
-  "comment": "Gritty Complextro Bass",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "ab0d1fc0-0487-4ac3-b82d-5191710c636f",
+  "vendor": "Xfer Records"
 }

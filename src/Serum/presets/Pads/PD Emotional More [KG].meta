@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d917dd21-52e7-46ba-8add-4be852e8da63",
+  "author": "Kris Giampa (Red-Eye)",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Emotional More [KG]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Emotional More [KG]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Kris Giampa (Red-Eye)"
+  "uuid": "5a57b9f0-61ab-4899-8260-b639cec46b8a",
+  "vendor": "Xfer Records"
 }

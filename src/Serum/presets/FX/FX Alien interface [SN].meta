@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4c3d74e0-e25b-4b03-b30d-4711d1069570",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Alien interface [SN]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Alien interface [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "ae7085b1-8ef7-4ea8-a12c-989a71b94d66",
+  "vendor": "Xfer Records"
 }

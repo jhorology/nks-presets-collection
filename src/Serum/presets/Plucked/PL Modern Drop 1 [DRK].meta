@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7fe518e4-5189-402e-9139-4a2dea0d0ffc",
+  "author": "Derrek",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PL Modern Drop 1 [DRK]",
   "types": [
     ["Pluck"]
   ],
-  "name": "PL Modern Drop 1 [DRK]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Derrek"
+  "uuid": "ecf57965-f1e5-4bdf-8760-1704bf345880",
+  "vendor": "Xfer Records"
 }

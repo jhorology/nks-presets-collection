@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "fc785670-e09b-4265-a737-6252df9b5166",
+  "author": "PlugInGuru.com",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod: Comb Filter Fc",
+  "deviceType": "INST",
+  "name": "BA Sever Headz [JL]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Sever Headz [JL]",
-  "deviceType": "INST",
-  "comment": "Mod: Comb Filter Fc",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "PlugInGuru.com"
+  "uuid": "497ef54f-4ead-4c6f-a39b-a8a5b07a7966",
+  "vendor": "Xfer Records"
 }

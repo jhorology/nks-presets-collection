@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0ac2e0e8-6aac-4168-8805-2a87f4cc7c83",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "MW->Vibrato+Rate",
+  "deviceType": "INST",
+  "name": "SY AnalogString [SD]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY AnalogString [SD]",
-  "deviceType": "INST",
-  "comment": "MW->Vibrato+Rate",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "af50529a-8b29-43b1-a091-d30b3a79e9f6",
+  "vendor": "Xfer Records"
 }

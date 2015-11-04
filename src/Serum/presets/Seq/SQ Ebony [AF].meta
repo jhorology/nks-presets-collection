@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "5f58399e-5032-4085-8b21-882b211d0fbc",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Ebony [AF]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Ebony [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "95f7b872-cc0a-42c9-bb8c-b69d76c64620",
+  "vendor": "Xfer Records"
 }

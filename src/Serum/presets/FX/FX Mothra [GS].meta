@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "2757c4db-84b5-4ced-bf3b-36430a1eb64c",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Mothra [GS]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Mothra [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "7a9c6b9a-593d-49c2-917a-775d0f7aca01",
+  "vendor": "Xfer Records"
 }

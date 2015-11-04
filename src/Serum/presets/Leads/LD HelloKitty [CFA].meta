@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "ec4f85a5-5a6b-4ab3-810b-0455342057c6",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Little Drop Sound",
+  "deviceType": "INST",
+  "name": "LD HelloKitty [CFA]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD HelloKitty [CFA]",
-  "deviceType": "INST",
-  "comment": "Little Drop Sound",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "b54be290-e864-4e56-bafd-d335d96b8aba",
+  "vendor": "Xfer Records"
 }

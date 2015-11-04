@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "54d3932f-112e-4810-8df7-f11b315ad923",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Diver [GS]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Diver [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "a3227ff7-c6ea-4c9f-9ff9-c1cdb6197277",
+  "vendor": "Xfer Records"
 }

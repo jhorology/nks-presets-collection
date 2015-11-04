@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4c5d959c-2e45-4995-99b0-0848941475d9",
+  "author": "Le Castle Vania",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "BA Throat Yeah [LCV]",
   "types": [
     ["Bass"]
   ],
-  "name": "BA Throat Yeah [LCV]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Le Castle Vania"
+  "uuid": "31eb637c-e7ee-4584-ad1d-f7f1fa21f758",
+  "vendor": "Xfer Records"
 }

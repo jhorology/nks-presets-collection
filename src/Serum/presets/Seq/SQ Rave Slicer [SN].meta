@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7ea343c8-f4d2-4242-bafb-52de99a4479c",
+  "author": "Seth Norman",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SQ Rave Slicer [SN]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Rave Slicer [SN]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Seth Norman"
+  "uuid": "64c7eb4e-5d6e-4c0a-8b71-abb4b444131a",
+  "vendor": "Xfer Records"
 }

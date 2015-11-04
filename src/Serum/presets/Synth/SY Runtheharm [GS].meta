@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "f7c2df7e-dcf2-4857-9152-8dfb6feb7ef6",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "SY Runtheharm [GS]",
   "types": [
     ["Synth"]
   ],
-  "name": "SY Runtheharm [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "51144c50-aa76-4660-a398-ad2a60dc0376",
+  "vendor": "Xfer Records"
 }

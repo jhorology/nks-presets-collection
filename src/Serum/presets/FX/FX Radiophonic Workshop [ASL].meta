@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "32dec75a-c0ce-4db7-98c0-e31a78b8dc06",
+  "author": "ASL Soundlab",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "FX Radiophonic Workshop [ASL]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX Radiophonic Workshop [ASL]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "ASL Soundlab"
+  "uuid": "46380bde-8dd9-44bc-8f5c-a7d2ccb1ef41",
+  "vendor": "Xfer Records"
 }

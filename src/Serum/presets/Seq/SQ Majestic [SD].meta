@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "7ff44922-0555-4b23-857e-81eefcf28674",
+  "author": "Steve Duda",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "LFO fun",
+  "deviceType": "INST",
+  "name": "SQ Majestic [SD]",
   "types": [
     ["Seq"]
   ],
-  "name": "SQ Majestic [SD]",
-  "deviceType": "INST",
-  "comment": "LFO fun",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Steve Duda"
+  "uuid": "fadd929a-2ca6-4b1f-83da-4faef03812af",
+  "vendor": "Xfer Records"
 }

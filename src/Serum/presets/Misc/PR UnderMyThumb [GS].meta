@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "d75dc63a-86ec-4db4-b2c9-5dd5f5c8195d",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PR UnderMyThumb [GS]",
   "types": [
     ["Perc"]
   ],
-  "name": "PR UnderMyThumb [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "249237e0-f037-4abd-889e-ab3c421ca25a",
+  "vendor": "Xfer Records"
 }

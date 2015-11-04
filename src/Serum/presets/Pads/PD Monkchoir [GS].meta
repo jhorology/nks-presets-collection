@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "3a73a715-e4b7-4422-aa19-12285c1b29ff",
+  "author": "Genji Siraisi",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "PD Monkchoir [GS]",
   "types": [
     ["Pad"]
   ],
-  "name": "PD Monkchoir [GS]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Genji Siraisi"
+  "uuid": "1d305627-cde2-40ed-bbef-09e2b9f3cfdb",
+  "vendor": "Xfer Records"
 }

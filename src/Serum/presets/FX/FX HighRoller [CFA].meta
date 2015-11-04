@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "a728b1ac-85f2-4e1b-b1a3-8179a5fff397",
+  "author": "CFA-Sound",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "4 Bar long FX Riser",
+  "deviceType": "INST",
+  "name": "FX HighRoller [CFA]",
   "types": [
     ["SFX"]
   ],
-  "name": "FX HighRoller [CFA]",
-  "deviceType": "INST",
-  "comment": "4 Bar long FX Riser",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "CFA-Sound"
+  "uuid": "47e4fd3a-76cb-45a8-889f-45dc9f23df43",
+  "vendor": "Xfer Records"
 }

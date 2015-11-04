@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "4b187dcd-8aaa-4b71-8b0a-7c5cffc6ccc3",
+  "author": "Francis Preve",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "Mod wheel to mayhem",
+  "deviceType": "INST",
+  "name": "LD Power 5ths [FP]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Power 5ths [FP]",
-  "deviceType": "INST",
-  "comment": "Mod wheel to mayhem",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Francis Preve"
+  "uuid": "8a4b1fe7-3030-461a-a2f3-8f2b01c64689",
+  "vendor": "Xfer Records"
 }

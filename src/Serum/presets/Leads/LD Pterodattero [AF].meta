@@ -1,12 +1,12 @@
 {
-  "vendor": "Xfer Records",
-  "uuid": "0a0d4249-ba78-4f5f-be96-22e2a49094cb",
+  "author": "Art of Fighters",
+  "bankchain": ["Serum", "Serum Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "name": "LD Pterodattero [AF]",
   "types": [
     ["Lead"]
   ],
-  "name": "LD Pterodattero [AF]",
-  "deviceType": "INST",
-  "comment": "",
-  "bankchain": ["Serum", "Serum Factory", ""],
-  "author": "Art of Fighters"
+  "uuid": "6218ddd3-d426-4576-b77f-fc109e0d1776",
+  "vendor": "Xfer Records"
 }
