@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "38b52053-f931-4d98-ab80-3834dea5e985",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "37 Pianet Play Percussively",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "Pianet", ""],
+  "author": ""
+}

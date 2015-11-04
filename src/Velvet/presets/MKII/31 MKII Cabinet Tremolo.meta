@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "1f6a4d31-6a01-4c10-8285-b5a724656c70",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "31 MKII Cabinet Tremolo",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "MKII", ""],
+  "author": ""
+}

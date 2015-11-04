@@ -40,6 +40,8 @@ $ =
   Velvet:
     dir: 'Velvet'
     vendor: 'Air Music Technology'
+    PLID:
+      "VST.magic": "tvlV"
   #
   # Xfer Records Serum
   #-------------------------------------------
@@ -94,30 +96,112 @@ gulp.task 'deploy', [
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - Velvet  2.0.6.18983
 # ---------------------------------------------------------------
-gulp.task 'velvet-prepare', ->
-  gulp.src ['User Content/Velvet/**/*.nksf'], read: true
-    .pipe rewrite (file, data) ->
-      console.info beautify (JSON.stringify data), indent_size: 2
-      undefined
 
-gulp.task 'parse-deployed-velvet', ->
-  gulp.src ["#{$.userContentDir}/Velvet/**/*.nksf"], read: true
-    .pipe rewrite (file, data) ->
-      console.info beautify (JSON.stringify data), indent_size: 2
-      undefined
 
-gulp.task 'deploy-velvet', ->
-  gulp.src ['User Content/Velvet/**/*.nksf'], read: true
-    .pipe rewrite (file, data) ->
-      folder = path.relative 'User Content/Velvet', path.dirname file.path
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'velvet-print-default-meta', ->
+  _print_default_meta $.Velvet.dir
+
+# print mapping of _Default.nksf
+gulp.task 'velvet-print-default-mapping', ->
+  _print_default_mapping $.Velvet.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'velvet-print-plid', ->
+  _print_plid $.Velvet.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'velvet-generate-default-mapping', ->
+  _generate_default_mapping $.Velvet.dir
+
+# extract PCHK chunk from .nksf files.
+gulp.task 'velvet-extract-raw-presets', ->
+  _extract_raw_presets [
+    "#{$.NI.userContent}/#{$.Velvet.dir}/**/*.nksf"
+    "!#{$.NI.userContent}/#{$.Velvet.dir}/_Default.nksf"
+    ]
+  , "src/#{$.Velvet.dir}/presets"
+
+# generate metadata
+gulp.task 'velvet-generate-meta', ->
+  presets = "src/#{$.Velvet.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
       # meta
-      bankchain: ['Velvet', folder, '']
-      modes: ['Sample Based']
-      types: [
-        ["Piano/Keys"]
-        ["Piano/Keys", "Electric Piano"]
-      ]
-    .pipe gulp.dest "#{$.userContentDir}/Velvet"
+      meta =
+        vendor: $.Velvet.vendor
+        uuid: uuid.v4()
+        types: [
+          ["Piano/Keys"]
+          ["Piano/Keys", "Electric Piano"]
+        ]
+        modes: ['Sample Based']
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['Velvet', folder, '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Velvet.dir}/presets"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'velvet-dist', [
+  'velvet-dist-image'
+  'velvet-dist-database'
+  'velvet-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'velvet-dist-image', ->
+  _dist_image $.Velvet.dir, $.Velvet.vendor
+
+# copy database resources to dist folder
+gulp.task 'velvet-dist-database', ->
+  _dist_database $.Velvet.dir, $.Velvet.vendor
+
+# build presets file to dist folder
+gulp.task 'velvet-dist-presets', ->
+  _dist_presets $.Velvet.dir, $.Velvet.PLID
+
+# check
+gulp.task 'velvet-check-dist-presets', ->
+  _check_dist_presets $.Velvet.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'velvet-deploy', [
+  'velvet-deploy-resources'
+  'velvet-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'velvet-deploy-resources', ->
+  _deploy_resources $.Velvet.dir
+
+# copy database resources to dist folder
+gulp.task 'velvet-deploy-presets', ->
+  _deploy_presets $.Velvet.dir
+
+# ---------------------------------------------------------------
+# end Air Music Technology Velvet
+#
+
 
 # Xfer Record Serum
 #
@@ -211,13 +295,7 @@ gulp.task 'serum-dist-presets', ->
 
 # check
 gulp.task 'serum-check-dist-presets', ->
-  dist = "dist/#{$.Serum.dir}/User Content/#{$.Serum.dir}"
-  gulp.src ["#{dist}/**/*.nksf"], read: true
-    .pipe extract
-      form_type: 'NIKS'
-      chunk_ids: ['NISI', 'NICA', 'PLID']
-    .pipe data (file) ->
-      console.info _deserialize file
+  _check_dist_presets $.Serum.dir
 
 #
 # deploy
@@ -234,8 +312,6 @@ gulp.task 'serum-deploy-resources', ->
 # copy database resources to dist folder
 gulp.task 'serum-deploy-presets', ->
   _deploy_presets $.Serum.dir
-
-
 
 # ---------------------------------------------------------------
 # end Xfer Record Serum
@@ -363,6 +439,15 @@ _dist_presets = (dir, PLID) ->
       file.path = "#{file.path[..-5]}nksf"
     .pipe gulp.dest dist
 
+# print all presets
+_check_dist_presets = (dir, PLID) ->
+  dist = "dist/#{dir}/User Content/#{dir}"
+  gulp.src ["#{dist}/**/*.nksf"], read: true
+    .pipe extract
+      form_type: 'NIKS'
+      chunk_ids: ['NISI', 'NICA', 'PLID']
+    .pipe data (file) ->
+      console.info _deserialize file
 #
 # deploy
 # --------------------------------
@@ -376,3 +461,5 @@ _deploy_resources = (dir) ->
 _deploy_presets = (dir) ->
   gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
     .pipe gulp.dest $.NI.userContent
+
+

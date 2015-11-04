@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "074bce73-92df-4581-93d1-1abba2483450",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "27 MKI Soft FM",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "MKI", ""],
+  "author": ""
+}

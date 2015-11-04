@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d5cf1ddd-eef1-4931-92d0-c187dafee762",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "42 A200 Soft Phaser",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "A200", ""],
+  "author": ""
+}

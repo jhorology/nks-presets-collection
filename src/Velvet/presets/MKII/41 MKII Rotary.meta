@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "62984e61-553c-4471-8725-a89281b926b9",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "41 MKII Rotary",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "MKII", ""],
+  "author": ""
+}

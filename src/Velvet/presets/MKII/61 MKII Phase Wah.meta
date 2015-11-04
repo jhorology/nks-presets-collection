@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "703d4f3e-de87-4513-b14c-92879eeff92a",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "61 MKII Phase Wah",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "MKII", ""],
+  "author": ""
+}

@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "13c849fe-a7d0-405d-bb16-bf15388f9de4",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "68 Pianet Bluesy",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "Pianet", ""],
+  "author": ""
+}

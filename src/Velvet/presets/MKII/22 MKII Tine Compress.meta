@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "460d8b3b-7766-47f8-9f72-11cf899968b3",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "22 MKII Tine Compress",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "MKII", ""],
+  "author": ""
+}

@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a0be8968-29f4-45cc-a743-fe84532b6dcd",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "13 A200 Blue",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "A200", ""],
+  "author": ""
+}

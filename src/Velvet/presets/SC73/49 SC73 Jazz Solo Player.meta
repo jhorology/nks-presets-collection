@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f8dff6a8-135f-4013-8c56-fd5a44e7a0d1",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "49 SC73 Jazz Solo Player",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "SC73", ""],
+  "author": ""
+}

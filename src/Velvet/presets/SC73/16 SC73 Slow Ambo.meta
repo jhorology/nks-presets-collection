@@ -1,0 +1,14 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "60ed9f45-e1a2-4b3e-9648-ba9713d9d2b7",
+  "types": [
+    ["Piano/Keys"],
+    ["Piano/Keys", "Electric Piano"]
+  ],
+  "modes": ["Sample Based"],
+  "name": "16 SC73 Slow Ambo",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Velvet", "SC73", ""],
+  "author": ""
+}

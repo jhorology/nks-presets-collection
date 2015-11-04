@@ -1,0 +1,527 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Volume",
+      "section": "Panel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "Tremolo",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Tremolo Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Tremolo Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Tremolo Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 81,
+      "name": "Extended Key Range",
+      "section": "Key Range",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 79,
+      "name": "Key Range Low",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 80,
+      "name": "Key Range High",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 6,
+      "name": "Mechanics FX",
+      "section": "Panel Tool",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "Pedal Noise",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 35,
+      "name": "Wah Before Fuzz",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "Tremolo Before FX",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Pickup Level",
+      "section": "Pickup",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "Mechanics Mode",
+      "section": "Mechanics",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Mechanics Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "Key Off Mode",
+      "section": "Key off",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "Key Off Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "Condition",
+      "section": "Condition",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 13,
+      "name": "Fine Tune",
+      "section": "Fine Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "Velocity Min",
+      "section": "V.Curve",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 15,
+      "name": "Velocity Low Mid",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 16,
+      "name": "Velocity High Mid",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 17,
+      "name": "Velocity Max",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 18,
+      "name": "Velocity To Level",
+      "section": "V.Response",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "Velocity To Timbre",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "Timbre",
+      "section": "Timber",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 65,
+      "name": "Vintage Timbre",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 66,
+      "name": "Compressor post FX",
+      "section": "Comp",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "Compression",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "Tube Drive",
+      "section": "Tube Drive",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 23,
+      "name": "EQ",
+      "section": "EQ",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "EQ Bass",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 26,
+      "name": "EQ Mid Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "EQ Mid Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "EQ Mid Q",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 29,
+      "name": "EQ Treble",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 24,
+      "name": "EQ Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 30,
+      "name": "Distortion",
+      "section": "Distortion",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 31,
+      "name": "Distortion Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "Fuzz Drive",
+      "section": "Fuzz",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "Fuzz Tone",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 85,
+      "name": "Fuzz Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 86,
+      "name": "Ring Freq",
+      "section": "Ring",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 87,
+      "name": "Ring Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 88,
+      "name": "Ring Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 89,
+      "name": "Crush Freq",
+      "section": "Crush",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 90,
+      "name": "Crush Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 91,
+      "name": "Crush Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 36,
+      "name": "Wah",
+      "section": "Wah",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 38,
+      "name": "Wah Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 39,
+      "name": "Wah Pedal",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 40,
+      "name": "Wah Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 41,
+      "name": "Wah Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 37,
+      "name": "Wah Model",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 42,
+      "name": "Mod Mode",
+      "section": "Mod Select",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 43,
+      "name": "Mod Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 92,
+      "name": "Chorus Rate",
+      "section": "Mod Phaser",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 93,
+      "name": "Chorus Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 94,
+      "name": "Chorus Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 95,
+      "name": "Chorus Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 96,
+      "name": "Flanger Rate",
+      "section": "Mod Flanger",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "Flanger Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "Flanger Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "Flanger Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 100,
+      "name": "Phaser Rate",
+      "section": "Mod Phaser",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "Phaser Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 102,
+      "name": "Phaser Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 103,
+      "name": "Phaser Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 48,
+      "name": "Cab",
+      "section": "Cabinet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 49,
+      "name": "Cab Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 50,
+      "name": "Cab Bass",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "Cab Mid",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "Cab Treble",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "Cab Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 104,
+      "name": "Reverb",
+      "section": "Reverb",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 105,
+      "name": "Reverb Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 106,
+      "name": "Reverb Pre-Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 107,
+      "name": "Reverb Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "Reverb Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 54,
+      "name": "Delay",
+      "section": "Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 56,
+      "name": "Delay Grid",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "Delay Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "Delay Tone",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 60,
+      "name": "Delay Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "FX",
+      "vflag": false
+    }]
+  ]
+}
