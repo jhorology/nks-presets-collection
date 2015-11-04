@@ -12,3 +12,6 @@ NKS(Native Kontrol Standard) presets collection
 |Loom|:white_check_mark:|||||
 |Vacuum Pro|:white_check_mark:|||||
 |theRiser|:white_check_mark:|||||
+|DiscoveryPro||||||
+|BassStation||||||
+|Hive||||||
