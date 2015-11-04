@@ -11,6 +11,7 @@ rewrite     = require 'gulp-nks-rewrite-meta'
 changed     = require 'gulp-changed'
 data        = require 'gulp-data'
 exec        = require 'gulp-exec'
+zip         = require 'gulp-zip'
 nks         = require 'nks-json'
 builder     = require './lib/riff-builder'
 beautify    = require 'js-beautify'
@@ -20,7 +21,7 @@ $ =
   #
   # buld environment & misc settings
   #-------------------------------------------
-  pub: "#{process.env.HOME}/Dropbox/Share/NKS"
+  release: "#{process.env.HOME}/Dropbox/Share/NKS Presets"
   json_indent: 2
   # gulp-exec options
   execOpts:
@@ -146,11 +147,20 @@ gulp.task 'clean', (cb) ->
     ]
   , force: true, cb
 
-# deploy all presets and resources
+
+gulp.task 'dist', [
+  'velvet-dist'
+  'serum-dist'
+]
+
 gulp.task 'deploy', [
-  'deploy-velvet'
-  'deploy-serum'
-  'deploy-resources'
+  'velvet-deploy'
+  'serum-deploy'
+]
+
+gulp.task 'release', [
+  'velvet-release'
+  'serum-release'
 ]
 
 # Air Music Technology Velvet
@@ -254,12 +264,25 @@ gulp.task 'velvet-deploy', [
 ]
 
 # copy resources to local environment
-gulp.task 'velvet-deploy-resources', ->
+gulp.task 'velvet-deploy-resources',[
+  'velvet-dist-image'
+  'velvet-dist-database'
+  ], ->
   _deploy_resources $.Velvet.dir
 
 # copy database resources to dist folder
-gulp.task 'velvet-deploy-presets', ->
+gulp.task 'velvet-deploy-presets', [
+  'velvet-dist-presets'
+  ] ,->
   _deploy_presets $.Velvet.dir
+
+#
+# release
+# --------------------------------
+gulp.task 'velvet-release',['velvet-dist'], ->
+  _release $.Velvet.dir
+
+
 
 # ---------------------------------------------------------------
 # end Air Music Technology Velvet
@@ -661,18 +684,26 @@ gulp.task 'serum-deploy', [
 ]
 
 # copy resources to local environment
-gulp.task 'serum-deploy-resources', ->
+gulp.task 'serum-deploy-resources',[
+  'serum-dist-image'
+  'serum-dist-database'
+  ], ->
   _deploy_resources $.Serum.dir
 
 # copy database resources to dist folder
-gulp.task 'serum-deploy-presets', ->
+gulp.task 'serum-deploy-presets', [
+  'serum-dist-presets'
+  ] ,->
   _deploy_presets $.Serum.dir
+
+#
+# release
+# --------------------------------
+gulp.task 'serum-release',['serum-dist'], ->
+  _release $.Serum.dir
 
 # ---------------------------------------------------------------
 # end Xfer Record Serum
-
-
-
 
 
 
@@ -816,4 +847,15 @@ _deploy_resources = (dir) ->
 _deploy_presets = (dir) ->
   gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
     .pipe gulp.dest $.NI.userContent
+
+
+#
+# release
+# --------------------------------
+
+# copy resources to local environment
+_release = (dir) ->
+  gulp.src ["dist/#{dir}/**/*.{json,meta,png,nksf}"]
+    .pipe zip "#{dir}.zip"
+    .pipe gulp.dest $.release
 

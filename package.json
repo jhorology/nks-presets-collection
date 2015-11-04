@@ -25,6 +25,7 @@
     "gulp-nks-rewrite-meta": "0.0.4",
     "gulp-riff-extractor": "0.0.4",
     "gulp-watch": "^4.3.5",
+    "gulp-zip": "^3.0.2",
     "js-beautify": "^1.5.10",
     "sqlite3": "^3.1.1",
     "uuid": "^2.0.1"
