@@ -19,7 +19,7 @@ NKS(Native Kontrol Standard) presets collection
 |Hive|||||||
 |AnalogLab|||||||
 
- 1. Image files were not recognized, maybe path contained '!'.
+ 1. Image files were not recognized, maybe the reason for path contained '!'.
 
 ## License
 
