@@ -284,8 +284,6 @@ gulp.task 'velvet-deploy-presets', [
 gulp.task 'velvet-release',['velvet-dist'], ->
   _release $.Velvet.dir
 
-
-
 # ---------------------------------------------------------------
 # end Air Music Technology Velvet
 #
@@ -335,9 +333,97 @@ gulp.task 'xpand2-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# generate metadata
+gulp.task 'xpand2-generate-meta', ->
+  presets = "src/#{$.Xpand2.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
+      # meta
+      meta =
+        vendor: $.Xpand2.vendor
+        uuid: uuid.v4()
+        types: [
+          # remove first 3 char from folder name.
+          # ex) '01 Soft Pads' -> 'Soft Pads'
+          [folder[3..]]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['Xpand!2', 'Xpand!2 Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Xpand2.dir}/presets"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'xpand2-dist', [
+  'xpand2-dist-image'
+  'xpand2-dist-database'
+  'xpand2-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'xpand2-dist-image', ->
+  _dist_image $.Xpand2.dir, $.Xpand2.vendor
+
+# copy database resources to dist folder
+gulp.task 'xpand2-dist-database', ->
+  _dist_database $.Xpand2.dir, $.Xpand2.vendor
+
+# build presets file to dist folder
+gulp.task 'xpand2-dist-presets', ->
+  _dist_presets $.Xpand2.dir, $.Xpand2.PLID
+
+# check
+gulp.task 'xpand2-check-dist-presets', ->
+  _check_dist_presets $.Xpand2.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'xpand2-deploy', [
+  'xpand2-deploy-resources'
+  'xpand2-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'xpand2-deploy-resources',[
+  'xpand2-dist-image'
+  'xpand2-dist-database'
+  ], ->
+  _deploy_resources $.Xpand2.dir
+
+# copy database resources to local environment
+gulp.task 'xpand2-deploy-presets', [
+  'xpand2-dist-presets'
+  ] ,->
+  _deploy_presets $.Xpand2.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'xpand2-release',['xpand2-dist'], ->
+  _release $.Xpand2.dir
+  
 # ---------------------------------------------------------------
 # end Air Music Technology Xpand!2
 #
+
 
 # ---------------------------------------------------------------
 # Air Music Technology Loom
