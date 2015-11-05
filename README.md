@@ -7,7 +7,7 @@ NKS(Native Kontrol Standard) presets collection
 |Velvet|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|
 |Serum|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|
 |Spire|:heavy_check_mark:||||||
-|Xpand!2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_exclamation_mark:[^1]|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|
+|Xpand!2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_exclamation_mark:1|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|
 |Hybrid|:heavy_check_mark:||||||
 |Loom|:heavy_check_mark:||||||
 |Vacuum Pro|:heavy_check_mark:||||||
@@ -19,7 +19,7 @@ NKS(Native Kontrol Standard) presets collection
 |Hive|||||||
 |AnalogLab|||||||
 
- [^1]:Image file was not recognized, maybe path contained '!'.
+ # Image file was not recognized, maybe path contained '!'.
 
 ## License
 
