@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b3add2d7-b98d-43be-b95d-7074321fa9d9",
+  "uuid": "4e9fb872-5378-4a04-8cf2-e862e91a9491",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "64 SC73 Vibraphone",
   "deviceType": "INST",
   "comment": "",

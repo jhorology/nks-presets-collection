@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3420c854-2709-4403-9e6b-4221dd26bfde",
+  "uuid": "3396c4ac-a5f1-4c74-93ee-0e5edef49d21",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "04 A200 Tine Vibrato",
   "deviceType": "INST",
   "comment": "",

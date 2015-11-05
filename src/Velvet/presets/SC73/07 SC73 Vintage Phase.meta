@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e10e9ae9-07a4-40d4-8d81-4e780af46f14",
+  "uuid": "15a5cac0-bfce-428e-bef5-79deb635bf0c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "07 SC73 Vintage Phase",
   "deviceType": "INST",
   "comment": "",

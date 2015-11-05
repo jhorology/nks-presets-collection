@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a7cd19b3-b632-4c46-b384-d855feff09ec",
+  "uuid": "6ccbf237-d299-4a46-a6d5-9c07b0a826be",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "56 A200 Dub Fuzz Wah",
   "deviceType": "INST",
   "comment": "",

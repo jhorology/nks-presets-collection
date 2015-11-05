@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "208ea6b8-f559-4ce0-932f-9788dc775255",
+  "uuid": "d6d50006-01fe-498f-a416-dde52fce6e11",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "14 Pianet Romantic",
   "deviceType": "INST",
   "comment": "",

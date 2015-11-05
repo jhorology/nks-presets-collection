@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ce2ba569-6e77-4691-92da-e642f25ce9a9",
+  "uuid": "fa224b0f-65cc-47a4-a9ef-be9fe77392a9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "52 MKII The Duke",
   "deviceType": "INST",
   "comment": "",

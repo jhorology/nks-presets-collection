@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5c7e5ca7-e2a1-4acb-ade2-af7e9b186a01",
+  "uuid": "2ad9c948-e087-4974-8d3e-6a54febe19f1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "18 Pianet Solo",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "34faac39-0d0e-492d-bdc3-cf46c3fcf2d8",
+  "uuid": "1495ee73-52d2-46db-ab16-de7c6827b210",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "53 MKII Green Flower",
   "deviceType": "INST",
   "comment": "",

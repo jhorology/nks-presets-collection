@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e419c797-263a-46c8-99f9-469157b24d7c",
+  "uuid": "d2cd7311-ead3-4e79-ac09-cd481dcaed2f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "57 A200 With Love",
   "deviceType": "INST",
   "comment": "",

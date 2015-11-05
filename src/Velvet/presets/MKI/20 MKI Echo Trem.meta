@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f1640adf-767e-4793-9da4-cc119d3d400f",
+  "uuid": "b141b82e-526c-4d8e-83ec-5b0e4db88c4d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "20 MKI Echo Trem",
   "deviceType": "INST",
   "comment": "",

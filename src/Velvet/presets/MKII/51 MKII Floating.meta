@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8830d584-9a29-4349-8bd3-e95815e6f55f",
+  "uuid": "a0600e48-3025-4635-accb-afe315be5783",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "51 MKII Floating",
   "deviceType": "INST",
   "comment": "",

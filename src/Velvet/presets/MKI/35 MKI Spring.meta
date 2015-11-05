@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "39abb469-5787-4276-8721-28c43210ac04",
+  "uuid": "9d0a230e-ff3d-482e-9fb5-999bca960c56",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "35 MKI Spring",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "32721624-5fc2-4aa9-ac33-35f3c1211345",
+  "uuid": "5fc500b1-65c4-47ad-852e-348d661c7021",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "59 MKII Flanger Embedded",
   "deviceType": "INST",
   "comment": "",

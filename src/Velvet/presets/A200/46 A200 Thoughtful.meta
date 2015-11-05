@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f3fd662e-e571-4f16-ad70-04bbffd0f480",
+  "uuid": "a51cea06-8c07-43c3-9fa6-9b235c7b86ef",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "46 A200 Thoughtful",
   "deviceType": "INST",
   "comment": "",

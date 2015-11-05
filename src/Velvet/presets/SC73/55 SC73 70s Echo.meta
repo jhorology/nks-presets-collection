@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "152bb1f4-2e0d-451e-941b-36f9d1b7ef27",
+  "uuid": "5b61de2a-ca6e-46bc-b3ef-d41ff098a932",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "55 SC73 70s Echo",
   "deviceType": "INST",
   "comment": "",

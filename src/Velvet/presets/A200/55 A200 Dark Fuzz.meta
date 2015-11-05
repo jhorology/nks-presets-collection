@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "24056867-3f43-4de8-a330-4d3d5d6ba033",
+  "uuid": "0ab6cffc-2bce-4cab-a09c-df92713e2173",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "55 A200 Dark Fuzz",
   "deviceType": "INST",
   "comment": "",

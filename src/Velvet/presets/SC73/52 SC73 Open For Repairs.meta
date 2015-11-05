@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cd5b26bd-6454-4e51-84d4-67d3922f05a7",
+  "uuid": "c284419c-a361-432c-97f3-6cbd2a46aba0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "52 SC73 Open For Repairs",
   "deviceType": "INST",
   "comment": "",

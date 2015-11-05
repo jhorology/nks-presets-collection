@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8ec6e11c-1163-49b2-b273-0571b59dd2aa",
+  "uuid": "ec29d589-81f3-4d30-939f-0b613c126414",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "27 A200 Oh Mama",
   "deviceType": "INST",
   "comment": "",

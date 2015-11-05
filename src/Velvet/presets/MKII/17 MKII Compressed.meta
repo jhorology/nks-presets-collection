@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f0561680-e9e5-40f6-8bc9-32718f988fc4",
+  "uuid": "4fa3ce51-dd23-4c6f-9d53-1e280bc7407c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "17 MKII Compressed",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "90647656-c6f8-4661-9ed4-f80ae7190a06",
+  "uuid": "ded84f11-44aa-47cc-9a1f-8bae3a8e73f9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "69 Pianet Riddle",
   "deviceType": "INST",
   "comment": "",

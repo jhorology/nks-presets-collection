@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "df2619a7-7d36-4790-8777-dc20a532dbea",
+  "uuid": "8163ded2-5a0b-4507-ae4d-38b358dba637",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "60 Pianet Fuzzy",
   "deviceType": "INST",
   "comment": "",

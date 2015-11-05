@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4f371f08-8989-4077-baa6-a148b39aee06",
+  "uuid": "4cc9708b-22ee-41b7-9af6-07dc9c82a64a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "14 A200 Vib-Mu-Plex",
   "deviceType": "INST",
   "comment": "",

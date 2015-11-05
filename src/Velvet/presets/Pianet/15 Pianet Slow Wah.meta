@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a5342491-c4bb-4eca-9596-f1818d3c690f",
+  "uuid": "b9678fc0-9853-419b-b297-9fd0ec475b09",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "15 Pianet Slow Wah",
   "deviceType": "INST",
   "comment": "",

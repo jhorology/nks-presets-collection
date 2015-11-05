@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cb548ad1-4461-49f2-8b09-06eab61072a6",
+  "uuid": "8b980c66-b379-4478-bf04-a1fa881a076c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "02 SC73 Tine Default",
   "deviceType": "INST",
   "comment": "",

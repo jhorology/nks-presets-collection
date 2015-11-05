@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eb37eee0-61b5-40ec-b9d8-0165e99e1eba",
+  "uuid": "741f7703-402d-4791-8ec1-36348e1a9029",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "66 Pianet Super Dynamic",
   "deviceType": "INST",
   "comment": "",

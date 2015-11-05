@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a247d2c5-e52a-4ec3-b2a2-675b13527269",
+  "uuid": "8863cba4-0c55-4f50-9d50-20fc62e994f7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "03 MKI Tremolo",
   "deviceType": "INST",
   "comment": "",

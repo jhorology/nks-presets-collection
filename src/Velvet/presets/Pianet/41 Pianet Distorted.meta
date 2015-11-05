@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "33a8658a-b345-4ac3-9544-14b49b8844c0",
+  "uuid": "c1b9ba05-163a-4b2b-8f45-652371c0ddc6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "41 Pianet Distorted",
   "deviceType": "INST",
   "comment": "",

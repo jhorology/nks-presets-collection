@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a36be483-3164-40de-bbe1-c6c91cd40a6f",
+  "uuid": "6f7c53bf-7cfa-4a78-a78a-fdc1d8abbce3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "37 MKI Tech Bass",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f8930659-1880-4a29-a8d4-0892a93c3bf6",
+  "uuid": "f4e617ab-4d5a-48e2-b702-e5733fbbf954",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "60 MKII Just This One",
   "deviceType": "INST",
   "comment": "",

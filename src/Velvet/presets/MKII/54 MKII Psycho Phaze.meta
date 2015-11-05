@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4dcd4936-7a40-4e79-bda2-a31684108bda",
+  "uuid": "5c1a81b5-2ffa-4d88-9830-6ee9384ef617",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "54 MKII Psycho Phaze",
   "deviceType": "INST",
   "comment": "",

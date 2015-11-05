@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ad55ba8b-7033-4297-abb3-2a9100175242",
+  "uuid": "77016d94-da18-46c9-8e4e-416fe8d34dd6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "43 MKII 2 High",
   "deviceType": "INST",
   "comment": "",

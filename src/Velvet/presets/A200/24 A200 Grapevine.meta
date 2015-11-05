@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "20476b82-7beb-4feb-91cd-9ca6c2fd0abe",
+  "uuid": "1238820e-9d36-430f-bc8f-103bf1a7e34f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "24 A200 Grapevine",
   "deviceType": "INST",
   "comment": "",

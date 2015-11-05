@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3e330b3b-c4f6-47c8-9f6d-5f2b7965ba85",
+  "uuid": "47c55d13-2505-43d3-a713-55f8fff3de8f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "57 MKI Slow Auto Wah",
   "deviceType": "INST",
   "comment": "",

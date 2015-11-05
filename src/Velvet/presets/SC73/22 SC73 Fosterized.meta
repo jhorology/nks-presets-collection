@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fc7078f0-5ddf-4880-b769-5069885dac0f",
+  "uuid": "7acf8a1c-a5ec-4886-8e47-cb11986b58a6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "22 SC73 Fosterized",
   "deviceType": "INST",
   "comment": "",

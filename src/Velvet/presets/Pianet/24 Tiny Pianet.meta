@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f3638eb6-e32a-42ed-b0f3-a96b65460bf5",
+  "uuid": "c526611b-1215-4c82-97fa-7d2cde27cd0d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "24 Tiny Pianet",
   "deviceType": "INST",
   "comment": "",

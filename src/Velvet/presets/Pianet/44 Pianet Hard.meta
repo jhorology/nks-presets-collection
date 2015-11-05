@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "01e73762-efaf-4f1c-b612-fff76b379a19",
+  "uuid": "5b0c4810-d0d1-45c1-aaed-1fb53372c2a6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "44 Pianet Hard",
   "deviceType": "INST",
   "comment": "",

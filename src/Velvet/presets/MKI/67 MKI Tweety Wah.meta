@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6f6b7e3d-436c-4a14-8194-8243763eb405",
+  "uuid": "2c9c1e81-10c7-4f94-b9d4-0fa9a6cd0f26",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "67 MKI Tweety Wah",
   "deviceType": "INST",
   "comment": "",

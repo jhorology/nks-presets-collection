@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1563307b-2fad-4ce2-97c3-9af5568c9bf3",
+  "uuid": "494ac3c5-2686-4609-88f5-2d5da36d97c2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "26 SC73 Ambo Tine",
   "deviceType": "INST",
   "comment": "",

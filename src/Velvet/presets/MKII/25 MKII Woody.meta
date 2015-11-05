@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a8e7fc68-5029-429c-8eb5-39c8b36dd87e",
+  "uuid": "2355f71d-8b93-46e5-8f99-4f54185b3571",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "25 MKII Woody",
   "deviceType": "INST",
   "comment": "",

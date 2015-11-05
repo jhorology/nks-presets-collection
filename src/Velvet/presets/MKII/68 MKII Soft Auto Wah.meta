@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0181bdb6-0ad1-47b7-afe8-15fe047cdf41",
+  "uuid": "e4615dfa-dbeb-4fae-b49d-e4c887fb3d85",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "68 MKII Soft Auto Wah",
   "deviceType": "INST",
   "comment": "",

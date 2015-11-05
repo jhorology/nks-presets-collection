@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b70cfa47-a5bd-4ed4-a177-3f16ba7fcc32",
+  "uuid": "6ba4dc77-79a0-4026-83e4-f9019b1a8289",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "65 MKII Confusion",
   "deviceType": "INST",
   "comment": "",

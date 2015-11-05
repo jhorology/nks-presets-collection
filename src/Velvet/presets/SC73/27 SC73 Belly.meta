@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0448e132-26c0-477d-a3fc-65b1cee80826",
+  "uuid": "d619d56f-ed6e-4627-b7fb-90911dc1e205",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "27 SC73 Belly",
   "deviceType": "INST",
   "comment": "",

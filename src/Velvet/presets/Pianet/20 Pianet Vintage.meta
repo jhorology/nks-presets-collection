@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d8de46e1-ef58-429e-b4ae-f8623f3ef3c5",
+  "uuid": "bc35cd7c-2a65-47f9-a9e5-1e6706c7318b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "20 Pianet Vintage",
   "deviceType": "INST",
   "comment": "",

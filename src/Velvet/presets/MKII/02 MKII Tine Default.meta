@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "70728c27-d0af-4a40-8a0f-33269817eae0",
+  "uuid": "509b9b41-1b78-4054-a79c-35dde74ccb1c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "02 MKII Tine Default",
   "deviceType": "INST",
   "comment": "",

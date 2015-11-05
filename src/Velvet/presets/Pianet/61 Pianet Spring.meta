@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e8f1f6dc-4b2e-45bf-900d-aa1d087706c6",
+  "uuid": "27991c49-bdc8-4284-978a-0450e0063865",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "61 Pianet Spring",
   "deviceType": "INST",
   "comment": "",

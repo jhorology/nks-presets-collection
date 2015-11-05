@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8591fd22-0aa3-4b9b-90c3-5ff4811baca2",
+  "uuid": "8af0d2d7-1fa1-480d-bbda-3f5cb136453f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "43 SC73 Slow Moan",
   "deviceType": "INST",
   "comment": "",

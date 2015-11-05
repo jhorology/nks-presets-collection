@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4183ce0d-8c1b-4eff-acfa-1cdde2d509a8",
+  "uuid": "4513a671-ef4f-46ab-8652-f474c960df2b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "48 A200 Wanderer",
   "deviceType": "INST",
   "comment": "",

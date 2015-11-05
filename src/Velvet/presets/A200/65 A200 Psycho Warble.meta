@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1b5db362-228f-49b3-9ca1-c0d79e3f2a3f",
+  "uuid": "a5450360-322e-403c-92d6-82a7de4b06e7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "65 A200 Psycho Warble",
   "deviceType": "INST",
   "comment": "",

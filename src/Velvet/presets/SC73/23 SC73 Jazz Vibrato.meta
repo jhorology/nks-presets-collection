@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2f5a58a1-8d23-4a71-b695-1baeaed3fdd3",
+  "uuid": "49997b50-b847-468c-ae1e-7fcdeb08eafc",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "23 SC73 Jazz Vibrato",
   "deviceType": "INST",
   "comment": "",

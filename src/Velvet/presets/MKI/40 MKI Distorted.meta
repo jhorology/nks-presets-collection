@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "32dbbd42-1a08-407f-a3dd-ba6ea92bad66",
+  "uuid": "b964bdff-4322-40fa-bbd0-08e91db358ee",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "40 MKI Distorted",
   "deviceType": "INST",
   "comment": "",

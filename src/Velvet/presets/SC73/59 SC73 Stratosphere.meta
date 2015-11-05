@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a208e707-92c1-4172-8181-0f653e58801e",
+  "uuid": "bbf21c7c-a012-4597-99b8-3cc8a12afe88",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "59 SC73 Stratosphere",
   "deviceType": "INST",
   "comment": "",

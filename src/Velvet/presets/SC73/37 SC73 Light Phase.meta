@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6943ee27-1510-4d1e-a771-1e0ab5ae7cea",
+  "uuid": "cf02f70b-2628-4bab-90af-534a901d2645",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "37 SC73 Light Phase",
   "deviceType": "INST",
   "comment": "",

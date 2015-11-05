@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "11d3edf2-b5a0-4408-b64e-c6c067a28f2b",
+  "uuid": "5c4bda9f-ec5a-411f-a74f-92f21daccc16",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "33 MKI Woody Tine",
   "deviceType": "INST",
   "comment": "",

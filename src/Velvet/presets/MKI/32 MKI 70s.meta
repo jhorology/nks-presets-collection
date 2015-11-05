@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fdaa9c64-cef7-47e3-be0e-5dd5d9036f4e",
+  "uuid": "7016f7b0-f62b-4df4-a9d0-912af8de2858",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "32 MKI 70s",
   "deviceType": "INST",
   "comment": "",

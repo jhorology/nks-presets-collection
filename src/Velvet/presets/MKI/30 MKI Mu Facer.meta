@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "70345bdc-5801-4190-8441-60678a3e4dc0",
+  "uuid": "65e120dc-d2bb-440a-bca7-54a3d37aece9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "30 MKI Mu Facer",
   "deviceType": "INST",
   "comment": "",

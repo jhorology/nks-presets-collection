@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "077a9ec9-bfed-4cf9-ad6f-25abb92e5fe6",
+  "uuid": "013820fc-f9d3-40e4-9fe7-250c165f7fe6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "42 MKII Slow Motion",
   "deviceType": "INST",
   "comment": "",

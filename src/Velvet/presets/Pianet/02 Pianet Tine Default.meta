@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "90a46674-d7da-4b9f-aefd-5aec4e9c00e8",
+  "uuid": "cd4f95cb-400f-48e3-8225-bd5e19dc43c8",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "02 Pianet Tine Default",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "751a6cc9-cfea-454c-b853-1483645c8a4e",
+  "uuid": "fe567ee8-d54f-4dbb-8044-8588808726b0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "39 MKII Rock Hard",
   "deviceType": "INST",
   "comment": "",

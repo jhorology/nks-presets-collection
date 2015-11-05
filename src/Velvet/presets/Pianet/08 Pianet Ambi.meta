@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6d6747fc-cc60-4309-a99b-ecbb14561eeb",
+  "uuid": "c86cd6d3-04a7-4733-9aef-dce427f065ad",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "08 Pianet Ambi",
   "deviceType": "INST",
   "comment": "",

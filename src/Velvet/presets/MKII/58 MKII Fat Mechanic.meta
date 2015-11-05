@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "348627b6-f82d-4870-b7f7-f870ad69f2f8",
+  "uuid": "50b9d7c4-7c99-4ce5-a035-8d77c7cf8eaa",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "58 MKII Fat Mechanic",
   "deviceType": "INST",
   "comment": "",

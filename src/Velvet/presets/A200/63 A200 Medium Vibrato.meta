@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a4c9d059-071c-462e-8a82-78c6d4275e3e",
+  "uuid": "a3be78f7-837b-4353-bc7a-9ef1f797bd1e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "63 A200 Medium Vibrato",
   "deviceType": "INST",
   "comment": "",

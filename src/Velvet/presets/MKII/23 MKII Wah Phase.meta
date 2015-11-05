@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fc0569b5-b7a6-47b7-a1a1-e2e45ac8e59c",
+  "uuid": "f79c0ed3-70a7-4446-8dd2-36fc565a94eb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "23 MKII Wah Phase",
   "deviceType": "INST",
   "comment": "",

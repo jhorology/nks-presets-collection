@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "583949eb-14ca-469a-b4cf-0d07f0208c0e",
+  "uuid": "36c31a2c-da59-4a02-b4c8-78da7afba1c0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "58 Pianet Soft Chorus",
   "deviceType": "INST",
   "comment": "",

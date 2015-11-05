@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fa098a93-709a-4451-b204-0a1ab8badf24",
+  "uuid": "0e5d782a-fced-4d00-a18a-c4a8e309d297",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "36 MKI VintageSoft",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f074d3dd-33dc-4ed4-932a-8f9e3d0deb25",
+  "uuid": "448b983b-afbc-403f-b11b-7b634b619e43",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "38 MKII Hard Chorus",
   "deviceType": "INST",
   "comment": "",

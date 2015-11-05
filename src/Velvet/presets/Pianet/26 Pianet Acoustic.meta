@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bc8d73c2-0074-45aa-9c94-a8911798b8fb",
+  "uuid": "87152a6b-6465-41bf-b388-9cf3aa7f1a07",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "26 Pianet Acoustic",
   "deviceType": "INST",
   "comment": "",

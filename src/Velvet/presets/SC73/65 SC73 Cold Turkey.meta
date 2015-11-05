@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "81cdd3af-6d99-44fa-8847-5f4cac42606a",
+  "uuid": "ad5a7b38-cea9-4a58-bb96-12690380364f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "65 SC73 Cold Turkey",
   "deviceType": "INST",
   "comment": "",

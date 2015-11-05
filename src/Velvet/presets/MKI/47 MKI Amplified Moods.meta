@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8a13e515-76de-48fd-a368-37191298abd5",
+  "uuid": "5f4318f2-57af-4f0e-be74-9bb537ad8834",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "47 MKI Amplified Moods",
   "deviceType": "INST",
   "comment": "",

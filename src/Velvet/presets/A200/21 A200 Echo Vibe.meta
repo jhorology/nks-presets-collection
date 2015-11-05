@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eb67f79f-4af2-4225-a0f4-f5d391d275f3",
+  "uuid": "e5e8f914-b9ac-46b6-a03d-046f3e1f9179",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "21 A200 Echo Vibe",
   "deviceType": "INST",
   "comment": "",

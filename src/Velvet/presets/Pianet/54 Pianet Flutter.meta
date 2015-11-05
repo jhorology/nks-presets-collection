@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "71606f31-1d27-49b4-8184-310c3a24d234",
+  "uuid": "80815a78-723a-4bf6-a4f3-cde4c1e87071",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "54 Pianet Flutter",
   "deviceType": "INST",
   "comment": "",

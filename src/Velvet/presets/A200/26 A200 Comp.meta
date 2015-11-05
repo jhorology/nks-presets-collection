@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bb4487cd-4680-4461-9651-0916d7bd0544",
+  "uuid": "cfbc000c-1e6a-4c82-9ac0-a72fd582fd6f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "26 A200 Comp",
   "deviceType": "INST",
   "comment": "",

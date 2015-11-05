@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "46bd94eb-bd1c-4277-9a23-3d6c2c19ee24",
+  "uuid": "fc10bb41-8e19-4b38-8b64-70dcd573a33d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "62 SC73 Taped",
   "deviceType": "INST",
   "comment": "",

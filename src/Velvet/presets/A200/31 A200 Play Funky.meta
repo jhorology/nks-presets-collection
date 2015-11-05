@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2632ef16-f945-494a-a178-35106b27d7d5",
+  "uuid": "3b4d319b-f6e5-4da9-a338-5084990475ac",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "31 A200 Play Funky",
   "deviceType": "INST",
   "comment": "",

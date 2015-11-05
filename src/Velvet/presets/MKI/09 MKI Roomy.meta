@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "07cc87c1-1a74-4844-8110-8e07cb059089",
+  "uuid": "21903e96-36f6-4e86-a8bb-258c177355d1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "09 MKI Roomy",
   "deviceType": "INST",
   "comment": "",

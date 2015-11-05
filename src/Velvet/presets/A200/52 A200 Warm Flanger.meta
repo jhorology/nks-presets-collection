@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4d9d47ad-e2ae-4596-b03e-f3744d9f9984",
+  "uuid": "c7bb31fd-b3e4-4ec8-81de-b1042f302984",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "52 A200 Warm Flanger",
   "deviceType": "INST",
   "comment": "",

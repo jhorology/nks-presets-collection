@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fab47cc3-0881-4b3d-9446-46b8ef6d4c7c",
+  "uuid": "552dc69d-93d8-4383-b3ef-b6d6fe319961",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "65 Pianet Wahser",
   "deviceType": "INST",
   "comment": "",

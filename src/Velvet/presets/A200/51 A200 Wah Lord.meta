@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6d0ed457-33b1-4d2a-be9e-8800b42fdef0",
+  "uuid": "3bf84d7c-7d9d-480b-9f46-ebbe69d57db9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "51 A200 Wah Lord",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "50f18f59-e672-4183-a8e8-d73dab41b2f7",
+  "uuid": "f0788a30-0784-48cb-a1eb-66ab3e742d40",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "11 A200 Compressed",
   "deviceType": "INST",
   "comment": "",

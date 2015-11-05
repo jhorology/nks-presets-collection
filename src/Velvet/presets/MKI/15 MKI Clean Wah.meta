@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "da548076-faea-4b4a-9087-ec4d27b17c24",
+  "uuid": "b84684a8-2dab-438f-a2c2-beb34e0c9e70",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "15 MKI Clean Wah",
   "deviceType": "INST",
   "comment": "",

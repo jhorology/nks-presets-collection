@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3320202b-2ab2-4d83-a399-79cb6d659ff9",
+  "uuid": "a1b5bdc6-12aa-4bb7-9181-7e33a1fe2dda",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "53 Pianet Bass",
   "deviceType": "INST",
   "comment": "",

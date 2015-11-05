@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "046782cb-d619-446d-bb8f-39d81aa99951",
+  "uuid": "439e4532-2a22-4808-8bcb-3c1f1eea4508",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "13 MKII Feedback Chorus",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aa2a7be7-a215-4074-a0ea-4ca9fab05007",
+  "uuid": "4fcfac88-a163-4bdf-8f6b-9676ca73f447",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "12 MKII Tape Delay",
   "deviceType": "INST",
   "comment": "",

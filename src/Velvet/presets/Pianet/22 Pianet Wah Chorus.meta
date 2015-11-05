@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f852bc59-a89c-4742-90c2-463a8b1e3fc0",
+  "uuid": "4227511b-8a39-4890-b735-9263b664eb74",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "22 Pianet Wah Chorus",
   "deviceType": "INST",
   "comment": "",

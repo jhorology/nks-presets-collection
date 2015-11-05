@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7c98d8c7-3aee-4e51-88e8-418d07c66204",
+  "uuid": "12db0d13-d832-4c44-8e43-842db8718db5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "46 SC73 Commode",
   "deviceType": "INST",
   "comment": "",

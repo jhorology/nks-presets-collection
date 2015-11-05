@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a26d9300-dc64-4b09-b156-ab278dc49520",
+  "uuid": "3b372b0a-cc48-4b5c-af50-28d31102e1ef",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "34 SC73 Dirty",
   "deviceType": "INST",
   "comment": "",

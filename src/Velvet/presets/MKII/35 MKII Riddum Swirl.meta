@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8aa33ab1-3140-4879-8c27-13f9ca10395e",
+  "uuid": "aa9f0a67-8172-44f6-ab1c-e1079c010e7c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "35 MKII Riddum Swirl",
   "deviceType": "INST",
   "comment": "",

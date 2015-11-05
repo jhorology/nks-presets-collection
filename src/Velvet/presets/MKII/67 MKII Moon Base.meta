@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3e813ce7-192f-4883-9e05-666b8b19121f",
+  "uuid": "157e0191-6c15-4aa7-9a87-4ddc63660205",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "67 MKII Moon Base",
   "deviceType": "INST",
   "comment": "",

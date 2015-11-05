@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e6e552dd-c980-42dc-b612-082d83be62e0",
+  "uuid": "9b3e90c8-ef1c-408e-a16d-9bca4e5364cb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "35 Pretty Pianet",
   "deviceType": "INST",
   "comment": "",

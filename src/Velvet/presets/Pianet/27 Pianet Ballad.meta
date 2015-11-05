@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fe7a65e3-d569-4fbb-be01-20bc4c8f2b3e",
+  "uuid": "a0ed1d8d-6f21-45e6-a87d-d2b58ec60011",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "27 Pianet Ballad",
   "deviceType": "INST",
   "comment": "",

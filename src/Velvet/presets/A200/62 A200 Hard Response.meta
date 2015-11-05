@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1eeabdb5-eef4-4e78-ae38-c8c93edf6dc0",
+  "uuid": "6251eafb-5f97-4764-bd50-6ab3fa17ab66",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "62 A200 Hard Response",
   "deviceType": "INST",
   "comment": "",

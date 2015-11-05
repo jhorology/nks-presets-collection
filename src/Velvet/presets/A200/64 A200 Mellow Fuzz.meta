@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1861508f-2d37-4961-b2c3-9bf63d53f3d5",
+  "uuid": "c07662c7-299f-4900-ba90-2faacf71f285",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "64 A200 Mellow Fuzz",
   "deviceType": "INST",
   "comment": "",

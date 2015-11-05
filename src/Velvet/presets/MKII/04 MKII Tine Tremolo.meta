@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a5481fac-f012-4927-b4b1-2dc42b1cb534",
+  "uuid": "6e95f46d-f24d-4c37-a5e2-2b70363ea36f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "04 MKII Tine Tremolo",
   "deviceType": "INST",
   "comment": "",

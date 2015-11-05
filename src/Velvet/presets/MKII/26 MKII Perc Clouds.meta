@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e8d86386-c8e2-4056-9b17-000eb7022f70",
+  "uuid": "7a6b82b3-0cfa-444e-b5bf-7f6925f69eac",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "26 MKII Perc Clouds",
   "deviceType": "INST",
   "comment": "",

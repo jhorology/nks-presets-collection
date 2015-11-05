@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e19eab48-4f9a-494b-b336-d25d824dcd9f",
+  "uuid": "24c39232-5f73-4d31-9b0a-3b3d19012e4a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "03 Pianet Tremolo",
   "deviceType": "INST",
   "comment": "",

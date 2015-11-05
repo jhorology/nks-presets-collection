@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b5703098-7ab7-4ebc-b622-4673a0a51236",
+  "uuid": "b2752357-0edd-4b90-aadf-2acb88530ae3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "34 Pianet Tacky",
   "deviceType": "INST",
   "comment": "",

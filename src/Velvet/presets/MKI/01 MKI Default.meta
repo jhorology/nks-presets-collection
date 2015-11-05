@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "08ade328-0306-49f3-b06e-5c50f207d1e9",
+  "uuid": "46eaab45-5793-4f4c-ab4b-d916ccfe84e7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "01 MKI Default",
   "deviceType": "INST",
   "comment": "",

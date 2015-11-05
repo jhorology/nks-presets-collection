@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "156a7648-32f3-4d11-89a8-d409c627bef1",
+  "uuid": "680a582b-6196-4272-a56c-d254f3e27c58",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "69 SC73 Fixed Wah Twang",
   "deviceType": "INST",
   "comment": "",

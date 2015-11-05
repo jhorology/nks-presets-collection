@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "93d87307-7bb8-4562-8d9c-9cb5a2fa8355",
+  "uuid": "e1416391-c31a-40e5-bebb-bf5dd99c977e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "16 MKII Clean Wah",
   "deviceType": "INST",
   "comment": "",

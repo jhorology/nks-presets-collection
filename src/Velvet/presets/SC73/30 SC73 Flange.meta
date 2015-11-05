@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "167cc5b7-6087-4f85-8f8e-d3e7576b81ff",
+  "uuid": "1b8ae645-bc64-4d42-9953-a6d284e1d6f6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "30 SC73 Flange",
   "deviceType": "INST",
   "comment": "",

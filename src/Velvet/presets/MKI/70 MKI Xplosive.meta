@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "09f65062-b8fe-487f-a2ce-34cae809b850",
+  "uuid": "2b2cd092-4de9-4ce0-b327-dd3d3198bfc1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "70 MKI Xplosive",
   "deviceType": "INST",
   "comment": "",

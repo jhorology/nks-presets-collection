@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a62689a4-2981-4384-88ed-7b5f9cbdf417",
+  "uuid": "9021157f-fc24-4480-8203-bac473eceea6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "29 A200 Dirt",
   "deviceType": "INST",
   "comment": "",

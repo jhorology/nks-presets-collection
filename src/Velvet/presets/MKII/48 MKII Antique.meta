@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b98aae83-4baf-451c-94ce-bb6042bb74f3",
+  "uuid": "ce4ec812-4dfe-4ceb-820b-f57ddb5c0f7d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "48 MKII Antique",
   "deviceType": "INST",
   "comment": "",

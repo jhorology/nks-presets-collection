@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e5c40ca2-736b-4445-aa9f-3d0068c739bd",
+  "uuid": "c82f004d-430a-4b16-9663-c8997e4523ba",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "16 Pianet Smooth",
   "deviceType": "INST",
   "comment": "",

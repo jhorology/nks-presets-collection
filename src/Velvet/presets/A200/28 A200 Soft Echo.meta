@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "67fced27-eb17-4226-b54d-719b0c65f7a0",
+  "uuid": "5fa235aa-14e3-4565-8426-219d7497fabb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "28 A200 Soft Echo",
   "deviceType": "INST",
   "comment": "",

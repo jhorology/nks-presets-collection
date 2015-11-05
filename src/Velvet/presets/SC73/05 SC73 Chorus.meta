@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4dc48ecb-1016-471a-bc2e-7337661a2756",
+  "uuid": "aca572d5-b821-4023-be99-85cd1fae070c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "05 SC73 Chorus",
   "deviceType": "INST",
   "comment": "",

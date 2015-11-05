@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fbc96764-ac59-41e6-8bfa-4754d66b030e",
+  "uuid": "c54a7893-1627-4651-8443-ff776b09e8b3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "04 Pianet Tine Tremolo",
   "deviceType": "INST",
   "comment": "",

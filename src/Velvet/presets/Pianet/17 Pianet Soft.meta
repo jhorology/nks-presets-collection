@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "71478718-67bd-4575-9da9-9b4616c136d8",
+  "uuid": "5220a0fb-d07e-47b9-a27e-281df8be79f3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "17 Pianet Soft",
   "deviceType": "INST",
   "comment": "",

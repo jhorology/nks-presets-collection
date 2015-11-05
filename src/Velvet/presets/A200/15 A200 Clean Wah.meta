@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2014cec3-069e-4953-85b5-582a051f7530",
+  "uuid": "45d99f03-be1c-4aa3-af75-5c423ce1e883",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "15 A200 Clean Wah",
   "deviceType": "INST",
   "comment": "",

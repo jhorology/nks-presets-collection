@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b0a83bec-71bb-40c0-8587-243894a11a05",
+  "uuid": "8800174e-06cf-4057-a751-8669536957dd",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "45 MKI Shimmer",
   "deviceType": "INST",
   "comment": "",

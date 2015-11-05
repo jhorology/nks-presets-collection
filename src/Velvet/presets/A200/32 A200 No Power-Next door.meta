@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "01929166-c6c9-4500-8436-859d8b7cf422",
+  "uuid": "11d7673c-58f6-4262-8374-5338fee8a33c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "32 A200 No Power-Next door",
   "deviceType": "INST",
   "comment": "",

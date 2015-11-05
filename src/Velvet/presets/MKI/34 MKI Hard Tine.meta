@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "463aa2bf-c230-4391-9df2-c0f2d75f3277",
+  "uuid": "542ed85e-a7e3-438e-b97f-6b7959fe6eff",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "34 MKI Hard Tine",
   "deviceType": "INST",
   "comment": "",

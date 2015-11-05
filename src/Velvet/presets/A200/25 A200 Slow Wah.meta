@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c268afed-a797-4e00-a356-f2ab9cb9c5c7",
+  "uuid": "7c3f24e0-7c1a-4728-bbf3-0e3c8bbb9083",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "25 A200 Slow Wah",
   "deviceType": "INST",
   "comment": "",

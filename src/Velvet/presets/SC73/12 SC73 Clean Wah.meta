@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "96ab15c5-fa48-4b7a-9325-09e9b88070e1",
+  "uuid": "5221832c-17ab-476d-b03a-a32e95df4c33",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "12 SC73 Clean Wah",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f54be9a6-e0ad-4d7e-8de4-2e153fd3a8a5",
+  "uuid": "19a928fa-d92d-466a-b817-ea6934d782d4",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "12 MKI Tine Echo",
   "deviceType": "INST",
   "comment": "",

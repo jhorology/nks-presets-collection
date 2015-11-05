@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4d1b2cb5-0189-42a6-8bcd-352d6a85b21e",
+  "uuid": "07de4d81-eda3-464f-9d0e-62ac5f255d8c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "13 SC73 Ballad",
   "deviceType": "INST",
   "comment": "",

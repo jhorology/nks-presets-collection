@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "86bad394-c823-4dac-82af-a49486565ef8",
+  "uuid": "eb605ce1-1c9e-44f5-a3e9-09df7152c133",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "37 MKII Balladesque",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "161d2780-b445-4ed4-bd64-88afcc340ac0",
+  "uuid": "5e5cf20e-3d77-41ce-95a5-6c222a1ee640",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "28 Pianet Wah Phase",
   "deviceType": "INST",
   "comment": "",

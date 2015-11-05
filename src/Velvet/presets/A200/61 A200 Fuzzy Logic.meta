@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0e45fab3-2dd0-4947-8e13-b31c8ee6cbb4",
+  "uuid": "c6ff4833-c940-4022-86e0-ed44e33d88d1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "61 A200 Fuzzy Logic",
   "deviceType": "INST",
   "comment": "",

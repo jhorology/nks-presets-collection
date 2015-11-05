@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8999e0c6-e0f9-499f-9a9c-1f44c851a815",
+  "uuid": "2208f443-a81e-4217-868b-cb2e93b41a1c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "59 A200 Full Fuzzed",
   "deviceType": "INST",
   "comment": "",

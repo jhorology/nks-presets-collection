@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6180cc5f-b298-4728-a381-eced89b357c9",
+  "uuid": "48dc9085-a679-472e-a12a-bde0e94a5f2b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "22 MKI Swirly Phaze",
   "deviceType": "INST",
   "comment": "",

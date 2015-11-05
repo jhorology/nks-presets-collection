@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "03ae6f05-d8c0-469c-a062-77386f41d3df",
+  "uuid": "5831d821-9492-4935-95ec-855807c331d9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "08 MKII Emotions",
   "deviceType": "INST",
   "comment": "",

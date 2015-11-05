@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a733bdc3-af60-4e5e-9bff-0cb55167e6b9",
+  "uuid": "ea4cdd33-2177-4094-86e6-9b148eefa55a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "39 SC73 Woody",
   "deviceType": "INST",
   "comment": "",

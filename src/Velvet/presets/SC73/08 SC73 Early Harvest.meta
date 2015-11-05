@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c0e7f1a2-d48d-4a2c-a112-45c146b94057",
+  "uuid": "c87f2517-f69a-402d-bf35-dbb1b5b965aa",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "08 SC73 Early Harvest",
   "deviceType": "INST",
   "comment": "",

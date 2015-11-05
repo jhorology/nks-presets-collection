@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "655b4e9a-7314-42b9-b76d-78777d8db8bb",
+  "uuid": "55c650d3-32e9-4d7a-bac5-1e8c899efeee",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "25 Pianello",
   "deviceType": "INST",
   "comment": "",

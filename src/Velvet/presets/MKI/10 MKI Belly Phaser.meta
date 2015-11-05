@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "606c02b8-64bd-4a1d-8ab0-a5112b0a0ac8",
+  "uuid": "8743c9b8-2fab-4674-a179-1ddbce23ccb2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "10 MKI Belly Phaser",
   "deviceType": "INST",
   "comment": "",

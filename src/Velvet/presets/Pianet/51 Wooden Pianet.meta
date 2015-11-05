@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "32af1c86-10a6-4fe2-9310-a4dd3058a869",
+  "uuid": "8c53e5a4-16bd-4c1e-abd1-5f6f633c5f2a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "51 Wooden Pianet",
   "deviceType": "INST",
   "comment": "",

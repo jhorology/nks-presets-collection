@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1da38c71-1bb7-40b9-a8d3-c4a57bab5ae1",
+  "uuid": "8fcf0e14-73bc-4963-ac73-e79059519f03",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "41 A200 Room",
   "deviceType": "INST",
   "comment": "",

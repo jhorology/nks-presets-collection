@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "180aab94-b52c-4f9f-b49c-640575e2b41b",
+  "uuid": "e7a464fe-aa1c-49dc-bc1d-77419979e997",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "40 Pianet Amped",
   "deviceType": "INST",
   "comment": "",

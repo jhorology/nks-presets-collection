@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5bda4430-7a54-464d-a023-ca3c06a7d452",
+  "uuid": "7a7839c9-1edb-4add-a329-334340248acb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "34 MKII Perk Tine",
   "deviceType": "INST",
   "comment": "",

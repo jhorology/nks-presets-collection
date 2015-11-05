@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "48b0de96-db83-4d16-86a5-d92fcfa2aa4b",
+  "uuid": "04061668-be9b-43f7-be17-aeb60b38cd4f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "70 A200 Wah Tape Dubber",
   "deviceType": "INST",
   "comment": "",

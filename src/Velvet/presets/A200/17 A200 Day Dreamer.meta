@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d7798d84-797c-41da-85eb-d1a07f6d6ed1",
+  "uuid": "1b49a0cf-3263-4ec2-8f16-9f4773020a27",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "17 A200 Day Dreamer",
   "deviceType": "INST",
   "comment": "",

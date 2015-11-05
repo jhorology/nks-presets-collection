@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bbf52a2a-81dc-44c0-8fb4-3aa4e125286a",
+  "uuid": "1eedb0e3-7b49-4992-817e-c79e34da2c8d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "66 MKII HiFi Dynamic",
   "deviceType": "INST",
   "comment": "",

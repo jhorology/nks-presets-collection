@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6fb86e40-54ad-42e2-b5ec-941d3479ddb0",
+  "uuid": "80273a53-5d67-4e40-ad93-0d2b3e5f97ca",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "48 MKI Cut Thru Chords",
   "deviceType": "INST",
   "comment": "",

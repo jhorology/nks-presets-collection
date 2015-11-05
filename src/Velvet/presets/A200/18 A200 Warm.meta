@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "84c37eb2-99be-4bdb-83c7-5a9a54e35191",
+  "uuid": "8eb614e7-278d-41dc-9a4d-53f0ee3e0be4",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "18 A200 Warm",
   "deviceType": "INST",
   "comment": "",

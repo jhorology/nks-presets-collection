@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d7b89155-8d47-4976-9bc2-429ef0526386",
+  "uuid": "bd977ed1-d266-48fd-a2cd-156e06fa47a9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "19 Pianet Tape Delay",
   "deviceType": "INST",
   "comment": "",

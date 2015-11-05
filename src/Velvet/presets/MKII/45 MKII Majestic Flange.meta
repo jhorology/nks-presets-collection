@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fbf44c60-7e94-4afc-bdfd-b3bcac962f22",
+  "uuid": "6eb065c5-e6cc-4f8e-8269-e9d0ede2dfa9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "45 MKII Majestic Flange",
   "deviceType": "INST",
   "comment": "",

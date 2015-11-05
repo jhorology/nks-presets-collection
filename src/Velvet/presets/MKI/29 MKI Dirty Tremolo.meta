@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a1d0b654-341b-49aa-8dda-a5952b34a987",
+  "uuid": "034cd236-949a-4eca-b29c-1762e056f317",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "29 MKI Dirty Tremolo",
   "deviceType": "INST",
   "comment": "",

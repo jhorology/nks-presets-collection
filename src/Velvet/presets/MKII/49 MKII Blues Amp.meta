@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "63761878-f2cc-4d18-b7cc-2a8f17fcf364",
+  "uuid": "79e879a5-1669-4c43-a424-b0064a908b23",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "49 MKII Blues Amp",
   "deviceType": "INST",
   "comment": "",

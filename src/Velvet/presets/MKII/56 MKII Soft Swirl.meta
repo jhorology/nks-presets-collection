@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "375aa36c-5dc6-424a-9b43-d6c4c48ed37a",
+  "uuid": "968c10a7-3054-4fc9-bfe2-1a4efe84ef70",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "56 MKII Soft Swirl",
   "deviceType": "INST",
   "comment": "",

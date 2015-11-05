@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f1698f09-0888-44a6-a131-ece193d8ffc4",
+  "uuid": "492bee6c-0013-420f-a582-a002c537552b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "47 Pianet Perc",
   "deviceType": "INST",
   "comment": "",

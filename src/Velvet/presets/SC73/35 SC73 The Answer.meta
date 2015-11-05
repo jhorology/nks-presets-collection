@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "932d99f5-b288-4a17-b76f-0a96ed3c5cd0",
+  "uuid": "9baf7a5e-65c5-409c-b010-76da2b44ced3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "35 SC73 The Answer",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d9c73515-a96a-4754-a8ae-c05c2a47764f",
+  "uuid": "28969221-61a7-4113-91d8-0e9965f86625",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "36 SC73 Big Chor",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7ad67c06-4156-497b-b3ce-9d31695dce20",
+  "uuid": "c4b97b5b-0ef4-4b93-a9ae-a5d01e99cb51",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "30 Pianet Bold as Lee",
   "deviceType": "INST",
   "comment": "",

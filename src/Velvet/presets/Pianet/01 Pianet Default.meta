@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "76e39c08-b44b-48e1-8f69-07a117d610b9",
+  "uuid": "caf85c44-25ea-4c78-be3f-f90a885102e4",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "01 Pianet Default",
   "deviceType": "INST",
   "comment": "",

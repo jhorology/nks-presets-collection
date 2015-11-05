@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2cc9e238-8f12-44b4-9be5-945e707ee46b",
+  "uuid": "ea4348eb-f763-4d18-8de4-d9e5997b5ccd",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "42 SC73 Gospel",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "83b60e0e-e4e7-425c-bd61-01d852e2df9a",
+  "uuid": "c38e1aac-bda2-4e8e-9101-416c2fc25e3c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "24 MKII Operator",
   "deviceType": "INST",
   "comment": "",

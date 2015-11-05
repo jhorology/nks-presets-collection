@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "78877b00-ec7c-48a6-9c9d-6b073714b345",
+  "uuid": "335204b7-a8b1-40b9-82a5-fde25031ecd7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "06 Pianet Tine Chorus",
   "deviceType": "INST",
   "comment": "",

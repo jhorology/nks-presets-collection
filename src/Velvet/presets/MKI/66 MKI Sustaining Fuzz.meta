@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0fc35d49-e64d-4e20-8092-b699ed41d611",
+  "uuid": "b65f043a-2bae-4958-8ac1-23b5760de9b5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "66 MKI Sustaining Fuzz",
   "deviceType": "INST",
   "comment": "",

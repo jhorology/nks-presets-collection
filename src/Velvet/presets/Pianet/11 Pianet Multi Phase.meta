@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9002a077-be7a-4240-917b-d56eab8a43e2",
+  "uuid": "097a4232-a11d-4c2b-8660-a111e2be55b7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "11 Pianet Multi Phase",
   "deviceType": "INST",
   "comment": "",

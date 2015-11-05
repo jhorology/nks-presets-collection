@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "183567ad-d13a-46f1-aa2c-5ef9578c147e",
+  "uuid": "367e30be-3059-46a3-9cb0-4208394fc22a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "39 Spacey Pianet",
   "deviceType": "INST",
   "comment": "",

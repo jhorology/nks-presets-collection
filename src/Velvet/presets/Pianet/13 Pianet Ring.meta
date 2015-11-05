@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6be3e0fa-99d1-4933-8be8-dcdd8df4390c",
+  "uuid": "b1693821-8523-497f-8e3e-dac79275c1e9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "13 Pianet Ring",
   "deviceType": "INST",
   "comment": "",

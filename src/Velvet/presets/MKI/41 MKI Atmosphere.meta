@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cfd947f7-4641-43b5-986c-386c74e21bd2",
+  "uuid": "9b68cb25-ea71-4db9-9eb0-ec1fb5da95ad",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "41 MKI Atmosphere",
   "deviceType": "INST",
   "comment": "",

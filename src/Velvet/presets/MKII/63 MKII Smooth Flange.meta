@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "66590290-7524-4bdc-8183-687c18f25e10",
+  "uuid": "c4cc2f65-b6a0-4e49-8760-4d5c9883d75b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "63 MKII Smooth Flange",
   "deviceType": "INST",
   "comment": "",

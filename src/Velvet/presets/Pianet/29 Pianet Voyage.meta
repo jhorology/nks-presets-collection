@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "77b865c8-4b18-4a71-b47a-671fca8658c4",
+  "uuid": "f2addc02-a04a-41e8-a2f4-4069db7d5962",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "29 Pianet Voyage",
   "deviceType": "INST",
   "comment": "",

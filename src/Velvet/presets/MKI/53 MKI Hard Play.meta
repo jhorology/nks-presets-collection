@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "127be125-85b3-4e75-883c-91148b04f79d",
+  "uuid": "3c35031a-196e-4311-bc84-dae24e94acb4",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "53 MKI Hard Play",
   "deviceType": "INST",
   "comment": "",

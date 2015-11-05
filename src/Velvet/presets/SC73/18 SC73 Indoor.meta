@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0f559672-2a33-4100-ae6c-7447a4e3cf68",
+  "uuid": "000ed656-aec1-45c8-8d2d-7160c8740a22",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "18 SC73 Indoor",
   "deviceType": "INST",
   "comment": "",

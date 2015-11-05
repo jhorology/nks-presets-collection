@@ -213,9 +213,8 @@ gulp.task 'velvet-generate-meta', ->
         types: [
           ["Piano/Keys"]
           ["Piano/Keys", "Electric Piano"]
-          ["Piano/Keys", folder]
         ]
-        modes: ['Sample Based']
+        modes: [folder]
         name: basename
         deviceType: 'INST'
         comment: ''

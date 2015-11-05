@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "89680e75-a443-4e6f-a75c-33e941385437",
+  "uuid": "d268feee-f721-4353-ad65-da0d8c7063ba",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "47 MKII Warm Pad",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8e3016e5-8c0b-4a4b-abaa-319da91c442d",
+  "uuid": "7dd4a409-e5c6-4b82-99e4-7e75d96feab8",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "36 Pianet Tape Wah",
   "deviceType": "INST",
   "comment": "",

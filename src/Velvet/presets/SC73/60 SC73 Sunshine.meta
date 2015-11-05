@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ca1296d3-4764-4f63-9c34-5194557baa3e",
+  "uuid": "bead6403-a47e-4d83-a07b-6ee28d182482",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "60 SC73 Sunshine",
   "deviceType": "INST",
   "comment": "",

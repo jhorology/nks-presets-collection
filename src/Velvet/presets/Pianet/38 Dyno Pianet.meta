@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "551be79e-38b4-4404-9465-0aa53b3452b3",
+  "uuid": "6fd07349-e3eb-4504-840f-5a8184c5d4c3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "38 Dyno Pianet",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "05db2b45-b94a-4089-8801-afefc3559c8d",
+  "uuid": "09e10a79-0c94-4d80-a8f9-743ae86a3006",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "09 Pianet Echoed",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "89ba6c52-f961-46a5-b8df-b934693166ed",
+  "uuid": "e2ad8e88-56b5-4be6-be93-67e96d65d869",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "53 A200 Ampire",
   "deviceType": "INST",
   "comment": "",

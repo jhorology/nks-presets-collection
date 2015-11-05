@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f4d6eb89-c2f1-4f33-b922-2b053a3961af",
+  "uuid": "86595fac-6d3b-40db-8337-5f48b205a758",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "07 MKII Dynomite",
   "deviceType": "INST",
   "comment": "",

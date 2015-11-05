@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e2acae0f-13c6-43eb-aec9-e2d5bc53d630",
+  "uuid": "f6293542-66c6-43b0-a910-0313fa16ed98",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "45 A200 Super Dreamer",
   "deviceType": "INST",
   "comment": "",

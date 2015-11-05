@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3bb67817-3a84-4fac-bb68-1be8a2b3c1f7",
+  "uuid": "d04249f2-e7d2-477f-9148-87ecb1038f27",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "31 Pianet Bell Phase",
   "deviceType": "INST",
   "comment": "",

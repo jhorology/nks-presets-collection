@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "47b49fef-d678-4be9-886f-72c2783a6b70",
+  "uuid": "02e8bc4f-618a-4071-8d5c-480a71638765",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "55 Pianet Dist Wah",
   "deviceType": "INST",
   "comment": "",

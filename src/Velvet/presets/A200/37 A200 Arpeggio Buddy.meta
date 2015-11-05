@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "608c46d2-abad-4df8-a7b6-2e77e81e2eab",
+  "uuid": "b1283f73-de54-477d-982a-5156c08f91c2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "37 A200 Arpeggio Buddy",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b275c5eb-9220-4dfd-a520-5d0fbd5100e0",
+  "uuid": "ad6362f0-1f9e-4bd5-8e46-a9035cf70506",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "70 MKII Straight Dynamic",
   "deviceType": "INST",
   "comment": "",

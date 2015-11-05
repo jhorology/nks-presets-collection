@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1f54b662-5a3b-473f-87ab-b35fd062805b",
+  "uuid": "da81850e-ff12-4486-906e-b80d719220bc",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "47 SC73 Dull Moment",
   "deviceType": "INST",
   "comment": "",

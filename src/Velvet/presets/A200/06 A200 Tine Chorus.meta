@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "728e6ad8-54f7-4398-a753-d6bfbf150bd2",
+  "uuid": "a3990342-f094-4f5a-a334-d466be3fd837",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "06 A200 Tine Chorus",
   "deviceType": "INST",
   "comment": "",

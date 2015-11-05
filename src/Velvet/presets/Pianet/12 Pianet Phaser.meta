@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "23c2f08e-3d58-4022-bf53-a60996da0beb",
+  "uuid": "5065c908-3b54-4dc7-9670-d182a2bba1fb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "12 Pianet Phaser",
   "deviceType": "INST",
   "comment": "",

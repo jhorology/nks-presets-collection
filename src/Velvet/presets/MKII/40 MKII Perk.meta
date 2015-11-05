@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4e215deb-e67f-4cf7-af71-eb989efa9ec2",
+  "uuid": "cbbe18ca-78d3-48a7-bac1-e9b83c5c8288",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "40 MKII Perk",
   "deviceType": "INST",
   "comment": "",

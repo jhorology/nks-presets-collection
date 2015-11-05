@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f44e221b-5635-4528-a6a7-adfc9d6f3356",
+  "uuid": "b2ae0175-202c-4707-8431-82b32a98c6b5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "54 SC73 Psycho Vibes",
   "deviceType": "INST",
   "comment": "",

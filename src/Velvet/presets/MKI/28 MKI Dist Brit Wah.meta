@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c25e096c-0c60-4dfe-afbc-3ef2ad28639b",
+  "uuid": "12c714a1-65a4-4a43-bc4f-39d9e042e0d3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "28 MKI Dist Brit Wah",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "24e8c3f7-58a7-4fbc-be80-b001341d1554",
+  "uuid": "4be3ebf1-80d6-4a85-bda2-3c1da7d50cfe",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "45 SC73 Perky",
   "deviceType": "INST",
   "comment": "",

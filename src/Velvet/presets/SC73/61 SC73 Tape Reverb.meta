@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cb08fd06-51fb-44a1-8139-bee75d5fb50f",
+  "uuid": "252f0c33-743a-4480-bc67-87b0addb67ee",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "61 SC73 Tape Reverb",
   "deviceType": "INST",
   "comment": "",

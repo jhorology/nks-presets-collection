@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c8bdeef4-cd4a-4393-b0f6-b68e328618f7",
+  "uuid": "4aab8429-a570-4ddf-81e6-8c9f9ad2af8a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "10 Pianet Fragile",
   "deviceType": "INST",
   "comment": "",

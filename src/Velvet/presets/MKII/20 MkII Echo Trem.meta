@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "041b0e1a-56e8-4bb1-b829-04581edc4c81",
+  "uuid": "13783a41-1f90-4528-8aea-884aa37f7db3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "20 MkII Echo Trem",
   "deviceType": "INST",
   "comment": "",

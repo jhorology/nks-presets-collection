@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "217ef730-6ebc-43ac-853b-b1c83d591d08",
+  "uuid": "cf2a9f3a-695b-40fb-95b6-d06c78c486c8",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "38 MKI Fast Tremolo",
   "deviceType": "INST",
   "comment": "",

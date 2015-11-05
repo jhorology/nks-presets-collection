@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e306da51-e50a-4aa7-bda8-3ce67390d74a",
+  "uuid": "4bc4d1e1-7bfe-45a2-b872-1797b12abf2a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "05 MKI Chorus",
   "deviceType": "INST",
   "comment": "",

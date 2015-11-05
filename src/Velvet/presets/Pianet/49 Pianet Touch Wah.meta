@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c2236b6e-9c64-426b-a53d-dd45bd39afd8",
+  "uuid": "a238c4cb-19fd-40e1-8ab0-1afb62a764e0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "49 Pianet Touch Wah",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ff285f6b-cab4-4b9f-9c95-cca89849b1fd",
+  "uuid": "65f52cab-093a-446f-83ae-f50e774e5060",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "20 A200 Distorted",
   "deviceType": "INST",
   "comment": "",

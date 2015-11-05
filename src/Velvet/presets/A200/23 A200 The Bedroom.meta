@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c33610eb-532d-403d-bd42-938620669054",
+  "uuid": "7e33984b-6efa-4118-8c17-ca0bf4f1b03b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "23 A200 The Bedroom",
   "deviceType": "INST",
   "comment": "",

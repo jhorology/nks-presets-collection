@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4ff3a5b7-e826-47b8-9262-fa28068ecabc",
+  "uuid": "6963f003-880d-4ff3-9c35-55b900c8f235",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "68 A200 Talking Fuzz",
   "deviceType": "INST",
   "comment": "",

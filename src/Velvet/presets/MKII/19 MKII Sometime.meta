@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8311d569-7d96-4d82-9b6b-5de85378287a",
+  "uuid": "bb7f9c0b-f0c1-4c26-9eae-4e1d24a1fd9a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "19 MKII Sometime",
   "deviceType": "INST",
   "comment": "",

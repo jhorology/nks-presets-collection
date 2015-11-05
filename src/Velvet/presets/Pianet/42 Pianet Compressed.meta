@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bb7b102b-b05f-4505-9b5d-5f19f71e073d",
+  "uuid": "5e4eeee4-b577-41e5-bbb6-d55c8da34c32",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "42 Pianet Compressed",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "71623e37-009f-439a-9203-153052e37722",
+  "uuid": "9087791c-f4e1-4496-bd95-7edee9fa97ba",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "47 A200 Powerful",
   "deviceType": "INST",
   "comment": "",

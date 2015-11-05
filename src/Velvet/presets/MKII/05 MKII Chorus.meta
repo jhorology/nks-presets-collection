@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7ea368c2-c269-476c-80a1-e4821303cc32",
+  "uuid": "967a59ca-d2c0-4bc5-920d-fb8b8a673e67",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "05 MKII Chorus",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8086719e-0d21-495f-b97b-8a0c2635f41f",
+  "uuid": "9039fede-c1a9-4c48-abf8-3749f46734b5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "03 SC73 Tremolo",
   "deviceType": "INST",
   "comment": "",

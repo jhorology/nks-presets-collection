@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3423f9d0-368c-45f4-a701-279e4269e347",
+  "uuid": "7398489a-eb99-4b5e-a1f8-e72100df4c9d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "44 SC73 Enriched",
   "deviceType": "INST",
   "comment": "",

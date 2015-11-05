@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a897bcb6-e68b-4c11-935e-02106750cb50",
+  "uuid": "4c1a831a-fc9d-43be-aa2e-86cd20fad6c0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "44 MKI Rhythmic Phaze",
   "deviceType": "INST",
   "comment": "",

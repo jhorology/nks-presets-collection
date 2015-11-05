@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "561f933c-a500-4ab2-a2a3-a352a2e74df1",
+  "uuid": "fa09ec8a-fc20-4e1e-afd3-fa781481291c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "43 A200 Scuba",
   "deviceType": "INST",
   "comment": "",

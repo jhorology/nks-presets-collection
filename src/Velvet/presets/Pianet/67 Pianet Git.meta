@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "afcdde1e-a57e-4113-9591-735bd8f75eea",
+  "uuid": "654d254a-ab0d-41e1-843c-cfdb88ac9fb5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "67 Pianet Git",
   "deviceType": "INST",
   "comment": "",

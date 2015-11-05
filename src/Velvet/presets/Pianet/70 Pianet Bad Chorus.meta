@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d64edb80-4808-4a44-bb1e-2e6246a9f5e1",
+  "uuid": "a09304c9-4336-4488-88f8-5252814926ac",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "70 Pianet Bad Chorus",
   "deviceType": "INST",
   "comment": "",

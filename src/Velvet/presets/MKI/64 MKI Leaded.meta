@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f39f9161-50f9-4913-834b-b1ba0e9a8c4f",
+  "uuid": "8add913a-ad0c-4429-ae03-79c86b084788",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "64 MKI Leaded",
   "deviceType": "INST",
   "comment": "",

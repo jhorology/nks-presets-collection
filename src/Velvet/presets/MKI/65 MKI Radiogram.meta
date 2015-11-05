@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a21a5120-ecc5-4cdc-a921-357ed49e8d44",
+  "uuid": "8c5baee1-2345-48ce-873a-ac7a46f1d25d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "65 MKI Radiogram",
   "deviceType": "INST",
   "comment": "",

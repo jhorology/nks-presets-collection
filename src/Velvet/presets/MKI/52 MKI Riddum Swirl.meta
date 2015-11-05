@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "913c6c2b-4ef8-40ef-8e81-f867bea066c9",
+  "uuid": "6942335a-8880-4e20-94d4-8db4315fbcc1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "52 MKI Riddum Swirl",
   "deviceType": "INST",
   "comment": "",

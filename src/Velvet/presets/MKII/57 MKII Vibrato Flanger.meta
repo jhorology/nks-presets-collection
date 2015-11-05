@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b3068d98-6cf1-4de3-b43f-70966c692011",
+  "uuid": "2899fdf3-8d5f-422d-a0a3-2ab2ed2dd33c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "57 MKII Vibrato Flanger",
   "deviceType": "INST",
   "comment": "",

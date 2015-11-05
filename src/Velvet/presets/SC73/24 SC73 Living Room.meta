@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1dbf5440-d0ab-452b-9f86-e84a8c7ccffb",
+  "uuid": "b67a985f-351f-4048-ba28-7ec2515c957f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "24 SC73 Living Room",
   "deviceType": "INST",
   "comment": "",

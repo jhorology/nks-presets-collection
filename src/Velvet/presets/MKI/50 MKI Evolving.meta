@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fe2c6a86-d843-4740-bf69-53443c0e45c9",
+  "uuid": "374d8ce8-c788-49d9-808d-74f1125a1c0e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "50 MKI Evolving",
   "deviceType": "INST",
   "comment": "",

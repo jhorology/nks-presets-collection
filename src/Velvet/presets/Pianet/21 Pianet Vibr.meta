@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bd5792b1-be9c-4b54-b2cc-28c5a7331331",
+  "uuid": "1092373b-757d-4bfc-8787-4fd6d9690311",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "21 Pianet Vibr",
   "deviceType": "INST",
   "comment": "",

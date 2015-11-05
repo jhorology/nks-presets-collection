@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fdbd97d4-f952-4105-ae2c-b8001829014d",
+  "uuid": "04aa35c3-1120-4799-98e6-acb51221e54e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "63 SC73 Tubulars",
   "deviceType": "INST",
   "comment": "",

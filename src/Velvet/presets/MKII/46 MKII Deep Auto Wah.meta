@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e6b4f6ca-603a-4840-98c1-9887190272b6",
+  "uuid": "df38c648-2746-40f1-8171-90797664476e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "46 MKII Deep Auto Wah",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3313dd1e-de40-4897-abfb-648f009b11b2",
+  "uuid": "09fbaf6b-f7c4-430c-8154-f53bdb13bf9c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "18 MKII Gospel",
   "deviceType": "INST",
   "comment": "",

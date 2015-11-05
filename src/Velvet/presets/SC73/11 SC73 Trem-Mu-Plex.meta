@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c8f0feb5-341a-479f-9c64-c95d632bd396",
+  "uuid": "7f2b8504-7015-46a3-9f26-18fa2ea2b05f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "11 SC73 Trem-Mu-Plex",
   "deviceType": "INST",
   "comment": "",

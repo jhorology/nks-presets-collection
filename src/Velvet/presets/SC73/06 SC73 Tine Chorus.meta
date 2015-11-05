@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cbb82d49-5fcf-4bc2-81a0-89bfc9f34caa",
+  "uuid": "347de0aa-0866-42d3-85ed-54cb345c6073",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "06 SC73 Tine Chorus",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "92e5e52a-bb8d-4882-85e9-d20589f94457",
+  "uuid": "cb1e2631-ffe6-407c-bc50-485e98cb84ec",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "64 MKII Vintage Flavor",
   "deviceType": "INST",
   "comment": "",

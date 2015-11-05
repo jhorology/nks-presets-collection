@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "198cf7cc-7986-48d7-a1da-4fbcc16db192",
+  "uuid": "4d2bd34b-c1ca-4dd5-b06d-8ee83ab0480d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "46 Pianet Mu-Plex",
   "deviceType": "INST",
   "comment": "",

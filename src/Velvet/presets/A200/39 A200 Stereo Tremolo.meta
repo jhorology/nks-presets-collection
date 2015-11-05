@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cd61a419-4924-4265-8767-472920517383",
+  "uuid": "0b3e6c66-8891-4a4b-a0f5-a4f4c89bb43f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "39 A200 Stereo Tremolo",
   "deviceType": "INST",
   "comment": "",

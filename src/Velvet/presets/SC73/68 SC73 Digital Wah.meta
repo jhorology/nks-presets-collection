@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "09a072f6-adf2-416c-9b92-2a072a8330e8",
+  "uuid": "1cba8f6e-a20e-4118-b33e-a52f7cc6de74",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "68 SC73 Digital Wah",
   "deviceType": "INST",
   "comment": "",

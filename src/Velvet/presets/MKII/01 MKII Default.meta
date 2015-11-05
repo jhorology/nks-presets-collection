@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "406bd016-5b8f-4090-a9b8-c5cd9c052fd9",
+  "uuid": "550c3183-9bbd-4869-b7ea-a052316d50bb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "01 MKII Default",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "63484a2b-f68c-4041-999d-f36f748a8b73",
+  "uuid": "c4c38fc5-05ee-4aa0-be0c-8a92ed04f096",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "21 MKII Gentleman",
   "deviceType": "INST",
   "comment": "",

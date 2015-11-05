@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f2ea1f66-3ecf-4a87-bca3-d4df43ee57b0",
+  "uuid": "c614c1d6-5074-4af6-a9e5-60ed92f8a5e2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "19 MKI Daves",
   "deviceType": "INST",
   "comment": "",

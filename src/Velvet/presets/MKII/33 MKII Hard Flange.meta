@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "58a27081-fe07-45b8-8579-14641d09d973",
+  "uuid": "e4d7ebc5-dff5-42c6-8ffc-63b012750691",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "33 MKII Hard Flange",
   "deviceType": "INST",
   "comment": "",

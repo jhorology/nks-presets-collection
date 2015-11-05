@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8aa5b065-17f6-4c67-9b1b-3b13f819bcc8",
+  "uuid": "e9ae67ea-edbf-4ef5-a76c-45acc13951d1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "29 MKII Dirty Tine",
   "deviceType": "INST",
   "comment": "",

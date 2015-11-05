@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "371e6555-b30c-43b4-b7a2-c5655a76bb22",
+  "uuid": "08676dbb-a02b-4cc8-8840-b575fe903af2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "05 Pianet Chorus",
   "deviceType": "INST",
   "comment": "",

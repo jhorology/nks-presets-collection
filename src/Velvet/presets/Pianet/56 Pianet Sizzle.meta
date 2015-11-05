@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "dd16afff-0186-43b7-b982-656a2cd82d08",
+  "uuid": "34b3fd24-83d7-4488-862c-2596cf201204",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "56 Pianet Sizzle",
   "deviceType": "INST",
   "comment": "",

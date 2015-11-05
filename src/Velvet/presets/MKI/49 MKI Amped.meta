@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d3a0af72-a4dc-4709-be5a-b268fa431730",
+  "uuid": "ca9d2139-91ef-4f05-a53c-9ab188ad613f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "49 MKI Amped",
   "deviceType": "INST",
   "comment": "",

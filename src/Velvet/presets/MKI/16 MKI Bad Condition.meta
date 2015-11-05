@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1ab1a319-05d8-4ce7-9661-f6cf2431add2",
+  "uuid": "de02071e-2177-42a6-a066-6907a8502f74",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "16 MKI Bad Condition",
   "deviceType": "INST",
   "comment": "",

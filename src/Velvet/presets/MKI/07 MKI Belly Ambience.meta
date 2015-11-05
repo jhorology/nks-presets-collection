@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f5adaa58-12c2-4522-bc73-f88eff577a89",
+  "uuid": "8093e153-4844-488f-b76f-432b0a0498a3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "07 MKI Belly Ambience",
   "deviceType": "INST",
   "comment": "",

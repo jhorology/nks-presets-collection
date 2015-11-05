@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e44ab3f4-c822-4bd0-99ba-822fae01db99",
+  "uuid": "d7068473-82f4-498f-9e40-6535facd2f25",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "21 MKI Metal Tine",
   "deviceType": "INST",
   "comment": "",

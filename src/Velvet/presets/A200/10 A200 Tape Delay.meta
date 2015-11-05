@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b821c6c4-0378-4d68-955d-d139a8d537da",
+  "uuid": "e7e70c60-ca60-4a11-87c4-a167c4ac434a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "A200"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["A200"],
   "name": "10 A200 Tape Delay",
   "deviceType": "INST",
   "comment": "",

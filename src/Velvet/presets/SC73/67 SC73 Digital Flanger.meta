@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bb722d92-36bb-4845-9f36-0e1725b2c8a3",
+  "uuid": "84f7811c-e813-409e-8173-5c889c500a73",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "67 SC73 Digital Flanger",
   "deviceType": "INST",
   "comment": "",

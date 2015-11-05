@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2ac0c5c4-5e69-42ea-a7a1-4973418a976d",
+  "uuid": "7cd08755-3e14-44db-ab96-64b32ef07bc0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "Pianet"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["Pianet"],
   "name": "45 Pianet Jazzy",
   "deviceType": "INST",
   "comment": "",

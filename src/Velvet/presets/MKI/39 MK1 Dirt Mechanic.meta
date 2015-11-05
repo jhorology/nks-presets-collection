@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "47154da7-7b20-4bd2-9011-2c11614a2d24",
+  "uuid": "84c97b07-42ab-47a2-b05b-b2ebb31d10a3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKI"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKI"],
   "name": "39 MK1 Dirt Mechanic",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c5af2a6d-3cf1-4a06-b994-992fb20e8394",
+  "uuid": "a246c184-d1cf-4772-bf84-a08b7992cf27",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "SC73"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["SC73"],
   "name": "31 SC73 Nachdenklich",
   "deviceType": "INST",
   "comment": "",

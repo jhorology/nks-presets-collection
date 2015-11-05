@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cd443b11-df03-44e2-9d99-ad014450320d",
+  "uuid": "aa89acf4-6140-425d-8664-83fa2a903b32",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "15 MKII Trem-Mu-Plex",
   "deviceType": "INST",
   "comment": "",

@@ -1,12 +1,11 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f87e4e62-a3dd-401c-a006-ae7b39391117",
+  "uuid": "5b58e16d-e01f-400e-9778-e76366c47eb1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"],
-    ["Piano/Keys", "MKII"]
+    ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Sample Based"],
+  "modes": ["MKII"],
   "name": "14 MKII Jazzy Tine",
   "deviceType": "INST",
   "comment": "",
