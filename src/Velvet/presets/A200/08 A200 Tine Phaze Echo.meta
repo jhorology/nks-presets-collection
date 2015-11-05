@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eb8a7a38-de30-43f6-ac54-84e61cb704e5",
+  "uuid": "6c5c2c41-72d5-486e-97f2-d907869a6bce",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "08 A200 Tine Phaze Echo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

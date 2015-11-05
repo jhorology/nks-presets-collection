@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "00081a18-264d-4f1f-8c71-c277249bd068",
+  "uuid": "ba268fcc-9004-4b8f-a4fe-56b9c705d56d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "46 MKI Verdamp",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

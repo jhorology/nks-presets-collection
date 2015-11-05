@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a4c0e7fd-0566-46d1-b583-62c9ce99092b",
+  "uuid": "9c48999a-dc7e-4861-89c1-db6983be4434",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "36 MKII Tine-o-sphere",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

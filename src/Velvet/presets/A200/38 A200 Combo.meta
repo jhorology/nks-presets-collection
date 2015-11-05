@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cb66aa12-0221-428c-abcd-2dc1eadf9f4b",
+  "uuid": "63df53a5-3d57-4e05-a502-134cf9d2a446",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "38 A200 Combo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

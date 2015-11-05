@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c21d103e-dfe2-4b71-945d-72b7fa4ce08d",
+  "uuid": "606c02b8-64bd-4a1d-8ab0-a5112b0a0ac8",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "10 MKI Belly Phaser",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

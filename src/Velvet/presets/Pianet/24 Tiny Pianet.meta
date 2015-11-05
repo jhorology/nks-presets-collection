@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0c96dc57-b055-49df-b852-7a7bf5fbeeef",
+  "uuid": "f3638eb6-e32a-42ed-b0f3-a96b65460bf5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "24 Tiny Pianet",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

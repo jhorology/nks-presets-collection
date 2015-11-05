@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "226a6f8d-7478-4a4a-896e-3b9c36d89e91",
+  "uuid": "5bda4430-7a54-464d-a023-ca3c06a7d452",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "34 MKII Perk Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

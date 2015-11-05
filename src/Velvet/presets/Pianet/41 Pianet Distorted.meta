@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0b8e075d-ff03-419a-b003-c199c82f5090",
+  "uuid": "33a8658a-b345-4ac3-9544-14b49b8844c0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "41 Pianet Distorted",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

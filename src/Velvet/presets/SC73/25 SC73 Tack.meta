@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ba872f58-284c-44f2-a902-66e3f938e82c",
+  "uuid": "b9ed5525-ddaa-41b2-bafb-0a5f49017db3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "25 SC73 Tack",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

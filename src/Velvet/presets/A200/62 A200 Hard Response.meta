@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "48856159-8831-40c6-8615-f78a89467d73",
+  "uuid": "1eeabdb5-eef4-4e78-ae38-c8c93edf6dc0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "62 A200 Hard Response",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

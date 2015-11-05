@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "085d5a91-c645-4e87-bb2c-2bd2e2751ea1",
+  "uuid": "e2acae0f-13c6-43eb-aec9-e2d5bc53d630",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "45 A200 Super Dreamer",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

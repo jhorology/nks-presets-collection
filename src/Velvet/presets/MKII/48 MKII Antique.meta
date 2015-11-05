@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8942e701-4819-4afa-a408-3685c93213c6",
+  "uuid": "b98aae83-4baf-451c-94ce-bb6042bb74f3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "48 MKII Antique",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5f352373-e68a-419c-bb70-d6d09237dc62",
+  "uuid": "63484a2b-f68c-4041-999d-f36f748a8b73",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "21 MKII Gentleman",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

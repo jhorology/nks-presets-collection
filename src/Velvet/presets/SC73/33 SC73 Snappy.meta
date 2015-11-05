@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9a8d2b84-8f47-42a7-88b4-a12aea22a324",
+  "uuid": "c5dd8eff-0a51-49c1-be88-53437d7e4e43",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "33 SC73 Snappy",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

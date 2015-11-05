@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "42b296e6-93fd-4667-a3d1-7aa85e6ea2cf",
+  "uuid": "ca1296d3-4764-4f63-9c34-5194557baa3e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "60 SC73 Sunshine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

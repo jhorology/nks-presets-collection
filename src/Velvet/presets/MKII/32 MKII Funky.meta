@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9b9d0c9d-5545-4755-a2db-39f5310f96c0",
+  "uuid": "6b9c32a2-a6ba-4d63-a8d0-9592f6afb3d5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "32 MKII Funky",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

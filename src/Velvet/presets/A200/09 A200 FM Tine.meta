@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "585a7aa0-61d1-4788-a6e5-fd40eb765e91",
+  "uuid": "0e4b9840-86db-4a39-892c-2f02039c5ee1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "09 A200 FM Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

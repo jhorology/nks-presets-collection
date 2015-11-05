@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "68d59bfc-d1cc-4647-b612-c4f1bf6d5606",
+  "uuid": "fcf8899a-45c3-4952-9aee-ffeb460a8616",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "27 MKII Tine Pad",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "66221155-7c78-4410-a674-4ae990dbe2a1",
+  "uuid": "0e45fab3-2dd0-4947-8e13-b31c8ee6cbb4",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "61 A200 Fuzzy Logic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "05c04f13-a9e1-415a-b0af-e099946772f4",
+  "uuid": "1ab1a319-05d8-4ce7-9661-f6cf2431add2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "16 MKI Bad Condition",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

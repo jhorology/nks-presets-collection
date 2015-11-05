@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ccad6e2e-6c6a-43cb-b0dd-bde9c7c379fc",
+  "uuid": "a26d9300-dc64-4b09-b156-ab278dc49520",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "34 SC73 Dirty",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

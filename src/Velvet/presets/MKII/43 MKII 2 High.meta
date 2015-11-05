@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b6de30d7-ccde-4221-86db-db7386061d08",
+  "uuid": "ad55ba8b-7033-4297-abb3-2a9100175242",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "43 MKII 2 High",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

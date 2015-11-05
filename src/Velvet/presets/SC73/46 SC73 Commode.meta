@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fc169d3c-5c77-41c6-aab2-74e8bc7320dc",
+  "uuid": "7c98d8c7-3aee-4e51-88e8-418d07c66204",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "46 SC73 Commode",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

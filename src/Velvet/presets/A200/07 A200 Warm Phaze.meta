@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e324b67a-a132-4aae-bdde-dbaf4492f52d",
+  "uuid": "55299358-8239-45b6-8bd0-9de196aaa9e1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "07 A200 Warm Phaze",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

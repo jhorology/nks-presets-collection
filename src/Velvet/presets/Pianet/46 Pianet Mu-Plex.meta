@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2cff886d-eb3a-4c38-88a4-bc332b02e714",
+  "uuid": "198cf7cc-7986-48d7-a1da-4fbcc16db192",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "46 Pianet Mu-Plex",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

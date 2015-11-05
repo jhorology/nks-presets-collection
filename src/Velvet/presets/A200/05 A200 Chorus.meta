@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ec405cca-f4c9-4937-a9fe-de07bd1c2c8c",
+  "uuid": "154bdef0-7c00-463e-927d-f459c563685f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "05 A200 Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d4585386-5c66-40f6-85db-b6b476d7a74d",
+  "uuid": "fe7a65e3-d569-4fbb-be01-20bc4c8f2b3e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "27 Pianet Ballad",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

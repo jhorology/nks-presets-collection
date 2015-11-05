@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c7432e26-27e4-4ac3-86f9-968abadda38b",
+  "uuid": "8311d569-7d96-4d82-9b6b-5de85378287a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "19 MKII Sometime",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

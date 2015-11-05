@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "dea4b94e-8b49-4b28-be12-8a5a61c261af",
+  "uuid": "fdbd97d4-f952-4105-ae2c-b8001829014d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "63 SC73 Tubulars",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

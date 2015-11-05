@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "77b89b48-97de-4f3e-8571-b01ebc2044f3",
+  "uuid": "ee801f77-355a-474e-b906-0f4a9e38ec61",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "25 MKI Tine Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8fccc0c1-9317-4326-ad57-a5303f4dfd4a",
+  "uuid": "ff285f6b-cab4-4b9f-9c95-cca89849b1fd",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "20 A200 Distorted",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

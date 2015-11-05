@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "516fce2b-dd50-489b-8d04-04ef467c0e40",
+  "uuid": "f074d3dd-33dc-4ed4-932a-8f9e3d0deb25",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "38 MKII Hard Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

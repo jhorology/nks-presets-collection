@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0a8a86ad-c142-4328-9551-2e339388acc4",
+  "uuid": "8ec6e11c-1163-49b2-b273-0571b59dd2aa",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "27 A200 Oh Mama",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

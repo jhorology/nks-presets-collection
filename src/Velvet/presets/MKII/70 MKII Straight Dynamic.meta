@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "94fc0fd9-7830-48d1-aacb-08eadb487cfd",
+  "uuid": "b275c5eb-9220-4dfd-a520-5d0fbd5100e0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "70 MKII Straight Dynamic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

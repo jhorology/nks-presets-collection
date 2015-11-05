@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6e987b15-6c10-48dd-8ec2-c499e8a1e5a4",
+  "uuid": "03ae6f05-d8c0-469c-a062-77386f41d3df",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "08 MKII Emotions",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

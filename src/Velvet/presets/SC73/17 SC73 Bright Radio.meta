@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "793ce38b-cded-4877-804b-b8755e7fb0f4",
+  "uuid": "0dc00004-326b-4a29-a944-a6b2083b1acf",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "17 SC73 Bright Radio",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

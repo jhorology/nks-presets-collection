@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "57337357-879d-4d66-b16f-a50dcfa268f2",
+  "uuid": "f87e4e62-a3dd-401c-a006-ae7b39391117",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "14 MKII Jazzy Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

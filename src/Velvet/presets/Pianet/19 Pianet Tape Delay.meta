@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2aa58d9b-c0b6-498f-9806-504f9c607cae",
+  "uuid": "d7b89155-8d47-4976-9bc2-429ef0526386",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "19 Pianet Tape Delay",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

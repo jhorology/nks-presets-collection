@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "47f6cc02-a943-4fe7-9bb6-d90832c4ea1f",
+  "uuid": "d19d0b1d-f572-4654-acad-0bd70b237941",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "69 A200 Twangy Fuzz Amp",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

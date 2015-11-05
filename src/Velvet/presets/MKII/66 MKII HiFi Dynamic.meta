@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aefa7ca8-ee82-4f32-ad68-5c115a6125c9",
+  "uuid": "bbf52a2a-81dc-44c0-8fb4-3aa4e125286a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "66 MKII HiFi Dynamic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

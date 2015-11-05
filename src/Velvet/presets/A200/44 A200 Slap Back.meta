@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fffb370c-5e90-4b1d-94a9-c7e996a67451",
+  "uuid": "8190f2f4-2196-4322-86e4-3f7184c65c4c",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "44 A200 Slap Back",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

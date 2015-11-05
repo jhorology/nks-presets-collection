@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cf198935-659a-46d6-a09e-2dfdfa98e348",
+  "uuid": "4db28da0-7954-48ef-9d01-f0817126c3bc",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "40 A200 Rock Theme",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

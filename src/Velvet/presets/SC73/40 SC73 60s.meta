@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "29487d70-87c0-4dd7-955a-d2b9e35b3d36",
+  "uuid": "936cc104-2ed8-44ae-830c-d46f2cf06c7d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "40 SC73 60s",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

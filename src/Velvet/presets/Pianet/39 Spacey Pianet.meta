@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d88596e0-42ac-4a91-a59b-4053e4ca2892",
+  "uuid": "183567ad-d13a-46f1-aa2c-5ef9578c147e",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "39 Spacey Pianet",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

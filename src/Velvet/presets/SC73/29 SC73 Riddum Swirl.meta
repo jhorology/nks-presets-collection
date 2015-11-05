@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "131aa0f0-a43e-4ef8-b62c-ead627c6f40c",
+  "uuid": "2e8ca4c4-781f-45e8-a57e-7d0f4316ade7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "29 SC73 Riddum Swirl",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

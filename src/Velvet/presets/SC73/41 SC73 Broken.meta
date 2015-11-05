@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "8f3e3f29-7fa0-4a1b-8036-fb2e16b3ea64",
+  "uuid": "aa13223c-4ca1-4c32-a03c-711665f4523d",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "41 SC73 Broken",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

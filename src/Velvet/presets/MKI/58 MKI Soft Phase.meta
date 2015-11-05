@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5c7fb0b7-7592-4d85-899f-c97500177775",
+  "uuid": "f6edd86c-eef4-4c72-918d-21237e6d5613",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "58 MKI Soft Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

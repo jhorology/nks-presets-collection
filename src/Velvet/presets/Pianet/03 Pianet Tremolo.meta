@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f400bc17-ae23-4590-81ef-9f7d5b85838a",
+  "uuid": "e19eab48-4f9a-494b-b336-d25d824dcd9f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "03 Pianet Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

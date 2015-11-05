@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e3f65ab7-6e4b-4d74-93c7-b1f21558ccf3",
+  "uuid": "f2344b6a-67c4-4fa2-9fab-258276d18370",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "24 MKI Hard Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

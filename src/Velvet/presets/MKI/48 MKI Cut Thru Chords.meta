@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e4e43ccf-41c2-4373-866f-a7f08ac5b268",
+  "uuid": "6fb86e40-54ad-42e2-b5ec-941d3479ddb0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "48 MKI Cut Thru Chords",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

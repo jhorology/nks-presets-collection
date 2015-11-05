@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "43cf388b-12ef-484e-8dbd-1417fe856a08",
+  "uuid": "c34fe566-3e59-457a-9bef-028962220437",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "09 MKII Soft Tine Amb",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

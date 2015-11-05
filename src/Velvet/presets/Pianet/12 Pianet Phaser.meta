@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "50bb0d50-d40c-4bd4-bf3c-28fead6fa785",
+  "uuid": "23c2f08e-3d58-4022-bf53-a60996da0beb",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "12 Pianet Phaser",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

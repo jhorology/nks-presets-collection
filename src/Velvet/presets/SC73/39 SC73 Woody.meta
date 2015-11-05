@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "85706522-099d-4abb-a0b4-75ebfe1bc974",
+  "uuid": "a733bdc3-af60-4e5e-9bff-0cb55167e6b9",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "39 SC73 Woody",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

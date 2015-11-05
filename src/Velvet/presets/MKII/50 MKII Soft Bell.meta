@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "88deb052-f97c-4da4-903f-a40e34b93993",
+  "uuid": "d5a17c0f-b771-427c-a592-68dfe0c26e99",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "50 MKII Soft Bell",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

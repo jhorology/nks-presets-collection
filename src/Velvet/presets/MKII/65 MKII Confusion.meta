@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d6ead516-a03e-46a8-9fab-7efb645f2d43",
+  "uuid": "b70cfa47-a5bd-4ed4-a177-3f16ba7fcc32",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "65 MKII Confusion",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3cb98c45-0f7d-407b-8e80-f2f6b4e2a454",
+  "uuid": "2351044d-d3ac-4874-ad2c-01e1514ea7fc",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "30 A200 Riddum Swirl",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "abb11418-39b5-4f39-91df-125f86f5c043",
+  "uuid": "e8d86386-c8e2-4056-9b17-000eb7022f70",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "26 MKII Perc Clouds",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

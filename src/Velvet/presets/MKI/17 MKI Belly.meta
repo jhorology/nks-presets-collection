@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "259c13d0-9938-432d-82ca-94ced4833933",
+  "uuid": "3ee370f7-0347-4d56-b788-eb67dfe6d881",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "17 MKI Belly",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

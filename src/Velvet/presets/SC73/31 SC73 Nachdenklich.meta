@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eeee5112-a830-4a0a-a6e8-87520aaba0b7",
+  "uuid": "c5af2a6d-3cf1-4a06-b994-992fb20e8394",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "31 SC73 Nachdenklich",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

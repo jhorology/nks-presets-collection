@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6da431f6-1808-4bd3-9976-601363835b58",
+  "uuid": "d6a739e7-8322-465b-befa-4848bbc69a20",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "11 MKI Tape Delay",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

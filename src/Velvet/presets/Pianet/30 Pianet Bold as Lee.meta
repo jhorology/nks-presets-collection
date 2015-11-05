@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1c47159a-4c19-46cd-892a-998d4fa782b0",
+  "uuid": "7ad67c06-4156-497b-b3ce-9d31695dce20",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "30 Pianet Bold as Lee",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "bd9eedc8-fdf0-4e61-b49a-850ba938ad91",
+  "uuid": "8830d584-9a29-4349-8bd3-e95815e6f55f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "51 MKII Floating",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

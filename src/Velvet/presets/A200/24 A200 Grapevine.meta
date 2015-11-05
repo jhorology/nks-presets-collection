@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f0049f41-97df-4963-b46b-07fba185d0dd",
+  "uuid": "20476b82-7beb-4feb-91cd-9ca6c2fd0abe",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "24 A200 Grapevine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3775ff4b-269e-4261-a409-cda6e4de7691",
+  "uuid": "a1d0b654-341b-49aa-8dda-a5952b34a987",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "29 MKI Dirty Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

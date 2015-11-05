@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "574697b0-430b-42af-b0e7-480edb595608",
+  "uuid": "1da38c71-1bb7-40b9-a8d3-c4a57bab5ae1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "41 A200 Room",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

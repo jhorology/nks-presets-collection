@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "daa5e9a8-6201-4ae1-b971-26e0164d341a",
+  "uuid": "3c868065-2228-42c7-bf2a-f2ea9b188956",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "50 SC73 Ring",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

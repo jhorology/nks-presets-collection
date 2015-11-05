@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "488e0507-be8a-43be-ae7a-9273ac90662d",
+  "uuid": "4910f205-c62e-40e8-9c38-221590e2322f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "13 MKI Compressed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "772845c8-dcee-427c-b4a6-7c8115fffac6",
+  "uuid": "72cfa7d0-a6f7-43f4-bf2a-b0fb4767f7d2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "66 A200 Screamy Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

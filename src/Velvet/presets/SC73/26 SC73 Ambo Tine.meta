@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "05d4e307-5da3-4fad-bec5-d4128852df62",
+  "uuid": "1563307b-2fad-4ce2-97c3-9af5568c9bf3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "26 SC73 Ambo Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

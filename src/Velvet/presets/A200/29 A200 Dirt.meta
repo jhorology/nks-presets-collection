@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "877c25d8-13c5-4681-ab8b-cab6b7cfe172",
+  "uuid": "a62689a4-2981-4384-88ed-7b5f9cbdf417",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "29 A200 Dirt",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

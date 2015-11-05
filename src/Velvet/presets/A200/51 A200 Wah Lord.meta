@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f10e9716-9225-4b26-8f84-b11a4ee2724f",
+  "uuid": "6d0ed457-33b1-4d2a-be9e-8800b42fdef0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "51 A200 Wah Lord",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "87919d36-5452-4ec6-8206-609e7976a9e7",
+  "uuid": "152bb1f4-2e0d-451e-941b-36f9d1b7ef27",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "55 SC73 70s Echo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

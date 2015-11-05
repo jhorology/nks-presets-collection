@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "16766f61-f040-4d09-868f-cc1326246ffd",
+  "uuid": "c41370d8-3fea-4609-9fc5-92e1c763b498",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "48 SC73 Jazz Fuzz Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

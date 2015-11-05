@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "228a0e1b-e515-4c1b-9658-e46f3c9bd0df",
+  "uuid": "212dd2e3-5377-4beb-b624-c909b7bbb4b7",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "31 MKII Cabinet Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

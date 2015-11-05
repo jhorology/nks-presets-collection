@@ -213,12 +213,13 @@ gulp.task 'velvet-generate-meta', ->
         types: [
           ["Piano/Keys"]
           ["Piano/Keys", "Electric Piano"]
+          ["Piano/Keys", folder]
         ]
         modes: ['Sample Based']
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Velvet', 'Velvet Factory', folder]
+        bankchain: ['Velvet', 'Velvet Factory', '']
         author: ''
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
@@ -270,7 +271,7 @@ gulp.task 'velvet-deploy-resources',[
   ], ->
   _deploy_resources $.Velvet.dir
 
-# copy database resources to dist folder
+# copy database resources to local environment
 gulp.task 'velvet-deploy-presets', [
   'velvet-dist-presets'
   ] ,->
@@ -279,6 +280,8 @@ gulp.task 'velvet-deploy-presets', [
 #
 # release
 # --------------------------------
+
+# release zip file to dropbox
 gulp.task 'velvet-release',['velvet-dist'], ->
   _release $.Velvet.dir
 
@@ -690,7 +693,7 @@ gulp.task 'serum-deploy-resources',[
   ], ->
   _deploy_resources $.Serum.dir
 
-# copy database resources to dist folder
+# copy database resources to local environment
 gulp.task 'serum-deploy-presets', [
   'serum-dist-presets'
   ] ,->
@@ -699,6 +702,8 @@ gulp.task 'serum-deploy-presets', [
 #
 # release
 # --------------------------------
+
+# release zip file to dropbox
 gulp.task 'serum-release',['serum-dist'], ->
   _release $.Serum.dir
 
@@ -815,8 +820,8 @@ _dist_presets = (dir, PLID) ->
       mapping = _serialize require "#{mappings}/default.json"
       riff.pushChunk 'NICA', mapping
       # PLID chunk -- plugin id
-      mapping = _serialize PLID
-      riff.pushChunk 'PLID', mapping
+      pluginId = _serialize PLID
+      riff.pushChunk 'PLID', pluginId
       # PCHK chunk -- raw preset (pluginstates)
       riff.pushChunk 'PCHK', file.contents
       # output file contents
@@ -853,7 +858,7 @@ _deploy_presets = (dir) ->
 # release
 # --------------------------------
 
-# copy resources to local environment
+# zip dist file and copy to dropbox.
 _release = (dir) ->
   gulp.src ["dist/#{dir}/**/*.{json,meta,png,nksf}"]
     .pipe zip "#{dir}.zip"

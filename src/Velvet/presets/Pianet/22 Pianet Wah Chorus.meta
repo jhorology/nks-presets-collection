@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "09e26cad-3404-4644-9afc-4d23330fc160",
+  "uuid": "f852bc59-a89c-4742-90c2-463a8b1e3fc0",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "22 Pianet Wah Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

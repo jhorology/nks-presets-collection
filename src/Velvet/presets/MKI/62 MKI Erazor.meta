@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cae0f51f-c0b0-4170-9f76-062fd794fc54",
+  "uuid": "b0800f09-a21b-43d0-90db-bae5a4942a6a",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "62 MKI Erazor",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

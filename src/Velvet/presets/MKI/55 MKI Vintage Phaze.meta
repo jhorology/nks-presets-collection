@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "988bf2e8-17e0-457c-ae69-beb03d47c1e3",
+  "uuid": "a2a046b3-c07f-494a-aa78-163949e2d1a1",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "55 MKI Vintage Phaze",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

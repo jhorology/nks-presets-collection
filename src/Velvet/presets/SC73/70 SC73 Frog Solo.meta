@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "03365bc6-9012-4130-a069-b9b49d19bd59",
+  "uuid": "6dbf5c27-85c3-4f2a-a35e-61e7e3d5f58f",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "70 SC73 Frog Solo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

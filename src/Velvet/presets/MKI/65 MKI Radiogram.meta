@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7b99235f-20e4-49d7-b98c-db32450ec2e2",
+  "uuid": "a21a5120-ecc5-4cdc-a921-357ed49e8d44",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "65 MKI Radiogram",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

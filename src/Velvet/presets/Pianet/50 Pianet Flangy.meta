@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "46dba2cc-f4d3-40ea-99ec-53fb165c64c8",
+  "uuid": "1527abe8-4a01-4227-8b14-5dbae777b436",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "50 Pianet Flangy",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

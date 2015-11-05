@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7c1332b2-e4b5-40fd-be3f-29c2150460b7",
+  "uuid": "05c54e4e-fb26-4248-8ab6-c6a04b0295e5",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "68 MKI Ultra Fuzz",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

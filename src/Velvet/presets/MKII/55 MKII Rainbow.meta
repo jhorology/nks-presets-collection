@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "db162074-be36-462f-bd1f-6bd46253c15b",
+  "uuid": "ceccabda-dec3-4bcb-95a2-77f0f8fefdb3",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "55 MKII Rainbow",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

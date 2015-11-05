@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "56fd33e8-fb2b-4da9-ac48-5f4fbcd55f70",
+  "uuid": "f0561680-e9e5-40f6-8bc9-32718f988fc4",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "17 MKII Compressed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

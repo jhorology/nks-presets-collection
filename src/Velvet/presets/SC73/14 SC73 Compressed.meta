@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "803a0b08-c920-4593-857c-7d60af80e4e3",
+  "uuid": "2f0c13dc-1b20-43fc-8cd2-1fb6cde7f014",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "SC73"]
   ],
   "modes": ["Sample Based"],
   "name": "14 SC73 Compressed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "SC73"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

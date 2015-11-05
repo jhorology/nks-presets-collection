@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "174ab93f-7516-4702-abd6-44bd6b8d7a8e",
+  "uuid": "f4d6eb89-c2f1-4f33-b922-2b053a3961af",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "07 MKII Dynomite",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

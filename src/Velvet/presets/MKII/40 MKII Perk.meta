@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "dcbaef68-85d1-4623-9567-6354f92d721a",
+  "uuid": "4e215deb-e67f-4cf7-af71-eb989efa9ec2",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "40 MKII Perk",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

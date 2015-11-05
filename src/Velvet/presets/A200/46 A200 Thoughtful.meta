@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eef46080-c19b-4c3f-ae04-fcf944c22f5c",
+  "uuid": "f3fd662e-e571-4f16-ad70-04bbffd0f480",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "A200"]
   ],
   "modes": ["Sample Based"],
   "name": "46 A200 Thoughtful",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "A200"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

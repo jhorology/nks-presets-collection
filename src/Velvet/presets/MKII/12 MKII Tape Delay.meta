@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "75dd072e-0d9b-4bfa-b93f-64ae428e5b10",
+  "uuid": "aa2a7be7-a215-4074-a0ea-4ca9fab05007",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "12 MKII Tape Delay",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

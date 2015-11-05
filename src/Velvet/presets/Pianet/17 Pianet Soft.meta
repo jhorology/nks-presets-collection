@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "abd267a7-fb7a-43e5-be76-e992074a5e4a",
+  "uuid": "71478718-67bd-4575-9da9-9b4616c136d8",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "Pianet"]
   ],
   "modes": ["Sample Based"],
   "name": "17 Pianet Soft",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "Pianet"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

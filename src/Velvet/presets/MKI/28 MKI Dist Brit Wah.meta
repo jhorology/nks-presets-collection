@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "07e59a7d-6157-47b6-b8c1-9bc924dfca38",
+  "uuid": "c25e096c-0c60-4dfe-afbc-3ef2ad28639b",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKI"]
   ],
   "modes": ["Sample Based"],
   "name": "28 MKI Dist Brit Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKI"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }

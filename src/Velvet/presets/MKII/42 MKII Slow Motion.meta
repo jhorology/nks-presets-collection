@@ -1,14 +1,15 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "065fffb8-e45a-4b7e-a228-59d9d8345869",
+  "uuid": "077a9ec9-bfed-4cf9-ad6f-25abb92e5fe6",
   "types": [
     ["Piano/Keys"],
-    ["Piano/Keys", "Electric Piano"]
+    ["Piano/Keys", "Electric Piano"],
+    ["Piano/Keys", "MKII"]
   ],
   "modes": ["Sample Based"],
   "name": "42 MKII Slow Motion",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", "MKII"],
+  "bankchain": ["Velvet", "Velvet Factory", ""],
   "author": ""
 }
