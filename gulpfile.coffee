@@ -67,7 +67,7 @@ $ =
     vendor: 'Air Music Technology'
     PLID:
       "VST.magic": "2dpX"
-      
+
   #
   # Air Music Technology Loom
   #-------------------------------------------
@@ -76,7 +76,7 @@ $ =
     vendor: 'Air Music Technology'
     PLID:
       "VST.magic": "mooL"
-      
+
   #
   # Air Music Technology Hybrid
   #-------------------------------------------
@@ -85,7 +85,7 @@ $ =
     vendor: 'Air Music Technology'
     PLID:
       "VST.magic": "drbH"
-      
+
   #
   # Air Music Technology Vacuum Pro
   #-------------------------------------------
@@ -94,7 +94,7 @@ $ =
     vendor: 'Air Music Technology'
     PLID:
       "VST.magic": "rPcV"
-      
+
   #
   # Air Music Technology Vacuum Pro
   #-------------------------------------------
@@ -103,7 +103,7 @@ $ =
     vendor: 'Air Music Technology'
     PLID:
       "VST.magic": "rsRt"
-      
+
   #
   # Reveal Sound Spire
   #-------------------------------------------
@@ -112,7 +112,7 @@ $ =
     vendor: 'Reveal Sound'
     PLID:
       "VST.magic": "Spir"
-      
+
   #
   # Arturia Analog Lab
   #-------------------------------------------
@@ -120,8 +120,35 @@ $ =
     dir: 'Analog Lab'
     vendor: 'Arturia'
     PLID:
-     "VST.magic": "ALab"
-      
+      "VST.magic": "ALab"
+
+  #
+  # discoDSP Discovery Pro
+  #-------------------------------------------
+  DiscoveryPro:
+    dir: 'DiscoveryPro'
+    vendor: 'discoDSP'
+    PLID:
+      "VST.magic": "DPVx"
+
+  #
+  # u-he Hive
+  #-------------------------------------------
+  Hive:
+    dir: 'Hive'
+    vendor: 'u-he'
+    PLID:
+      "VST.magic": "hIVE"
+
+  #
+  # Novation BassStation
+  #-------------------------------------------
+  BassStation:
+    dir: 'BassStation'
+    vendor: 'Novation'
+    PLID:
+      "VST.magic": "NvB2"
+
   #
   # Xfer Records Serum
   #-------------------------------------------
@@ -280,17 +307,17 @@ gulp.task 'velvet-deploy', [
 ]
 
 # copy resources to local environment
-gulp.task 'velvet-deploy-resources',[
+gulp.task 'velvet-deploy-resources', [
   'velvet-dist-image'
   'velvet-dist-database'
   ], ->
-  _deploy_resources $.Velvet.dir
+    _deploy_resources $.Velvet.dir
 
 # copy database resources to local environment
 gulp.task 'velvet-deploy-presets', [
   'velvet-dist-presets'
-  ] ,->
-  _deploy_presets $.Velvet.dir
+  ] , ->
+    _deploy_presets $.Velvet.dir
 
 #
 # release
@@ -341,7 +368,7 @@ gulp.task 'xpand2-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.Xpand2.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
@@ -416,17 +443,17 @@ gulp.task 'xpand2-deploy', [
 ]
 
 # copy resources to local environment
-gulp.task 'xpand2-deploy-resources',[
+gulp.task 'xpand2-deploy-resources', [
   'xpand2-dist-image'
   'xpand2-dist-database'
   ], ->
-  _deploy_resources $.Xpand2.dir
+    _deploy_resources $.Xpand2.dir
 
 # copy database resources to local environment
 gulp.task 'xpand2-deploy-presets', [
   'xpand2-dist-presets'
-  ] ,->
-  _deploy_presets $.Xpand2.dir
+  ] , ->
+    _deploy_presets $.Xpand2.dir
 
 #
 # release
@@ -435,7 +462,7 @@ gulp.task 'xpand2-deploy-presets', [
 # release zip file to dropbox
 gulp.task 'xpand2-release',['xpand2-dist'], ->
   _release $.Xpand2.dir
-  
+
 # ---------------------------------------------------------------
 # end Air Music Technology Xpand!2
 #
@@ -477,7 +504,7 @@ gulp.task 'loom-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.Loom.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
@@ -525,7 +552,7 @@ gulp.task 'hybrid-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.Hybrid.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
@@ -574,7 +601,7 @@ gulp.task 'vacuumpro-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.VacuumPro.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
@@ -623,7 +650,7 @@ gulp.task 'theriser-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.theRiser.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
@@ -642,7 +669,7 @@ gulp.task 'theriser-extract-raw-presets', ->
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - Spire    (*unknown version)
-#  - reuse bitwig presets. https://github.com/jhorology/Xpand2Pack4Bitwig
+#  - recycle bitwig presets. https://github.com/jhorology/Xpand2Pack4Bitwig
 # ---------------------------------------------------------------
 
 # preparing tasks
@@ -672,7 +699,7 @@ gulp.task 'spire-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.Spire.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
@@ -683,7 +710,6 @@ gulp.task 'spire-extract-raw-presets', ->
 # ---------------------------------------------------------------
 # end Reveal Sound Spire
 #
-
 
 
 # ---------------------------------------------------------------
@@ -722,7 +748,7 @@ gulp.task 'analoglab-extract-raw-presets', ->
       basename = path.basename file.path, path.extname file.path
       dirname = path.join "src/#{$.AnalogLab.dir}/presets", path.dirname file.relative
       destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk" 
+      destPath: path.join dirname, "#{basename}.pchk"
     .pipe exec [
       'echo "now converting file:<%= file.relative %>"'
       'mkdir -p "<%= file.data.destDir %>"'
@@ -733,6 +759,153 @@ gulp.task 'analoglab-extract-raw-presets', ->
 
 # ---------------------------------------------------------------
 # end Arturia Analog Lab
+#
+
+
+# ---------------------------------------------------------------
+# discoDSP Discovery Pro
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Analog Lab    (*unknown version)
+#  - recycle Bitwig Sttudio presets. https://github.com/jhorology/DiscoveryProPack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'discoverypro-print-default-meta', ->
+  _print_default_meta $.DiscoveryPro.dir
+
+# print mapping of _Default.nksf
+gulp.task 'discoverypro-print-default-mapping', ->
+  _print_default_mapping $.DiscoveryPro.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'discoverypro-print-plid', ->
+  _print_plid $.DiscoveryPro.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'discoverypro-generate-default-mapping', ->
+  _generate_default_mapping $.DiscoveryPro.dir
+
+# extract PCHK chunk from bitwig .bwpresetfiles.
+gulp.task 'discoverypro-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.DiscoveryPro.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.DiscoveryPro.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk"
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end discoDSP Discovery Pro
+#
+
+
+# ---------------------------------------------------------------
+# u-he Hive
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Hive   1.0 revision 3514
+#  - recycle Bitwig Sttudio presets. https://github.com/jhorology/HivePack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'hive-print-default-meta', ->
+  _print_default_meta $.Hive.dir
+
+# print mapping of _Default.nksf
+gulp.task 'hive-print-default-mapping', ->
+  _print_default_mapping $.Hive.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'hive-print-plid', ->
+  _print_plid $.Hive.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'hive-generate-default-mapping', ->
+  _generate_default_mapping $.Hive.dir
+
+# extract PCHK chunk from bitwig .bwpresetfiles.
+gulp.task 'hive-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.Hive.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.Hive.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk"
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end u-he Hive Pro
+#
+
+
+# ---------------------------------------------------------------
+# Novation BassStation
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - BassStation  2.1
+#  - recycle Bitwig Sttudio presets. https://github.com/jhorology/BassStationPack4Bitwig
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'bassstation-print-default-meta', ->
+  _print_default_meta $.BassStation.dir
+
+# print mapping of _Default.nksf
+gulp.task 'bassstation-print-default-mapping', ->
+  _print_default_mapping $.BassStation.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'bassstation-print-plid', ->
+  _print_plid $.BassStation.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'bassstation-generate-default-mapping', ->
+  _generate_default_mapping $.BassStation.dir
+
+# extract PCHK chunk from bitwig .bwpresetfiles.
+gulp.task 'bassstation-extract-raw-presets', ->
+  gulp.src ["#{$.Bitwig.presets}/#{$.BassStation.dir}/**/*.bwpreset"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.BassStation.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk"
+    .pipe exec [
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end discoDSP Discovery Pro
 #
 
 
@@ -839,17 +1012,17 @@ gulp.task 'serum-deploy', [
 ]
 
 # copy resources to local environment
-gulp.task 'serum-deploy-resources',[
+gulp.task 'serum-deploy-resources', [
   'serum-dist-image'
   'serum-dist-database'
   ], ->
-  _deploy_resources $.Serum.dir
+    _deploy_resources $.Serum.dir
 
 # copy database resources to local environment
 gulp.task 'serum-deploy-presets', [
   'serum-dist-presets'
-  ] ,->
-  _deploy_presets $.Serum.dir
+  ] , ->
+    _deploy_presets $.Serum.dir
 
 #
 # release

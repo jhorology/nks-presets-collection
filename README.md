@@ -12,11 +12,11 @@ NKS(Native Kontrol Standard) presets collection
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:||||||
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||||||
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||||||
-|[DiscoveryPro](http://www.discodsp.com/discoverypro/)|||||||
-|[BassStation](http://us.novationmusic.com/software/bass-station)|||||||
+|[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||||||
+|[BassStation](http://us.novationmusic.com/software/bass-station)|:heavy_check_mark:||||||
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|||||||
-|[Hive](https://www.u-he.com/cms/hive)|||||||
+|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||||||
 
  1. Image files were not recognized, maybe the reason for path contained '!'.
