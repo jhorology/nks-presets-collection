@@ -21,6 +21,6 @@ NKS(Native Kontrol Standard) presets collection
 
 Raw preset data (*.pchk files) and some image files are not my property. I'm not lawer, but I think the use of these come under [fair-use](https://en.wikipedia.org/wiki/Fair_use).
 
-Download file is completely free, if you trust and believe fair-use. And offcourse you must be leagal user of these VSTi plugins.
+Download files are completely free, if you trust and believe fair-use. And offcourse you must be leagal user of these VSTi plugins.
 
 All otther script codes are licensed under MIT.
