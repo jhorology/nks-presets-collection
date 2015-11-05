@@ -3,7 +3,7 @@
 # convert .bwpreset to NKS NCHK chunk
 #
 #  PLCK
-#     chunk version 4byte 43bit LE
+#     chunk version 4byte 32bit LE
 #     data  pluginsstates
 
 # unzip & remove first 156 byte
