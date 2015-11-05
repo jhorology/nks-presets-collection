@@ -38,6 +38,13 @@ $ =
   NI:
     userContent: "#{process.env.HOME}/Documents/Native Instruments/User Content"
     resources: '/Users/Shared/NI Resources'
+
+  #
+  # Ableton Live
+  #-------------------------------------------
+  Ableton:
+    racks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Instruments/Instrument Rack"
+
   #
   # Bitwig Studio
   #-------------------------------------------
@@ -105,6 +112,15 @@ $ =
     vendor: 'Reveal Sound'
     PLID:
       "VST.magic": "Spir"
+      
+  #
+  # Arturia Analog Lab
+  #-------------------------------------------
+  AnalogLab:
+    dir: 'Analog Lab'
+    vendor: 'Arturia'
+    PLID:
+     "VST.magic": "ALab"
       
   #
   # Xfer Records Serum
@@ -666,6 +682,57 @@ gulp.task 'spire-extract-raw-presets', ->
 
 # ---------------------------------------------------------------
 # end Reveal Sound Spire
+#
+
+
+
+# ---------------------------------------------------------------
+# Arturia Analog Lab
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Analog Lab    (*unknown version)
+#  - recycle Ableton Live Rack presets. https://github.com/jhorology/AnalogLabPack4Live
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'analoglab-print-default-meta', ->
+  _print_default_meta $.AnalogLab.dir
+
+# print mapping of _Default.nksf
+gulp.task 'analoglab-print-default-mapping', ->
+  _print_default_mapping $.AnalogLab.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'analoglab-print-plid', ->
+  _print_plid $.AnalogLab.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'analoglab-generate-default-mapping', ->
+  _generate_default_mapping $.AnalogLab.dir
+
+# extract PCHK chunk from ableton .adg files.
+gulp.task 'analoglab-extract-raw-presets', ->
+  gulp.src ["#{$.Ableton.racks}/#{$.AnalogLab.dir}/**/*.adg"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.AnalogLab.dir}/presets", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk" 
+    .pipe exec [
+      'echo "now converting file:<%= file.relative %>"'
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/adg2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# ---------------------------------------------------------------
+# end Arturia Analog Lab
 #
 
 

@@ -1,0 +1,26 @@
+#!/bin/sh -e
+#
+# convert (extract) .adg to NKS NCHK chunk
+#
+#  PLCK
+#     chunk version 4byte 32bit LE
+#     data  pluginsstates
+#
+#  ableton .adg file is gziped xml.
+#  and it has pluginstate as hex coded string.
+#  ex.)
+# ....
+# <VstPreset>
+#   ...
+#   <Buffer>
+#     C840000000000000C0020000000000000000803F0100000000000000141C0000841CB63EE404073F
+#     00000000C015333FAA92563FB13DE93D0000803ECDCCCC3D0000003FACF1003F0000803F0000803E
+#     ...
+#   </Buffer>
+#   ...
+# </VstPreset>
+#   ...
+
+# 4 byte version 1.0.0.0 or 1(32bitLE)
+printf '\x1\x0\x0\x0' > "$2"
+gzip -dc "$1" | xmllint --xpath "//VstPreset/Buffer/text()" - | tr -dc '0123456789abcdefABCDEF' | perl -e 'print pack "H*", <STDIN>' >> "$2"

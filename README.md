@@ -17,7 +17,7 @@ NKS(Native Kontrol Standard) presets collection
 |Twin 2|||||||
 |EightyEight|||||||
 |Hive|||||||
-|AnalogLab|||||||
+|AnalogLab|:heavy_check_mark:||||||
 
  1. Image files were not recognized, maybe the reason for path contained '!'.
 
