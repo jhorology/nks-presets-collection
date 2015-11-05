@@ -243,7 +243,9 @@
       "name": "FX 2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 91,
+      "name": "FX 1",
       "section": "Send D",
       "vflag": false
     }, {
