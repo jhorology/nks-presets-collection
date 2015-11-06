@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Drone Bass01",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2db368a0-12ea-4ce9-a143-cd9d5b742795",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid", "Ambient"],
+  "name": "Bell Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8d4b4008-fb14-41b5-af14-222af04c12a8",
+  "vendor": "Arturia"
+}

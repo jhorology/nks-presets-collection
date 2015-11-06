@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Swaver",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8fe9eebe-c5b3-4175-bb77-ae722e2d15e3",
+  "vendor": "Arturia"
+}

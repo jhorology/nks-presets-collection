@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Wheel",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9a43d779-607f-45b3-a5e1-0d1bc123f2ca",
+  "vendor": "Arturia"
+}

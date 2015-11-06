@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Living Water",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ad09b1d2-e057-4a4d-b4a5-2ccdd5673858",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Ocarina",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2b10be71-777f-4e16-a1a5-767a19906308",
+  "vendor": "Arturia"
+}

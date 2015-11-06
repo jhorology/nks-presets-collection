@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Laepetus",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "48b705c6-f815-4567-a7c3-bc0f16b88f08",
+  "vendor": "Arturia"
+}

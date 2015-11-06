@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Curving Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "352c0efe-622e-4122-9faf-599a6efcaf2b",
+  "vendor": "Arturia"
+}

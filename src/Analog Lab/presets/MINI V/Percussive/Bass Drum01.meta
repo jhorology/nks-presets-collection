@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Bass Drum01",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "77e74277-2c42-4220-84c3-4d007398e7da",
+  "vendor": "Arturia"
+}

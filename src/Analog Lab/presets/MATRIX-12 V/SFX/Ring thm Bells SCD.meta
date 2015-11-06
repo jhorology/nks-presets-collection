@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Complex", "Ambient", "Digital", "Soundtrack"],
+  "name": "Ring thm Bells SCD",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b2694d02-2231-4109-8290-c49ea9e0ab26",
+  "vendor": "Arturia"
+}

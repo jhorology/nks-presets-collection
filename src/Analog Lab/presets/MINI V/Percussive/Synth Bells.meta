@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Ambient"],
+  "name": "Synth Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6cbdd040-f910-4075-8ea4-7b6698622351",
+  "vendor": "Arturia"
+}

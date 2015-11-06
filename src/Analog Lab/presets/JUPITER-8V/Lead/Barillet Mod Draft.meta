@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Ambient"],
+  "name": "Barillet Mod Draft",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1728acdf-9551-4625-ba32-accc18c7fa74",
+  "vendor": "Arturia"
+}

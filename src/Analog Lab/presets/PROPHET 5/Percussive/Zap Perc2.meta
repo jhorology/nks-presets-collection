@@ -1,0 +1,13 @@
+{
+  "author": "SF_Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Noise"],
+  "name": "Zap Perc2",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "2b0d3fc3-9b48-410c-889b-bf401d7a325f",
+  "vendor": "Arturia"
+}

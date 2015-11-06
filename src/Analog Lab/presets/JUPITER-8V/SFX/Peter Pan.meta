@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre", "Noise"],
+  "name": "Peter Pan",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fb91bccd-d172-41e5-9cda-e09693a81f66",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Digital"],
+  "name": "Schlafi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bcfbd79c-313c-4607-ada4-1b74b7414be0",
+  "vendor": "Arturia"
+}

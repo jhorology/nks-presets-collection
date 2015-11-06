@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Organ Elect",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "2848c868-83d3-4bd4-9db5-ad5117894547",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Kik",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f4e1038a-739f-46e5-9d7d-08ddade25d19",
+  "vendor": "Arturia"
+}

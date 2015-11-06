@@ -1,0 +1,13 @@
+{
+  "author": "omissis2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Drumalogic",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9b76b0b8-b10b-433d-9f70-91951a623dc5",
+  "vendor": "Arturia"
+}

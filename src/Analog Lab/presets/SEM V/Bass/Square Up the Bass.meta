@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Square Up the Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f2d85514-8082-40fc-89c0-2df3039e1c79",
+  "vendor": "Arturia"
+}

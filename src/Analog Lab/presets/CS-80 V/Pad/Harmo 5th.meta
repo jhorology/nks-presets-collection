@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Harmo 5th",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b10e7877-00df-43d3-a0c2-9cb66ba98218",
+  "vendor": "Arturia"
+}

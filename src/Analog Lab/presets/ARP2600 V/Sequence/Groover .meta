@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Groover ",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "486d0fec-2eae-4cad-bcb4-a36e3315972c",
+  "vendor": "Arturia"
+}

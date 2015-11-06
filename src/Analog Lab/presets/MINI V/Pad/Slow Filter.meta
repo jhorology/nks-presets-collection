@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Slow Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b1cf5964-2d0e-4812-891d-c5d2c1e3df02",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Tarkus",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a6cd837e-4953-4558-a015-a5df9b6adfdf",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Basic Oct Saw",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6d7d1e26-ee0d-45d0-b0c0-f72e729d197d",
+  "vendor": "Arturia"
+}

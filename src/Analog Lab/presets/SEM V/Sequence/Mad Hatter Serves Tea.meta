@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Mad Hatter Serves Tea",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7ce78517-98d9-4ec2-a2f4-bab7d73fbd7b",
+  "vendor": "Arturia"
+}

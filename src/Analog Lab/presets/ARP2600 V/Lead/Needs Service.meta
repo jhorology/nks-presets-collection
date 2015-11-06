@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Noise"],
+  "name": "Needs Service",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d2a6c6c2-c913-4e9f-8552-ed56ea3d0365",
+  "vendor": "Arturia"
+}

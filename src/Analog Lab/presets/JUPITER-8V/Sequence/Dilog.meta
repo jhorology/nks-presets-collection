@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Bizarre"],
+  "name": "Dilog",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ec9eb7e1-5028-4e4d-962d-2da17f03351a",
+  "vendor": "Arturia"
+}

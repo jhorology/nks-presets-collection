@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Bizarre", "Soundtrack"],
+  "name": "Bass Reverb",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6c8c5d4b-7094-43ca-87b9-75822b76b77c",
+  "vendor": "Arturia"
+}

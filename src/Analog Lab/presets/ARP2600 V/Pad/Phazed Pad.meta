@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Phazed Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "49cb92ca-9048-48f2-be00-e3876aa7d2c7",
+  "vendor": "Arturia"
+}

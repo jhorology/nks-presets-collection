@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Bass run SS",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "424d00bc-8233-4cdc-a337-faccec4ed81f",
+  "vendor": "Arturia"
+}

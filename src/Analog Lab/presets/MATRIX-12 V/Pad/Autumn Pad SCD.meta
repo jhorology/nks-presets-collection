@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Ambient", "Soundtrack"],
+  "name": "Autumn Pad SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3be55808-1c82-4f30-9491-18c4a873afc1",
+  "vendor": "Arturia"
+}

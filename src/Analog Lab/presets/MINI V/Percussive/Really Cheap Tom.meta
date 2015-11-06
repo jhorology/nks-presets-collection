@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Really Cheap Tom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "cb93d0cd-aab6-4408-9959-f1376e6aab50",
+  "vendor": "Arturia"
+}

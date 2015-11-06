@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Mad Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a56afac3-8764-43e1-bf43-3b37b47188f2",
+  "vendor": "Arturia"
+}

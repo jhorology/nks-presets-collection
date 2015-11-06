@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient", "Noise"],
+  "name": "Lost Woods",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c62b25d2-878d-4191-9f04-d3de6c6fa9c7",
+  "vendor": "Arturia"
+}

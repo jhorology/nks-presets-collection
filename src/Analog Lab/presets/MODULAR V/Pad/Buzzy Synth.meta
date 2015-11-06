@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Buzzy Synth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "30c98dd6-a7a7-47ed-892a-7d49f82ce34e",
+  "vendor": "Arturia"
+}

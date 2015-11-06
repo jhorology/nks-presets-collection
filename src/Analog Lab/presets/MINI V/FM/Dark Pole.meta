@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Dark Pole",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "8599ff84-0caa-4404-a399-05a06f9bb5a8",
+  "vendor": "Arturia"
+}

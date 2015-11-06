@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Celem Gong",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "91942a28-b7be-4d1a-a401-cb8991a17cd3",
+  "vendor": "Arturia"
+}

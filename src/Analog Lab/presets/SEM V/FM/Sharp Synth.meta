@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short", "Ensemble"],
+  "name": "Sharp Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "32562b44-ee65-4e35-979c-87308be2516c",
+  "vendor": "Arturia"
+}

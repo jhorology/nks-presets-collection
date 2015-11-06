@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Filler",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "01c18d7d-1b6a-4664-acda-fcd6439b4e23",
+  "vendor": "Arturia"
+}

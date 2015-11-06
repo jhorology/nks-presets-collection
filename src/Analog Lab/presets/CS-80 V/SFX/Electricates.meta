@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Electricates",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "124c2698-df56-4ad2-9345-b479ef7e5220",
+  "vendor": "Arturia"
+}

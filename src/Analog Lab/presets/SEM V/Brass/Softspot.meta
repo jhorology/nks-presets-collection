@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Softspot",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "e141c3b9-78ea-4ede-8413-5c52dea890c7",
+  "vendor": "Arturia"
+}

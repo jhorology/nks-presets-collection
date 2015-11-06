@@ -1,0 +1,13 @@
+{
+  "author": "Clement Chaumeil",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Go down CC",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "416e3785-4700-4e9d-bd04-69a6548041d7",
+  "vendor": "Arturia"
+}

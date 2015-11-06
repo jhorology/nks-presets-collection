@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Short"],
+  "name": "Buzz Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "1fe580cd-3483-43b5-b15f-f657ed72a150",
+  "vendor": "Arturia"
+}

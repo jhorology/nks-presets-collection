@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Count Down",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "de4ab8b0-ed51-41a0-93d8-9a1aa4f5de4b",
+  "vendor": "Arturia"
+}

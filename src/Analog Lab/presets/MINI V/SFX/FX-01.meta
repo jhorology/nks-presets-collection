@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "FX-01",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "101cb94d-4716-4f2d-a13b-bc5adab5e6bd",
+  "vendor": "Arturia"
+}

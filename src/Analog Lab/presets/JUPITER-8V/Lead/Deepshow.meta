@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Digital"],
+  "name": "Deepshow",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "afea8aa9-6c09-4d6d-9c63-51eff63a3f4e",
+  "vendor": "Arturia"
+}

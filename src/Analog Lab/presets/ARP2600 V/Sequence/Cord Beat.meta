@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid"],
+  "name": "Cord Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3ed7afe2-a370-4a7d-8513-c7750e88bbaf",
+  "vendor": "Arturia"
+}

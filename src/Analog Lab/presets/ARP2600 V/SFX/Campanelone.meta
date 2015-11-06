@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Campanelone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "999b2ccf-bbc8-4381-b967-f314bfdfa51a",
+  "vendor": "Arturia"
+}

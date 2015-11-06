@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Pad Wheel Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "07716d19-3116-4ab4-a062-a6ffb7671670",
+  "vendor": "Arturia"
+}

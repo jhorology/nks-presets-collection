@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Talking Lead2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "76bfa593-b05d-4979-a583-505c48c27980",
+  "vendor": "Arturia"
+}

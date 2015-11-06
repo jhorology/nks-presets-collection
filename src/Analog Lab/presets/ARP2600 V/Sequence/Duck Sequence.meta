@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Duck Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a8eb9fac-99b0-4d96-ab6d-5f206be6a4e7",
+  "vendor": "Arturia"
+}

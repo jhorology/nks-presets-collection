@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Dusty Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "f3e48e98-8949-4cc8-b69b-578e9d8aee70",
+  "vendor": "Arturia"
+}

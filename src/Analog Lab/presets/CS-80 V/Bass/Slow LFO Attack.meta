@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Slow LFO Attack",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c3a25317-efff-44d1-8118-2506063fca0f",
+  "vendor": "Arturia"
+}

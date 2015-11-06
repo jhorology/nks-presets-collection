@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Noisyland",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a84b5075-f657-4ad2-a551-8406cce552e5",
+  "vendor": "Arturia"
+}

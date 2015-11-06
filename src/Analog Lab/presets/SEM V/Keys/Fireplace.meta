@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Fireplace",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c4097728-223e-4e95-a543-90f230fb7446",
+  "vendor": "Arturia"
+}

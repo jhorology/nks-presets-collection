@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Speed Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "d4372da1-df63-4478-a1d9-828ba30ccc64",
+  "vendor": "Arturia"
+}

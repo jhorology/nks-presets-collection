@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Lead03",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "25050b4b-175b-442a-a5f3-169c477cba1c",
+  "vendor": "Arturia"
+}

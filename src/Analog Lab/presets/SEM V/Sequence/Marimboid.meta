@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Soundtrack"],
+  "name": "Marimboid",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "15c077ab-7b9f-4f09-8628-ca7d2cafeccf",
+  "vendor": "Arturia"
+}

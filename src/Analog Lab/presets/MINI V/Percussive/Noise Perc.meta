@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Noise Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d50d2bba-5133-4a72-b7a3-fbe28d4b34da",
+  "vendor": "Arturia"
+}

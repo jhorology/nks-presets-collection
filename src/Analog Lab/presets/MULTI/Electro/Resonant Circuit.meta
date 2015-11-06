@@ -1,0 +1,12 @@
+{
+  "bankchain": ["Analog Lab", "MULTI", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electro"],
+  "name": "Resonant Circuit",
+  "types": [
+    ["Multi"]
+  ],
+  "uuid": "196c2b80-6416-43bd-92dd-192b1a475cfc",
+  "vendor": "Arturia"
+}

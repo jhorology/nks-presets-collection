@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Organic Pulse",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "0baf9fe3-290d-47be-9845-2bad55029929",
+  "vendor": "Arturia"
+}

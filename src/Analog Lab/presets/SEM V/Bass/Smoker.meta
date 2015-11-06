@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Smoker",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3f06b081-133d-496f-8955-30e66a59b8ca",
+  "vendor": "Arturia"
+}

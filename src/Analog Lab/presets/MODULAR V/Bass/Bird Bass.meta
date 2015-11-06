@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bird Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "25f24ca7-dfce-4773-abeb-fc2eb78d0e81",
+  "vendor": "Arturia"
+}

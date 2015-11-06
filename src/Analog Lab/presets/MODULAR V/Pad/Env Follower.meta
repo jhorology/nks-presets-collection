@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Env Follower",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "663bbb2c-1e37-4ab5-a4e8-eba94c3f8640",
+  "vendor": "Arturia"
+}

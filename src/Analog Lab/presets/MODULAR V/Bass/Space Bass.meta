@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Space Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fe5a8098-1d78-46d6-96f1-c8dc189abf6a",
+  "vendor": "Arturia"
+}

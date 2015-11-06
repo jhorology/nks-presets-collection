@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Cheap Lazer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a260a961-84c7-4717-8ecf-9af228f9f18a",
+  "vendor": "Arturia"
+}

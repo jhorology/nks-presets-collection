@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Tom Help SCD",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "1cddc211-4455-45be-8e1a-14a3c990c4a7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Quiet Coffee",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0aa6986f-3437-4876-8bf1-9c9b9ccaa3c4",
+  "vendor": "Arturia"
+}

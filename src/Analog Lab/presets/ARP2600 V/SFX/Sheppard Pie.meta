@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Sheppard Pie",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c1534b5e-7f41-4d4a-a59d-f7ae4c75c1d3",
+  "vendor": "Arturia"
+}

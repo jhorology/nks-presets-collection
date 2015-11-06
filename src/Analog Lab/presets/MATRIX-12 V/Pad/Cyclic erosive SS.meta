@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Cyclic erosive SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7f55b908-fd35-4a0d-a8d2-12e43451ebcb",
+  "vendor": "Arturia"
+}

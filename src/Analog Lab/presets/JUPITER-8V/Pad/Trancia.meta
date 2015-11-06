@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Ensemble"],
+  "name": "Trancia",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2bf72b89-1002-4025-95ce-9e1c304fa3c1",
+  "vendor": "Arturia"
+}

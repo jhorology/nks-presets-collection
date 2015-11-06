@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Syncsweep",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8a439b4f-1a3a-4b34-aabd-53b18902df77",
+  "vendor": "Arturia"
+}

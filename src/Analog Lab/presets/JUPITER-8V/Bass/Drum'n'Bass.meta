@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard"],
+  "name": "Drum'n'Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d8b087ac-eb2c-4953-a486-c7f76b01197f",
+  "vendor": "Arturia"
+}

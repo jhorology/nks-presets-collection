@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Electric Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6699ca5a-85f2-470a-a258-e310f69401c2",
+  "vendor": "Arturia"
+}

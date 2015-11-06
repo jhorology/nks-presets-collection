@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brass Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "18fa53d4-7302-4dcf-b88c-3ea6282bc933",
+  "vendor": "Arturia"
+}

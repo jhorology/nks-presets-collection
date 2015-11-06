@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre", "Ambient"],
+  "name": "Space Sequence",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2b3dbc45-c5c9-49a7-a7cc-36e731b58e93",
+  "vendor": "Arturia"
+}

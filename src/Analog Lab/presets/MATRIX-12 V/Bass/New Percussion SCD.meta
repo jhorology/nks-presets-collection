@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient"],
+  "name": "New Percussion SCD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "24c1fa5d-986e-415b-aef1-f936ffde29cc",
+  "vendor": "Arturia"
+}

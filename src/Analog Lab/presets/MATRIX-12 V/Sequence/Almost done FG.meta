@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient"],
+  "name": "Almost done FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "42103b50-7d80-4d8c-95ef-56f56520481c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient", "Soundtrack"],
+  "name": "Phase 3 SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f4b9649a-e3b1-4aff-b6d6-db88b14e482e",
+  "vendor": "Arturia"
+}

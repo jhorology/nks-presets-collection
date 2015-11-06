@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "SQ Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "03a9f48f-11f9-40e0-aed4-545872aee055",
+  "vendor": "Arturia"
+}

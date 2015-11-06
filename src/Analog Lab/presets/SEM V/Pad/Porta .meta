@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Porta ",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "674c06f4-c979-48f5-b70c-c471fd353437",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ_VS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Fm Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e0c54fb3-f255-40b3-9f69-b3d8152a5eca",
+  "vendor": "Arturia"
+}

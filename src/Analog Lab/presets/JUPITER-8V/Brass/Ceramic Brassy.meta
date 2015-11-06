@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "Ceramic Brassy",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "10b5a158-9c41-4a0a-8d6e-bb1ab4d2e711",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Funky"],
+  "name": "Slam Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d4b605e5-e0bf-4c4a-bdb2-2c12b0aa7d56",
+  "vendor": "Arturia"
+}

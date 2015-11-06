@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex"],
+  "name": "Vari Mu",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5dd0b5b0-fcf8-4f90-8d3b-b4fa4eb80203",
+  "vendor": "Arturia"
+}

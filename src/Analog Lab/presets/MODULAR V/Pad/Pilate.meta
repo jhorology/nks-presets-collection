@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Digital"],
+  "name": "Pilate",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "75a03ef5-965d-4c73-a080-f78a5e8ed0cd",
+  "vendor": "Arturia"
+}

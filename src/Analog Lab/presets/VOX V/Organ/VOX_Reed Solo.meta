@@ -1,0 +1,13 @@
+{
+  "author": "Vox Factory",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "VOX_Reed Solo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "861839fb-9d72-404b-83df-a6ce7d91bb1e",
+  "vendor": "Arturia"
+}

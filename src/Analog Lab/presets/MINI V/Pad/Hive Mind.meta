@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Hive Mind",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5fd4ce3f-d5ea-47ab-b0b3-502c037ab8df",
+  "vendor": "Arturia"
+}

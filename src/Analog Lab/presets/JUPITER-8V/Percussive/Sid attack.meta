@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Bizarre"],
+  "name": "Sid attack",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "33a2a658-6c63-4dda-80d7-93e5de47796b",
+  "vendor": "Arturia"
+}

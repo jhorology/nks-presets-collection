@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Analog search SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3cbca494-7438-4fc8-9f66-cce63ab4bfa5",
+  "vendor": "Arturia"
+}

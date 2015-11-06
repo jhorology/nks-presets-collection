@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bonapart",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "155c1af8-e86d-4266-a195-4fec4b959f40",
+  "vendor": "Arturia"
+}

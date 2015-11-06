@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Synchro Lead1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a8157bb4-552b-450e-ac28-71331e4a905c",
+  "vendor": "Arturia"
+}

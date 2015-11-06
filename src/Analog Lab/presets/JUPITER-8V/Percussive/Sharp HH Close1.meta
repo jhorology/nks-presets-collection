@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Noise"],
+  "name": "Sharp HH Close1",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c90b3426-cb07-4a22-a007-74cec50df8dd",
+  "vendor": "Arturia"
+}

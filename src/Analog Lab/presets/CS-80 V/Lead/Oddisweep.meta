@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Oddisweep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b59f47b8-8a1c-41ed-bbfd-b57178a73437",
+  "vendor": "Arturia"
+}

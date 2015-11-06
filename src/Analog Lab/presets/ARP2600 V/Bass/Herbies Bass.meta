@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Acid", "Funky"],
+  "name": "Herbies Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "41995ebe-fb91-4b69-bed0-32799b2adf1a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "808 Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a087b815-4be2-46f0-b466-7118faedd56d",
+  "vendor": "Arturia"
+}

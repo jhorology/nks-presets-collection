@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass Chord",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "030a47f7-09cc-465c-9c47-5752ac811910",
+  "vendor": "Arturia"
+}

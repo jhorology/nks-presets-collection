@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient", "Ensemble"],
+  "name": "Filthy Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d0b1ba89-2d78-46e4-a48e-d585905a30b0",
+  "vendor": "Arturia"
+}

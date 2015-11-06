@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short", "Noise"],
+  "name": "Trash Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "2f1b5e36-668e-4abf-bb48-8a0271c0bfd5",
+  "vendor": "Arturia"
+}

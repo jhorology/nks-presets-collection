@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Short"],
+  "name": "Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "358ad893-839d-438a-bfe1-8f2d145fe26e",
+  "vendor": "Arturia"
+}

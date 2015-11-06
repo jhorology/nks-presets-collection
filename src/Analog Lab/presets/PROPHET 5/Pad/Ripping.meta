@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient", "Noise"],
+  "name": "Ripping",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "df105618-b464-4ae8-8a6b-552273c815b3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Twinstour",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8969ad16-0dbb-4492-890e-b29e2fcaf5ad",
+  "vendor": "Arturia"
+}

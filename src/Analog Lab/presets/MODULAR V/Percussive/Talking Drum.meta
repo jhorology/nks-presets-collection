@@ -1,0 +1,13 @@
+{
+  "author": "Original",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Talking Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3a268ac8-4ccb-467f-90ec-8622a0f75bf4",
+  "vendor": "Arturia"
+}

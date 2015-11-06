@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Attacks Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "38fce28b-4388-40bc-bdff-ce29f8e67234",
+  "vendor": "Arturia"
+}

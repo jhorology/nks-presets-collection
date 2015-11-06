@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Variable Synth Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "52caaffb-f19c-420f-8280-ee8025127c99",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "H Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "87b0cdfe-c4a2-4c64-bbac-70461b9850db",
+  "vendor": "Arturia"
+}

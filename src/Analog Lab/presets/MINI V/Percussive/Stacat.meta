@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Stacat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3f058047-08fc-449c-8560-88a1a10b9bf7",
+  "vendor": "Arturia"
+}

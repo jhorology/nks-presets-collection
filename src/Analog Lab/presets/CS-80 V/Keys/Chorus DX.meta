@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Chorus DX",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "24c3fd5a-c9e4-4ea6-9808-38f19fdab83a",
+  "vendor": "Arturia"
+}

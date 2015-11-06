@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "SS_Select",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "0f496210-a169-4de8-9559-965ab7c6dda8",
+  "vendor": "Arturia"
+}

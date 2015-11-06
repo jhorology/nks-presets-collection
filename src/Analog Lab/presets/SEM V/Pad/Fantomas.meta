@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Long", "Ambient", "Soundtrack"],
+  "name": "Fantomas",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e6902870-5665-46be-a0e7-130146248ad5",
+  "vendor": "Arturia"
+}

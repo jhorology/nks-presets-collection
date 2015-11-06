@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Pulse Shimmer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0a759971-a599-4b7f-b7b8-dca6f2e6e303",
+  "vendor": "Arturia"
+}

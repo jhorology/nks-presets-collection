@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Ripper Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "38bc1feb-82ef-4c4a-9a6a-1adfd8e097bb",
+  "vendor": "Arturia"
+}

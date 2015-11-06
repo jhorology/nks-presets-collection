@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lfo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "db9071d5-b53a-4cac-a4ee-14092a9d02fd",
+  "vendor": "Arturia"
+}

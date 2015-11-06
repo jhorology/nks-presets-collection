@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Digital"],
+  "name": "Cabin Wind",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "629dd2ae-32cf-4e39-8516-f73c7b2823d3",
+  "vendor": "Arturia"
+}

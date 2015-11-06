@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre", "Soundtrack", "Funky"],
+  "name": "Robotic Move",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f444fdf2-ee30-4439-9bb9-4281e0f4367b",
+  "vendor": "Arturia"
+}

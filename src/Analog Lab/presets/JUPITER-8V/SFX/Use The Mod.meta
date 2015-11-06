@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Use The Mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aa4aea22-b545-4664-a67e-42e08a7f41ac",
+  "vendor": "Arturia"
+}

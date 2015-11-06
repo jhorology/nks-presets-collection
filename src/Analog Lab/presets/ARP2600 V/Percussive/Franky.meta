@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Franky",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a43b75d4-6513-4d8a-a201-0b42a06edac6",
+  "vendor": "Arturia"
+}

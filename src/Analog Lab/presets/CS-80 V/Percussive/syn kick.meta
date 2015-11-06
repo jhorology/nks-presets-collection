@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "syn kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e2e3c1b0-f7eb-4847-84df-b279a46999a1",
+  "vendor": "Arturia"
+}

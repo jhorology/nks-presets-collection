@@ -1,0 +1,13 @@
+{
+  "author": "Howard_Scarr",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Gravel",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6b259fb7-b0f1-4122-8dcd-38f9b107bbaf",
+  "vendor": "Arturia"
+}

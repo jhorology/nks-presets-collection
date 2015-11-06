@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Light exposure SS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "fde3aad8-1563-4d51-84ec-dee67c7dc8ad",
+  "vendor": "Arturia"
+}

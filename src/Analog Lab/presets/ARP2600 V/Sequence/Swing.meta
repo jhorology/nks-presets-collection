@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Swing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "90277589-bf09-4aac-abcc-33a99c5078e4",
+  "vendor": "Arturia"
+}

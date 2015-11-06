@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Sonic Us",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b54fc626-223b-491b-8e3b-65932dba59eb",
+  "vendor": "Arturia"
+}

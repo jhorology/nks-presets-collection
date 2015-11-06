@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Celmo Lead01",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f2ec6a33-6f2f-441d-8f66-bb89c1dc071b",
+  "vendor": "Arturia"
+}

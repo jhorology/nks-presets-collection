@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Bizarre"],
+  "name": "Night Harps",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "50adf708-1d26-45bb-ac08-cf9c507af80b",
+  "vendor": "Arturia"
+}

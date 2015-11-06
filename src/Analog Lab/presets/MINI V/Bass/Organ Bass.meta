@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Organ Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "93cb7d74-274c-4cc0-ad60-0bc509819c00",
+  "vendor": "Arturia"
+}

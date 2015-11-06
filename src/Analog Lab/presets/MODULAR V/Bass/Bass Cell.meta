@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass Cell",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "45d21e6e-f2c1-41ef-860f-1d7a7ef63911",
+  "vendor": "Arturia"
+}

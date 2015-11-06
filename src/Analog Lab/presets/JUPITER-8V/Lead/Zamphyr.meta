@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Ambient"],
+  "name": "Zamphyr",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "497db860-3398-4bf2-85a6-e603dfba8e1f",
+  "vendor": "Arturia"
+}

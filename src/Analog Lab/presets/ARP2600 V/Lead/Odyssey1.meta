@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Odyssey1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fed3d9f9-731b-4abe-88aa-a85c16101e3e",
+  "vendor": "Arturia"
+}

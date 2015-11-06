@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Long"],
+  "name": "Pad Cyber",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7d3e980c-7045-4c9a-b450-cad8828f0805",
+  "vendor": "Arturia"
+}

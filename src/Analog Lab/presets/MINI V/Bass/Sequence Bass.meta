@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Sequence Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a793377f-cfec-4939-b0b9-402425039fa3",
+  "vendor": "Arturia"
+}

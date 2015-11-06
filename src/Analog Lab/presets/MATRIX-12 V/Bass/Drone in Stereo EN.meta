@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Ambient", "Soundtrack"],
+  "name": "Drone in Stereo EN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "66d92e95-8bef-4084-b831-53d338c0c993",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Up Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3c76260c-c4e7-4fcc-81d1-dffb7f0731ab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Tribal",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ac33f25f-8b19-408e-bc49-5d8680051cff",
+  "vendor": "Arturia"
+}

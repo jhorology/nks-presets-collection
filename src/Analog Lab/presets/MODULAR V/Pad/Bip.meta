@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bip",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "72c168e4-d66d-44f3-9eea-8de8b07f0ea7",
+  "vendor": "Arturia"
+}

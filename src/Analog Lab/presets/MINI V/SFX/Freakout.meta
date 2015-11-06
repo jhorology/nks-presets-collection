@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Freakout",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "10bf12b4-ae1b-4b58-9da9-4528a2b4c53a",
+  "vendor": "Arturia"
+}

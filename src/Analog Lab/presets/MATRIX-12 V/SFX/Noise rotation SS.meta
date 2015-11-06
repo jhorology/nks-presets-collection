@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Noise rotation SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ab2583b2-aa12-47d5-a6ef-3fceb17ec97c",
+  "vendor": "Arturia"
+}

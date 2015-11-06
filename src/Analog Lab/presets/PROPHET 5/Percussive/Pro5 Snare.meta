@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Pro5 Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "15d92c7b-48b5-4ee8-bae4-38d0a2a9d0ab",
+  "vendor": "Arturia"
+}

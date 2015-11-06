@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Da Fly",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd210f94-fc5a-477e-9f88-a6eddbe89b57",
+  "vendor": "Arturia"
+}

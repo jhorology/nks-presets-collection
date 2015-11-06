@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ensemble"],
+  "name": "Init Voice 4 (2 Osc detuned)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d4e9728a-9a31-43a6-9ce2-b297c88fbaa2",
+  "vendor": "Arturia"
+}

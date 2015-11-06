@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre", "Noise"],
+  "name": "Arapa Noise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "946835de-a2b2-4d77-a2d0-b9409e9bc7a3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Wetter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "abbb1112-449d-43a8-8e82-47e03e3b91df",
+  "vendor": "Arturia"
+}

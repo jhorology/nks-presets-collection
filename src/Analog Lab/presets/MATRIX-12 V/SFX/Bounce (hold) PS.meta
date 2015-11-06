@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Complex", "Simple", "Ambient", "Soundtrack"],
+  "name": "Bounce (hold) PS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "32f6e6bd-973c-405f-befc-568fa4ff7113",
+  "vendor": "Arturia"
+}

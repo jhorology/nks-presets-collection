@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ensemble"],
+  "name": "Brassy Padolina",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c9fc2adf-2538-45e8-bb93-fa5b1ecdf6fb",
+  "vendor": "Arturia"
+}

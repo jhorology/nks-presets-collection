@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Eclector",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4b99696e-627e-490b-9ea1-3efc68059d3d",
+  "vendor": "Arturia"
+}

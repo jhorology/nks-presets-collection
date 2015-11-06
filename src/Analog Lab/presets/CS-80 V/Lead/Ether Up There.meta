@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Ether Up There",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "582212c8-1afe-41a6-ae25-a4e843bf4203",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "lusk3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "03537458-8fdb-45ea-8dbd-2ce84317a4b2",
+  "vendor": "Arturia"
+}

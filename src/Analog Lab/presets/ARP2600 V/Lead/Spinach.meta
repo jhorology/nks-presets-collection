@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soundtrack"],
+  "name": "Spinach",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0a3e5659-3ed5-4cdb-bd65-cf54a769c458",
+  "vendor": "Arturia"
+}

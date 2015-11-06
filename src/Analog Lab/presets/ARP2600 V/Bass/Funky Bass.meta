@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Funky"],
+  "name": "Funky Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b730c289-35ab-4a72-ba01-dbf6cfddbfe5",
+  "vendor": "Arturia"
+}

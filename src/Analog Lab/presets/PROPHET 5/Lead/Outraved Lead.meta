@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Noise"],
+  "name": "Outraved Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "178b1c3d-5462-42cb-96a4-e1a414f5722e",
+  "vendor": "Arturia"
+}

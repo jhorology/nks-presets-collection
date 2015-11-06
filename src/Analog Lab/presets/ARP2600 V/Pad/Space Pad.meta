@@ -1,0 +1,13 @@
+{
+  "author": "k.Lamb_Neptunes",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Space Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cb5eb62f-2a7a-4f49-a0c1-55ab22081b54",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Long Portam",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3a551196-32ea-4188-8152-ad94d57660d3",
+  "vendor": "Arturia"
+}

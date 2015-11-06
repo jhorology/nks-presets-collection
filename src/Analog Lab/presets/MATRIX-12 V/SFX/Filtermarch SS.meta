@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Filtermarch SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "066f0388-989f-48a4-9dd2-e12cfa50b555",
+  "vendor": "Arturia"
+}

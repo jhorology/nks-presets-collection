@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Acid"],
+  "name": "Tribal SQC",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "cefadf00-f8dc-4cfe-ae1f-3130449d782d",
+  "vendor": "Arturia"
+}

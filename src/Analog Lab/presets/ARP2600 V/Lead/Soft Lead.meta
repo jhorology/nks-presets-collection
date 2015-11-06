@@ -1,0 +1,13 @@
+{
+  "author": "k.Lamb_Neptunes",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex"],
+  "name": "Soft Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "10170d41-f756-43ec-b6f0-2a8089feceee",
+  "vendor": "Arturia"
+}

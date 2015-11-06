@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Triad",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9142ab9a-7a99-48e5-b754-ffe399ec29d4",
+  "vendor": "Arturia"
+}

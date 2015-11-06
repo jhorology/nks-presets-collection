@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "888 Perc",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ac42c487-36ec-48e7-acb4-d72c16879afb",
+  "vendor": "Arturia"
+}

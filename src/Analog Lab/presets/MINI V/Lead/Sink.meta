@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Sink",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "33c742db-17b0-4454-a066-4c223548fc34",
+  "vendor": "Arturia"
+}

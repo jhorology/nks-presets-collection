@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Jazz It",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0909a6ea-f161-430b-b318-8f0659d170c1",
+  "vendor": "Arturia"
+}

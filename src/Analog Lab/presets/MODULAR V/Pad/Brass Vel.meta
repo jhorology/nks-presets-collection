@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Brass Vel",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e7e89a7f-e9be-4878-8e24-4ef41ceffc21",
+  "vendor": "Arturia"
+}

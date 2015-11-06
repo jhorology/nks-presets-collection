@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ambient"],
+  "name": "Dark Forest",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "765873ef-9066-4c43-913b-3efcb170c003",
+  "vendor": "Arturia"
+}

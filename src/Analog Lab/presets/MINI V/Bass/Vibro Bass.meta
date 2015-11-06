@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Vibro Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8a173e51-20fa-4b66-befb-8cf0e89a4dc3",
+  "vendor": "Arturia"
+}

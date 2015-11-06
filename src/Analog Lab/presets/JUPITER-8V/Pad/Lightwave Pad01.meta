@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient", "Noise"],
+  "name": "Lightwave Pad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1aa53f88-b30b-4352-8ba4-fa2f0036b5ba",
+  "vendor": "Arturia"
+}

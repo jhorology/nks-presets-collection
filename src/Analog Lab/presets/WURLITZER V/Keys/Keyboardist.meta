@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Keyboardist",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7e007dfd-2c1b-484a-bd31-4a611159b791",
+  "vendor": "Arturia"
+}

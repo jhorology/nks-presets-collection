@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Soft Saws",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1e5e68b8-296d-4c34-8fce-1b362a13ab9e",
+  "vendor": "Arturia"
+}

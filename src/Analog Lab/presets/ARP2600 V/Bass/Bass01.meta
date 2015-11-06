@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass01",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d4f0f1af-acc3-4412-83af-e611a7cbe620",
+  "vendor": "Arturia"
+}

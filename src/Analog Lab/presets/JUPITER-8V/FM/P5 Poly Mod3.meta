@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Digital"],
+  "name": "P5 Poly Mod3",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "e0d00ae5-2bca-4eb3-8d4b-5b5be637c537",
+  "vendor": "Arturia"
+}

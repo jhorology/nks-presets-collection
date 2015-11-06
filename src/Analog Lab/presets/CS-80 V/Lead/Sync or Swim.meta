@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Sync or Swim",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1c14c842-c5c7-4218-a5d2-8559bbe8e2c1",
+  "vendor": "Arturia"
+}

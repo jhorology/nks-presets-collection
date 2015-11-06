@@ -1,0 +1,13 @@
+{
+  "author": "T.odanaka",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Outer Space",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7deb4c88-ffc2-4be8-b68b-4ba095b6e660",
+  "vendor": "Arturia"
+}

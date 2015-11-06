@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "My Piano Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8bf813e3-c5f1-4561-a099-134e3468c449",
+  "vendor": "Arturia"
+}

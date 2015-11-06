@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "HPF Res",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "76c8c81c-181e-4e73-a360-c107ff78578f",
+  "vendor": "Arturia"
+}

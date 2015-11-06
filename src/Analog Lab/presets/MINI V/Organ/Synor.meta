@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Synor",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "07d05348-98ce-4a34-980c-48ee4ee87738",
+  "vendor": "Arturia"
+}

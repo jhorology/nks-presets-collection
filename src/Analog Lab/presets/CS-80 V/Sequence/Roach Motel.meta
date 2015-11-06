@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient"],
+  "name": "Roach Motel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "013c7947-2d59-4796-a947-c14ed8e8138d",
+  "vendor": "Arturia"
+}

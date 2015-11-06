@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Soundtrack"],
+  "name": "Night Time",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8b4f6a4e-12f7-4505-8210-0749ef9d7f8d",
+  "vendor": "Arturia"
+}

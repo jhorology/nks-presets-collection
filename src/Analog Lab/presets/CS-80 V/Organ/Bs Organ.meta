@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Bs Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "829343aa-37de-4a48-9600-4039c1b4bd77",
+  "vendor": "Arturia"
+}

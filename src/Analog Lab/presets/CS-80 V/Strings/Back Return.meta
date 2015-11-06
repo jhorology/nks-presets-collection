@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Back Return",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7dabc13e-c9f4-40f5-ab10-0eb8b9fb5ca4",
+  "vendor": "Arturia"
+}

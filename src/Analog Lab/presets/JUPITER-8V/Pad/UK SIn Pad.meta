@@ -1,0 +1,13 @@
+{
+  "author": "KUJIIE",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ambient", "Digital"],
+  "name": "UK SIn Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e8744ed6-00f5-487d-bc4a-f02a17afe5a6",
+  "vendor": "Arturia"
+}

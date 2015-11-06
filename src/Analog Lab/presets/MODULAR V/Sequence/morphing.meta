@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "morphing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1201b207-f244-4ac4-92de-498061ec5170",
+  "vendor": "Arturia"
+}

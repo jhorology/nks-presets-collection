@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Kamala",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "752f79a2-91ce-4eef-a7bc-14b708e27c89",
+  "vendor": "Arturia"
+}

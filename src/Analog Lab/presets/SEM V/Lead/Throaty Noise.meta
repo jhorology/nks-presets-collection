@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Throaty Noise",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7444aa30-004d-4865-84c7-f877768b741a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Noisy LFO Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "df5e3cd7-99da-4dd6-b566-4e85fdaa72e4",
+  "vendor": "Arturia"
+}

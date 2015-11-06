@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Futuregazing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "aa96d655-09ae-4964-842a-50a6b4e25633",
+  "vendor": "Arturia"
+}

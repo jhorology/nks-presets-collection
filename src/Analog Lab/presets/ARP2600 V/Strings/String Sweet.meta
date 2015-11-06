@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft"],
+  "name": "String Sweet",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d055979b-8d36-4b77-8e38-91ab4c30c8ea",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short", "Ambient"],
+  "name": "Bawraek",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c73026a9-2fc1-49e2-9379-ffa95428ecdf",
+  "vendor": "Arturia"
+}

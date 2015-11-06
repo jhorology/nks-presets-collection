@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Pad-11",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8d70c1fd-b8bd-4b16-8da2-17ef3c93a135",
+  "vendor": "Arturia"
+}

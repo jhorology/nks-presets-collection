@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Chariot Intro",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3079259a-7b85-4177-9c29-076c4fcdde64",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Accordeon Synth",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "2c68cec2-4a0a-4edd-895b-d972863d6d4d",
+  "vendor": "Arturia"
+}

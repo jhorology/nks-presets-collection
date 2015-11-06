@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Staccapan SS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c166b6bc-3589-4293-8298-6d669954d2b1",
+  "vendor": "Arturia"
+}

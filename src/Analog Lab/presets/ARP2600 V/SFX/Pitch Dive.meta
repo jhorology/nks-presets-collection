@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Pitch Dive",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6f88c1f7-a8dc-4f4e-a7f1-9422c99c7a59",
+  "vendor": "Arturia"
+}

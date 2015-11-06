@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Shorting Out",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8c58d79b-0a14-4784-b010-fd78c176a53d",
+  "vendor": "Arturia"
+}

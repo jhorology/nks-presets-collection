@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Club-T",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ed2500b9-3386-4185-8541-aef0c0c521f8",
+  "vendor": "Arturia"
+}

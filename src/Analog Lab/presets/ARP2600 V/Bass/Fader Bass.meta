@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Noise"],
+  "name": "Fader Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "efd743f7-8953-40f9-b801-7e0f0c8ba82a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Funky"],
+  "name": "Hold Future",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a893dca0-4d6e-4736-becd-1301cff562b9",
+  "vendor": "Arturia"
+}

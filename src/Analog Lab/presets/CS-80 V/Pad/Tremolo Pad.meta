@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Tremolo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c85c3832-1452-4609-96ab-a94d3c852a81",
+  "vendor": "Arturia"
+}

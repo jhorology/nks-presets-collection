@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Bizarre"],
+  "name": "Cheap01",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "215d198c-3f47-4e45-a9b2-d90114329367",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "New Vision01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "359253bb-12c1-4a08-a12a-0217f4f2d1fa",
+  "vendor": "Arturia"
+}

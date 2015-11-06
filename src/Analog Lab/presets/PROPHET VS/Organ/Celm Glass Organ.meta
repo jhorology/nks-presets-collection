@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Celm Glass Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a5776cff-61c6-4eab-a7e6-a54136e00a8c",
+  "vendor": "Arturia"
+}

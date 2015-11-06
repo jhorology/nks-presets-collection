@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lyric Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c3784a89-a816-4ca3-85c6-0f2dc9861b6a",
+  "vendor": "Arturia"
+}

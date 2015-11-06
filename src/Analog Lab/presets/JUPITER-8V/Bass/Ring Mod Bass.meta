@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Digital"],
+  "name": "Ring Mod Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2f5b204a-c372-4d60-ae83-76812aa4cca3",
+  "vendor": "Arturia"
+}

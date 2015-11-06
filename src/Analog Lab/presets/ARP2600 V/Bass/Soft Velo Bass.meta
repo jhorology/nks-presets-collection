@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Soft Velo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c97bd08f-b571-4407-a96e-4e10ee2bf176",
+  "vendor": "Arturia"
+}

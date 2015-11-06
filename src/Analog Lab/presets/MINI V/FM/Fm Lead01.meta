@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "Fm Lead01",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "8f091f65-8681-4529-83f7-5ba55c56a24e",
+  "vendor": "Arturia"
+}

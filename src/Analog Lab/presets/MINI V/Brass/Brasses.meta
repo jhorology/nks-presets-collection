@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brasses",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "2ae44c01-f374-4251-aa4c-7ad35ba72532",
+  "vendor": "Arturia"
+}

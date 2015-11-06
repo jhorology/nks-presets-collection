@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Octa Bass",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9023bc0a-5fd0-4938-8977-c482f0ec1a71",
+  "vendor": "Arturia"
+}

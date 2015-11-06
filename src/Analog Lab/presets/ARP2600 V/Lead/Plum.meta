@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ensemble", "Funky"],
+  "name": "Plum",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1373a03b-d2da-4edc-8940-f19b2de4911f",
+  "vendor": "Arturia"
+}

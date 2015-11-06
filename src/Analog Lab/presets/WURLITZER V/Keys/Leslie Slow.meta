@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Ambient", "Ensemble", "Soundtrack"],
+  "name": "Leslie Slow",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "76da30c2-97c2-4e7e-b7e5-fe37173f200e",
+  "vendor": "Arturia"
+}

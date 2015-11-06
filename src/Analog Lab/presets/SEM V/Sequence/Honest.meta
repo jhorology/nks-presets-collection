@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Honest",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1b68aca5-0c4b-47b5-8c9d-d06503799e46",
+  "vendor": "Arturia"
+}

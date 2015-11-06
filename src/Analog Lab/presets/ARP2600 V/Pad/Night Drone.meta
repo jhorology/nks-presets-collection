@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Night Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "18de8fc7-b7a4-4b95-85d8-de43074595ed",
+  "vendor": "Arturia"
+}

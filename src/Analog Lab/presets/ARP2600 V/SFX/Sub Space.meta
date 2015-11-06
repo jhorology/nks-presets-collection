@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Sub Space",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3328a083-caff-4de2-8d84-90ad59e81a81",
+  "vendor": "Arturia"
+}

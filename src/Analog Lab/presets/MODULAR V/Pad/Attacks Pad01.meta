@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Attacks Pad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ad2ac737-4b9f-4aaa-9294-d4f7a09245bb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Grettel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fd828e32-ec98-4ef8-8dfe-fe71558424cf",
+  "vendor": "Arturia"
+}

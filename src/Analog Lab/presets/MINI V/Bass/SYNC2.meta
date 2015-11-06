@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "SYNC2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fff38ae6-0270-4516-9b5a-ee300ffcab48",
+  "vendor": "Arturia"
+}

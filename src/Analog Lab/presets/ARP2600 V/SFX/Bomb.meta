@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Bomb",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ed282a0e-5468-41b1-9762-32ff75d14e94",
+  "vendor": "Arturia"
+}

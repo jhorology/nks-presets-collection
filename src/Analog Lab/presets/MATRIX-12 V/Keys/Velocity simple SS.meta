@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Velocity simple SS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b7b281c6-fd92-4600-bc2f-7ae3d5ddfaaf",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid", "Digital"],
+  "name": "Kosahara",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9cd49f4e-7d7f-463e-900d-7b1711660dbf",
+  "vendor": "Arturia"
+}

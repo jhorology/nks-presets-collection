@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient", "Ensemble"],
+  "name": "Old Choir",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "21c60006-f1a4-4369-847d-44d79e1ef6d6",
+  "vendor": "Arturia"
+}

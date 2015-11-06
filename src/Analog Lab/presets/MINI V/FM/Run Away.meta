@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Run Away",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d9b71376-d2b4-447f-8a5a-35b50866cb45",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Apada",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "53455a8c-94a1-40ec-b069-998fd861a19d",
+  "vendor": "Arturia"
+}

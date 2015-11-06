@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Crackle pulse SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "aff64731-37cc-4621-b135-f46eaed35569",
+  "vendor": "Arturia"
+}

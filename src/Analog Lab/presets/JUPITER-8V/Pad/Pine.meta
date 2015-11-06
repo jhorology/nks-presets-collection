@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Ambient"],
+  "name": "Pine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "faf99a60-3a75-4112-ad11-e59f450ec207",
+  "vendor": "Arturia"
+}

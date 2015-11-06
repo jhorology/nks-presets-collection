@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Padded Room",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d911c223-6fec-422e-bb0a-c4ea88a0362c",
+  "vendor": "Arturia"
+}

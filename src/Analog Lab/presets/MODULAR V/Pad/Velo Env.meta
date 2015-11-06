@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soundtrack"],
+  "name": "Velo Env",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "416dccbd-beeb-4cfd-8f08-c32c13994cd8",
+  "vendor": "Arturia"
+}

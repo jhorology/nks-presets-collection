@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Express Way",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "39565c22-6178-4ee8-a305-2ed498fc03e0",
+  "vendor": "Arturia"
+}

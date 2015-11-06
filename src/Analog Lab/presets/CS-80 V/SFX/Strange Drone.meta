@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Strange Drone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "85e82121-bb83-40c7-9395-0037773f89b1",
+  "vendor": "Arturia"
+}

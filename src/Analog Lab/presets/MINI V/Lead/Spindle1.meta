@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Spindle1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f473fe4a-aff6-495a-a4d2-b363ae73e08f",
+  "vendor": "Arturia"
+}

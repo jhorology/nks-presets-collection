@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Long"],
+  "name": "Brass Sweep",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "47ad03b8-1915-4075-8868-4d80969dec84",
+  "vendor": "Arturia"
+}

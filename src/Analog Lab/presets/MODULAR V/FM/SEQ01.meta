@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "SEQ01",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "6d4f49e9-7e06-42a6-8ef6-1bca5a3f04f9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Llorcarturia",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Ensemble"],
+  "name": "Play Short Chords",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "616f95b5-85e7-480d-90d0-eb4aba49540e",
+  "vendor": "Arturia"
+}

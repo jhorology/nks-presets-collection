@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid", "Digital"],
+  "name": "Comical",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5135c680-d83a-4e85-9ed3-f06e6bac8b71",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Pacbell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b0f8f85c-a802-4b04-91c5-ce8261831735",
+  "vendor": "Arturia"
+}

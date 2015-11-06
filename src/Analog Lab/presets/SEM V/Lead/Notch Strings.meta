@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient", "Ensemble", "Soundtrack"],
+  "name": "Notch Strings",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5d9371a2-551d-4d44-8e8b-82b747887e16",
+  "vendor": "Arturia"
+}

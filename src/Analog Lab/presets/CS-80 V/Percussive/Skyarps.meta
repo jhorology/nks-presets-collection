@@ -1,0 +1,13 @@
+{
+  "author": "SkyChurch",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Skyarps",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "7ef80fd9-f03e-4779-b764-13bc3cac4b58",
+  "vendor": "Arturia"
+}

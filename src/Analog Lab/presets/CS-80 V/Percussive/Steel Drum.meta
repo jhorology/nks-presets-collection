@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Steel Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9fa8b439-cd7e-49b7-bb8a-00484e12f6d1",
+  "vendor": "Arturia"
+}

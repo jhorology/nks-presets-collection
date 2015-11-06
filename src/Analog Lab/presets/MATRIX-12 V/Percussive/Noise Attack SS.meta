@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Noise Attack SS",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e8425165-a8c9-40d9-b751-0b169c8fb723",
+  "vendor": "Arturia"
+}

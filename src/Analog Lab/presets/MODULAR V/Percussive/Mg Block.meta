@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Ambient"],
+  "name": "Mg Block",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5da9a142-0947-4ffc-8d5c-e50e35dfb683",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Church Floor",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1edf5665-9c68-4696-9a01-e76492b5a8ea",
+  "vendor": "Arturia"
+}

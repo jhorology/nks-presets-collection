@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Interval Switch",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "95919b90-6408-4ec1-82a6-2fa03d4399a8",
+  "vendor": "Arturia"
+}

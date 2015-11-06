@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Laser Background",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "97eed19b-5bcf-4a84-ab78-149c4c268298",
+  "vendor": "Arturia"
+}

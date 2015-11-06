@@ -1,0 +1,13 @@
+{
+  "author": "Original JP-8V Presets",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short", "Bizarre"],
+  "name": "16 Fact",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fcac91d2-75fc-4105-993e-19af4bd7bb78",
+  "vendor": "Arturia"
+}

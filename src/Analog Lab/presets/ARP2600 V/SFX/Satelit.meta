@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Satelit",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f2fca9e5-59d9-4db6-af48-b9a3d782d5cf",
+  "vendor": "Arturia"
+}

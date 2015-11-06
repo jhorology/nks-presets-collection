@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Flieger LT",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "69d86c55-8541-4033-bf3c-3888acaee7b5",
+  "vendor": "Arturia"
+}

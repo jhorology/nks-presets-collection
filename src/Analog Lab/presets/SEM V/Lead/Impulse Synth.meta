@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Impulse Synth",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "97caab60-ea22-42ab-8393-d965a84f83df",
+  "vendor": "Arturia"
+}

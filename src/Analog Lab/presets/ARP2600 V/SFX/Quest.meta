@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Quest",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "dacc7d34-6870-4611-8779-7c3bf73de235",
+  "vendor": "Arturia"
+}

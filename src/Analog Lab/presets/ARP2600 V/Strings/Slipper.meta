@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Slipper",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a323a997-aa3a-47b0-8301-1fe88f571ace",
+  "vendor": "Arturia"
+}

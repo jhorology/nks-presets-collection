@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Heavy Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4534838e-6e7d-443b-804d-5ddff51fe8b4",
+  "vendor": "Arturia"
+}

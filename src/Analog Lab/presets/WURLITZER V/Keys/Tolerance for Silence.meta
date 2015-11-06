@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Ambient", "Noise", "Soundtrack"],
+  "name": "Tolerance for Silence",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "89ee75cc-b8fe-4541-9434-c2e3405e8c1b",
+  "vendor": "Arturia"
+}

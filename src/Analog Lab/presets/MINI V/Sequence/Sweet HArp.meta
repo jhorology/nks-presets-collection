@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Sweet HArp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9814ce1c-0f66-4cfc-94a6-c2ba5d439863",
+  "vendor": "Arturia"
+}

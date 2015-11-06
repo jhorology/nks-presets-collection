@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Bizarre"],
+  "name": "Unison02",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "61a68889-6cf3-4689-bf39-ae8aa0ceb6ac",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "El Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f252ff7a-ceea-464e-9d2e-4924264e1329",
+  "vendor": "Arturia"
+}

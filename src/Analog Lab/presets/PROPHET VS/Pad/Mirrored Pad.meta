@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient", "Digital"],
+  "name": "Mirrored Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "80c283ca-0221-4cf5-86c2-bf3587808be7",
+  "vendor": "Arturia"
+}

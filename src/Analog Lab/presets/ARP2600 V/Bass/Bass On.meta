@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Funky"],
+  "name": "Bass On",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c0be0017-88c2-49cb-ac68-138c7f58c097",
+  "vendor": "Arturia"
+}

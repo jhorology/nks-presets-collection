@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Monkeys",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "faffd8cc-d4ac-4efa-ba9f-d46060e931a0",
+  "vendor": "Arturia"
+}

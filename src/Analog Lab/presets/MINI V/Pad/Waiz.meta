@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Waiz",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "77848d77-c1d4-42b0-8e38-947d8a577886",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Soft", "Ambient", "Soundtrack"],
+  "name": "6am Wind Chimes PS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "da084ea8-98bf-4075-8566-fda375e2abfb",
+  "vendor": "Arturia"
+}

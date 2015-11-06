@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Fuzzy Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9124c9c7-f685-4162-8e1c-e3e289de99d0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Africa",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ab201d9f-48c6-4096-ba65-d4954cc45972",
+  "vendor": "Arturia"
+}

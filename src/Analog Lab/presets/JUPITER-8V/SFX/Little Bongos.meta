@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Digital"],
+  "name": "Little Bongos",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3d63b6d7-9388-4e1e-bc20-184f98d4fb35",
+  "vendor": "Arturia"
+}

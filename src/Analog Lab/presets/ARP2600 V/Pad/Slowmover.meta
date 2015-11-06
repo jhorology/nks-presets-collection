@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Slowmover",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "70fbf0d2-6b0a-472e-9729-4e06af45957a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Midi Buzz Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2496df8e-dd5c-4834-9232-7bc5decd7a0c",
+  "vendor": "Arturia"
+}

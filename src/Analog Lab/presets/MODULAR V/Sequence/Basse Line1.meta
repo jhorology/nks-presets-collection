@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Basse Line1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "deca24a7-4be9-4578-a915-f12e1603c5b8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Gentlement",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "269b9451-0e34-4a5b-b041-c556347a4c07",
+  "vendor": "Arturia"
+}

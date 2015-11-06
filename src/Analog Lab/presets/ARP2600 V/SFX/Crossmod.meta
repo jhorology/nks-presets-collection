@@ -1,0 +1,13 @@
+{
+  "author": "Roger_Lyons",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Crossmod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4eff349e-2f83-4d63-8d4d-8446bef77f18",
+  "vendor": "Arturia"
+}

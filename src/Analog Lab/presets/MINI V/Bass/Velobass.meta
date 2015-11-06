@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Velobass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "70caf7a7-3e98-4e83-b486-150f30f76c0a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid", "Funky"],
+  "name": "Veloscillator",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3de68fe9-14b8-42aa-90c6-654e980eb391",
+  "vendor": "Arturia"
+}

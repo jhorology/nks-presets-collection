@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Wallns Perc03",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c1251e56-c117-4374-ba93-6e989c321a80",
+  "vendor": "Arturia"
+}

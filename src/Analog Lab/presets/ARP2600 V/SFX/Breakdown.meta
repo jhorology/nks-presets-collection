@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Noise"],
+  "name": "Breakdown",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "62b16845-25e7-44fb-9ea4-501f50e12e78",
+  "vendor": "Arturia"
+}

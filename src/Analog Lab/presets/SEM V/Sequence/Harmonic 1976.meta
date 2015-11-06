@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Harmonic 1976",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3a2632f5-c02b-4880-b617-4d62fcc84e1e",
+  "vendor": "Arturia"
+}

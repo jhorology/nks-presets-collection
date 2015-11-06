@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Roadsy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2fbefd91-3378-4274-ae34-27165bd570c1",
+  "vendor": "Arturia"
+}

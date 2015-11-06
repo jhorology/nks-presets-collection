@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Modular Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c5ab9cc1-1b61-43bf-a6f6-63ff11e736eb",
+  "vendor": "Arturia"
+}

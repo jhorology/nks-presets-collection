@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long"],
+  "name": "Pulse Saw",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ded91aa5-f62f-4a72-b3ad-75c5976adf6e",
+  "vendor": "Arturia"
+}

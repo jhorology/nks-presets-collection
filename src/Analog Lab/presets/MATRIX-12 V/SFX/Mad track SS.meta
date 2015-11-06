@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Mad track SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "322bd39e-8227-4de4-88a1-8ad36ea9cf50",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Motion P",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a74e08ad-5f79-4498-86c5-0d4cd29f2167",
+  "vendor": "Arturia"
+}

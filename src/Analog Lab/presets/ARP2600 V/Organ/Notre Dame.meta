@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Notre Dame",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "423c22ff-640b-4f54-92db-a84087600276",
+  "vendor": "Arturia"
+}

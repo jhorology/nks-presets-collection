@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Franged HH",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "944e8dcf-6adc-4d45-9d99-a929ac787625",
+  "vendor": "Arturia"
+}

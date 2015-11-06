@@ -1,0 +1,13 @@
+{
+  "author": "CDJ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Gashouder",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fc305c4b-4284-4d35-aac2-1858ed541735",
+  "vendor": "Arturia"
+}

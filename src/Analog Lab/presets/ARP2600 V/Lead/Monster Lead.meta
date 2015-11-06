@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Monster Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9f9210aa-6663-42b3-af90-c1ada73df2da",
+  "vendor": "Arturia"
+}

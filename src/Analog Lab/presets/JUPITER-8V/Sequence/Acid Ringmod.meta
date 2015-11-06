@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Bizarre"],
+  "name": "Acid Ringmod",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "59d01042-ab64-4cc0-b6c9-afbf43359408",
+  "vendor": "Arturia"
+}

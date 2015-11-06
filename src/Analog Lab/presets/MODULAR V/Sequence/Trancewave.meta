@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Trancewave",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e4855e70-96f4-4d1f-b0c3-b68fb5ab88d9",
+  "vendor": "Arturia"
+}

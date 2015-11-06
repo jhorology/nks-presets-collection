@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Wally",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6c4f6153-1d12-4b75-88f1-5ac28b760899",
+  "vendor": "Arturia"
+}

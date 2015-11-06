@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Noise"],
+  "name": "Repeat Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c72c18db-7180-4ce9-9c57-93ed07344b70",
+  "vendor": "Arturia"
+}

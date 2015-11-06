@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Short", "Ambient"],
+  "name": "Arpeggioso",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0e52d8af-bc4b-458c-935b-7ee5efe61365",
+  "vendor": "Arturia"
+}

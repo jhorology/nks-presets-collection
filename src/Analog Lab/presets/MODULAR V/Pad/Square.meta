@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Square",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2d1867f8-c46f-448f-a723-45fceb7a6eec",
+  "vendor": "Arturia"
+}

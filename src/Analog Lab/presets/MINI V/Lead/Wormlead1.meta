@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Wormlead1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d3fd3478-0122-4fc8-b14f-c1cf1bd446c8",
+  "vendor": "Arturia"
+}

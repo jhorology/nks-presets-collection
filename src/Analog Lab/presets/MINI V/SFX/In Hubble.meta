@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "In Hubble",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "df8d7de3-9659-4ee9-8bc3-40b40bc5031b",
+  "vendor": "Arturia"
+}

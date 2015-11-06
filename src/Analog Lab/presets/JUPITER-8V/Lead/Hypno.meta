@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Digital"],
+  "name": "Hypno",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "19a0d78b-a43b-4513-ac5b-1a1267385b69",
+  "vendor": "Arturia"
+}

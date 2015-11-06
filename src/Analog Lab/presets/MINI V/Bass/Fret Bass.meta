@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Fret Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c0029d84-759d-4b78-9274-30680ff3f188",
+  "vendor": "Arturia"
+}

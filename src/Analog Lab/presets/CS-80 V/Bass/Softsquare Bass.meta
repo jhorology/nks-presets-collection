@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Softsquare Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "47db344c-1c40-431f-a945-4f5a0c6998e8",
+  "vendor": "Arturia"
+}

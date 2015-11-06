@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Amp String",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "2f17ed10-866c-4677-9ca5-5b14b9ef0c2e",
+  "vendor": "Arturia"
+}

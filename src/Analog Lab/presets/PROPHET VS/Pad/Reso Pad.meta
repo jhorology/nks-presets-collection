@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital"],
+  "name": "Reso Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "60951cbc-b7ee-4a30-a783-87803f5b1b03",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short", "Funky"],
+  "name": "Low Freg",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1af9ee5b-5a78-49ac-a151-75f13c5f05a1",
+  "vendor": "Arturia"
+}

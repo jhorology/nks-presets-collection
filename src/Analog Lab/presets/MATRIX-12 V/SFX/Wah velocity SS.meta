@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Wah velocity SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "db68a7af-85b1-4154-9719-5e8727b6257c",
+  "vendor": "Arturia"
+}

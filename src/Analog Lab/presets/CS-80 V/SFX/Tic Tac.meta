@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Tic Tac",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a18ab3b2-4344-4357-bfe7-ff730dfb8d69",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Siguq SS",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "fc5aa8d8-35d1-47e2-ac61-2655bf2ca492",
+  "vendor": "Arturia"
+}

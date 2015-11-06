@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Long", "Ambient"],
+  "name": "Roti Flute",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ab559f8e-ddeb-44dc-98ee-357351c34600",
+  "vendor": "Arturia"
+}

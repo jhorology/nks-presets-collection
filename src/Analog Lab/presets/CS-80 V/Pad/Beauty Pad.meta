@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Beauty Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fe5bd5a6-30bd-4f5c-8519-251fbe2f88e8",
+  "vendor": "Arturia"
+}

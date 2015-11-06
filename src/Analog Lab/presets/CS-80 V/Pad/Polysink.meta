@@ -1,0 +1,13 @@
+{
+  "author": "Howard_Scarr",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Polysink",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bc6010a5-368f-4e8d-b0bc-e52acf9bbfd2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Reso Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fe8125d1-c8fc-4cf4-856d-8c923ac1738b",
+  "vendor": "Arturia"
+}

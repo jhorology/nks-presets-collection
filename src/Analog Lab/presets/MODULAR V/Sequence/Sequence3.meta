@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sequence3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e3f6a5e6-d2b4-42fb-bd6a-045b38d8b822",
+  "vendor": "Arturia"
+}

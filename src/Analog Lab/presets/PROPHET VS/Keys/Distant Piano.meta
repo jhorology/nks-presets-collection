@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Distant Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2e7c240f-1fe8-4cc8-a264-ae924fc2fb47",
+  "vendor": "Arturia"
+}

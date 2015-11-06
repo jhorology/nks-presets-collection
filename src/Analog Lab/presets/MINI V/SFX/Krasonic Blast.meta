@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient", "Noise"],
+  "name": "Krasonic Blast",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c55a9c51-8312-4a7f-a739-a04b15b5ac72",
+  "vendor": "Arturia"
+}

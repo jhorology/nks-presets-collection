@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "Chrome Bone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cd713e75-31fc-4668-928b-bf91473fdec8",
+  "vendor": "Arturia"
+}

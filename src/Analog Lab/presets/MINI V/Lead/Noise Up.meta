@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Noise Up",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fdc51610-1f37-49b2-aca5-002692d500c8",
+  "vendor": "Arturia"
+}

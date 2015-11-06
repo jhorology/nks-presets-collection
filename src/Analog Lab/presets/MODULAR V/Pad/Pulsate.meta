@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Pulsate",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fb1952e5-00ac-4a86-96ba-5f9f4a35fd0b",
+  "vendor": "Arturia"
+}

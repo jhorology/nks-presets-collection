@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long", "Ambient"],
+  "name": "Full Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7e2981ce-d395-43e4-afb5-446ba22b2f39",
+  "vendor": "Arturia"
+}

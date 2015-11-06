@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Simple"],
+  "name": "Ambient Sine Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "81d59fae-155f-4707-9274-0e4825079b70",
+  "vendor": "Arturia"
+}

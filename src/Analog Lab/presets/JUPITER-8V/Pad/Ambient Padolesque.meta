@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Complex", "Bizarre"],
+  "name": "Ambient Padolesque",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "99e19f66-5a07-4101-a25a-6de52467df93",
+  "vendor": "Arturia"
+}

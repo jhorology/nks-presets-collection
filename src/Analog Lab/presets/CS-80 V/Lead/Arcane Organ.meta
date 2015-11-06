@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Arcane Organ",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e8c317e3-4d5d-4d80-996e-b80a14f3cfb9",
+  "vendor": "Arturia"
+}

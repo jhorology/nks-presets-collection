@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "HPF Sine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c2762814-1662-463c-9c75-c665f0abd3fd",
+  "vendor": "Arturia"
+}

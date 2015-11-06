@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Cyb Belly",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "086eee09-246d-40c3-b5e5-7856077966c0",
+  "vendor": "Arturia"
+}

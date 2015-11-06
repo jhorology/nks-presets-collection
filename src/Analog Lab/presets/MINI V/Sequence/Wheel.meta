@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Wheel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fc3909d9-6c4e-43f9-ab68-6f5dd8435701",
+  "vendor": "Arturia"
+}

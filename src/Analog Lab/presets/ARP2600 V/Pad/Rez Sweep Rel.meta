@@ -1,0 +1,13 @@
+{
+  "author": "k.Lamb_Neptunes",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Rez Sweep Rel",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4bbefeb7-2c15-4d79-9589-caf8b9971c87",
+  "vendor": "Arturia"
+}

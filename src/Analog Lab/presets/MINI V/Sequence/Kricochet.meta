@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Simple"],
+  "name": "Kricochet",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b758f1a4-918e-489f-a006-8087ca5f1f9d",
+  "vendor": "Arturia"
+}

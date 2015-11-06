@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brite Syn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5b0fcb59-2058-4cf6-bbea-51e51860d364",
+  "vendor": "Arturia"
+}

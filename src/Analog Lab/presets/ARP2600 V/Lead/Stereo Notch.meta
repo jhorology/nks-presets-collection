@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Stereo Notch",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6bcf9ab1-5468-4b0c-a552-b4e9d9c7ad45",
+  "vendor": "Arturia"
+}

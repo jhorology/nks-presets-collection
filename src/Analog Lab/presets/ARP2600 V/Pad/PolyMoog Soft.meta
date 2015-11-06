@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "PolyMoog Soft",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4370aabb-22d2-408e-bc76-75c12cf1eeec",
+  "vendor": "Arturia"
+}

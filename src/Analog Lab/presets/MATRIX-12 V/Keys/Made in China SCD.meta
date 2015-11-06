@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Short", "Funky"],
+  "name": "Made in China SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c08e5edf-ec8a-46ba-9dc6-1adde2cf3244",
+  "vendor": "Arturia"
+}

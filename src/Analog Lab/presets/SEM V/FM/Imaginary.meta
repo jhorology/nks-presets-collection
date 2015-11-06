@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Imaginary",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f4391100-38e6-476d-8645-b60d32389cf5",
+  "vendor": "Arturia"
+}

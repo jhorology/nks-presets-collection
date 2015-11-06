@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre", "Noise"],
+  "name": "Klasertom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ab3ff399-fdba-4c23-ba2c-a33973c6cb77",
+  "vendor": "Arturia"
+}

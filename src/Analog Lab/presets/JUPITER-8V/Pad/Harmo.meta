@@ -1,0 +1,13 @@
+{
+  "author": "Acc-Jupiter8V",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Harmo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bdb1c4c9-f081-4bed-a0ae-85923a072a3e",
+  "vendor": "Arturia"
+}

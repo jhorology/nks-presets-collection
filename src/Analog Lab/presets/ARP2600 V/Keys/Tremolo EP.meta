@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Tremolo EP",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6d81ae1f-3201-422a-980e-ebc2bd3e2e98",
+  "vendor": "Arturia"
+}

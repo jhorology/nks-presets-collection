@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Simple"],
+  "name": "Sawrang",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3074075f-d911-45e5-9d4a-fc141730e15f",
+  "vendor": "Arturia"
+}

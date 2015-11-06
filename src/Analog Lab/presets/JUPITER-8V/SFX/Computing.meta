@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Complex"],
+  "name": "Computing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1301815a-f80c-4fdf-b2c4-cd3345f9764b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bend Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7246e481-0d5b-4c4c-bb99-b9d5439cac3b",
+  "vendor": "Arturia"
+}

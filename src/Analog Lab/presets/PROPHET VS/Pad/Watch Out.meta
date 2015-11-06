@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Digital"],
+  "name": "Watch Out",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "43668678-267d-47ff-9494-3d1112837c62",
+  "vendor": "Arturia"
+}

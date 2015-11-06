@@ -1,0 +1,13 @@
+{
+  "author": "Meli Anthos",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Laser MA",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b984bbf9-88af-43bd-8e9d-5b1374ee1476",
+  "vendor": "Arturia"
+}

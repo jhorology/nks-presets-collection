@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bird Land",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a9ad061c-0902-49b2-8602-e2a899e50a8b",
+  "vendor": "Arturia"
+}

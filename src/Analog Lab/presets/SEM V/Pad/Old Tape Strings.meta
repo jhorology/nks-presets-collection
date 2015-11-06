@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Ambient", "Ensemble"],
+  "name": "Old Tape Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "61c51f23-3367-430e-8053-8d531c7b4b59",
+  "vendor": "Arturia"
+}

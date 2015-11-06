@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lift Off",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f0f09bbf-aab7-4fe0-93df-d98ed0f7805a",
+  "vendor": "Arturia"
+}

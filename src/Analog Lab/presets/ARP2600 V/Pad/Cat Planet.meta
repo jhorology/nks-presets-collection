@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Cat Planet",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e6f4a318-e8b7-4b11-aec7-ae2328d633c0",
+  "vendor": "Arturia"
+}

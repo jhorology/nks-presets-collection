@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Attack Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d30fbe54-fdc5-4c89-9ad2-c691791c22f5",
+  "vendor": "Arturia"
+}

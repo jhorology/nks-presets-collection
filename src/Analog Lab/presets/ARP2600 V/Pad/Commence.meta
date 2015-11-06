@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Soundtrack"],
+  "name": "Commence",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b26403c7-e2c5-4b6a-94af-d44a310d31c4",
+  "vendor": "Arturia"
+}

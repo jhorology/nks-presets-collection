@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Soundtrack"],
+  "name": "Whole Tone Space",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dae27bed-0b15-4dd0-b504-e6ea1f4eebfb",
+  "vendor": "Arturia"
+}

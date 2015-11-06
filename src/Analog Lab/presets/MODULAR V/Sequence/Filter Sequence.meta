@@ -1,0 +1,13 @@
+{
+  "author": "Tomeso",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Filter Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "737c92df-f0d9-4914-8b66-0f4dc6ade096",
+  "vendor": "Arturia"
+}

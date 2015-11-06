@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Santoor",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d8746fa2-43a9-46b8-a0ab-16e2645edca3",
+  "vendor": "Arturia"
+}

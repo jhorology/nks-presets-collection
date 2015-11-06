@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient", "Ensemble"],
+  "name": "Pad Blues",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "320c5d02-a8aa-4ded-a85c-41163e29c66c",
+  "vendor": "Arturia"
+}

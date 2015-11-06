@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Short", "Funky"],
+  "name": "Mono Seq SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "35c21dd4-901e-4109-a41c-24b1e88ec3bf",
+  "vendor": "Arturia"
+}

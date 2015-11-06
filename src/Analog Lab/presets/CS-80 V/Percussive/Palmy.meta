@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Palmy",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f44beb98-7c52-430f-8f8f-c14f1512001d",
+  "vendor": "Arturia"
+}

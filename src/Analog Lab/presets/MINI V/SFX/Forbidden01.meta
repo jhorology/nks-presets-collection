@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Forbidden01",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cbc268c7-74b1-4619-ba5e-492a505ba45d",
+  "vendor": "Arturia"
+}

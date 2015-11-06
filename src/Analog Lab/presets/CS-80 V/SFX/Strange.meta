@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Strange",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "45e8ec97-6873-42fe-8d44-f221147f6525",
+  "vendor": "Arturia"
+}

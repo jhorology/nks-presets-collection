@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Digital"],
+  "name": "Celmo Bass04",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2bd88f8e-75a2-4669-80c3-10d1d9393d28",
+  "vendor": "Arturia"
+}

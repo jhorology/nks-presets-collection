@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Something Wicked",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "dee78938-c45a-4524-9ed8-143a8f749a2a",
+  "vendor": "Arturia"
+}

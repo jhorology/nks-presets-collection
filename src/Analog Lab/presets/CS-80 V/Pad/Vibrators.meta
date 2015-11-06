@@ -1,0 +1,13 @@
+{
+  "author": "Llorcarturia",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Vibrators",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "55b4083f-3278-4024-97ad-6e17c52e18c0",
+  "vendor": "Arturia"
+}

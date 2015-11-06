@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Glider",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "902e6f0a-66e7-46c9-801c-eacc697c0b61",
+  "vendor": "Arturia"
+}

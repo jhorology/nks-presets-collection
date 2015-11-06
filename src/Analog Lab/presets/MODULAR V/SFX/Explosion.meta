@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Explosion",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a586e28c-0277-46b2-bc29-c132bcf24917",
+  "vendor": "Arturia"
+}

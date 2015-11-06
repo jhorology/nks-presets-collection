@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "String Machine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "45d4e71d-fc43-4d88-8e0a-6fff0b95be9b",
+  "vendor": "Arturia"
+}

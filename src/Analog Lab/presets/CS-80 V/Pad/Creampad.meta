@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Creampad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3453ce38-4837-41ce-99d0-a8c5283b6dc1",
+  "vendor": "Arturia"
+}

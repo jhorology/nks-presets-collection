@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Hard Stabs",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6510f12a-9ff8-43f0-9182-8a13433076da",
+  "vendor": "Arturia"
+}

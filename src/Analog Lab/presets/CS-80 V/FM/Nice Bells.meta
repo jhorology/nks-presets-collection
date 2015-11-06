@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Nice Bells",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "b12b1602-3503-4823-84ae-2af361cce36c",
+  "vendor": "Arturia"
+}

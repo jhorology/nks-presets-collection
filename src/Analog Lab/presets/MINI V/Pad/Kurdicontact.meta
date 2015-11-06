@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Noise"],
+  "name": "Kurdicontact",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5c32b0e3-f199-4a23-b054-ba444d6d8a94",
+  "vendor": "Arturia"
+}

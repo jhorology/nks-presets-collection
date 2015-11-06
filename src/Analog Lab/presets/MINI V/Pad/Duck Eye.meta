@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Duck Eye",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "054de1cd-bf17-4c21-88c5-b35b5dde562e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Syncro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cbdd1f4a-cf83-4879-8e63-2da192398014",
+  "vendor": "Arturia"
+}

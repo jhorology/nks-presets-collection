@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Slow Pulsations",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ee14aa0a-553c-438f-84b6-d000e85ca354",
+  "vendor": "Arturia"
+}

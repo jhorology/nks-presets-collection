@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Bp Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1b9a0e03-91fe-4d53-b64b-1415550a0e4a",
+  "vendor": "Arturia"
+}

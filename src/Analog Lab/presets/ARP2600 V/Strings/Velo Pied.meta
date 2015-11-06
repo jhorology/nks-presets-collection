@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Velo Pied",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "342b74c3-7a7e-4d5f-b2a5-f4d258b1c8cd",
+  "vendor": "Arturia"
+}

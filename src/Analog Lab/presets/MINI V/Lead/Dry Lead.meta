@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Dry Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6d43e426-fb18-4e80-bdc8-12baf00187d3",
+  "vendor": "Arturia"
+}

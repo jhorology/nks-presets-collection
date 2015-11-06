@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Cool Bell",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "0ec3f81f-e984-487b-bd9b-a791ef49cf12",
+  "vendor": "Arturia"
+}

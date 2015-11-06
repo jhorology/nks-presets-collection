@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Machine Saw Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6ae7f522-c371-4a2d-8a04-552c79112917",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Touch Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "05a7997e-4e39-4d59-ad83-72fae0d9398f",
+  "vendor": "Arturia"
+}

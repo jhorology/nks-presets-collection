@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Synep",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "590a1866-119a-456b-8433-37658de16bca",
+  "vendor": "Arturia"
+}

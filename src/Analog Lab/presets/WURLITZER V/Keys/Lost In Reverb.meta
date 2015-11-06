@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Ambient", "Digital"],
+  "name": "Lost In Reverb",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d8cd2b2b-4885-442f-9aee-a2b4fb0b6d92",
+  "vendor": "Arturia"
+}

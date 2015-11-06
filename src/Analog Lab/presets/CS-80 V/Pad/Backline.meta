@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Backline",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8a52ff14-cef0-408d-ad6d-05005e53e9ab",
+  "vendor": "Arturia"
+}

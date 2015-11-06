@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre", "Ambient", "Soundtrack"],
+  "name": "SFZ Matrixer EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "30ddf6f1-6b31-45d6-ae1b-b6f86a673bd2",
+  "vendor": "Arturia"
+}

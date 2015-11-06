@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid", "Funky"],
+  "name": "Laser Space",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0d10679b-296a-4b3c-8095-75bfcb711039",
+  "vendor": "Arturia"
+}

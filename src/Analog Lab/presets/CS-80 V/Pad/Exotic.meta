@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Exotic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5cbf156e-9bf0-4fa7-a969-0c53334d82e7",
+  "vendor": "Arturia"
+}

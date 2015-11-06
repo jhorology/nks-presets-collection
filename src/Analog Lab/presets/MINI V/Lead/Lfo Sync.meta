@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid"],
+  "name": "Lfo Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5fb60163-dbd0-4afb-9339-4d94ca3fcb20",
+  "vendor": "Arturia"
+}

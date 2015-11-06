@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Not Good Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "54ed199a-0e78-4374-bb71-e88758e2d51b",
+  "vendor": "Arturia"
+}

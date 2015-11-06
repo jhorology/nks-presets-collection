@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ensemble"],
+  "name": "Rising Sun",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a52440c6-70e8-414d-916f-0bc0ae953931",
+  "vendor": "Arturia"
+}

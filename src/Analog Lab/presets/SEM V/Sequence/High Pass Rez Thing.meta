@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "High Pass Rez Thing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "54206623-64cc-4ade-b9e2-032c19593a8a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Seq Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4414ccfa-c575-445f-b5e6-e79f54ac1922",
+  "vendor": "Arturia"
+}

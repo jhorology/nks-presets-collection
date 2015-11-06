@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Night Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "55f7427e-7dd4-4e46-a88f-06e363797b34",
+  "vendor": "Arturia"
+}

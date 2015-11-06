@@ -1,0 +1,13 @@
+{
+  "author": "CDJ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short", "Digital"],
+  "name": "U Know 106",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d58fbc60-5b16-4902-85c3-ea47949c1dc5",
+  "vendor": "Arturia"
+}

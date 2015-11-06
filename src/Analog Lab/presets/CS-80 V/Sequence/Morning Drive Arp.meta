@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Morning Drive Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ad4b2d72-bcdf-4281-b1c5-43af210649af",
+  "vendor": "Arturia"
+}

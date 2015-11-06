@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soundtrack"],
+  "name": "Tubulurelead",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f8840764-173b-460d-b5c6-d86e438d11cb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Bizarre"],
+  "name": "Big Saw",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e527fe6c-2b12-4a28-b0b5-51a13d523f69",
+  "vendor": "Arturia"
+}

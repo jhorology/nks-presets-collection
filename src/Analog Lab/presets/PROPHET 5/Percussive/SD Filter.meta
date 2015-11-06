@@ -1,0 +1,13 @@
+{
+  "author": "SF_Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "SD Filter",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1398ebbc-adc9-49e5-ae76-080b4e0f42bd",
+  "vendor": "Arturia"
+}

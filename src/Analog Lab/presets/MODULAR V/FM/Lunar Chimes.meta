@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Lunar Chimes",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f5cec79f-cb43-400f-b63b-f2d1d3d1f482",
+  "vendor": "Arturia"
+}

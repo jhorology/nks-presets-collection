@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Organish",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "53c7d34c-b7a5-4790-866e-78ff2c2fdaea",
+  "vendor": "Arturia"
+}

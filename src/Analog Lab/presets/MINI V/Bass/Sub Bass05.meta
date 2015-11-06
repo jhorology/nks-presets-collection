@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Sub Bass05",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fc7f9a85-c7ad-4307-8a64-8c00523b15ad",
+  "vendor": "Arturia"
+}

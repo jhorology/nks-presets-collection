@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft"],
+  "name": "Square Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4c6fce30-aeda-4351-88af-52e49f2c75ca",
+  "vendor": "Arturia"
+}

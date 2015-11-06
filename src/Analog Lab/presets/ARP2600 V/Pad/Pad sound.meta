@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Pad sound",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4b964716-5beb-480a-977f-c5ffb980ac13",
+  "vendor": "Arturia"
+}

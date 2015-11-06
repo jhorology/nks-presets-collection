@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Droop Default",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e904720a-6bca-4f45-8b2a-e0f42eb33a34",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Bendy Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b5f9cbb8-3929-43e7-b437-9797082855bf",
+  "vendor": "Arturia"
+}

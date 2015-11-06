@@ -1,0 +1,13 @@
+{
+  "author": "m83",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Delta",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "49ef3c25-909a-46be-bb3b-98dfc3c43f87",
+  "vendor": "Arturia"
+}

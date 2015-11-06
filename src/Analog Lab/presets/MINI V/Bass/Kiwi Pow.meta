@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Short"],
+  "name": "Kiwi Pow",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "258fd9e9-8d14-433a-af5c-ee9b736a1f51",
+  "vendor": "Arturia"
+}

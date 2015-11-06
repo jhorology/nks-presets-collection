@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Long"],
+  "name": "Roving",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "03420695-a288-46f1-980e-426f02c2625a",
+  "vendor": "Arturia"
+}

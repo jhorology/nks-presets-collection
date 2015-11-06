@@ -1,0 +1,13 @@
+{
+  "author": "Brendan Perry",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Bright Savoy",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "731f5862-6c1d-46a7-911f-58f0f29fc794",
+  "vendor": "Arturia"
+}

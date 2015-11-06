@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Propera Head",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0809516a-4a73-4ac1-a9ad-f9feb289498f",
+  "vendor": "Arturia"
+}

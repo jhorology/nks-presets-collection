@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Sync Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b3ececb7-419d-4b6b-a0ff-910788b08d76",
+  "vendor": "Arturia"
+}

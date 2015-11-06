@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Chagall",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "27d541a3-fbe1-4fb1-8344-eaea101a7e34",
+  "vendor": "Arturia"
+}

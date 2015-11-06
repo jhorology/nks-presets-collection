@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre"],
+  "name": "Fx Sound",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c2460ecc-0281-4ac5-b4b5-08402c89c68e",
+  "vendor": "Arturia"
+}

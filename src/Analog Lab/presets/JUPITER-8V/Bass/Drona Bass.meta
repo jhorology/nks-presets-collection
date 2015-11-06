@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Ambient"],
+  "name": "Drona Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ec787678-fa23-4b44-90dc-563b7f207c93",
+  "vendor": "Arturia"
+}

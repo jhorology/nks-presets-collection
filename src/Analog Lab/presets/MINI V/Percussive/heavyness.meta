@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "heavyness",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "42cffb4c-c000-4308-ab9f-09d661946881",
+  "vendor": "Arturia"
+}

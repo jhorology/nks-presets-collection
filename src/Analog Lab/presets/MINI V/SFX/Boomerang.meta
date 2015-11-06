@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Boomerang",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "33f27491-14fa-4302-bf49-fb18766b0645",
+  "vendor": "Arturia"
+}

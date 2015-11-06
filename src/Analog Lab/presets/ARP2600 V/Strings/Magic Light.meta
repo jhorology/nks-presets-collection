@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Magic Light",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3d4d5786-3300-448d-860b-8287a9c725bc",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "T.odanaka",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Stilly",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3b0b2c73-0a5e-4948-86cd-7c1d38792b8f",
+  "vendor": "Arturia"
+}

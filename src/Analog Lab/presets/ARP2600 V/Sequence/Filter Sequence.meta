@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Filter Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ab25671f-ac89-4b7d-a435-4597c1ee2629",
+  "vendor": "Arturia"
+}

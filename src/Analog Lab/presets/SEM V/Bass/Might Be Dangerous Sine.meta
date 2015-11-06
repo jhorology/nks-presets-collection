@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Might Be Dangerous Sine",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "708fc57f-eeb6-4a1e-8eeb-82b1e1d99e65",
+  "vendor": "Arturia"
+}

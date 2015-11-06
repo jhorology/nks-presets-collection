@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Velo Filter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6148379b-39f0-4510-9c56-a1c680342959",
+  "vendor": "Arturia"
+}

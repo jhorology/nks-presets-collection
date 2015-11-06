@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre", "Ambient"],
+  "name": "Music Box ",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4aa022d2-47b7-432f-b4d4-e0a5df41b039",
+  "vendor": "Arturia"
+}

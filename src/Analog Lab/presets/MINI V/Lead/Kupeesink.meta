@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital", "Funky"],
+  "name": "Kupeesink",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "30693f41-ec89-483d-9b62-419262f1e299",
+  "vendor": "Arturia"
+}

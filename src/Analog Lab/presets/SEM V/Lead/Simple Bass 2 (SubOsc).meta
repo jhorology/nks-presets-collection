@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short", "Acid"],
+  "name": "Simple Bass 2 (SubOsc)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6c4d77e7-aa24-4826-bf9e-c679ff19f7d5",
+  "vendor": "Arturia"
+}

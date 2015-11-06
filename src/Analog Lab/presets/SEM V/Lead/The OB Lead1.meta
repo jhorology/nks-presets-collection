@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "The OB Lead1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3df3829b-c9ce-48ed-80a8-50eb8afb4a70",
+  "vendor": "Arturia"
+}

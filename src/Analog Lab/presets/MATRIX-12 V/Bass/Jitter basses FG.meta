@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Jitter basses FG",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ad847145-5e48-4e2e-a65e-049ba10ad849",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Sweet Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e26454e2-26c7-4304-b118-75ebaf10aebc",
+  "vendor": "Arturia"
+}

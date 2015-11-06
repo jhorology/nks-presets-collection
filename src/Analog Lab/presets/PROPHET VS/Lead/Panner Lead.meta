@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient", "Digital"],
+  "name": "Panner Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "36a22df8-0a19-4da4-bbc2-aefe701af9f7",
+  "vendor": "Arturia"
+}

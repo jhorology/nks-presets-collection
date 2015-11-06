@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Split Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dc65b60a-d753-46b2-bc75-04727f560e09",
+  "vendor": "Arturia"
+}

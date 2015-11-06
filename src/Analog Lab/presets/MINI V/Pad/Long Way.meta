@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Long Way",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dc6ba338-5b6e-483d-b00f-78ee9c5f396b",
+  "vendor": "Arturia"
+}

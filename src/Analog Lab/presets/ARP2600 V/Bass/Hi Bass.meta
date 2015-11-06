@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Hi Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "86e97bed-4fc3-4e82-9f31-e5d00a7b0b41",
+  "vendor": "Arturia"
+}

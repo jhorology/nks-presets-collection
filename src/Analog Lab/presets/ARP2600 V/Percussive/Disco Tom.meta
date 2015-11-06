@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Disco Tom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e41efba7-aa28-48af-aee2-cc681f2a8040",
+  "vendor": "Arturia"
+}

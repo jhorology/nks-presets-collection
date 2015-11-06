@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Bizarre"],
+  "name": "Elektro Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "00476989-85b6-4b2e-9f89-6a387cbb4cf6",
+  "vendor": "Arturia"
+}

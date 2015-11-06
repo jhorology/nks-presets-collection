@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Saw You",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4c3471db-1903-4d98-a51c-68da7c749816",
+  "vendor": "Arturia"
+}

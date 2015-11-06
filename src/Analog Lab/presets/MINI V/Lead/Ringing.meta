@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Ringing",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3e9d5c07-8b22-47e0-a0ca-d44a58052bce",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Electr Guitar",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "29edaff9-6940-49ba-89eb-6f27bc7043f0",
+  "vendor": "Arturia"
+}

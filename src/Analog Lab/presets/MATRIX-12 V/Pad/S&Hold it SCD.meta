@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Bizarre", "Ambient", "Digital", "Soundtrack"],
+  "name": "S&Hold it SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "092d99fa-5e25-4784-8301-23cfe6e9915a",
+  "vendor": "Arturia"
+}

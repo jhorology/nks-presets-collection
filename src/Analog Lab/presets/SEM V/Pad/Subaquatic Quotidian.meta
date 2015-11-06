@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Subaquatic Quotidian",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eebf9ad7-76e2-4ef5-b60e-8098ff7e852f",
+  "vendor": "Arturia"
+}

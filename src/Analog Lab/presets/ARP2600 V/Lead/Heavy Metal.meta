@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Heavy Metal",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "da105633-dbc4-44e5-a154-2a16a20e9008",
+  "vendor": "Arturia"
+}

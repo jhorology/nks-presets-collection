@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple", "Funky"],
+  "name": "Midi Vector Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3f3f5782-1686-45b8-bce9-6484cc3858c3",
+  "vendor": "Arturia"
+}

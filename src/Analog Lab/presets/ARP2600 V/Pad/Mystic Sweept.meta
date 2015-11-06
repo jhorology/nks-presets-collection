@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mystic Sweept",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "493d6361-5c55-4ded-8660-0df409d20fb4",
+  "vendor": "Arturia"
+}

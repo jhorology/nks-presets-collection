@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient", "Ensemble", "Noise"],
+  "name": "Aeroplane",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "ccc380a6-b021-451f-8466-2a8140ca2d0a",
+  "vendor": "Arturia"
+}

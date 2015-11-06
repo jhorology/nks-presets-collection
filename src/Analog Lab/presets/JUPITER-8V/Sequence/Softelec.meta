@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Long"],
+  "name": "Softelec",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0f7c74bc-f540-4015-b81d-00fd4cef6c1a",
+  "vendor": "Arturia"
+}

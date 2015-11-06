@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Digital"],
+  "name": "Arpesque",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ec333e67-99e8-434b-adfc-5223647de454",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "East Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "0166a003-636b-44c1-861f-315a710109db",
+  "vendor": "Arturia"
+}

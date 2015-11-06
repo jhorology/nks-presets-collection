@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Tranceprog SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b4e58bc3-170f-480f-bc91-c73ae4e4f236",
+  "vendor": "Arturia"
+}

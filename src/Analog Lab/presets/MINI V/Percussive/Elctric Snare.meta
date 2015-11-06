@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Elctric Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fdcdbe70-f46d-413b-972b-56cc8a632a44",
+  "vendor": "Arturia"
+}

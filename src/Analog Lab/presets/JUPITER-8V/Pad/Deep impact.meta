@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Ambient"],
+  "name": "Deep impact",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1474ca69-ab38-4d0d-807a-9a992b413c25",
+  "vendor": "Arturia"
+}

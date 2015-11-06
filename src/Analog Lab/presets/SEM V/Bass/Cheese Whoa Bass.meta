@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Cheese Whoa Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ee33e6f2-16ad-461b-bda3-6c81251da9db",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid"],
+  "name": "Velo Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c7ec565c-655c-45d3-b788-cb9baed25742",
+  "vendor": "Arturia"
+}

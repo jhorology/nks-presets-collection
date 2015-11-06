@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ensemble"],
+  "name": "Sweep02",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a2c70e5b-1cce-4297-b59d-fba927687240",
+  "vendor": "Arturia"
+}

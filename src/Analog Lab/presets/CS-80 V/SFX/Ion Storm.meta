@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Ion Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3c87e9d4-bfa6-43b5-a4d4-cdb9c7de3b0c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Slow Build",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4232e431-c892-40c9-b970-a9fbd63b29c7",
+  "vendor": "Arturia"
+}

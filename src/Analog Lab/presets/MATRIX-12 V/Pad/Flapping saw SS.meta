@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Flapping saw SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d16c0785-5caa-4ba5-899d-304672aa7bc9",
+  "vendor": "Arturia"
+}

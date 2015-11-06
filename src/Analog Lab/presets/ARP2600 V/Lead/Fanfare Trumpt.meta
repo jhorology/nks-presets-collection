@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Fanfare Trumpt",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "be8b0edf-c100-45ed-8c4e-9c9d98b9e204",
+  "vendor": "Arturia"
+}

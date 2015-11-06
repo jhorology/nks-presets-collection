@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre"],
+  "name": "Funky Trip",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "942a9eaa-fb36-4a80-9408-9d43b9defef9",
+  "vendor": "Arturia"
+}

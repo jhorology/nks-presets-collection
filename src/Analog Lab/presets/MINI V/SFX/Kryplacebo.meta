@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid", "Noise"],
+  "name": "Kryplacebo",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a6cf4a12-80a4-423b-8230-e9a387c9a84a",
+  "vendor": "Arturia"
+}

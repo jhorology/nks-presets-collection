@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Ensemble"],
+  "name": "Kulets",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "45fd68b5-91fc-4bd9-9cc0-bf77761f9fb4",
+  "vendor": "Arturia"
+}

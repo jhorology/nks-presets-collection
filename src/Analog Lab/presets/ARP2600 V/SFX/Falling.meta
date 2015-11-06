@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Falling",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3961fe3c-965b-4b8e-898a-099972456d85",
+  "vendor": "Arturia"
+}

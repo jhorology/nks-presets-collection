@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Level Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "81b7636f-240e-43e5-920d-ba5faf86cc39",
+  "vendor": "Arturia"
+}

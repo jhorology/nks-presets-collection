@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Bizarre", "Funky"],
+  "name": "Trigger Sync EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "189d04b4-3482-4126-a4a8-8304014b827d",
+  "vendor": "Arturia"
+}

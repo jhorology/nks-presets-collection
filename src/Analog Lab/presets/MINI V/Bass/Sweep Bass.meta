@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Sweep Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b02d9980-d9fe-426b-b68f-ed1e3c675663",
+  "vendor": "Arturia"
+}

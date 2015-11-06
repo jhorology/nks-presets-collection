@@ -1,0 +1,13 @@
+{
+  "author": "SkyChurch",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Meat Grinder",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fe623eed-5d24-470b-b521-70ac0957fa5f",
+  "vendor": "Arturia"
+}

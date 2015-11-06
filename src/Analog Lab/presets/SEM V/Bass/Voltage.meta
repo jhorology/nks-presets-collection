@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Voltage",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "99fd6206-fcd3-44c7-9e68-8b1f06b669f6",
+  "vendor": "Arturia"
+}

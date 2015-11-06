@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Gentle FM Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "28db2abb-f029-4bdd-8dad-1167d8d2f205",
+  "vendor": "Arturia"
+}

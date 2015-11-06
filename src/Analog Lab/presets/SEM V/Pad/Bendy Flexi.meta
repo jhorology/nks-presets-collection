@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Bendy Flexi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "094d06d4-1dce-42dd-a3fc-53a5593fdffb",
+  "vendor": "Arturia"
+}

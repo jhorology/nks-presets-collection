@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Digital", "Noise"],
+  "name": "09EFX",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4b6f0980-d916-4e9c-a4e6-965a1f871a7d",
+  "vendor": "Arturia"
+}

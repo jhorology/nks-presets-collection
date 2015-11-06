@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Dual Square",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5059c59b-fb23-454a-b54e-e50349c194d4",
+  "vendor": "Arturia"
+}

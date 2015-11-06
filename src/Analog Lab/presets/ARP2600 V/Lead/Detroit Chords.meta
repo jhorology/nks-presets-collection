@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Detroit Chords",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "aaed1166-6865-40a8-861d-8ed21e29c0e6",
+  "vendor": "Arturia"
+}

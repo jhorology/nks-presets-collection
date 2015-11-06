@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Funky"],
+  "name": "Kraft Bass2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e8fcdb10-a588-4e18-9dc7-c7f24a01c68d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Funky"],
+  "name": "Lonely Seq SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c22da0d3-6bab-4e7e-8350-f36c8d4a183e",
+  "vendor": "Arturia"
+}

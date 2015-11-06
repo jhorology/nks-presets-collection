@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Modal",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "68796211-06a9-4c5f-9f55-ea1a82458676",
+  "vendor": "Arturia"
+}

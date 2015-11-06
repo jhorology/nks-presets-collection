@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Melotorn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "b651a8b4-eb34-4df3-a4b0-512bb6cda9ad",
+  "vendor": "Arturia"
+}

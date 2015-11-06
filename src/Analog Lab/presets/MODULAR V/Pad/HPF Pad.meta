@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "HPF Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a7c90b95-9fd1-4de9-a3a9-2366c1968c63",
+  "vendor": "Arturia"
+}

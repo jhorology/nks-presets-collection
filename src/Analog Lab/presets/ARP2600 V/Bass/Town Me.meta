@@ -1,0 +1,13 @@
+{
+  "author": "T.odanaka",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Town Me",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eeab505a-cfe5-4ac2-968e-35d105c3a0d2",
+  "vendor": "Arturia"
+}

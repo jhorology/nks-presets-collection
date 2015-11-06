@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Wet Noise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b354f1f6-24e6-46a4-ae23-a308b1f7aaca",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ensemble"],
+  "name": "Strings Yellow",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d8d60361-70b7-4f6e-9328-d83aa617a8f8",
+  "vendor": "Arturia"
+}

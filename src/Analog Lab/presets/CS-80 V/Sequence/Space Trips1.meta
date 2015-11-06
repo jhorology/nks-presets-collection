@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Space Trips1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ee450c1c-77e6-4b10-af64-defacc2737d2",
+  "vendor": "Arturia"
+}

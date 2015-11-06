@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rhodes Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "72cad355-d494-4f19-9526-632b2701f6c8",
+  "vendor": "Arturia"
+}

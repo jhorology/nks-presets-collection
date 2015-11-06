@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Soundtrack"],
+  "name": "Echo Noise Sync",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3b28e508-d42c-4484-a7e9-e664047584e6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Combo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "34fdd510-c88d-483f-a708-11d3ee701190",
+  "vendor": "Arturia"
+}

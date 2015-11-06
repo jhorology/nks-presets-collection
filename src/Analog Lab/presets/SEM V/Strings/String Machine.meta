@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "String Machine",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a2589911-ad40-497f-b46f-38660a6de6c3",
+  "vendor": "Arturia"
+}

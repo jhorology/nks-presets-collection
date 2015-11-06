@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid"],
+  "name": "Taurus Mod",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fd025dbe-3ff8-47fb-895a-170692b6d4f1",
+  "vendor": "Arturia"
+}

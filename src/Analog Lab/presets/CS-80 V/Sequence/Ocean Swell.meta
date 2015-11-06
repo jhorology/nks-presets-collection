@@ -1,0 +1,13 @@
+{
+  "author": "Howard_Scarr",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Ocean Swell",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ce7eb292-0f4f-4e17-ac52-05b6edc40316",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Timeshifting",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eef2ef95-b9b6-429c-80ea-74ba1384fcc3",
+  "vendor": "Arturia"
+}

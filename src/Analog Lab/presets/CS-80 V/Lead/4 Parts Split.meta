@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "4 Parts Split",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "62f7f53b-9773-4d42-a720-ba67082e8673",
+  "vendor": "Arturia"
+}

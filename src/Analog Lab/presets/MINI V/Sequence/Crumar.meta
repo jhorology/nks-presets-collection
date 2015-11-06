@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Crumar",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "27e8b363-3109-46d7-98db-be307ada20fb",
+  "vendor": "Arturia"
+}

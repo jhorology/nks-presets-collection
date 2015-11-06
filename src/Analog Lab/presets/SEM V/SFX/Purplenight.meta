@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient", "Ensemble", "Noise"],
+  "name": "Purplenight",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4283a33f-c69c-4299-995c-412417bd7e7b",
+  "vendor": "Arturia"
+}

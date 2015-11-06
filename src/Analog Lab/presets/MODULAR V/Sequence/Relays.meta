@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Relays",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5ade3a81-f75b-4f92-a915-9ce090252123",
+  "vendor": "Arturia"
+}

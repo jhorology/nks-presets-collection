@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Ensemble"],
+  "name": "Rainbow Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9ba88e21-b40e-45e8-8968-77f648c7f78c",
+  "vendor": "Arturia"
+}

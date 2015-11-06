@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Classic Stings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "35fbb203-4206-4acf-a296-ff8d3a226b89",
+  "vendor": "Arturia"
+}

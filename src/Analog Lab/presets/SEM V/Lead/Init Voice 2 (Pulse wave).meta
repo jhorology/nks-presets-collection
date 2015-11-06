@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Init Voice 2 (Pulse wave)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "de8e1854-5d3d-4f7e-b0cb-045b32b221c2",
+  "vendor": "Arturia"
+}

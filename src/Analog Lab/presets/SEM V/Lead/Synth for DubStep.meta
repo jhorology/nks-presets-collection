@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Synth for DubStep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1a95d062-f49a-451c-bc75-08cc30811f4b",
+  "vendor": "Arturia"
+}

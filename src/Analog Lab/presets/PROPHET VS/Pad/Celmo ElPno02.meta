@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Celmo ElPno02",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "552732c2-c612-47c4-bd2b-f2ce969978cc",
+  "vendor": "Arturia"
+}

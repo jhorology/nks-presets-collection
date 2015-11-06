@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Dead Eyes",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "30ab6663-55fd-4bb9-bd95-356084464170",
+  "vendor": "Arturia"
+}

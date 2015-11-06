@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Slipery",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "808f20d4-735c-47ac-857b-8069f794e0e7",
+  "vendor": "Arturia"
+}

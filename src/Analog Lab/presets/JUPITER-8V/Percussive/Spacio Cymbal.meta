@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Acid"],
+  "name": "Spacio Cymbal",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a5381d7f-f413-4a56-afb8-9328137d9853",
+  "vendor": "Arturia"
+}

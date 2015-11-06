@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard", "Soft", "Acid", "Funky"],
+  "name": "Vintage Funky EN",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b1c6e160-cd40-439c-b13f-dc2c44bdba42",
+  "vendor": "Arturia"
+}

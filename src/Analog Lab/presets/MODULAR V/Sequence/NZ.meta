@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "NZ",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1a7347e2-0642-4de6-91e6-e85971fbe522",
+  "vendor": "Arturia"
+}

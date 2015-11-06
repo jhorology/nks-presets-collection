@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sequ4",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e11ca613-558e-4b2a-bfd9-efb81b7a3795",
+  "vendor": "Arturia"
+}

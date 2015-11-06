@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short", "Funky"],
+  "name": "Mono Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "185260d4-ea24-4c43-83c9-813007927d35",
+  "vendor": "Arturia"
+}

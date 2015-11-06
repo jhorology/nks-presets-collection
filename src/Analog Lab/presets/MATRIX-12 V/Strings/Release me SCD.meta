@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Release me SCD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7f746572-aa28-492b-babf-798188e03046",
+  "vendor": "Arturia"
+}

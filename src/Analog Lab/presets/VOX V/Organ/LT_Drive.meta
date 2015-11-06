@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "LT_Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2b4543f5-1529-40a1-a568-b28a61ea5d38",
+  "vendor": "Arturia"
+}

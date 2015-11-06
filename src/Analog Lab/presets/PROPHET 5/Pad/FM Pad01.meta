@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "FM Pad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "da86bad1-e25b-42be-a740-56ce7f86b2b6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Dry Synth Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "818ab73d-13c6-4d22-afd5-c7a331750f0d",
+  "vendor": "Arturia"
+}

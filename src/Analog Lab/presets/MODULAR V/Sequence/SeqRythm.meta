@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "SeqRythm",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "91fb6d45-dd0e-4ae7-a1d8-88ffd43ed9bf",
+  "vendor": "Arturia"
+}

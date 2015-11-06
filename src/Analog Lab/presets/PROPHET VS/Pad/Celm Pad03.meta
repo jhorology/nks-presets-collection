@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Celm Pad03",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fb2e569b-0e35-4876-9067-e52b58a548c9",
+  "vendor": "Arturia"
+}

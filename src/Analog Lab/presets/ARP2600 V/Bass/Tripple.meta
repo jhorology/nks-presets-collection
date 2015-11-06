@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Funky"],
+  "name": "Tripple",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9290afaf-4924-471e-920c-41039133412b",
+  "vendor": "Arturia"
+}

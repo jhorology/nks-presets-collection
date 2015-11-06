@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Ether Cutoff Piano",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c48d84fb-807f-4901-9bde-4bf582ef1665",
+  "vendor": "Arturia"
+}

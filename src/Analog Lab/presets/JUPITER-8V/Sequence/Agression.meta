@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short", "Digital"],
+  "name": "Agression",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "38a33a8a-0058-40ec-9e55-95aecea01aa4",
+  "vendor": "Arturia"
+}

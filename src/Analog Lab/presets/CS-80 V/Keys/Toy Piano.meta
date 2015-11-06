@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Toy Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c47b8110-f647-4519-9009-0611af55ae13",
+  "vendor": "Arturia"
+}

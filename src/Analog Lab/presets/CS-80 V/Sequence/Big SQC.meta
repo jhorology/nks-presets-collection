@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Big SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a0506236-076d-4e37-b247-52e103149d2d",
+  "vendor": "Arturia"
+}

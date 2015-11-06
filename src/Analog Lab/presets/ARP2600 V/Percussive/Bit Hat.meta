@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Bit Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9da822d0-8a91-4cec-8c89-0d265049f61e",
+  "vendor": "Arturia"
+}

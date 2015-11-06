@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "275d6179-8ce6-4bb6-ad0c-9bac9c3682f9",
+  "vendor": "Arturia"
+}

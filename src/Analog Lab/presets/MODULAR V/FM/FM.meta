@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "FM",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "4f4619b9-6c8d-42f0-b49d-0f81be20a838",
+  "vendor": "Arturia"
+}

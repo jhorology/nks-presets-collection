@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Reverse World",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "03b6aef1-4bf8-46ac-b697-ea0a3b893738",
+  "vendor": "Arturia"
+}

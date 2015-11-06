@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Shritex",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d344f4ea-232e-4cee-ab83-8c6b670e1cc7",
+  "vendor": "Arturia"
+}

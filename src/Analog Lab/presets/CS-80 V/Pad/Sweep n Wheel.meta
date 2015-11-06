@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sweep n Wheel",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "675f89d3-b5a4-4455-b5db-8461ef03dbd9",
+  "vendor": "Arturia"
+}

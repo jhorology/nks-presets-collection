@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Sync Bells",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3894ccfa-a29e-48f4-b583-fe2a0162d652",
+  "vendor": "Arturia"
+}

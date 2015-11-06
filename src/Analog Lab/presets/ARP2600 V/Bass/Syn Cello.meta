@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Ambient"],
+  "name": "Syn Cello",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8bc04eb8-fece-4f17-8484-bc526a6dbfe3",
+  "vendor": "Arturia"
+}

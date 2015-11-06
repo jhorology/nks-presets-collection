@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Acid"],
+  "name": "Wicked Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d3d1857f-d2ae-46fb-a466-f4e02501948f",
+  "vendor": "Arturia"
+}

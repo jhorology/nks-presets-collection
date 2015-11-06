@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Simple Lead02",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b5dca5e3-7182-4e26-8869-825123d0bf2d",
+  "vendor": "Arturia"
+}

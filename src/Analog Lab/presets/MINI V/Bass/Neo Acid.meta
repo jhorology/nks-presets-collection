@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid"],
+  "name": "Neo Acid",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bb56f237-192a-4cd7-9217-8ad08b15dc84",
+  "vendor": "Arturia"
+}

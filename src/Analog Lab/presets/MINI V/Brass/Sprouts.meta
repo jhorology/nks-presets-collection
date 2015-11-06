@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Long"],
+  "name": "Sprouts",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "a4bb5c25-29a8-4752-a87b-95d7e460e6c7",
+  "vendor": "Arturia"
+}

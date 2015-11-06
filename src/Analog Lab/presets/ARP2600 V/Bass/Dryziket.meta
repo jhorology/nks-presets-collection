@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Dryziket",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6aba50d7-4d9c-4c32-b2a0-8d0d22ec89d8",
+  "vendor": "Arturia"
+}

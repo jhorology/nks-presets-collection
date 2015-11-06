@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient", "Ensemble"],
+  "name": "Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "47c5f587-c849-45fa-8ce5-b106dad9af6f",
+  "vendor": "Arturia"
+}

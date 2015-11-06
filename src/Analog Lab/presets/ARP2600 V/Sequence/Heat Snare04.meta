@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Heat Snare04",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c6bb0e63-c5b0-45f2-8eb8-b0003e1de390",
+  "vendor": "Arturia"
+}

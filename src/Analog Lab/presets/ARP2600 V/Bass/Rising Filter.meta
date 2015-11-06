@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Rising Filter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "98c3170d-7c8d-4ab2-bfbd-7d0fa65138a0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Classic Mini",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6d67e8ac-5c0f-4eea-bd86-152de0a55da5",
+  "vendor": "Arturia"
+}

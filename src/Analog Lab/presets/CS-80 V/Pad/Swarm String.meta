@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Swarm String",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "293a7818-f858-4e0c-92a1-35887dc0702c",
+  "vendor": "Arturia"
+}

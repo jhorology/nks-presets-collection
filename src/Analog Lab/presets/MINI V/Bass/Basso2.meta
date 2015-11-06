@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Basso2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7073e383-e518-4942-b18f-636f149c507b",
+  "vendor": "Arturia"
+}

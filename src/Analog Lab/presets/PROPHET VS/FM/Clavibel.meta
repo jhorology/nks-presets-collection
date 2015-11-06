@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Clavibel",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "0473e9d6-a850-4bbf-b2bc-7027530bc025",
+  "vendor": "Arturia"
+}

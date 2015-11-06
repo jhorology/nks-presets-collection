@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Acid", "Soundtrack"],
+  "name": "Robot SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6b47ab05-cc81-4251-8d7c-9ac0dc5a10da",
+  "vendor": "Arturia"
+}

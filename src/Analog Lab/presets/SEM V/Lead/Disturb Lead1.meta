@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Bizarre"],
+  "name": "Disturb Lead1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "90cdad0f-43ac-4501-971c-04c3df192212",
+  "vendor": "Arturia"
+}

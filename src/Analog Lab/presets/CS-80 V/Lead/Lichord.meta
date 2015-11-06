@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Lichord",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9f5f7a65-fc84-4cb8-aa04-79eb14b57caa",
+  "vendor": "Arturia"
+}

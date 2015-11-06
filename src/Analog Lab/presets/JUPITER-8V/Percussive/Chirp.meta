@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Soft", "Short"],
+  "name": "Chirp",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b10a5083-686b-4e9b-9228-f3da30c3fcc0",
+  "vendor": "Arturia"
+}

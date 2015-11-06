@@ -1,0 +1,13 @@
+{
+  "author": "J. Cowgill",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Sinus Attack",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1394adad-f84d-4989-b8fb-06114e7f3b22",
+  "vendor": "Arturia"
+}

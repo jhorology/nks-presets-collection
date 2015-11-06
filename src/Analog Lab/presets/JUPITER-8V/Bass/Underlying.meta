@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Long"],
+  "name": "Underlying",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "69683a41-f96c-42a4-ae71-c159b7657bfc",
+  "vendor": "Arturia"
+}

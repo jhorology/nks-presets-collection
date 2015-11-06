@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Ensemble"],
+  "name": "Syn Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "f7ce944c-6ab6-482f-90e8-661a8451fac5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Processed Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bd3fb501-c8df-451c-ad35-a7921cfd36a0",
+  "vendor": "Arturia"
+}

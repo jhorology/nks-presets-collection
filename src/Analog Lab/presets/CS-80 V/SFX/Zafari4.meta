@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Zafari4",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e16895d2-3534-414b-860d-130922b42ee8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Back Cuif",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5d1756cc-12fe-4cc6-b089-9194a39666df",
+  "vendor": "Arturia"
+}

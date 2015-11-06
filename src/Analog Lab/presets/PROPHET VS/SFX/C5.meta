@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "C5",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d3f85dff-65c3-48a1-b038-0bc9b52a4400",
+  "vendor": "Arturia"
+}

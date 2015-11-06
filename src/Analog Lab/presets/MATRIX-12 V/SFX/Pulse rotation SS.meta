@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Pulse rotation SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1e46c6e7-a7a7-4dad-bcfc-4ce538d1abb6",
+  "vendor": "Arturia"
+}

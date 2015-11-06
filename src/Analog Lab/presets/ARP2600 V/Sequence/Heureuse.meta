@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Heureuse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "70bbbab3-9a0d-49c3-9322-203a4954b3d4",
+  "vendor": "Arturia"
+}

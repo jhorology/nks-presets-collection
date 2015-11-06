@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "LFO & HPF",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9f34bc8c-10cb-4742-aa5c-f710fb6a9fed",
+  "vendor": "Arturia"
+}

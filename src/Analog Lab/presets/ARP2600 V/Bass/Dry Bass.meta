@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Dry Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a7b00ac5-23cb-4fa7-8800-6ba96c940cbb",
+  "vendor": "Arturia"
+}

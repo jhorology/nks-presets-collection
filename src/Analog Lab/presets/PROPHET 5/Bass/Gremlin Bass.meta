@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Short"],
+  "name": "Gremlin Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c83b9027-f2fc-4454-89bd-47cbd983e8ba",
+  "vendor": "Arturia"
+}

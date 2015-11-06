@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ult Vox Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b500ccb2-6fc7-4177-88d2-b78eb3c65368",
+  "vendor": "Arturia"
+}

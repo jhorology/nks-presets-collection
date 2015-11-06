@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital"],
+  "name": "Kalimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3fe382e1-48ea-4baf-8fb1-f5fac8b7135e",
+  "vendor": "Arturia"
+}

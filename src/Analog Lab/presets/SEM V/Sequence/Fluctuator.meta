@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Fluctuator",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5c34fb18-49f0-4c97-ace7-601d65dd0303",
+  "vendor": "Arturia"
+}

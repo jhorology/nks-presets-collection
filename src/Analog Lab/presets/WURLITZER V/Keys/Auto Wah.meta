@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Funky"],
+  "name": "Auto Wah",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "36e67ff0-1c6d-479e-8be0-ce90219cb0c0",
+  "vendor": "Arturia"
+}

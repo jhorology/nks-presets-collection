@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Crash",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5cb0a33d-4b54-47ec-8a70-cf870bbacea8",
+  "vendor": "Arturia"
+}

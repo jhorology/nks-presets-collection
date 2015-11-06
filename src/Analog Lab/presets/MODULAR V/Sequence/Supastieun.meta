@@ -1,0 +1,13 @@
+{
+  "author": "L.Llorca",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Supastieun",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "da5bf0d8-992a-4015-831b-6ed5e70de4cf",
+  "vendor": "Arturia"
+}

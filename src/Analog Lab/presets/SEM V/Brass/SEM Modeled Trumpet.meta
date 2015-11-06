@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "SEM Modeled Trumpet",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "9e4bf7b9-6dd7-4ac7-86a1-16eada7a4117",
+  "vendor": "Arturia"
+}

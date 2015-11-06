@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "BermudaTriangle EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e9e48bcc-a42c-4075-92d0-2242a7a3bff6",
+  "vendor": "Arturia"
+}

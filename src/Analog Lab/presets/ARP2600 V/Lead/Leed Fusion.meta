@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Leed Fusion",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "86de95b0-9575-4348-b3ef-539512d6a1f8",
+  "vendor": "Arturia"
+}

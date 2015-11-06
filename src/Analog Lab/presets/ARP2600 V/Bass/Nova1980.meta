@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Noise"],
+  "name": "Nova1980",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "213657c3-cdcc-49a5-a6d2-84f3b4c6a8bf",
+  "vendor": "Arturia"
+}

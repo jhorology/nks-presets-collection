@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Valley Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b800ff45-d160-482d-ba48-d4eb26e517ac",
+  "vendor": "Arturia"
+}

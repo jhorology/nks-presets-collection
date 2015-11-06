@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Morph SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e643dc0d-a1e5-4047-b631-df96f36585b0",
+  "vendor": "Arturia"
+}

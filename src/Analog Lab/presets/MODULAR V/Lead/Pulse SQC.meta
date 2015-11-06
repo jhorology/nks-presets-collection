@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Pulse SQC",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fa38a62b-9d90-4f52-ab80-8058eb33a988",
+  "vendor": "Arturia"
+}

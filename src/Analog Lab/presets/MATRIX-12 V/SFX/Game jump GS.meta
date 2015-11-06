@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Game jump GS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "25a33f3f-08dc-4b77-87f4-90e4e203c5c8",
+  "vendor": "Arturia"
+}

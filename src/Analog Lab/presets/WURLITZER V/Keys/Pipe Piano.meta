@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient", "Digital"],
+  "name": "Pipe Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7c580ea2-10ad-46f7-908e-6297f460ea72",
+  "vendor": "Arturia"
+}

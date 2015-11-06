@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Synch Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3f1e81e8-e392-4e69-991c-2f544466213a",
+  "vendor": "Arturia"
+}

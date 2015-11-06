@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Digital"],
+  "name": "Broken Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b2b2d705-c8dc-4d5f-8ea7-5ef83835d763",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Funky"],
+  "name": "Game Boy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5992a778-7bed-4fc4-8b4d-d8250e95266b",
+  "vendor": "Arturia"
+}

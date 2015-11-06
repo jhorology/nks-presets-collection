@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Bari detune FG",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6c01559c-77ac-491f-92ae-f0f8ba57623f",
+  "vendor": "Arturia"
+}

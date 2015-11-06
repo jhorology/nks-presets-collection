@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sawtooth Drone",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7cf0c477-a00b-432f-b802-2ad640ac4268",
+  "vendor": "Arturia"
+}

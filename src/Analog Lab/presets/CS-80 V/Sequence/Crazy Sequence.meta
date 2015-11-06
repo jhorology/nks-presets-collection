@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Complex"],
+  "name": "Crazy Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4c9b2b21-88d5-4d06-a7c1-20ddeb2a41d0",
+  "vendor": "Arturia"
+}

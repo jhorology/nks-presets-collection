@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "WhiteToast",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8065c28e-5b74-4803-8d9d-d48195bd9a00",
+  "vendor": "Arturia"
+}

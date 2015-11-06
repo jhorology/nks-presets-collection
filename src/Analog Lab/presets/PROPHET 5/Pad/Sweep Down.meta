@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Sweep Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ea40cbc5-cc4b-4730-82d2-0f249df7f67c",
+  "vendor": "Arturia"
+}

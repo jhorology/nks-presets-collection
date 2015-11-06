@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Flat Square",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a663e0f4-e62d-4776-8cad-70c0fe300657",
+  "vendor": "Arturia"
+}

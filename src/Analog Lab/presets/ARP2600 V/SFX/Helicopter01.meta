@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Helicopter01",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c03caff4-f986-4c34-8a88-4deb08f0242e",
+  "vendor": "Arturia"
+}

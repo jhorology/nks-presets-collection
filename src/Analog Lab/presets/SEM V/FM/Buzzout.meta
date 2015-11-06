@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient", "Ensemble", "Noise"],
+  "name": "Buzzout",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "9bf2eea8-dd1e-4545-80d8-8b9975959f5d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital", "Soundtrack"],
+  "name": "Rodiphazed Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e31b4560-021e-490e-ab69-ce5a6780f5a7",
+  "vendor": "Arturia"
+}

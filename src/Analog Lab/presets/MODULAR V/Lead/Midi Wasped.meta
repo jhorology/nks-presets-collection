@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Long"],
+  "name": "Midi Wasped",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "dd99644d-7224-4385-9b6a-18da865b9d7e",
+  "vendor": "Arturia"
+}

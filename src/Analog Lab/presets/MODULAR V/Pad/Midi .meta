@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Soundtrack"],
+  "name": "Midi ",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a78d3e91-40c7-4238-8eff-564aef7ff023",
+  "vendor": "Arturia"
+}

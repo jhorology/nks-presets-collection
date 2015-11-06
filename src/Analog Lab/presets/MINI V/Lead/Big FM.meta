@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Big FM",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f8c652ad-0375-45ea-b3f0-6987f5c23a04",
+  "vendor": "Arturia"
+}

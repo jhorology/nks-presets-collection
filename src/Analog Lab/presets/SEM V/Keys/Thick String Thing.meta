@@ -1,0 +1,13 @@
+{
+  "author": "Reek Havok",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Thick String Thing",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d136fad2-5190-4327-920a-e245944a52de",
+  "vendor": "Arturia"
+}

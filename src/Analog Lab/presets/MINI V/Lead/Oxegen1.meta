@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Oxegen1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7b8f908d-0f91-4626-b343-9609da4aff6e",
+  "vendor": "Arturia"
+}

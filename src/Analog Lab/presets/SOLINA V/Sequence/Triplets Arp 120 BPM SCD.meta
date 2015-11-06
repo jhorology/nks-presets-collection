@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Triplets Arp 120 BPM SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d4256393-0d99-488d-8398-e50c9d99c7f6",
+  "vendor": "Arturia"
+}

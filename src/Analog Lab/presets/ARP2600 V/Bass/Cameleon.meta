@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cameleon",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8e135fad-100f-4d04-896e-6668742adf27",
+  "vendor": "Arturia"
+}

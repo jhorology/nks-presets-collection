@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Close The Door",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "843e372f-0edb-409e-9e1a-e110b03adba7",
+  "vendor": "Arturia"
+}

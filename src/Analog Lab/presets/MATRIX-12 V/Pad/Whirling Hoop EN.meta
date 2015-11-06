@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre", "Ambient", "Soundtrack"],
+  "name": "Whirling Hoop EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ff42a609-e7d6-46d1-9e7a-c0e6c4bb9800",
+  "vendor": "Arturia"
+}

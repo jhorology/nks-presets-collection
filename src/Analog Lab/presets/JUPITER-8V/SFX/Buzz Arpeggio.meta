@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short", "Noise"],
+  "name": "Buzz Arpeggio",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8e70797c-55e0-4fba-a5ff-f11fb53ef0e6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Ambipad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "30585223-cda7-4d72-b9ab-aa08730b34ba",
+  "vendor": "Arturia"
+}

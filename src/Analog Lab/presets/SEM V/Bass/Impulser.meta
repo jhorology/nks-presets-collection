@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Impulser",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "08adb8f9-ddd9-4927-8d7a-c7f9ba0b027a",
+  "vendor": "Arturia"
+}

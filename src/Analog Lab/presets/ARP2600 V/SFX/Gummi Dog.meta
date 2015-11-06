@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Gummi Dog",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "57cbccac-937c-4aea-a7b9-8884d4a2fc1f",
+  "vendor": "Arturia"
+}

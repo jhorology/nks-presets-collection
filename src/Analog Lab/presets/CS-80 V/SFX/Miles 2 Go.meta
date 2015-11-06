@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Miles 2 Go",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f3976557-7200-4fd9-96f2-82fa225b73d6",
+  "vendor": "Arturia"
+}

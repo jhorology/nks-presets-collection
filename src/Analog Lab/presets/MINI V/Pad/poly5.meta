@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "poly5",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c44084f2-889a-4fb4-b80a-1cd93cafda8b",
+  "vendor": "Arturia"
+}

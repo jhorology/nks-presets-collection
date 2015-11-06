@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre"],
+  "name": "Repeat LFO",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "986fa456-d187-45c1-824f-16f45ef368c8",
+  "vendor": "Arturia"
+}

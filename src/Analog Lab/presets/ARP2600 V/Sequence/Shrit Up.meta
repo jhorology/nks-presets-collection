@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Shrit Up",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "564e9d32-c400-45c3-a01d-87e0ad069faa",
+  "vendor": "Arturia"
+}

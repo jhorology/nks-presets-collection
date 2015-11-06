@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient", "Ensemble"],
+  "name": "Space  Osborne",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "976925c3-12bb-4002-9d68-78fcc9fc8d65",
+  "vendor": "Arturia"
+}

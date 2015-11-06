@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "TD-Able SCD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "ad7f6006-5124-44f1-ae62-d3a0a7ee0294",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Eprum",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7b0dada7-5e39-474d-b9b1-b1b89953451c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "SciFi Factory",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0fa0f457-cc8d-465b-bdec-5d91756348f0",
+  "vendor": "Arturia"
+}

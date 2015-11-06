@@ -1,0 +1,13 @@
+{
+  "author": "k.Lamb_Neptunes",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Low Drone Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "aec802cb-7d7b-4cb9-9c52-dba29a1f9005",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Celmo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "337a5283-f874-4817-a9d5-d9a6d2bdeebd",
+  "vendor": "Arturia"
+}

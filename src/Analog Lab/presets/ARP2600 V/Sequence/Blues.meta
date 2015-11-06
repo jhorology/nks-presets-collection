@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Blues",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "574c555f-5016-4345-8c3e-6ef925d74c0a",
+  "vendor": "Arturia"
+}

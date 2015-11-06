@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "Swell Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "5f09eca3-a33d-4f28-a242-87b55701f1fd",
+  "vendor": "Arturia"
+}

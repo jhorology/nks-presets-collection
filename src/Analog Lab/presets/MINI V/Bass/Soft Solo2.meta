@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Soft Solo2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "534b45f3-9b9b-4d35-899e-2fd383e42ef4",
+  "vendor": "Arturia"
+}

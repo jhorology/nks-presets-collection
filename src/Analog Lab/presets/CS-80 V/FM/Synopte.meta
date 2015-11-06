@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital"],
+  "name": "Synopte",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "b6279745-fa40-4bed-aed8-916fd7c4bf3c",
+  "vendor": "Arturia"
+}

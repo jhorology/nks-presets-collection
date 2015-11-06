@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Lfo Sequence",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "217a2180-e2c4-4756-b9cb-297c9f4eedc2",
+  "vendor": "Arturia"
+}

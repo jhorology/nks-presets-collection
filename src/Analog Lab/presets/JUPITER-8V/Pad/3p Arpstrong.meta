@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Short"],
+  "name": "3p Arpstrong",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "911c6d54-e9c0-45c5-b952-d84d17e80c86",
+  "vendor": "Arturia"
+}

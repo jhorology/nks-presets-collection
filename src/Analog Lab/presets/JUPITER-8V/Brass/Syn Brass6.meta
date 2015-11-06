@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Ensemble"],
+  "name": "Syn Brass6",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "224d73a4-27f6-4140-8f51-136837539ff3",
+  "vendor": "Arturia"
+}

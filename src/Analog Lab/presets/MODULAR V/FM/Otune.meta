@@ -1,0 +1,13 @@
+{
+  "author": "Peff",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Otune",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "80daf53e-e3ee-4844-af4c-1598413c2ff8",
+  "vendor": "Arturia"
+}

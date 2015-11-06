@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Quatsi",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4a038764-2b8d-4b91-a7b1-f51dbc9a5e7e",
+  "vendor": "Arturia"
+}

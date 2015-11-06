@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Monorail Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ea6228c2-b924-4517-becd-d1d020f83609",
+  "vendor": "Arturia"
+}

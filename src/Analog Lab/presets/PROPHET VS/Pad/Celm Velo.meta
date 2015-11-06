@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Celm Velo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0eb887ec-76a5-48cf-b8c7-c9d5b30a7d22",
+  "vendor": "Arturia"
+}

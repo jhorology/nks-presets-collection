@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Moan",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "fc66fb6d-afc8-42c3-9197-91c6cc526b34",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Steel Piano",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e7673490-8cf1-4634-a486-7e2c147d6091",
+  "vendor": "Arturia"
+}

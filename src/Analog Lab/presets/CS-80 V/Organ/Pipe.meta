@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Pipe",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e1f01bc7-32a0-4891-9514-cd9090c6588e",
+  "vendor": "Arturia"
+}

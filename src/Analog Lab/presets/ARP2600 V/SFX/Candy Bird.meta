@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Candy Bird",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "eef92172-04e3-451f-8beb-955d4c954223",
+  "vendor": "Arturia"
+}

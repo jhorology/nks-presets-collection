@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Nasty",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "05cce365-6ee3-49bf-b49c-2dd9c6336b62",
+  "vendor": "Arturia"
+}

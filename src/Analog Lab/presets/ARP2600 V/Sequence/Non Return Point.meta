@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Non Return Point",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "737dc0e8-3bcc-4fff-be3d-bceeb22aa851",
+  "vendor": "Arturia"
+}

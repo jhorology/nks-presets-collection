@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Celm Chords01",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0ca5e40f-eb76-4a0f-bd8c-fc180de6a92a",
+  "vendor": "Arturia"
+}

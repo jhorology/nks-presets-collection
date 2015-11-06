@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Honkubus",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2a51bd73-0061-4fff-9e91-1ea44974611c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Acid"],
+  "name": "Arpeggio allegro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8e0d661c-8433-4af7-8996-f21fdc4b2fb0",
+  "vendor": "Arturia"
+}

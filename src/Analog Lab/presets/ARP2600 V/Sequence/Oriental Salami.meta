@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Oriental Salami",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "50c58239-a93f-4462-afc2-5967acb7b00a",
+  "vendor": "Arturia"
+}

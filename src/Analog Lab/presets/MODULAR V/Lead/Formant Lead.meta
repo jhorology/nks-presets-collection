@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Formant Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a05ce98c-1e1b-474d-aa92-88a8e27dbd73",
+  "vendor": "Arturia"
+}

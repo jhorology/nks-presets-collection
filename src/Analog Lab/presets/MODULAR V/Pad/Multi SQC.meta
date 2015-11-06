@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Multi SQC",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4c032abf-fac9-448a-9418-d6228bc46c32",
+  "vendor": "Arturia"
+}

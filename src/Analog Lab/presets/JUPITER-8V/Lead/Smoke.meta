@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Ambient"],
+  "name": "Smoke",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7383bb4d-84f6-493e-8a1c-9bbf13e7f7a5",
+  "vendor": "Arturia"
+}

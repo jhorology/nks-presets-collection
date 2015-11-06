@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Funky"],
+  "name": "Line Down",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e505b3b4-f293-4063-9684-71ee945136e6",
+  "vendor": "Arturia"
+}

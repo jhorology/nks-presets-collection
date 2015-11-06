@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Swing Electro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8a6660da-d303-4f62-8984-19b71859796a",
+  "vendor": "Arturia"
+}

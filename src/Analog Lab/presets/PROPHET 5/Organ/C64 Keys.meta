@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Funky"],
+  "name": "C64 Keys",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "fce7c187-b106-4555-aa4c-af31abf82248",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Harowld",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fb0a1303-b81d-4205-9896-5bcd39911b86",
+  "vendor": "Arturia"
+}

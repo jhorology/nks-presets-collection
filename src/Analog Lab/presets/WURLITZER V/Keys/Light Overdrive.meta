@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Soft", "Simple", "Funky"],
+  "name": "Light Overdrive",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c1968be2-e6e0-41db-acaf-c1a5e88c6f70",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Faux Ensemble",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a5d1302b-9c28-4668-a347-c6e23f579164",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Simple Nappe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8f1b9b5f-1133-44c7-bdb4-da14bdc32ccb",
+  "vendor": "Arturia"
+}

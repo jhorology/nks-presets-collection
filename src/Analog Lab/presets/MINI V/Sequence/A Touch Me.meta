@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "A Touch Me",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8773d038-6672-4e7e-9cc9-82c48cad1e38",
+  "vendor": "Arturia"
+}

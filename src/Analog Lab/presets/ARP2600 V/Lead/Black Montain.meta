@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Black Montain",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "627f6e3f-4e91-48d8-83ee-d11fa44f9d9e",
+  "vendor": "Arturia"
+}

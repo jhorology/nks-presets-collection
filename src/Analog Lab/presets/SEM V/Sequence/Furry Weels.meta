@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Furry Weels",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d959d5be-e8fa-4014-8a10-eb00ff3e538b",
+  "vendor": "Arturia"
+}

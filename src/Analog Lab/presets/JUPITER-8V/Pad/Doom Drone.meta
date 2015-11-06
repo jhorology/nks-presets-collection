@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ambient"],
+  "name": "Doom Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7ac377be-473f-47ed-826d-d6beeccee284",
+  "vendor": "Arturia"
+}

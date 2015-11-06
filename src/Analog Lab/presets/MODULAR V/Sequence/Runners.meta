@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Runners",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7d08ace7-2d00-4d79-9596-df6c8de940e2",
+  "vendor": "Arturia"
+}

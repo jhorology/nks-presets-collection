@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "JP8 Polysynth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "851e3a61-66f8-4171-a8e6-4ae3419ae489",
+  "vendor": "Arturia"
+}

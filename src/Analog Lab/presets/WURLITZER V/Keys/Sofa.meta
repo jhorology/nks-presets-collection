@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Ambient"],
+  "name": "Sofa",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2fe8df61-2c71-4045-907c-902c92fa1ce0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Strange Horn",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "f3960e78-1af6-42b9-9189-79e440ae2c4a",
+  "vendor": "Arturia"
+}

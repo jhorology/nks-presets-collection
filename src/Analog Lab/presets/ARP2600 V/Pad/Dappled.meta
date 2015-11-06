@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Dappled",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "201b9774-d7c0-4eb5-b810-3b273b3e9802",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Kick on C2  LT",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f134efac-bd67-46b0-aea7-e3820ef96f3a",
+  "vendor": "Arturia"
+}

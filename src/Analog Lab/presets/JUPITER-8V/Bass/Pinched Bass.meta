@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard"],
+  "name": "Pinched Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "121bd1f5-1143-4d28-ad43-8eceab3536fa",
+  "vendor": "Arturia"
+}

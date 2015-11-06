@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Bizarre"],
+  "name": "Wind Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6175a885-e4b5-4b9d-b1b9-640982476738",
+  "vendor": "Arturia"
+}

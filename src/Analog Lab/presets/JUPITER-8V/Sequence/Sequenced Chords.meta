@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient"],
+  "name": "Sequenced Chords",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ce7a796f-d76e-41fc-a2e0-63bbfbc4370d",
+  "vendor": "Arturia"
+}

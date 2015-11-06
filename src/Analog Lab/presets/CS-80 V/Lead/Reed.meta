@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Reed",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3467221a-c77a-4cc5-89c3-9450377212f3",
+  "vendor": "Arturia"
+}

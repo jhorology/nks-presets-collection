@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Ring Bass",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "54e71638-871c-40e5-9c46-b52bccf95e00",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital", "Funky"],
+  "name": "Gaspy Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "734c8834-f770-47c6-8505-edb33e3134cd",
+  "vendor": "Arturia"
+}

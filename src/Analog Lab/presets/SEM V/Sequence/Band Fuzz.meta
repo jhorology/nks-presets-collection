@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Band Fuzz",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "02a85ab1-6b83-4622-8906-d6452ba78923",
+  "vendor": "Arturia"
+}

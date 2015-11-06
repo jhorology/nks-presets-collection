@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Bizarre"],
+  "name": "FX downer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "53c4d479-6808-460d-a531-2ef614b2a15e",
+  "vendor": "Arturia"
+}

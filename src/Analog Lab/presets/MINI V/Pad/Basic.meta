@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Basic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3235c51f-f39a-4589-b4bc-ebd80394d50f",
+  "vendor": "Arturia"
+}

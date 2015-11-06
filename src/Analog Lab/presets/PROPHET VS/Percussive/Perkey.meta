@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Perkey",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1f4f527a-ee43-45f1-90ce-ed169cfcb2e3",
+  "vendor": "Arturia"
+}

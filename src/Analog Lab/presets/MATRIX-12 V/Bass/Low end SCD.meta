@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Low end SCD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a3b38ddb-13ec-4836-a144-ea6285c07e35",
+  "vendor": "Arturia"
+}

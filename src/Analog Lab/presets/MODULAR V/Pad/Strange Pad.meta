@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Strange Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3062d40e-5993-45df-8e8a-2283abbe3888",
+  "vendor": "Arturia"
+}

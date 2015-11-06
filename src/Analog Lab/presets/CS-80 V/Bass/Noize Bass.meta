@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Noize Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "dc33e49c-eddc-411b-8cc5-8d7bd1768a8b",
+  "vendor": "Arturia"
+}

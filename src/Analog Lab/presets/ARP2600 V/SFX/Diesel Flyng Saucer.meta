@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Diesel Flyng Saucer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9ee88299-e975-4292-a837-a283913bf43b",
+  "vendor": "Arturia"
+}

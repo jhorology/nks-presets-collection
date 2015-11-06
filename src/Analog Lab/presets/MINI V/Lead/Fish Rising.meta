@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Fish Rising",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "31cbb47e-89f2-4f3e-8ac6-ca5b024318ec",
+  "vendor": "Arturia"
+}

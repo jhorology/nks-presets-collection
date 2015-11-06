@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Wet Rubber Drums",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a2d688a1-20cc-4cf4-bb64-b36462b69d28",
+  "vendor": "Arturia"
+}

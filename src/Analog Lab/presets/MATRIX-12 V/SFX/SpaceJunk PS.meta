@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Bizarre", "Noise", "Soundtrack"],
+  "name": "SpaceJunk PS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a41aecb3-80fd-42ed-8e2a-27e68c2bb9ee",
+  "vendor": "Arturia"
+}

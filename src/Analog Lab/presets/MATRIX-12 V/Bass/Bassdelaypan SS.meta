@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Bassdelaypan SS",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c8faa305-4bba-4c4a-a445-a66470c46b1e",
+  "vendor": "Arturia"
+}

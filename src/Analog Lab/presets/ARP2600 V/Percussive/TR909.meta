@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "TR909",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "63ec207a-ba6d-4bb8-80e0-6c929dfe31ab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Good Weather01",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3087ba9c-3635-4a2c-8efd-6e82d9833ed6",
+  "vendor": "Arturia"
+}

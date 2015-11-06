@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Ambient"],
+  "name": "Awaken SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "59e28cca-68b0-4c82-9056-3de9a1e4d622",
+  "vendor": "Arturia"
+}

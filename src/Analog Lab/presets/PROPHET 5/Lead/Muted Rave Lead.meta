@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Noise"],
+  "name": "Muted Rave Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "97f645a3-454e-4b85-820c-66ecf465c1c7",
+  "vendor": "Arturia"
+}

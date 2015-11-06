@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Ambient"],
+  "name": "Epic Movement",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d4344d8b-fc32-4a09-9d3d-0b971fa8dbd7",
+  "vendor": "Arturia"
+}

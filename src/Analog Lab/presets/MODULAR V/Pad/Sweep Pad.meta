@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sweep Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "efd718ae-c54f-43d7-96a4-e0225a6aa9f2",
+  "vendor": "Arturia"
+}

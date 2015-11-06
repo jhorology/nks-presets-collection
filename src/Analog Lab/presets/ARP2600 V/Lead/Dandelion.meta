@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient", "Digital"],
+  "name": "Dandelion",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "85719a46-4f40-409a-8250-199aeb809139",
+  "vendor": "Arturia"
+}

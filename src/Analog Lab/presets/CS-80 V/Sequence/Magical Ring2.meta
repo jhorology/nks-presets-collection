@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Magical Ring2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "72a60a8c-8d55-44cb-b0f7-66af753d2afa",
+  "vendor": "Arturia"
+}

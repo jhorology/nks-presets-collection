@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Space Bug",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d547bc09-1e40-4e88-af33-98433ff9e9ef",
+  "vendor": "Arturia"
+}

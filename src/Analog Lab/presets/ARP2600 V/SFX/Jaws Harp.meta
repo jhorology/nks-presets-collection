@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Jaws Harp",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "958e394f-cade-458d-9121-6f7705909e95",
+  "vendor": "Arturia"
+}

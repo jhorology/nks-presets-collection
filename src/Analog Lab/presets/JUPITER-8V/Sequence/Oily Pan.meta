@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Short"],
+  "name": "Oily Pan",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bcfe2b85-6363-447d-bddc-78c73a34b54a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Sweep VCA",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "864b1999-4c65-4a2a-88ca-ea418f87c144",
+  "vendor": "Arturia"
+}

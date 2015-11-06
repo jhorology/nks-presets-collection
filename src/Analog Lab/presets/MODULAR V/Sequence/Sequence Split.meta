@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Sequence Split",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fcb6a4b0-ca94-4018-b42e-98fd9255be01",
+  "vendor": "Arturia"
+}

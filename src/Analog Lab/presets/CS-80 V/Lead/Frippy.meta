@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Frippy",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d65dc16b-8a74-4271-a886-61a9197aee67",
+  "vendor": "Arturia"
+}

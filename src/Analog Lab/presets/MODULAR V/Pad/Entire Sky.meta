@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long"],
+  "name": "Entire Sky",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "205f999e-2c4a-4dda-850f-80fb52edd532",
+  "vendor": "Arturia"
+}

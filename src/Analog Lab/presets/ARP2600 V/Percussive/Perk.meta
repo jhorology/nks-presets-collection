@@ -1,0 +1,13 @@
+{
+  "author": "Roger_Lyons",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Perk",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "2ceb1d62-de38-4de6-bcfd-aa874dad4197",
+  "vendor": "Arturia"
+}

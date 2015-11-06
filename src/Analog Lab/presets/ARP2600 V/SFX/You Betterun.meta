@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "You Betterun",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f2cb1bbf-a91e-4636-a0cc-bcc0427d6427",
+  "vendor": "Arturia"
+}

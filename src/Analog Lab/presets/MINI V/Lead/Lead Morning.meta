@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Lead Morning",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "47915c60-043e-458c-a4e2-23c244e9347f",
+  "vendor": "Arturia"
+}

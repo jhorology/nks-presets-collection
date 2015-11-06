@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Classic01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dcc8e8e9-82e2-4e7d-8bcf-035b381ff3e0",
+  "vendor": "Arturia"
+}

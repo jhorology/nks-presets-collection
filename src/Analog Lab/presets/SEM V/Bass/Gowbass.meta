@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Gowbass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ef65e7c6-7cd6-439e-b73e-75cb7f85372f",
+  "vendor": "Arturia"
+}

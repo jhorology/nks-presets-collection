@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid", "Funky"],
+  "name": "Nesolead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f6223b62-e8ca-4b5f-87d8-2132f13be62e",
+  "vendor": "Arturia"
+}

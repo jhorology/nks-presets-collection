@@ -1,0 +1,13 @@
+{
+  "author": "Acc-Jupiter8V",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Ensemble"],
+  "name": "Bassman",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c8f80359-f6d5-45f8-b3ac-de10fb31fc27",
+  "vendor": "Arturia"
+}

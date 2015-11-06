@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Farfis",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "75c04cba-257a-4ba0-afb4-c935a2b9738a",
+  "vendor": "Arturia"
+}

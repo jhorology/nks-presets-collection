@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soundtrack"],
+  "name": "Brass Pad",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "f816241f-accb-442c-b5e9-5cf7a196ef3b",
+  "vendor": "Arturia"
+}

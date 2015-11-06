@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Ach Steel",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d3974374-610b-4177-a795-67f1bf04ca88",
+  "vendor": "Arturia"
+}

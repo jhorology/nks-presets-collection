@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Day2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "54e63d90-91c3-4978-93c2-6731429cbd24",
+  "vendor": "Arturia"
+}

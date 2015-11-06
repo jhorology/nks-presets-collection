@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Long"],
+  "name": "Vibra Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5ddd4b67-887e-45b7-822d-e5ba662bcc52",
+  "vendor": "Arturia"
+}

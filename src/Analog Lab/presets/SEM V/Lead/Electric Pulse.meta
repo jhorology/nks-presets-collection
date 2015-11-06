@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Electric Pulse",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0966d424-698d-4c3a-8e18-a81d66c9e826",
+  "vendor": "Arturia"
+}

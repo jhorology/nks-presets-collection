@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Noise"],
+  "name": "Withe Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "142330ce-8823-47c3-8238-3ae3daeedfc5",
+  "vendor": "Arturia"
+}

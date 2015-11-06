@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Griot Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "11514677-4df4-491d-b2af-49c60052a358",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "S&H02",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "474cc9e7-667b-4cb2-b136-5d58839ee71a",
+  "vendor": "Arturia"
+}

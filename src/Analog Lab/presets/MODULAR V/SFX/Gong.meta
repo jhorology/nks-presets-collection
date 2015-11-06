@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Gong",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0fa2e5b6-0982-49ab-ae55-f44714f2e2ea",
+  "vendor": "Arturia"
+}

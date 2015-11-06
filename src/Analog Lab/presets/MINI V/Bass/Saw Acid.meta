@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid"],
+  "name": "Saw Acid",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "27f78e97-88d7-4523-a6ab-382c1f32fb10",
+  "vendor": "Arturia"
+}

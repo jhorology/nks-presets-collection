@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Astral Traveller",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b3ea06a8-cbd7-499e-81bb-f62479bbe45b",
+  "vendor": "Arturia"
+}

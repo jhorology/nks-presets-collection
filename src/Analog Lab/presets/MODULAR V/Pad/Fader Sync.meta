@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid", "Ambient"],
+  "name": "Fader Sync",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f2ef05ad-56f4-4c5c-946d-850990af22b6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "ACC-01",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "fa8c07c2-fdd5-44a4-948b-5738dde7e9ac",
+  "vendor": "Arturia"
+}

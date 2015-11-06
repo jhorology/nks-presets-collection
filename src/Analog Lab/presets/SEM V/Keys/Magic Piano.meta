@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Magic Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a3a148a3-937e-4f65-8790-e7a94c90df43",
+  "vendor": "Arturia"
+}

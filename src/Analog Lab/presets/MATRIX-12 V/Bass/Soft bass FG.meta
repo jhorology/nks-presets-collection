@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Soft bass FG",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c0fa66d6-3c36-4d86-b8ca-77fff7225a26",
+  "vendor": "Arturia"
+}

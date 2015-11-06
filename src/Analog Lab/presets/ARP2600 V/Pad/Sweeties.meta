@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Sweeties",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ea049e82-148a-4cfd-aff3-9adad5c056a7",
+  "vendor": "Arturia"
+}

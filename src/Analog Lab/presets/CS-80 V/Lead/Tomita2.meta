@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Tomita2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "cd016c77-4820-47f4-90ec-502bcf965ad8",
+  "vendor": "Arturia"
+}

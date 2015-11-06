@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Short", "Ambient"],
+  "name": "Basson Arppegio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bd9ea34d-b6f3-47e2-a71f-a874f3b7960f",
+  "vendor": "Arturia"
+}

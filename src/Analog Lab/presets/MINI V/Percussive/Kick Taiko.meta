@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Kick Taiko",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e6ab4fc7-429b-4dec-9bf1-5548cd3fdbaf",
+  "vendor": "Arturia"
+}

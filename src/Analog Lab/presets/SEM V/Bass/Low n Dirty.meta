@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Low n Dirty",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "87e00ebd-1117-4ad9-86ed-bd5af1bdf367",
+  "vendor": "Arturia"
+}

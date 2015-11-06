@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Tribal Telephone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "af3a89f1-e526-42b7-b18d-373af78c7b0c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Humming ",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "070c63da-6958-4b83-934f-aebfbce849d5",
+  "vendor": "Arturia"
+}

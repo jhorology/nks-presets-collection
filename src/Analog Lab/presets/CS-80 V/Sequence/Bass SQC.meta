@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Bass SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0deabcb0-184a-4802-8d22-7d3c41c2be06",
+  "vendor": "Arturia"
+}

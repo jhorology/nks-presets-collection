@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Sweep Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4d709bf8-d15d-418d-b580-361095a3deb2",
+  "vendor": "Arturia"
+}

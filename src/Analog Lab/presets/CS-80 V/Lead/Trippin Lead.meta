@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Trippin Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3b7d41a8-7529-42a2-920f-9b93717b279d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Noise"],
+  "name": "Krovilllain",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0e829931-81d1-4022-b93f-d2ea48959750",
+  "vendor": "Arturia"
+}

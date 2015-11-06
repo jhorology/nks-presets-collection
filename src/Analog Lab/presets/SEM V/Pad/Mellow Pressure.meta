@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Mellow Pressure",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "68e49e4e-d257-4270-b4ca-3ec80518f9ad",
+  "vendor": "Arturia"
+}

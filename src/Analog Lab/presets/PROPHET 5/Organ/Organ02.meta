@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Digital"],
+  "name": "Organ02",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5f106c1d-2eec-4c12-9bf5-88bdf117ab0b",
+  "vendor": "Arturia"
+}

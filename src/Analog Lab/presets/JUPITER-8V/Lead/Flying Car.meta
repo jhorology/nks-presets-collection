@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Digital"],
+  "name": "Flying Car",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "591e5e20-de90-4b04-b7d7-67f2e57080e1",
+  "vendor": "Arturia"
+}

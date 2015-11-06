@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Long", "Ambient", "Soundtrack"],
+  "name": "Tauran EN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c0110eee-28eb-4ee3-a5a1-6a4545f4ab4d",
+  "vendor": "Arturia"
+}

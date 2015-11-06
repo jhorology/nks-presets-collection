@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Bendir",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "32a3c2ac-6520-452d-b029-cd49d92ca2bc",
+  "vendor": "Arturia"
+}

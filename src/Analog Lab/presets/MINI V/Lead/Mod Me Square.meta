@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Mod Me Square",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a5ed82c0-4e68-4731-99e2-67c8a5e78686",
+  "vendor": "Arturia"
+}

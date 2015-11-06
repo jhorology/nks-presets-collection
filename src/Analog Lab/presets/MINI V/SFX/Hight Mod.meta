@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Hight Mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f7a7d001-7445-47fb-8744-e8a013e335c7",
+  "vendor": "Arturia"
+}

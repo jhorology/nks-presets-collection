@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "1985 synth SS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d85056bc-d45b-4da6-ab91-9cc878b07f7a",
+  "vendor": "Arturia"
+}

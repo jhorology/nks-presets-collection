@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Noise"],
+  "name": "Bugs",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d353a97c-cad1-44b9-8939-e444868c5f0c",
+  "vendor": "Arturia"
+}

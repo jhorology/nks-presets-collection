@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Acid"],
+  "name": "Midoa",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1e425c46-bc2c-452c-8416-4343c5f1918e",
+  "vendor": "Arturia"
+}

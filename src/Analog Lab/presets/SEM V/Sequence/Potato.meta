@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Potato",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5b656dc5-3629-4fab-8147-40520b1de9a4",
+  "vendor": "Arturia"
+}

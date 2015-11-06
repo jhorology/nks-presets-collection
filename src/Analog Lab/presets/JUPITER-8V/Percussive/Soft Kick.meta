@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Simple"],
+  "name": "Soft Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c9429447-3883-4217-9252-87f72d25fa8e",
+  "vendor": "Arturia"
+}

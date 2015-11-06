@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Hairy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "da839e14-774f-4ed4-8c38-4ada33516c67",
+  "vendor": "Arturia"
+}

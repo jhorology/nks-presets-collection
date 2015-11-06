@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Elektro Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b0be9a80-0855-4b3c-bcc9-073d85c2f1ac",
+  "vendor": "Arturia"
+}

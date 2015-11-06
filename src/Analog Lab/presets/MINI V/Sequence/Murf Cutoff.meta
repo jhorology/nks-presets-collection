@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Murf Cutoff",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2904b8ef-590e-4773-947c-0439e1ae0f2e",
+  "vendor": "Arturia"
+}

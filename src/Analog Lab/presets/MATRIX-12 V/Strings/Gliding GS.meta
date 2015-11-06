@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Gliding GS",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "24079adb-4671-4476-92f9-94aeb1fbd9be",
+  "vendor": "Arturia"
+}

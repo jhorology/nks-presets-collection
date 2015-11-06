@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex"],
+  "name": "Prayer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8072fcb5-dafe-4c1e-9020-4a3f281bb586",
+  "vendor": "Arturia"
+}

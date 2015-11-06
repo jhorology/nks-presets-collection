@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Oh Bee Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4a26b881-8f85-40b8-9489-8df263e64297",
+  "vendor": "Arturia"
+}

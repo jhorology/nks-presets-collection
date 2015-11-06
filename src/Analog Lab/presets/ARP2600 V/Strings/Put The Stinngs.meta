@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Put The Stinngs",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "478bb2e2-1217-45c6-b06c-9ed2f882bf88",
+  "vendor": "Arturia"
+}

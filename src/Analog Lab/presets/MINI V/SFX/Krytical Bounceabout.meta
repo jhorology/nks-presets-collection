@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Acid"],
+  "name": "Krytical Bounceabout",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7edfd7d0-58b1-4bea-837d-a7803f31412c",
+  "vendor": "Arturia"
+}

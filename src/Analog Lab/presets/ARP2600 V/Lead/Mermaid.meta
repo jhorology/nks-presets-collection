@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Mermaid",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d7c41894-98dc-4067-ba47-11ffd8e7adc4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Space Worm",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "174da62d-ab99-426e-9633-004e82af06c9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "S&H",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c4c14f84-424c-48a9-9ced-7802698e0a06",
+  "vendor": "Arturia"
+}

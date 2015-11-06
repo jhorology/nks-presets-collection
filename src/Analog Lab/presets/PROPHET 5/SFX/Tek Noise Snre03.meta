@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Tek Noise Snre03",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "64a6a07d-b539-41c0-8e1d-8767db59ccf3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid", "Funky"],
+  "name": "Midle Watch",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4c49ae0c-86a9-48b0-be68-bbcc530d4862",
+  "vendor": "Arturia"
+}

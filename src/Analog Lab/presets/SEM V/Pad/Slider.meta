@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Ensemble"],
+  "name": "Slider",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ef36aea7-2e2d-4d20-b2d8-99dd44458cd8",
+  "vendor": "Arturia"
+}

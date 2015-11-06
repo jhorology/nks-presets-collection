@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Clean SQC",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a3e1ed79-4fcd-4284-8c37-abdd25ee7b8c",
+  "vendor": "Arturia"
+}

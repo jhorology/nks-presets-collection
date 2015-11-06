@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Popcorn",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "406fe2aa-5a71-4a0b-8521-fab43509ab2c",
+  "vendor": "Arturia"
+}

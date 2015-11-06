@@ -1,0 +1,13 @@
+{
+  "author": "T.Perlman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rmi Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6d48ae84-f891-4e1d-8e9a-406f6437b3da",
+  "vendor": "Arturia"
+}

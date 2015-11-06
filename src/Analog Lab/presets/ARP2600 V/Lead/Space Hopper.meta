@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Short"],
+  "name": "Space Hopper",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "efb22b04-e538-4cbb-8441-c7517d8c2d0d",
+  "vendor": "Arturia"
+}

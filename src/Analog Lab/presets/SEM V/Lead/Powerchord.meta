@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Powerchord",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a885bc54-3106-49b3-9dab-61131546a77c",
+  "vendor": "Arturia"
+}

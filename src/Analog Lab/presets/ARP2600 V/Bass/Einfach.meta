@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Einfach",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fccfe587-4b7c-43e9-add9-90ed5f928d0c",
+  "vendor": "Arturia"
+}

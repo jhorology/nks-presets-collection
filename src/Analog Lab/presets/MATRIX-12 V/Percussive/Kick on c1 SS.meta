@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Kick on c1 SS",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "90aceca1-b91e-445f-b530-a6371d1a65d2",
+  "vendor": "Arturia"
+}

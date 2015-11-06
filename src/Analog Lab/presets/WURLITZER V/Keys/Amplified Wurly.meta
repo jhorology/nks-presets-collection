@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Amplified Wurly",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "60454389-d96d-4060-aab5-3f7028cdd6f7",
+  "vendor": "Arturia"
+}

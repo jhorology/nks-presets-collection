@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Fullness",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4a319cb9-021a-48db-b85d-ded65a68a1a3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Suspense",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "73753349-9765-47ad-9881-a470ae897766",
+  "vendor": "Arturia"
+}

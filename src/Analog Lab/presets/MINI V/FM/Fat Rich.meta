@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "Fat Rich",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "78db261d-bbf3-4c59-a7f5-996448f04e1e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Trance Modwheel",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "db543a94-17f7-4cdd-91e1-381167a9c76d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Moist Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3705c147-d038-44b4-8d2a-d93b9c1d560a",
+  "vendor": "Arturia"
+}

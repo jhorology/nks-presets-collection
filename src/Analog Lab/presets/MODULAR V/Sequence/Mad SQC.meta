@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Mad SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d7be4ff7-f94c-49c1-b2f9-1a2fce40d3b6",
+  "vendor": "Arturia"
+}

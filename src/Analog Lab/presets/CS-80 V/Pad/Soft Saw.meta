@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Soft Saw",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "75932a93-2754-42fb-bdb4-0f2779abc207",
+  "vendor": "Arturia"
+}

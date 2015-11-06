@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft"],
+  "name": "Lonely lead PS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "dafc1892-7eaf-4797-a0d8-59b620185beb",
+  "vendor": "Arturia"
+}

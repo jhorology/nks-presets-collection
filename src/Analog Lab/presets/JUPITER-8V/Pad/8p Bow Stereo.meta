@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Digital"],
+  "name": "8p Bow Stereo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7a45b27-d1a2-4cb3-b8ec-5cbab199cabe",
+  "vendor": "Arturia"
+}

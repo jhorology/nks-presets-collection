@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Moog Like Lead3",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "95cac230-d2d4-4304-866b-8ad5531e537f",
+  "vendor": "Arturia"
+}

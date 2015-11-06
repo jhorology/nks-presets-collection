@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Simple"],
+  "name": "Softer Squares Arpeggio",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "dd58d9f0-6ae9-47ea-93cb-8d4964f070de",
+  "vendor": "Arturia"
+}

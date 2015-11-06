@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient", "Ensemble", "Noise"],
+  "name": "Galactica",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d85de293-c01f-4e54-b3e8-b08f16eb9a85",
+  "vendor": "Arturia"
+}

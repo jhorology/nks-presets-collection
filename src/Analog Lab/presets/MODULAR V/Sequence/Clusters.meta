@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Clusters",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "79b7f53c-7a9a-4301-9d7c-bbe189d64dcc",
+  "vendor": "Arturia"
+}

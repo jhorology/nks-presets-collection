@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Mellow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ad06c69d-bd59-43ed-8d6c-2b758c9b4b86",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Noise"],
+  "name": "Rhythm Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "76f062c1-4a84-488e-b42b-b32037a63391",
+  "vendor": "Arturia"
+}

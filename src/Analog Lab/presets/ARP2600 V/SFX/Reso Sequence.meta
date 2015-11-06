@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Reso Sequence",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0f3d9ad6-9794-4592-9a21-2c79fbd3235a",
+  "vendor": "Arturia"
+}

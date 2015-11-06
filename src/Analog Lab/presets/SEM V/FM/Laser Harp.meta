@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Simple"],
+  "name": "Laser Harp",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "36767bc7-5b45-4a0d-bb48-eb2a47c372fd",
+  "vendor": "Arturia"
+}

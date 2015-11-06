@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Cool Down Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "88d362e3-0a30-401f-9f87-ff4477cd77ec",
+  "vendor": "Arturia"
+}

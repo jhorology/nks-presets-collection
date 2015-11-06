@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Vari Shep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f52fa649-a991-4b9d-85d3-021adf86fce4",
+  "vendor": "Arturia"
+}

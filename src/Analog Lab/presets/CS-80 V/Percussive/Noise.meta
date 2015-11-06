@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Noise",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1028f7e0-51a7-4e85-8fcd-baf86bec3eeb",
+  "vendor": "Arturia"
+}

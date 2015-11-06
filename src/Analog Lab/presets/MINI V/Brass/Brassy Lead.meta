@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brassy Lead",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "d32f5c86-4314-47fc-b0f4-4c7330db589f",
+  "vendor": "Arturia"
+}

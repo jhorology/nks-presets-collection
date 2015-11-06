@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Thinair",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "ff4ac6ba-abba-4596-ad4c-77806cc890ea",
+  "vendor": "Arturia"
+}

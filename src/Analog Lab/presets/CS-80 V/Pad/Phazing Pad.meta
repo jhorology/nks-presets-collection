@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Phazing Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "69434fc7-ab8d-473e-8c65-37360084b347",
+  "vendor": "Arturia"
+}

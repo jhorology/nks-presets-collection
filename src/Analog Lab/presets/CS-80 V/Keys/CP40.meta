@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "CP40",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e9307262-22b2-4f2f-8b0c-fea60189540a",
+  "vendor": "Arturia"
+}

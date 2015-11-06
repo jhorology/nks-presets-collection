@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky"],
+  "name": "Emerald",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "32a38778-aa80-44aa-a967-f9f201b30027",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Padaloue",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9057f76a-61b1-4173-ab17-a298c379c509",
+  "vendor": "Arturia"
+}

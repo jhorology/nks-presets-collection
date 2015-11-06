@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "VS Lead02",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9b91078f-4470-45c6-9dcd-ff6670e401bb",
+  "vendor": "Arturia"
+}

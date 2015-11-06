@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "16SQC",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "64ea9077-11f8-4b34-a021-02f857a688aa",
+  "vendor": "Arturia"
+}

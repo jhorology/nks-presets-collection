@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient", "Noise"],
+  "name": "WidthPulse01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2af11335-9cee-4445-9180-d38053a86733",
+  "vendor": "Arturia"
+}

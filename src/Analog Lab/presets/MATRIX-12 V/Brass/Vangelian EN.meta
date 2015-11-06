@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient", "Ensemble", "Soundtrack"],
+  "name": "Vangelian EN",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "55a59075-b9cd-4d6c-bec7-1fba73dceeed",
+  "vendor": "Arturia"
+}

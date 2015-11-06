@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "80's Bit",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d0d457f1-7288-49b4-9577-0fa2fc859b75",
+  "vendor": "Arturia"
+}

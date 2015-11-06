@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Zyxel",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bc5fac41-ff4e-4db1-bde7-cad6cc867b95",
+  "vendor": "Arturia"
+}

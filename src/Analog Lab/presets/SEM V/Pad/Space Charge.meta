@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Space Charge",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "327d00fb-549b-415e-8491-4ae0c4eb55b4",
+  "vendor": "Arturia"
+}

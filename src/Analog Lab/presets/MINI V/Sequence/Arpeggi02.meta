@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Arpeggi02",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "41950033-e1cf-4172-a100-4dd14c91eb46",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Pulse Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1088f0a4-ac3c-41bf-97f5-77dd6d6f03cd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Digital"],
+  "name": "Square Run",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f9289feb-648c-4d28-b803-e37af0c66d70",
+  "vendor": "Arturia"
+}

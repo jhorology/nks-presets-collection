@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Roads Again",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "83e3f494-239f-4188-aa60-0103284f4f99",
+  "vendor": "Arturia"
+}

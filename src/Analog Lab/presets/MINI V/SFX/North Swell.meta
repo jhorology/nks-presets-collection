@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Noise"],
+  "name": "North Swell",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "eb019b67-186c-4579-ac65-b16094c65a00",
+  "vendor": "Arturia"
+}

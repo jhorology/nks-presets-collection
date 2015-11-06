@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Morning Rush",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c4d208f0-628b-476f-8516-bda05432144f",
+  "vendor": "Arturia"
+}

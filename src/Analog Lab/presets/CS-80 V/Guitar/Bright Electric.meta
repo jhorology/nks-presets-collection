@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bright Electric",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "5666f0bd-0456-4077-8179-26f7967f158a",
+  "vendor": "Arturia"
+}

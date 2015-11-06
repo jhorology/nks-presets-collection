@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Funky"],
+  "name": "Moving Soul",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "42eb1c05-bcc5-47af-9674-4666ea31c6a4",
+  "vendor": "Arturia"
+}

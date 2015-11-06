@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Bizarre", "Noise"],
+  "name": "Mad Shimmer EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "061e9530-7777-49da-995f-122f3ce2041b",
+  "vendor": "Arturia"
+}

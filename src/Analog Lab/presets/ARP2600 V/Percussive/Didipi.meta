@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Noise"],
+  "name": "Didipi",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "cf8971c9-141d-4fa4-adef-a182a35a3e37",
+  "vendor": "Arturia"
+}

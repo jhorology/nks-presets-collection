@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Noise"],
+  "name": "Singing Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eb85b3ba-4dcb-4c69-bd88-0e64739c1fc8",
+  "vendor": "Arturia"
+}

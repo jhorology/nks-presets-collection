@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Digital"],
+  "name": "Sleeping",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c4e96100-e9a3-46b0-bfe9-e69717cc3be8",
+  "vendor": "Arturia"
+}

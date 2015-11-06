@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Short"],
+  "name": "Night Space Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8e5a32b6-301d-46a9-a2f8-7d8321b73798",
+  "vendor": "Arturia"
+}

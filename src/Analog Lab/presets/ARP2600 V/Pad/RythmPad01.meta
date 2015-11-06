@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "RythmPad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1d64425b-343a-4486-9e8c-93476fe7bff6",
+  "vendor": "Arturia"
+}

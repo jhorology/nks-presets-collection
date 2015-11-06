@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Digital"],
+  "name": "Ring Gard (hold)",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "271950ee-7e1a-42b9-b697-a65933fdaf70",
+  "vendor": "Arturia"
+}

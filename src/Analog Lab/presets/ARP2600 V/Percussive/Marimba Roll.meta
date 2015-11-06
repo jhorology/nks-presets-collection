@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Marimba Roll",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "06bd90aa-986f-462f-ae52-b5d6f94a384d",
+  "vendor": "Arturia"
+}

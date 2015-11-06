@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Unison",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "35212d49-9959-4668-9ba1-152829d6ffeb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Sync2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6cd8be58-75fb-48b6-8851-1775acf78f72",
+  "vendor": "Arturia"
+}

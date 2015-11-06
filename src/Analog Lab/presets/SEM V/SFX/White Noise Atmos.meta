@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Soundtrack"],
+  "name": "White Noise Atmos",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b4b89a57-b9ff-43a2-ab2f-3ee1b667a022",
+  "vendor": "Arturia"
+}

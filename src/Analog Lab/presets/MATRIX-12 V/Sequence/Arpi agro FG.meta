@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Arpi agro FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6eb54ec1-c60b-4580-a99b-fb7637e6b130",
+  "vendor": "Arturia"
+}

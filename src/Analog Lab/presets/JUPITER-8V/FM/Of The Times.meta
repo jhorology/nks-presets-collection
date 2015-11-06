@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Short", "Digital"],
+  "name": "Of The Times",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "5a4ba5cd-fe34-430a-a2f7-3b039d1aebf2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Monster",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b5eb65fe-9007-4a53-8261-76e73f46543a",
+  "vendor": "Arturia"
+}

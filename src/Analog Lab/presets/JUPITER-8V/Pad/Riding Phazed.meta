@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ambient"],
+  "name": "Riding Phazed",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7cb1681b-7093-43c1-8df3-66ce218eb7be",
+  "vendor": "Arturia"
+}

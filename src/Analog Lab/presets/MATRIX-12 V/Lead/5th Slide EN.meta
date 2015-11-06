@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Complex", "Bizarre"],
+  "name": "5th Slide EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "63ebc15c-a603-4903-8007-ee98f0b0f4cd",
+  "vendor": "Arturia"
+}

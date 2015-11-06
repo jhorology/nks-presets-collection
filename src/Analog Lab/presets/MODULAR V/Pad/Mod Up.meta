@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Mod Up",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ceae5c26-bef9-45d7-b20c-3149cc01e540",
+  "vendor": "Arturia"
+}

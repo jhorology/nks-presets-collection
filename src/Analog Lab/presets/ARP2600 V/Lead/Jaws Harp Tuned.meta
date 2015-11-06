@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Jaws Harp Tuned",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d12382c9-1e72-4939-801f-eeb21fc8eb27",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Ensemble"],
+  "name": "Fm Noise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c283cec9-bb25-4d10-96c9-444c20a8f60b",
+  "vendor": "Arturia"
+}

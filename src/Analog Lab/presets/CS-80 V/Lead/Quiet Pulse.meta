@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Quiet Pulse",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "250e7ae1-4934-4897-b7f2-d322663b2514",
+  "vendor": "Arturia"
+}

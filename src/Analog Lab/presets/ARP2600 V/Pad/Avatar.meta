@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Ambient"],
+  "name": "Avatar",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bd44b5cb-4cd3-4f11-941b-bdca5f4d6238",
+  "vendor": "Arturia"
+}

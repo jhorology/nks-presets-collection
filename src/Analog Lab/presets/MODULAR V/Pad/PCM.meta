@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "PCM",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "72fa3a69-af57-4850-bafd-8471cedc33b0",
+  "vendor": "Arturia"
+}

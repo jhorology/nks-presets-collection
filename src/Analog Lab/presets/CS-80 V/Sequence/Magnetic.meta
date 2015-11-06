@@ -1,0 +1,13 @@
+{
+  "author": "SkyChurch",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Magnetic",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "61968414-0201-4eb3-bac6-8d90f751c495",
+  "vendor": "Arturia"
+}

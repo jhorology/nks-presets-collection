@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Dirty arp FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "17397e26-a1cb-41f7-8be4-64be5bb8e6f8",
+  "vendor": "Arturia"
+}

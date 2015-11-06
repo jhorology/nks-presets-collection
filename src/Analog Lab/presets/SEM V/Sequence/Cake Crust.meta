@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Cake Crust",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "458bdf7a-29a3-49a7-add4-2b15e47ed17d",
+  "vendor": "Arturia"
+}

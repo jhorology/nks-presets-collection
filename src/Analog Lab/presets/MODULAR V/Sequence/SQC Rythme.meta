@@ -1,0 +1,13 @@
+{
+  "author": "AGelbard",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble"],
+  "name": "SQC Rythme",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c7591dce-b64d-441e-8ebe-f361410ed9da",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Bassi2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "52a1da85-fd75-40eb-8c40-80ef38cd0fdc",
+  "vendor": "Arturia"
+}

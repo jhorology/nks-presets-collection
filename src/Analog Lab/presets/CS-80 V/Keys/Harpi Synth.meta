@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Harpi Synth",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0b4a13a8-1e5b-4d85-a92a-5c86729779ad",
+  "vendor": "Arturia"
+}

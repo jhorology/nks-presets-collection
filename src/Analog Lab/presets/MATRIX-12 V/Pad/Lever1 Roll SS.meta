@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Lever1 Roll SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ed95647a-30b8-421d-9e6a-bd6f9c21b560",
+  "vendor": "Arturia"
+}

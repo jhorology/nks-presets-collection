@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ambient"],
+  "name": "Low Bow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "811e5797-0b9e-4509-b775-c5921a906271",
+  "vendor": "Arturia"
+}

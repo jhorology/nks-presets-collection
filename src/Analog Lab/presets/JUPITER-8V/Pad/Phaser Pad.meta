@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Ambient", "Digital"],
+  "name": "Phaser Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "21cc6f39-60bd-4988-bfdd-cdcadf833671",
+  "vendor": "Arturia"
+}

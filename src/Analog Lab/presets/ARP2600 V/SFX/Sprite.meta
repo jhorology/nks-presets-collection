@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Sprite",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aa240ec7-77bd-4c22-82a5-4256792c500b",
+  "vendor": "Arturia"
+}

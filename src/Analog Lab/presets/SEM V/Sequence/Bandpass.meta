@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Bandpass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "127496d9-3cea-4786-a107-eec3aa325c8e",
+  "vendor": "Arturia"
+}

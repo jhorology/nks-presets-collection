@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Dub",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "45111f82-d62a-43e3-b540-108ce70feb49",
+  "vendor": "Arturia"
+}

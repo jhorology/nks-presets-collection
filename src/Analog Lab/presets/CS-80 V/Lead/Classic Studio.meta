@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Classic Studio",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "66a2cbf1-e86e-45f8-b464-629cc5bfca49",
+  "vendor": "Arturia"
+}

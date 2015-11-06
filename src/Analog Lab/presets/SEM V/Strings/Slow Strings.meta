@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Ensemble", "Soundtrack"],
+  "name": "Slow Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3f117fbb-6104-4060-8ce8-8ff67b17e602",
+  "vendor": "Arturia"
+}

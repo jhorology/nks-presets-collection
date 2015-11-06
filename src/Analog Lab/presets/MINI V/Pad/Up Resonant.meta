@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Long"],
+  "name": "Up Resonant",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "76bda22e-0bad-4cdb-b8a5-6b3bd2391b20",
+  "vendor": "Arturia"
+}

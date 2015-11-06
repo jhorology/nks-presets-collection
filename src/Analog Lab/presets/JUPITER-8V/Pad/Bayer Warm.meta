@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Digital"],
+  "name": "Bayer Warm",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "67e9b012-71cb-4db3-ba6b-dfd16e0c8171",
+  "vendor": "Arturia"
+}

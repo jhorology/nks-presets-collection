@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Ambient"],
+  "name": "Rodin",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9ad6f4aa-d3d5-4035-aec1-b059125f1e6a",
+  "vendor": "Arturia"
+}

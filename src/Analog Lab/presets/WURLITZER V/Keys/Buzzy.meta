@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Buzzy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5c4daac6-95dc-4cce-bf77-f51bcd5331a2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Bushman",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "177443c1-2f91-4451-89da-93861abb3855",
+  "vendor": "Arturia"
+}

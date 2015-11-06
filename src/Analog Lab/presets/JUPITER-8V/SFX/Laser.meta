@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Digital"],
+  "name": "Laser",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e12531ca-570d-4d1e-b0e0-6c4c2144d04a",
+  "vendor": "Arturia"
+}

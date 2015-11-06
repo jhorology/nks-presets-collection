@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Pompei",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "38559830-687d-4564-85f3-f37162d7afa1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lipschi Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "73e8fd3e-b139-48b9-869f-196c57547a42",
+  "vendor": "Arturia"
+}

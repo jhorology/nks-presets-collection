@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Acid"],
+  "name": "Mini05",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d8762be8-9bf4-4662-a55c-7f0666777ee5",
+  "vendor": "Arturia"
+}

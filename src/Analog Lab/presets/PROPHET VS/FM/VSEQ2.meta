@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "VSEQ2",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "a98c45ed-5a5e-47af-8cf5-3d9f1fd0872e",
+  "vendor": "Arturia"
+}

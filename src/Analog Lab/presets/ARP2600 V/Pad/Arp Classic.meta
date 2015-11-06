@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Arp Classic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "610cc5b5-e03b-4043-9efa-bbd4d42b0815",
+  "vendor": "Arturia"
+}

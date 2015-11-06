@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft"],
+  "name": "Gongy",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1ac1a97f-a428-4a26-b3fb-d949e65d39e8",
+  "vendor": "Arturia"
+}

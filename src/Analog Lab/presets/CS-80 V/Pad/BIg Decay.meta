@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "BIg Decay",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ef214fbe-1016-423e-98f7-58af6cb88303",
+  "vendor": "Arturia"
+}

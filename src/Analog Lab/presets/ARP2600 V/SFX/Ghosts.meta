@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Ghosts",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f22db425-fc38-4a8f-a4b2-c764afab535e",
+  "vendor": "Arturia"
+}

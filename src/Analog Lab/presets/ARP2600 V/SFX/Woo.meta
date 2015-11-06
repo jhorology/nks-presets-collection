@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Noise"],
+  "name": "Woo",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8b16ea61-6dae-4471-b630-ff4d67b95126",
+  "vendor": "Arturia"
+}

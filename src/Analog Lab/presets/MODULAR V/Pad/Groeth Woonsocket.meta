@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Ambient"],
+  "name": "Groeth Woonsocket",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "275bfa62-7d8b-4123-9b94-b728b3b5ea43",
+  "vendor": "Arturia"
+}

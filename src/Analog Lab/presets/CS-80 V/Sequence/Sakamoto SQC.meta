@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sakamoto SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1078d565-cfc8-4b17-8bb0-63be564d9515",
+  "vendor": "Arturia"
+}

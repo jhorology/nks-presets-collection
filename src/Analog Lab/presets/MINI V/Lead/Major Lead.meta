@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Major Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7dc2e914-8319-4528-9309-7e74a899abe0",
+  "vendor": "Arturia"
+}

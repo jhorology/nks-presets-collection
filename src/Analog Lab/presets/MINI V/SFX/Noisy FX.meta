@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Noisy FX",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8698be9b-c685-487b-af0c-6478ca5c4822",
+  "vendor": "Arturia"
+}

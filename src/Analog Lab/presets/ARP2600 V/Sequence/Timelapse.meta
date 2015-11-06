@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Timelapse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cf15f734-3b8f-461d-b05d-7f2d5393ed31",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid"],
+  "name": "Lfo Nes",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a6ff923b-152a-420a-b256-cddd9402d8b9",
+  "vendor": "Arturia"
+}

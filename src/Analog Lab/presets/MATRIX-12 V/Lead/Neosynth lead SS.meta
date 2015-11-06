@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Neosynth lead SS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1d1fd65e-056b-4a37-91ae-3dded1a6d1cf",
+  "vendor": "Arturia"
+}

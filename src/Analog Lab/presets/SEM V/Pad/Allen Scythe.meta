@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient", "Ensemble"],
+  "name": "Allen Scythe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "75633ad2-e649-4de6-b5f3-29197374f949",
+  "vendor": "Arturia"
+}

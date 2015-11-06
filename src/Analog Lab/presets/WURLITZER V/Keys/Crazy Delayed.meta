@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Bizarre", "Digital"],
+  "name": "Crazy Delayed",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9f9e7dc7-6c8d-418e-9e7b-e9d6f5c853be",
+  "vendor": "Arturia"
+}

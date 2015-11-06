@@ -1,0 +1,13 @@
+{
+  "author": "CDJ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard"],
+  "name": "Cloudslicer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "61b8c44f-1b7e-47e6-8eb4-b18726baaa04",
+  "vendor": "Arturia"
+}

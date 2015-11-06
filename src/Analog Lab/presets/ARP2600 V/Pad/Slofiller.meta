@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Slofiller",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a4d50b44-c895-4f99-96f1-ff0d0311f4b3",
+  "vendor": "Arturia"
+}

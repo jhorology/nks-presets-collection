@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short", "Digital"],
+  "name": "Krybackground",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fa0b484d-1846-4295-9cf5-ea7e5eb74b92",
+  "vendor": "Arturia"
+}

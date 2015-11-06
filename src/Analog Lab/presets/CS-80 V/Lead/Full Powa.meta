@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Full Powa",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9bd8e214-9b37-4783-8699-b7e6dad8277a",
+  "vendor": "Arturia"
+}

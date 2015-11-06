@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Wobbly Band Pass",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fdeddceb-c4d9-4ab0-b53a-c57b31927377",
+  "vendor": "Arturia"
+}

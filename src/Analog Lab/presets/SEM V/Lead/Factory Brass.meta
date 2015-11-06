@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Factory Brass",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1d9327e8-6d5a-4ad0-b474-72da1ce1b332",
+  "vendor": "Arturia"
+}

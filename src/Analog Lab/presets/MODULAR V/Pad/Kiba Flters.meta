@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Kiba Flters",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d8bb42d3-4bfd-44fe-9e0f-88933861dc70",
+  "vendor": "Arturia"
+}

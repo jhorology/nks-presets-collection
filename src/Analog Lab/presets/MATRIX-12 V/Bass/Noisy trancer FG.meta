@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Noisy trancer FG",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b00eef57-fdd2-452a-9e3b-ffc0deca1910",
+  "vendor": "Arturia"
+}

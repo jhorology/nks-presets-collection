@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex"],
+  "name": "Bell",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bf382650-c416-4538-b09c-4a5528992d74",
+  "vendor": "Arturia"
+}

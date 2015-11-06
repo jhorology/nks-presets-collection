@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "80's Trip",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e3426c72-b55e-4192-a635-6db6b4984bbf",
+  "vendor": "Arturia"
+}

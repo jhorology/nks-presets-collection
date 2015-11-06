@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soundtrack"],
+  "name": "Below Low SCD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "94f6a055-0a29-4578-b126-f4b9ae5b45e7",
+  "vendor": "Arturia"
+}

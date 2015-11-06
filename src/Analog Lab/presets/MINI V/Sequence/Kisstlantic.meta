@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Long"],
+  "name": "Kisstlantic",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c7245726-7f2c-44c4-b1e9-485699517270",
+  "vendor": "Arturia"
+}

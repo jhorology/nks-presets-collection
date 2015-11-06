@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Japadi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2e61a2e9-2ad5-45dc-af48-2cbbb04b7b3f",
+  "vendor": "Arturia"
+}

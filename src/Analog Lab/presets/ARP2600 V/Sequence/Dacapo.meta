@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid"],
+  "name": "Dacapo",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2ba312c1-7fe6-4dd4-9b46-099370420a94",
+  "vendor": "Arturia"
+}

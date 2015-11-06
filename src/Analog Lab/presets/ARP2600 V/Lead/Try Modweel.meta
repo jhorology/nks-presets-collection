@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Try Modweel",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d2cd26ad-de10-4c69-86d4-489dc11daad5",
+  "vendor": "Arturia"
+}

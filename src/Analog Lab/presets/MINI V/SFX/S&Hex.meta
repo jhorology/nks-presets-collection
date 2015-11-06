@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "S&Hex",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b073d456-6a4c-495f-a5b7-9d2f308b4b5b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "W.Badarou",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Blast",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "103ce87b-ed50-47b0-a941-95acdaf71ea4",
+  "vendor": "Arturia"
+}

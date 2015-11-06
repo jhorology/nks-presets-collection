@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Long", "Ambient"],
+  "name": "Digital River",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "87dfc9d1-39c6-49ce-bf8b-d2566410c152",
+  "vendor": "Arturia"
+}

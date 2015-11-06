@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Complex", "Ambient"],
+  "name": "Astral Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5fd8d6b4-ca8d-4709-b275-7aa53c03bb9a",
+  "vendor": "Arturia"
+}

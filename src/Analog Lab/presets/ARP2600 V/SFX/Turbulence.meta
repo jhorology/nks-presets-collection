@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Turbulence",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1cafa706-7d06-47e8-9d18-01735a836d26",
+  "vendor": "Arturia"
+}

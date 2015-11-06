@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Bizarre", "Ambient"],
+  "name": "R2 Dont Sue Me",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4839b930-d1df-42cf-8ab8-abecc77264ba",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Long"],
+  "name": "Helter Skelter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d9db6ffd-118f-4853-b742-46a9a2412ccd",
+  "vendor": "Arturia"
+}

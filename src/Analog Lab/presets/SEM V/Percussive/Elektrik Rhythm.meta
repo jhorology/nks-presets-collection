@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Elektrik Rhythm",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ffc8d637-52c6-4bc9-b804-a734b0b7a3b7",
+  "vendor": "Arturia"
+}

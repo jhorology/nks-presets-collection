@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Gated Filter",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "adf909b7-794c-49d6-85e8-9c280b950483",
+  "vendor": "Arturia"
+}

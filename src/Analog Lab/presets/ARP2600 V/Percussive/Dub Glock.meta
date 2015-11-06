@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Dub Glock",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "920921a4-3abc-4e79-9975-b83cd33fe731",
+  "vendor": "Arturia"
+}

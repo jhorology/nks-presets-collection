@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Synch Bass01",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ba16cc04-a20e-4eac-a36c-736c7e501ff9",
+  "vendor": "Arturia"
+}

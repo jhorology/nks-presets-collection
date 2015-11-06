@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Juno Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fb6d9008-1dfb-4c0e-b2e3-c76444f20c4a",
+  "vendor": "Arturia"
+}

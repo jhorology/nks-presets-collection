@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Hihat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5e638fc3-3df9-48b7-be93-91d1dd9c9477",
+  "vendor": "Arturia"
+}

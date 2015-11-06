@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient", "Funky"],
+  "name": "Sawed Off",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "39ea8e74-64e8-496d-bd84-702ab325d7cb",
+  "vendor": "Arturia"
+}

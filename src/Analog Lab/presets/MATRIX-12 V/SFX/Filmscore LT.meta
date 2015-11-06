@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soundtrack"],
+  "name": "Filmscore LT",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fc10cc4e-a11e-4c2b-a2a3-a2b570a78c5d",
+  "vendor": "Arturia"
+}

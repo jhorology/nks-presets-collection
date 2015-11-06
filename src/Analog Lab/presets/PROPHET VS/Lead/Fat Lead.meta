@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Fat Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "785d3564-4b75-405b-9a05-48901f9e9eb9",
+  "vendor": "Arturia"
+}

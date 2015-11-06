@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Cutoff Mod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc8f9af1-e720-4e78-9e53-9f49eb4fe524",
+  "vendor": "Arturia"
+}

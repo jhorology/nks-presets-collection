@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Ensemble"],
+  "name": "Rotate Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "be63e2e3-6daa-4f91-8322-ba3effdbb3c2",
+  "vendor": "Arturia"
+}

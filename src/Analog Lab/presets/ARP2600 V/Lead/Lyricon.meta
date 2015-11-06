@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Lyricon",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6377065d-54db-4636-acb2-5130c2d32d5e",
+  "vendor": "Arturia"
+}

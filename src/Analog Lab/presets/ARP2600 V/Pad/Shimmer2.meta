@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Shimmer2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "44363aee-c753-46e7-b251-e29715b2a54c",
+  "vendor": "Arturia"
+}

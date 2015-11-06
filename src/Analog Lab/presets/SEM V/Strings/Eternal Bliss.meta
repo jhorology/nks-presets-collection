@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Eternal Bliss",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "0ee9c900-1d5d-4ccd-abbf-61d2928cc21e",
+  "vendor": "Arturia"
+}

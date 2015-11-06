@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Long", "Bizarre"],
+  "name": "Bizzi Cream",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9b100df4-be7d-44fd-aa08-171df087c1b1",
+  "vendor": "Arturia"
+}

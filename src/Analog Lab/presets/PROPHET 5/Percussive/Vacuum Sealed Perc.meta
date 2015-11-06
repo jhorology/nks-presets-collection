@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short", "Noise"],
+  "name": "Vacuum Sealed Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fbf9fb7a-79d5-4a39-9709-b1467132f560",
+  "vendor": "Arturia"
+}

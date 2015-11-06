@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre"],
+  "name": "Fizza",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6cb7ff52-a8cc-4899-a467-a0f4567cf1c4",
+  "vendor": "Arturia"
+}

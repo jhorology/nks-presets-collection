@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Noise"],
+  "name": "Future Primitive",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9555f2f4-b7e0-4450-889e-bba3e3ea78a8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Tapestry SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dbf15aed-c705-4219-bbf6-14987f5f72a3",
+  "vendor": "Arturia"
+}

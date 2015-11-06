@@ -1,0 +1,13 @@
+{
+  "author": "omissis2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Drumalogic Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e1b2e6f8-b6c9-40fa-9a82-7014bfc550ee",
+  "vendor": "Arturia"
+}

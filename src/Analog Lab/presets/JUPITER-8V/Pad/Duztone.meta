@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Complex"],
+  "name": "Duztone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "25db9c8f-acdf-4b6e-9dce-04c519356d51",
+  "vendor": "Arturia"
+}

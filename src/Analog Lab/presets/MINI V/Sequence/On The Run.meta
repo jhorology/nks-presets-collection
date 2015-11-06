@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid"],
+  "name": "On The Run",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8a99789d-8ddc-4200-bcb2-d6bac1ec1fed",
+  "vendor": "Arturia"
+}

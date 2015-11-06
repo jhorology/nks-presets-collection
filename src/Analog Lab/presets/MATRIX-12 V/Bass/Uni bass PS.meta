@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Long", "Funky"],
+  "name": "Uni bass PS",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5ad4e0cf-c31b-483d-a6ce-29517f30a65d",
+  "vendor": "Arturia"
+}

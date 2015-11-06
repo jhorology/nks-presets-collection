@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Click Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "98afb95f-8548-46e1-a5b3-8ac635924bea",
+  "vendor": "Arturia"
+}

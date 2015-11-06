@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Noise"],
+  "name": "Digital Confusion",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "641d604a-df5b-4cd4-ae76-254d4585e8b0",
+  "vendor": "Arturia"
+}

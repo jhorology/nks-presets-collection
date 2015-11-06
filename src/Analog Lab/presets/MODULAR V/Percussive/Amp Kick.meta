@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient", "Noise"],
+  "name": "Amp Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a53548ad-67d0-4ddb-b114-c9da4e8c58c2",
+  "vendor": "Arturia"
+}

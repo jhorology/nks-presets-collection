@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Fm Bass01",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "6b92df9f-dc22-4e63-8c58-04da16fc5d79",
+  "vendor": "Arturia"
+}

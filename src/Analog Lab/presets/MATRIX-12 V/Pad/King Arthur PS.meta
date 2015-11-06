@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Ambient", "Soundtrack"],
+  "name": "King Arthur PS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "26906229-99f0-4183-b902-c05444b3265c",
+  "vendor": "Arturia"
+}

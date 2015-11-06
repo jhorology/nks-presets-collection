@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Revival02",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "57bb2d5a-e89f-4090-a7e3-62a85652397f",
+  "vendor": "Arturia"
+}

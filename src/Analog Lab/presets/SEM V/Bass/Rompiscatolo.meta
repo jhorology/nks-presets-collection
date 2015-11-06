@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient", "Ensemble", "Noise"],
+  "name": "Rompiscatolo",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a15b8cb5-3846-4325-b6cb-c19175565988",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Ensemble", "Funky"],
+  "name": "M12 5point1 SCD",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "51abad1c-d617-475a-82a2-8d019cf76949",
+  "vendor": "Arturia"
+}

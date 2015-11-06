@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre"],
+  "name": "Baujolpif",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9d1455a4-7525-4d24-9571-35e22ed6b8e7",
+  "vendor": "Arturia"
+}

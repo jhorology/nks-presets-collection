@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Harmonics",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6dc1ccce-0ede-494a-8663-74521cf2082d",
+  "vendor": "Arturia"
+}

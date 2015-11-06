@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Noise"],
+  "name": "Kontimewarp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0a4e4e77-ccc3-4dca-990e-ae62ad14b894",
+  "vendor": "Arturia"
+}

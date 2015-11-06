@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Sweet Dreams",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "c21a9ad5-3d54-4645-b437-13946e441cf7",
+  "vendor": "Arturia"
+}

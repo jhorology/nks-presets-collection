@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Simple", "Soundtrack"],
+  "name": "Expressivo lago PS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6cfab0eb-737a-4bbe-ab4b-73aabceaac38",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Hoover",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5be3c547-d8da-4bde-8a50-048e18e7625c",
+  "vendor": "Arturia"
+}

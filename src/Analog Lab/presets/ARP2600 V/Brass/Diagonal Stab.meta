@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Diagonal Stab",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "6c7613f4-1421-4600-9eb0-e357de521618",
+  "vendor": "Arturia"
+}

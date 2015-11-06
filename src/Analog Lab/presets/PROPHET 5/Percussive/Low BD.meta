@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Low BD",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "34f35593-e73f-44ef-b498-428ac480f8e2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Silver Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "81787b91-65e4-4509-9f7c-522855418949",
+  "vendor": "Arturia"
+}

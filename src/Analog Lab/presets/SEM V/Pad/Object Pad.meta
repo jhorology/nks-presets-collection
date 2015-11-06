@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Ensemble"],
+  "name": "Object Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5026504a-52d1-4603-a40f-edfea79c79b6",
+  "vendor": "Arturia"
+}

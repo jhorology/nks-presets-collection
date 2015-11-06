@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Ambient", "Noise"],
+  "name": "Flutter Comp EN",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b5faebba-a09a-465c-8fd7-63e6f960611d",
+  "vendor": "Arturia"
+}

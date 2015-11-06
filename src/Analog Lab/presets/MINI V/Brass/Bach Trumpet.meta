@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Bach Trumpet",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "bca85a87-d860-4aff-92fd-f264b17c3422",
+  "vendor": "Arturia"
+}

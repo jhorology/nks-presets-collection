@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Memry Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3c48c0a8-91ad-4aa7-840c-fb97c5c2a339",
+  "vendor": "Arturia"
+}

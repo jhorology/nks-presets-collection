@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Auto Accomp TN",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8419e463-8b28-4f4e-983a-e21c4c251611",
+  "vendor": "Arturia"
+}

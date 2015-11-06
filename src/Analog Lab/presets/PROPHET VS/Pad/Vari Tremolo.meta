@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Vari Tremolo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7e3b63fa-e2e5-41c6-a227-c7c37836e6a1",
+  "vendor": "Arturia"
+}

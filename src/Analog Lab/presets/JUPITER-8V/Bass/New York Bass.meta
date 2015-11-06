@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Ensemble"],
+  "name": "New York Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2e1e488e-2aeb-463d-a2a3-1df106ddf152",
+  "vendor": "Arturia"
+}

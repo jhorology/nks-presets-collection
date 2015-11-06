@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Slo Go",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "05c65f18-af9b-46f7-b8c6-c0c00a18c236",
+  "vendor": "Arturia"
+}

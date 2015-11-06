@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Triangleface EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d481b5db-caa0-4012-9ea2-6724480b98c5",
+  "vendor": "Arturia"
+}

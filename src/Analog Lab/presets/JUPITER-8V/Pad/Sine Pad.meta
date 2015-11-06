@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ambient", "Digital"],
+  "name": "Sine Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "878daa6b-eb75-4031-b399-4cece96e5e1d",
+  "vendor": "Arturia"
+}

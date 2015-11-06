@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Voice Detuned",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1bb37d0e-acc3-4a41-a0fc-1f12ed0f89ad",
+  "vendor": "Arturia"
+}

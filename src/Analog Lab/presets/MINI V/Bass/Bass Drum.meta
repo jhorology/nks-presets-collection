@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Bass Drum",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ac73a3b6-d0c4-4758-8c0f-fc7fe3e9c36f",
+  "vendor": "Arturia"
+}

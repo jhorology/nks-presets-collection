@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Old Rythm Box01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c40ffbad-e618-4b8e-a760-41384688b024",
+  "vendor": "Arturia"
+}

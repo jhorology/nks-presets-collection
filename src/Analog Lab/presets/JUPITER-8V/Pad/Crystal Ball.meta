@@ -1,0 +1,13 @@
+{
+  "author": "KUJIIE",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Simple"],
+  "name": "Crystal Ball",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "32722cab-ff8c-476d-810a-f40d7bf772ec",
+  "vendor": "Arturia"
+}

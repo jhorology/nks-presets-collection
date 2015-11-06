@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Tek Saw Nik",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ef002c92-9eb2-43b3-9333-fc7d82730545",
+  "vendor": "Arturia"
+}

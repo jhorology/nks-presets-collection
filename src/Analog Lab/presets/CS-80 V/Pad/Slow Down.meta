@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Slow Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "969f46de-9bda-460b-a020-14aa641e8e73",
+  "vendor": "Arturia"
+}

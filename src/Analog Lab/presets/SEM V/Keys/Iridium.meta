@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Iridium",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6417a914-191b-4c11-988d-bfc2d46e18a0",
+  "vendor": "Arturia"
+}

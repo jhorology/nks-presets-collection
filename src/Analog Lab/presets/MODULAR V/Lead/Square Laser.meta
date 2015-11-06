@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Square Laser",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c00d9f08-b136-4dc1-96c4-0ff3b07f2663",
+  "vendor": "Arturia"
+}

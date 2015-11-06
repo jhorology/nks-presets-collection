@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Synth Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "4dba2163-73e2-477b-bdb4-ea6af0e1e750",
+  "vendor": "Arturia"
+}

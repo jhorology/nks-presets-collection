@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Voltard",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "837e7480-3793-494c-894f-9c6134050d2c",
+  "vendor": "Arturia"
+}

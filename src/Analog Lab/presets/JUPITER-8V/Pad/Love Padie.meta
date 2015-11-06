@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Love Padie",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4396ca1c-c3cf-485d-bf40-9eaa97a8b935",
+  "vendor": "Arturia"
+}

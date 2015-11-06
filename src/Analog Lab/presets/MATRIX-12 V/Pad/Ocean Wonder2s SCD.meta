@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long", "Ambient", "Digital", "Soundtrack"],
+  "name": "Ocean Wonder2s SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "74fef617-284f-4bc3-90e0-f9bc25922e5e",
+  "vendor": "Arturia"
+}

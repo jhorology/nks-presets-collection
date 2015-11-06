@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Celeste",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "a98baae5-b03c-4971-b192-f9b5d0d28748",
+  "vendor": "Arturia"
+}

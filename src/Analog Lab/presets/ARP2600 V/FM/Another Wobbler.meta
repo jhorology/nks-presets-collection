@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Another Wobbler",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "525ad047-670d-4d93-a249-4d972f126a0e",
+  "vendor": "Arturia"
+}

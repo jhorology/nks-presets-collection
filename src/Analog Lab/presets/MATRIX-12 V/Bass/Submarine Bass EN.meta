@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard", "Simple"],
+  "name": "Submarine Bass EN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "42ccee73-7572-44df-8fbb-f4b49c4f960d",
+  "vendor": "Arturia"
+}

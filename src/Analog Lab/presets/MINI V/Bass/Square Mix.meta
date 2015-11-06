@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Square Mix",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2970d027-4e8b-45f3-bc4a-984268bfee2b",
+  "vendor": "Arturia"
+}

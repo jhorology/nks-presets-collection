@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Back'n New York",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7d3240c4-ad9f-4c4f-82e7-1571348c2a37",
+  "vendor": "Arturia"
+}

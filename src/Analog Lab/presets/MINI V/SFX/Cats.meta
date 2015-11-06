@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Cats",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7691018b-8f72-4bb7-b961-f2b4bbd841e7",
+  "vendor": "Arturia"
+}

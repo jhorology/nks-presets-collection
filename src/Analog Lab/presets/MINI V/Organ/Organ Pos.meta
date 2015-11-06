@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Organ Pos",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "da2777fe-c913-40fb-839d-1a54e829e34a",
+  "vendor": "Arturia"
+}

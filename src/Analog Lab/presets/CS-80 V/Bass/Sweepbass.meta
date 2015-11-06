@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Sweepbass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e7230c87-8503-4e89-b187-766d7cc31062",
+  "vendor": "Arturia"
+}

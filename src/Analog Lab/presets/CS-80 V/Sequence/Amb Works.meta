@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Amb Works",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9f7e4199-6d16-4579-82a1-6f2d269666f5",
+  "vendor": "Arturia"
+}

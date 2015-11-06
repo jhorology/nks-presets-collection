@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mod Bass2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1d3026c2-cc14-4d72-a514-6db0c10240fe",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Long", "Ensemble"],
+  "name": "Chill SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8a520c08-7770-42d2-892f-81bc04a8b2e6",
+  "vendor": "Arturia"
+}

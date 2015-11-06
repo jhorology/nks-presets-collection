@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Good Night",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0eddd144-d1b3-4510-b19d-1b6dc19918f3",
+  "vendor": "Arturia"
+}

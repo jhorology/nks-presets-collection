@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Lightly",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "c0e4e677-2ae7-4e20-a969-6409c3c4553c",
+  "vendor": "Arturia"
+}

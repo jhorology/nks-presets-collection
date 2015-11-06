@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble"],
+  "name": "Ring SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0e0523a2-1476-485f-ad68-b44fa2dde8fa",
+  "vendor": "Arturia"
+}

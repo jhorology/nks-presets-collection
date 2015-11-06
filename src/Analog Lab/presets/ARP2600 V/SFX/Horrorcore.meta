@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Horrorcore",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "75defe96-fb2f-495e-8024-32a5637b7019",
+  "vendor": "Arturia"
+}

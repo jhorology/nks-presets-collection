@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "FX02",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "70ac6ebb-e4d6-45a0-a289-6963e7aa4b99",
+  "vendor": "Arturia"
+}

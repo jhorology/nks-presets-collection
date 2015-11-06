@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Enormous",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3ea26963-d63f-49be-b1c1-66d6f8676863",
+  "vendor": "Arturia"
+}

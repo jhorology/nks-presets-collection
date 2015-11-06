@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "FM Bass",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "fd57cdaa-cd83-4030-95c7-2f3a8dabf370",
+  "vendor": "Arturia"
+}

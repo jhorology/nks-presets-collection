@@ -1,0 +1,13 @@
+{
+  "author": "L.Llorca",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Brass Synth",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "50d02528-f031-4ec9-beec-df52097b6d29",
+  "vendor": "Arturia"
+}

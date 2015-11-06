@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Play same note3 SS",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9210ebc3-7db4-41b9-86e6-eca5434d4a1d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient", "Ensemble"],
+  "name": "Deep Forset",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "63043620-1df9-4dff-9d1a-f17aaf6108e5",
+  "vendor": "Arturia"
+}

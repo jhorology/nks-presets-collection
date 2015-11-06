@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Crystal Palace",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "373f7016-1ba1-47cf-80f0-e0eb2d48f5f4",
+  "vendor": "Arturia"
+}

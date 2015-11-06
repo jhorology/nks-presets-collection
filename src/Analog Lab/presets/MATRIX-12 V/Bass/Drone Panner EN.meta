@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Complex", "Bizarre", "Noise", "Soundtrack"],
+  "name": "Drone Panner EN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0e4f9faa-347e-44b0-896b-30940b4f81fb",
+  "vendor": "Arturia"
+}

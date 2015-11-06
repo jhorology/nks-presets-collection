@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Film Music",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "de5860e2-e8a4-406c-9cd0-287bb89e39b2",
+  "vendor": "Arturia"
+}

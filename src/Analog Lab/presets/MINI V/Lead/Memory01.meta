@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Funky"],
+  "name": "Memory01",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "07baae85-8fe2-4060-8ebb-d006d3a2ab8b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ambient"],
+  "name": "Sin Cross Mod Bell",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "ac9dbb73-46dd-4a26-8980-eea07a9749ab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ambient"],
+  "name": "Ambient Deluxe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2ec79c8f-4a55-4a20-9ec3-153a70c83d76",
+  "vendor": "Arturia"
+}

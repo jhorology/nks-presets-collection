@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Short", "Digital"],
+  "name": "Bazzili Apreggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "be642775-e689-4fd2-a390-0b3ff4d8089d",
+  "vendor": "Arturia"
+}

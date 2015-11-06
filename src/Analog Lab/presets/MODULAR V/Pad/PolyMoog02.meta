@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "PolyMoog02",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9dbd291b-5356-490b-81d9-3c0148ef2a5f",
+  "vendor": "Arturia"
+}

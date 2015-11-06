@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Irish Coffee",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a1d6e58c-56de-4c72-a5f1-38f1ef6d1a1e",
+  "vendor": "Arturia"
+}

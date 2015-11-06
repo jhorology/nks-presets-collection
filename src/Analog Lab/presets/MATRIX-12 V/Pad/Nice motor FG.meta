@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark"],
+  "name": "Nice motor FG",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ff03583a-eec9-4ad7-90ac-a88aee5f961e",
+  "vendor": "Arturia"
+}

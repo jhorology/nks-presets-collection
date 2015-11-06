@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Filter",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f75af157-516e-45c3-856d-1dc98106f874",
+  "vendor": "Arturia"
+}

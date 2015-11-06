@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Hi Hats",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5e2aaed4-56c3-4f21-8b6a-c6b1b2909c7f",
+  "vendor": "Arturia"
+}

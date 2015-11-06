@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Cat Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "12b187f9-35ac-4a9a-beb3-23fcdc6ce3ef",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Acid", "Digital"],
+  "name": "Soft Floor1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "18ef7e62-905d-40a7-87bf-4f4cd8389fe9",
+  "vendor": "Arturia"
+}

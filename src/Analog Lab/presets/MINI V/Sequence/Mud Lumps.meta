@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Mud Lumps",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "be65b8d6-a4b4-486f-9f35-accbd72103e8",
+  "vendor": "Arturia"
+}

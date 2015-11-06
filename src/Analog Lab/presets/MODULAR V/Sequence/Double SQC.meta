@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Double SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b5795ce8-773f-47d2-be19-def71fa79e45",
+  "vendor": "Arturia"
+}

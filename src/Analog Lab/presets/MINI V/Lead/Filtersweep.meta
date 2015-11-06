@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid"],
+  "name": "Filtersweep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "095fe56e-cef5-491a-bbda-b8e855981797",
+  "vendor": "Arturia"
+}

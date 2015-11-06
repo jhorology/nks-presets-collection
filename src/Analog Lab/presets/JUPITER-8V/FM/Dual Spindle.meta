@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Digital"],
+  "name": "Dual Spindle",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f2d315f1-c690-40f8-abdf-a78559ecc60a",
+  "vendor": "Arturia"
+}

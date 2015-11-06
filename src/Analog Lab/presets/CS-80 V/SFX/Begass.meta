@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Begass",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d7de2f24-e56a-450d-8513-99d0de6314d3",
+  "vendor": "Arturia"
+}

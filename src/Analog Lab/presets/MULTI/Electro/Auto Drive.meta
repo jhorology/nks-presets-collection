@@ -1,0 +1,12 @@
+{
+  "bankchain": ["Analog Lab", "MULTI", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electro"],
+  "name": "Auto Drive",
+  "types": [
+    ["Multi"]
+  ],
+  "uuid": "cf3e013b-3bf9-48e2-8aeb-8554bc37c6b4",
+  "vendor": "Arturia"
+}

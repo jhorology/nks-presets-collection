@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Air Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b48a164e-ba8a-41dd-93a3-8813e079b71c",
+  "vendor": "Arturia"
+}

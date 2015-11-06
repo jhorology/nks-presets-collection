@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Melo Noise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dd4e9222-c006-44d1-bdaf-675d389b8806",
+  "vendor": "Arturia"
+}

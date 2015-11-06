@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "TN_Feedback",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "716ff560-b038-4654-b4fe-08b09a865027",
+  "vendor": "Arturia"
+}

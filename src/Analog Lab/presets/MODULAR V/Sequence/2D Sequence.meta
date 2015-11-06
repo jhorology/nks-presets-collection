@@ -1,0 +1,13 @@
+{
+  "author": "Tomeso",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "2D Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a989d9a8-85ad-473d-8404-c64da7bdb94b",
+  "vendor": "Arturia"
+}

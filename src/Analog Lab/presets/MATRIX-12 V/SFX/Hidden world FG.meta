@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient"],
+  "name": "Hidden world FG",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a9ddd230-ae4b-4378-aae3-9f3ba311aceb",
+  "vendor": "Arturia"
+}

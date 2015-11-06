@@ -1,0 +1,13 @@
+{
+  "author": "omissis2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Fairlighting",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "66d5c47b-b948-4a69-8793-b868b7fbde51",
+  "vendor": "Arturia"
+}

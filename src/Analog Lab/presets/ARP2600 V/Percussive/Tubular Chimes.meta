@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Tubular Chimes",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d324038b-d708-43db-8439-1d088c3ebe64",
+  "vendor": "Arturia"
+}

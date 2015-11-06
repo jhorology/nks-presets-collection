@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Mute Wah Clav",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fdca5359-cad4-4f7d-a82f-089cc4e3e060",
+  "vendor": "Arturia"
+}

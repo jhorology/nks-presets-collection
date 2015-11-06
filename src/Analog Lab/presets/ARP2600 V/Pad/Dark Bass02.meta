@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Dark Bass02",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3a34a3fc-447f-4098-95d5-e3143a61a600",
+  "vendor": "Arturia"
+}

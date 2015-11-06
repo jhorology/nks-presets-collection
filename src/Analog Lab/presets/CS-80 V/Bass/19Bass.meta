@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital", "Funky"],
+  "name": "19Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9a81f562-d54c-421c-b128-31f241f44cb6",
+  "vendor": "Arturia"
+}

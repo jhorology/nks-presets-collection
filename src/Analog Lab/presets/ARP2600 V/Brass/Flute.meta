@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Flute",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "774a6ef8-f072-4336-969b-619494ada3ce",
+  "vendor": "Arturia"
+}

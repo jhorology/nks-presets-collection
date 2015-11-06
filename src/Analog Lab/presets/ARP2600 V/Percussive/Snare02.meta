@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Snare02",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ce878b98-a798-4315-853b-4d32f1829caa",
+  "vendor": "Arturia"
+}

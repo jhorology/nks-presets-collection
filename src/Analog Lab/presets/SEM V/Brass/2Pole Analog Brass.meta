@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "2Pole Analog Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "6684e35e-e884-46e0-8276-94d77dd03fe6",
+  "vendor": "Arturia"
+}

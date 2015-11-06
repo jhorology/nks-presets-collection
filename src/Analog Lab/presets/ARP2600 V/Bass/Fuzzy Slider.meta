@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Funky"],
+  "name": "Fuzzy Slider",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "653b7800-52e0-4f18-b428-33ae87337a6c",
+  "vendor": "Arturia"
+}

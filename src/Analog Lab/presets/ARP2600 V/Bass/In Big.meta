@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "In Big",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "828350cf-191a-4de8-bc71-957827cf91ce",
+  "vendor": "Arturia"
+}

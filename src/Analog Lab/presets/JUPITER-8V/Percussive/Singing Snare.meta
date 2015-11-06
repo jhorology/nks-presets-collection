@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Acid"],
+  "name": "Singing Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d280f2d5-9d17-49e7-a99c-791913fb417a",
+  "vendor": "Arturia"
+}

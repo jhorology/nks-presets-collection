@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Fat Sawlead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "33ed4df5-a41e-42be-88eb-9470ab3f73c2",
+  "vendor": "Arturia"
+}

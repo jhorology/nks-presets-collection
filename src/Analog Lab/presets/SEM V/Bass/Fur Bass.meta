@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Fur Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8fb65758-c0ff-41da-8e3b-03ba5ed8ad42",
+  "vendor": "Arturia"
+}

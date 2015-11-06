@@ -1,0 +1,13 @@
+{
+  "author": "T.Perlman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Opening Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "86aa3f4c-ca51-4522-b00d-c91977d9bf89",
+  "vendor": "Arturia"
+}

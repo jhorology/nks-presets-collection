@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short"],
+  "name": "Hard Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0007b57b-6d16-4435-a2ec-b42f2e4a5d0b",
+  "vendor": "Arturia"
+}

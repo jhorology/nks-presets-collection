@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Electro Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "870fc37f-03a2-4b99-a2ed-d765dba7516f",
+  "vendor": "Arturia"
+}

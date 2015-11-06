@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Huck Fin Cutoff",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a332a1fc-7041-46a2-aa8b-fea9883650d9",
+  "vendor": "Arturia"
+}

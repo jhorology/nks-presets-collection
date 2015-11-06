@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Thin Pad GS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bd5dbb2b-3f5e-477d-aae7-5db96f5d90b3",
+  "vendor": "Arturia"
+}

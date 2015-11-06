@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "On Fire",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "12632a32-f2d0-4564-b160-1271b2416637",
+  "vendor": "Arturia"
+}

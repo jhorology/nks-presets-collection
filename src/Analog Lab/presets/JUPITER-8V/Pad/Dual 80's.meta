@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Dual 80's",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6881725e-8e36-4a58-b896-3c513f4b5116",
+  "vendor": "Arturia"
+}

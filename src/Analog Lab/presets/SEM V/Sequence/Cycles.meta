@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Funky"],
+  "name": "Cycles",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7ddab56d-e903-48a7-802a-382a4c457c2f",
+  "vendor": "Arturia"
+}

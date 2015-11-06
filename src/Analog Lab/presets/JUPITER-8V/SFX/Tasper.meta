@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Ambient", "Soundtrack"],
+  "name": "Tasper",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "699a0ff9-ceb2-4be0-88e8-e8a3d1cec5f9",
+  "vendor": "Arturia"
+}

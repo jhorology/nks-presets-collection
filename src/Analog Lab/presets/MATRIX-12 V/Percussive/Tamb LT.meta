@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Long", "Ambient"],
+  "name": "Tamb LT",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5f7d0962-8bfa-48ed-a486-16187a43282e",
+  "vendor": "Arturia"
+}

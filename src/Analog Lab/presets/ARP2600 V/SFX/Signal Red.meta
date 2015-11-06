@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "Signal Red",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d5c4189e-92d2-4712-9ef5-8aeb6dd20b4e",
+  "vendor": "Arturia"
+}

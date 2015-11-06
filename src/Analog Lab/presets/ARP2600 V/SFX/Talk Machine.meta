@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Talk Machine",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "259d36d3-309f-4865-af57-7ade33235da6",
+  "vendor": "Arturia"
+}

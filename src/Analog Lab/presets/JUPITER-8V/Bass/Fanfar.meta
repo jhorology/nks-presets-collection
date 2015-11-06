@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Noise"],
+  "name": "Fanfar",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bd6f059a-ae6b-48ea-be05-16bbcdfef67a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "15 Pfx",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9150a805-f707-4e19-bf0e-612494e50116",
+  "vendor": "Arturia"
+}

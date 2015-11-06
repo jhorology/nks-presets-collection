@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Slow detune",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9203c9df-cdf7-4690-9356-660c2eb35cc2",
+  "vendor": "Arturia"
+}

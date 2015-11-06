@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Nip Bit",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "383684bf-7ca5-4b44-a9a1-1d60c02f0092",
+  "vendor": "Arturia"
+}

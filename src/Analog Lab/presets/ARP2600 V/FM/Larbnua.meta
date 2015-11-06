@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Larbnua",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d1f54350-cf9c-4e9e-8eb2-2a8bdba0dead",
+  "vendor": "Arturia"
+}

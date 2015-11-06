@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Fiato LT",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3e952a65-1259-4f86-a5fc-fe5f7afee252",
+  "vendor": "Arturia"
+}

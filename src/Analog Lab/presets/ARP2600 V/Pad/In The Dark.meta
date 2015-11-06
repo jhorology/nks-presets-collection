@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "In The Dark",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "33c6a92d-8a18-4faf-bfe6-679a23ac5b71",
+  "vendor": "Arturia"
+}

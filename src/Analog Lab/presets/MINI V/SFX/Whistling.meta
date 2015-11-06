@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Whistling",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2282875b-0fc1-442c-b809-c0ed7804cd6b",
+  "vendor": "Arturia"
+}

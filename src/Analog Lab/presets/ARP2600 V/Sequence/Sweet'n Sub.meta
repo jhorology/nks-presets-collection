@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Sweet'n Sub",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3afb58bb-f6ed-4202-8b7c-5e94109c1ea8",
+  "vendor": "Arturia"
+}

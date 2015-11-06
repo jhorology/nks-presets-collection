@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Modular Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ff8a293b-aa69-4c11-a9c8-94cde5e9eb87",
+  "vendor": "Arturia"
+}

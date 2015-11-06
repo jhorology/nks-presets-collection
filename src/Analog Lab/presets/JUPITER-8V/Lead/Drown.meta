@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Noise"],
+  "name": "Drown",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fb925683-4a19-4b9d-80b8-53da853a1dd7",
+  "vendor": "Arturia"
+}

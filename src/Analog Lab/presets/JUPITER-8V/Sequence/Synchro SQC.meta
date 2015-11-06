@@ -1,0 +1,13 @@
+{
+  "author": "KUJIIE",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Acid"],
+  "name": "Synchro SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fc1a0c57-37d8-44bb-b8b5-a4f35132d3dc",
+  "vendor": "Arturia"
+}

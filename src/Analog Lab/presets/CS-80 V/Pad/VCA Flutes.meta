@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "VCA Flutes",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "980cc179-26cb-4a96-84ed-bf4679debf87",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital"],
+  "name": "Rhodes Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "65df3349-a641-4985-b347-cda0d925d9d4",
+  "vendor": "Arturia"
+}

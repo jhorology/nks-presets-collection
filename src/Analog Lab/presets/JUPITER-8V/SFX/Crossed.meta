@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre", "Noise"],
+  "name": "Crossed",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a32b13ad-b467-422e-8848-24bde874062b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Funky"],
+  "name": "Perfect SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7c3fb9c4-cb2a-4919-a348-1d102123fe38",
+  "vendor": "Arturia"
+}

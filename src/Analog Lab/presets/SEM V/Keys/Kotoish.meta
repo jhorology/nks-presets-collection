@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Kotoish",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e0a24108-f6ca-4e09-8ce3-43a3abee6745",
+  "vendor": "Arturia"
+}

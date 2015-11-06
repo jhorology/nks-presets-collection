@@ -1,0 +1,13 @@
+{
+  "author": "ChrisLaurence",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Quiet Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c55157ba-5973-4f94-9bbb-7ef13fcae0c6",
+  "vendor": "Arturia"
+}

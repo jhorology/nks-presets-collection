@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "70's Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "57eb0af5-7fad-42bc-a823-de296963bae5",
+  "vendor": "Arturia"
+}

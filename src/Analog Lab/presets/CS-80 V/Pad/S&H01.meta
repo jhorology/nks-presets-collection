@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "S&H01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "df730197-88b2-4782-8952-b2a3044c27f4",
+  "vendor": "Arturia"
+}

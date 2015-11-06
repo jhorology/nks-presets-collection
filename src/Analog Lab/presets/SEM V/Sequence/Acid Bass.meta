@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre"],
+  "name": "Acid Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3e2c56d7-171a-4934-bc79-377488933b83",
+  "vendor": "Arturia"
+}

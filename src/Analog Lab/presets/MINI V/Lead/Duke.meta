@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Duke",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5a805a89-c765-45ea-810f-7843f55bf61a",
+  "vendor": "Arturia"
+}

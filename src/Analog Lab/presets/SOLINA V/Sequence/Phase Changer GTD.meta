@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Phase Changer GTD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6c551987-a411-4a16-96fd-a7bd846167b6",
+  "vendor": "Arturia"
+}

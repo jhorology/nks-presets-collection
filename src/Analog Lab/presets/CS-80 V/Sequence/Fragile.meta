@@ -1,0 +1,13 @@
+{
+  "author": "Howard_Scarr",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Fragile",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c7cbcb28-b65a-45e3-9b96-6638b012fe7d",
+  "vendor": "Arturia"
+}

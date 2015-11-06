@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Noise Perc Modulation",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "43ee41e8-7783-40fd-b16a-99c73c536314",
+  "vendor": "Arturia"
+}

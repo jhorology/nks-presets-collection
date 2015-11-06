@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Ensemble"],
+  "name": "Hollow Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d845d8c5-d104-4c10-be47-db1ad1b1f7ec",
+  "vendor": "Arturia"
+}

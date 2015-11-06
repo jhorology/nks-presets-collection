@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Shards",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3c7a71d8-442c-40f1-abea-1f0c4f5c49c7",
+  "vendor": "Arturia"
+}

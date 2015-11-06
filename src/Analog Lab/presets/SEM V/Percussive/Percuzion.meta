@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Percuzion",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "2c064c7b-5562-469f-9a98-ce322355535e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "Fact",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3f21ab4a-7572-4119-ae9a-16e3f44ff96e",
+  "vendor": "Arturia"
+}

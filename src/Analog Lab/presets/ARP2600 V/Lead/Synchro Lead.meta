@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Synchro Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a8361a53-ce84-412c-8881-1487accab716",
+  "vendor": "Arturia"
+}

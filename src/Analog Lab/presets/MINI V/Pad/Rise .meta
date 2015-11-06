@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Complex"],
+  "name": "Rise ",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5a180f51-891f-4bd0-9efc-1b5c50e3a875",
+  "vendor": "Arturia"
+}

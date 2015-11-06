@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Cool Down Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d786cea3-57e8-407f-a852-7a821e6e38fa",
+  "vendor": "Arturia"
+}

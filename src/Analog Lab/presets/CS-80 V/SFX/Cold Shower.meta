@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Cold Shower",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fcc24f3a-2410-49d5-901e-865b41dec7d2",
+  "vendor": "Arturia"
+}

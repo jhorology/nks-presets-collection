@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre", "Noise"],
+  "name": "Rise Up",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7bfd5397-032d-4d3f-9119-cb475054eeb9",
+  "vendor": "Arturia"
+}

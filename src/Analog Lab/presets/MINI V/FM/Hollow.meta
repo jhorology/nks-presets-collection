@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Hollow",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "b3f61c0e-b89d-46d5-94a3-c59b503039f4",
+  "vendor": "Arturia"
+}

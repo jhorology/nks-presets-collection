@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Syncer Stinker",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "902a65b7-da48-4fed-972c-7d4bd9f4a95c",
+  "vendor": "Arturia"
+}

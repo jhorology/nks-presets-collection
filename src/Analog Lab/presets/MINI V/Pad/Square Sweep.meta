@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Square Sweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "82615b20-344f-4790-be48-c1acd3bf16bf",
+  "vendor": "Arturia"
+}

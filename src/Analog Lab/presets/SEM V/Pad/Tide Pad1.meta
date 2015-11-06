@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Tide Pad1",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9f456644-e938-4efd-8f80-8ab390e77eb4",
+  "vendor": "Arturia"
+}

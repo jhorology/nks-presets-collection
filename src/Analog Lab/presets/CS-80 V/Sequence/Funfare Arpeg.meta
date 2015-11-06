@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Funfare Arpeg",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "388f6e4f-d926-4a39-9ef3-6ced2b950a32",
+  "vendor": "Arturia"
+}

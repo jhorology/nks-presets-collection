@@ -1,0 +1,13 @@
+{
+  "author": "SF_Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "SD",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "034a627a-2300-4623-aba0-ebc9e852bef6",
+  "vendor": "Arturia"
+}

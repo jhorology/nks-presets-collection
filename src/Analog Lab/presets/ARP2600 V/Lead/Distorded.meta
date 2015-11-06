@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Distorded",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a3a257dc-22d1-451a-9cda-aab14fbc46ed",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Organ6",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "70b232a4-cd9c-492e-b5b9-4fc487f091d7",
+  "vendor": "Arturia"
+}

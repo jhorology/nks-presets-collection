@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Ambient", "Ensemble"],
+  "name": "Sweet Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6181971d-8c35-42e9-81e8-e4893c07663f",
+  "vendor": "Arturia"
+}

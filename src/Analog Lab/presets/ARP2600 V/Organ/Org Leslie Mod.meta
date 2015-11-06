@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Org Leslie Mod",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8b3ed407-952f-4ba0-aa2d-6282a8970a2e",
+  "vendor": "Arturia"
+}

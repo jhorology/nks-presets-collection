@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "SS_Repeat Modulate Vox",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5cdfd6c8-2553-4632-956b-286f8d3a4144",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Disappear",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4f352ddd-9036-4552-830a-96ece6dbce89",
+  "vendor": "Arturia"
+}

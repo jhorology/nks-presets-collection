@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Noise"],
+  "name": "Tek SQC",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0feced31-8396-4034-87a6-a3c9e553efd2",
+  "vendor": "Arturia"
+}

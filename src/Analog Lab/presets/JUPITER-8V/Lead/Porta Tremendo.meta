@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Acid"],
+  "name": "Porta Tremendo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "97ef05d1-f7ba-4413-99db-ebb7d8ec2725",
+  "vendor": "Arturia"
+}

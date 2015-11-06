@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Simple bass arp FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c49623a8-7a72-4906-8dc6-501bd9ea6f92",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Digital", "Noise"],
+  "name": "Rave Anthem Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "494b845b-cf69-49e7-ab42-b9ce2828d487",
+  "vendor": "Arturia"
+}

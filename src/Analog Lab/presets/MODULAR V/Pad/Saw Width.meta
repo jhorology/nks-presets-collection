@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Saw Width",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d619d016-17fd-420d-af4c-980a8cdd98e2",
+  "vendor": "Arturia"
+}

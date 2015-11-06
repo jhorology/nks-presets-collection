@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Synchro Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d1e7c928-6efe-4892-814b-75e295fab24d",
+  "vendor": "Arturia"
+}

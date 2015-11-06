@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Sfox Blead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "22bfbb64-4e79-4380-9353-005f85018537",
+  "vendor": "Arturia"
+}

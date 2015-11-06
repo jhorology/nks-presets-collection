@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rez Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ef20d4dc-03e0-4d5b-a03c-5f1c704cef53",
+  "vendor": "Arturia"
+}

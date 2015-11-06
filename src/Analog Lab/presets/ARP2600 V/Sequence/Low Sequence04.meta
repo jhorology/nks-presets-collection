@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Low Sequence04",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "91082536-de5b-4a54-9bfd-8dfe7ede42db",
+  "vendor": "Arturia"
+}

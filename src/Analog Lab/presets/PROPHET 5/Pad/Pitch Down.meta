@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Pitch Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bd873adc-45a7-45a9-84d1-282320215c8c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Arpi Speed",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4f880cee-9f8e-4427-918a-425d9c955654",
+  "vendor": "Arturia"
+}

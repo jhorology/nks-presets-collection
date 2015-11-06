@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Echoed Textures",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3fa7fb6b-10a9-4290-8733-8054f253b0fa",
+  "vendor": "Arturia"
+}

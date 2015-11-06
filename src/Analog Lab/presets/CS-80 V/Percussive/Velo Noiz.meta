@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Velo Noiz",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "630abd6b-2528-4577-974b-16f82fb31ab4",
+  "vendor": "Arturia"
+}

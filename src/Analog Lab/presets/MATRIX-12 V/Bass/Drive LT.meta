@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Drive LT",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9f1a23b8-23f7-4c89-83fe-d4c0813cdb09",
+  "vendor": "Arturia"
+}

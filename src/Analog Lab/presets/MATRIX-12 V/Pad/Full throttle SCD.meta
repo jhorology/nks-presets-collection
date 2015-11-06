@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Full throttle SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0cb28d04-aae9-4491-8b22-6a4b82706d98",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Vector",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cae68e6e-68ac-4614-bbbd-2a74a72e5233",
+  "vendor": "Arturia"
+}

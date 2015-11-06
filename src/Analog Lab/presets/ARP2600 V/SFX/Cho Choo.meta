@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Cho Choo",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e52daa48-6380-4268-ab56-aad08e5a2762",
+  "vendor": "Arturia"
+}

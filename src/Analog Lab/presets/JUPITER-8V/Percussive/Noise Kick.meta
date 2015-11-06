@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Noise Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "aa8cbeb2-f237-483c-a395-d28dc9ea27b1",
+  "vendor": "Arturia"
+}

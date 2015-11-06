@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Ambient"],
+  "name": "Softsaw",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3c64e6bc-b1a5-4cba-ae00-63ef0c2e4d82",
+  "vendor": "Arturia"
+}

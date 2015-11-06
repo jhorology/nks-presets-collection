@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Aciiid",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "beb6bbc1-84a4-4b97-b0ce-ff386fd887bc",
+  "vendor": "Arturia"
+}

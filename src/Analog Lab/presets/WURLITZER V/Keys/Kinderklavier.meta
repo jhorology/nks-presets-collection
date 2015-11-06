@@ -1,0 +1,13 @@
+{
+  "author": "C. Capsis IV",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Noise"],
+  "name": "Kinderklavier",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d72c313e-10d9-48bb-89c8-8743b4f9fa1c",
+  "vendor": "Arturia"
+}

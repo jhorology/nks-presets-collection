@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Jar Fall",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e2f929e2-cee0-400b-9c04-ffd63e6ce8fb",
+  "vendor": "Arturia"
+}

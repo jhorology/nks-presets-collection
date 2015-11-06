@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Deep Sinus",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5ffa72b6-f641-4ebe-a653-80e51f26a999",
+  "vendor": "Arturia"
+}

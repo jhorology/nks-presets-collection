@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Moog Like Lead2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7f1b2cab-bd54-4986-a390-df49ef7b35cb",
+  "vendor": "Arturia"
+}

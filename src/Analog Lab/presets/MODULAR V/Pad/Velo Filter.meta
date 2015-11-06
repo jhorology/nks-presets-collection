@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "Velo Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "db4745a4-9d70-45d3-b638-3b89825f35ff",
+  "vendor": "Arturia"
+}

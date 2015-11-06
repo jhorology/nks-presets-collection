@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Ensemble"],
+  "name": "The War02",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3e4d63e8-9afe-49e1-91cc-a1a0ebd49faf",
+  "vendor": "Arturia"
+}

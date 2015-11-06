@@ -1,0 +1,13 @@
+{
+  "author": "J. Cowgill",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Dark Shadows",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "04761971-2604-4f6a-965c-b6542704f7e4",
+  "vendor": "Arturia"
+}

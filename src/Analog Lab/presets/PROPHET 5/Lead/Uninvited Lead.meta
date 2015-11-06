@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient", "Noise"],
+  "name": "Uninvited Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bf481073-818a-44aa-ba66-8e4f5e381743",
+  "vendor": "Arturia"
+}

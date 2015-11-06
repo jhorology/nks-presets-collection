@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Basic Filtered",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2ae5683a-f2ec-4627-9f03-4aa77d9cfc63",
+  "vendor": "Arturia"
+}

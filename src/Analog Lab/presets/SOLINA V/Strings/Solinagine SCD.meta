@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Solinagine SCD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "0d749f3c-09fa-448c-8b2c-1561431219de",
+  "vendor": "Arturia"
+}

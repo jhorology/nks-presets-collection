@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Bloody Swing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9c990403-4e39-4e39-9014-64a06ab023e8",
+  "vendor": "Arturia"
+}

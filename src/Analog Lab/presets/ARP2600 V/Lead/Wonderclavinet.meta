@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Funky"],
+  "name": "Wonderclavinet",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0f1f4d0d-2263-432c-8554-e56f67b0f2ae",
+  "vendor": "Arturia"
+}

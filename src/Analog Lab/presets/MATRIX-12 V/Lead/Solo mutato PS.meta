@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long", "Soundtrack"],
+  "name": "Solo mutato PS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0ddfaa3a-0bd8-469b-860f-16efa5d5eba6",
+  "vendor": "Arturia"
+}

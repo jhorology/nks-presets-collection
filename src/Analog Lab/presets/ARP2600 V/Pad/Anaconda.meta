@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Anaconda",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a2d9f39b-3784-4282-9cf0-0fa3cc5c43d9",
+  "vendor": "Arturia"
+}

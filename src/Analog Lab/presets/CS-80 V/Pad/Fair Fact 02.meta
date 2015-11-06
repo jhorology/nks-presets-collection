@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Fair Fact 02",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "58dadf3c-ec6c-4b16-99b0-79a5b86db10f",
+  "vendor": "Arturia"
+}

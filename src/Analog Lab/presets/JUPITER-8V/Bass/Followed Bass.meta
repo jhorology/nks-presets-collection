@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Digital"],
+  "name": "Followed Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eb05ca03-b1e0-4e3d-872d-a5ecb2bf718f",
+  "vendor": "Arturia"
+}

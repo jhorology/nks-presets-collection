@@ -1,0 +1,13 @@
+{
+  "author": "Original JP-8V Presets",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Noise"],
+  "name": "77 Fact",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "59e96484-2b55-433c-a62b-18f807fe54e2",
+  "vendor": "Arturia"
+}

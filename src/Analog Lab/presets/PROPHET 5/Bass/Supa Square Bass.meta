@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short", "Noise"],
+  "name": "Supa Square Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8df67534-cfd4-42d4-86d0-1066d49a8f31",
+  "vendor": "Arturia"
+}

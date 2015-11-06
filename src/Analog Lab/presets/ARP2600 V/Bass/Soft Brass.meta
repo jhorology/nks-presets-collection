@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Soft Brass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3dcc7a7d-16fe-4f47-862e-8c17db00e327",
+  "vendor": "Arturia"
+}

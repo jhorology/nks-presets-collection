@@ -1,0 +1,13 @@
+{
+  "author": "J. Cowgill",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Dark Night",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7a1dde13-9b63-4ce8-97d6-79813c101bfa",
+  "vendor": "Arturia"
+}

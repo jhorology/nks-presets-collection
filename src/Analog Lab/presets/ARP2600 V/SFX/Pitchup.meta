@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Pitchup",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aa5a08a3-8e1b-45f5-83a6-6b7c901cbc31",
+  "vendor": "Arturia"
+}

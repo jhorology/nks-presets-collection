@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre"],
+  "name": "Reso Space",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "18972b43-515d-4db2-b878-45448c5d4d77",
+  "vendor": "Arturia"
+}

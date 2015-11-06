@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Electdom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "651ca3bd-9a5a-4f3a-8c22-107f10fad9bc",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky"],
+  "name": "Cheap EvenTide SCD",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f7c04a07-37d8-4824-88f4-373e521a8722",
+  "vendor": "Arturia"
+}

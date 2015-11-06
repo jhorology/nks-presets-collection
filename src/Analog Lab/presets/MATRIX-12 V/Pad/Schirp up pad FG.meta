@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Schirp up pad FG",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1571d855-3d61-4abc-b581-39c1a1271739",
+  "vendor": "Arturia"
+}

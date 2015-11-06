@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Ring Around",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "59fc38d9-60b5-446a-a4de-3d78f241bafa",
+  "vendor": "Arturia"
+}

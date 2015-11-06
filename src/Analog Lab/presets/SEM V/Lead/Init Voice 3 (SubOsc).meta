@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Init Voice 3 (SubOsc)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "975e9c8c-91dc-4399-8093-e91ea8514f59",
+  "vendor": "Arturia"
+}

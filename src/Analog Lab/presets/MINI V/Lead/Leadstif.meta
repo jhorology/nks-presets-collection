@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Leadstif",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ee92358f-4228-4ebc-b34b-385fe9af4ca8",
+  "vendor": "Arturia"
+}

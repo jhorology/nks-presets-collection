@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Short"],
+  "name": "Claro",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "18eb80e0-2d96-4920-b7f4-6246c335a738",
+  "vendor": "Arturia"
+}

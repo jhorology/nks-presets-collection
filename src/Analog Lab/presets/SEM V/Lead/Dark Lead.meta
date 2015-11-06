@@ -1,0 +1,13 @@
+{
+  "author": "G. Savage",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Dark Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "62a52975-8eb8-4c99-adc2-8fbde9a1d17a",
+  "vendor": "Arturia"
+}

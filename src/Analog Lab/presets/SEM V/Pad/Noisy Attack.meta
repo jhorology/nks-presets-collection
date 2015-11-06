@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Short"],
+  "name": "Noisy Attack",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c0b6763d-1b14-41ab-b8fb-3b92ba4b5ffe",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Ensemble"],
+  "name": "Jimby The Flow",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "46cefce5-c456-4318-a86e-4679eaae2070",
+  "vendor": "Arturia"
+}

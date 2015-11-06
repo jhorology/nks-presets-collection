@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Prog Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3189bf5f-d508-465b-a756-be1cac6bda5e",
+  "vendor": "Arturia"
+}

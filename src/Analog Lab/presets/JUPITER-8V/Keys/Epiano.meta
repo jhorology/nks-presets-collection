@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Ambient", "Digital"],
+  "name": "Epiano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6082fc28-6684-41dd-9746-ab3227af038a",
+  "vendor": "Arturia"
+}

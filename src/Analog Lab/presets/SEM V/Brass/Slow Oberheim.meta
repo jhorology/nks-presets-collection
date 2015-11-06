@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Slow Oberheim",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "4aec80a9-dc7a-41e9-8963-e043731b3f61",
+  "vendor": "Arturia"
+}

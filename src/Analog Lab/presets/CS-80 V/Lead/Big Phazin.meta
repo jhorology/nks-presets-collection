@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Big Phazin",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1b49aa0e-b36b-4435-aea0-1047f77bec9b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Play Mono SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3a95b3ea-640e-440a-91b3-e198af5162c9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Tuscan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9ebaabe3-e623-4a21-9d5a-8929b503bae2",
+  "vendor": "Arturia"
+}

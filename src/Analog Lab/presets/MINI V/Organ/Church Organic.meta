@@ -1,0 +1,13 @@
+{
+  "author": "T.Perlman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Church Organic",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e850916a-ba6b-4972-a77f-f1056ef9b8e4",
+  "vendor": "Arturia"
+}

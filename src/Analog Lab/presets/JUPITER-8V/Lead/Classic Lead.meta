@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Short"],
+  "name": "Classic Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "983d7696-7ada-40dc-aebf-3424a8dad133",
+  "vendor": "Arturia"
+}

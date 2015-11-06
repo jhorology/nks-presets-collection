@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Brendton",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ca5d8bf6-d8d5-4cd5-9b64-dd77779aff37",
+  "vendor": "Arturia"
+}

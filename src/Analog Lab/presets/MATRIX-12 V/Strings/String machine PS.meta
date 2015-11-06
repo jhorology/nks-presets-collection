@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Long", "Ensemble", "Soundtrack"],
+  "name": "String machine PS",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "6093d317-f46e-4f8e-aa25-da6270824359",
+  "vendor": "Arturia"
+}

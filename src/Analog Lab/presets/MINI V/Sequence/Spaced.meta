@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Spaced",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "70c98f9f-fc50-400b-9404-c7b7a7e8408f",
+  "vendor": "Arturia"
+}

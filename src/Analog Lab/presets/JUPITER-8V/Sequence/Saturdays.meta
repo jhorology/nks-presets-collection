@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short", "Funky"],
+  "name": "Saturdays",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6c13d7d8-3018-4e22-9f2e-bbc71aecdb35",
+  "vendor": "Arturia"
+}

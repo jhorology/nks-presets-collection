@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Pink Machine",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dfce5f77-e610-4607-a7b3-09d52b6a79ed",
+  "vendor": "Arturia"
+}

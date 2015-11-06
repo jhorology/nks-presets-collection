@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Clipper",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a36ea971-893b-418c-8bec-854fe55fc046",
+  "vendor": "Arturia"
+}

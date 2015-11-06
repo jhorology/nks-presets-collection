@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Modular Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "40ca15d0-a9df-4194-bc13-012fdc606455",
+  "vendor": "Arturia"
+}

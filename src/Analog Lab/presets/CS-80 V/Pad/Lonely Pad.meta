@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Lonely Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c295e86c-2c8e-4adf-88bc-30146fbe4a4b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Complex", "Bizarre", "Noise", "Soundtrack"],
+  "name": "Centipede MW PS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c00c3fa4-4181-4ea2-a1ec-cd77535d91c9",
+  "vendor": "Arturia"
+}

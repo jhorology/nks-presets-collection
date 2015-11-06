@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Funky"],
+  "name": "Slow Tiesto SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2414ba0c-1f22-44dc-a5f3-5bcad43d34da",
+  "vendor": "Arturia"
+}

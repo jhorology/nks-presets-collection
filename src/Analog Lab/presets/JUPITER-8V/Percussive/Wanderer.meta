@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short", "Soundtrack"],
+  "name": "Wanderer",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "52d9624e-4541-401e-b7f7-8fd47a862ae6",
+  "vendor": "Arturia"
+}

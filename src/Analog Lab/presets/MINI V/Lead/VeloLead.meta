@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "VeloLead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "afb33675-5dca-4d9e-b4ad-075570a2680a",
+  "vendor": "Arturia"
+}

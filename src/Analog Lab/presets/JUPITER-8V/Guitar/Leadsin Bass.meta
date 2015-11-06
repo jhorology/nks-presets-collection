@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Acid"],
+  "name": "Leadsin Bass",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "d2310a9b-21ea-4174-a54d-79da9f9e9c92",
+  "vendor": "Arturia"
+}

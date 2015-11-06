@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lion Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "502f386f-e28d-4eed-b996-0d1a3471c6e2",
+  "vendor": "Arturia"
+}

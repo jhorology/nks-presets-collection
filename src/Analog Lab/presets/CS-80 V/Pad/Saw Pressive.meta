@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Saw Pressive",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f6c40844-55b9-4bf7-b49f-92e92b638777",
+  "vendor": "Arturia"
+}

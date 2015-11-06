@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Snare Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "245bc523-1c4c-4ccd-b14d-c56fb5d9d98a",
+  "vendor": "Arturia"
+}

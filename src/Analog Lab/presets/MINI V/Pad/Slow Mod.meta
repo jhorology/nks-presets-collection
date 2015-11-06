@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long"],
+  "name": "Slow Mod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "02807071-2b64-4c80-a1b6-16b96fae8eea",
+  "vendor": "Arturia"
+}

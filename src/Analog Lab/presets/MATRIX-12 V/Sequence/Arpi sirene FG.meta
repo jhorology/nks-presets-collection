@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Arpi sirene FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cc2fb68f-f896-417a-bd9e-fd504a9d3825",
+  "vendor": "Arturia"
+}

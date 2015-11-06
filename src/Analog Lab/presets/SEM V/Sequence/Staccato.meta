@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Staccato",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4f8983c6-2a31-437d-ae4e-a4bfb357fb72",
+  "vendor": "Arturia"
+}

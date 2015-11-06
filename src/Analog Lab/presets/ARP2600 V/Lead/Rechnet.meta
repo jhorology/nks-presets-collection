@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Rechnet",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "da6ace94-6b1b-4470-91b7-1172645eca71",
+  "vendor": "Arturia"
+}

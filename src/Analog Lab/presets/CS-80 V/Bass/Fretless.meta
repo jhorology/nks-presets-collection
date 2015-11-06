@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Fretless",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eb806612-ed0c-432b-934a-1f0b1d563405",
+  "vendor": "Arturia"
+}

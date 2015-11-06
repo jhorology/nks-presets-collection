@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Ensemble"],
+  "name": "Rippa",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2fe42b2b-bac5-4d41-8aaf-ace6a6918663",
+  "vendor": "Arturia"
+}

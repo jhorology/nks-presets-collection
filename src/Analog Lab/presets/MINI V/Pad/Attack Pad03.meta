@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Attack Pad03",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "137539fa-5e63-4a30-88e6-3817abe308a4",
+  "vendor": "Arturia"
+}

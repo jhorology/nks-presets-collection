@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Long"],
+  "name": "Moto Line",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ea693af2-8f9c-4c20-91dd-64ca968d293d",
+  "vendor": "Arturia"
+}

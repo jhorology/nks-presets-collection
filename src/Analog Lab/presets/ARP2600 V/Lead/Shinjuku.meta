@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Shinjuku",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "09940eb7-d5ed-4e17-aad5-c262ebdcf076",
+  "vendor": "Arturia"
+}

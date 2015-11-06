@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "80's",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ade0e2f2-d35c-4846-b259-0a16819f0997",
+  "vendor": "Arturia"
+}

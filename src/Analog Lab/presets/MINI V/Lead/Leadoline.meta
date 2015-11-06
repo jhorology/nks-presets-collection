@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Leadoline",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4fae3dba-dde2-4765-9495-d9fc5185fe38",
+  "vendor": "Arturia"
+}

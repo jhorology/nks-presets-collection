@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Sequence3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "241f6e6b-82b1-4559-8bad-a4d9ec21c685",
+  "vendor": "Arturia"
+}

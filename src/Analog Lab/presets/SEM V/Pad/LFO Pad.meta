@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "LFO Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ac5670c0-0a6c-44ed-a6fb-7b1b9aaceac8",
+  "vendor": "Arturia"
+}

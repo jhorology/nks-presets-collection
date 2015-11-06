@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Kouch",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "dbfabc69-36ee-4a24-8076-9a38a1de04af",
+  "vendor": "Arturia"
+}

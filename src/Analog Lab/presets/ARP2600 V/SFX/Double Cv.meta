@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre"],
+  "name": "Double Cv",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6888eadd-e06f-43c6-a02a-a599831e50eb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Dumaine",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5005a23b-e770-4d44-8a83-39bfdbecde2c",
+  "vendor": "Arturia"
+}

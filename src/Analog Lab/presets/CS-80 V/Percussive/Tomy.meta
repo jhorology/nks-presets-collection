@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Tomy",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "acf9133c-a6dd-4fb4-8c65-8d83a2b69369",
+  "vendor": "Arturia"
+}

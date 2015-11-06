@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "8040000",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a68af80d-d380-453f-a831-1b40a3ceddcb",
+  "vendor": "Arturia"
+}

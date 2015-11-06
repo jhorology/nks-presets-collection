@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Waouu Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6f404cc7-5620-4994-90e8-0af41fe0c7b3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Vurts Biscuit3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b384b5e0-9249-42b5-b740-cb04c4d97c3b",
+  "vendor": "Arturia"
+}

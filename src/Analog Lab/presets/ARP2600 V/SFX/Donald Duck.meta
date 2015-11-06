@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Donald Duck",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "04a83c96-2e41-4cec-bc49-983c71d42696",
+  "vendor": "Arturia"
+}

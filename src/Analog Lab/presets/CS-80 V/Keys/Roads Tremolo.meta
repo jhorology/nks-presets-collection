@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Roads Tremolo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6cad92ea-9afd-47e8-b3a7-45f38389eb4c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Ensemble"],
+  "name": "Sequenced VCF",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1e468aa4-2149-4a09-8c80-55e1e35e4d22",
+  "vendor": "Arturia"
+}

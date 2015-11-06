@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard"],
+  "name": "Big sync SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1d1fb48c-9c5b-46b1-9f7b-365ad1fe5d6b",
+  "vendor": "Arturia"
+}

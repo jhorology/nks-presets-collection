@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cream'n Coffee",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "329e3c76-ec0d-4d6f-9e22-2b2efa54f0ed",
+  "vendor": "Arturia"
+}

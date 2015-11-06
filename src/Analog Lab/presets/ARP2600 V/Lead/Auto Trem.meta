@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Simple"],
+  "name": "Auto Trem",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "852d5129-e933-4306-9d3f-1223f74e2cfe",
+  "vendor": "Arturia"
+}

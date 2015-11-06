@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Ring",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "5dcd47a1-616d-425d-ac8f-b2406624526e",
+  "vendor": "Arturia"
+}

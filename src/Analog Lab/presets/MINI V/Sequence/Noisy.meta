@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Noisy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d438e1a1-a5b1-415b-b8ac-dda852ecd13a",
+  "vendor": "Arturia"
+}

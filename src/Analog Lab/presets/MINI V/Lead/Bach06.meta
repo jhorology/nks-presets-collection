@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre"],
+  "name": "Bach06",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "cd135510-00f5-468c-ac0f-f1f0786e851c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Chinable",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3fba8446-789d-42fb-adfe-279161a6f602",
+  "vendor": "Arturia"
+}

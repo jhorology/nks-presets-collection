@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Black Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4326fe57-3dda-44f5-a636-5dcbff6b49b6",
+  "vendor": "Arturia"
+}

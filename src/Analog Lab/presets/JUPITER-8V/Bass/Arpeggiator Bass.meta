@@ -1,0 +1,13 @@
+{
+  "author": "KUJIIE",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Acid", "Ensemble"],
+  "name": "Arpeggiator Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "60359cf0-1cbb-44da-bf87-32dabbdea677",
+  "vendor": "Arturia"
+}

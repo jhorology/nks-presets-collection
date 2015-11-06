@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ensemble"],
+  "name": "Soft String",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "4cd89fff-25e5-481e-b379-29d2d720e437",
+  "vendor": "Arturia"
+}

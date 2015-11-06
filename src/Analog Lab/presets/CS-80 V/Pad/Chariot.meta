@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Chariot",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "aa6f7ddb-319b-4301-a1db-9948357f9c13",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "FX001",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "daef457d-6800-4b24-90a0-5539e7f7052b",
+  "vendor": "Arturia"
+}

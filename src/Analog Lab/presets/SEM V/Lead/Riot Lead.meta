@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Riot Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0ec43f6f-3d5e-4e7d-8794-68b9f410f49b",
+  "vendor": "Arturia"
+}

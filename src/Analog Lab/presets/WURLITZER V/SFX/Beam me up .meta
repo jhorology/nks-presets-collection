@@ -1,0 +1,13 @@
+{
+  "author": "Boeles Gerkes",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Long", "Bizarre"],
+  "name": "Beam me up ",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3c7de9ae-4b13-4b42-a3b9-c21374db24fd",
+  "vendor": "Arturia"
+}

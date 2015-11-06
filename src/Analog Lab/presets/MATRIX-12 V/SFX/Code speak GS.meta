@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Code speak GS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "60b60ea5-6576-4d9c-967d-c44db3b82e7c",
+  "vendor": "Arturia"
+}

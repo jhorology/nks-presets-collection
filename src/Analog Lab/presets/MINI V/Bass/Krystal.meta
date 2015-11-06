@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Krystal",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3aa4a799-f348-4926-bf76-0112fbd15243",
+  "vendor": "Arturia"
+}

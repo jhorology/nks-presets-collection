@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "SS_Roto Phase",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5aea9e5d-f761-46c2-9c6a-03b12f2239f7",
+  "vendor": "Arturia"
+}

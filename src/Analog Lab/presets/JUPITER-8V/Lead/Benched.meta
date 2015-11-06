@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Ambient"],
+  "name": "Benched",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "045cfb92-94b5-490f-8fc9-a4fb15d958f3",
+  "vendor": "Arturia"
+}

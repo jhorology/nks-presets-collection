@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Kazant",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b932ee1a-60d5-4e74-ac73-b5ed961bdf90",
+  "vendor": "Arturia"
+}

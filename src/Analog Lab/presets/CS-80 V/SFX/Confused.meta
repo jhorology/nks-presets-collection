@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Confused",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "63ded736-6189-4f2c-868a-c8f6f9680a92",
+  "vendor": "Arturia"
+}

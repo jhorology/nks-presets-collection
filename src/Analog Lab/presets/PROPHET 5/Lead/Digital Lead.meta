@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Digital Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "27ce17ce-b9fa-4566-9c5e-c75c59b915e1",
+  "vendor": "Arturia"
+}

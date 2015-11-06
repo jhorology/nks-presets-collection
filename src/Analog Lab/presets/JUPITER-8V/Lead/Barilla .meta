@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Long", "Ambient", "Digital"],
+  "name": "Barilla ",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2aafa082-8781-42dd-b5dd-860a537a67ef",
+  "vendor": "Arturia"
+}

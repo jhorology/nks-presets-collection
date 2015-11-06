@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "DX One",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c7e9d1d5-1e37-470b-9b21-b1ec3454a7a7",
+  "vendor": "Arturia"
+}

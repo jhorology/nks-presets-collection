@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Velo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d24aea1b-66ab-49d2-af7f-1e6444fb157a",
+  "vendor": "Arturia"
+}

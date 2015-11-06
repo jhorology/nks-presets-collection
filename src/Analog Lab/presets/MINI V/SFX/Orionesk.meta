@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Orionesk",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "613e660d-30a8-4f11-84cb-fddc197f9805",
+  "vendor": "Arturia"
+}

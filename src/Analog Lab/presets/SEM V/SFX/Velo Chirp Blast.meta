@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soundtrack"],
+  "name": "Velo Chirp Blast",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "285ac49c-93db-485f-874c-6c89d048f181",
+  "vendor": "Arturia"
+}

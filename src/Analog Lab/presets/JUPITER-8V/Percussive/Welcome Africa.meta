@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital", "Noise"],
+  "name": "Welcome Africa",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "227b5857-1667-4f76-9a42-f4ad8a3cb8a5",
+  "vendor": "Arturia"
+}

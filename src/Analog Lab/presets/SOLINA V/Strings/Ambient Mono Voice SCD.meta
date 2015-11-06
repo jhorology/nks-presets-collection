@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Ambient Mono Voice SCD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "6600f8ad-6aaf-4cfd-9266-3647195cef2d",
+  "vendor": "Arturia"
+}

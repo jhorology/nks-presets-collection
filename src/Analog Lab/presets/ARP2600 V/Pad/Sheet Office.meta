@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Sheet Office",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e9301942-3b87-4efa-9a7e-08de6267aafd",
+  "vendor": "Arturia"
+}

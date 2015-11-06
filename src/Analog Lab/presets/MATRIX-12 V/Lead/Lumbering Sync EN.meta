@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Funky"],
+  "name": "Lumbering Sync EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "78f58c92-fbe8-4198-b32f-de5c418d82f5",
+  "vendor": "Arturia"
+}

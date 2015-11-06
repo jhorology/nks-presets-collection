@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Amb2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "137138ed-3eca-485f-98cc-5ed485cec5db",
+  "vendor": "Arturia"
+}

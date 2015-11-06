@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Shuttle Launch",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "009328c4-c287-4b99-943c-b9d863b2cb43",
+  "vendor": "Arturia"
+}

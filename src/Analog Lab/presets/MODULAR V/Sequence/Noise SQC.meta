@@ -1,0 +1,13 @@
+{
+  "author": "Tomeso",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Noise SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "eea07af5-2328-46a9-9ff3-60fdc10ef00c",
+  "vendor": "Arturia"
+}

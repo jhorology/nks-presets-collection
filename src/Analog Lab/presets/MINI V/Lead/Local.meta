@@ -1,0 +1,13 @@
+{
+  "author": "ChrisLaurence",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Local",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4eb6af54-12fe-4d39-947c-0fa4edb187d5",
+  "vendor": "Arturia"
+}

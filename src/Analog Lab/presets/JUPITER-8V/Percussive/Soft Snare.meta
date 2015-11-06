@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Soft Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ca663c2c-3093-4760-8e2b-f56a310dd1e0",
+  "vendor": "Arturia"
+}

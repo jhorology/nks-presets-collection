@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Let Go",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "389e6934-3ab7-4c1f-b085-1a2b4ff9cf92",
+  "vendor": "Arturia"
+}

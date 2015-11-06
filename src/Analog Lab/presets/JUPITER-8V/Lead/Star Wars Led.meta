@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Simple"],
+  "name": "Star Wars Led",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "64a76d96-c342-4520-872e-9b9e2c2dd2e1",
+  "vendor": "Arturia"
+}

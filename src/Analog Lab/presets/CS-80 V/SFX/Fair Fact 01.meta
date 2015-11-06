@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Fair Fact 01",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4a39e152-e014-440d-9622-9d489e1e4891",
+  "vendor": "Arturia"
+}

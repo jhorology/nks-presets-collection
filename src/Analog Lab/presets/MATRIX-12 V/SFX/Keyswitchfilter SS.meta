@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Keyswitchfilter SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9cd6e1ab-3ab0-47e5-a8cc-e42d40ac71fd",
+  "vendor": "Arturia"
+}

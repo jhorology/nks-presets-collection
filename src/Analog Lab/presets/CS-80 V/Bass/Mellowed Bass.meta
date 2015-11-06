@@ -1,0 +1,13 @@
+{
+  "author": "C.Laurence",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Mellowed Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ba77cb0b-6b42-49db-b3a2-c5b3015c36d5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Wide Porta Saw Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e03a4494-363c-484f-b51a-faed7a983a2c",
+  "vendor": "Arturia"
+}

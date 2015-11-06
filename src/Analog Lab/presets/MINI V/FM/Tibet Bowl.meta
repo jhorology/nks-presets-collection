@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital"],
+  "name": "Tibet Bowl",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "7bee5bf9-8ccb-4802-9951-68f220f951b0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Feedback",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "64fe3761-af20-4948-b61a-f8ee10f136fe",
+  "vendor": "Arturia"
+}

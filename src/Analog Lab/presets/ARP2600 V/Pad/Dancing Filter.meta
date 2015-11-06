@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Dancing Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "46b1bc45-035b-49bd-ae6e-eee9c7071bb8",
+  "vendor": "Arturia"
+}

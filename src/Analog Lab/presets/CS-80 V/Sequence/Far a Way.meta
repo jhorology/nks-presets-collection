@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Far a Way",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b911909d-e438-49b0-8c2f-867db6da17d4",
+  "vendor": "Arturia"
+}

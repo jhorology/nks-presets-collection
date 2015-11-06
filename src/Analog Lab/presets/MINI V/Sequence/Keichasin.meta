@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Noise"],
+  "name": "Keichasin",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "361e8d72-cf0a-440a-8683-686da016e3bc",
+  "vendor": "Arturia"
+}

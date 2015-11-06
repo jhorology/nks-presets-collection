@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "SS_Experimental Reed",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d679b9ec-4365-4b38-9ea0-b5292d74eb8b",
+  "vendor": "Arturia"
+}

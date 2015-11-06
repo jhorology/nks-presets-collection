@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Slow S&H",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b564663e-dc33-42dd-aae4-c4b09f0cb9a2",
+  "vendor": "Arturia"
+}

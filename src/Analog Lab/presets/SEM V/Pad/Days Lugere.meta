@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ensemble"],
+  "name": "Days Lugere",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "23a24dc5-580f-4bda-9a36-66892b70a3c4",
+  "vendor": "Arturia"
+}

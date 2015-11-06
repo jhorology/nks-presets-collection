@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ensemble"],
+  "name": "Early Drama",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a88800cc-3000-4d48-84f0-127c172ebe53",
+  "vendor": "Arturia"
+}

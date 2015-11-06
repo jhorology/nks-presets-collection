@@ -1,0 +1,13 @@
+{
+  "author": "T.odanaka",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Luna",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b1e28a5b-178f-48d2-9ac3-cfbb6254d93e",
+  "vendor": "Arturia"
+}

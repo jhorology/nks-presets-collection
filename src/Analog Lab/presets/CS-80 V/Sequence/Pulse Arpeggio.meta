@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Pulse Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e87af87f-01a7-49fe-98e5-c72047550d1b",
+  "vendor": "Arturia"
+}

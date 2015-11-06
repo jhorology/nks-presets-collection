@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Noise"],
+  "name": "Shrinking",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1900f3bf-036c-4e20-b1fb-59a4bb1bcbce",
+  "vendor": "Arturia"
+}

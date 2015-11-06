@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Green Mist",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "85d7a688-2b65-4e7f-a967-784ff7d12b58",
+  "vendor": "Arturia"
+}

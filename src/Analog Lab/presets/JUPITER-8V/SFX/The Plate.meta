@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient"],
+  "name": "The Plate",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1facc093-febd-4c92-ae0b-c52ec70a6674",
+  "vendor": "Arturia"
+}

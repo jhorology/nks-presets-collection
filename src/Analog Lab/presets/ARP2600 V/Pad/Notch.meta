@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Notch",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "45a5f3b4-7433-4b64-91cc-165ecf6cca2b",
+  "vendor": "Arturia"
+}

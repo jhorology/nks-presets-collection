@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ambient"],
+  "name": "8P Chords",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "036e8648-798c-49ab-a1c6-bae9faf62c91",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Organo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "1700276f-984c-461b-bfe8-17ac2e963d6b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Tribal Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "41c37755-3e50-4087-9d5b-d54032563a5c",
+  "vendor": "Arturia"
+}

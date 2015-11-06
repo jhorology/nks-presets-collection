@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "SineTri",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "dab13ea8-c7fb-414c-98ce-dad2789b5e2d",
+  "vendor": "Arturia"
+}

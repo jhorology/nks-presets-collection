@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "SS_Phasing Mode",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ace0b43b-9b32-4aa9-9db7-8d4d9704327d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Ultrasub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cbee0307-c4a9-4dc0-8706-5005f451b7f3",
+  "vendor": "Arturia"
+}

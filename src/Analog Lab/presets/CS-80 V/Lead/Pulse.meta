@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Pulse",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "cb8c576e-2bef-4624-bf3e-0a5daf7c1da3",
+  "vendor": "Arturia"
+}

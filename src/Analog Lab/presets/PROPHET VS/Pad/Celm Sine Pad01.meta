@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Celm Sine Pad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3bb1d452-d99e-4188-973b-da93c868a0e3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Short"],
+  "name": "Big Block",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5600b69c-54da-4398-b787-fc20cadc14cb",
+  "vendor": "Arturia"
+}

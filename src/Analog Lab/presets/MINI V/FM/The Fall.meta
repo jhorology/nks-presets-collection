@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "The Fall",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f7e22853-3694-4542-a8e9-1867edcc895f",
+  "vendor": "Arturia"
+}

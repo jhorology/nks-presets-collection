@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient"],
+  "name": "Nacht Terminator",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7af23064-5786-42ac-8474-34142fc2e2e8",
+  "vendor": "Arturia"
+}

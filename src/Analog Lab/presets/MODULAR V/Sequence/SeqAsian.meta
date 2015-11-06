@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "SeqAsian",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "18d81fa3-8ed8-4c82-84d1-b19cc13478ad",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Musical Box",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d457f22f-0563-4684-82f5-d93633faa7d9",
+  "vendor": "Arturia"
+}

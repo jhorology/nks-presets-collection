@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Noise"],
+  "name": "Strange Sequence03",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "43bb5a22-872e-4d8f-89b1-460cd43dbef4",
+  "vendor": "Arturia"
+}

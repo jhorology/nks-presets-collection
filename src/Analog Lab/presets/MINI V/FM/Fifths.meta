@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "Fifths",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "95cc2975-ef94-48be-ae8a-01c5da07c139",
+  "vendor": "Arturia"
+}

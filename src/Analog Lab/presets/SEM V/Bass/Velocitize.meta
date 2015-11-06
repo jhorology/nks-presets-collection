@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Velocitize",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "982af028-cf3d-4eaa-aa6c-ef2bce75376d",
+  "vendor": "Arturia"
+}

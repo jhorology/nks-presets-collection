@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "The End",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c9309908-ed77-4468-b711-ec2e6425ecd4",
+  "vendor": "Arturia"
+}

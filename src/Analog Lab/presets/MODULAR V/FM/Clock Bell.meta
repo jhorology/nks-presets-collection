@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Clock Bell",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "198fa174-a4bd-491e-ab39-5e025a64c4d3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "SQX03",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dc10ecf6-dbaf-4e83-89ef-6e701b9bba2f",
+  "vendor": "Arturia"
+}

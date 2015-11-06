@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Seed Toms",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d33bec02-5877-42ca-8f67-29c0fe6ccb62",
+  "vendor": "Arturia"
+}

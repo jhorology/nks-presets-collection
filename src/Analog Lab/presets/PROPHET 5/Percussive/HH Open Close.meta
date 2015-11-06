@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "HH Open Close",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "bc8dec4e-f227-47ce-b6d2-95f63cfa1de9",
+  "vendor": "Arturia"
+}

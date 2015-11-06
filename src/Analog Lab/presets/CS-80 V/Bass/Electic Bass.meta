@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Electic Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0542b8df-f31e-4643-87fd-43f4388f1fd1",
+  "vendor": "Arturia"
+}

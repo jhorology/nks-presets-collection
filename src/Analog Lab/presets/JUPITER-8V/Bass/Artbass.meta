@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Acid", "Ensemble"],
+  "name": "Artbass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "65820edf-6239-42bc-9f79-1696464549bd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Attack Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0a40bf7a-6f72-4638-a1df-fc96809017f3",
+  "vendor": "Arturia"
+}

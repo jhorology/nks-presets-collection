@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Celmo ElPno01",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "63649e66-367c-40a7-b582-b8f83fba4571",
+  "vendor": "Arturia"
+}

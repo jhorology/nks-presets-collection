@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Dnb",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b18e5c46-9ceb-4944-b4c6-855c160fdd62",
+  "vendor": "Arturia"
+}

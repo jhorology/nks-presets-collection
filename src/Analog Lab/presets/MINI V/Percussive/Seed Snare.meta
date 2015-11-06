@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Seed Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f67bb032-b825-420d-a270-c32f15824627",
+  "vendor": "Arturia"
+}

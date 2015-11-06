@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Short", "Acid"],
+  "name": "Dry Gin",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "de5e04ec-dc66-484e-9c0a-21a9d3dc4a64",
+  "vendor": "Arturia"
+}

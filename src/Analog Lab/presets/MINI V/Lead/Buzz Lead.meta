@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Buzz Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "87d44be1-7e7e-4ed5-bdba-08dfcd8b20aa",
+  "vendor": "Arturia"
+}

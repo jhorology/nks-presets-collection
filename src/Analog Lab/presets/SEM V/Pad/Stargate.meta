@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Long", "Ambient", "Soundtrack"],
+  "name": "Stargate",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "158770cf-5da3-4337-8166-a0b13f332778",
+  "vendor": "Arturia"
+}

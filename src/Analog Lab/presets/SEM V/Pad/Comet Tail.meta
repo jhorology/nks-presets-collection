@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Soundtrack"],
+  "name": "Comet Tail",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4f72fd91-3cc1-4b41-81a9-18f25d11ee9a",
+  "vendor": "Arturia"
+}

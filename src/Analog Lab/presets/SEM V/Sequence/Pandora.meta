@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ensemble"],
+  "name": "Pandora",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "afd592a2-ed5b-4b88-8e2b-68bf694a4d3e",
+  "vendor": "Arturia"
+}

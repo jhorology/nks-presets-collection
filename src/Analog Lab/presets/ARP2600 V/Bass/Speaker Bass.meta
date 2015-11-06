@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Short"],
+  "name": "Speaker Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "86cb64a9-5317-4a17-858d-00d277253b98",
+  "vendor": "Arturia"
+}

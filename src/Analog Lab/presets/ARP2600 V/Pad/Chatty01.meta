@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Chatty01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4499a432-0e30-4849-bf60-680a7abf0219",
+  "vendor": "Arturia"
+}

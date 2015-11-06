@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Soft"],
+  "name": "Marimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "aab3dd48-21cf-47da-aea2-76b771990f17",
+  "vendor": "Arturia"
+}

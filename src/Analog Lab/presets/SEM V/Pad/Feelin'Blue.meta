@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Ensemble"],
+  "name": "Feelin'Blue",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e3a253f2-0a94-4398-ad66-fb12e7a9af48",
+  "vendor": "Arturia"
+}

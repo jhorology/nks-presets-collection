@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Ambient"],
+  "name": "Gloom",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1bb9d79c-8737-480d-884c-0bdfcb929ec9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Funky"],
+  "name": "Bitpop",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1cb76661-5d48-4869-8076-af78890f3555",
+  "vendor": "Arturia"
+}

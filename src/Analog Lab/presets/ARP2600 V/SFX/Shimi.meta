@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Shimi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9d5409df-4f93-4c4b-8737-fb8acf4aab1d",
+  "vendor": "Arturia"
+}

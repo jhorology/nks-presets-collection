@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Giant Bees",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4bedc817-3b6a-4649-b45b-07e107e325ab",
+  "vendor": "Arturia"
+}

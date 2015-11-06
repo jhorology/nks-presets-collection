@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Saw Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "428ab10e-07ba-4d80-9189-4b59000c4b7d",
+  "vendor": "Arturia"
+}

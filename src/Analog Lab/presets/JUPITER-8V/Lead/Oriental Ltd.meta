@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Ensemble"],
+  "name": "Oriental Ltd",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "dff409df-024b-4915-95c1-eae955843de0",
+  "vendor": "Arturia"
+}

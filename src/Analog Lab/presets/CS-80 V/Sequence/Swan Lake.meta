@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Swan Lake",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "95b95065-5d3a-48e9-b22f-0f6352566846",
+  "vendor": "Arturia"
+}

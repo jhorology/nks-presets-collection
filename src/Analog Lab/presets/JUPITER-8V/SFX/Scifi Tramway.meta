@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital", "Noise"],
+  "name": "Scifi Tramway",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5eb5bee2-ef27-4c20-9364-c4a50870ded4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Abupt String Machine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7749d1c4-26e6-4786-92e8-056054596ec2",
+  "vendor": "Arturia"
+}

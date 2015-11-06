@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Dentist",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2d5f3bb6-4dbc-4d91-81c8-a1e0b7e72416",
+  "vendor": "Arturia"
+}

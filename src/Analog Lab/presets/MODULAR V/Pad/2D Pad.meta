@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soundtrack"],
+  "name": "2D Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f498bc7c-a12b-4d34-b4c0-2ec280452809",
+  "vendor": "Arturia"
+}

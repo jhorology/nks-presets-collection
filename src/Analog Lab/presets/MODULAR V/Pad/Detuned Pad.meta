@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Detuned Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "018314b9-e4df-4838-b6cb-d9d025b9cc08",
+  "vendor": "Arturia"
+}

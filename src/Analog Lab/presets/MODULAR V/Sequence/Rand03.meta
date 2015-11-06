@@ -1,0 +1,13 @@
+{
+  "author": "Peff",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Rand03",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0bb0351c-372c-4ff7-9cd3-188358a6ea41",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Funky"],
+  "name": "Funky Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "534f1000-f08b-408c-be05-5c3fb2b947f8",
+  "vendor": "Arturia"
+}

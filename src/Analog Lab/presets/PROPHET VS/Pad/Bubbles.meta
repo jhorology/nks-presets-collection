@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bubbles",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3b573a29-9a6f-478a-adf8-760918f32dd1",
+  "vendor": "Arturia"
+}

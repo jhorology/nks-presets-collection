@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Noise"],
+  "name": "Dubit Rimshot",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ccff2db3-6123-4deb-ae81-bb030f66d701",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Distorto",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "aa3b7004-a6be-49bd-a0f6-af1fc9ec6801",
+  "vendor": "Arturia"
+}

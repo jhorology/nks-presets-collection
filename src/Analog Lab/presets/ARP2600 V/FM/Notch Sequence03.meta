@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Notch Sequence03",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "dd5fa480-219d-4211-b003-04137a51463a",
+  "vendor": "Arturia"
+}

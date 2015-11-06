@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Short"],
+  "name": "Blood Base",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "973503d8-70e6-4f0c-be1c-a246d16aad6a",
+  "vendor": "Arturia"
+}

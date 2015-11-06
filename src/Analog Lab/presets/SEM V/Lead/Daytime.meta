@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Daytime",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ce6dbedd-e7cb-44cf-b22e-2c9de89932b1",
+  "vendor": "Arturia"
+}

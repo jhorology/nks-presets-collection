@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Wurlitz",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0e59973f-0ff9-46e2-ad2f-892d2844170c",
+  "vendor": "Arturia"
+}

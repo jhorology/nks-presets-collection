@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Softpercbass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eec80d10-7a62-4c43-bba5-0d58c444aac6",
+  "vendor": "Arturia"
+}

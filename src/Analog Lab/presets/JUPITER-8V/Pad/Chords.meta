@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Long"],
+  "name": "Chords",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eb4d9039-7367-44c8-85e7-04379bc7f4b1",
+  "vendor": "Arturia"
+}

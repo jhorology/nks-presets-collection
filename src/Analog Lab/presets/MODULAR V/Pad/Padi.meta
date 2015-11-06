@@ -1,0 +1,13 @@
+{
+  "author": "W.Badarou",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Padi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "704f95cb-99a7-46b6-8816-cfd51c044fb5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Openning Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9ca97e06-c1ee-4be9-b21d-7a49de61770e",
+  "vendor": "Arturia"
+}

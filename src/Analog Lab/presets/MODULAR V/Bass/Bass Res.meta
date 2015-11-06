@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass Res",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "420fbb8f-e214-449f-9a03-c60b482a6a90",
+  "vendor": "Arturia"
+}

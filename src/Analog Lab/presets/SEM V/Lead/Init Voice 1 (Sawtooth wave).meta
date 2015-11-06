@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Init Voice 1 (Sawtooth wave)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d4602e21-cb9b-457a-b339-6f298303f592",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre"],
+  "name": "Chimes",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b01b0d85-8c0a-463f-b6d6-4178c74ce371",
+  "vendor": "Arturia"
+}

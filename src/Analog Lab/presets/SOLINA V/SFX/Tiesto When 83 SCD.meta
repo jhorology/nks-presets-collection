@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Tiesto When 83 SCD",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "43cb0b67-36ff-42bc-8994-4f3255865e43",
+  "vendor": "Arturia"
+}

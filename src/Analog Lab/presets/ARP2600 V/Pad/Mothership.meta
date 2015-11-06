@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Soundtrack"],
+  "name": "Mothership",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "df925bb6-baa4-45af-b9b3-15e011079a2c",
+  "vendor": "Arturia"
+}

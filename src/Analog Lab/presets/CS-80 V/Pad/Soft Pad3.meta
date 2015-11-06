@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Soft Pad3",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c2365b91-ae15-4456-b4b6-6a08c8ab677b",
+  "vendor": "Arturia"
+}

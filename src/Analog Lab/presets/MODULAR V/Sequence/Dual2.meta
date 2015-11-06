@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet20",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Dual2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8de71760-3c13-4f83-a898-4d616473f847",
+  "vendor": "Arturia"
+}

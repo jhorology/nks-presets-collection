@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Aes Dana",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ee778bf2-2a03-4284-8e28-dd25c0d29e97",
+  "vendor": "Arturia"
+}

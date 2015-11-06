@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sweep Space",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5d756c38-175f-41c4-b1e0-0e0f72e5d45e",
+  "vendor": "Arturia"
+}

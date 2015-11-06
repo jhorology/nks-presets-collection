@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Candy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c6d87dad-4119-4188-af5a-e1f64e923690",
+  "vendor": "Arturia"
+}

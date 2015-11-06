@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Voices2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "42bdfc27-bc43-4236-af15-a8f7423b33a8",
+  "vendor": "Arturia"
+}

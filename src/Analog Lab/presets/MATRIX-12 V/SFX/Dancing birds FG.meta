@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Dancing birds FG",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "99efdb76-57ef-488c-a125-e974a564ab3d",
+  "vendor": "Arturia"
+}

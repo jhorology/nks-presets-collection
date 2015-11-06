@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Hard"],
+  "name": "Dirty Speaker",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6d6a4b62-52e4-4267-868f-b803985c1c0e",
+  "vendor": "Arturia"
+}

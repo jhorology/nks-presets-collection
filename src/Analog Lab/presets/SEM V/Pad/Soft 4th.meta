@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "Soft 4th",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dbecbebe-2680-4c48-87d4-f29d11f30e5c",
+  "vendor": "Arturia"
+}

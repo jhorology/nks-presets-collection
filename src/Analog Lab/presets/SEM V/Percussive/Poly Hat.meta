@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Poly Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fc273a65-bed3-42c0-9e3d-093df4e82e9c",
+  "vendor": "Arturia"
+}

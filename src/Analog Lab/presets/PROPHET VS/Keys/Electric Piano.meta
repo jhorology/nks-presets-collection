@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Electric Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9390100c-b766-460c-94dd-a9b150db4264",
+  "vendor": "Arturia"
+}

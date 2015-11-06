@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Simple", "Funky"],
+  "name": "Sharp Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "19b37257-c193-471e-8fa2-bdb39c4aba64",
+  "vendor": "Arturia"
+}

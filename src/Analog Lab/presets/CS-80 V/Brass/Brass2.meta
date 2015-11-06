@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Brass2",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "2aadcdf3-c334-4f41-8311-8ce12ba79f1d",
+  "vendor": "Arturia"
+}

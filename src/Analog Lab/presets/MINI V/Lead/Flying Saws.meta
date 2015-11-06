@@ -1,0 +1,13 @@
+{
+  "author": "ChrisLaurence",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Flying Saws",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d52d94b6-e9b6-423b-a9bc-fb7abdfe6f19",
+  "vendor": "Arturia"
+}

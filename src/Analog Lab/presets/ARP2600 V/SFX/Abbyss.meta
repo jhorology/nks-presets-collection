@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Abbyss",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6d627790-a4c0-4616-8ff5-7154e50ba7db",
+  "vendor": "Arturia"
+}

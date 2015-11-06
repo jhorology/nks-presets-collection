@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Elctric HH",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "501831c5-36b7-47b0-b98c-90361d69500b",
+  "vendor": "Arturia"
+}

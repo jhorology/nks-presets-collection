@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Talking Mod",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "365f87ed-059d-491b-9576-887d4926c4cb",
+  "vendor": "Arturia"
+}

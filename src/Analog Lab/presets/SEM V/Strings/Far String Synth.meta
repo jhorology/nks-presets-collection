@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient", "Soundtrack"],
+  "name": "Far String Synth",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "f6bc85a4-f2d0-4407-9f7c-07a9ff264d23",
+  "vendor": "Arturia"
+}

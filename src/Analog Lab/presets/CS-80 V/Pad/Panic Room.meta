@@ -1,0 +1,13 @@
+{
+  "author": "omissis2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Panic Room",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "465a3846-b522-4a63-8281-ca4b13ee0d31",
+  "vendor": "Arturia"
+}

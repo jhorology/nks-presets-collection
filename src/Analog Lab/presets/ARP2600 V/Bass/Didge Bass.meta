@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Didge Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "91f4aae1-ee69-4f0d-9cc5-5c8601697827",
+  "vendor": "Arturia"
+}

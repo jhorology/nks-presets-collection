@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Sub Bass06",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6bddc28b-99cb-4800-a833-0b0d0a6165d2",
+  "vendor": "Arturia"
+}

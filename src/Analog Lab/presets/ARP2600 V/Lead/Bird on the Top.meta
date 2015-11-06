@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bird on the Top",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6eaebd39-6475-452f-a548-47f407af04d0",
+  "vendor": "Arturia"
+}

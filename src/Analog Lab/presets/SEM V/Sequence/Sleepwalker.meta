@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Soundtrack"],
+  "name": "Sleepwalker",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "eb060b57-35a5-47c2-b876-6d457fce7fd7",
+  "vendor": "Arturia"
+}

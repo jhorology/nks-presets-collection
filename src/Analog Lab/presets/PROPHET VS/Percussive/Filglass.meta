@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Filglass",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3d79de9e-e1fd-4c8f-9cdf-68e0cc09bf67",
+  "vendor": "Arturia"
+}

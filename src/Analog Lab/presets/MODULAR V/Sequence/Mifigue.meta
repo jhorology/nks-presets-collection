@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard"],
+  "name": "Mifigue",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f58d5813-609e-4bb3-a2d9-31302a588d17",
+  "vendor": "Arturia"
+}

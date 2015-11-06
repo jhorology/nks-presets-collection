@@ -1,0 +1,13 @@
+{
+  "author": "k.Lamb_Neptunes",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Sortaharp Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7fff5ee-36fd-4488-bcc2-2c64d41593b8",
+  "vendor": "Arturia"
+}

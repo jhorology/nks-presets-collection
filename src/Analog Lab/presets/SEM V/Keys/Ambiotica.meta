@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Ambient", "Ensemble"],
+  "name": "Ambiotica",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "94190f95-5355-46d4-a631-78fc0128a3fd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Ambient"],
+  "name": "Rehana",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cd403672-ad61-48c1-bb58-2571f40e308c",
+  "vendor": "Arturia"
+}

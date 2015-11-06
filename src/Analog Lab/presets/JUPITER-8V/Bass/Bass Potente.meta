@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Bass Potente",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "44038290-0b1b-44e2-822c-2230413b01f0",
+  "vendor": "Arturia"
+}

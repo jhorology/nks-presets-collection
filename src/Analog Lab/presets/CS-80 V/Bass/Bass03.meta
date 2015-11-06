@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass03",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e9fc6788-db43-4fba-8271-15f215d8f0b9",
+  "vendor": "Arturia"
+}

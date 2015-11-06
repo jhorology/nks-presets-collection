@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ_VS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Noisy Panda",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7f8fdd03-7e22-4935-ba6d-6bdf87d86591",
+  "vendor": "Arturia"
+}

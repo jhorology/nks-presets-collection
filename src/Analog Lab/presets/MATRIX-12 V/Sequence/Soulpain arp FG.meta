@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Soulpain arp FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d22a7095-3919-41ad-98ac-0ffbcc4d13d7",
+  "vendor": "Arturia"
+}

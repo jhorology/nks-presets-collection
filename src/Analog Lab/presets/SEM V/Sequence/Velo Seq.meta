@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Velo Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b9303c5f-49d0-49b2-a6b0-c9123306e0f0",
+  "vendor": "Arturia"
+}

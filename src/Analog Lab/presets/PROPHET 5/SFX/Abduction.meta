@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient"],
+  "name": "Abduction",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7414fe63-3f3a-4bcb-b320-22011cf7cef3",
+  "vendor": "Arturia"
+}

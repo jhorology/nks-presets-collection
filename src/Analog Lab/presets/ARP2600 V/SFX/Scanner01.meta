@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Scanner01",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4f7b51a6-eb99-40c6-90ea-f38d486a15bc",
+  "vendor": "Arturia"
+}

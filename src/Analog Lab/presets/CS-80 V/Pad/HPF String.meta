@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "HPF String",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eba4d0d5-6f22-441d-a55c-48ae3cd8f188",
+  "vendor": "Arturia"
+}

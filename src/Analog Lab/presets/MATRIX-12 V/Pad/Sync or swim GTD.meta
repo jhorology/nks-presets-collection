@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Sync or swim GTD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e28f93da-e8f0-4cc8-8027-ebd9432a4284",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Vealtion",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f6ad311a-0c18-406d-abbf-692b5c92eb20",
+  "vendor": "Arturia"
+}

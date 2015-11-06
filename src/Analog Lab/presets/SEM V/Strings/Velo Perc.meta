@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient", "Soundtrack"],
+  "name": "Velo Perc",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "60ee9fe6-be1d-4226-898e-51cc103781df",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Acid", "Soundtrack"],
+  "name": "Groove VCF",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "33750dc4-2d2e-4d1d-b1f2-f2a589b597b3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "XY",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "823ef35e-f38a-4709-bbc6-38e964aaa3b0",
+  "vendor": "Arturia"
+}

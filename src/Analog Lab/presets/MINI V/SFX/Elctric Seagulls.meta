@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Elctric Seagulls",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ccda8405-9ca5-46f0-94be-c121e539d1c4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Tomahawk",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "fecf8225-fd5c-43bc-9bf3-7e96eefaa43d",
+  "vendor": "Arturia"
+}

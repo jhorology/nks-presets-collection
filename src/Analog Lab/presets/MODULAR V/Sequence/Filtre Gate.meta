@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet20",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Filtre Gate",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f41a775b-eb10-4cf4-9373-3c677df4c56c",
+  "vendor": "Arturia"
+}

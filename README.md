@@ -13,7 +13,9 @@ NKS(Native Kontrol Standard) presets collection
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||||||
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||||||
 |[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||||||
-|[BassStation](http://us.novationmusic.com/software/bass-station)|:heavy_check_mark:||||||
+|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||||||
+|[V-Station](http://us.novationmusic.com/software/v-station#)|||||||
+|[Alchemy](https://www.camelaudio.com)|||||||
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|||||||
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||

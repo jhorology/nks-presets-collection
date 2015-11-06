@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Computer Phone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "25b8dfe4-e986-4ce4-8a59-5e0835f12372",
+  "vendor": "Arturia"
+}

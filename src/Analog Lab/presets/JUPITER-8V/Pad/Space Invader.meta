@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient"],
+  "name": "Space Invader",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2083ee4c-19fb-4bc4-a501-2b8da39e99b1",
+  "vendor": "Arturia"
+}

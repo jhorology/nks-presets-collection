@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soundtrack"],
+  "name": "Start Engine",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "32c9f900-c3f8-4832-a46b-7ce12da49cce",
+  "vendor": "Arturia"
+}

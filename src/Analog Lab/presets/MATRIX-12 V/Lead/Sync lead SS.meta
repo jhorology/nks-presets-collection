@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "Sync lead SS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e6495459-a6f8-41f3-a04f-488f09fa28ac",
+  "vendor": "Arturia"
+}

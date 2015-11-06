@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Noise"],
+  "name": "Repeat Pad3",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a4cd969c-1fb2-4926-b5cc-0547dbf1273f",
+  "vendor": "Arturia"
+}

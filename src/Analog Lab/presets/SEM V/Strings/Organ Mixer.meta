@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Organ Mixer",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "4990906d-c101-431d-a252-b292766ef3a7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Pulzar",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b465d006-503c-42a4-a93d-87f6e5e91218",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Osc Mod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7940f83-6e8d-448e-ac62-ef2275d8b1d4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Short"],
+  "name": "Phaze Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8d3f4d04-c6d1-4cb3-be42-eb05edc94ed8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Lead Tromp",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d2f0edcf-397d-4ec8-bd94-0a5bfc1fc03d",
+  "vendor": "Arturia"
+}

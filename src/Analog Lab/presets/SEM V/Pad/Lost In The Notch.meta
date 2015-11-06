@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Lost In The Notch",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "35229a04-e165-446c-b9fb-2c0c537d9f0f",
+  "vendor": "Arturia"
+}

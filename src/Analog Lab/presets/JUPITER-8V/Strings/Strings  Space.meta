@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Digital"],
+  "name": "Strings  Space",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "40379c49-bf09-476f-a9eb-987a71b07fc1",
+  "vendor": "Arturia"
+}

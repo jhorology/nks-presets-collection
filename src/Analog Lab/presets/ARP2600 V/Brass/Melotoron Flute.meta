@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Melotoron Flute",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "d96f1442-6707-4e9e-8f16-24939928da4a",
+  "vendor": "Arturia"
+}

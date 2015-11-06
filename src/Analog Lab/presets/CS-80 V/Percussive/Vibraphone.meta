@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Vibraphone",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "36a0fc06-63fb-45cb-90d4-e0d84cad7b6a",
+  "vendor": "Arturia"
+}

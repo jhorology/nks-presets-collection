@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Telstar",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "08b9a2a5-30cf-4820-9dab-4cbac9d0f7c3",
+  "vendor": "Arturia"
+}

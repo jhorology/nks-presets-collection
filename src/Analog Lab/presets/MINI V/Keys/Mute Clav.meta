@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Mute Clav",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d1a00bc4-1800-4611-887e-0a240e154d17",
+  "vendor": "Arturia"
+}

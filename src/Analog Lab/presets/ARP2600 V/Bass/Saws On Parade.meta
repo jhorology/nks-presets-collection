@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Funky"],
+  "name": "Saws On Parade",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f04ff23c-aa24-4c7e-8a60-70324cb51b84",
+  "vendor": "Arturia"
+}

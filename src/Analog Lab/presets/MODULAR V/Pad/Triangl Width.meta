@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Triangl Width",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f7013b46-2871-490d-af9e-c4573a90ac70",
+  "vendor": "Arturia"
+}

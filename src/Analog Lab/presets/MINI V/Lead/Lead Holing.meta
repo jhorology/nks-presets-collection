@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Ensemble"],
+  "name": "Lead Holing",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2fe48466-badc-4d51-8d53-eb4431edff8f",
+  "vendor": "Arturia"
+}

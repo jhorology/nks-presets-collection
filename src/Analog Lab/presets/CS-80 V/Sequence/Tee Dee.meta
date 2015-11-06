@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Tee Dee",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "74a2e383-959b-4d4a-85b8-81f2805756b6",
+  "vendor": "Arturia"
+}

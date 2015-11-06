@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lets Go",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d85b6931-ad10-498e-8e3c-cc90f5ac02be",
+  "vendor": "Arturia"
+}

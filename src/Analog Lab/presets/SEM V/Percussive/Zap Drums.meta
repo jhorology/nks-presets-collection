@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Zap Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "287366c3-dea1-46ae-b162-90dbcd84fc38",
+  "vendor": "Arturia"
+}

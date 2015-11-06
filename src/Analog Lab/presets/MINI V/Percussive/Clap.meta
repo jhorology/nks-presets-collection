@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Clap",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "84ae996f-5442-40fe-8282-912ac3a4e7bb",
+  "vendor": "Arturia"
+}

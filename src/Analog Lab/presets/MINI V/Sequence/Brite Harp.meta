@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Brite Harp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3e169a7a-40cd-48ab-a044-f64b7a37c7dc",
+  "vendor": "Arturia"
+}

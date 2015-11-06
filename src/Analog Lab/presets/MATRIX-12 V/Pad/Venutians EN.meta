@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre", "Ambient", "Soundtrack"],
+  "name": "Venutians EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "daea2354-8d1b-4566-b77f-0c04520c7f83",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Stinger",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "29e6f5a3-144d-4164-9e0c-68821d39e612",
+  "vendor": "Arturia"
+}

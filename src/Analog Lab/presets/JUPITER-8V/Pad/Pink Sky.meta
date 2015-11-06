@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Digital"],
+  "name": "Pink Sky",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "21026450-f2f8-4d54-b3e4-b695cf77462b",
+  "vendor": "Arturia"
+}

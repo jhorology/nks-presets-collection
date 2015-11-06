@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "70's Seq02",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ea27ede5-bfc9-4ebd-9555-969ab1766636",
+  "vendor": "Arturia"
+}

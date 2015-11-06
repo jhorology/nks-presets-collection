@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Rock c64 FG",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b61bc780-044a-4f9c-bb45-737646717db4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Anaglide",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9c8d8459-e121-41eb-aa69-080a79df8392",
+  "vendor": "Arturia"
+}

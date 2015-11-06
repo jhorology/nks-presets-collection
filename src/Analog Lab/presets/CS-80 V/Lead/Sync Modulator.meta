@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Sync Modulator",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0672a12d-e686-4342-b9f3-8824b4729c29",
+  "vendor": "Arturia"
+}

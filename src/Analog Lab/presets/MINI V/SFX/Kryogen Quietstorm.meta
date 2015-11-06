@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient", "Noise"],
+  "name": "Kryogen Quietstorm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "96e78a17-2024-46b4-8e19-495bfca13619",
+  "vendor": "Arturia"
+}

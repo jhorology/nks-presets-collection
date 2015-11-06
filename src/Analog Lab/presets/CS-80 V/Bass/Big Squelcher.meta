@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Big Squelcher",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "94fcf3e7-6c08-461e-958e-68d3f6838260",
+  "vendor": "Arturia"
+}

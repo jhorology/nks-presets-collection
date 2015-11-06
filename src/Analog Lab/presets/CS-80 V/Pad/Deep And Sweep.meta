@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Deep And Sweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1bc29ea1-b431-4a2e-ba85-8620ff5f4963",
+  "vendor": "Arturia"
+}

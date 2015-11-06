@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Kotoe",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8efd50de-6968-464c-943a-f1d6eb9c63cc",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "1945 Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1e7ed2cb-5947-448d-84f1-fd5a9bd92f4b",
+  "vendor": "Arturia"
+}

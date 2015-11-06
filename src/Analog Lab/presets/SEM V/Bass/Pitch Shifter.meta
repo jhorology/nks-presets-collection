@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Pitch Shifter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "16fa5dad-dacf-4367-a19c-cbcaf693240c",
+  "vendor": "Arturia"
+}

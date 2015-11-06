@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Dance",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5599210c-e49d-48f1-b6e5-f746582b591b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Magic Solo Organ Wheel",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3fc54871-2f3d-48e7-80c9-e9fa2ccf880d",
+  "vendor": "Arturia"
+}

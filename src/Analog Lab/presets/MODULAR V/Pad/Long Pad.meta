@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Long Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c286da18-c64b-44f0-be62-aa42eb033138",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Orti Combo4",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "44be7188-57c3-4fa4-b524-406e634be0b0",
+  "vendor": "Arturia"
+}

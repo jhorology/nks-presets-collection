@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Sasinam",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bbb32951-8b9b-4225-8930-5da5af0e6760",
+  "vendor": "Arturia"
+}

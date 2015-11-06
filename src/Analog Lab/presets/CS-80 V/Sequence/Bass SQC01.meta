@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid"],
+  "name": "Bass SQC01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d4b80f80-001a-4de6-95b0-ad094b1fed1c",
+  "vendor": "Arturia"
+}

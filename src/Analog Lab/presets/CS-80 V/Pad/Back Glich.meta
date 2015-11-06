@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Back Glich",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "51bd4ebe-70d4-4044-8b9c-62c5177c94ea",
+  "vendor": "Arturia"
+}

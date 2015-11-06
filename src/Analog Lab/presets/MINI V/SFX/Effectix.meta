@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Effectix",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "31746573-24b4-41bf-b48f-1b398b722df5",
+  "vendor": "Arturia"
+}

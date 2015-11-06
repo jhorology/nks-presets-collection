@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Shifting Rhythm",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e9d45e7b-fd9f-422e-9e6a-ec0d264c4d91",
+  "vendor": "Arturia"
+}

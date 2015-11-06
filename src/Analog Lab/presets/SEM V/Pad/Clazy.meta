@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Ambient", "Noise", "Soundtrack"],
+  "name": "Clazy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d2648332-2708-443e-8186-1fe45e727470",
+  "vendor": "Arturia"
+}

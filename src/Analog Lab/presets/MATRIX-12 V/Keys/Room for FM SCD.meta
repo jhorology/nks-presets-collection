@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Funky"],
+  "name": "Room for FM SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "388345a3-8b40-48d8-b2cb-0caec4a751a6",
+  "vendor": "Arturia"
+}

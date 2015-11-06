@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Concrete",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "43f3c5ca-49a9-46f1-813c-f3b4eb5c587d",
+  "vendor": "Arturia"
+}

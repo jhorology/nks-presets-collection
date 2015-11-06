@@ -1,5 +1,6 @@
 path        = require 'path'
 fs          = require 'fs'
+_           = require 'underscore'
 del         = require 'del'
 sqlite3     = require 'sqlite3'
 gulp        = require 'gulp'
@@ -121,6 +122,37 @@ $ =
     vendor: 'Arturia'
     PLID:
       "VST.magic": "ALab"
+    db: '/Library/Arturia/Analog\ Lab/Labo2.db'
+    # SQL query for Instruments Sounds
+    query_sounds: '''
+select
+  Sounds.SoundName
+  ,Sounds.SoundDesigner
+  ,Instruments.InstName
+  ,Types.TypeName
+  ,Characteristics.CharName
+from
+  Sounds
+  join Instruments on Sounds.InstID = Instruments.InstID
+  join Types on Sounds.TypeID = Types.TypeID
+  left join SoundCharacteristics on Sounds.SoundGUID = SoundCharacteristics.SoundGUID
+  left join Characteristics on SoundCharacteristics.CharID = Characteristics.CharID
+where
+  Instruments.InstName = $InstName
+  and Sounds.SoundName = $SoundName
+'''
+    # SQL query for Multi Sounds
+    query_multis: '''
+select
+  Multis.MultiName
+  ,Multis.MultiDesigner
+  ,MusicGenres.MusicGenreName
+from
+  multis
+  join MusicGenres on Multis.MusicGenreID = MusicGenres.MusicGenreID
+where
+  Multis.MultiName = $MultiName
+'''
 
   #
   # discoDSP Discovery Pro
@@ -756,6 +788,75 @@ gulp.task 'analoglab-extract-raw-presets', ->
       ].join '&&'
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
+
+# generate metadata from serum's sqlite database
+gulp.task 'analoglab-generate-meta', ->
+  # open database
+  db = new sqlite3.Database $.AnalogLab.db, sqlite3.OPEN_READONLY
+  gulp.src ["src/#{$.AnalogLab.dir}/presets/**/*.pchk"]
+    .pipe data (file, done) ->
+      # SQL bind parameters
+      soundname = path.basename file.path, '.pchk'
+      folder = path.relative "src/#{$.AnalogLab.dir}/presets", path.dirname file.path
+      instname = path.dirname folder
+      if instname is 'MULTI'
+        # multi presets
+        params =
+          $MultiName: soundname
+        db.all $.AnalogLab.query_multis, params, (err, rows) ->
+          done err if err
+          unless rows and rows.length
+            done 'row unfound in multis'
+          if rows.length > 1
+            done "row duplicated in multis. rows.length:#{rows.length}"
+          console.info JSON.stringify rows[0]
+          done undefined,
+            vendor: $.AnalogLab.vendor
+            uuid: uuid.v4()
+            types: [['Multi']]
+            name: soundname
+            modes: [rows[0].MusicGenreName]
+            deviceType: 'INST'
+            comment: ''
+            bankchain: [$.AnalogLab.dir, 'MULTI', '']
+            author: rows[0].SoundDesigner?.trim()
+      else
+        # Instruments presets
+
+        # funny, Arturia change preset name 'Moog' to 'Mogue' in newer version.
+        db_soundname = soundname.replace 'Moog', 'Mogue'
+        db_soundname = db_soundname.replace 'moog', 'mogue'
+        params =
+          $InstName: instname
+          $SoundName: db_soundname
+
+        # execute query
+        db.all $.AnalogLab.query_sounds, params, (err, rows) ->
+          done err if err
+          unless rows and rows.length
+            done 'row unfound in sounds', undefined
+          done undefined,
+            vendor: $.AnalogLab.vendor
+            uuid: uuid.v4()
+            types: [[rows[0].TypeName?.trim()]]
+            name: soundname
+            modes: _.uniq (row.CharName for row in rows)
+            deviceType: 'INST'
+            comment: ''
+            bankchain: [$.AnalogLab.dir, instname, '']
+            author: rows[0].SoundDesigner?.trim()
+
+    .pipe data (file) ->
+      json = beautify (JSON.stringify file.data), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      file.data
+    .pipe gulp.dest "src/#{$.AnalogLab.dir}/presets"
+    .on 'end', ->
+      # colse database
+      db.close()
 
 # ---------------------------------------------------------------
 # end Arturia Analog Lab

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Simple", "Short"],
+  "name": "4octave Square Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "37517ea1-dc28-46ea-a176-137fa4d76afd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Goof Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9b000d8c-d8ff-474e-ba4e-c9d972d6d1ea",
+  "vendor": "Arturia"
+}

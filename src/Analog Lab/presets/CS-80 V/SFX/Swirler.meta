@@ -1,0 +1,13 @@
+{
+  "author": "omissis2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "Swirler",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4c042789-1024-45ec-be33-c765c92d17b0",
+  "vendor": "Arturia"
+}

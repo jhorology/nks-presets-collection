@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Random",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2f5ffc62-b04f-4bd8-a12a-794a56161ad9",
+  "vendor": "Arturia"
+}

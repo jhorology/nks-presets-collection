@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Digimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "62c8ea38-37a8-4b6d-9cd9-826cc6a2440d",
+  "vendor": "Arturia"
+}

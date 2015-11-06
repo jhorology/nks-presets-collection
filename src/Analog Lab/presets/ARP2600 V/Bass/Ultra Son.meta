@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Ultra Son",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "70610116-721e-4f62-86bb-2bec01d532c0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Desolation",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2f3d79cb-6630-4f54-9f8f-f6da8dc16144",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Play Me Noize",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5e7e7381-6322-4bc9-b2c8-9e0f7d2a9bd6",
+  "vendor": "Arturia"
+}

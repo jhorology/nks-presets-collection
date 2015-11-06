@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Ambient",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1f856df7-0a48-4c07-b769-c5f04dd774c5",
+  "vendor": "Arturia"
+}

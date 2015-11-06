@@ -1,0 +1,13 @@
+{
+  "author": "J. Cowgill",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Liquid Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "656a31b1-e552-44cb-8cc7-b4520445642a",
+  "vendor": "Arturia"
+}

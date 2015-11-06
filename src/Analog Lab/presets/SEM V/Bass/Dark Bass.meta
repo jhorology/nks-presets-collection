@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Dark Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "27bbe695-34d1-45e2-bd38-951e876338d9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Sadder Now",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "21dbf022-5d92-4806-8ae0-adbf1c44ea92",
+  "vendor": "Arturia"
+}

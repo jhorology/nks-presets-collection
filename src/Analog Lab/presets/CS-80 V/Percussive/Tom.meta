@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Tom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "987da44d-363a-40a7-a27c-d46d126965b6",
+  "vendor": "Arturia"
+}

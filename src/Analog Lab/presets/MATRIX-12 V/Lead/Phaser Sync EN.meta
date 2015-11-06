@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Phaser Sync EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "401afa13-8393-4c10-a4bf-60aeb7ee59d4",
+  "vendor": "Arturia"
+}

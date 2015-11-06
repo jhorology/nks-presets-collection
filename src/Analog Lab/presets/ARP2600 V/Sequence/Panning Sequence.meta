@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Panning Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "db7f3075-77c0-422d-8d62-9ceede9106c9",
+  "vendor": "Arturia"
+}

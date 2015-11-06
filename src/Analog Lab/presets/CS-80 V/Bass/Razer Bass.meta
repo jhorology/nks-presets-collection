@@ -1,0 +1,13 @@
+{
+  "author": "D.Diaz",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Razer Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9c539228-feec-47f9-9e98-4700a9294b34",
+  "vendor": "Arturia"
+}

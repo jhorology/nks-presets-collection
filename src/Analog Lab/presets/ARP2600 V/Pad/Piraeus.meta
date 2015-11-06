@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Piraeus",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b8f8c58e-b463-44dc-9693-b98718cf8bfa",
+  "vendor": "Arturia"
+}

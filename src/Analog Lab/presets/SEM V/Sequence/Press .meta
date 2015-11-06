@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short", "Acid"],
+  "name": "Press ",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "89371792-2a36-4430-b3f3-e441161cafcc",
+  "vendor": "Arturia"
+}

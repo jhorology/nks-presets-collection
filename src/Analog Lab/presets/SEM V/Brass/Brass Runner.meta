@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Brass Runner",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "7589ac05-22d1-41d3-a418-5fc472ae9958",
+  "vendor": "Arturia"
+}

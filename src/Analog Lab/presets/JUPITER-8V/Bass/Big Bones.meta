@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short", "Long"],
+  "name": "Big Bones",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ec373cbb-f07b-4dfd-8569-0755d819a4ba",
+  "vendor": "Arturia"
+}

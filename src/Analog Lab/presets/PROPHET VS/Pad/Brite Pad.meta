@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brite Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "667a2df9-01c5-4a80-ba6b-eba132ec591a",
+  "vendor": "Arturia"
+}

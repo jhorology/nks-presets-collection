@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Back to Basic",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2c0d8e5a-ae34-404f-b617-cba00b79f71f",
+  "vendor": "Arturia"
+}

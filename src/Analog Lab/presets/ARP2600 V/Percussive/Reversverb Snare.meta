@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Reversverb Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "7506dcc0-4cda-464d-8a7e-739d1e125f98",
+  "vendor": "Arturia"
+}

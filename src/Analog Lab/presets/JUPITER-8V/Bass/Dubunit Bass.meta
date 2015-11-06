@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Noise"],
+  "name": "Dubunit Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "25483030-8e83-4756-82d1-84bb81579e32",
+  "vendor": "Arturia"
+}

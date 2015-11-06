@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Tempted noise FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5f6851f4-da17-4ac4-8fcf-d586b815a0af",
+  "vendor": "Arturia"
+}

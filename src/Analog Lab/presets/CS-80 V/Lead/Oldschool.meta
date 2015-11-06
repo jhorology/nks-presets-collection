@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Oldschool",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "33d1dc3b-3d01-48cd-b813-49d33067ecec",
+  "vendor": "Arturia"
+}

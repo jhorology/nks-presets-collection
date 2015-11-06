@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Bizarre"],
+  "name": "Good Milk",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5a42cb33-53d2-48aa-8e1f-5d26debd9b28",
+  "vendor": "Arturia"
+}

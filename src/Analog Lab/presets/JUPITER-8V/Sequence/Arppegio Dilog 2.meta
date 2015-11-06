@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Bizarre"],
+  "name": "Arppegio Dilog 2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1675f8aa-7a22-4641-a48d-785e84819cf4",
+  "vendor": "Arturia"
+}

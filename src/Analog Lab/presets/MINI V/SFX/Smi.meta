@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Smi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cc79e501-2d7b-4560-98af-bdca95b2033f",
+  "vendor": "Arturia"
+}

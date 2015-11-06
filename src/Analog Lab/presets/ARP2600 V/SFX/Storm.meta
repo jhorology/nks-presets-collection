@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8712ebfa-b3c4-45ec-854e-7012256611e5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "High Pass Rise",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bf9b168e-4723-4351-b4cb-41733deb08ee",
+  "vendor": "Arturia"
+}

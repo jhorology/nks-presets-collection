@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Foggy Marathon SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f5263316-4eed-4dbf-909d-addcdac27aae",
+  "vendor": "Arturia"
+}

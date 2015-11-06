@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sweet Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "56a616c8-3e3b-4488-8d05-7d1d5747c8a1",
+  "vendor": "Arturia"
+}

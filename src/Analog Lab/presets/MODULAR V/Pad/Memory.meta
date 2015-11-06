@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Memory",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3320cb9c-d392-47dd-924a-52bb91880e12",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Funky"],
+  "name": "Nes Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8582e673-cb8a-4e17-a9ac-ce13ca367097",
+  "vendor": "Arturia"
+}

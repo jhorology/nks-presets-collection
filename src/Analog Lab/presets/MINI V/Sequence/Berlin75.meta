@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Berlin75",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2b605321-2854-489a-834b-70592a718a6a",
+  "vendor": "Arturia"
+}

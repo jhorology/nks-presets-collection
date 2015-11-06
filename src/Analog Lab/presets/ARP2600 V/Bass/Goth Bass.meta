@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Goth Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "74cfd128-1beb-446c-9582-e47007d59173",
+  "vendor": "Arturia"
+}

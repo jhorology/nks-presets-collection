@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Noise"],
+  "name": "Kufebroary",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5145cb1c-e2a6-463b-b751-69dc0cb139ed",
+  "vendor": "Arturia"
+}

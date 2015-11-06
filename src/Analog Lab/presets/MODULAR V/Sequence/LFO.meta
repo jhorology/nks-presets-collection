@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet20",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "LFO",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7d42ce65-1d56-4be5-8e56-220b8017e3d6",
+  "vendor": "Arturia"
+}

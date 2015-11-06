@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cluster",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0a5fcc27-f86f-4953-9061-81b0234d2be9",
+  "vendor": "Arturia"
+}

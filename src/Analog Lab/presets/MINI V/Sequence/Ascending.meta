@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Ascending",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7a9222eb-5d29-468d-b7e1-b89406fb3235",
+  "vendor": "Arturia"
+}

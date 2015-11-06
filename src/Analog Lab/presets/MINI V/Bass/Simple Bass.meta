@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Simple Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bb6bd89e-541f-47d1-826c-fad027340e78",
+  "vendor": "Arturia"
+}

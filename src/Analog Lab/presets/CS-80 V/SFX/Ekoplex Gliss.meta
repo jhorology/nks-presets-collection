@@ -1,0 +1,13 @@
+{
+  "author": "D.Diaz",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Ekoplex Gliss",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5ede07cc-f63c-4fed-9bdb-128a785fc36d",
+  "vendor": "Arturia"
+}

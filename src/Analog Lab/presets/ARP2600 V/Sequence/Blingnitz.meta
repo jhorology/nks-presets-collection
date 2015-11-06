@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Blingnitz",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "70520a91-5dd1-4268-8850-c7cc1727b9a8",
+  "vendor": "Arturia"
+}

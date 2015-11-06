@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Flute",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c69a82ad-0b2f-4fc7-8c8d-72dbf950e145",
+  "vendor": "Arturia"
+}

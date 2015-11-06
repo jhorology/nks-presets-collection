@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Tracking Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "796921aa-25bb-4092-a31a-d372ce082398",
+  "vendor": "Arturia"
+}

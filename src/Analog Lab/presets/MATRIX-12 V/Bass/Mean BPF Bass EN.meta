@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard", "Acid", "Funky"],
+  "name": "Mean BPF Bass EN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4067b8b1-b45a-4e84-af69-84584ce0a91e",
+  "vendor": "Arturia"
+}

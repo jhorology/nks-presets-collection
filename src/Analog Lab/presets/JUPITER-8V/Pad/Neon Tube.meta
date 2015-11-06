@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Ambient"],
+  "name": "Neon Tube",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c90dd647-53ef-4691-a7fa-0af469460f58",
+  "vendor": "Arturia"
+}

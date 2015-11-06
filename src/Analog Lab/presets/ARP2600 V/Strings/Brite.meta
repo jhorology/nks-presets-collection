@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brite",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "fcb99d78-4d55-4451-ad63-0c844c94ad5b",
+  "vendor": "Arturia"
+}

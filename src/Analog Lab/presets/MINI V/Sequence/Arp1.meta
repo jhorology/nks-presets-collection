@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Arp1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7754a7e5-5c1d-4fb0-af0b-d657194ebb31",
+  "vendor": "Arturia"
+}

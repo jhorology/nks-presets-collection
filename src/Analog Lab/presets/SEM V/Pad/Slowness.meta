@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft"],
+  "name": "Slowness",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d925b01a-ae1d-4a22-8bd6-c637ffcfaedb",
+  "vendor": "Arturia"
+}

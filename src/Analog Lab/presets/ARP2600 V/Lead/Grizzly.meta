@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Grizzly",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8a8e22bc-ac7f-4c7b-82aa-3dec0c80fe12",
+  "vendor": "Arturia"
+}

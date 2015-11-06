@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long"],
+  "name": "Ring Low",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9a738da8-69d6-4389-a044-0b5a151a384e",
+  "vendor": "Arturia"
+}

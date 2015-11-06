@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Clarinet",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "10695fb8-86ec-49da-bdb5-5419f2cfa461",
+  "vendor": "Arturia"
+}

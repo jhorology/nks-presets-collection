@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Long"],
+  "name": "Modular lead PS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "aa056958-b623-4569-99f8-fc1c23f0d70e",
+  "vendor": "Arturia"
+}

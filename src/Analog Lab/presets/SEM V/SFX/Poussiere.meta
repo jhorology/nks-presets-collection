@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Ambient", "Ensemble", "Noise"],
+  "name": "Poussiere",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9f6c4199-6c94-41e8-87a1-8c623c6e48b3",
+  "vendor": "Arturia"
+}

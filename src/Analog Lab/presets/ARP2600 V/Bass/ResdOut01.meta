@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "ResdOut01",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "36cc5548-e313-4352-8fa7-65d5584a5e8a",
+  "vendor": "Arturia"
+}

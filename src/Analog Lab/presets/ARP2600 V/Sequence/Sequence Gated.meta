@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Sequence Gated",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "303bb018-126c-4769-99f7-434c680f81e8",
+  "vendor": "Arturia"
+}

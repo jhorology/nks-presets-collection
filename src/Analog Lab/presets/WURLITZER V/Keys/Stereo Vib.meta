@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Ambient", "Soundtrack"],
+  "name": "Stereo Vib",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4cf7b307-30f7-4dbe-9217-b0913e7f7755",
+  "vendor": "Arturia"
+}

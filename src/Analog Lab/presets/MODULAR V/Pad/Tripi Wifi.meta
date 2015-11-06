@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Tripi Wifi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "98a76e87-493a-4f0b-beaa-8cbd51320ccf",
+  "vendor": "Arturia"
+}

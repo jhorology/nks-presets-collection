@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Sub Kick",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "14b87a5b-bc31-4839-9d18-74e1919f3dba",
+  "vendor": "Arturia"
+}

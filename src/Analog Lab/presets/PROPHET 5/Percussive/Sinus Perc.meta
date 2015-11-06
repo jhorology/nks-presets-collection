@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ_P5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Sinus Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1f41479f-804f-4d18-aae2-d59c9eb46b3f",
+  "vendor": "Arturia"
+}

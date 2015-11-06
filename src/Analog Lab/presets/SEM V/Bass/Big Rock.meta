@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Hard", "Complex"],
+  "name": "Big Rock",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "abc834d3-5eaf-46d3-b41e-51d2383fa21d",
+  "vendor": "Arturia"
+}

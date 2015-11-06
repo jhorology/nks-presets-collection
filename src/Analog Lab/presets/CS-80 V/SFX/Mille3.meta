@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Mille3",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1579b4d1-0c83-4521-9d5f-d6966b0e7e85",
+  "vendor": "Arturia"
+}

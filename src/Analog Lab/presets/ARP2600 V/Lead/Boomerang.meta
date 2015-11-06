@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Boomerang",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a709c6c6-080c-40f3-96cf-bc40fe362d8e",
+  "vendor": "Arturia"
+}

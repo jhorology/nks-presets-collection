@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Rattles",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e2970a85-3128-4ef8-86cb-97fb32945ac0",
+  "vendor": "Arturia"
+}

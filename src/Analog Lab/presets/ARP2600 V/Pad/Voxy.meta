@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Voxy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8fbdc43c-3b3f-4a75-9b06-f922541d3cb8",
+  "vendor": "Arturia"
+}

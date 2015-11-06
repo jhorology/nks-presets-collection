@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Pulstrings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "89df267d-24b5-4ee9-b1ce-5464c8437794",
+  "vendor": "Arturia"
+}

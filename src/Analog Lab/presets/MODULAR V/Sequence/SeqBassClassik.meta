@@ -1,0 +1,13 @@
+{
+  "author": "L.Llorca",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "SeqBassClassik",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4136b832-5c09-4cb3-9fdc-f3371a315c9e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Monkey Grinder",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "1df0fb14-1566-4db4-861b-4ac990aa9e2e",
+  "vendor": "Arturia"
+}

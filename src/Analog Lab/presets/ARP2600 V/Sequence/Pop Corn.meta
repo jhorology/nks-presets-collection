@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Pop Corn",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0608a82c-5c4e-4e74-a9a5-a702b88282fe",
+  "vendor": "Arturia"
+}

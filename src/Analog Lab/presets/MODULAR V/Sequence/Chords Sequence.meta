@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Chords Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "abd6abba-6bcd-4b7c-a4d2-78eba4a4d0ce",
+  "vendor": "Arturia"
+}

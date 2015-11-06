@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "African Ronde",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6d06a2da-0bcd-44aa-a801-afc2683266f1",
+  "vendor": "Arturia"
+}

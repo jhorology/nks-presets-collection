@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Simple Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f39f10b3-ca35-468e-9929-8e467ee73af9",
+  "vendor": "Arturia"
+}

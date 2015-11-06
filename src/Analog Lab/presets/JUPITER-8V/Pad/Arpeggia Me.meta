@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient", "Digital"],
+  "name": "Arpeggia Me",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6de9c0c5-ae19-4288-b6fd-2ab3b84d6f52",
+  "vendor": "Arturia"
+}

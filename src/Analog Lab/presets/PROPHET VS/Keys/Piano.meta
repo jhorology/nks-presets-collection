@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "914fd713-ab05-4d61-9db8-49f1fcb08819",
+  "vendor": "Arturia"
+}

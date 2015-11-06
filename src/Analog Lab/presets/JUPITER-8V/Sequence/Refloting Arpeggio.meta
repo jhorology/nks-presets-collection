@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Acid"],
+  "name": "Refloting Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0b51ed55-3eb4-437b-8aac-df1454635a40",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "FM Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "55ce9a4c-21ea-44b5-9f87-004b1fffc2ee",
+  "vendor": "Arturia"
+}

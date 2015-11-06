@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Cristal Fall",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f6e24f00-75cc-448a-a0d0-098d71d71683",
+  "vendor": "Arturia"
+}

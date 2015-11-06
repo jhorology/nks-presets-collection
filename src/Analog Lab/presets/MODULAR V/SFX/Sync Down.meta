@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Long"],
+  "name": "Sync Down",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b2f33bcd-929c-4b59-925c-d403a891d4bd",
+  "vendor": "Arturia"
+}

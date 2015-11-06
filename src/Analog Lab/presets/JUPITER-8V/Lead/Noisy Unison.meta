@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Complex"],
+  "name": "Noisy Unison",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b32b8c1b-aa38-4b5a-8824-bd2db4d7d8ad",
+  "vendor": "Arturia"
+}

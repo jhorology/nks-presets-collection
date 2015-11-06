@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Poursuite Filter",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "07096543-764d-41c4-ac69-d326cd350e9c",
+  "vendor": "Arturia"
+}

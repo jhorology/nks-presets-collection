@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Artificial Dance",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dce098ac-8b6c-45d7-a2fd-09f5400712c8",
+  "vendor": "Arturia"
+}

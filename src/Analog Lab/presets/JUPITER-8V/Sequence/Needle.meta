@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Digital"],
+  "name": "Needle",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f8420ef8-6fc2-4296-baf2-b493c5721390",
+  "vendor": "Arturia"
+}

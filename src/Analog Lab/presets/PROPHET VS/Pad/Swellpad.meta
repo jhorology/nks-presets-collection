@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Swellpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3d796811-134e-49d3-9372-f21f5bcfd8ef",
+  "vendor": "Arturia"
+}

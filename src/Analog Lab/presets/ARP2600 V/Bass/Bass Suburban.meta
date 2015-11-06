@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass Suburban",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "59d02330-8f1a-4efb-b638-8e6d68766981",
+  "vendor": "Arturia"
+}

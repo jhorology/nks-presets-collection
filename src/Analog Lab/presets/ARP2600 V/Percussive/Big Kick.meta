@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Noise"],
+  "name": "Big Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3e05b808-1f37-43cf-be59-dcbd5536ddb0",
+  "vendor": "Arturia"
+}

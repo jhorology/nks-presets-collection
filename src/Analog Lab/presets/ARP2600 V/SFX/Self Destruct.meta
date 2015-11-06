@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Noise"],
+  "name": "Self Destruct",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0ba88729-ca6a-4ab1-ae44-cf56d95378be",
+  "vendor": "Arturia"
+}

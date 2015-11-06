@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "SoftPad1",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a9a930b3-012b-4a89-9993-dfbbdb27d3c3",
+  "vendor": "Arturia"
+}

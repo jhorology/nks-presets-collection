@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Funktional",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8844b9f4-bc49-4565-9efc-08e385bc15c6",
+  "vendor": "Arturia"
+}

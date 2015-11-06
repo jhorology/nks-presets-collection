@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bright Keys",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c9a469d2-4985-4281-82a6-90c58a4544d7",
+  "vendor": "Arturia"
+}

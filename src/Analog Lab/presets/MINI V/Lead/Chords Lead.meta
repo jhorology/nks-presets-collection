@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Chords Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8e7a5937-d0b3-4b97-bdb9-730975d4951c",
+  "vendor": "Arturia"
+}

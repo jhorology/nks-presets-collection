@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Slow Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a7626c3d-36d6-484b-a59f-305106f09c2a",
+  "vendor": "Arturia"
+}

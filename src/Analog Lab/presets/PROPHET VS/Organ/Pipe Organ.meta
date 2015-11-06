@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Pipe Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "09b28581-d838-4dbe-9c7c-ecd49ed5b562",
+  "vendor": "Arturia"
+}

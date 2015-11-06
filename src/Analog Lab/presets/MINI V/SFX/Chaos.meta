@@ -1,0 +1,13 @@
+{
+  "author": "T.Perlman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre"],
+  "name": "Chaos",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bc1d6003-dabb-4637-9600-f096e56319fc",
+  "vendor": "Arturia"
+}

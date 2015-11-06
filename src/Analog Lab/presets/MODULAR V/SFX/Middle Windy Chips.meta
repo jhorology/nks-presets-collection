@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient", "Noise"],
+  "name": "Middle Windy Chips",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0f31b827-6489-4483-8e85-69ada88f8136",
+  "vendor": "Arturia"
+}

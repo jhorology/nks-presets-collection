@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Syn Marimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8b9927cf-f223-440a-b250-fdd94e62925f",
+  "vendor": "Arturia"
+}

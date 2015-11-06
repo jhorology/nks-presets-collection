@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Acid", "Ambient"],
+  "name": "morning Hours",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3795e4d9-bf2f-45fa-bd89-c2b40db3e6c2",
+  "vendor": "Arturia"
+}

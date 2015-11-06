@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Noise"],
+  "name": "Kansas",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9189f309-f9b4-4bbe-a838-4f081cc374cb",
+  "vendor": "Arturia"
+}

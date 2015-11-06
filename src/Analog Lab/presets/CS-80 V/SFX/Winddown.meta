@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Winddown",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "42bc60d4-7940-42a3-9449-3ef9211ee7bc",
+  "vendor": "Arturia"
+}

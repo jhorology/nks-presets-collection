@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Funky"],
+  "name": "Jup Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3228dffc-b863-4c56-8e08-6dd5040bbabb",
+  "vendor": "Arturia"
+}

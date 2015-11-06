@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex"],
+  "name": "Bells",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "81587cdf-7a73-4d11-9d9b-59f34920998e",
+  "vendor": "Arturia"
+}

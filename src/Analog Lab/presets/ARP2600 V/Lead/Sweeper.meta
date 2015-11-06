@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre"],
+  "name": "Sweeper",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6a71b2f1-89e3-4dde-9fac-5d0e790ba448",
+  "vendor": "Arturia"
+}

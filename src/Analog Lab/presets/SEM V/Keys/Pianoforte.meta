@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Funky"],
+  "name": "Pianoforte",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ed9553fe-5469-4514-abbd-03cd7a041e1b",
+  "vendor": "Arturia"
+}

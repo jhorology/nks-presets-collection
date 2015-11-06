@@ -1,0 +1,13 @@
+{
+  "author": "Original JP-8V Presets",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Short"],
+  "name": "56 Fact",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc56c411-de49-4224-ae51-23bf83dacb30",
+  "vendor": "Arturia"
+}

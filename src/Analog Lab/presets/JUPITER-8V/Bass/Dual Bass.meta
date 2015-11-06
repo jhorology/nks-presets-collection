@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Short"],
+  "name": "Dual Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "05f034bb-ab7a-4ecf-94c7-21c9d8ab0179",
+  "vendor": "Arturia"
+}

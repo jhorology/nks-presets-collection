@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Dark Arpeg",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6494d033-7592-4f00-bed6-eedd4a548905",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Quasimoogo",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "1a4fc711-f9ac-4aa1-a466-a00f37e6bae1",
+  "vendor": "Arturia"
+}

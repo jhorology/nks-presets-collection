@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Soft pad2 SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3d5969b7-d80d-4c65-94d0-3ca6e22a65fa",
+  "vendor": "Arturia"
+}

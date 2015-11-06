@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Long", "Bizarre"],
+  "name": "Stacked SCD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "19921bce-77d8-40e1-aa5e-6591e7de49e7",
+  "vendor": "Arturia"
+}

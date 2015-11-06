@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Onmy Way",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ddc9a84c-e7fd-4f97-811d-3d6c277ce113",
+  "vendor": "Arturia"
+}

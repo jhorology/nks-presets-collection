@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Openverb Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "47c1711a-1c34-427c-8f4c-c409a0712f00",
+  "vendor": "Arturia"
+}

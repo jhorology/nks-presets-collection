@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Simple"],
+  "name": "Tebbee",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8961db0b-5d7b-4953-89ae-da0bd4454d4e",
+  "vendor": "Arturia"
+}

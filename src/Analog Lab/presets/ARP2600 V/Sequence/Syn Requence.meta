@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Syn Requence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fafacb51-b08b-46c7-b1b7-2f008a02b0df",
+  "vendor": "Arturia"
+}

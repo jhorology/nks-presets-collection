@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ambient"],
+  "name": "8p Bow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ae058fac-bd21-4cc2-8ff3-2872923e89a5",
+  "vendor": "Arturia"
+}

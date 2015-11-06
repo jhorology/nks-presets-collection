@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Ensemble"],
+  "name": "Ringed Squares",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "54e2f3fd-8d57-4b48-984b-9b29ede1c4f9",
+  "vendor": "Arturia"
+}

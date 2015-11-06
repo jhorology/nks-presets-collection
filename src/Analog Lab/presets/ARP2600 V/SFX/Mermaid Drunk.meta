@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Mermaid Drunk",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7a143982-b69a-44ba-9f9c-cb3db4f61770",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Ambient"],
+  "name": "Bell Chord",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6ba1c036-3744-4c82-81e3-c9574c8df7d0",
+  "vendor": "Arturia"
+}

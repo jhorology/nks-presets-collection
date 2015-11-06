@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Ambient"],
+  "name": "Repeat Robot",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9619e73e-f534-4b58-ac04-caa8375256b9",
+  "vendor": "Arturia"
+}

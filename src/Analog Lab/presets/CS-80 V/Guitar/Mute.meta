@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mute",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "3fdc8f12-ef07-418d-859c-df2d7a702bd4",
+  "vendor": "Arturia"
+}

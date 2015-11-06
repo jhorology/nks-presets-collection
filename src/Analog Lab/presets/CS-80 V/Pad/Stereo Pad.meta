@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Stereo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b09bf484-34d5-4a9b-a861-90ddabae87be",
+  "vendor": "Arturia"
+}

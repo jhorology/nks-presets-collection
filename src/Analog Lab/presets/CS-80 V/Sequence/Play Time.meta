@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soundtrack"],
+  "name": "Play Time",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "64699d71-7846-4bcd-85e9-648ad938b647",
+  "vendor": "Arturia"
+}

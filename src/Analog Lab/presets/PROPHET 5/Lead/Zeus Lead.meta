@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Noise"],
+  "name": "Zeus Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ab24c268-bbb6-4fa2-9200-5d177dd6630e",
+  "vendor": "Arturia"
+}

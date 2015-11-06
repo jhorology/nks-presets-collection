@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Piano Fender",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "65875b49-0ce9-4b98-9cf1-58774377c1a8",
+  "vendor": "Arturia"
+}

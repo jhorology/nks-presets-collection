@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient", "Ensemble"],
+  "name": "Stringfellow",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "fa118eb4-982d-4731-8024-f3d6688b3e82",
+  "vendor": "Arturia"
+}

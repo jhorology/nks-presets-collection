@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Accoust Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "030b35ca-fb81-4853-9b88-7e6808ff5b63",
+  "vendor": "Arturia"
+}

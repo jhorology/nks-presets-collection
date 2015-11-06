@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital"],
+  "name": "Softouch",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e8f96182-9d46-4070-91fc-4315416a3408",
+  "vendor": "Arturia"
+}

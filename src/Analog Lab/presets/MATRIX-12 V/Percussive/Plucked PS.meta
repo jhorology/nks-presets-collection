@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Short"],
+  "name": "Plucked PS",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c91e37f2-917b-4d11-b759-184a0422ec9b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short", "Noise"],
+  "name": "Whispy Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "53f21278-8f88-4a65-b767-306afd8f1685",
+  "vendor": "Arturia"
+}

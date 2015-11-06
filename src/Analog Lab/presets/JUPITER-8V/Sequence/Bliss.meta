@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Ambient"],
+  "name": "Bliss",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cc5429a2-0611-4512-8d5d-f7625b252f92",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Noise"],
+  "name": "ACME Factory",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "7761c853-73c0-4ac5-b172-7dc467a31cb0",
+  "vendor": "Arturia"
+}

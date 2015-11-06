@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Synare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a5f10295-8364-4680-a4d7-9cc24ea9b755",
+  "vendor": "Arturia"
+}

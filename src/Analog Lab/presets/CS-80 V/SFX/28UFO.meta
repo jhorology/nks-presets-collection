@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "28UFO",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ba3f28c6-0cf0-4da3-a4e2-4c2e3ce31d0d",
+  "vendor": "Arturia"
+}

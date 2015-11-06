@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "LFO Modulation Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3c815297-a957-4809-9a3e-20e2717a786b",
+  "vendor": "Arturia"
+}

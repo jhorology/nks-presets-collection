@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient", "Soundtrack"],
+  "name": "Seafood SCD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f31c99a0-1e1e-4f19-b813-e4a4d5c8cac2",
+  "vendor": "Arturia"
+}

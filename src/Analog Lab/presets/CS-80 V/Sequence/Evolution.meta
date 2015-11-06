@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Evolution",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f9bc272e-4f91-462e-8882-a8f4b1a30e19",
+  "vendor": "Arturia"
+}

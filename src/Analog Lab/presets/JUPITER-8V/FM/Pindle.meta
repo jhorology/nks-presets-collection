@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Digital"],
+  "name": "Pindle",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "de169fab-805f-4f45-b455-79056ee1d3a7",
+  "vendor": "Arturia"
+}

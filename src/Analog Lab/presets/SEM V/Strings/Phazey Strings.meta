@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Soft", "Ensemble"],
+  "name": "Phazey Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d3d89ffb-060b-471c-8370-26d165aa7a8b",
+  "vendor": "Arturia"
+}

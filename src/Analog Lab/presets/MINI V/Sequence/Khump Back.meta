@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre"],
+  "name": "Khump Back",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "83a3589e-0013-468e-8239-9e146d0f0e1f",
+  "vendor": "Arturia"
+}

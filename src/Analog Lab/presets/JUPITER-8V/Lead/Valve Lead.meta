@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Funky"],
+  "name": "Valve Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5a83e605-cf05-4044-9cfa-047cddee4f38",
+  "vendor": "Arturia"
+}

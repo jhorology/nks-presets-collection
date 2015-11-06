@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Ambient Drone",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cb4d66c1-9bbc-47f5-94a7-28e552f105ec",
+  "vendor": "Arturia"
+}

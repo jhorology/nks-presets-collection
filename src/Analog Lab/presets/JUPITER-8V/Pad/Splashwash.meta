@@ -1,0 +1,13 @@
+{
+  "author": "CDJ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Splashwash",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f37f501f-4c8f-45e8-bd03-80ba35157b93",
+  "vendor": "Arturia"
+}

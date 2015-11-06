@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Digital"],
+  "name": "Stellar",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "ce2f15b8-8b0c-4ac5-914c-be9ba3c58bd0",
+  "vendor": "Arturia"
+}

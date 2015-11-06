@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Soft", "Long", "Ambient"],
+  "name": "Heaven harpsic PS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b0635cb3-027c-4c30-891a-dfb260a71175",
+  "vendor": "Arturia"
+}

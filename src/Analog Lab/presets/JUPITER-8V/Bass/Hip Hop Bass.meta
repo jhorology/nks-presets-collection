@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Ambient"],
+  "name": "Hip Hop Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d612e384-51f9-48b1-828f-af18f0273861",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Electr Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "706c800f-c19b-4ca1-bf76-05ab32662ac2",
+  "vendor": "Arturia"
+}

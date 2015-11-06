@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Bakerlite",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc639af3-008c-4d3f-9b05-f389cb3f9cc1",
+  "vendor": "Arturia"
+}

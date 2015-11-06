@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Filter Whitsle",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8429629e-d625-487e-83a5-f586380f859f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Switch Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "119a2359-8436-4b21-9757-8006e0d05c90",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid", "Funky"],
+  "name": "Double Tap",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3c63c58a-c3c1-4ad4-ba63-7e359ea1ab80",
+  "vendor": "Arturia"
+}

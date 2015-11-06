@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Metal",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ec2599ca-32e4-458a-a27b-1d41721d820b",
+  "vendor": "Arturia"
+}

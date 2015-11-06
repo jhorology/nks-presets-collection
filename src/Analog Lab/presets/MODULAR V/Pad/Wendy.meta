@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Wendy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ba2f9a10-ff4d-41cb-821b-3d7503e8490f",
+  "vendor": "Arturia"
+}

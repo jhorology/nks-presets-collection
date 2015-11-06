@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ensemble"],
+  "name": "Attack Pad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3e84f052-bb9e-453a-b94b-468e66890878",
+  "vendor": "Arturia"
+}

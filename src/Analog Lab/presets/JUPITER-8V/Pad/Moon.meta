@@ -1,0 +1,13 @@
+{
+  "author": "Acc-Jupiter8V",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Ambient"],
+  "name": "Moon",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6b0a4097-c4cc-40df-bfc2-c3b106e55691",
+  "vendor": "Arturia"
+}

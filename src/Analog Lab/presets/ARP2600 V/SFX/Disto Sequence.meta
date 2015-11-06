@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Disto Sequence",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "377c66b9-ed2a-49d4-a407-80085df1cb1a",
+  "vendor": "Arturia"
+}

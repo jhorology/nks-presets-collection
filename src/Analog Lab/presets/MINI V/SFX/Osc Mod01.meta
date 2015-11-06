@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soundtrack"],
+  "name": "Osc Mod01",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3a347d16-b12a-4c35-a416-1583dbdd1b9f",
+  "vendor": "Arturia"
+}

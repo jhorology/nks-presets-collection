@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Bizarre"],
+  "name": "Morse Dance",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3fc1ec13-134a-410a-8cec-a403d0cb1c90",
+  "vendor": "Arturia"
+}

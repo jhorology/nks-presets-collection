@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Wheelit",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "382a887e-510e-4d80-b153-666d095e0441",
+  "vendor": "Arturia"
+}

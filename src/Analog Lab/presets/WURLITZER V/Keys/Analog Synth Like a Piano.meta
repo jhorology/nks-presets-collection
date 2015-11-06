@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Digital", "Funky"],
+  "name": "Analog Synth Like a Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "96e503e7-d6e1-43c6-aa71-adba22d7db06",
+  "vendor": "Arturia"
+}

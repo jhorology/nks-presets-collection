@@ -1,0 +1,13 @@
+{
+  "author": "SkyChurch",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex"],
+  "name": "bendfast",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f9265b8e-3b88-440d-b5b8-89869deeaae3",
+  "vendor": "Arturia"
+}

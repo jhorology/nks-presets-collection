@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Simple"],
+  "name": "Rub Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c74a5dec-9d7b-4fea-b40b-ee8d99cbc840",
+  "vendor": "Arturia"
+}

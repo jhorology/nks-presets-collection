@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Long"],
+  "name": "Underlyiner",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c4435b86-ea23-4159-9c2d-f41a71cfe436",
+  "vendor": "Arturia"
+}

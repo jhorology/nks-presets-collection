@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Bizarre"],
+  "name": "Buzz Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "296a4dd1-0f14-4154-b932-4756867d304c",
+  "vendor": "Arturia"
+}

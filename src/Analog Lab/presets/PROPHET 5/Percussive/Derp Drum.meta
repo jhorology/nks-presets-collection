@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Short"],
+  "name": "Derp Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9637a9cf-d5b9-40de-bd98-19124d28cab0",
+  "vendor": "Arturia"
+}

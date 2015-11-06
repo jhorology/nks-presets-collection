@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Digital"],
+  "name": "Cellophane",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e1bc53b6-682b-42b7-ac48-a2413e0ba473",
+  "vendor": "Arturia"
+}

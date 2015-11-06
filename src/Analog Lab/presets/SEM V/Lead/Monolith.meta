@@ -1,0 +1,13 @@
+{
+  "author": "Brendan Perry",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Monolith",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1dd94819-1f39-4e2e-baa1-168dc0ceb4dc",
+  "vendor": "Arturia"
+}

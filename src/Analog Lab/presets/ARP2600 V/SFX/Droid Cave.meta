@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ambient"],
+  "name": "Droid Cave",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "919ac690-c988-4d35-9dab-ed1d4b45b655",
+  "vendor": "Arturia"
+}

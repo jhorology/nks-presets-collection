@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Stram",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "756ce0b8-d7a4-44d5-baaf-3f47142598fc",
+  "vendor": "Arturia"
+}

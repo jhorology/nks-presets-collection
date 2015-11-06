@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient", "Noise"],
+  "name": "Flyby",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d5629b4b-b12c-47bb-b47e-5fb0850b9a5c",
+  "vendor": "Arturia"
+}

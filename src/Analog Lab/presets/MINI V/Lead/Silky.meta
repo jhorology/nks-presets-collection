@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Silky",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "34b895bb-e49f-4232-9274-c0e74f43f211",
+  "vendor": "Arturia"
+}

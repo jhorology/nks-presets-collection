@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Pad Up",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "54835987-f417-4c0b-9695-c4b331b8a46c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long"],
+  "name": "Hung Jury",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6192b830-c655-4377-9f71-b53ed2200d42",
+  "vendor": "Arturia"
+}

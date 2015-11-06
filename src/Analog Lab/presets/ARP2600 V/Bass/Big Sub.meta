@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Big Sub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ab2bca29-94a2-4bc2-814d-25ba0be33a45",
+  "vendor": "Arturia"
+}

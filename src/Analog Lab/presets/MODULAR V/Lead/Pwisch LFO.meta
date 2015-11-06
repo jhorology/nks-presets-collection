@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Pwisch LFO",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "eb80b079-48c6-4ab7-8d0f-3b313ccbaa5b",
+  "vendor": "Arturia"
+}

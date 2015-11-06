@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "In Berlin",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "74a79df4-a5a5-4dfd-aeba-bbaa2070ad9c",
+  "vendor": "Arturia"
+}

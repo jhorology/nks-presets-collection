@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Ambient"],
+  "name": "Old Spirits",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f6f7fde7-3b3d-49b2-a4cf-1980dc9e3a07",
+  "vendor": "Arturia"
+}

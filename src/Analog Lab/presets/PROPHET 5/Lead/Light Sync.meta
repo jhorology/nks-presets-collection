@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ_P5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Light Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1a0ad551-719c-45f9-8c72-a193712939a3",
+  "vendor": "Arturia"
+}

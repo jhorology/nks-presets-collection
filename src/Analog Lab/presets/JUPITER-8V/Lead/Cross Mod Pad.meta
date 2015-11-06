@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Long"],
+  "name": "Cross Mod Pad",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5d4abfd2-63d3-457c-94a8-815613b20dde",
+  "vendor": "Arturia"
+}

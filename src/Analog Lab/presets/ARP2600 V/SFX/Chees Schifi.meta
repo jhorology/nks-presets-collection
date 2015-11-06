@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Chees Schifi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "22db8f50-dbb4-4666-a05d-d28ff50e029e",
+  "vendor": "Arturia"
+}

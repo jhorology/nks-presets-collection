@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Noise"],
+  "name": "Soft Flutey",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "dd137af1-d5fb-486c-b70b-24d0a7e9ed54",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Space carillon LT",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a7c8ccbf-c162-4423-8037-c6d227d57770",
+  "vendor": "Arturia"
+}

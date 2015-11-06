@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Simple",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5a65140e-0f59-4447-af06-5d8a4ec2851f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Ensemble"],
+  "name": "Brassus Maximus EN",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "35187da6-0ff4-46e3-8b0f-41f819d1aaf4",
+  "vendor": "Arturia"
+}

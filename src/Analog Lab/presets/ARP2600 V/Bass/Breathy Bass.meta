@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Breathy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "65d823dc-be2c-42c8-afcd-ea685c9d854f",
+  "vendor": "Arturia"
+}

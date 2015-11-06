@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "El Basta",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bf24fdc9-e527-45c0-a6d7-557411abb435",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Complex", "Soundtrack"],
+  "name": "Eggs",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "10ea78b5-0acc-44a2-86d4-b20991d150fb",
+  "vendor": "Arturia"
+}

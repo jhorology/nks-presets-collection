@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Funky"],
+  "name": "Head Hanted Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "97853861-3e6f-44f2-a157-1fcc9aa73d0a",
+  "vendor": "Arturia"
+}

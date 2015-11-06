@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Bip Filter Enveloppe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "73afa6bc-d266-487a-8fcd-5c21ed3b2d0a",
+  "vendor": "Arturia"
+}

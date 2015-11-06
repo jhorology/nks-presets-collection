@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Bizarre"],
+  "name": "Bad Kitty",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "1be0dcc7-6919-4785-bf51-019a635f5d1f",
+  "vendor": "Arturia"
+}

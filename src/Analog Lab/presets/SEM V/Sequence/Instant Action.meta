@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Instant Action",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "88600881-8e62-4a7b-9c97-28f7a8f00e7b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient", "Soundtrack"],
+  "name": "Take Off",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "44564696-e68e-4d28-9095-28c7dffad7a6",
+  "vendor": "Arturia"
+}

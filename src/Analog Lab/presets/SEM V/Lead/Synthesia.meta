@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Acid"],
+  "name": "Synthesia",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f2e0ff4b-6e64-4399-a6fc-ee3db7852053",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Lead or Led",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "11dadc1f-3ae4-4669-bc07-10ba88d1cb02",
+  "vendor": "Arturia"
+}

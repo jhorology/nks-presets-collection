@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Sinus",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5313760f-08eb-40f2-a52f-472113dc4224",
+  "vendor": "Arturia"
+}

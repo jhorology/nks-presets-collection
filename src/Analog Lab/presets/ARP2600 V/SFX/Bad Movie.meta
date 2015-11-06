@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Bad Movie",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6e89a058-7151-43fc-ac6f-870ebea6865c",
+  "vendor": "Arturia"
+}

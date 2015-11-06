@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Electrolizer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "be0b0d88-9e48-4773-83ed-45c9048d8bd2",
+  "vendor": "Arturia"
+}

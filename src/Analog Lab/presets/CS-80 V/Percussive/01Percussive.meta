@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Noise"],
+  "name": "01Percussive",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "57d1fbd3-cbbd-4a28-b6d6-6747f9e88e73",
+  "vendor": "Arturia"
+}

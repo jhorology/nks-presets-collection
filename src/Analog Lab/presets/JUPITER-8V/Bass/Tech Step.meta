@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Complex"],
+  "name": "Tech Step",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b3bcffad-0fb9-4da5-afc8-1a19335916b5",
+  "vendor": "Arturia"
+}

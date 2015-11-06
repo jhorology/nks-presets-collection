@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "909 Revers",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0f6d24bc-ec28-45a2-8ade-503b58920d0c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Seed Bass Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8f5e64a2-79d8-4efa-b191-813573f4ef37",
+  "vendor": "Arturia"
+}

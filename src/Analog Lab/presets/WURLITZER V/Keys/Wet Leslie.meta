@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Acid"],
+  "name": "Wet Leslie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6f967a00-d598-486e-9c20-6ef2f408a10e",
+  "vendor": "Arturia"
+}

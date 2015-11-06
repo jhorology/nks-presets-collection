@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Ensemble"],
+  "name": "Resma Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b911b3d2-2fac-4375-91d4-2397f0e5f1f4",
+  "vendor": "Arturia"
+}

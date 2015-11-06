@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Soundtrack"],
+  "name": "Jubo Flanger",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b0370989-4a97-4bc7-9056-3aee2f9b3933",
+  "vendor": "Arturia"
+}

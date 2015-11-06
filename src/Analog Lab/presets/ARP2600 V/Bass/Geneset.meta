@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Geneset",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9f535b44-fc74-4fae-b163-ad8229ab7fa5",
+  "vendor": "Arturia"
+}

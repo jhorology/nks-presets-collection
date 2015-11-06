@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Slow Shimmer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0f87ac75-b9e0-47b4-a2ad-39415959f6f7",
+  "vendor": "Arturia"
+}

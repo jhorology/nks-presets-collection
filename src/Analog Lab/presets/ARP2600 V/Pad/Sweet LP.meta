@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Sweet LP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "483ad405-6d25-4568-acdb-9769b16010a7",
+  "vendor": "Arturia"
+}

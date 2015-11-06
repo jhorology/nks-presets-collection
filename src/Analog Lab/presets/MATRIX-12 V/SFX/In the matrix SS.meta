@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "In the matrix SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9b721f8a-dc36-476b-80f8-cb6c3bccae4f",
+  "vendor": "Arturia"
+}

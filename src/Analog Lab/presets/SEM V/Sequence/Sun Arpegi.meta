@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Sun Arpegi",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "22e409d5-b65f-43b3-935c-cf4e530ac8be",
+  "vendor": "Arturia"
+}

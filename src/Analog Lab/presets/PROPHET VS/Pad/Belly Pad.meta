@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Belly Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "13f60b35-eab2-4685-967f-944a7449d93a",
+  "vendor": "Arturia"
+}

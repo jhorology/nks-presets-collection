@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Space Random",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "58d48fd2-6345-489f-9a54-9e2d85809f0f",
+  "vendor": "Arturia"
+}

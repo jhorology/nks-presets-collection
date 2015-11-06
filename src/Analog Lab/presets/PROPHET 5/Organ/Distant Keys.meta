@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre", "Noise"],
+  "name": "Distant Keys",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c88368fa-1fd1-4612-b712-d8c4195d6bf1",
+  "vendor": "Arturia"
+}

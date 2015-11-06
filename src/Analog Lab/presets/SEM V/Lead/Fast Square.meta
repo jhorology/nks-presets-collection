@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Fast Square",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b7450730-b9a8-45e2-83ae-98c20cbed5ea",
+  "vendor": "Arturia"
+}

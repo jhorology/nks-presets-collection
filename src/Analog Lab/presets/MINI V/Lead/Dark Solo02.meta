@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Dark Solo02",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ed8eab7b-4917-4276-a2cf-48ace749df9c",
+  "vendor": "Arturia"
+}

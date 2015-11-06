@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Long"],
+  "name": "Rot Brassy",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "0e7f999a-d3d6-45d2-b3c4-79f0fea8c6d4",
+  "vendor": "Arturia"
+}

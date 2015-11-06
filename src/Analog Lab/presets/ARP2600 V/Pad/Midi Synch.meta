@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Midi Synch",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bdfc3265-950d-42b9-9d9b-827906975a38",
+  "vendor": "Arturia"
+}

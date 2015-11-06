@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ensemble"],
+  "name": "Pad & Lead",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "390ebf24-1e85-4f36-9702-840416d8c63f",
+  "vendor": "Arturia"
+}

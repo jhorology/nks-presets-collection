@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Stereo SQC2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c8ee5b5c-6755-4c14-a117-61b0bd63adaa",
+  "vendor": "Arturia"
+}

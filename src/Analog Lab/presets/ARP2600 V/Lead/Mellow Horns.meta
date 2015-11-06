@@ -1,0 +1,13 @@
+{
+  "author": "Roger_Lyons",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Mellow Horns",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "36691827-69b9-477a-99ac-fb8c37db2968",
+  "vendor": "Arturia"
+}

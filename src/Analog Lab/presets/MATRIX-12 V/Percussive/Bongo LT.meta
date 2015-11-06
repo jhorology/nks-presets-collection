@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Bongo LT",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f4499af0-aca9-4633-87c0-22cb0b743baa",
+  "vendor": "Arturia"
+}

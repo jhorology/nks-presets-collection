@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long"],
+  "name": "Slow Brass Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "72cafee9-7677-463c-bf36-0c60f4c8c2fb",
+  "vendor": "Arturia"
+}

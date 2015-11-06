@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Fat Poly Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "31f01d2b-b9f1-4ef9-a282-3be55b6c87f6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Inka Sinus01",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c9fca79d-aa0d-4257-9cc1-646c118998c3",
+  "vendor": "Arturia"
+}

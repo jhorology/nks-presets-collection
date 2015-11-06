@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Short"],
+  "name": "Seven Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "490a5931-f813-4f45-99cd-08d595c1f563",
+  "vendor": "Arturia"
+}

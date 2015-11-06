@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Cepemodus",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "87c0b06f-a691-4a52-b846-f7b725b5765a",
+  "vendor": "Arturia"
+}

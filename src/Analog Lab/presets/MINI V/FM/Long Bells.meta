@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Long Bells",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "a6293bbf-9771-45d7-8fa8-eee733c8624f",
+  "vendor": "Arturia"
+}

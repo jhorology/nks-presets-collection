@@ -1,0 +1,13 @@
+{
+  "author": "D.Diaz",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Acid"],
+  "name": "Runway Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "041b057d-5dc4-4660-8345-34e9af3295a6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard"],
+  "name": "Squaremaid",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b75c9fa7-3586-49b4-88e6-3c458b7da203",
+  "vendor": "Arturia"
+}

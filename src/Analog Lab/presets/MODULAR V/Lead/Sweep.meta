@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet20",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Sweep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "052141c6-f62b-4281-859b-7612243e82a9",
+  "vendor": "Arturia"
+}

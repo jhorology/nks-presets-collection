@@ -1,0 +1,13 @@
+{
+  "author": "KUJIIE",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Klong Bell",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "ce6ff425-eeda-44f1-89b6-bbd50b65197f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Long", "Funky"],
+  "name": "Put a Ring On It",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "25fd8084-8122-493a-8b77-98fee481f084",
+  "vendor": "Arturia"
+}

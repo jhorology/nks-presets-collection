@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Bouncy Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "4a14ee28-9a8e-4638-8be2-3e0b4f497d46",
+  "vendor": "Arturia"
+}

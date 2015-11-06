@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Funky"],
+  "name": "FM Vocal",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "284f68fd-ef40-4cff-a528-820c69882032",
+  "vendor": "Arturia"
+}

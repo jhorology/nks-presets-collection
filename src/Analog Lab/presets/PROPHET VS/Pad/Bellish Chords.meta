@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Bellish Chords",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f69e0e2b-60cb-41e9-851b-97e854c46739",
+  "vendor": "Arturia"
+}

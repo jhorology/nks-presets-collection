@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Weather",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "01c61e40-b671-4074-9b44-4821eb3c148a",
+  "vendor": "Arturia"
+}

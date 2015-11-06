@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Dream Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "98053bf8-7633-4d29-bfd2-5367127cb631",
+  "vendor": "Arturia"
+}

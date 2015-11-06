@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Funky"],
+  "name": "Elctric Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "00a41529-a17a-4cc7-8e9a-7cd649dcde83",
+  "vendor": "Arturia"
+}

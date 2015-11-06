@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Bonnaventure",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8a3a0ee6-ddbe-4e87-8361-9d1d3ad8ccf0",
+  "vendor": "Arturia"
+}

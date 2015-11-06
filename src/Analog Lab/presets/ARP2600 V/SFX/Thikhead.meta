@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Thikhead",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0ba813ad-815a-4958-a7da-e720f1b5f37d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Time laps SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4ad3d859-7155-4bc2-87e4-cdf81da40f53",
+  "vendor": "Arturia"
+}

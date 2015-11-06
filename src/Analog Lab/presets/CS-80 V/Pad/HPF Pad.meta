@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "HPF Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4047aff6-2c2f-4ca7-89be-c45d4fcba96f",
+  "vendor": "Arturia"
+}

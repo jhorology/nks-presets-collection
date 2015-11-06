@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Complex", "Short", "Funky"],
+  "name": "Bass Drum on The Wheel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "84d2b51d-1a1d-42dc-b358-4f870b125dce",
+  "vendor": "Arturia"
+}

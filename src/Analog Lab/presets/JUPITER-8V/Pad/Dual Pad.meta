@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient"],
+  "name": "Dual Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5dfe29ef-e1a1-44e3-957a-8e63252f3c20",
+  "vendor": "Arturia"
+}

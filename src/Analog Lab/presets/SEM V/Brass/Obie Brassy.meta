@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Simple"],
+  "name": "Obie Brassy",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "969b5588-c629-4341-bcf7-c5118ec1456d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Bizarre"],
+  "name": "Psychadelic Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "432a6820-6ff1-4403-a43f-572eecd6aab6",
+  "vendor": "Arturia"
+}

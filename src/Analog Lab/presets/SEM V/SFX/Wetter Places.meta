@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Wetter Places",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b36f9171-2a7e-4d4c-99f3-4afadcec4680",
+  "vendor": "Arturia"
+}

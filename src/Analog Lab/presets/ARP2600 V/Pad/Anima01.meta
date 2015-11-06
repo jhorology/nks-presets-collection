@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Anima01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7ba89b0b-fb24-4df4-9afc-d61705bed61c",
+  "vendor": "Arturia"
+}

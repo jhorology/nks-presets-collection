@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Puma",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2483ad83-afdf-4b26-98d9-49b3e0f43951",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Emerlist",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b16ac04d-55d4-4629-a414-9fbcb3166d2f",
+  "vendor": "Arturia"
+}

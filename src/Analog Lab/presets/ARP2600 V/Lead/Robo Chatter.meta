@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Robo Chatter",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e710d972-13db-4e96-9413-f1f4aac94927",
+  "vendor": "Arturia"
+}

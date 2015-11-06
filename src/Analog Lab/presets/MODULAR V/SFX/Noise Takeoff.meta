@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Noise Takeoff",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0d119923-6411-4bed-a373-525746cb8a17",
+  "vendor": "Arturia"
+}

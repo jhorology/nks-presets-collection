@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Night Lazer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bf71415c-0a39-4a45-b102-043eeefbdb43",
+  "vendor": "Arturia"
+}

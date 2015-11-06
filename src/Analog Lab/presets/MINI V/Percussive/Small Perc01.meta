@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Small Perc01",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "66af9116-384c-43a5-ab50-3f5f538b34e4",
+  "vendor": "Arturia"
+}

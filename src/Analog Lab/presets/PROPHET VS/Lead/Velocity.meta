@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Bright", "Complex"],
+  "name": "Velocity",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd6db01a-9733-4fc5-983c-09bdd3490eec",
+  "vendor": "Arturia"
+}

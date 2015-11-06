@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Lfo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f5284dda-d81f-407a-9fff-4615f7f9a6a0",
+  "vendor": "Arturia"
+}

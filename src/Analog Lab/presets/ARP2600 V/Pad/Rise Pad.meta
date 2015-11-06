@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Rise Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fa3e69b8-f48f-45a0-a688-0a17c0a38425",
+  "vendor": "Arturia"
+}

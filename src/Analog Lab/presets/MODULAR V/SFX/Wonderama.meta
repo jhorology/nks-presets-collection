@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Ambient"],
+  "name": "Wonderama",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5977cfbb-6062-4ebb-a2b8-080c6dc7ca87",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "LT_Modulation",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0b078d22-6f80-41d6-b5cc-b78dc05dc71b",
+  "vendor": "Arturia"
+}

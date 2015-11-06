@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid"],
+  "name": "Velo Arp01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "50eea288-b58e-45f2-b137-710f027a525d",
+  "vendor": "Arturia"
+}

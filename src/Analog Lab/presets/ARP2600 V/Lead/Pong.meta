@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Pong",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c704c02e-b231-458e-ba4b-effec6740c7a",
+  "vendor": "Arturia"
+}

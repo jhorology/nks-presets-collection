@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Bizarre", "Ambient"],
+  "name": "Mercury",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4ee730c6-9590-4dfa-951b-e03a3d873f0d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "SQ07",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b481a725-1d52-4d47-a484-cadfccddef51",
+  "vendor": "Arturia"
+}

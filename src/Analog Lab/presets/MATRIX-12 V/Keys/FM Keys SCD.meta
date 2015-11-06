@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short", "Funky"],
+  "name": "FM Keys SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "26221462-e5ac-476e-bb0b-92d30ee41689",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Octaver Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cb25a325-2477-4891-88a0-9654189f6cd3",
+  "vendor": "Arturia"
+}

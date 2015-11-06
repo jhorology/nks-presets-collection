@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Unwieldy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2a86eed5-8921-44b0-b178-72234cc8601f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Long", "Bizarre", "Ambient", "Noise", "Soundtrack"],
+  "name": "Hold Lo Note EN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cd26ab5f-4693-44d5-8c60-6b16f7c1c038",
+  "vendor": "Arturia"
+}

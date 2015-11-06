@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Orti Combo5",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b3a28803-1174-44e0-a259-d92fcaa0ffaf",
+  "vendor": "Arturia"
+}

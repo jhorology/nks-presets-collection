@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Thymine",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c3ee87ce-38f6-4203-aa13-20196568c532",
+  "vendor": "Arturia"
+}

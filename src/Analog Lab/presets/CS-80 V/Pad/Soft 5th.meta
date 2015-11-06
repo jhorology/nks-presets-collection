@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Soft 5th",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "80c0a7b6-24fa-49b3-8aa5-c3236b1b7a28",
+  "vendor": "Arturia"
+}

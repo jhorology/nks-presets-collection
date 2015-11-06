@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Sin Wave",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9e493959-64b6-4e0f-bf06-236060fc1927",
+  "vendor": "Arturia"
+}

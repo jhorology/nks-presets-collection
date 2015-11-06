@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Frog Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8636c4b1-7b97-41f8-944e-cf606f2ee312",
+  "vendor": "Arturia"
+}

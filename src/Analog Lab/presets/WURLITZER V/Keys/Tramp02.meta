@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Simple", "Ambient"],
+  "name": "Tramp02",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "63c69543-0ba6-4f8c-9bc4-bd15e546c0fe",
+  "vendor": "Arturia"
+}

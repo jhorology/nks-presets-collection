@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ensemble"],
+  "name": "String Pad Bass",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "bd05bfc9-0f7b-4a11-8338-342d57ab6912",
+  "vendor": "Arturia"
+}

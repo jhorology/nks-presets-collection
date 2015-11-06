@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Acid"],
+  "name": "Sync Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c93233d1-efac-4a0d-b169-c2090ff0efef",
+  "vendor": "Arturia"
+}

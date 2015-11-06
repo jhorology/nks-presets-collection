@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Electro Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c20f3b81-2344-4425-b123-232efb249ad0",
+  "vendor": "Arturia"
+}

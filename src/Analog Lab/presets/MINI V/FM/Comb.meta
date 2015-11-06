@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Comb",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "931056b2-e0af-4a5f-8d2f-4ab5421dbe22",
+  "vendor": "Arturia"
+}

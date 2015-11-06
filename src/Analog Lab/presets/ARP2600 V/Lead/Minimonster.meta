@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Minimonster",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3c38bf58-c8a0-4315-97df-7cfb1f0ae6ca",
+  "vendor": "Arturia"
+}

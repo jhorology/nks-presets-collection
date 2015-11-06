@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "5th Street",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "103d46bd-a389-4dda-95a2-a8e269e8782e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Soft Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "97e592fd-5024-4013-91e6-869ef2bf964f",
+  "vendor": "Arturia"
+}

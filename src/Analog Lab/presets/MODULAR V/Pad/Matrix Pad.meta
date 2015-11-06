@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Matrix Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6937d9c3-654a-452d-965e-2c3215fb43eb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre"],
+  "name": "Hell Boy",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "113b90cf-8ca1-4fb0-931c-1e1bf8c36266",
+  "vendor": "Arturia"
+}

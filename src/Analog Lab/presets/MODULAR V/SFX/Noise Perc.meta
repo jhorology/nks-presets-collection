@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Noise Perc",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "26aec8d9-baa1-4b9e-ac38-cfe48af61258",
+  "vendor": "Arturia"
+}

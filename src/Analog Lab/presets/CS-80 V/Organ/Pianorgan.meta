@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Pianorgan",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "910ccc63-122e-4dc9-8855-acafc6729e28",
+  "vendor": "Arturia"
+}

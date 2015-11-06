@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Ambient"],
+  "name": "Belle & Sebastien",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b14734a2-e893-4185-9f0b-fe4bfabee272",
+  "vendor": "Arturia"
+}

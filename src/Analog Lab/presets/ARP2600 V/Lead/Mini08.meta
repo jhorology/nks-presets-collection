@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "Mini08",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "962d7c4f-3bf0-437a-9356-b7aeec035e31",
+  "vendor": "Arturia"
+}

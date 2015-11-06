@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Digital"],
+  "name": "DX",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "8d2028e9-2ad1-4a30-9a53-64dc7112fbf0",
+  "vendor": "Arturia"
+}

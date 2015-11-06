@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Echo Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c263d603-a872-440e-b4ac-88edc280af95",
+  "vendor": "Arturia"
+}

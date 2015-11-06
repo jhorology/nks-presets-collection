@@ -1,0 +1,13 @@
+{
+  "author": "Howard_Scarr",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Tweets",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2e5f6418-c88b-458d-b3f1-4a2cde3049c6",
+  "vendor": "Arturia"
+}

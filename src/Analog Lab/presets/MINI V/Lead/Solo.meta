@@ -1,0 +1,13 @@
+{
+  "author": "T.Perlman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Solo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3e7ea3e9-85ce-4adc-8dd7-827a77ee6dc6",
+  "vendor": "Arturia"
+}

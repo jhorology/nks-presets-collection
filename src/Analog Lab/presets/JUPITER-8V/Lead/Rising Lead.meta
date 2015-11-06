@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient"],
+  "name": "Rising Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e4b9cee8-1aaf-4e8b-b5f9-7b1958118cbe",
+  "vendor": "Arturia"
+}

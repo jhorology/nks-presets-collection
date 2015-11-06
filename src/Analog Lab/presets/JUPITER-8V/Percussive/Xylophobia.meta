@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Digital"],
+  "name": "Xylophobia",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0971664a-3144-446a-9151-1e5d8cca0913",
+  "vendor": "Arturia"
+}

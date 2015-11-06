@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Get Red",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e1a51b45-422c-42aa-8825-7f9bf0690954",
+  "vendor": "Arturia"
+}

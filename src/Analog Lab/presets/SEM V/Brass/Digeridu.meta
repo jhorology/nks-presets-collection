@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Digeridu",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "45997fb6-6d20-4bbb-9755-56b96e45bed0",
+  "vendor": "Arturia"
+}

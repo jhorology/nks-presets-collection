@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Not broken SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c09f71c9-f3f4-43e1-a20e-ac3642cc80f2",
+  "vendor": "Arturia"
+}

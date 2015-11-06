@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Toy Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ffa9d7cd-ceb9-4623-90a3-0097e8ab1349",
+  "vendor": "Arturia"
+}

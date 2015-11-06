@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "In The Boeing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d3f7c170-b10a-4017-88a7-1e8153961560",
+  "vendor": "Arturia"
+}

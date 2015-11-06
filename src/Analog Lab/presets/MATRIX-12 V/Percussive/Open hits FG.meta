@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Open hits FG",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0d3dec1f-95ab-48be-b7ae-0b12cc982897",
+  "vendor": "Arturia"
+}

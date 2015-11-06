@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Octave Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a18a51e0-144d-4119-a68f-fef1929d4b54",
+  "vendor": "Arturia"
+}

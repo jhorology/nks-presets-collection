@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Pitch Degree",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "ed2e11e3-c5bd-48db-828e-38bc13366b24",
+  "vendor": "Arturia"
+}

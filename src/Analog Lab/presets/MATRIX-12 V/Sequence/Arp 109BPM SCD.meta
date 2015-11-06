@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Funky"],
+  "name": "Arp 109BPM SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "702d5b2a-cded-479e-8377-f9e24fb24dc1",
+  "vendor": "Arturia"
+}

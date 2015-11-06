@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Bright Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "88710dc2-ae86-42fa-a7ca-86b0fca7f42c",
+  "vendor": "Arturia"
+}

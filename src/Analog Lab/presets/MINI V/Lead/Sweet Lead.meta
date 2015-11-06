@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sweet Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b753022e-c7e8-4cdc-878c-c12cc2973f95",
+  "vendor": "Arturia"
+}

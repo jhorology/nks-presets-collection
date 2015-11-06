@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Short", "Soundtrack"],
+  "name": "Pizzicato",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "468654b7-c3c5-41cd-bed8-8027e8a31a91",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Der Raum",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8592dfe7-a7c5-4eee-bd4a-29a6aca6f5b3",
+  "vendor": "Arturia"
+}

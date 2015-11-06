@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Short"],
+  "name": "Dual Arpeggio",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8f933a43-43b4-4083-8122-cbcbb1617d40",
+  "vendor": "Arturia"
+}

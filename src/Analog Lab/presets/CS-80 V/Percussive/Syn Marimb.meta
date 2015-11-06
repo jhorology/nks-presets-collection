@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Syn Marimb",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "161684ed-79ad-41d0-98a8-d3c072f1d8f9",
+  "vendor": "Arturia"
+}

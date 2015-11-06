@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Velo Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9a806419-bbf1-4673-b4c3-0fae62ecd969",
+  "vendor": "Arturia"
+}

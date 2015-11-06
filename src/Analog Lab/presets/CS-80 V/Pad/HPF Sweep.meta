@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "HPF Sweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7b3927d-d9b2-4201-8b0d-e397cba9703f",
+  "vendor": "Arturia"
+}

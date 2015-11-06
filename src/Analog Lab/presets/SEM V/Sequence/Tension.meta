@@ -1,0 +1,13 @@
+{
+  "author": "Reek Havok",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Tension",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a627ba61-d796-46f0-bd4d-744a61632402",
+  "vendor": "Arturia"
+}

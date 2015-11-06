@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Ether Bunny",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0710bb96-d1fe-46e8-ab80-f1e0001c101f",
+  "vendor": "Arturia"
+}

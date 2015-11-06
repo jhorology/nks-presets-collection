@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid"],
+  "name": "Talk SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e5b13f83-f5f3-4641-9775-ead00cdacad6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Noise"],
+  "name": "Beat Automatique",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e862be9b-588d-4b4d-8ea1-bceca6a2dd0e",
+  "vendor": "Arturia"
+}

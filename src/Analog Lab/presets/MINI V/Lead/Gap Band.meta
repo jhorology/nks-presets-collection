@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Gap Band",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a8f848fa-7354-49fa-b52f-c16c34aa6ab7",
+  "vendor": "Arturia"
+}

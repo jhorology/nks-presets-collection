@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Sawlead2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "aee76aa3-8176-4e33-8846-2b02ac4b62d4",
+  "vendor": "Arturia"
+}

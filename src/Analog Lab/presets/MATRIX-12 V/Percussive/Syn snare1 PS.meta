@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short", "Noise", "Funky"],
+  "name": "Syn snare1 PS",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "34e4a8c9-925d-4886-9bbf-a85832b2d170",
+  "vendor": "Arturia"
+}

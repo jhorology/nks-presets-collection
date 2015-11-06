@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Funky"],
+  "name": "Basser",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5efb05e1-2053-4570-b4b9-ea4a39b134c4",
+  "vendor": "Arturia"
+}

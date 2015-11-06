@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre"],
+  "name": "Pearl Harbour",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5084bd00-0e6d-4fc2-ba2a-6bbb0ddb41d7",
+  "vendor": "Arturia"
+}

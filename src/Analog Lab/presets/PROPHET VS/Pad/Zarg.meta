@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Zarg",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6a026258-4506-47c9-8d09-bea54dd3f13a",
+  "vendor": "Arturia"
+}

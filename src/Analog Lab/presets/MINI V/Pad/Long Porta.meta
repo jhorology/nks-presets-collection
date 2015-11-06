@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soundtrack"],
+  "name": "Long Porta",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3b26c092-9ae7-4349-941c-d5cd651efecd",
+  "vendor": "Arturia"
+}

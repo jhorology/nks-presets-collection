@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soundtrack"],
+  "name": "Beatgen",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "108c3869-ec7e-4d57-b824-ce67e98311a2",
+  "vendor": "Arturia"
+}

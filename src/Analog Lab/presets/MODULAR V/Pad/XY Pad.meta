@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "XY Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7d7cb95-6bd4-491e-9ffa-470672d02ad5",
+  "vendor": "Arturia"
+}

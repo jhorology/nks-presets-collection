@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Watery",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8444e120-9830-4f9f-9d6c-badcdd6b90a1",
+  "vendor": "Arturia"
+}

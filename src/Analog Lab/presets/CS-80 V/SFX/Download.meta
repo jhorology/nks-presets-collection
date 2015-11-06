@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "Download",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1f2d1eaf-ecb3-4dd6-912f-b15c20c8888a",
+  "vendor": "Arturia"
+}

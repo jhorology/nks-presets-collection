@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Digital"],
+  "name": "Rmi Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6465d074-83b4-4324-addc-eb64039a8360",
+  "vendor": "Arturia"
+}

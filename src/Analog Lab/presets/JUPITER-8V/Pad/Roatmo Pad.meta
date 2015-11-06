@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Ambient"],
+  "name": "Roatmo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c479487a-bc01-46b3-b616-b706c006798f",
+  "vendor": "Arturia"
+}

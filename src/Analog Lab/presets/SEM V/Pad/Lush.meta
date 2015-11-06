@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient", "Ensemble"],
+  "name": "Lush",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f2e24b9d-2081-4229-b3de-59423e9ce135",
+  "vendor": "Arturia"
+}

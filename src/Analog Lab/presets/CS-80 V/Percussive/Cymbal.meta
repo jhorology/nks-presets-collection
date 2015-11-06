@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Cymbal",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5e475f0f-080e-49e4-9a8d-fccbb9b42e7a",
+  "vendor": "Arturia"
+}

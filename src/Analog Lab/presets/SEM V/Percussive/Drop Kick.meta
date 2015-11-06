@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Drop Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5c4a6ab5-c361-4f4d-84e8-3c591487366e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Noise"],
+  "name": "Fried Rain",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "75618e48-8ae2-4528-866d-5eb2ce405223",
+  "vendor": "Arturia"
+}

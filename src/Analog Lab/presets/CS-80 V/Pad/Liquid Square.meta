@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Liquid Square",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a0f33b65-5eed-483f-b38b-998034d3fd6b",
+  "vendor": "Arturia"
+}

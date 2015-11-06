@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "1950 Computer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2758b6c1-da2d-4b3a-b0ff-8af880242579",
+  "vendor": "Arturia"
+}

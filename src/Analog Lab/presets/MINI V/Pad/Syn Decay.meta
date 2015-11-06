@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "Syn Decay",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6bc1fe47-ca6e-48f8-b278-d9a7379c5a1a",
+  "vendor": "Arturia"
+}

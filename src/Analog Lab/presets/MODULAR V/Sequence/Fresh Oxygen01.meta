@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short", "Ambient"],
+  "name": "Fresh Oxygen01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "15f671dc-e9c6-4e2c-bad9-f5637abb10a6",
+  "vendor": "Arturia"
+}

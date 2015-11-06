@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Formant Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a16da16c-1c8e-49bd-b885-5a85c86440fd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Soft Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "faf3e6bd-585f-4435-b2a1-c6cfe8f5ebbd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ensemble"],
+  "name": "Splitty",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fe5265b7-4d62-4471-9f22-d678f477ee5c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre", "Ambient"],
+  "name": "Robo Dc",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e73457be-2e32-4a5d-98f6-f9b14fc8524c",
+  "vendor": "Arturia"
+}

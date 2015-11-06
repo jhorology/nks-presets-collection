@@ -1,0 +1,13 @@
+{
+  "author": "SF_Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise"],
+  "name": "Toys Gun",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1d1ad9c9-419e-485a-9f96-597d47994e1f",
+  "vendor": "Arturia"
+}

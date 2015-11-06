@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Digital", "Noise"],
+  "name": "Mars Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9969d588-195c-4803-b7ee-1abb347e1f96",
+  "vendor": "Arturia"
+}

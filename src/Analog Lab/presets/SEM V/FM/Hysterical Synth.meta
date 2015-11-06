@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Bizarre"],
+  "name": "Hysterical Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "12b165f5-9de7-40ba-b039-57db1a574f9d",
+  "vendor": "Arturia"
+}

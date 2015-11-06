@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Bizarre"],
+  "name": "SQC Galaxy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8b195afd-da10-4e10-82fa-d46e8094fe71",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Techno Lab",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b3654049-c2bd-45e9-ae63-42e079d52472",
+  "vendor": "Arturia"
+}

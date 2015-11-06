@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Soundtrack"],
+  "name": "Slow Whoosh",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "34a7ecd5-583f-4ec3-b109-655720943ec2",
+  "vendor": "Arturia"
+}

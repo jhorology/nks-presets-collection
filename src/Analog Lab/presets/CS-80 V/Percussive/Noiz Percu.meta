@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Noiz Percu",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8325791d-db1a-4897-919f-da4be98af938",
+  "vendor": "Arturia"
+}

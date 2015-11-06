@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Day3",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7171a839-388c-4671-97d4-975f3f6ea1a2",
+  "vendor": "Arturia"
+}

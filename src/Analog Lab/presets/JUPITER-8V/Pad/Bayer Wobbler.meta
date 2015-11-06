@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital", "Noise"],
+  "name": "Bayer Wobbler",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "427be085-fc7a-4f80-83c4-721277b3af53",
+  "vendor": "Arturia"
+}

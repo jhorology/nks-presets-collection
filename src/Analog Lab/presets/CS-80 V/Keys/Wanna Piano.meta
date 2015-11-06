@@ -1,0 +1,13 @@
+{
+  "author": "omissis2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Wanna Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4d622a74-6f97-4705-9481-39d9c883817b",
+  "vendor": "Arturia"
+}

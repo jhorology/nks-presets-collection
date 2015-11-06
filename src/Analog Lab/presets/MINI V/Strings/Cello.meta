@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Cello",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "94261478-b2ad-47e2-8481-77340474a5dd",
+  "vendor": "Arturia"
+}

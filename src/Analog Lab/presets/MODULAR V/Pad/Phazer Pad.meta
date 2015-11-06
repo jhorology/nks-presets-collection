@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Phazer Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "97aecd37-b244-470f-b554-1cc882cd9d13",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "KUJIIE",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient"],
+  "name": "Usuual Stirungs",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d62cc155-9115-4afe-9cf4-aede276aa874",
+  "vendor": "Arturia"
+}

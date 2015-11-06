@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Cranky Echo",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f02ca940-5416-4d39-b905-a3ecd68b0e56",
+  "vendor": "Arturia"
+}

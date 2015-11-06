@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "OSC Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2f039d5e-f92b-443d-bc66-ca6fbf0f9def",
+  "vendor": "Arturia"
+}

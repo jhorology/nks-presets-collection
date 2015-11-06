@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Shifting Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4bf24ea3-896d-4bad-a366-e6d14c3d36d8",
+  "vendor": "Arturia"
+}

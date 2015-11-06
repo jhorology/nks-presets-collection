@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Bizarre"],
+  "name": "Chance Wheel",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "dca7b70e-868b-4705-af78-15b406863a26",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short", "Acid"],
+  "name": "Percussive 3 Oct",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "49854510-762c-41da-bf1f-1216cd0b10b2",
+  "vendor": "Arturia"
+}

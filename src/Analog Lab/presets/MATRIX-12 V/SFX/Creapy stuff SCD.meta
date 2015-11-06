@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Creapy stuff SCD",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ce15df78-417c-44fc-a265-60eb6c5a0e54",
+  "vendor": "Arturia"
+}

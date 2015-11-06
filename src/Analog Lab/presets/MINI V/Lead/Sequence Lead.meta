@@ -1,0 +1,13 @@
+{
+  "author": "MacMoney",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Sequence Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "79f6a83e-a595-4711-8361-68332c8bf3d5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "AGelbard",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "SEQ04",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e24b5f16-f17c-4463-8d61-954387a30273",
+  "vendor": "Arturia"
+}

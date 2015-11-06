@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Noise"],
+  "name": "Wawwub",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "67995e0e-1b50-4f81-872c-719237fe7a74",
+  "vendor": "Arturia"
+}

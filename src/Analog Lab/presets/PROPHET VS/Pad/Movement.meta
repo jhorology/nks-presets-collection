@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Bizarre"],
+  "name": "Movement",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e56c91ba-5d87-4b40-a990-9e7524dd8e20",
+  "vendor": "Arturia"
+}

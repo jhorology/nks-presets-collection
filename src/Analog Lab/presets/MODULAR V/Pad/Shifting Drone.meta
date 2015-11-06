@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Shifting Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "36e3b5f0-5e3b-4480-8c6c-f4bac22b7649",
+  "vendor": "Arturia"
+}

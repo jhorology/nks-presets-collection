@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid", "Funky"],
+  "name": "Rezzy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6a6f90f7-4681-4b57-b02e-ee1439a4b4f8",
+  "vendor": "Arturia"
+}

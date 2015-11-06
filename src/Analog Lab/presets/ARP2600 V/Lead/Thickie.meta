@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Thickie",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "01c5f03b-0327-4326-a1e9-e71d17db576c",
+  "vendor": "Arturia"
+}

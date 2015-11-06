@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Mille2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "05f27944-7642-4c80-b9c1-d6807b30a538",
+  "vendor": "Arturia"
+}

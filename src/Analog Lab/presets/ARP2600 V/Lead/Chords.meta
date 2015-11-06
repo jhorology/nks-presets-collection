@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Chords",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "de3c3a44-60e4-49c7-b7a9-230b91c9e668",
+  "vendor": "Arturia"
+}

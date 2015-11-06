@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise", "Funky"],
+  "name": "Krotyroto Bass",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6d88d3c3-b6d3-4b60-bb05-101802b1593a",
+  "vendor": "Arturia"
+}

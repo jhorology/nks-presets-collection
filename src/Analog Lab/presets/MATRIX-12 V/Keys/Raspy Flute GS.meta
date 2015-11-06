@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Long", "Ambient"],
+  "name": "Raspy Flute GS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ec8de5fd-7ed0-433b-b2c7-202fde13e2b8",
+  "vendor": "Arturia"
+}

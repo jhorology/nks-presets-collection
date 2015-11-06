@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Ambient"],
+  "name": "Sound Chaser",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7747aaa4-b830-4e96-ae48-c57c4fc5a51c",
+  "vendor": "Arturia"
+}

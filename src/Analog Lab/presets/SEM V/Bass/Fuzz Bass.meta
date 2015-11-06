@@ -1,0 +1,13 @@
+{
+  "author": "J. Cowgill",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Fuzz Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6ec9ec31-b0e3-4c6b-988a-0c009908e6e2",
+  "vendor": "Arturia"
+}

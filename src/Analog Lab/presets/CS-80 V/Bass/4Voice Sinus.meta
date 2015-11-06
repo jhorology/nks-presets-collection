@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "4Voice Sinus",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "99fe92da-c0d1-4d46-ae39-b333ef874304",
+  "vendor": "Arturia"
+}

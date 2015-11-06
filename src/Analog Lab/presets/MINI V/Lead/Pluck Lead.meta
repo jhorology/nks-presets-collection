@@ -1,0 +1,13 @@
+{
+  "author": "ChrisLaurence",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Pluck Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a50ab0da-8330-4027-839c-77252ab10349",
+  "vendor": "Arturia"
+}

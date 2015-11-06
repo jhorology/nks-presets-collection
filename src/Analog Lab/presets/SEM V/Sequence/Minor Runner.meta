@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Minor Runner",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "48045d29-3bed-4076-9a9f-9d13508f4df2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Phase Dice",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b059609c-a4fa-4587-88cf-1b70b15e7157",
+  "vendor": "Arturia"
+}

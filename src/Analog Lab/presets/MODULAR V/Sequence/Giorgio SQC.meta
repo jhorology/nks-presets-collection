@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Giorgio SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8c9db42f-cf16-40cf-bae0-1ce1c76f229c",
+  "vendor": "Arturia"
+}

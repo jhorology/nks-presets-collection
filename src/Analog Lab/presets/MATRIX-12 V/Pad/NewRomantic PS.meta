@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Funky"],
+  "name": "NewRomantic PS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8456f431-4a2a-496f-804c-8fd735828b2c",
+  "vendor": "Arturia"
+}

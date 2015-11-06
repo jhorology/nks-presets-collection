@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ambient"],
+  "name": "NY Police",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "65ff8e37-2940-4482-834a-362a76bc47ee",
+  "vendor": "Arturia"
+}

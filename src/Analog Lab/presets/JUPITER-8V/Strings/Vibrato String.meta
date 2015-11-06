@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre"],
+  "name": "Vibrato String",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "271d009e-33e7-4ddb-803f-ca1f9877e7f1",
+  "vendor": "Arturia"
+}

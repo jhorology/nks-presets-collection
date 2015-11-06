@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid"],
+  "name": "Fm Bass",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "781db817-0e33-49aa-8e6e-25f16e2373d0",
+  "vendor": "Arturia"
+}

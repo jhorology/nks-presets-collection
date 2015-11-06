@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Lost",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "041fb338-d923-46ca-a9f5-7679b5e4bca6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Oct Uni",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "94ed0b02-923b-4a22-b0be-052e51eb4051",
+  "vendor": "Arturia"
+}

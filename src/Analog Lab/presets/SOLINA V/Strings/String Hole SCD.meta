@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "String Hole SCD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "eaa62481-b8be-4c24-9b2b-48cd9f2c6093",
+  "vendor": "Arturia"
+}

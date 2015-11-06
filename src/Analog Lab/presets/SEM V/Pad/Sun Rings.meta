@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Long", "Ambient", "Ensemble", "Soundtrack"],
+  "name": "Sun Rings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d4c51701-5245-4cde-9a27-53e4a0eeec28",
+  "vendor": "Arturia"
+}

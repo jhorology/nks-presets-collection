@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet20",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Bip Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1dd0eac7-6ad2-491a-9b01-78c3507a690e",
+  "vendor": "Arturia"
+}

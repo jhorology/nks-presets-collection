@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "SOLINA V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Prophecy SCD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "827c13f5-e455-45cc-bfca-bb2db510bbe2",
+  "vendor": "Arturia"
+}

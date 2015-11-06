@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Claridoodle",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "7d32680b-edc9-47ed-b6cf-9459c05976ce",
+  "vendor": "Arturia"
+}

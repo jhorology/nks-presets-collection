@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Formant Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "74aa46bd-ce05-4df8-b70c-5edfb4ce470c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Analo saw&pulse SS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "434cced8-51e3-4d6e-aa39-ee3f3974eb51",
+  "vendor": "Arturia"
+}

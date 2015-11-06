@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Funky"],
+  "name": "Up Speaker",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1b7781ab-487e-4238-b036-bdf0d2e93f6e",
+  "vendor": "Arturia"
+}

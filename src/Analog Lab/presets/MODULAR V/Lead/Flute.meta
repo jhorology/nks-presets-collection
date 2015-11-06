@@ -1,0 +1,13 @@
+{
+  "author": "W.Badarou",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "Flute",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "84059f32-d4f4-4ec8-a4d3-05f4174353d7",
+  "vendor": "Arturia"
+}

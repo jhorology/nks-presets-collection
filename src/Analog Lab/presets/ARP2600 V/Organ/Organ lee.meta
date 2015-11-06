@@ -1,0 +1,13 @@
+{
+  "author": "T.odanaka",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ensemble"],
+  "name": "Organ lee",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "57e2ae3b-f2e8-4090-832b-590ff2f16e47",
+  "vendor": "Arturia"
+}

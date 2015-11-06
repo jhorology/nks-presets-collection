@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Nice Drak Lead",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "c9852f17-633c-427d-8589-d0dfab3d4c9d",
+  "vendor": "Arturia"
+}

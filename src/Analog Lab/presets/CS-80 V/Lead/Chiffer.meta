@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Chiffer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0f9af40a-8706-4815-9ae4-7269f6991abe",
+  "vendor": "Arturia"
+}

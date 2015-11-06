@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Harpi Chord",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4628f1cb-9c7b-4aa3-a1b6-ba7e942fac30",
+  "vendor": "Arturia"
+}

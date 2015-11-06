@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Bizarre"],
+  "name": "Polysix",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2d63cfdc-16c7-4b5a-8fc3-74116945cf00",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre", "Ensemble"],
+  "name": "Open Reverb",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7485c56c-9154-4bb9-831c-e634fea1a6e3",
+  "vendor": "Arturia"
+}

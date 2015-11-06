@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ_P5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long"],
+  "name": "Wait Feedback",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fb6c111e-012f-4f0c-91ec-4d0ac8de9fa2",
+  "vendor": "Arturia"
+}

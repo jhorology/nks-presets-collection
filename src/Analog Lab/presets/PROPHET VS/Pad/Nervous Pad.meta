@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient", "Digital"],
+  "name": "Nervous Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6846d868-4b19-419c-b01e-f788f101f570",
+  "vendor": "Arturia"
+}

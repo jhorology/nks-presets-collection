@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Plucking 90s",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "023f5f95-68ac-4f0d-a4de-7d5668a9fea1",
+  "vendor": "Arturia"
+}

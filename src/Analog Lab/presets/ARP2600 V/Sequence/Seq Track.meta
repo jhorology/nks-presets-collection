@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Seq Track",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8ca89b4b-c44c-461a-aca9-aaa0c9dcfd2d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "D.Diaz",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Videodrome",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "af3f587f-a600-412d-b0e8-8d5873c5def2",
+  "vendor": "Arturia"
+}

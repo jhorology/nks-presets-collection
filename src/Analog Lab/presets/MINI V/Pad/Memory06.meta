@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Memory06",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1d0e551f-8f15-4a9e-8acf-ac5503f14ef7",
+  "vendor": "Arturia"
+}

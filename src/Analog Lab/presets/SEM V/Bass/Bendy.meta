@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Bendy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "24b0fe22-ad59-4df8-8b1a-1fc6caa1acd0",
+  "vendor": "Arturia"
+}

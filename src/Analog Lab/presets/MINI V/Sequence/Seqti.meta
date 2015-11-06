@@ -1,0 +1,13 @@
+{
+  "author": "K.Shulze",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Seqti",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0263606d-efcc-4b11-bb6b-70edad358972",
+  "vendor": "Arturia"
+}

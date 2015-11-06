@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Soundtrack"],
+  "name": "Midi Spinning Halo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b7b588ae-2328-46f3-9d61-c6164449f2a3",
+  "vendor": "Arturia"
+}

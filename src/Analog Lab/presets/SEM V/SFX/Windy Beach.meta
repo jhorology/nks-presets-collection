@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Soundtrack"],
+  "name": "Windy Beach",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f9929541-b831-4789-b451-0fd73bc9a1d0",
+  "vendor": "Arturia"
+}

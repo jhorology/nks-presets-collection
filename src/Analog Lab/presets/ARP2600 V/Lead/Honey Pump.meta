@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Honey Pump",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "def9aab9-316c-4f13-b044-7ce82e6da571",
+  "vendor": "Arturia"
+}

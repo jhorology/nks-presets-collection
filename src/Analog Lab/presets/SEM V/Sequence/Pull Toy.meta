@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Pull Toy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6212a7ef-d870-4726-a7ed-f2939f7a8e69",
+  "vendor": "Arturia"
+}

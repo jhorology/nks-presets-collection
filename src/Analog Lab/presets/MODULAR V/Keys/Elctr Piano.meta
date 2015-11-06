@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Elctr Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "16b6cac7-6fef-4b70-b83f-568248719a2f",
+  "vendor": "Arturia"
+}

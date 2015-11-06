@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Land Cruise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6815a71a-86bf-41c5-bc97-4625fa52bb9b",
+  "vendor": "Arturia"
+}

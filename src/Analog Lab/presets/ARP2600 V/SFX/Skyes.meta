@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Skyes",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7d554da1-b397-4950-a3a6-9b372a106513",
+  "vendor": "Arturia"
+}

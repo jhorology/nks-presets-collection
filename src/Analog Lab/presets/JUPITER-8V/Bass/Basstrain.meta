@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Bizarre"],
+  "name": "Basstrain",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "946a4007-bbd0-42f6-a4b0-d27ef831f575",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ymo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "03f25d22-d4f4-42c8-88a7-713232b99994",
+  "vendor": "Arturia"
+}

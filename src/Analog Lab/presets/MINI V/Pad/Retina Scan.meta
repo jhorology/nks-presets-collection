@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Bizarre"],
+  "name": "Retina Scan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "94b86686-483c-46eb-9dc1-2f141ca0ad71",
+  "vendor": "Arturia"
+}

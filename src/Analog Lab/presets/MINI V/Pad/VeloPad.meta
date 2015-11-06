@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "VeloPad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "486fd7e2-af78-42af-83df-b6bd6bcde8b5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long"],
+  "name": "Drifts Multi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c4019f2-f513-4e8a-87c4-208ba7e001de",
+  "vendor": "Arturia"
+}

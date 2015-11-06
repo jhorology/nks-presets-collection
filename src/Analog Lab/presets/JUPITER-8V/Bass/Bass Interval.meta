@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Funky"],
+  "name": "Bass Interval",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d51bac66-8057-4caa-8590-e318e131e85f",
+  "vendor": "Arturia"
+}

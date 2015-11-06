@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Memory 8th",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8b8ff33d-4bd4-43b1-866e-798196188691",
+  "vendor": "Arturia"
+}

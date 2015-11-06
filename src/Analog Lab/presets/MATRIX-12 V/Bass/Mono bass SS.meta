@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Mono bass SS",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a6729065-6a20-448b-9d55-9662659e8fbc",
+  "vendor": "Arturia"
+}

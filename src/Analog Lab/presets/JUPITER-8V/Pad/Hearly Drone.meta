@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise", "Soundtrack"],
+  "name": "Hearly Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "06a7a73c-3591-4290-b2e0-7b55b793e6d8",
+  "vendor": "Arturia"
+}

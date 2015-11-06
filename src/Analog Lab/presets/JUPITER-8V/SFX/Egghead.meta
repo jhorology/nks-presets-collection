@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Complex", "Soundtrack"],
+  "name": "Egghead",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d7045609-ff44-4dfa-a62d-d678661f33ef",
+  "vendor": "Arturia"
+}

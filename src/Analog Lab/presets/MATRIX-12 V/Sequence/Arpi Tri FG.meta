@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient"],
+  "name": "Arpi Tri FG",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ebae66b7-d9c9-4ce7-bca0-19a545c783b8",
+  "vendor": "Arturia"
+}

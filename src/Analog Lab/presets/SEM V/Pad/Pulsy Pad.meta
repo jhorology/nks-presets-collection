@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Pulsy Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0046d524-4295-473d-9f43-8c1f43812b26",
+  "vendor": "Arturia"
+}

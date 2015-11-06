@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex"],
+  "name": "Not Totally Dead",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d4db7873-74e2-4e99-9460-d384ed54a48a",
+  "vendor": "Arturia"
+}

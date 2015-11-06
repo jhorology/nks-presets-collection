@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "SAW-06",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "abe36dab-2071-4220-b750-671d2ee9ec5d",
+  "vendor": "Arturia"
+}

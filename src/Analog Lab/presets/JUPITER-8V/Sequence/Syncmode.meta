@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Acid"],
+  "name": "Syncmode",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9d2c3b06-cb94-47a2-9264-55fe4b6bff50",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Bizarre"],
+  "name": "Distorted bell GS",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e10646b0-483a-4664-b2e5-ed9b2a145ffc",
+  "vendor": "Arturia"
+}

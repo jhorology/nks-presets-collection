@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple", "Ensemble"],
+  "name": "Bumper SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ab90b6df-9a63-43f8-8344-fff5ce9b9b6b",
+  "vendor": "Arturia"
+}

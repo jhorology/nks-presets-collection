@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Funky"],
+  "name": "Pan Comp PS",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c16d2692-d4ca-4f1b-bd68-0d592d688ff7",
+  "vendor": "Arturia"
+}

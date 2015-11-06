@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre", "Ambient", "Soundtrack"],
+  "name": "Nebular Fog EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "78d9e284-95b5-4fcc-8d0a-5074e1df38c0",
+  "vendor": "Arturia"
+}

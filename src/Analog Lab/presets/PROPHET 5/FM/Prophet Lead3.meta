@@ -1,0 +1,13 @@
+{
+  "author": "SF_Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise"],
+  "name": "Prophet Lead3",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "df3e0fb4-b29a-4971-a48a-1fca547a8798",
+  "vendor": "Arturia"
+}

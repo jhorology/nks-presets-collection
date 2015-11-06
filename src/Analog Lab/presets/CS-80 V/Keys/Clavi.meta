@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Clavi",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "96849a5b-5681-4cef-9e8e-c83f45769afa",
+  "vendor": "Arturia"
+}

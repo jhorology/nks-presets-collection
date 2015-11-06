@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Elctric Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3dffed27-f281-4ffe-860b-0b728323296c",
+  "vendor": "Arturia"
+}

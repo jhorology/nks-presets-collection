@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short", "Funky"],
+  "name": "Creep",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "40165567-0ee7-4e84-a918-84a47a5c0d6d",
+  "vendor": "Arturia"
+}

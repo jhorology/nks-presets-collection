@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Glissando Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8984c9cf-4c09-4b2f-b82e-17288b0a136d",
+  "vendor": "Arturia"
+}

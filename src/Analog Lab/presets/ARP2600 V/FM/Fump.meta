@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ambient"],
+  "name": "Fump",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f272d3b8-62d0-405d-82ba-be00c94f70d2",
+  "vendor": "Arturia"
+}

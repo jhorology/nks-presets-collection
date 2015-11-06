@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Stevie Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0f3f003f-9b74-485b-bcb3-b0cc4051b80c",
+  "vendor": "Arturia"
+}

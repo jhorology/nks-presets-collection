@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard"],
+  "name": "Nitzer Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "98702cc0-a492-41e7-89a8-0452e82c12e4",
+  "vendor": "Arturia"
+}

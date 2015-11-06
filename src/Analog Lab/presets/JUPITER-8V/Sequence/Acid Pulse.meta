@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Bizarre"],
+  "name": "Acid Pulse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c2c97c22-339d-4550-b8e0-33dba7b5a347",
+  "vendor": "Arturia"
+}

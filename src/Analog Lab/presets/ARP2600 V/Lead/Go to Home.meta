@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Ensemble"],
+  "name": "Go to Home",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b8831dfd-ad5c-4cd5-b224-f53118b25984",
+  "vendor": "Arturia"
+}

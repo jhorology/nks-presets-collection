@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre"],
+  "name": "Sidechain Pad",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "19dc4772-538d-494f-99c5-5fdf2908daf7",
+  "vendor": "Arturia"
+}

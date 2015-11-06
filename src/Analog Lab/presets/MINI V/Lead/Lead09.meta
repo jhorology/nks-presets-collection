@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Lead09",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "49e0884c-0ddc-434b-b385-243ff463ac4c",
+  "vendor": "Arturia"
+}

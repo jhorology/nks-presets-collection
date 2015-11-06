@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Systematic Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2c0e42b4-c95c-4fc9-b477-598f05b7535f",
+  "vendor": "Arturia"
+}

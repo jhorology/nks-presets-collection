@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Ambient"],
+  "name": "Rete Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "17784fc7-0f51-4387-b2c4-5c57fdcd3474",
+  "vendor": "Arturia"
+}

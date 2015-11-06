@@ -1,0 +1,13 @@
+{
+  "author": "2600_Patch_Book",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ensemble"],
+  "name": "Trumpt",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "0dab4bdb-d83f-4d27-aeaa-03b11146d783",
+  "vendor": "Arturia"
+}

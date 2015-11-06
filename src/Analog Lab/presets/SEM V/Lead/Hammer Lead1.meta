@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Hammer Lead1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6923f432-a5b1-428a-a489-96913e1fe527",
+  "vendor": "Arturia"
+}

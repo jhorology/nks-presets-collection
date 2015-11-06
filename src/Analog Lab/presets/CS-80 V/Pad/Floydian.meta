@@ -1,0 +1,13 @@
+{
+  "author": "Howard_Scarr",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Floydian",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "adf2cd0d-970a-44e4-a05f-3dc38b180f5a",
+  "vendor": "Arturia"
+}

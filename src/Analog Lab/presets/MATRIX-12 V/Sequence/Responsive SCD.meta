@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ensemble"],
+  "name": "Responsive SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0d08254a-8dde-4e34-83bb-222b4e81af4e",
+  "vendor": "Arturia"
+}

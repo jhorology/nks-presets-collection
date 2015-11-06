@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "101 Galaxy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "57175a6c-f039-4dd1-ab2e-7b434d04373f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "T2000",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3747cf51-bc17-44c6-8c0e-c22481b45aca",
+  "vendor": "Arturia"
+}

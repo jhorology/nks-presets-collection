@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short", "Digital"],
+  "name": "Konetom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ceb34931-b7c1-4709-a13c-cf6dedcb7e49",
+  "vendor": "Arturia"
+}

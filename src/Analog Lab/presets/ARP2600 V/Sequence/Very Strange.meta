@@ -1,0 +1,13 @@
+{
+  "author": "Roger_Lyons",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid"],
+  "name": "Very Strange",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d7ff8f0e-bf6a-4951-adee-337dde7cfae7",
+  "vendor": "Arturia"
+}

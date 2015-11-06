@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Mood Tones",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dae098ee-ad39-4ed8-a14e-a845654a321f",
+  "vendor": "Arturia"
+}

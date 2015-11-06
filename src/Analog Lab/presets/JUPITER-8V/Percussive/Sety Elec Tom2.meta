@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient"],
+  "name": "Sety Elec Tom2",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c4954022-b4d9-406d-a944-27d9722d288b",
+  "vendor": "Arturia"
+}

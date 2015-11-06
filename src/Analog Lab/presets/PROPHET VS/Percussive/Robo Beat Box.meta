@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Noise"],
+  "name": "Robo Beat Box",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "7996eeba-bcea-427a-8a72-e004356e0206",
+  "vendor": "Arturia"
+}

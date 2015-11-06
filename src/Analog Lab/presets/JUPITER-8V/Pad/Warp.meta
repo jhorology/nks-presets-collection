@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Ensemble"],
+  "name": "Warp",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9effebba-df74-47ce-a41f-0f7ebd06a36f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Long"],
+  "name": "Sines1",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3595dd06-add7-4d96-94db-b7961f001680",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Section25",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "f36eec59-07bc-4943-ba9e-42aab2edb404",
+  "vendor": "Arturia"
+}

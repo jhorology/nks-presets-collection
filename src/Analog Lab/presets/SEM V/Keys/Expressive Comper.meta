@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Expressive Comper",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f9fa6e86-dc28-4cc5-ad7e-4dc0d35111db",
+  "vendor": "Arturia"
+}

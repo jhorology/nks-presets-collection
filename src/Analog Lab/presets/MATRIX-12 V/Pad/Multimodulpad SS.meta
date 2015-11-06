@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soundtrack"],
+  "name": "Multimodulpad SS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d054cb7f-810b-47ae-a247-ae8a61732c1a",
+  "vendor": "Arturia"
+}

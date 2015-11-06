@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Digital"],
+  "name": "Xmod Landing",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "46b7730a-3df8-4955-adbb-44744fd419dd",
+  "vendor": "Arturia"
+}

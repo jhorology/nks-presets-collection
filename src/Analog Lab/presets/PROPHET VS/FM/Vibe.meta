@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Vibe",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "942aff43-96d9-4bc3-9822-9e0b59d1b40b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Chaos",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d9e531fd-4898-4938-bf95-adaf618c6bde",
+  "vendor": "Arturia"
+}

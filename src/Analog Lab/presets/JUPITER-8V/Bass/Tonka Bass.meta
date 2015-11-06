@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Complex"],
+  "name": "Tonka Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "48d3ed08-169a-43d7-85e3-b30ee732d27a",
+  "vendor": "Arturia"
+}

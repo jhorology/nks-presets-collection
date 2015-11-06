@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient"],
+  "name": "Kingsly",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "769dbe33-a3fb-4ba3-8b3c-5280fd0b2001",
+  "vendor": "Arturia"
+}

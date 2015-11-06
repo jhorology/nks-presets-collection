@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Ensemble"],
+  "name": "Twin Arpeggio",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7ca089c6-9030-436e-bf0f-cbf34d39e61e",
+  "vendor": "Arturia"
+}

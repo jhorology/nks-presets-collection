@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soundtrack"],
+  "name": "Long Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8b02e979-b732-48e5-b39d-0e6a43137d79",
+  "vendor": "Arturia"
+}

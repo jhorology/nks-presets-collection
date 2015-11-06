@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short", "Funky"],
+  "name": "Wavetable SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "73579a82-79b3-43ab-afba-e0a88adb7c72",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Simple"],
+  "name": "Low Pass Gate",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "df52a77a-e91f-404d-a75a-ef06e2355a74",
+  "vendor": "Arturia"
+}

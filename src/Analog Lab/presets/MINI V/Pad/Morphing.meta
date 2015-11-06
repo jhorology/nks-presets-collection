@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Morphing",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "11a56d79-39a6-45e9-8ee4-8186c8e4454a",
+  "vendor": "Arturia"
+}

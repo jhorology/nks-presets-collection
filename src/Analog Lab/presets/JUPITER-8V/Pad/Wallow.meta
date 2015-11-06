@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Ensemble", "Soundtrack"],
+  "name": "Wallow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1aa8167f-bbd2-4ef3-abf4-2cec8e2de3b7",
+  "vendor": "Arturia"
+}

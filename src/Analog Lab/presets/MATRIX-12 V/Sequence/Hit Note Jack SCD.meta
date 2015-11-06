@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Hit Note Jack SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7c1afb1c-0af2-4cfa-b744-cbf7cd7b7992",
+  "vendor": "Arturia"
+}

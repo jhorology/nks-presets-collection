@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bass Reso",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "57c8d452-173c-4c3c-9f98-86200d31718d",
+  "vendor": "Arturia"
+}

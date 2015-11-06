@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Laser shot GS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fcb6b72d-bb6d-4391-a4fd-d3c999f9a57b",
+  "vendor": "Arturia"
+}

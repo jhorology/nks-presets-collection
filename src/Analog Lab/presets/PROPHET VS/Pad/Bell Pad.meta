@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital"],
+  "name": "Bell Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "86aaae2b-a908-42a8-9a4e-3fee9497df32",
+  "vendor": "Arturia"
+}

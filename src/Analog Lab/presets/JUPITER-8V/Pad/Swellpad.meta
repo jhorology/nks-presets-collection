@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Long"],
+  "name": "Swellpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "185d2e3e-a229-42fd-ae0a-2c0d1b6f631e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "T.odanaka",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Grassy Glass",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "48a3f760-72ed-43cb-93d1-9c40ec61aa30",
+  "vendor": "Arturia"
+}

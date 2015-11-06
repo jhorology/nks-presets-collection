@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Long"],
+  "name": "Jupe The Ripper",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "985c595b-a7b6-4ef8-9781-3fc3e4dd3609",
+  "vendor": "Arturia"
+}

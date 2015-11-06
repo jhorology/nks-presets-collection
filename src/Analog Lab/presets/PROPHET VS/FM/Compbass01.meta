@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Digital"],
+  "name": "Compbass01",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "2f1167c1-2826-4fb1-8c9e-103b1baf2a98",
+  "vendor": "Arturia"
+}

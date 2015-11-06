@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Squelch Master",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e87f5ab2-5f90-4e7e-ada0-caecc753ded1",
+  "vendor": "Arturia"
+}

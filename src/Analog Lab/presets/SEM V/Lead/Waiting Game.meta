@@ -1,0 +1,13 @@
+{
+  "author": "D. Anderson",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Waiting Game",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d11b74ff-3b54-4954-a9bb-fe1d4d956bef",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ChrisLaurence",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Quiet Drom",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dbfda68f-f02c-4db9-874d-f2e51284d2d9",
+  "vendor": "Arturia"
+}

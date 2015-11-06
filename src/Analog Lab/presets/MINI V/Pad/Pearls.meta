@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Pearls",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1b2bf970-4e50-4474-816d-368ba38d7f21",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "S.Solida",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Mirage",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9ded9c72-71d1-4f06-b60c-045016a9a30e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Up The Pipe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e210806b-02ee-4231-b258-48557b809100",
+  "vendor": "Arturia"
+}

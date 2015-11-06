@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre", "Acid"],
+  "name": "Speaker",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e6ecdf11-1df9-4e97-b145-0fb4710fd49a",
+  "vendor": "Arturia"
+}

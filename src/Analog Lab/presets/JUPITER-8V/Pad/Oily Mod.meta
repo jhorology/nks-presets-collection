@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital", "Ensemble"],
+  "name": "Oily Mod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c13fcaa3-b562-4a14-9d25-396f8795f4b9",
+  "vendor": "Arturia"
+}

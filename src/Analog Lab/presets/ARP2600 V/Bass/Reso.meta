@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Reso",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f653c11a-8e09-497d-9956-7d03288d6dbc",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Square Scream",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f645be1e-63ed-4e6d-a2e8-954646b448c4",
+  "vendor": "Arturia"
+}

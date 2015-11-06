@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Gow Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9189c7cc-6d07-464c-9769-8a23c418eac4",
+  "vendor": "Arturia"
+}

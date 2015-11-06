@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Funky"],
+  "name": "Tangerine Beam SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "17a63303-849c-4a17-84d8-0ae2a48b9c56",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Disturbed lfo SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4ef0d34b-e9a8-46f6-b787-eada7888e30d",
+  "vendor": "Arturia"
+}

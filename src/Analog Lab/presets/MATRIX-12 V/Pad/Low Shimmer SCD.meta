@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Ambient", "Soundtrack"],
+  "name": "Low Shimmer SCD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a53e4c31-5041-479f-a668-b43f7042463d",
+  "vendor": "Arturia"
+}

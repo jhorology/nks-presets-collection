@@ -1,0 +1,13 @@
+{
+  "author": "G.Downes",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Long"],
+  "name": "Jazzy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a71977e4-a64f-4a12-8b1b-6ca9e8475352",
+  "vendor": "Arturia"
+}

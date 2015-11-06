@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ambient", "Soundtrack"],
+  "name": "Complexity EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3bff17af-f430-49b8-9252-ba3f48739689",
+  "vendor": "Arturia"
+}

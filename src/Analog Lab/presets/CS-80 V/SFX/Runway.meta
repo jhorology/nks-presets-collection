@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Runway",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cc6f22fa-c2dd-422e-9d1c-8f2c712a2608",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Noise"],
+  "name": "Night Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9025952c-6118-4335-8c7a-ba6dbc742af4",
+  "vendor": "Arturia"
+}

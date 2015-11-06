@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Falling01",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3daa4e8c-24a1-45d7-aa7f-02f9056779db",
+  "vendor": "Arturia"
+}

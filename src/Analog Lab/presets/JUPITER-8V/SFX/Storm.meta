@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Soundtrack"],
+  "name": "Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5d244ef3-8553-4ced-b465-dfea8989d8a4",
+  "vendor": "Arturia"
+}

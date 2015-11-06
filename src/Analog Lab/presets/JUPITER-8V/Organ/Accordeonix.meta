@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Long", "Digital"],
+  "name": "Accordeonix",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d5aa5ef5-dd1b-4a80-b304-4b1951ddd20e",
+  "vendor": "Arturia"
+}

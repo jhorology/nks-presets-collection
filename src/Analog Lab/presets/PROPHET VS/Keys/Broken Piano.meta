@@ -1,0 +1,13 @@
+{
+  "author": "ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Broken Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "97140ad3-c1a5-4a23-9410-6da20cdf52ce",
+  "vendor": "Arturia"
+}

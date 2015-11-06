@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Bizarre", "Ambient", "Soundtrack"],
+  "name": "Whistle Chirp EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0e40db9f-a82b-4063-8372-56be00c31ff3",
+  "vendor": "Arturia"
+}

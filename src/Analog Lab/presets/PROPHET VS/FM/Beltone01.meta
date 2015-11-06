@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Digital"],
+  "name": "Beltone01",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "99d3f982-cc93-442f-b5a1-3fc3ed7e25e4",
+  "vendor": "Arturia"
+}

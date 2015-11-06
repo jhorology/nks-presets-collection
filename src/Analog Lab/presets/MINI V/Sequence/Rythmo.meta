@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Rythmo",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "27aafd0a-62d0-40f3-a3bd-6a755d535959",
+  "vendor": "Arturia"
+}

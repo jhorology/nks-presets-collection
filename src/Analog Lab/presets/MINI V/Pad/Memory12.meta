@@ -1,0 +1,13 @@
+{
+  "author": "J.M.Blanchet",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Memory12",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "492e31b6-0559-45ea-812d-eeebeeb8a039",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Howloff",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4d252d41-da4b-4986-a0d0-b34b664c0b5e",
+  "vendor": "Arturia"
+}

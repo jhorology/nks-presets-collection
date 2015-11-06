@@ -1,0 +1,13 @@
+{
+  "author": "M.Lupo",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Bach Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "23d364e5-3702-425a-9711-8e46317d43c5",
+  "vendor": "Arturia"
+}

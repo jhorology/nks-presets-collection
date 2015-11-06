@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Ambient"],
+  "name": "Flying Drop",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ef3fb996-26c9-4a8c-ad84-5c2ae9eadd3e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Long", "Ambient", "Ensemble"],
+  "name": "Vibra Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "283f2097-6cab-4f2d-ade4-32ee6876dfeb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Ambient"],
+  "name": "10Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "06177fa8-9b20-4660-817e-6fc48393bbb0",
+  "vendor": "Arturia"
+}

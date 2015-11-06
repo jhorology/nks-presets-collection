@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "P5 Vibra",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6588f0ca-3a69-4125-9771-c4e33b056830",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Noise"],
+  "name": "Sin White",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5bf62f23-d667-43f0-ae64-7102414e9227",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ambient"],
+  "name": "Zepad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3ca09a87-3407-4760-a713-136ffda5979b",
+  "vendor": "Arturia"
+}

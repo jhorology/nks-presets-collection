@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "01th",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "da74d9e0-ddff-4e1f-9dfd-e3306b3ddf0f",
+  "vendor": "Arturia"
+}

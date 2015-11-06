@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient", "Soundtrack"],
+  "name": "Zen SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "79bb1676-109d-4d57-abb4-b1e59cb03cca",
+  "vendor": "Arturia"
+}

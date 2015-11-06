@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Velocictivity SS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9cc4ede0-d95f-4655-8f73-b3892e67e41e",
+  "vendor": "Arturia"
+}

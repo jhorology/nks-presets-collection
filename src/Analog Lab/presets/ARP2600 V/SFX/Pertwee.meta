@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive"],
+  "name": "Pertwee",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f0d11d40-11bf-4fe6-b86f-3068fe2554b0",
+  "vendor": "Arturia"
+}

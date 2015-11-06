@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Tekno SQC",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7030440f-c9e1-41c4-a1b2-023f8b3d8dca",
+  "vendor": "Arturia"
+}

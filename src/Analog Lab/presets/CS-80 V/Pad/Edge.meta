@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Edge",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9173d19c-bd55-40f5-8253-e05a4d71a33a",
+  "vendor": "Arturia"
+}

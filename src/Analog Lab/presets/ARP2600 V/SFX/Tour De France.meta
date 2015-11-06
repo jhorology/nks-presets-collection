@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Tour De France",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b3926300-0bd7-49d2-8665-4182ea849f14",
+  "vendor": "Arturia"
+}

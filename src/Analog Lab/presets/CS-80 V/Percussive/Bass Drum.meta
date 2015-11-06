@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Bass Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5b08996f-58af-4765-8cdd-eda891110b21",
+  "vendor": "Arturia"
+}

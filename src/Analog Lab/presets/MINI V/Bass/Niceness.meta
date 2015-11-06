@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Digital"],
+  "name": "Niceness",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a343250c-ae00-49a3-8b48-623fb0c859c0",
+  "vendor": "Arturia"
+}

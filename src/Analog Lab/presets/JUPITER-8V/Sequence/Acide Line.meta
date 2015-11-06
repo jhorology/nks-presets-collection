@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Hard", "Acid"],
+  "name": "Acide Line",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "17c90191-6fce-4932-9a3b-76db350a1be7",
+  "vendor": "Arturia"
+}

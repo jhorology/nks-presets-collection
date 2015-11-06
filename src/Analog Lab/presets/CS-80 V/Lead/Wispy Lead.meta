@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Wispy Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9ed47424-4d6b-4dd8-9652-e13d8ac93a94",
+  "vendor": "Arturia"
+}

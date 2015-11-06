@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Uni Son",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bd6f3587-7a60-4f95-a8ad-a945a2bafd11",
+  "vendor": "Arturia"
+}

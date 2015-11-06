@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Long"],
+  "name": "8p Growling String",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "009bfad6-0b48-42e6-be1b-5ba27dc516a6",
+  "vendor": "Arturia"
+}

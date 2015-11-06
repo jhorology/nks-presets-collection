@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Bizarre", "Funky"],
+  "name": "Nasal Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ae3e54d6-4ec3-40f7-895f-12014e96c7e6",
+  "vendor": "Arturia"
+}

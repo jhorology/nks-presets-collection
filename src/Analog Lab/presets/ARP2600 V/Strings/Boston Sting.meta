@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Boston Sting",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "155801f6-43c7-4d5b-b7d2-8250ce84155d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Digital"],
+  "name": "Broken Syntex SCD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3c5503ed-d7b5-4661-aff1-02418bd777a0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital"],
+  "name": "Numan1",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "6c26f5f5-59b6-4a35-bd35-7b3fc9be8f51",
+  "vendor": "Arturia"
+}

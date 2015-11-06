@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Noise"],
+  "name": "Crunchy Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b2d9d084-fbd8-4331-a3f3-74aeb27ca617",
+  "vendor": "Arturia"
+}

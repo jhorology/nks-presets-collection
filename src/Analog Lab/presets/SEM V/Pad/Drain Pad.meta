@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Drain Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "18feedf4-5160-472c-93c0-5f91be16a452",
+  "vendor": "Arturia"
+}

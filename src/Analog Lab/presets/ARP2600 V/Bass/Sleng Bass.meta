@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Acid"],
+  "name": "Sleng Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d62a1b71-11b5-481e-a605-ae745dd86589",
+  "vendor": "Arturia"
+}

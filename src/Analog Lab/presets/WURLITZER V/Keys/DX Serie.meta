@@ -1,0 +1,13 @@
+{
+  "author": "JM Blanchet",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Digital"],
+  "name": "DX Serie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ef31f538-8b98-4fe9-850a-3ba9d314d1f3",
+  "vendor": "Arturia"
+}

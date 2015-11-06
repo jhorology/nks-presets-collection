@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short", "Noise"],
+  "name": "Dirty Bass03",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b18a822c-1133-4205-8137-e1450a6cb1f8",
+  "vendor": "Arturia"
+}

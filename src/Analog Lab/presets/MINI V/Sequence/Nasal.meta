@@ -1,0 +1,13 @@
+{
+  "author": "C.Pitman",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Acid"],
+  "name": "Nasal",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3da5ce8c-b675-40c6-ac65-f633e899575a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Digital"],
+  "name": "Tini Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "09e7f2ba-94e9-4149-bf60-1b943def0adb",
+  "vendor": "Arturia"
+}

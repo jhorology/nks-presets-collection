@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Ok for sequence SS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1e514b4a-103c-4234-985a-19b0546ed35e",
+  "vendor": "Arturia"
+}

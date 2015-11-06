@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "Trainsignal FG",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d1681df5-b4d4-4e2a-98ad-e4ddea57bfe8",
+  "vendor": "Arturia"
+}

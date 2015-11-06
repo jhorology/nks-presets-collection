@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Electro Shake",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "20eecc9f-94e4-4c5d-bb1f-97178f1b1a8a",
+  "vendor": "Arturia"
+}

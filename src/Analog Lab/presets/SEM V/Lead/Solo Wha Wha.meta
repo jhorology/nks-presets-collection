@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft"],
+  "name": "Solo Wha Wha",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b7b20472-944b-4d78-b45d-d209d18202e8",
+  "vendor": "Arturia"
+}

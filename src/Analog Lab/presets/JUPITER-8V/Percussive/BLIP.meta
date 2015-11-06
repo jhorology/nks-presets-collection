@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Acid"],
+  "name": "BLIP",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8021116e-6b58-4b1b-a0a0-7215dd27a1e3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Ring My Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1123fee8-bc65-4712-afdd-c0c812c9e878",
+  "vendor": "Arturia"
+}

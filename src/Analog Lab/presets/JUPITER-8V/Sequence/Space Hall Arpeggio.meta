@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Acid"],
+  "name": "Space Hall Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6518fbd0-b9da-46d1-a437-eafe19ab5ebf",
+  "vendor": "Arturia"
+}

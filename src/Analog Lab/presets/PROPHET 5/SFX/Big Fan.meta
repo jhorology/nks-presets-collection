@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Big Fan",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "67ab64de-7eb0-4adc-9b92-98f17f70d823",
+  "vendor": "Arturia"
+}

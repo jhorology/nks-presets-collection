@@ -1,0 +1,13 @@
+{
+  "author": "Mike Hosker",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Simple"],
+  "name": "Get Lower",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a32bd435-6b36-4c50-887b-92460622e624",
+  "vendor": "Arturia"
+}

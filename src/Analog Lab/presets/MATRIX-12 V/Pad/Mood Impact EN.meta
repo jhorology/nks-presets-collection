@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Bizarre", "Ensemble"],
+  "name": "Mood Impact EN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8f8d7c10-68cc-4cbd-b4a0-a849ef4f1b77",
+  "vendor": "Arturia"
+}

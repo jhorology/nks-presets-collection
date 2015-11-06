@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Ambient"],
+  "name": "Smoke Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a12a5b7d-2eb5-4026-bd70-83a161297285",
+  "vendor": "Arturia"
+}

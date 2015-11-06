@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soundtrack"],
+  "name": "Noise Arpeggio",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "48f3ebe8-29a3-4158-8b52-6d399094472b",
+  "vendor": "Arturia"
+}

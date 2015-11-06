@@ -1,0 +1,13 @@
+{
+  "author": "Matthew Savant",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Acid", "Noise"],
+  "name": "Stabby",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a76d3c00-efb4-4706-9b16-2316a1344fb1",
+  "vendor": "Arturia"
+}

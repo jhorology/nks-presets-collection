@@ -1,0 +1,13 @@
+{
+  "author": "SF_Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Ambient Pad2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c9b0c094-3f2f-418b-a082-e1994c33e8d0",
+  "vendor": "Arturia"
+}

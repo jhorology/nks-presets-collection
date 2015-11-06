@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Gator Chase",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5f3f9693-ec92-4590-9594-294450a5cf01",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "ProducersDm",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Ringpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "16dc44c2-9e49-4d98-844f-be53f23ee4aa",
+  "vendor": "Arturia"
+}

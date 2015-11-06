@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Ensemble"],
+  "name": "Brass Gentle",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "46476bfc-339d-44aa-b99e-721a666aa0b0",
+  "vendor": "Arturia"
+}

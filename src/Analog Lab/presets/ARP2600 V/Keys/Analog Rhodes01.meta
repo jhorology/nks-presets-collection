@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Analog Rhodes01",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "67f3050c-3b05-4dd4-911f-ebb292edf292",
+  "vendor": "Arturia"
+}

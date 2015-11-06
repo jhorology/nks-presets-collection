@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ambient"],
+  "name": "Who's Leslie",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8b5ce688-f8a6-4e65-ab00-8691e82f83dd",
+  "vendor": "Arturia"
+}

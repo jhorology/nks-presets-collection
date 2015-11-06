@@ -1,0 +1,13 @@
+{
+  "author": "Original",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Light Panel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "84a3552a-ebfc-4e11-b46d-1db9aad620fc",
+  "vendor": "Arturia"
+}

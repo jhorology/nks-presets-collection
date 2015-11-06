@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Sweep LFOs",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "43b322d0-248b-434d-a650-daf16c978582",
+  "vendor": "Arturia"
+}

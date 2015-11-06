@@ -1,0 +1,13 @@
+{
+  "author": "C.Duncan",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Shanoi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9e0b6703-3822-4ec6-bef6-107f3ac3d2d8",
+  "vendor": "Arturia"
+}

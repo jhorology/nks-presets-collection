@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "2 STEPS KEY",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "46559388-267a-424f-9fed-0737e57aeefa",
+  "vendor": "Arturia"
+}

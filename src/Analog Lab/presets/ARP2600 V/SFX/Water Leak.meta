@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "Water Leak",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b6833082-b657-475f-9ed5-143619cbb720",
+  "vendor": "Arturia"
+}

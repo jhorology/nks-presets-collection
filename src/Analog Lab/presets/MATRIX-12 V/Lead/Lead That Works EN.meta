@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Aggressive", "Simple"],
+  "name": "Lead That Works EN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8bfd974c-b06f-4a58-a367-85e43995b397",
+  "vendor": "Arturia"
+}

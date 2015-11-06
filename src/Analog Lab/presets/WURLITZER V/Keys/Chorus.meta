@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient", "Funky"],
+  "name": "Chorus",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "db0a27dc-b0e5-4484-a57c-e56df35e10c1",
+  "vendor": "Arturia"
+}

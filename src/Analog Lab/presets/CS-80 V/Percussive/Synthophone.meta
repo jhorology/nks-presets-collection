@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Synthophone",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e52b87a7-25bb-42a4-98a7-be2c35593b6c",
+  "vendor": "Arturia"
+}

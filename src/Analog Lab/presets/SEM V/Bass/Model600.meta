@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Model600",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4fb3e1f7-302a-4ba7-9b69-a9aa87bda5b9",
+  "vendor": "Arturia"
+}

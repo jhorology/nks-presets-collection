@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Long", "Ambient", "Soundtrack"],
+  "name": "5 Circles 1 Osc PS",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "20c4161e-2101-43db-aabf-b0fd3a1a88b4",
+  "vendor": "Arturia"
+}

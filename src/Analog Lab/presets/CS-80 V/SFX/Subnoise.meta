@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Subnoise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "713ea7b6-888d-46d2-b592-54b68e88ccc1",
+  "vendor": "Arturia"
+}

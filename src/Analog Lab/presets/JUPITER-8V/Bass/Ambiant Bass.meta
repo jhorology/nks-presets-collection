@@ -1,0 +1,13 @@
+{
+  "author": "tasmodia",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Long"],
+  "name": "Ambiant Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "74367969-75b7-47cb-bbc8-f7509f02c91f",
+  "vendor": "Arturia"
+}

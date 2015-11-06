@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Move your sem SS",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2e49bdc2-488c-43d2-9cee-1b7511486e3e",
+  "vendor": "Arturia"
+}

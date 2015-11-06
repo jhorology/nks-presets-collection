@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Short"],
+  "name": "Funk Low",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5d46993c-0334-48a0-8760-9c920db26b38",
+  "vendor": "Arturia"
+}

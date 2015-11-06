@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple", "Short", "Ambient"],
+  "name": "Elektro Koto",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2c448f3d-df0d-4ea0-97e8-17d20b3ca57f",
+  "vendor": "Arturia"
+}

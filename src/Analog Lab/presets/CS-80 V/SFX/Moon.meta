@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ambient"],
+  "name": "Moon",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "35a227c9-f38a-4c44-9148-2f7b11a20ca0",
+  "vendor": "Arturia"
+}

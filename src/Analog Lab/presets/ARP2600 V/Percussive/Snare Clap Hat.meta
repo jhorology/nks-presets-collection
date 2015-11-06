@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Noise"],
+  "name": "Snare Clap Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c5ac7e3d-9b95-4379-a8c0-2091f4c5cb40",
+  "vendor": "Arturia"
+}

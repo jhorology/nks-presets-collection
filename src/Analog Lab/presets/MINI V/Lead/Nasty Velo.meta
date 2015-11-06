@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Noise"],
+  "name": "Nasty Velo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8e9171c5-26a8-4f99-85a0-9bdda58ce588",
+  "vendor": "Arturia"
+}

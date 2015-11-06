@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Ambient"],
+  "name": "Kurcameltoe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7bc5a21-ae39-4f7a-80aa-f14547a4cda6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Midi Trig",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "383841b5-1ca3-428f-b406-0dc5dbbc7933",
+  "vendor": "Arturia"
+}

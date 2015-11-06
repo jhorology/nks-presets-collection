@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Nose",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "272ada35-f475-4177-a4d7-608c28d42ea7",
+  "vendor": "Arturia"
+}

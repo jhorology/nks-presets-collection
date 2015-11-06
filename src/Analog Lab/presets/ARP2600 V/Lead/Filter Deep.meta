@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Funky"],
+  "name": "Filter Deep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9379c9ba-d5bc-47c3-909e-1bf158a92690",
+  "vendor": "Arturia"
+}

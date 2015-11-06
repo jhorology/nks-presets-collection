@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Dronebass(lev1) SS",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ab8f34bf-23ed-4de9-a1f0-071083033e5b",
+  "vendor": "Arturia"
+}

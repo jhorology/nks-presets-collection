@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Long", "Ambient", "Soundtrack"],
+  "name": "70's Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c118cad4-c4b5-40b5-b326-ee79221631c5",
+  "vendor": "Arturia"
+}

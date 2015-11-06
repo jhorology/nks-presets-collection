@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Pop Chips",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bdf13f25-ce82-496a-b0d4-c669b9b506d7",
+  "vendor": "Arturia"
+}

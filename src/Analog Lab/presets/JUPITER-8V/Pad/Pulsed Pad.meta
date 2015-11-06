@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Complex", "Long", "Ambient"],
+  "name": "Pulsed Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "198b57f5-6408-4078-88a5-cdc5795aace2",
+  "vendor": "Arturia"
+}

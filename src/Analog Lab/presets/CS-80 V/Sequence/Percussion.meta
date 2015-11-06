@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Percussion",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "24e726ac-13e2-4cd6-9c4d-50975b6e772f",
+  "vendor": "Arturia"
+}

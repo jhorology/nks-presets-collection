@@ -1,0 +1,13 @@
+{
+  "author": "M.Geiss",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Digital"],
+  "name": "Magic Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c835b445-8232-4d7f-b5e6-7aeefa6f7957",
+  "vendor": "Arturia"
+}

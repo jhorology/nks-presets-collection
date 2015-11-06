@@ -1,0 +1,13 @@
+{
+  "author": "RUFFANDJAM JUPITER8 BANK",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital", "Noise"],
+  "name": "DNB Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ea49f3fd-584b-42d3-b5c6-a2453b532f10",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori_Ubuman",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "SingPad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "61a93bc2-9324-4322-93f6-8e2cf3f54fe5",
+  "vendor": "Arturia"
+}

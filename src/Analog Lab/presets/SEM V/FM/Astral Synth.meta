@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Soft", "Short"],
+  "name": "Astral Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "c67ff91f-0c03-4cfd-a08a-290f36ef8236",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Ensemble"],
+  "name": "Marcato Random Pan",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9e835192-0931-4bee-9ee8-50a91670fc48",
+  "vendor": "Arturia"
+}

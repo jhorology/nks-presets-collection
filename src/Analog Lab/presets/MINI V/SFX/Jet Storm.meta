@@ -1,0 +1,13 @@
+{
+  "author": "N.Ubukata",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Jet Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "742e0550-396b-4886-b51d-00592d50cab0",
+  "vendor": "Arturia"
+}

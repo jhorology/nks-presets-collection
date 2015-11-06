@@ -1,0 +1,13 @@
+{
+  "author": "P. Warnecke",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Bizarre"],
+  "name": "Depth Aquatic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "88dcc4e2-e67f-4e26-82e4-82a07d970303",
+  "vendor": "Arturia"
+}

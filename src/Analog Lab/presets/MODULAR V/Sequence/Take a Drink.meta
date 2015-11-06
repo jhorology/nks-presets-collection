@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise"],
+  "name": "Take a Drink",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "888a0d64-bea4-4fb6-a921-31554bead5c8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Tracking",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5e63dad4-61e8-447f-b4ca-efa9ab87fd01",
+  "vendor": "Arturia"
+}

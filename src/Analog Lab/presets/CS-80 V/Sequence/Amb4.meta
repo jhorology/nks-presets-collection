@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Amb4",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d71d65e3-696d-4c4c-9896-d2e6d868d1f8",
+  "vendor": "Arturia"
+}

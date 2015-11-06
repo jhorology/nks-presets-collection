@@ -1,0 +1,13 @@
+{
+  "author": "Ted James",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Aggressive", "Long"],
+  "name": "Hear Tasche",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7607c0b6-6216-4dd6-8f34-56053240a3a2",
+  "vendor": "Arturia"
+}

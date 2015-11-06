@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient", "Soundtrack"],
+  "name": "Square9",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "75368040-4fab-42e2-aee1-596f114578eb",
+  "vendor": "Arturia"
+}

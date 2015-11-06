@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Hi Pass",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "42de4008-a6f2-4133-9113-91c9c6f437f0",
+  "vendor": "Arturia"
+}

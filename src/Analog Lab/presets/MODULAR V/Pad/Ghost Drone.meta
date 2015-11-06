@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Bizarre", "Noise"],
+  "name": "Ghost Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f78b2782-07b1-46d1-aac1-f5c6b31d27d5",
+  "vendor": "Arturia"
+}

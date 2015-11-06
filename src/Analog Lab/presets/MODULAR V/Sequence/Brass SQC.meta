@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brass SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dd95ca7d-5cca-492e-8f83-be2f1ab3adab",
+  "vendor": "Arturia"
+}

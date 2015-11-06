@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Funky"],
+  "name": "Straight Comp PS",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9e663731-4a1e-4da2-99e1-e8e41da859d5",
+  "vendor": "Arturia"
+}

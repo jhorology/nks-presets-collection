@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short", "Ambient"],
+  "name": "Buy a Sub",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "790e1bfc-9e3f-4537-a19a-fc64d774caf7",
+  "vendor": "Arturia"
+}

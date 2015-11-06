@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "In Hertz",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "43e103a3-ca0b-4df5-9e7e-db4e940925c8",
+  "vendor": "Arturia"
+}

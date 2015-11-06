@@ -1,0 +1,13 @@
+{
+  "author": "Roger_Lyons",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Tomita Whistle",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2250f681-073e-48cf-b829-fed5628fdaab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "TEKNOTANZ",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "SH Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d5ff579d-ba13-480a-9a06-25ed35389458",
+  "vendor": "Arturia"
+}

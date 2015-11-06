@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Kalimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "36635a9b-a087-4008-b35c-99c3b0002b53",
+  "vendor": "Arturia"
+}

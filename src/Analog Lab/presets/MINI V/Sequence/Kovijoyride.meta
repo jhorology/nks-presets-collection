@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Digital"],
+  "name": "Kovijoyride",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e642f12b-5384-4929-be15-8f12588dd9d7",
+  "vendor": "Arturia"
+}

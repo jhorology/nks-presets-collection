@@ -1,0 +1,13 @@
+{
+  "author": "kl_2005",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Notch Sequence01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d1a9bd85-9229-4140-9af7-27aa1d217b8c",
+  "vendor": "Arturia"
+}

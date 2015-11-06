@@ -1,0 +1,13 @@
+{
+  "author": "Ruff_Jam",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Electro Chord",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ee8e5548-c906-4368-a3c5-4cd8fbdcdb2e",
+  "vendor": "Arturia"
+}

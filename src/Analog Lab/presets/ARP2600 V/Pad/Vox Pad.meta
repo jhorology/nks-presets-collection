@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Vox Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0e7fac5e-b7dc-4773-98ea-c5e71f759785",
+  "vendor": "Arturia"
+}

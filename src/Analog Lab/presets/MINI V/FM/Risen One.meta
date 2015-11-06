@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Digital"],
+  "name": "Risen One",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "45bf34d3-393f-4ecd-80de-ad673733c6f3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "FM Open",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d78b459c-d4d3-4c24-afbd-805be4c63b48",
+  "vendor": "Arturia"
+}

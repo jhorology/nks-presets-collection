@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Ambient"],
+  "name": "Rot Licht",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1231b970-9367-4b6b-bbcd-b5056037ad3f",
+  "vendor": "Arturia"
+}

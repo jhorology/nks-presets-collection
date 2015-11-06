@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Pulse Mod",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "136fc2ae-0a6b-4368-b05b-b44d6597945c",
+  "vendor": "Arturia"
+}

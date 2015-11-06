@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Tinker Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7d2bf467-5d08-4630-a415-8abb957d02d9",
+  "vendor": "Arturia"
+}

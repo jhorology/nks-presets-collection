@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Arpeg Gepra",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dbc0ff4d-5136-4e02-a8fe-daf2bb2bc446",
+  "vendor": "Arturia"
+}

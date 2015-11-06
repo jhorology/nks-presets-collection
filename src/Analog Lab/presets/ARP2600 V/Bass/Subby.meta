@@ -1,0 +1,13 @@
+{
+  "author": "N. Moore",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple", "Ambient"],
+  "name": "Subby",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fea1150a-0c7c-4f17-b6eb-3dc4b85593b0",
+  "vendor": "Arturia"
+}

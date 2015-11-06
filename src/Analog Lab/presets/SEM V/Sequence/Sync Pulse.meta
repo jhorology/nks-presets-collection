@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soundtrack"],
+  "name": "Sync Pulse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "562c7905-2c67-4e5f-8e65-875347ffbceb",
+  "vendor": "Arturia"
+}

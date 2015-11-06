@@ -1,0 +1,13 @@
+{
+  "author": "JMB_2",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Sweet Square01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b6d6ce57-94c9-4c50-909d-d45cccc9b48a",
+  "vendor": "Arturia"
+}

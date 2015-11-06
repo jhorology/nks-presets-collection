@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Voltage",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a9450cac-02e5-4ed1-89b7-c696a8f01eed",
+  "vendor": "Arturia"
+}

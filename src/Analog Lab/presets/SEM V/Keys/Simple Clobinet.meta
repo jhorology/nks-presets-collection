@@ -1,0 +1,13 @@
+{
+  "author": "N. Ubukata",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Simple Clobinet",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ae16f9be-5a5c-4203-a345-e586e5be1780",
+  "vendor": "Arturia"
+}

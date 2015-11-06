@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet2",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Bass Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "81ce7cfa-08d2-4579-83d6-fd874c1fcd45",
+  "vendor": "Arturia"
+}

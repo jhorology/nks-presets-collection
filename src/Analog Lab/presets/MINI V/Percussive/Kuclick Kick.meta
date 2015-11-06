@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Short"],
+  "name": "Kuclick Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c3655ea5-dc2e-4e08-8e30-9a143b95cd87",
+  "vendor": "Arturia"
+}

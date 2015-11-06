@@ -1,0 +1,13 @@
+{
+  "author": "Llorcarturia",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ensemble"],
+  "name": "Analog2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "92cada84-8d04-4f0c-9cb4-385268829e18",
+  "vendor": "Arturia"
+}

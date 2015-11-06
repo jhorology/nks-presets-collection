@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Ambient Sequence01",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "49f78432-7daf-4218-8ac6-ef2a6c82a809",
+  "vendor": "Arturia"
+}

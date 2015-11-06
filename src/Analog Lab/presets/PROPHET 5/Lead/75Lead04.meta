@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Noise"],
+  "name": "75Lead04",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "27263cbb-9923-4e25-83ed-8e6743c1120d",
+  "vendor": "Arturia"
+}

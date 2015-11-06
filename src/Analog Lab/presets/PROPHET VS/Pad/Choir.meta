@@ -1,0 +1,13 @@
+{
+  "author": "Fact_ProVS",
+  "bankchain": ["Analog Lab", "PROPHET VS", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital"],
+  "name": "Choir",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e77f636d-ff5e-4806-815e-87752755609a",
+  "vendor": "Arturia"
+}

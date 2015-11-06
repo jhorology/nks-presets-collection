@@ -1,0 +1,13 @@
+{
+  "author": "J.Muhoberac",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Thin Depth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bc0e9804-9877-4486-ad7c-67897cccfddf",
+  "vendor": "Arturia"
+}

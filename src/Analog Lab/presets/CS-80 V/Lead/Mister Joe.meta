@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex"],
+  "name": "Mister Joe",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "30afa892-af14-404c-a8c0-6efdd57455cf",
+  "vendor": "Arturia"
+}

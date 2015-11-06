@@ -1,0 +1,13 @@
+{
+  "author": "rsmus7-1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Complex", "Ensemble"],
+  "name": "Round Lfo Wheely",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "228915e6-0601-4a15-b04a-52bd619b278f",
+  "vendor": "Arturia"
+}

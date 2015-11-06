@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Ensemble"],
+  "name": "Simple Strings (2 Osc)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "91109c44-e36c-4f58-8628-3086a2a66653",
+  "vendor": "Arturia"
+}

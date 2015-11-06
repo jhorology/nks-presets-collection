@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab", "VOX V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [null],
+  "name": "SS_Vox Pad",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4a29d38f-d918-46a2-9d58-3517b3456bc3",
+  "vendor": "Arturia"
+}

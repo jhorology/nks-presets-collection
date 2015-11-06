@@ -1,0 +1,13 @@
+{
+  "author": "CS_Solida",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Hi Pass Stereo",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0a05a717-32e5-4d13-85f0-cca0ee33cd70",
+  "vendor": "Arturia"
+}

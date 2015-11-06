@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "MIDI Noise Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8022248d-a1cc-48c9-8329-cef90b4a4b7f",
+  "vendor": "Arturia"
+}

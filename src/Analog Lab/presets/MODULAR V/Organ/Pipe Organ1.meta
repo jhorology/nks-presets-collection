@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Pipe Organ1",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "bd590cc9-0d85-486b-879e-1b5cd9df8e8c",
+  "vendor": "Arturia"
+}

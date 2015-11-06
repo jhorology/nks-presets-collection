@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Complex", "Ambient", "Soundtrack"],
+  "name": "Kompletten",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b62efb31-2dad-4592-a6f6-e21d761733b8",
+  "vendor": "Arturia"
+}

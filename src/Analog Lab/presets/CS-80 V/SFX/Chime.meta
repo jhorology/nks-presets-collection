@@ -1,0 +1,13 @@
+{
+  "author": "Jaime_Newman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long"],
+  "name": "Chime",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4a431909-9e85-48f0-9395-349130bfac58",
+  "vendor": "Arturia"
+}

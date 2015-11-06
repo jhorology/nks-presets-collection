@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Snap Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "75765bf5-f8ce-4d4d-b363-82acab9d31d1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient", "Ensemble", "Soundtrack"],
+  "name": "AmbientMood",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d538f896-e78e-4113-bd1b-1245d612a746",
+  "vendor": "Arturia"
+}

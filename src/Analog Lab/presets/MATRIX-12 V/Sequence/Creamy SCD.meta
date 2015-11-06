@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short", "Funky"],
+  "name": "Creamy SCD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fadfcff7-1b59-4cba-a4e0-897a0adb17a6",
+  "vendor": "Arturia"
+}

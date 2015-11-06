@@ -1,0 +1,13 @@
+{
+  "author": "M. Sterling",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Acid", "Funky"],
+  "name": "Classic Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "febf60e6-edd3-4d2b-8df5-d5a1e457a8de",
+  "vendor": "Arturia"
+}

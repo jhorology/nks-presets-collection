@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Ambient"],
+  "name": "Square Solo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "31d201a9-dce5-430a-a06d-2f04b7638c0e",
+  "vendor": "Arturia"
+}

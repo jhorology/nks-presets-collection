@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long", "Ambient", "Digital", "Soundtrack"],
+  "name": "Palm-esque PS",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f24427f1-f460-4a0c-8100-c8071b4454ce",
+  "vendor": "Arturia"
+}

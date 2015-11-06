@@ -1,0 +1,13 @@
+{
+  "author": "SkyChurch",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short", "Ambient"],
+  "name": "Wiredrums",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "df55fc99-95b1-49f6-b699-2210eab2e2f0",
+  "vendor": "Arturia"
+}

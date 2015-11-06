@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Sync Synth",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4f59a221-08be-4908-bf96-0e4320fab9c9",
+  "vendor": "Arturia"
+}

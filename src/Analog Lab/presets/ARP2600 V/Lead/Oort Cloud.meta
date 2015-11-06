@@ -1,0 +1,13 @@
+{
+  "author": "J.Thompson",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Oort Cloud",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "19c253ae-3598-4585-9cad-bcd0a1ba1173",
+  "vendor": "Arturia"
+}

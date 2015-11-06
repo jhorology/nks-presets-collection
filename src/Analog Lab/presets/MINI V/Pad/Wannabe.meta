@@ -1,0 +1,13 @@
+{
+  "author": "Knowton Walsh",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Long", "Ambient"],
+  "name": "Wannabe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eebde9fb-e7f4-4705-b161-a91d18098cc8",
+  "vendor": "Arturia"
+}

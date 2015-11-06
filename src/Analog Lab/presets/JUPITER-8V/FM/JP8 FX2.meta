@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Complex", "Digital"],
+  "name": "JP8 FX2",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3b57f814-c59c-4fdd-a2f6-9b54d15c9d38",
+  "vendor": "Arturia"
+}

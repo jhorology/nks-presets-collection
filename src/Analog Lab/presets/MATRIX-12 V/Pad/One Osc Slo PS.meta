@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab", "MATRIX-12 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long", "Ambient", "Soundtrack"],
+  "name": "One Osc Slo PS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c1e31bfb-b2cb-4822-9f20-d0aa4810e82e",
+  "vendor": "Arturia"
+}

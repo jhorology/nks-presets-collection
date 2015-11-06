@@ -1,0 +1,13 @@
+{
+  "author": "JMB2",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Submarine",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cdc3a3a8-4676-46e5-9623-a86fa635b52c",
+  "vendor": "Arturia"
+}

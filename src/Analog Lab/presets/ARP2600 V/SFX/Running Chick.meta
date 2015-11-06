@@ -1,0 +1,13 @@
+{
+  "author": "K.Ujiie",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Simple"],
+  "name": "Running Chick",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6f7a8195-3674-4222-a043-09c3a7ec93ae",
+  "vendor": "Arturia"
+}

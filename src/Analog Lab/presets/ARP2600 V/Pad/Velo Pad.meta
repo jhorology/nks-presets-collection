@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Velo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d844894d-3dcc-46aa-8d51-92b2446f7a20",
+  "vendor": "Arturia"
+}

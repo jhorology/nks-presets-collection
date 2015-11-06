@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Bright Notch",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "032969c8-ee21-4df4-9124-ace60d7530ea",
+  "vendor": "Arturia"
+}

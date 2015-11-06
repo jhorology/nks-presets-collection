@@ -1,0 +1,13 @@
+{
+  "author": "JM.Blanchet",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Ambient"],
+  "name": "Thinking Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a45f18d3-42ac-4d05-b202-6b1c556c0b2c",
+  "vendor": "Arturia"
+}

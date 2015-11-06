@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey2",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Ambient"],
+  "name": "Space Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "506cc3ad-9167-4c48-b439-082be54475d1",
+  "vendor": "Arturia"
+}

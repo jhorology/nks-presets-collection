@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Pong",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3d6da378-412e-4670-8b7a-91f03d67eca5",
+  "vendor": "Arturia"
+}

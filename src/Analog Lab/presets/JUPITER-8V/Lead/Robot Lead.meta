@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky"],
+  "name": "Robot Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "592d43a6-b4ab-4c82-88ea-3e066505340f",
+  "vendor": "Arturia"
+}

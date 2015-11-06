@@ -1,0 +1,13 @@
+{
+  "author": "JM_Blanchet",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Leed Tacking",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "039d8b3f-3acc-4c54-a9ea-fae2d5ddf854",
+  "vendor": "Arturia"
+}

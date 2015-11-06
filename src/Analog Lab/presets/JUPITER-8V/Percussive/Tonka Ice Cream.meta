@@ -1,0 +1,13 @@
+{
+  "author": "TCS_JP8v",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Complex"],
+  "name": "Tonka Ice Cream",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "28eaa110-4e8d-4438-9f33-cddc638ca35b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Bizarre"],
+  "name": "1601 Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ce9c2978-51a1-4c17-b4ad-a0818c2e8527",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mod Wheel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ac9778bf-0359-41e7-b1ca-5ef08cd56091",
+  "vendor": "Arturia"
+}

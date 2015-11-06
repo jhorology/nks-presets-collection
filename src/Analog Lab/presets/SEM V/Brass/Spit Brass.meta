@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Simple"],
+  "name": "Spit Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "3217472b-ba81-40f2-acdc-556ac8c40b7b",
+  "vendor": "Arturia"
+}

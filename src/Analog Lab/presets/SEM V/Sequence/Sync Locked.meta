@@ -1,0 +1,13 @@
+{
+  "author": "D. Neumann",
+  "bankchain": ["Analog Lab", "SEM V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Sync Locked",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c158925f-1aec-4957-800d-f766a1af6d86",
+  "vendor": "Arturia"
+}

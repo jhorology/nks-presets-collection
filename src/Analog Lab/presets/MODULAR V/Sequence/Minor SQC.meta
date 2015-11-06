@@ -1,0 +1,13 @@
+{
+  "author": "JMB3",
+  "bankchain": ["Analog Lab", "MODULAR V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Noise"],
+  "name": "Minor SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e5441fbb-dc7d-41b5-8261-dbdff909874a",
+  "vendor": "Arturia"
+}

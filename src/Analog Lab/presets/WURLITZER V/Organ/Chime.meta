@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab", "WURLITZER V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Digital", "Funky"],
+  "name": "Chime",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "0bb53f86-f24e-4f6d-91bc-c2b7cc703355",
+  "vendor": "Arturia"
+}

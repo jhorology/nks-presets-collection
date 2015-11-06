@@ -1,0 +1,13 @@
+{
+  "author": "Pro5",
+  "bankchain": ["Analog Lab", "PROPHET 5", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Ultrasound",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c36bfab9-8b9f-4197-ab6f-4385ef1ce1af",
+  "vendor": "Arturia"
+}

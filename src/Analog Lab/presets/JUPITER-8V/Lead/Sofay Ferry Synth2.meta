@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Simple"],
+  "name": "Sofay Ferry Synth2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2d5e9405-c97e-4d30-b324-afa89e869ec4",
+  "vendor": "Arturia"
+}

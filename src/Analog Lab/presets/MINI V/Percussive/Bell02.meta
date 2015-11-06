@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Long"],
+  "name": "Bell02",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d268ef23-115f-452d-9265-66af63cea6ae",
+  "vendor": "Arturia"
+}

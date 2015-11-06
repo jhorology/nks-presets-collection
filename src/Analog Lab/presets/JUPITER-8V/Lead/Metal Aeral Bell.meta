@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson Bank 1",
+  "bankchain": ["Analog Lab", "JUPITER-8V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Quiet", "Ambient", "Digital"],
+  "name": "Metal Aeral Bell",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d7714a9c-1d3d-43b8-9bf8-eeaa00378896",
+  "vendor": "Arturia"
+}

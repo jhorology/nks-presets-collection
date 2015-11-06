@@ -1,0 +1,13 @@
+{
+  "author": "K.P.Rausch",
+  "bankchain": ["Analog Lab", "MINI V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "OSC Filter",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "f83b2d4a-a70b-46f8-ae31-9132223055aa",
+  "vendor": "Arturia"
+}

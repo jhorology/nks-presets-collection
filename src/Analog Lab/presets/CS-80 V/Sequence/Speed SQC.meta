@@ -1,0 +1,13 @@
+{
+  "author": "C.Pittman",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Bizarre"],
+  "name": "Speed SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e1093a9d-0fcd-45df-9282-b5649e642ab8",
+  "vendor": "Arturia"
+}

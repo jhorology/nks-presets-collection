@@ -1,0 +1,13 @@
+{
+  "author": "C.Engel",
+  "bankchain": ["Analog Lab", "ARP2600 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Simple"],
+  "name": "Soft Bassline",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eace7e3a-8dad-46d4-9a10-421df52bf608",
+  "vendor": "Arturia"
+}

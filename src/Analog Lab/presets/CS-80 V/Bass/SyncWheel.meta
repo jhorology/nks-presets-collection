@@ -1,0 +1,13 @@
+{
+  "author": "G.Darcey",
+  "bankchain": ["Analog Lab", "CS-80 V", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "SyncWheel",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "db6922cd-da9b-4cfc-8657-00613b96ed41",
+  "vendor": "Arturia"
+}
