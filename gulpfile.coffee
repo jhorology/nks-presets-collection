@@ -858,6 +858,62 @@ gulp.task 'analoglab-generate-meta', ->
       # colse database
       db.close()
 
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'analoglab-dist', [
+  'analoglab-dist-image'
+  'analoglab-dist-database'
+  'analoglab-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'analoglab-dist-image', ->
+  _dist_image $.AbalogLab.dir, $.AbalogLab.vendor
+
+# copy database resources to dist folder
+gulp.task 'analoglab-dist-database', ->
+  _dist_database $.AbalogLab.dir, $.AbalogLab.vendor
+
+# build presets file to dist folder
+gulp.task 'analoglab-dist-presets', ->
+  _dist_presets $.AbalogLab.dir, $.AbalogLab.PLID
+
+# check
+gulp.task 'analoglab-check-dist-presets', ->
+  _check_dist_presets $.AbalogLab.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'analoglab-deploy', [
+  'analoglab-deploy-resources'
+  'analoglab-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'analoglab-deploy-resources', [
+  'analoglab-dist-image'
+  'analoglab-dist-database'
+  ], ->
+    _deploy_resources $.AbalogLab.dir
+
+# copy database resources to local environment
+gulp.task 'analoglab-deploy-presets', [
+  'analoglab-dist-presets'
+  ] , ->
+    _deploy_presets $.AbalogLab.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'analoglab-release',['analoglab-dist'], ->
+  _release $.AbalogLab.dir
+
 # ---------------------------------------------------------------
 # end Arturia Analog Lab
 #
