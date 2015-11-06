@@ -19,7 +19,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|||||||
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
-|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||||||
+|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:||||
 
  1. Image files were not recognized, maybe the reason for path contained '!'.
 
