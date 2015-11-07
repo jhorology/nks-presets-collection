@@ -112,6 +112,6 @@ In case of Serum.
 
 Raw preset data (*.pchk files) and some image files are not my property. I'm not a lawyer, but I think the use of these come under [fair-use](https://en.wikipedia.org/wiki/Fair_use).
 
-Download files are completely free under your responsibility if you trust and believe fair-use. And of course you must be a legal user of these VSTi plugins.
+Download files are completely free under your own responsibility if you trust and believe fair-use. And of course you must be a legal user of these VSTi plugins.
 
 All other script codes are licensed under MIT.
