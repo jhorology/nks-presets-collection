@@ -70,14 +70,14 @@ In case of Serum.
 
   1. Execute following command to build and deploy presets to your environment.
      ```shellscript
-     gulp serum-deploy
+     gulp serum-deploy-presets
      ```
 
 - I want to categorize presets by own policy.
 
   1. Edit each `.meta` files in `src/Serum/presets` folder. It's a nightmare.
 
-  1. Another option is to modify `serum-generate-meta` task of `gulpfile.coffee`.
+  1. Another option is modifying `serum-generate-meta` task of `gulpfile.coffee`.
     - Sorry again, I can't say nothing about meta format, because officially not opened. Following command may help you.
     ```shellscript
     gulp serum-print-default-meta
@@ -89,7 +89,7 @@ In case of Serum.
 
   1. Execute following command to build and deploy presets to your environment.
      ```shellscript
-     gulp serum-deploy
+     gulp serum-deploy-presets
      ```
 
 - How to automate saving preset in Komplete Kontrol.
