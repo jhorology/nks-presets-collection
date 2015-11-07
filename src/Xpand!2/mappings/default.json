@@ -235,7 +235,7 @@
       "autoname": false,
       "id": 66,
       "name": "FX 1",
-      "section": "Part C",
+      "section": "Send C",
       "vflag": false
     }, {
       "autoname": false,
@@ -261,14 +261,14 @@
       "section": "FX 1",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 108,
-      "name": "FX1 Edit 1",
+      "name": "Edit 1",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 109,
-      "name": "FX1 Edit 2",
+      "name": "Edit 2",
       "vflag": false
     }, {
       "autoname": true,

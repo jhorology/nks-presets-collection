@@ -1292,6 +1292,8 @@ _dist_presets = (dir, PLID) ->
   presets = "src/#{dir}/presets"
   mappings = "./src/#{dir}/mappings"
   dist = "dist/#{dir}/User Content/#{dir}"
+  mapping = _serialize require "#{mappings}/default.json"
+  pluginId = _serialize PLID
   gulp.src ["#{presets}/**/*.pchk"], read: true
     .pipe data (file) ->
       riff = builder 'NIKS'
@@ -1299,10 +1301,8 @@ _dist_presets = (dir, PLID) ->
       meta = _serialize _require_meta "#{presets}/#{file.relative[..-5]}meta"
       riff.pushChunk 'NISI', meta
       # NACA chunk -- mapping
-      mapping = _serialize require "#{mappings}/default.json"
       riff.pushChunk 'NICA', mapping
       # PLID chunk -- plugin id
-      pluginId = _serialize PLID
       riff.pushChunk 'PLID', pluginId
       # PCHK chunk -- raw preset (pluginstates)
       riff.pushChunk 'PCHK', file.contents
