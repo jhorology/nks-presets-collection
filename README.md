@@ -102,11 +102,11 @@ In case of Serum.
     - see example task `velvet-extract-raw-presets`.
   - from Ableton Live rack `.adg`
     - see example task `analoglab-extract-raw-presets`.
-    - doesn't works in windows, because using schell script.
+    - doesn't works in windows, because using shell script.
     - currently not tested final preset file.
   - from Bitwig Studio `.bwpreset`
     - see example task `xpand2-extract-raw-presets`.
-    - doesn't work in windows, because using schell script.
+    - doesn't work in windows, because using shell script.
 
 ## License
 
