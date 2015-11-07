@@ -21,7 +21,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:||||
 
- 1. Image files were not recognized, maybe the reason for path contained '!'.
+ 1. Image files were not recognized, maybe the reason that plugin contains '!'.
 
 ## Build Instructions
 
