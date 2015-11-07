@@ -30,14 +30,15 @@ NKS(Native Kontrol Standard) presets collection
   - [nodejs](https://nodejs.org)
 
   I recommend to use [nvm](https://github.com/creationix/nvm).
-  ```shellscript
-  nvm install stable
-  nvm use stable
-  ```
+    ```shellscript
+    nvm install stable
+    nvm use stable
+    ```
+
   - [gulp](http://gulpjs.com/)
-  ```shellscript
-  npm install gulp-cli -g
-  ```
+    ```shellscript
+    npm install gulp-cli -g
+    ```
 
 ### Cloning this repository
 ```shellscript
