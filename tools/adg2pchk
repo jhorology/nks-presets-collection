@@ -1,14 +1,14 @@
 #!/bin/sh -e
 #
-# convert (extract) .adg to NKS NCHK chunk
+# convert (extract) .adg to NKS PCHK chunk
 #
-#  PLCK
-#     chunk version 4byte 32bit LE
-#     data  pluginsstates
+#  PCHK chunk
+#      32bit flags or int value, I think It means chunk version.
+#    + data  pluginsstates
 #
-#  ableton .adg file is gziped xml.
+#  Ableton .adg file is gziped xml.
 #  and it has pluginstate as hex coded string.
-#  ex.)
+#  ex).
 # ....
 # <VstPreset>
 #   ...
@@ -21,6 +21,6 @@
 # </VstPreset>
 #   ...
 
-# 4 byte version 1.0.0.0 or 1(32bitLE)
+# 4 byte version. It means '1.0.0.0' or 1(32bitLE)
 printf '\x1\x0\x0\x0' > "$2"
 gzip -dc "$1" | xmllint --xpath "//VstPreset/Buffer/text()" - | tr -dc '0123456789abcdefABCDEF' | perl -e 'print pack "H*", <STDIN>' >> "$2"

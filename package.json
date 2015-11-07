@@ -1,7 +1,7 @@
 {
   "name": "nks-presets-collection",
   "version": "0.0.1",
-  "description": "Native Kontrol Stander presets collection",
+  "description": "Native Kontrol Standard presets collection",
   "author": {
     "name": "jhorology",
     "email": "jhorology2014@gmail.com",
@@ -27,6 +27,7 @@
     "gulp-watch": "^4.3.5",
     "gulp-zip": "^3.0.2",
     "js-beautify": "^1.5.10",
+    "nks-json": "0.0.3",
     "sqlite3": "^3.1.1",
     "underscore": "^1.8.3",
     "uuid": "^2.0.1"

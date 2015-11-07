@@ -1,10 +1,14 @@
 #!/bin/sh -e
 #
-# convert .bwpreset to NKS NCHK chunk
+# convert .bwpreset to NKS PCHK chunk
 #
-#  PLCK
-#     chunk version 4byte 32bit LE
-#     data  pluginsstates
+#  PCHK chunk
+#      32bit flags or int value, I think It means chunk version.
+#    + data  pluginsstates
+#
+#  .bwpreset has pluginstae as zip format.
+#   zipped part contains 160byte header + plauginstates
+#
 
 # unzip & remove first 156 byte
 unzip -p "$1" | tail -c +157 > "$2"
