@@ -77,7 +77,7 @@ In case of Serum.
 
   1. Edit each `.meta` files in `src/Serum/presets` folder. It's a nightmare.
 
-  1. Another option is to modify `serum-generate-meta` task of `gulpfile.coffee`.
+  1. Another option is modifying `serum-generate-meta` task of `gulpfile.coffee`.
     - Sorry again, I can't say nothing about meta format, because officially not opened. Following command may help you.
     ```shellscript
     gulp serum-print-default-meta
