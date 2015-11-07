@@ -98,13 +98,13 @@ In case of Serum.
 
 
 - How to rip raw preset files.
-  - from Komplete Kontrol `.nksf`
+  - from Komplete Kontrol `.nksf` file
     - Please see the example task `velvet-extract-raw-presets`.
-  - from Ableton Live rack `.adg`
+  - from Ableton Live rack `.adg` file
     - Please see the example task `analoglab-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script.
     - I didn't test final `.nksf` file yet.
-  - from Bitwig Studio `.bwpreset`
+  - from Bitwig Studio `.bwpreset` file
     - Please see the example task `xpand2-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script.
 
