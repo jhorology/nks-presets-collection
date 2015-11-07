@@ -105,7 +105,7 @@ In case of Serum.
     - currently not tested final preset file.
   - from Bitwig Studio `.bwpreset`
     - see example task `xpand2-extract-raw-presets`.
-    - doesn't work in windows, cause using schell script. 
+    - doesn't work in windows, cause using schell script.
 
 ## License
 
