@@ -103,7 +103,7 @@ In case of Serum.
   - from Ableton Live rack `.adg`
     - Please see the example task `analoglab-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script.
-    - I don't test final `nksf` file yet.
+    - I didn't test `nksf` file yet.
   - from Bitwig Studio `.bwpreset`
     - Please see the example task `xpand2-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script.
