@@ -63,7 +63,7 @@ In case of Serum.
      gulp serum-generate-default-mapping
      ```
   1. Edit `src/Serum/mappings/default.json` whatever you want.
-    - Sorry, I cant't say nothing about json format, because officially not opened. Following command may help you.
+    - Sorry, I can't say nothing about json format, because officially not opened. Following command may help you.
     ```shellscript
     gulp serum-print-default-mapping
     ```
@@ -78,7 +78,7 @@ In case of Serum.
   1. Edit each `.meta` files in `src/Serum/presets` folder. It's a nightmare.
 
   1. Another option is to modify `serum-generate-meta` task of `gulpfile.coffee`.
-    - Sorry again, I cant't say nothing about meta format, because officially not opened. Following command may help you.
+    - Sorry again, I can't say nothing about meta format, because officially not opened. Following command may help you.
     ```shellscript
     gulp serum-print-default-meta
     ```
