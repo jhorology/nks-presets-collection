@@ -62,7 +62,7 @@ In case of Serum.
      ```shellscript
      gulp serum-generate-default-mapping
      ```
-  1. Edit `src/Serum/mappings/default.json` whatever you want.
+  1. Edit `src/Serum/mappings/default.json` whatever you want. (Optional)
     - Sorry, I can't say nothing about json format, because officially not opened. Following command may help you.
     ```shellscript
     gulp serum-print-default-mapping
