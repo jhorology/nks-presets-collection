@@ -75,7 +75,7 @@ In case of Serum.
 
 - I want to categorize presets in own policy.
 
-  1. Edit each `.meta` file in `src/Serum/presets` folder. It's a nightmare.
+  1. Edit each `.meta` files in `src/Serum/presets` folder. It's a nightmare.
 
   1. Another option is to modify `serum-generate-meta` task of `gulpfile.coffee`.
     - Sorry again, I cant't say nothing about meta format, cause officially not opened. Following command may help you.
@@ -102,11 +102,11 @@ In case of Serum.
     - see example task `velvet-extract-raw-presets`.
   - from Ableton Live rack `.adg`
     - see example task `analoglab-extract-raw-presets`.
-    - doesn't works in windows, cause using schell script.
+    - doesn't works in windows, because using schell script.
     - currently not tested final preset file.
   - from Bitwig Studio `.bwpreset`
     - see example task `xpand2-extract-raw-presets`.
-    - doesn't work in windows, cause using schell script.
+    - doesn't work in windows, because using schell script.
 
 ## License
 
