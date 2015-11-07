@@ -73,7 +73,7 @@ In case of Serum.
      gulp serum-deploy
      ```
 
-- I want to categorize presets in own policy.
+- I want to categorize presets by own policy.
 
   1. Edit each `.meta` files in `src/Serum/presets` folder. It's a nightmare.
 
