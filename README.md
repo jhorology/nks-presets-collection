@@ -70,7 +70,7 @@ In case of Serum.
 
   1. Execute following command to build and deploy presets to your environment.
      ```shellscript
-     gulp serum-deploy
+     gulp serum-deploy-presets
      ```
 
 - I want to categorize presets by own policy.
@@ -89,7 +89,7 @@ In case of Serum.
 
   1. Execute following command to build and deploy presets to your environment.
      ```shellscript
-     gulp serum-deploy
+     gulp serum-deploy-presets
      ```
 
 - How to automate saving preset in Komplete Kontrol.
