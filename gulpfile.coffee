@@ -123,7 +123,7 @@ $ =
     PLID:
       "VST.magic": "ALab"
     db: '/Library/Arturia/Analog\ Lab/Labo2.db'
-    # SQL query for Instruments Sounds
+    # SQL query for sound metadata
     query_sounds: '''
 select
   Sounds.SoundName
@@ -141,7 +141,7 @@ where
   Instruments.InstName = $InstName
   and Sounds.SoundName = $SoundName
 '''
-    # SQL query for Multi Sounds
+    # SQL query for multi metadata
     query_multis: '''
 select
   Multis.MultiName
@@ -152,6 +152,100 @@ from
   join MusicGenres on Multis.MusicGenreID = MusicGenres.MusicGenreID
 where
   Multis.MultiName = $MultiName
+'''
+    # SQL query for inst mappings
+    # CtrlID 0     level
+    # CtrlID 1-19  assignable
+    # CtrlID 20-21 Bend/Mod
+    query_sound_controls_assignments: '''
+select
+  '0' as Priority,
+  t1.CtrlID as CtrlID,
+  t2.VstParamID as VstParamID,
+  t2.VstParamName as VstParamName
+from
+  Instruments t0
+  join DefaultAssignments t1 on t0.InstID = t1.InstID
+  join ParameterNames t2 on t0.InstID = t2.InstID and t1.VstParamID=t2.VstParamID
+where
+   t1.CtrlID < 20
+   and t0.InstName = $InstName
+union
+select
+  '1' as Priority,
+  t2.CtrlID as CtrlID,
+  t3.VstParamID as VstParamID,
+  t3.VstParamName as VstParamName
+from
+  Sounds t0
+  join Instruments t1 on t0.InstID = t1.InstID
+  join ControllerAssignments t2 on t0.SoundGUID = t2.SoundGUID
+  join ParameterNames t3 on t0.InstID = t3.InstID and t2.VstParamID=t3.VstParamID
+where
+   t2.CtrlID < 20
+   and t0.SoundName= $SoundName
+   and t1.InstName = $InstName
+order by Priority
+'''
+    # SQL query for multi mappings
+    query_multi_parts_controls_assignments: '''
+select
+  '0' as Priority,
+  t1.PartID as PartID,
+  t3.CtrlID as CtrlID,
+  t4.VstParamID as VstParamID,
+  t4.VstParamName as VstParamName
+from
+  Multis t0
+  join Parts t1 on t0.MultiGUID = t1.MultiGUID
+  join Sounds t2 on t1.SoundGUID = t2.SoundGUID
+  join DefaultAssignments t3 on t2.InstID = t3.InstID
+  join ParameterNames t4 on t2.InstID = t4.InstID and t3.VstParamID=t4.VstParamID
+where
+  t3.CtrlID < 20
+  and t0.MultiName = $MultiName
+union
+select
+  '1' as Priority,
+  t1.PartID as PartID,
+  t3.CtrlID as CtrlID,
+  t4.VstParamID as VstParamID,
+  t4.VstParamName as VstParamName
+from
+  Multis t0
+  join Parts t1 on t0.MultiGUID = t1.MultiGUID
+  join Sounds t2 on t1.SoundGUID = t2.SoundGUID
+  join ControllerAssignments t3 on t1.SoundGUID = t3.SoundGUID
+  join ParameterNames t4 on t2.InstID = t4.InstID and t3.VstParamID=t4.VstParamID
+where
+  t3.CtrlID < 20
+  and t0.MultiName = $MultiName
+'''
+    # SQL query for multi mappings
+    query_multi_controls_assignments: '''
+select
+  '0' as Priority,
+  t0.MultiCtrlID as MultiCtrlID,
+  t0.MultiCtrlDestPart as MultiCtrlDestPart,
+  t0.CtrlID as CtrlID
+from
+  MultiControlsDef t0
+where
+  t0.MultiCtrlID < 40
+union
+select
+  '1' as Priority,
+  t1.MultiCtrlID as MultiCtrlID,
+  t1.MultiCtrlDestPart as MultiCtrlDestPart,
+  t1.CtrlID as CtrlID
+from
+  Multis t0
+  join MultiControls t1 on t0.MultiGUID = t1.MultiGUID
+where
+  t1.MultiCtrlID < 40
+  and t0.MultiName = $MultiName
+order by
+  Priority
 '''
 
   #
@@ -789,7 +883,7 @@ gulp.task 'analoglab-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
-# generate metadata from serum's sqlite database
+# generate metadata from Analog Lab's sqlite database
 gulp.task 'analoglab-generate-meta', ->
   # open database
   db = new sqlite3.Database $.AnalogLab.db, sqlite3.OPEN_READONLY
@@ -806,9 +900,9 @@ gulp.task 'analoglab-generate-meta', ->
         db.all $.AnalogLab.query_multis, params, (err, rows) ->
           done err if err
           unless rows and rows.length
-            done 'row unfound in multis'
+            return done 'row unfound in multis'
           if rows.length > 1
-            done "row duplicated in multis. rows.length:#{rows.length}"
+            return done "row duplicated in multis. rows.length:#{rows.length}"
           console.info JSON.stringify rows[0]
           done undefined,
             vendor: $.AnalogLab.vendor
@@ -834,7 +928,7 @@ gulp.task 'analoglab-generate-meta', ->
         db.all $.AnalogLab.query_sounds, params, (err, rows) ->
           done err if err
           unless rows and rows.length
-            done 'row unfound in sounds', undefined
+            return done 'row unfound in sounds'
           done undefined,
             vendor: $.AnalogLab.vendor
             uuid: uuid.v4()
@@ -848,12 +942,108 @@ gulp.task 'analoglab-generate-meta', ->
 
     .pipe data (file) ->
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
-      console.info json
+      # console.info json
       file.contents = new Buffer json
       # rename .pchk to .meta
       file.path = "#{file.path[..-5]}meta"
       file.data
     .pipe gulp.dest "src/#{$.AnalogLab.dir}/presets"
+    .on 'end', ->
+      # colse database
+      db.close()
+
+# generate mapping per preset from sqlite database
+gulp.task 'analoglab-generate-mappings', [
+  'analoglab-generate-sound-mappings'
+  'analoglab-generate-multi-mappings'
+  ]
+
+# generate sound preset mappings from sqlite database
+gulp.task 'analoglab-generate-sound-mappings', ->
+  # open database
+  db = new sqlite3.Database $.AnalogLab.db, sqlite3.OPEN_READONLY
+  gulp.src [
+    "src/#{$.AnalogLab.dir}/presets/**/*.pchk"
+    "!src/#{$.AnalogLab.dir}/presets/MULTI/**/*.pchk"
+    ]
+    .pipe data (file, done) ->
+      # SQL bind parameters
+      soundname = path.basename file.path, '.pchk'
+      folder = path.relative "src/#{$.AnalogLab.dir}/presets", path.dirname file.path
+      instname = path.dirname folder
+      # Sound presets
+      # funny, Arturia change preset name 'Moog' to 'Mogue' in newer version.
+      db_soundname = soundname.replace 'Moog', 'Mogue'
+      db_soundname = db_soundname.replace 'moog', 'mogue'
+      # initialize parameter names
+      paramNames = ('' for i in [0...20])
+      # fetch
+      db.all $.AnalogLab.query_sound_controls_assignments,
+        $InstName: instname
+        $SoundName: db_soundname
+      , (err, rows) ->
+        if err
+          return done err
+        unless rows and rows.length
+          return done 'DefaultAssignment unfound', undefined
+        for row in rows
+          paramNames[row.CtrlID] = row.VstParamName
+        done undefined, paramNames
+    .pipe data (file) ->
+      #
+      template = _.template (fs.readFileSync "src/#{$.AnalogLab.dir}/mappings/default-sound.json.tpl").toString()
+      json = template name: file.data
+      # console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .json
+      file.path = "#{file.path[..-5]}json"
+      file.data
+    .pipe gulp.dest "src/#{$.AnalogLab.dir}/mappings"
+    .on 'end', ->
+      # colse database
+      db.close()
+      
+# generate multi preset mappings from sqlite database
+gulp.task 'analoglab-generate-multi-mappings', ->
+  # open database
+  db = new sqlite3.Database $.AnalogLab.db, sqlite3.OPEN_READONLY
+  gulp.src [
+    "src/#{$.AnalogLab.dir}/presets/MULTI/**/*.pchk"
+    ]
+    .pipe data (file, done) ->
+      # SQL bind parameters
+      multiName = path.basename file.path, '.pchk'
+      # initialize parameter names
+      partParamNames =  for i in [0...2]
+        '' for i in [0...20]
+      # fetch
+      db.all $.AnalogLab.query_multi_parts_controls_assignments,
+        $MultiName: multiName
+      , (err, rows) ->
+        if err
+          done err
+          return
+        unless rows and rows.length
+          done 'MultiControls unfound', undefined
+          return
+        for row in rows
+          partParamNames[row.PartID - 1][row.CtrlID] = row.VstParamName
+        db.all $.AnalogLab.query_multi_controls_assignments,
+          $MultiName: multiName
+        , (err, rows) ->
+          multiParamNames =  ('' for i in [0...40])
+          for row in rows
+            multiParamNames[row.MultiCtrlID] = partParamNames[row.MultiCtrlDestPart - 1][row.CtrlID]
+          done undefined, multiParamNames
+    .pipe data (file) ->
+      template = _.template (fs.readFileSync "src/#{$.AnalogLab.dir}/mappings/default-multi.json.tpl").toString()
+      json = template name: file.data
+      # console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .json
+      file.path = "#{file.path[..-5]}json"
+      file.data
+    .pipe gulp.dest "src/#{$.AnalogLab.dir}/mappings/MULTI"
     .on 'end', ->
       # colse database
       db.close()
@@ -871,19 +1061,20 @@ gulp.task 'analoglab-dist', [
 
 # copy image resources to dist folder
 gulp.task 'analoglab-dist-image', ->
-  _dist_image $.AbalogLab.dir, $.AbalogLab.vendor
+  _dist_image $.AnalogLab.dir, $.AnalogLab.vendor
 
 # copy database resources to dist folder
 gulp.task 'analoglab-dist-database', ->
-  _dist_database $.AbalogLab.dir, $.AbalogLab.vendor
+  _dist_database $.AnalogLab.dir, $.AnalogLab.vendor
 
 # build presets file to dist folder
 gulp.task 'analoglab-dist-presets', ->
-  _dist_presets $.AbalogLab.dir, $.AbalogLab.PLID
+  _dist_presets $.AnalogLab.dir, $.AnalogLab.PLID, (file) ->
+    "./src/#{$.AnalogLab.dir}/mappings/#{file.relative[..-5]}json"
 
 # check
 gulp.task 'analoglab-check-dist-presets', ->
-  _check_dist_presets $.AbalogLab.dir
+  _check_dist_presets $.AnalogLab.dir
 
 #
 # deploy
@@ -898,13 +1089,13 @@ gulp.task 'analoglab-deploy-resources', [
   'analoglab-dist-image'
   'analoglab-dist-database'
   ], ->
-    _deploy_resources $.AbalogLab.dir
+    _deploy_resources $.AnalogLab.dir
 
 # copy database resources to local environment
 gulp.task 'analoglab-deploy-presets', [
   'analoglab-dist-presets'
   ] , ->
-    _deploy_presets $.AbalogLab.dir
+    _deploy_presets $.AnalogLab.dir
 
 #
 # release
@@ -912,7 +1103,7 @@ gulp.task 'analoglab-deploy-presets', [
 
 # release zip file to dropbox
 gulp.task 'analoglab-release',['analoglab-dist'], ->
-  _release $.AbalogLab.dir
+  _release $.AnalogLab.dir
 
 # ---------------------------------------------------------------
 # end Arturia Analog Lab
@@ -1286,16 +1477,21 @@ _dist_database = (dir, vendor) ->
   gulp.src ["src/#{dir}/resources/dist_database/**/*.{json,meta,png}"]
     .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{vendor.toLowerCase()}/#{dir.toLowerCase()}"
 
-
 # build presets file to dist folder
-_dist_presets = (dir, PLID) ->
+# callback(file) optional, provide per preset mapping filepath.
+_dist_presets = (dir, PLID, callback) ->
   presets = "src/#{dir}/presets"
   mappings = "./src/#{dir}/mappings"
   dist = "dist/#{dir}/User Content/#{dir}"
-  mapping = _serialize require "#{mappings}/default.json"
+  defaultMapping = undefined
+  unless _.isFunction callback
+    defaultMapping = _serialize require "#{mappings}/default.json"
   pluginId = _serialize PLID
   gulp.src ["#{presets}/**/*.pchk"], read: true
     .pipe data (file) ->
+      mapping = defaultMapping
+      if _.isFunction callback
+        mapping = _serialize require callback file
       riff = builder 'NIKS'
       # NISI chunk -- metadata
       meta = _serialize _require_meta "#{presets}/#{file.relative[..-5]}meta"

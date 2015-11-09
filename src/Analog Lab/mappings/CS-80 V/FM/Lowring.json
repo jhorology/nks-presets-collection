@@ -1,0 +1,127 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Brilliance",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Sub Speed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Sub Vco",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Sub Vca",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Osc2 Square",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "VCF2 Att Lev",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "VCF2 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Chorus Depth",
+      "section": "FX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Delay Wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "VCA1 Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "VCA1 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "VCA2 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "VCA1 Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "VCF1 Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "VCF1 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "VCF1 Att Lev",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "VCF1 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

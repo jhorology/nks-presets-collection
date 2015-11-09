@@ -1,0 +1,127 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "VCF Freq",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "VCF Res",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "LFO1 Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "VCF Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "VCO2 Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "SubOsc/Noise",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "VCF Mode",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "VCO1 Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Chorus dry/wet",
+      "section": "FX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Delay dry/wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "ENV1 Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "ENV1 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "ENV1 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "VCO1 Mod",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "ENV2 Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "ENV2 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "ENV2 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "VCO2 Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

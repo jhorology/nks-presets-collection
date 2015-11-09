@@ -1,0 +1,127 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "VCF Cutoff ",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "VCF Res",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Lfo1 Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Mod Line1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "VCF Env Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Env1 Level 1",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "WaveOsc C Num ",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "MixerPad X ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Chorus Dry-Wet",
+      "section": "FX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Delay Dry-Wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Env2 Time 1",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Env2 Time 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "Env2 Level 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Env2 Time 4",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "Env1 Time 1",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Env1 Time 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Env1 Level 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Env1 Time 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

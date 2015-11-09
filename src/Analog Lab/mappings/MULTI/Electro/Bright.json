@@ -1,0 +1,485 @@
+{
+    "ni8": [
+        [{
+            "autoname": false,
+            "id": 0,
+            "name": "Level",
+            "section": "Master",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 1,
+            "name": "Tune",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 18,
+            "name": "VCF Cutoff ",
+            "section": "PT1 Parm",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 19,
+            "name": "VCF Resonance",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 20,
+            "name": "Lfo Freq",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 21,
+            "name": "Mod Wheel",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 22,
+            "name": "Osc A Freq",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 23,
+            "name": "Mixer OscB",
+            "section": "PT1 Parm",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 24,
+            "name": "VCF Attack",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 25,
+            "name": "VCF Decay",
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 26,
+            "name": "Chorus Dry-Wet",
+            "section": "PT1 FX",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 27,
+            "name": "Delay Dry-Wet",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 28,
+            "name": "VCA Attack",
+            "section": "PT1 Env",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 29,
+            "name": "VCA Decay",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 30,
+            "name": "VCA Sustain",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 31,
+            "name": "VCA Release",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 32,
+            "name": "VCF Attack",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 33,
+            "name": "VCF Decay",
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 34,
+            "name": "VCF Sustain",
+            "section": "PT1 Env",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 35,
+            "name": "VCF Release",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 36,
+            "name": "",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 38,
+            "name": "Cutoff",
+            "section": "PT2 Parm",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 39,
+            "name": "Emphasis",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 40,
+            "name": "Lfo Rate",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 41,
+            "name": "Mod0",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 42,
+            "name": "Level Osc1",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 43,
+            "name": "Level Osc2",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 44,
+            "name": "Width Osc2",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 45,
+            "name": "VCF Decay",
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 46,
+            "name": "Chorus Wet",
+            "section": "PT2 FX",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 47,
+            "name": "Delay Wet",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 48,
+            "name": "VCA Attack",
+            "section": "PT2 Env",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 49,
+            "name": "VCA Decay",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 50,
+            "name": "VCA Sustain",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 51,
+            "name": "Vocal Filter",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 52,
+            "name": "VCF Attack",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 53,
+            "name": "VCF Decay",
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 54,
+            "name": "VCF Sustain",
+            "section": "PT2 Env",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 55,
+            "name": "",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 56,
+            "name": "",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 2111,
+            "name": "Level",
+            "section": "Mix PT1",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2117,
+            "name": "Pan",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2113,
+            "name": "Send A",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2115,
+            "name": "Pre/Post",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2114,
+            "name": "Send B",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2116,
+            "name": "Pre/Post",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 2112,
+            "name": "Level",
+            "section": "Mix PT2",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2122,
+            "name": "Pan",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2118,
+            "name": "Send A",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2120,
+            "name": "Pre/Post",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2119,
+            "name": "Send B",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2121,
+            "name": "Pre/Post",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 2123,
+            "name": "Off/On",
+            "section": "FX A",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2124,
+            "name": "Dry/Wet",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2125,
+            "name": "Param 2",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2126,
+            "name": "Param 3",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2127,
+            "name": "Param 4",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2128,
+            "name": "Param 5",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2129,
+            "name": "Param 6",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2130,
+            "name": "Param 7",
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 2131,
+            "name": "Param 8",
+            "section": "FX A",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 2132,
+            "name": "Off/On",
+            "section": "FX B",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2133,
+            "name": "Dry/Wet",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2134,
+            "name": "Param 2",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2135,
+            "name": "Param 3",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2127,
+            "name": "Param 4",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2137,
+            "name": "Param 5",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2138,
+            "name": "Param 6",
+            "vflag": false
+        }, {
+            "autoname": false,
+            "id": 2139,
+            "name": "Param 7",
+            "vflag": false
+        }],
+        [{
+            "autoname": false,
+            "id": 2140,
+            "name": "Param 8",
+            "section": "FX B",
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }, {
+            "autoname": true,
+            "vflag": false
+        }]
+    ]
+}

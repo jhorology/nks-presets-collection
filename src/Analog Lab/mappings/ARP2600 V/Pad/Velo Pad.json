@@ -1,0 +1,127 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "VCF Freq",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "VCF Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Lfo Speed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Osc3 FM2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Coarse Osc3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "VCF FM2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "Env1 Decay",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Env1 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Chorus Dry/Wet",
+      "section": "FX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Delay Dry/Wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Env2 Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Width Osc1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "Audio2 Vca",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Env2 Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "Env1 Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Env1 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Env1 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Env1 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

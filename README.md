@@ -19,7 +19,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|||||||
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
-|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:||||
+|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 
  1. Image files were not recognized, maybe the reason that plugin name contains '!'.
 
@@ -82,6 +82,7 @@ In case of Serum.
     ```shellscript
     gulp serum-print-default-meta
     ```
+    For some more information, refer to [gulp-nks-rewrite-meta](https://www.npmjs.com/package/gulp-nks-rewrite-meta).
   1. Execute following command to generate meta files in `src/Serum/presets` folder.
      ```shellscript
      gulp serum-generate-meta
@@ -103,7 +104,6 @@ In case of Serum.
   - from Ableton Live rack `.adg` file
     - Please see the example task `analoglab-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script.
-    - I didn't test final `.nksf` file yet.
   - from Bitwig Studio `.bwpreset` file
     - Please see the example task `xpand2-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script.

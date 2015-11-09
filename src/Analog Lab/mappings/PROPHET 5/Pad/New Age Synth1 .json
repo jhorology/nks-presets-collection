@@ -1,0 +1,127 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "VCF Cutoff ",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "VCF Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Lfo Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Mod Wheel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Osc B Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Osc B Fine",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "VCF Env Am",
+      "section": "Param",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "VCF Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Chorus Dry-Wet",
+      "section": "FX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Delay Dry-Wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "VCA Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "VCA Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "VCA Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "VCA Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "VCF Attack",
+      "section": "Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "VCF Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "VCF Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "VCF Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}
