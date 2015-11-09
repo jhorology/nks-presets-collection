@@ -104,15 +104,17 @@
       "name": "4kHz peak",
       "vflag": false
     }, {
+
       "autoname": false,
       "id": 35,
       "name": "8kHz peak",
       "vflag": false
+
     }, {
-      "autoname": false,
-      "id": 36,
-      "name": "",
+
+      "autoname": true,
       "vflag": false
+
     }, {
       "autoname": true,
       "vflag": false

@@ -104,15 +104,19 @@
       "name": "Resonator Cutoff 3",
       "vflag": false
     }, {
+
       "autoname": false,
       "id": 35,
       "name": "Resonator Resonance 3",
       "vflag": false
+
     }, {
+
       "autoname": false,
       "id": 36,
       "name": "Resonator Gain 3",
       "vflag": false
+
     }, {
       "autoname": true,
       "vflag": false

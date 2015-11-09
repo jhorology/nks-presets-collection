@@ -60,7 +60,6 @@
             "autoname": false,
             "id": 23,
             "name": "Level Noise",
-            "section": "PT1 Parm",
             "vflag": false
         }, {
             "autoname": false,
@@ -123,15 +122,15 @@
             "section": "PT1 Env",
             "vflag": false
         }, {
-            "autoname": false,
-            "id": 35,
-            "name": "",
+
+            "autoname": true,
             "vflag": false
+
         }, {
-            "autoname": false,
-            "id": 36,
-            "name": "",
+
+            "autoname": true,
             "vflag": false
+
         }, {
             "autoname": true,
             "vflag": false
@@ -240,15 +239,17 @@
             "section": "PT2 Env",
             "vflag": false
         }, {
+
             "autoname": false,
             "id": 55,
             "name": "VCO2 Mod",
             "vflag": false
+
         }, {
-            "autoname": false,
-            "id": 56,
-            "name": "",
+
+            "autoname": true,
             "vflag": false
+
         }, {
             "autoname": true,
             "vflag": false

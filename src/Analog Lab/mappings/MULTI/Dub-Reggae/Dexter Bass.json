@@ -60,7 +60,6 @@
             "autoname": false,
             "id": 23,
             "name": "VCF FM2",
-            "section": "PT1 Parm",
             "vflag": false
         }, {
             "autoname": false,
@@ -123,15 +122,17 @@
             "section": "PT1 Env",
             "vflag": false
         }, {
+
             "autoname": false,
             "id": 35,
             "name": "Env1 Release",
             "vflag": false
+
         }, {
-            "autoname": false,
-            "id": 36,
-            "name": "",
+
+            "autoname": true,
             "vflag": false
+
         }, {
             "autoname": true,
             "vflag": false
@@ -240,15 +241,15 @@
             "section": "PT2 Env",
             "vflag": false
         }, {
-            "autoname": false,
-            "id": 55,
-            "name": "",
+
+            "autoname": true,
             "vflag": false
+
         }, {
-            "autoname": false,
-            "id": 56,
-            "name": "",
+
+            "autoname": true,
             "vflag": false
+
         }, {
             "autoname": true,
             "vflag": false

@@ -104,15 +104,25 @@
       "name": "<%=name[17]%>",
       "vflag": false
     }, {
+<% if (name[18] && name[18].length) { %>
       "autoname": false,
       "id": 35,
       "name": "<%=name[18]%>",
       "vflag": false
+<% } else { %>
+      "autoname": true,
+      "vflag": false
+<% } %>
     }, {
+<% if (name[19] && name[19].length) { %>
       "autoname": false,
       "id": 36,
       "name": "<%=name[19]%>",
       "vflag": false
+<% } else { %>
+      "autoname": true,
+      "vflag": false
+<% } %>
     }, {
       "autoname": true,
       "vflag": false

@@ -104,15 +104,17 @@
       "name": "VCF1 Att Lev",
       "vflag": false
     }, {
+
       "autoname": false,
       "id": 35,
       "name": "VCF1 Release",
       "vflag": false
+
     }, {
-      "autoname": false,
-      "id": 36,
-      "name": "",
+
+      "autoname": true,
       "vflag": false
+
     }, {
       "autoname": true,
       "vflag": false

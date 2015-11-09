@@ -104,15 +104,17 @@
       "name": "Env1 Sustain",
       "vflag": false
     }, {
+
       "autoname": false,
       "id": 35,
       "name": "Env1 Release",
       "vflag": false
+
     }, {
-      "autoname": false,
-      "id": 36,
-      "name": "",
+
+      "autoname": true,
       "vflag": false
+
     }, {
       "autoname": true,
       "vflag": false

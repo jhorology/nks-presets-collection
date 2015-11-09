@@ -60,7 +60,6 @@
             "autoname": false,
             "id": 23,
             "name": "<%=name[6]%>",
-            "section": "PT1 Parm",
             "vflag": false
         }, {
             "autoname": false,
@@ -123,15 +122,25 @@
             "section": "PT1 Env",
             "vflag": false
         }, {
+<% if (name[18] && name[18].length) { %>
             "autoname": false,
             "id": 35,
             "name": "<%=name[18]%>",
             "vflag": false
+<% } else { %>
+            "autoname": true,
+            "vflag": false
+<% } %>
         }, {
+<% if (name[19] && name[19].length) { %>
             "autoname": false,
             "id": 36,
             "name": "<%=name[19]%>",
             "vflag": false
+<% } else { %>
+            "autoname": true,
+            "vflag": false
+<% } %>
         }, {
             "autoname": true,
             "vflag": false
@@ -240,15 +249,25 @@
             "section": "PT2 Env",
             "vflag": false
         }, {
+<% if (name[38] && name[38].length) { %>
             "autoname": false,
             "id": 55,
             "name": "<%=name[38]%>",
             "vflag": false
+<% } else { %>
+            "autoname": true,
+            "vflag": false
+<% } %>
         }, {
+<% if (name[39] && name[39].length) { %>
             "autoname": false,
             "id": 56,
             "name": "<%=name[39]%>",
             "vflag": false
+<% } else { %>
+            "autoname": true,
+            "vflag": false
+<% } %>
         }, {
             "autoname": true,
             "vflag": false
