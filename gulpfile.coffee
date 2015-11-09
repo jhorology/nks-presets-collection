@@ -220,6 +220,7 @@ from
 where
   t3.CtrlID < 20
   and t0.MultiName = $MultiName
+order by Priority
 '''
     # SQL query for multi mappings
     query_multi_controls_assignments: '''
@@ -320,16 +321,22 @@ gulp.task 'clean', (cb) ->
 gulp.task 'dist', [
   'velvet-dist'
   'serum-dist'
+  'xpand2-dist'
+  'analoglab-dist'
 ]
 
 gulp.task 'deploy', [
   'velvet-deploy'
   'serum-deploy'
+  'xpand2-deploy'
+  'analoglab-deploy'
 ]
 
 gulp.task 'release', [
   'velvet-release'
   'serum-release'
+  'xpand2-release'
+  'analoglab-release'
 ]
 
 # Air Music Technology Velvet
