@@ -110,7 +110,7 @@ In case of Serum.
     - It may doesn't work on windows, because using shell script '[bwpreset2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/bwpreset2pchk)'.
 
 - How to auto generate meta information.
-  - Many plugin vendor using [SQLite](https://www.sqlite.org/) databse for own plugin browser.  
+  - Many plugin vendors use [SQLite](https://www.sqlite.org/) database for own plugin browser.  
   - Please see the example task `serum-generate-meta` and `analoglab-generate-meta`.
 
 ### What is NKSF File (Unofficial)
