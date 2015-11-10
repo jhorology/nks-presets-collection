@@ -93,20 +93,39 @@ In case of Serum.
      gulp serum-deploy-presets
      ```
 
+### How-to
+
 - How to automate saving preset in Komplete Kontrol.
   - I'm using [Keybord Maestro](https://www.keyboardmaestro.com). Example macro files exits in `src/Velvet/macros` and `src/Serum/macros`.
   - Caution, executing macro without adjusting mouse positions is very danger.
-
 
 - How to rip raw preset files.
   - from Komplete Kontrol `.nksf` file
     - Please see the example task `velvet-extract-raw-presets`.
   - from Ableton Live rack `.adg` file
     - Please see the example task `analoglab-extract-raw-presets`.
-    - It may doesn't work on windows, because using shell script.
+    - It may doesn't work on windows, because using shell script '[adg2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/adg2pchk)'.
   - from Bitwig Studio `.bwpreset` file
     - Please see the example task `xpand2-extract-raw-presets`.
-    - It may doesn't work on windows, because using shell script.
+    - It may doesn't work on windows, because using shell script '[bwpreset2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/bwpreset2pchk)'.
+
+- How to auto generate meta information.
+  - Many plugin vendor using [SQLite](https://www.sqlite.org/) databse for own plugin browser.  
+  - Please see the example task `serum-generate-meta` and `analoglab-generate-meta`.
+
+### What is NKSF File (Unofficial)
+NKSF file is the only type of [RIFF](https://msdn.microsoft.com/en-us/library/windows/desktop/dd798636(v=vs.85).aspx) (Resource Interchange File Format). File has 4 chunks inside.
+```
+  - NISI  (Native Insutrumen Summury Information)
+  - NICA  (Native Insutrumen Controller Assignments)
+  - PLID  (Plugin ID)
+  - PCHK  (Plugin Chunk)
+ ```
+*naming is my guess.
+
+It seems that first 3 chunks are using same object encoding method. My solution '[nks-json](https://www.npmjs.com/package/nks-json)' can exchange bidrectional between JSON and chunk.
+
+PCHK chunk is the only pluginstates.
 
 ## License
 
