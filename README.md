@@ -117,7 +117,7 @@ In case of Serum.
 ### What is NKSF File (Unofficial)
 NKSF file is the only type of [RIFF](https://msdn.microsoft.com/en-us/library/windows/desktop/dd798636(v=vs.85).aspx) (Resource Interchange File Format). File has 4 chunks inside.
 ```
-  - NISI  (Native Instruments Summury Information)
+  - NISI  (Native Instruments Summary Information)
   - NICA  (Native Instruments Controller Assignments)
   - PLID  (Plugin ID)
   - PCHK  (Plugin Chunk)
