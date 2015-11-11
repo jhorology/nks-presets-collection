@@ -109,6 +109,8 @@ In case of Serum.
     - Please see the example task `xpand2-extract-raw-presets`.
     - It may doesn't work on windows, because using shell script '[bwpreset2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/bwpreset2pchk)'.
 
+  - For some more information, refer to [gulp-riff-extractor](https://www.npmjs.com/package/gulp-riff-extractor).
+
 - How to auto generate meta information.
   - Many plugin vendors use [SQLite](https://www.sqlite.org/) database for own plugin browser.  
   - Please see the example task `serum-generate-meta` and `analoglab-generate-meta`.
