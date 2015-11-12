@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "45d99f03-be1c-4aa3-af75-5c423ce1e883",
+  "uuid": "97c6e109-2ea7-4015-986c-9c2df67919fe",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "15 A200 Clean Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

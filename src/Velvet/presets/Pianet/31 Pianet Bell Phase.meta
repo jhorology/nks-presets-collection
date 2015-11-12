@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d04249f2-e7d2-477f-9148-87ecb1038f27",
+  "uuid": "b995c2d6-7d23-4285-9bb0-abc12664190e",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "31 Pianet Bell Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

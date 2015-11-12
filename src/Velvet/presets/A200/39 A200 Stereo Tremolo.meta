@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0b3e6c66-8891-4a4b-a0f5-a4f4c89bb43f",
+  "uuid": "921acb62-f752-4922-9c02-0ff0788b641e",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "39 A200 Stereo Tremolo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

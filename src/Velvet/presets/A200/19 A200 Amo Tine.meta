@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eeb0b9fb-6db8-4667-b337-94be83c11bf8",
+  "uuid": "b7901b14-0a0c-4d1b-8367-e0e1bc80149d",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "19 A200 Amo Tine",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

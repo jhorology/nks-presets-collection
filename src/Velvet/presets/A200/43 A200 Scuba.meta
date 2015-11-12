@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fa09ec8a-fc20-4e1e-afd3-fa781481291c",
+  "uuid": "8e21c6e5-5140-4475-a800-2c0b0b222e08",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "43 A200 Scuba",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

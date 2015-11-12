@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aca572d5-b821-4023-be99-85cd1fae070c",
+  "uuid": "cb158a12-8e1a-4179-ba78-0f57da141e85",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "05 SC73 Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

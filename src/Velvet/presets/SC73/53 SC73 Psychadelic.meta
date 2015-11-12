@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6c805ed7-8bc6-4ae8-ae24-597e85cae7ea",
+  "uuid": "97a72704-4b0b-41e2-8357-d78884b7dd70",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "53 SC73 Psychadelic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

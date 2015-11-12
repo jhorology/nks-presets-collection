@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b141b82e-526c-4d8e-83ec-5b0e4db88c4d",
+  "uuid": "91e56ecd-b45a-444f-9d87-8fccee95a828",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "20 MKI Echo Trem",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

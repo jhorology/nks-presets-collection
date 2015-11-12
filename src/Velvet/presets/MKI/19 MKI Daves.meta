@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c614c1d6-5074-4af6-a9e5-60ed92f8a5e2",
+  "uuid": "a601a544-2c6d-4f9c-82b6-9a4b9771a5de",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "19 MKI Daves",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9537cda5-62e4-4635-9de0-09bc174026db",
+  "uuid": "5ff454b1-8329-4dea-9cdc-93efaa73a6a8",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "30 MKII Phasing Ring Mix",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

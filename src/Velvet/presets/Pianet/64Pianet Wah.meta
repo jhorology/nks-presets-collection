@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "16b3212c-0334-4901-b341-a60a459d7f5d",
+  "uuid": "3f88c44a-8962-4897-9016-030f63b1bb91",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "64Pianet Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

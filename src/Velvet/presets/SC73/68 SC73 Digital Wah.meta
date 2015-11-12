@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1cba8f6e-a20e-4118-b33e-a52f7cc6de74",
+  "uuid": "dc0096a7-4723-4960-a608-afed38c3c861",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "68 SC73 Digital Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

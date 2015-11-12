@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d268feee-f721-4353-ad65-da0d8c7063ba",
+  "uuid": "bb065cd5-5db4-4e80-9ad0-d6e03cd31d85",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "47 MKII Warm Pad",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

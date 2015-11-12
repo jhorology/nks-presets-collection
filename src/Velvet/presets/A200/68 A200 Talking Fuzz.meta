@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6963f003-880d-4ff3-9c35-55b900c8f235",
+  "uuid": "9bbbdc6d-19b0-4d12-b56b-b4ab01a56d6a",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "68 A200 Talking Fuzz",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

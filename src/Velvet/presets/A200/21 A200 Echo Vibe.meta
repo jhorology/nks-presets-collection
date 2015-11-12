@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e5e8f914-b9ac-46b6-a03d-046f3e1f9179",
+  "uuid": "3a05ba84-4a14-4251-bab8-d24d974a0876",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "21 A200 Echo Vibe",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

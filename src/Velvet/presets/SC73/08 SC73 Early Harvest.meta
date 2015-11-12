@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c87f2517-f69a-402d-bf35-dbb1b5b965aa",
+  "uuid": "b05e60c5-63a5-4409-8535-0ef7dbbb4f8d",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "08 SC73 Early Harvest",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

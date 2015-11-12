@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7c3f24e0-7c1a-4728-bbf3-0e3c8bbb9083",
+  "uuid": "ee177e9d-99f8-432f-9f3e-f80b93f5426c",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "25 A200 Slow Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

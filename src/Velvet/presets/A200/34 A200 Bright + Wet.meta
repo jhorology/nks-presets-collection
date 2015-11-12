@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "97c7d0c1-f345-4098-9e2d-c3fc52ca289d",
+  "uuid": "82a27594-7bc7-4cb8-baa2-05b8e1a48fcf",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "34 A200 Bright + Wet",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

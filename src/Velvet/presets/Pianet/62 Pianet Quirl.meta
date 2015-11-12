@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b06d32c3-7368-4394-9c1f-cabe454cc432",
+  "uuid": "db7d6747-dc26-4d69-aa7c-5bfcf6beb680",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "62 Pianet Quirl",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

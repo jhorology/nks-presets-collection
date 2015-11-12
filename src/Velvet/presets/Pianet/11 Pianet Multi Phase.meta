@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "097a4232-a11d-4c2b-8660-a111e2be55b7",
+  "uuid": "d20efb79-4d78-464d-8433-ab5587d274f3",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "11 Pianet Multi Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "48dc9085-a679-472e-a12a-bde0e94a5f2b",
+  "uuid": "39dce179-7501-4a79-9853-5ee28d4057b4",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "22 MKI Swirly Phaze",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "6eb065c5-e6cc-4f8e-8269-e9d0ede2dfa9",
+  "uuid": "d635193d-f6c4-43ff-9e1e-332d901584bb",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "45 MKII Majestic Flange",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

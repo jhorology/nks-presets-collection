@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d619d56f-ed6e-4627-b7fb-90911dc1e205",
+  "uuid": "b7d12c48-e95b-48c1-a4d4-a0272c76a218",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "27 SC73 Belly",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

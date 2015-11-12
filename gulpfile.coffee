@@ -387,14 +387,13 @@ gulp.task 'velvet-generate-meta', ->
         vendor: $.Velvet.vendor
         uuid: uuid.v4()
         types: [
-          ["Piano/Keys"]
           ["Piano/Keys", "Electric Piano"]
         ]
-        modes: [folder]
+        modes: ['Sample Based']
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Velvet', 'Velvet Factory', '']
+        bankchain: ['Velvet', folder, '']
         author: ''
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json

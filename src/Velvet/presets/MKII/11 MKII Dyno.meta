@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ecd4135b-c2c2-45a6-9f83-013b15328d10",
+  "uuid": "348376d3-781f-44af-83ca-56e7bff73965",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "11 MKII Dyno",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

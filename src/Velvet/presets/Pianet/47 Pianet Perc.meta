@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "492bee6c-0013-420f-a582-a002c537552b",
+  "uuid": "7ceb4b09-7b2c-4531-a81c-8cc858ccb4df",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "47 Pianet Perc",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

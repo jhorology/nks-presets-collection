@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "d6ec705e-da19-439e-9645-f3b0106302cc",
+  "uuid": "17a3509f-2c26-40c3-8fb1-ae132244efc6",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "35 A200 Pre Amped",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

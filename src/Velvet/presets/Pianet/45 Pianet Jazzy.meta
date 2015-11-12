@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7cd08755-3e14-44db-ab96-64b32ef07bc0",
+  "uuid": "480000d7-f07e-48e3-8c9d-6b246dd71303",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "45 Pianet Jazzy",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

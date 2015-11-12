@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "481bba74-5f47-4558-b9ea-4fa3ab935328",
+  "uuid": "d933a494-b546-4a01-97fb-16e0fe94928b",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "56 MKI Rock Dynamic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

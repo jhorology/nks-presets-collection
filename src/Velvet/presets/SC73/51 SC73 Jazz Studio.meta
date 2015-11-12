@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7ef90b24-60f3-42b4-8d75-cd2a5720a656",
+  "uuid": "246cc163-9027-4fa8-b778-a5ee6bc5fd66",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "51 SC73 Jazz Studio",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

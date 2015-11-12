@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "78141269-2d5c-4ede-a96c-5f8f887b6d9f",
+  "uuid": "4ad64829-6c2c-4aeb-9603-0593d7a109f1",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "58 A200 Flanger Enriched",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

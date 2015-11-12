@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "17cb50a7-3abe-4284-9608-bb57089d682f",
+  "uuid": "8068e46a-8736-46f8-9b06-f3cb10a4b5cd",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "43 Pianet Echo",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

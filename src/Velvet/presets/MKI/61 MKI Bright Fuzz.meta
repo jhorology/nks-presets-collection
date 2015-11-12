@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "5d6e7d61-4a0f-4d36-aab3-4014a298d0cb",
+  "uuid": "7e1167b0-2c67-4ebd-b8c3-7221a4ebe849",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "61 MKI Bright Fuzz",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

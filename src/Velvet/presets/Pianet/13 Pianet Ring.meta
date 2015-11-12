@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b1693821-8523-497f-8e3e-dac79275c1e9",
+  "uuid": "eb21f7b6-271a-4237-95e1-80ca87b5d682",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "13 Pianet Ring",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "a0943676-a5c2-44a9-a0ce-fad62f013cdd",
+  "uuid": "6deffce3-d506-45e8-a975-74985106fcd7",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "50 A200 Tape Slapback",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c284419c-a361-432c-97f3-6cbd2a46aba0",
+  "uuid": "0361a0fc-4e67-4fca-a34b-2c505c678601",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "52 SC73 Open For Repairs",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

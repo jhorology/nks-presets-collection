@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cf737c1c-1d18-40a5-80bd-2b7ade99575e",
+  "uuid": "771919a1-8112-4165-b5b9-4fdd1bb5135f",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "67 A200 Sustained",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

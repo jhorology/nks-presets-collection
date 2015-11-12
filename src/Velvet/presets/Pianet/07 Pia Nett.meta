@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "655aa735-52a1-47da-9931-940c0fd3d5a4",
+  "uuid": "7233090a-68c2-4884-99fb-03e14ca1aafe",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "07 Pia Nett",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

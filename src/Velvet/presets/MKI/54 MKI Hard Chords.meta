@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "916fe1d4-42b9-430e-9141-42aaeecde992",
+  "uuid": "cbfd8bde-e6fa-4f94-a533-126e98d2daad",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "54 MKI Hard Chords",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

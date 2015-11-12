@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "7acf8a1c-a5ec-4886-8e47-cb11986b58a6",
+  "uuid": "9bcb5683-c07f-4957-b5f2-43a27164e91a",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "22 SC73 Fosterized",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

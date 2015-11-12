@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f4e617ab-4d5a-48e2-b702-e5733fbbf954",
+  "uuid": "aa8f1081-42cf-449c-85ad-4a9bf1fc59c1",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "60 MKII Just This One",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

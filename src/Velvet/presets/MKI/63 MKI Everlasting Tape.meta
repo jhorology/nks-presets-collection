@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fe0bb15f-f6d7-4c3c-bf9b-89e746ae99df",
+  "uuid": "ca04bfb8-3e82-4407-9652-dba4daa99efa",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "63 MKI Everlasting Tape",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

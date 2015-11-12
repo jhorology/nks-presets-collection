@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "02e8bc4f-618a-4071-8d5c-480a71638765",
+  "uuid": "d536da29-a906-4a43-a5e2-d7d96855af2b",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "55 Pianet Dist Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

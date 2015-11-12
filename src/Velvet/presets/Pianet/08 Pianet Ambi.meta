@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "c86cd6d3-04a7-4733-9aef-dce427f065ad",
+  "uuid": "046a71a2-418a-43d9-8d57-a8c1d7b7409e",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "08 Pianet Ambi",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

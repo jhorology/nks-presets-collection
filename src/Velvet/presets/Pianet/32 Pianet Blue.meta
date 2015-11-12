@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "29b77ee2-477f-4213-b3bd-0c3fcd81f4d8",
+  "uuid": "73b489db-dd2a-4499-bf2b-8b9e4c2a4e5a",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "32 Pianet Blue",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

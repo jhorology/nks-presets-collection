@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "4513a671-ef4f-46ab-8652-f474c960df2b",
+  "uuid": "adc6398e-41b3-40ad-9a99-6f97979931cc",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "48 A200 Wanderer",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fb3b188b-561e-4c36-9ffb-2ca27ee34346",
+  "uuid": "9b0296d5-2bb2-476a-b0a0-a80aed316275",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "08 MKI Studio Phaser",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

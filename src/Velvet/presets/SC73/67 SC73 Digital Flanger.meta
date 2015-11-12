@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "84f7811c-e813-409e-8173-5c889c500a73",
+  "uuid": "dd455ebf-0a76-424b-ae69-2abb6ae4407a",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "67 SC73 Digital Flanger",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "77bc3fb3-62ad-4d95-9990-15347b24a706",
+  "uuid": "e0680c27-b0a3-485d-bf6b-d5a08ad34587",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "23 MKI Vintage",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

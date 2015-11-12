@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "439e4532-2a22-4808-8bcb-3c1f1eea4508",
+  "uuid": "f769cf4f-3b68-462d-9aed-07e75f93b845",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "13 MKII Feedback Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

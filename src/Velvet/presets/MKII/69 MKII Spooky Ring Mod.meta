@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "3b271f66-2b82-45ca-980f-667d018c45c9",
+  "uuid": "0b7e8606-a04d-466d-b57d-438738cfc632",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "69 MKII Spooky Ring Mod",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

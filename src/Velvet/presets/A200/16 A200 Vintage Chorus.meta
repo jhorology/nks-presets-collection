@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "509183e1-52e3-405d-817f-646bd6190d98",
+  "uuid": "9f752e82-381e-47cc-9d00-b1866fd75592",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "16 A200 Vintage Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

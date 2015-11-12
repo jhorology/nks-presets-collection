@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "654d254a-ab0d-41e1-843c-cfdb88ac9fb5",
+  "uuid": "9b5e7e57-ed83-4cd1-adf4-0243c68dbf51",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "67 Pianet Git",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

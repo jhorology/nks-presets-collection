@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "741f7703-402d-4791-8ec1-36348e1a9029",
+  "uuid": "99acd802-3bbd-4c02-b9c6-9af90ed338c0",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "66 Pianet Super Dynamic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

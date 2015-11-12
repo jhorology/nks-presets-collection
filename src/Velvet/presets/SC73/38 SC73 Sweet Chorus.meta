@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "b16ddc78-2553-408a-b1ff-3191d68e217e",
+  "uuid": "2037c7ec-b9cf-41aa-a4ba-cff44b2f86ff",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "38 SC73 Sweet Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "9099bbe9-7848-445d-82f0-d9a63b26fb56",
+  "uuid": "59f37d72-eb8d-4304-bc71-00377600426c",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "06 MKII Tine Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

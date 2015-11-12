@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "27991c49-bdc8-4284-978a-0450e0063865",
+  "uuid": "7af81446-7406-48c2-b760-bad486a2b589",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "61 Pianet Spring",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

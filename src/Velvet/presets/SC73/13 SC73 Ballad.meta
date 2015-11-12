@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "07de4d81-eda3-464f-9d0e-62ac5f255d8c",
+  "uuid": "db4c9c9d-1474-449f-8314-9986aa5b3319",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["SC73"],
+  "modes": ["Sample Based"],
   "name": "13 SC73 Ballad",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "SC73", ""],
   "author": ""
 }

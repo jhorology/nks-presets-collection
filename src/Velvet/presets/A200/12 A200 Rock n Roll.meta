@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "ddbed8e8-7ba8-4279-8fdb-f03b165796b5",
+  "uuid": "af5c5dd1-afc4-4f3f-af53-420a53862781",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "12 A200 Rock n Roll",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

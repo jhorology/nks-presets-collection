@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "2355f71d-8b93-46e5-8f99-4f54185b3571",
+  "uuid": "d5bb9ddb-b0bf-47ed-9c5c-1b0ea489dfcd",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "25 MKII Woody",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

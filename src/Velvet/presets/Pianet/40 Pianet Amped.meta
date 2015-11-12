@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "e7a464fe-aa1c-49dc-bc1d-77419979e997",
+  "uuid": "f3ade059-f56d-48bf-95e9-1f8e9fe6a0a9",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "40 Pianet Amped",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "70fc848a-b07a-4a74-b68c-50592157d991",
+  "uuid": "722aa45e-ea10-49a1-a2ba-cae4441418bc",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "33 A200 Poly Synth",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

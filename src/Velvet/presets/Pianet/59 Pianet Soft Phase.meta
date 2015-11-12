@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "cd96d603-094c-425f-9655-d59e19a9238f",
+  "uuid": "e913bc48-688e-4399-a15d-08c7c98f3c21",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "59 Pianet Soft Phase",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

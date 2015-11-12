@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "df38c648-2746-40f1-8171-90797664476e",
+  "uuid": "b68dc7e8-f6d7-4f4a-b2ab-fcb36cdb6f21",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "46 MKII Deep Auto Wah",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

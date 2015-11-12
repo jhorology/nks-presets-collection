@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aa89acf4-6140-425d-8664-83fa2a903b32",
+  "uuid": "4e21f785-4773-4120-b1d7-7cb3f19ce462",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "15 MKII Trem-Mu-Plex",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

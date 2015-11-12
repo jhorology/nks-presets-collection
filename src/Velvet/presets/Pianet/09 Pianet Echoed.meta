@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "09e10a79-0c94-4d80-a8f9-743ae86a3006",
+  "uuid": "2639a3a1-3a33-46b5-814d-d33e5d6de634",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "09 Pianet Echoed",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

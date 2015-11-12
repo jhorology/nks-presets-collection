@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "f1819351-61ff-4878-bfaa-227d41e2f311",
+  "uuid": "5be85e6c-b94f-4f34-ab86-c13eac31b0be",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "44 MKII Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "1b85408c-ad63-451d-abe4-0fc481361b2c",
+  "uuid": "0ba4c4a5-9cfc-4d03-b26d-30df82d0111d",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "31 MKI Vin",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

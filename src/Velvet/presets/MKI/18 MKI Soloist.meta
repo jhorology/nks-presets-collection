@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "fcddf453-1334-41c3-a2ac-9dd168ea96d6",
+  "uuid": "9ccdcdc3-9ffd-462e-a490-36b3115b1e42",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "18 MKI Soloist",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

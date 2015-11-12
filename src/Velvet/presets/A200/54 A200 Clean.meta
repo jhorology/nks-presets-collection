@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "81ca055c-303c-4dbf-a316-22dd9d450895",
+  "uuid": "7ddca093-9f02-4175-b7e1-a6c20efc73a1",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "54 A200 Clean",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

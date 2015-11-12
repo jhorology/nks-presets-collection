@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "467a0700-d020-4c6b-94d3-6f89f509b91e",
+  "uuid": "be93d9e2-2031-43ac-9aa9-7de9667da2bd",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "57 Pianet Phase Delay",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

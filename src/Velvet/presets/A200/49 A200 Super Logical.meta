@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "78c026e4-5ac1-4a53-a756-450a9bfd23b2",
+  "uuid": "0cb02420-2d9a-4854-ae5e-8cec661e18ee",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["A200"],
+  "modes": ["Sample Based"],
   "name": "49 A200 Super Logical",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "A200", ""],
   "author": ""
 }

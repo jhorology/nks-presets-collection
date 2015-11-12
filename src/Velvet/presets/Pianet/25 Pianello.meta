@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "55c650d3-32e9-4d7a-bac5-1e8c899efeee",
+  "uuid": "5df8bfab-fd32-4aad-9fb8-a03625cc62ba",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "25 Pianello",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

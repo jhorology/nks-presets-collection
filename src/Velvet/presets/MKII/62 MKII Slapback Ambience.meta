@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "27f5b665-ba2e-4e9b-9e58-00a8649b23c5",
+  "uuid": "88d168dc-11ec-4b65-9567-fa9335483bc1",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "62 MKII Slapback Ambience",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

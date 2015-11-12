@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "14fe51cc-308d-458e-a9cc-a7ab0862c22f",
+  "uuid": "b872c3e0-96c5-469e-bd6e-11d59fb5bc8a",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKI"],
+  "modes": ["Sample Based"],
   "name": "51 MKI Gentle Phaser",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKI", ""],
   "author": ""
 }

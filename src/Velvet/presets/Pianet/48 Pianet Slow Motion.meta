@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "0decacd7-86f5-45a9-90ce-ad61c7bec24b",
+  "uuid": "cdd722a0-2a54-42d3-83d2-b72bed69b67a",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "48 Pianet Slow Motion",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

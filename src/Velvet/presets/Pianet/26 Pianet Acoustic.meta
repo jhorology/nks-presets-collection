@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "87152a6b-6465-41bf-b388-9cf3aa7f1a07",
+  "uuid": "8110b81c-0952-43fc-b7f2-e96414938c62",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "26 Pianet Acoustic",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

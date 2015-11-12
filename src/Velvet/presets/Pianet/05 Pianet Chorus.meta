@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "08676dbb-a02b-4cc8-8840-b575fe903af2",
+  "uuid": "c2e57d1d-78fe-4b0a-bcb5-4c3f1e62f1da",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "05 Pianet Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

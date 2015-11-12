@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "552dc69d-93d8-4383-b3ef-b6d6fe319961",
+  "uuid": "dff37521-a2d9-47bd-93d6-d920c56751c3",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "65 Pianet Wahser",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

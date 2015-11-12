@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "eb605ce1-1c9e-44f5-a3e9-09df7152c133",
+  "uuid": "f124b87e-538a-4def-86ac-1f48d43fd59f",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "37 MKII Balladesque",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

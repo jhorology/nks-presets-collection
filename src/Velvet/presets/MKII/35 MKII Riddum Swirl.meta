@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "aa9f0a67-8172-44f6-ab1c-e1079c010e7c",
+  "uuid": "faea15b0-cfb8-4680-b577-861e0a464da8",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["MKII"],
+  "modes": ["Sample Based"],
   "name": "35 MKII Riddum Swirl",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "MKII", ""],
   "author": ""
 }

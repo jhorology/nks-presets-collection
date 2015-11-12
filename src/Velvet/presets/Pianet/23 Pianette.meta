@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "76375ce5-aa39-490c-afac-da5f92305180",
+  "uuid": "8b61d664-0548-41bc-bf38-282cefcbc1e5",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "23 Pianette",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }

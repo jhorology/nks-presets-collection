@@ -1,14 +1,13 @@
 {
   "vendor": "Air Music Technology",
-  "uuid": "335204b7-a8b1-40b9-82a5-fde25031ecd7",
+  "uuid": "b9b7d3f7-8de5-4116-914b-4660f32d9b4b",
   "types": [
-    ["Piano/Keys"],
     ["Piano/Keys", "Electric Piano"]
   ],
-  "modes": ["Pianet"],
+  "modes": ["Sample Based"],
   "name": "06 Pianet Tine Chorus",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Velvet", "Velvet Factory", ""],
+  "bankchain": ["Velvet", "Pianet", ""],
   "author": ""
 }
