@@ -80,5 +80,5 @@ class RIFFBuilder
     @
 
   _padding: (value) ->
-    @_push new Buffer 1
+    @_push new Buffer [0]
     @

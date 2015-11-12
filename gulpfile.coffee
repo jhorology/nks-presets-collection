@@ -307,7 +307,7 @@ gulp.task 'coffeelint', ->
 gulp.task 'coffee', ['coffeelint'], ->
   gulp.src ["lib/*.coffee"]
     .pipe coffee()
-    .pipe gulp.dest $.lib
+    .pipe gulp.dest 'lib'
 
 gulp.task 'clean', (cb) ->
   del [
