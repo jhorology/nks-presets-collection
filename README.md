@@ -124,7 +124,7 @@ NKSF file is the only type of [RIFF](https://msdn.microsoft.com/en-us/library/wi
  ```
 *naming is my guess.
 
-It seems that first 3 chunks are encoded using same object encoding method. My solution '[nks-json](https://www.npmjs.com/package/nks-json)' can exchange bidirectional between JSON and chunk. PCHK chunk is the only pluginstates.
+It seems that first 3 chunks are encoded using [MessagePack](http://msgpack.org). PCHK chunk is the only pluginstates.
 
 ## License
 
