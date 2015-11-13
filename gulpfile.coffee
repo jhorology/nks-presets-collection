@@ -1,3 +1,4 @@
+assert      = require 'assert'
 path        = require 'path'
 fs          = require 'fs'
 _           = require 'underscore'
@@ -13,7 +14,7 @@ changed     = require 'gulp-changed'
 data        = require 'gulp-data'
 exec        = require 'gulp-exec'
 zip         = require 'gulp-zip'
-nks         = require 'nks-json'
+msgpack     = require 'msgpack-lite'
 builder     = require './lib/riff-builder'
 beautify    = require 'js-beautify'
 uuid        = require 'uuid'
@@ -23,6 +24,7 @@ $ =
   # buld environment & misc settings
   #-------------------------------------------
   release: "#{process.env.HOME}/Dropbox/Share/NKS Presets"
+  chunkVer: 1
   json_indent: 2
   # gulp-exec options
   execOpts:
@@ -58,16 +60,14 @@ $ =
   Velvet:
     dir: 'Velvet'
     vendor: 'Air Music Technology'
-    PLID:
-      "VST.magic": "tvlV"
+    magic: "tvlV"
   #
   # Air Music Technology Xpand!2
   #-------------------------------------------
   Xpand2:
     dir: 'Xpand!2'
     vendor: 'Air Music Technology'
-    PLID:
-      "VST.magic": "2dpX"
+    magic: "2dpX"
 
   #
   # Air Music Technology Loom
@@ -75,8 +75,7 @@ $ =
   Loom:
     dir: 'Loom'
     vendor: 'Air Music Technology'
-    PLID:
-      "VST.magic": "mooL"
+    magic: "mooL"
 
   #
   # Air Music Technology Hybrid
@@ -84,8 +83,7 @@ $ =
   Hybrid:
     dir: 'Hybrid'
     vendor: 'Air Music Technology'
-    PLID:
-      "VST.magic": "drbH"
+    magic: "drbH"
 
   #
   # Air Music Technology Vacuum Pro
@@ -93,8 +91,7 @@ $ =
   VacuumPro:
     dir: 'VacuumPro'
     vendor: 'Air Music Technology'
-    PLID:
-      "VST.magic": "rPcV"
+    magic: "rPcV"
 
   #
   # Air Music Technology Vacuum Pro
@@ -102,8 +99,7 @@ $ =
   theRiser:
     dir: 'theRiser'
     vendor: 'Air Music Technology'
-    PLID:
-      "VST.magic": "rsRt"
+    magic: "rsRt"
 
   #
   # Reveal Sound Spire
@@ -111,8 +107,7 @@ $ =
   Spire:
     dir: 'Spire'
     vendor: 'Reveal Sound'
-    PLID:
-      "VST.magic": "Spir"
+    magic: "Spir"
 
   #
   # Arturia Analog Lab
@@ -120,8 +115,7 @@ $ =
   AnalogLab:
     dir: 'Analog Lab'
     vendor: 'Arturia'
-    PLID:
-      "VST.magic": "ALab"
+    magic: "ALab"
     db: '/Library/Arturia/Analog\ Lab/Labo2.db'
     # SQL query for sound metadata
     query_sounds: '''
@@ -255,8 +249,7 @@ order by
   DiscoveryPro:
     dir: 'DiscoveryPro'
     vendor: 'discoDSP'
-    PLID:
-      "VST.magic": "DPVx"
+    magic: "DPVx"
 
   #
   # u-he Hive
@@ -264,8 +257,7 @@ order by
   Hive:
     dir: 'Hive'
     vendor: 'u-he'
-    PLID:
-      "VST.magic": "hIVE"
+    magic: "hIVE"
 
   #
   # Novation BassStation
@@ -273,8 +265,7 @@ order by
   BassStation:
     dir: 'BassStation'
     vendor: 'Novation'
-    PLID:
-      "VST.magic": "NvB2"
+    magic: "NvB2"
 
   #
   # Xfer Records Serum
@@ -282,8 +273,7 @@ order by
   Serum:
     dir: 'Serum'
     vendor: 'Xfer Records'
-    PLID:
-      'VST.magic': 'XfsX'
+    magic: 'XfsX'
     db: '/Library/Audio/Presets/Xfer\ Records/Serum\ Presets/System/presetdb.dat'
     query: '''
 select
@@ -359,7 +349,7 @@ gulp.task 'velvet-print-default-mapping', ->
   _print_default_mapping $.Velvet.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'velvet-print-plid', ->
+gulp.task 'velvet-print-magic', ->
   _print_plid $.Velvet.dir
 
 # generate default mapping file from _Default.nksf
@@ -424,7 +414,7 @@ gulp.task 'velvet-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'velvet-dist-presets', ->
-  _dist_presets $.Velvet.dir, $.Velvet.PLID
+  _dist_presets $.Velvet.dir, $.Velvet.magic
 
 # check
 gulp.task 'velvet-check-dist-presets', ->
@@ -485,7 +475,7 @@ gulp.task 'xpand2-print-default-mapping', ->
   _print_default_mapping $.Xpand2.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'xpand2-print-plid', ->
+gulp.task 'xpand2-print-magic', ->
   _print_plid $.Xpand2.dir
 
 # generate default mapping file from _Default.nksf
@@ -560,7 +550,7 @@ gulp.task 'xpand2-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'xpand2-dist-presets', ->
-  _dist_presets $.Xpand2.dir, $.Xpand2.PLID
+  _dist_presets $.Xpand2.dir, $.Xpand2.magic
 
 # check
 gulp.task 'xpand2-check-dist-presets', ->
@@ -621,7 +611,7 @@ gulp.task 'loom-print-default-mapping', ->
   _print_default_mapping $.Loom.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'loom-print-plid', ->
+gulp.task 'loom-print-magic', ->
   _print_plid $.Loom.dir
 
 # generate default mapping file from _Default.nksf
@@ -669,7 +659,7 @@ gulp.task 'hybrid-print-default-mapping', ->
   _print_default_mapping $.Hybrid.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'hybrid-print-plid', ->
+gulp.task 'hybrid-print-magic', ->
   _print_plid $.Hybrid.dir
 
 # generate default mapping file from _Default.nksf
@@ -718,7 +708,7 @@ gulp.task 'vacuumpro-print-default-mapping', ->
   _print_default_mapping $.VacuumPro.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'vacuumpro-print-plid', ->
+gulp.task 'vacuumpro-print-magic', ->
   _print_plid $.VacuumPro.dir
 
 # generate default mapping file from _Default.nksf
@@ -767,7 +757,7 @@ gulp.task 'theriser-print-default-mapping', ->
   _print_default_mapping $.theRiser.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'theriser-print-plid', ->
+gulp.task 'theriser-print-magic', ->
   _print_plid $.theRiser.dir
 
 # generate default mapping file from _Default.nksf
@@ -816,7 +806,7 @@ gulp.task 'spire-print-default-mapping', ->
   _print_default_mapping $.Spire.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'spire-print-plid', ->
+gulp.task 'spire-print-magic', ->
   _print_plid $.Spire.dir
 
 # generate default mapping file from _Default.nksf
@@ -865,7 +855,7 @@ gulp.task 'analoglab-print-default-mapping', ->
   _print_default_mapping $.AnalogLab.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'analoglab-print-plid', ->
+gulp.task 'analoglab-print-magic', ->
   _print_plid $.AnalogLab.dir
 
 # generate default mapping file from _Default.nksf
@@ -1075,7 +1065,7 @@ gulp.task 'analoglab-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'analoglab-dist-presets', ->
-  _dist_presets $.AnalogLab.dir, $.AnalogLab.PLID, (file) ->
+  _dist_presets $.AnalogLab.dir, $.AnalogLab.magic, (file) ->
     "./src/#{$.AnalogLab.dir}/mappings/#{file.relative[..-5]}json"
 
 # check
@@ -1137,7 +1127,7 @@ gulp.task 'discoverypro-print-default-mapping', ->
   _print_default_mapping $.DiscoveryPro.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'discoverypro-print-plid', ->
+gulp.task 'discoverypro-print-magic', ->
   _print_plid $.DiscoveryPro.dir
 
 # generate default mapping file from _Default.nksf
@@ -1186,7 +1176,7 @@ gulp.task 'hive-print-default-mapping', ->
   _print_default_mapping $.Hive.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'hive-print-plid', ->
+gulp.task 'hive-print-magic', ->
   _print_plid $.Hive.dir
 
 # generate default mapping file from _Default.nksf
@@ -1235,7 +1225,7 @@ gulp.task 'bassstation-print-default-mapping', ->
   _print_default_mapping $.BassStation.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'bassstation-print-plid', ->
+gulp.task 'bassstation-print-magic', ->
   _print_plid $.BassStation.dir
 
 # generate default mapping file from _Default.nksf
@@ -1283,7 +1273,7 @@ gulp.task 'serum-print-default-mapping', ->
   _print_default_mapping $.Serum.dir
 
 # print plugin id of _Default.nksf
-gulp.task 'serum-print-plid', ->
+gulp.task 'serum-print-magic', ->
   _print_plid $.Serum.dir
 
 # generate default mapping file from _Default.nksf
@@ -1351,7 +1341,7 @@ gulp.task 'serum-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'serum-dist-presets', ->
-  _dist_presets $.Serum.dir, $.Serum.PLID
+  _dist_presets $.Serum.dir, $.Serum.magic
 
 # check
 gulp.task 'serum-check-dist-presets', ->
@@ -1397,17 +1387,37 @@ gulp.task 'serum-release',['serum-dist'], ->
 #
 # utility
 # --------------------------------
-# desrilize to json object
+
+# desrilize to json string
 _deserialize = (file) ->
-  json = nks.deserializer file.contents
-    .deserialize()
+  ver = file.contents.readUInt32LE 0
+  assert.ok (ver is $.chunkVer), "Unsupported chunk format version. version:#{ver}"
+  json = msgpack.decode file.contents.slice 4
   beautify (JSON.stringify json), indent_size: $.json_indent
 
-# desrilize to json object
+# desrilize to magic string
+_deserializeMagic = (file) ->
+  ver = file.contents.readUInt32LE 0
+  assert.ok (ver is $.chunkVer), "Unsupported chunk format version. version:#{ver}"
+  json = msgpack.decode file.contents.slice 4
+  magic = json['VST.magic']
+  buffer = new Buffer 4
+  buffer.writeUInt32BE magic
+  buffer.toString()
+
+# esrilize to PLID chunk
+_serializeMagic = (magic) ->
+  buffer = new Buffer 4
+  buffer.write magic, 0, 4, 'ascii'
+  x = buffer.readUInt32BE 0
+  _serialize
+    "VST.magic": buffer.readUInt32BE 0
+
+# srilize to chunk
 _serialize = (json) ->
-  nks.serializer json
-    .serialize()
-    .buffer()
+  ver = new Buffer 4
+  ver.writeUInt32LE $.chunkVer
+  Buffer.concat [ver, msgpack.encode json]
 
 
 # read JSON file
@@ -1459,7 +1469,8 @@ _print_plid = (dir) ->
       form_type: 'NIKS'
       chunk_ids: ['PLID']
     .pipe data (file) ->
-      console.info _deserialize file
+      magic = _deserializeMagic file
+      console.info "magic: '#{magic}'"
 
 # extract PCHK chunk
 _extract_raw_presets = (srcs, dest) ->
@@ -1485,14 +1496,14 @@ _dist_database = (dir, vendor) ->
 
 # build presets file to dist folder
 # callback(file) optional, provide per preset mapping filepath.
-_dist_presets = (dir, PLID, callback) ->
+_dist_presets = (dir, magic, callback) ->
   presets = "src/#{dir}/presets"
   mappings = "./src/#{dir}/mappings"
   dist = "dist/#{dir}/User Content/#{dir}"
   defaultMapping = undefined
   unless _.isFunction callback
     defaultMapping = _serialize require "#{mappings}/default.json"
-  pluginId = _serialize PLID
+  pluginId = _serializeMagic magic
   gulp.src ["#{presets}/**/*.pchk"], read: true
     .pipe data (file) ->
       mapping = defaultMapping
