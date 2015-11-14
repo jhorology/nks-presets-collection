@@ -865,7 +865,7 @@ gulp.task 'spire-generate-meta', ->
         when basename[0..2] is 'SY '   then 'Synth'
         when basename[0..3] is 'VOC '  then 'Vocal'
         when basename[0..4] is 'WIND ' then 'Winds'
-        when basename[0..2] is 'SN '   then 'Silence'
+        when basename[0..2] is 'SN '   then 'Siren'
         when basename[0..4] is 'Bass ' then 'Bass'
         when basename[0..4] is 'Lead ' then 'Lead'
         when basename[0..4] is 'Chord' then 'Chord'
