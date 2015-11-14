@@ -829,6 +829,62 @@ gulp.task 'spire-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'spire-dist', [
+  'spire-dist-image'
+  'spire-dist-database'
+  'spire-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'spire-dist-image', ->
+  _dist_image $.Spire.dir, $.Spire.vendor
+
+# copy database resources to dist folder
+gulp.task 'spire-dist-database', ->
+  _dist_database $.Spire.dir, $.Spire.vendor
+
+# build presets file to dist folder
+gulp.task 'spire-dist-presets', ->
+  _dist_presets $.Spire.dir, $.Spire.magic
+
+# check
+gulp.task 'spire-check-dist-presets', ->
+  _check_dist_presets $.Spire.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'spire-deploy', [
+  'spire-deploy-resources'
+  'spire-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'spire-deploy-resources', [
+  'spire-dist-image'
+  'spire-dist-database'
+  ], ->
+    _deploy_resources $.Spire.dir
+
+# copy database resources to local environment
+gulp.task 'spire-deploy-presets', [
+  'spire-dist-presets'
+  ] , ->
+    _deploy_presets $.Spire.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'spire-release',['spire-dist'], ->
+  _release $.Spire.dir
+
 # ---------------------------------------------------------------
 # end Reveal Sound Spire
 #
