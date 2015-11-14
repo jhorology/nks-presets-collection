@@ -6,7 +6,7 @@ NKS(Native Kontrol Standard) presets collection
 |----------|:---------:|:---:|:-------:|:------:|:-------:|
 |[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|
-|[Spire](http://www.reveal-sound.com/)|:heavy_check_mark:||||||
+|[Spire](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|||||
 |[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_exclamation_mark:1|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||||||
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:||||||
@@ -22,6 +22,7 @@ NKS(Native Kontrol Standard) presets collection
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|
 
  1. Image files were not recognized, maybe the reason that plugin name contains '!'.
+ 2. Contributed from Kymeia@NI Forum.
 
 ## Build Instructions
 
