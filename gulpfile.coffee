@@ -829,6 +829,74 @@ gulp.task 'spire-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# generate metadata
+gulp.task 'spire-generate-meta', ->
+  presets = "src/#{$.Spire.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = (path.relative presets, path.dirname file.path).split '/'
+      bank = folder[0]
+      type = switch
+        when basename[0..2] is 'AR'   then 'Arpeggiated'
+        when basename[0..3] is 'ARP ' then 'Arpeggiated'
+        when basename[0..2] is 'BA '  then 'Bass'
+        when basename[0..2] is 'CD '  then 'Chord'
+        when basename[0..2] is 'DR '  then 'Drum'
+        when basename[0..2] is 'FX '  then 'FX'
+        when basename[0..2] is 'GT '  then 'Gated'
+        when basename[0..3] is 'KEY ' then 'Keyboard'
+        when basename[0..2] is 'LD '  then 'Lead'
+        when basename[0..2] is 'LV '  then ''
+        when basename[0..2] is 'PD '  then 'Pad'
+        when basename[0..2] is 'PL '  then 'Pluck'
+        when basename[0..3] is 'STR ' then 'Strings'
+        when basename[0..2] is 'SQ '  then 'Sequnce'
+        when basename[0..2] is 'SY '  then 'Synth'
+        else 'Non-Category'
+          
+      author = switch
+        when bank is 'Factory Bank 1'   then 'Reveal Sound'
+        when bank is 'Factory Bank 5'   then folder[1]
+        when basename[-3..] is ' AS'    then 'Adam Szabo'
+        when basename[-3..] is ' AZ'    then 'Aiyn Zahev Sounds'
+        when basename[-4..] is ' IPM'   then 'Ice Planet Music'
+        when basename[-2..] is ' I'     then 'Invader!'
+        when basename[-4..] is ' JRM'   then 'Julian Ray'
+        when basename[-3..] is ' HJ'    then 'Joseph Hollo'
+        when basename[-3..] is ' DP'    then 'Dallaz Project'
+        when basename[-4..] is ' BJP'   then 'Braian John Porter'
+        when basename[-3..] is ' SK'    then 'Serhiy Klimenkov'
+        when basename[-2..] is ' V'     then 'Vullcan'
+        when basename[-4..] is ' MLM'   then 'Mathieu Le Manson'
+        when basename[-6..] is ' AL&RS' then 'Alex Larichev & Rusty Spica'
+        when basename[-3..] is ' eX'    then 'E.SoX'
+        else ''
+      # meta
+      meta =
+        vendor: $.Xpand2.vendor
+        uuid: uuid.v4()
+        types: [
+          # remove first 3 char from folder name.
+          # ex) '01 Soft Pads' -> 'Soft Pads'
+          [type]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['Xpand!2', bank, '']
+        author: author
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Spire.dir}/presets"
+
+
 #
 # build
 # --------------------------------
