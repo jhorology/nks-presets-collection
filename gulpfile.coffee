@@ -313,6 +313,7 @@ gulp.task 'dist', [
   'serum-dist'
   'xpand2-dist'
   'analoglab-dist'
+  'spire-dist'
 ]
 
 gulp.task 'deploy', [
@@ -320,6 +321,7 @@ gulp.task 'deploy', [
   'serum-deploy'
   'xpand2-deploy'
   'analoglab-deploy'
+  'spire-deploy'
 ]
 
 gulp.task 'release', [
@@ -327,6 +329,7 @@ gulp.task 'release', [
   'serum-release'
   'xpand2-release'
   'analoglab-release'
+  'spire-release'
 ]
 
 # Air Music Technology Velvet
@@ -839,21 +842,38 @@ gulp.task 'spire-generate-meta', ->
       folder = (path.relative presets, path.dirname file.path).split '/'
       bank = folder[0]
       type = switch
-        when basename[0..2] is 'AR'   then 'Arpeggiated'
-        when basename[0..3] is 'ARP ' then 'Arpeggiated'
-        when basename[0..2] is 'BA '  then 'Bass'
-        when basename[0..2] is 'CD '  then 'Chord'
-        when basename[0..2] is 'DR '  then 'Drum'
-        when basename[0..2] is 'FX '  then 'FX'
-        when basename[0..2] is 'GT '  then 'Gated'
-        when basename[0..3] is 'KEY ' then 'Keyboard'
-        when basename[0..2] is 'LD '  then 'Lead'
-        when basename[0..2] is 'LV '  then ''
-        when basename[0..2] is 'PD '  then 'Pad'
-        when basename[0..2] is 'PL '  then 'Pluck'
-        when basename[0..3] is 'STR ' then 'Strings'
-        when basename[0..2] is 'SQ '  then 'Sequnce'
-        when basename[0..2] is 'SY '  then 'Synth'
+        when basename[0..3] is 'ATM '  then 'Atmosphere'
+        when basename[0..2] is 'AR '   then 'Arpeggiated'
+        when basename[0..3] is 'ARP '  then 'Arpeggiated'
+        when basename[0..2] is 'BA '   then 'Bass'
+        when basename[0..3] is 'BSQ '  then 'Bass Sequence'
+        when basename[0..2] is 'CD '   then 'Chord'
+        when basename[0..3] is 'CHD '  then 'Chord'
+        when basename[0..2] is 'DR '   then 'Drum'
+        when basename[0..2] is 'FX '   then 'FX'
+        when basename[0..2] is 'GT '   then 'Gated'
+        when basename[0..3] is 'KEY '  then 'Keyboard'
+        when basename[0..2] is 'LD '   then 'Lead'
+        when basename[0..2] is 'LV '   then 'Instrument'
+        when basename[0..2] is 'OR '   then 'Organ'
+        when basename[0..3] is 'ORG '  then 'Organ'
+        when basename[0..2] is 'PD '   then 'Pad'
+        when basename[0..2] is 'PA '   then 'Pad'
+        when basename[0..2] is 'PL '   then 'Pluck'
+        when basename[0..3] is 'STR '  then 'Strings'
+        when basename[0..2] is 'SQ '   then 'Sequnce'
+        when basename[0..2] is 'SY '   then 'Synth'
+        when basename[0..3] is 'VOC '  then 'Vocal'
+        when basename[0..4] is 'WIND ' then 'Winds'
+        when basename[0..2] is 'SN '   then 'Silence'
+        when basename[0..4] is 'Bass ' then 'Bass'
+        when basename[0..4] is 'Lead ' then 'Lead'
+        when basename[0..4] is 'Chord' then 'Chord'
+        when (basename.indexOf ' BS ') > 0  then 'Bass'
+        when (basename.indexOf ' LD ') > 0  then 'Lead'
+        when (basename.indexOf ' PD ') > 0  then 'Pad'
+        when (basename.indexOf ' PL ') > 0  then 'Pluck'
+        when basename[-3..] is ' FX'   then 'FX'
         else 'Non-Category'
           
       author = switch
@@ -875,7 +895,7 @@ gulp.task 'spire-generate-meta', ->
         else ''
       # meta
       meta =
-        vendor: $.Xpand2.vendor
+        vendor: $.Spire.vendor
         uuid: uuid.v4()
         types: [
           # remove first 3 char from folder name.
@@ -886,7 +906,7 @@ gulp.task 'spire-generate-meta', ->
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Xpand!2', bank, '']
+        bankchain: ['Spire', bank, '']
         author: author
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
