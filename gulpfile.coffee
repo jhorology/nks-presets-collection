@@ -249,7 +249,7 @@ order by
   DiscoveryPro:
     dir: 'DiscoveryPro'
     vendor: 'discoDSP'
-    magic: "DPVx"
+    magic: 'DPVx'
 
   #
   # u-he Hive
@@ -257,7 +257,7 @@ order by
   Hive:
     dir: 'Hive'
     vendor: 'u-he'
-    magic: "hIVE"
+    magic: 'hIVE'
 
   #
   # Novation BassStation
@@ -265,7 +265,15 @@ order by
   BassStation:
     dir: 'BassStation'
     vendor: 'Novation'
-    magic: "NvB2"
+    magic: 'NvB2'
+
+  #
+  # FabFilter Twin 2
+  #-------------------------------------------
+  Twin2:
+    dir: 'FabFilter Twin 2'
+    vendor: 'FabFilter'
+    magic: 'FT2i'
 
   #
   # Xfer Records Serum
@@ -1393,7 +1401,46 @@ gulp.task 'bassstation-extract-raw-presets', ->
     .pipe exec.reporter $.execRepotOpts
 
 # ---------------------------------------------------------------
-# end discoDSP Discovery Pro
+# end Novation Bassstation
+#
+
+# ---------------------------------------------------------------
+# FabFilter Twin 2
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - FabFilter Twin 2 2.23
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'twin2-print-default-meta', ->
+  _print_default_meta $.Twin2.dir
+
+# print mapping of _Default.nksf
+gulp.task 'twin2-print-default-mapping', ->
+  _print_default_mapping $.Twin2.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'twin2-print-magic', ->
+  _print_plid $.Twin2.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'twin2-generate-default-mapping', ->
+  _generate_default_mapping $.Twin2.dir
+
+# extract PCHK chunk from .nksf
+gulp.task 'twin2-extract-raw-presets', ->
+  gulp.src ["temp/#{$.Twin2.dir}/**/*.nksf.new"]
+    .pipe extract
+      form_type: 'NIKS'
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.Twin2.dir}/presets"
+
+# ---------------------------------------------------------------
+# end FabFilter Twin2
 #
 
 

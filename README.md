@@ -16,7 +16,7 @@ NKS(Native Kontrol Standard) presets collection
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||||||
 |[V-Station](http://us.novationmusic.com/software/v-station#)|||||||
 |[Alchemy](https://www.camelaudio.com)|||||||
-|[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|||||||
+|[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|||||||
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|
@@ -106,13 +106,13 @@ In case of Serum.
     - For some more information, refer to [gulp-riff-extractor](https://www.npmjs.com/package/gulp-riff-extractor).
   - from Ableton Live rack `.adg` file
     - Please see the example task `analoglab-extract-raw-presets`.
-    - It may doesn't work on windows, because using shell script '[adg2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/adg2pchk)'.
+    - It doesn't work on windows, because using shell script '[adg2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/adg2pchk)'.
   - from Bitwig Studio `.bwpreset` file
     - Please see the example task `xpand2-extract-raw-presets`.
-    - It may doesn't work on windows, because using shell script '[bwpreset2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/bwpreset2pchk)'.
+    - It doesn't work on windows, because using shell script '[bwpreset2pchk](https://github.com/jhorology/nks-presets-collection/blob/master/tools/bwpreset2pchk)'.
 
 - How to auto generate meta information.
-  - Many plugin vendors use [SQLite](https://www.sqlite.org/) database for own plugin browser.  
+  - Many plugin vendors uses [SQLite](https://www.sqlite.org/) database for own plugin browser.  
   - Please see the example task `serum-generate-meta` and `analoglab-generate-meta`.
 
 ### What is NKSF File (Unofficial)
