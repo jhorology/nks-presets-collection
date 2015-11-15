@@ -1322,6 +1322,7 @@ gulp.task 'discoverypro-extract-raw-presets', ->
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - Hive   1.0 revision 3514
 #  - recycle Bitwig Sttudio presets. https://github.com/jhorology/HivePack4Bitwig
+#  - recycle Ableton Racks. https://github.com/jhorology/HivePack4Live
 # ---------------------------------------------------------------
 
 # preparing tasks
@@ -1355,6 +1356,23 @@ gulp.task 'hive-extract-raw-presets', ->
     .pipe exec [
       'mkdir -p "<%= file.data.destDir %>"'
       'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+      ].join '&&'
+    , $.execOpts
+    .pipe exec.reporter $.execRepotOpts
+
+# extract PCHK chunk from ableton .adg files.
+gulp.task 'hive-extract-extra-raw-presets', ->
+  gulp.src ["#{$.Ableton.racks}/#{$.Hive.dir}/TREASURE TROVE/**/*.adg"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      dirname = path.join "src/#{$.Hive.dir}/presets/TREASURE TROVE/", path.dirname file.relative
+      destDir: dirname
+      destPath: path.join dirname, "#{basename}.pchk"
+    .pipe exec [
+      'echo "now converting file:<%= file.relative %>"'
+      'mkdir -p "<%= file.data.destDir %>"'
+      'tools/adg2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
       ].join '&&'
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
