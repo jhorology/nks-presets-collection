@@ -268,6 +268,14 @@ order by
     magic: 'NvB2'
 
   #
+  # Novation V-Station
+  #-------------------------------------------
+  VStation:
+    dir: 'VStation'
+    vendor: 'Novation'
+    magic: 'NvS0'
+
+  #
   # FabFilter Twin 2
   #-------------------------------------------
   Twin2:
@@ -1402,6 +1410,45 @@ gulp.task 'bassstation-extract-raw-presets', ->
 
 # ---------------------------------------------------------------
 # end Novation Bassstation
+#
+
+# ---------------------------------------------------------------
+# Novation V-Station
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - V-Station  2.3
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'vstation-print-default-meta', ->
+  _print_default_meta $.VStation.dir
+
+# print mapping of _Default.nksf
+gulp.task 'vstation-print-default-mapping', ->
+  _print_default_mapping $.VStation.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'vstation-print-magic', ->
+  _print_plid $.VStation.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'vstation-generate-default-mapping', ->
+  _generate_default_mapping $.VStation.dir
+
+# extract PCHK chunk from bitwig .bwpresetfiles.
+gulp.task 'vstation-extract-raw-presets', ->
+  gulp.src ["temp/#{$.VStation.dir}/**/*.nksf.new"]
+    .pipe extract
+      form_type: 'NIKS'
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.VStation.dir}/presets"
+
+# ---------------------------------------------------------------
+# end Novation V-Station
 #
 
 # ---------------------------------------------------------------
