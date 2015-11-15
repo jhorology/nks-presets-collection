@@ -1441,7 +1441,7 @@ gulp.task 'vstation-generate-default-mapping', ->
 
 # extract PCHK chunk from bitwig .bwpresetfiles.
 gulp.task 'vstation-extract-raw-presets', ->
-  gulp.src ["temp/#{$.VStation.dir}/**/*.nksf.new"]
+  gulp.src ["temp/#{$.VStation.dir}/**/*.nksf"]
     .pipe extract
       form_type: 'NIKS'
       chunk_ids: ['PCHK']
