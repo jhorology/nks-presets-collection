@@ -12,6 +12,8 @@ NKS(Native Kontrol Standard) presets collection
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:||||||
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||||||
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||||||
+|[Strike](http://www.airmusictech.com/product/strike-2)|||||||
+|[Structure](http://www.airmusictech.com/product/structure-2)|||||||
 |[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||||||
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||||||
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||||||
