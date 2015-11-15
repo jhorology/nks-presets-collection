@@ -1473,7 +1473,7 @@ gulp.task 'vstation-print-magic', ->
 gulp.task 'vstation-generate-default-mapping', ->
   _generate_default_mapping $.VStation.dir
 
-# extract PCHK chunk from bitwig .bwpresetfiles.
+# extract PCHK chunk from .mksf files.
 gulp.task 'vstation-extract-raw-presets', ->
   gulp.src ["temp/#{$.VStation.dir}/**/*.nksf"]
     .pipe extract
@@ -1585,6 +1585,14 @@ gulp.task 'eightyeight-print-magic', ->
 # generate default mapping file from _Default.nksf
 gulp.task 'eightyeight-generate-default-mapping', ->
   _generate_default_mapping $.EightyEight.dir
+
+# extract PCHK chunk from .mksf files.
+gulp.task 'eightyeight-extract-raw-presets', ->
+  gulp.src ["temp/#{$.EightyEight.dir}/**/*.nksf"]
+    .pipe extract
+      form_type: 'NIKS'
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.EightyEight.dir}/presets"
 
 
 # ---------------------------------------------------------------
