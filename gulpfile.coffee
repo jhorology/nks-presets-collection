@@ -1437,6 +1437,7 @@ gulp.task 'twin2-extract-raw-presets', ->
     .pipe extract
       form_type: 'NIKS'
       chunk_ids: ['PCHK']
+      filename_template:"<%= basename.substring(0,basename.length-5) %><%= count ? '_' + count : '' %>.<%= id.trim().toLowerCase() %>"
     .pipe gulp.dest "src/#{$.Twin2.dir}/presets"
 
 # ---------------------------------------------------------------
