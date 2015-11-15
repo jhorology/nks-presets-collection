@@ -276,12 +276,28 @@ order by
     magic: 'NvS0'
 
   #
+  # Camel Audio Alchemy
+  #-------------------------------------------
+  Alchemy:
+    dir: 'Alchemy'
+    vendor: 'Camel Audio'
+    magic: 'CaAl'
+
+  #
   # FabFilter Twin 2
   #-------------------------------------------
   Twin2:
     dir: 'FabFilter Twin 2'
     vendor: 'FabFilter'
     magic: 'FT2i'
+
+  #
+  # SONiVOX EightyEight
+  #-------------------------------------------
+  EightyEight:
+    dir: 'EightyEight 2_64'
+    vendor: 'SONiVOX'
+    magic: 'eit2'
 
   #
   # Xfer Records Serum
@@ -1469,6 +1485,40 @@ gulp.task 'vstation-extract-raw-presets', ->
 # end Novation V-Station
 #
 
+
+# ---------------------------------------------------------------
+# Camel Audio Alchemy
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Alchemy(Player)  1.55.0P
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'alchemy-print-default-meta', ->
+  _print_default_meta $.Alchemy.dir
+
+# print mapping of _Default.nksf
+gulp.task 'alchemy-print-default-mapping', ->
+  _print_default_mapping $.Alchemy.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'alchemy-print-magic', ->
+  _print_plid $.Alchemy.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'alchemy-generate-default-mapping', ->
+  _generate_default_mapping $.Alchemy.dir
+
+
+# ---------------------------------------------------------------
+# end Novation V-Station
+#
+
+
 # ---------------------------------------------------------------
 # FabFilter Twin 2
 #
@@ -1507,6 +1557,38 @@ gulp.task 'twin2-extract-raw-presets', ->
 
 # ---------------------------------------------------------------
 # end FabFilter Twin2
+#
+
+# ---------------------------------------------------------------
+# SONiVOX EightyEight
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - EightyEight Twin Version 2.3 Build 2.5.0.15
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'eightyeight-print-default-meta', ->
+  _print_default_meta $.EightyEight.dir
+
+# print mapping of _Default.nksf
+gulp.task 'eightyeight-print-default-mapping', ->
+  _print_default_mapping $.EightyEight.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'eightyeight-print-magic', ->
+  _print_plid $.EightyEight.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'eightyeight-generate-default-mapping', ->
+  _generate_default_mapping $.EightyEight.dir
+
+
+# ---------------------------------------------------------------
+# end SONiVOX EightyEight
 #
 
 
