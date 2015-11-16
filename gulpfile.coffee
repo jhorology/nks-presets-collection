@@ -1475,7 +1475,7 @@ gulp.task 'vstation-print-magic', ->
 gulp.task 'vstation-generate-default-mapping', ->
   _generate_default_mapping $.VStation.dir
 
-# extract PCHK chunk from .mksf files.
+# extract PCHK chunk from .nksf files.
 gulp.task 'vstation-extract-raw-presets', ->
   gulp.src ["temp/#{$.VStation.dir}/**/*.nksf"]
     .pipe extract
@@ -1515,6 +1515,13 @@ gulp.task 'alchemy-print-magic', ->
 gulp.task 'alchemy-generate-default-mapping', ->
   _generate_default_mapping $.Alchemy.dir
 
+# extract PCHK chunk from .nksf files.
+gulp.task 'alchemy-extract-raw-presets', ->
+  gulp.src ["temp/#{$.Alchemy.dir}/**/*.nksf"]
+    .pipe extract
+      form_type: 'NIKS'
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.Alchemy.dir}/presets"
 
 # ---------------------------------------------------------------
 # end Novation V-Station
