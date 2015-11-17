@@ -1,0 +1,14 @@
+{
+  "author": "Vladimir Stepanov",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Trance", "Processed", "Sustained", "VA", "Granular", "Sampler", "Filter Mod"],
+  "name": "Betelgeuse",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "a1dd7cdb-417e-4a7f-a5b9-14ffab783747",
+  "vendor": "Camel Audio"
+}

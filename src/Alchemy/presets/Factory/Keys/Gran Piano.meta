@@ -1,0 +1,15 @@
+{
+  "author": "Beej",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Pop", "Rock", "Soundtrack", "Orchestral", "Tempo Synced", "Dry", "Long Release", "Decaying", "Sustained", "Granular", "Sampler", "Multisampled"],
+  "name": "Gran Piano",
+  "types": [
+    ["Keys"],
+    ["Keys", "Acoustic"],
+    ["Keys", "Piano"]
+  ],
+  "uuid": "bdcecdbf-5e1c-46bb-b0b5-efa5f8a33303",
+  "vendor": "Camel Audio"
+}

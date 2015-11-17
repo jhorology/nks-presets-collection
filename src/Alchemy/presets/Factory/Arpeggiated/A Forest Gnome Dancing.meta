@@ -1,0 +1,17 @@
+{
+  "author": "John Lehmkuhl",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "House", "Pop", "Trance", "Arpeggiated", "Tempo Synced", "Pulsing", "Processed", "VA", "Sampler", "Filter Mod"],
+  "name": "A Forest Gnome Dancing",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Dance"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "7766e7c6-b26a-4986-9872-23c551c40976",
+  "vendor": "Camel Audio"
+}

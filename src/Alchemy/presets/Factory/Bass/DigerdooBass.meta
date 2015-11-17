@@ -1,0 +1,14 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Mono", "Glide", "Slow Attack", "Long Release", "Sustained", "Sampler", "Filter Mod"],
+  "name": "DigerdooBass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Acoustic"]
+  ],
+  "uuid": "22f0007e-9c50-4453-a4d7-eea6459ae3b0",
+  "vendor": "Camel Audio"
+}

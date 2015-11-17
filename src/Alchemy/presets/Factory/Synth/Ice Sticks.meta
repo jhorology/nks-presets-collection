@@ -1,0 +1,17 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Sustained", "Percussive", "VA", "Granular", "Filter Mod"],
+  "name": "Ice Sticks",
+  "types": [
+    ["Soundscapes"],
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "a858c5bd-7b29-4fc7-a275-45da751acfaa",
+  "vendor": "Camel Audio"
+}

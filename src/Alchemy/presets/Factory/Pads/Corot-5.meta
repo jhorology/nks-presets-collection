@@ -1,0 +1,14 @@
+{
+  "author": "Corin Neff",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "VA", "Granular"],
+  "name": "Corot-5",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "137da993-eec5-4022-80d6-a4e187648bfd",
+  "vendor": "Camel Audio"
+}

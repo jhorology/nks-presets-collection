@@ -1,0 +1,15 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Trance", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Pitch Mod", "Filter Mod"],
+  "name": "Waters of Enceladus",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "2356b64f-6e65-4beb-8d0f-28f908ef250d",
+  "vendor": "Camel Audio"
+}

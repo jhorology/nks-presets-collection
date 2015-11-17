@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["House", "Industrial", "Pop", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Processed", "Mono", "Glide", "VA", "Additive", "Pitch Mod", "Filter Mod"],
+  "name": "Driven",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Bass"]
+  ],
+  "uuid": "195f90f6-7c46-46ee-8597-33110fedfc51",
+  "vendor": "Camel Audio"
+}

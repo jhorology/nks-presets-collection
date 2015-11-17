@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Jazz", "World", "Arpeggiated", "Dry", "Decaying", "Sustained", "Percussive", "VA", "Additive", "Granular"],
+  "name": "KooL ViBes",
+  "types": [
+    ["Mallets"],
+    ["Mallets", "Bell"]
+  ],
+  "uuid": "2f45043f-8d65-4c9c-a6fc-56b668591b72",
+  "vendor": "Camel Audio"
+}

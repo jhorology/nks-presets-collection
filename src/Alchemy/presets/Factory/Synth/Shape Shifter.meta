@@ -1,0 +1,15 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Industrial", "Pop", "Electro", "Decaying", "Percussive", "VA", "Additive"],
+  "name": "Shape Shifter",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "b35adabb-d806-4569-9a10-28980c07a8f2",
+  "vendor": "Camel Audio"
+}

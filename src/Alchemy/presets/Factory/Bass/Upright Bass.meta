@@ -1,0 +1,14 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Urban", "Pop", "Rock", "Jazz", "Dry", "Percussive", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Upright Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Acoustic"]
+  ],
+  "uuid": "3e50e900-a094-4eb3-955e-70fc8b041fe6",
+  "vendor": "Camel Audio"
+}

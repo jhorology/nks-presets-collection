@@ -1,0 +1,18 @@
+{
+  "author": "Ugo",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Electronica", "Pop", "Electro", "Tempo Synced", "Processed", "Mono", "Glide", "Percussive", "VA", "Spectral", "Pitch Mod", "Filter Mod"],
+  "name": "Groove Maker 3",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Bass"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Drums"]
+  ],
+  "uuid": "3564d28d-b5a3-40dc-af69-8e1fca07a0f7",
+  "vendor": "Camel Audio"
+}

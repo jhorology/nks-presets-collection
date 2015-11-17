@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Pop", "Funk", "Decaying", "VA", "Granular", "Filter Mod"],
+  "name": "Bell Keys B",
+  "types": [
+    ["Keys"],
+    ["Keys", "Electric"]
+  ],
+  "uuid": "78fe7575-247c-41d0-8d48-6f9a0f163ce9",
+  "vendor": "Camel Audio"
+}

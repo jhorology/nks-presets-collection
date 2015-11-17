@@ -1,0 +1,18 @@
+{
+  "author": "Arksun",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Chord", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Phrase", "Pitch Mod", "Filter Mod"],
+  "name": "New Dawn",
+  "types": [
+    ["Soundscapes"],
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "7cf8ebf8-bdae-43cf-a934-4fffc1445b26",
+  "vendor": "Camel Audio"
+}

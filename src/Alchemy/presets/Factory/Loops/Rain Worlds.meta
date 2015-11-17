@@ -1,0 +1,16 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "World", "Tempo Synced", "Pulsing", "Mono", "Glide", "VA", "Granular", "Phrase", "Pitch Mod", "Filter Mod"],
+  "name": "Rain Worlds",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Drums"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "4158519f-e5ff-4b09-a701-510a0f70ee03",
+  "vendor": "Camel Audio"
+}

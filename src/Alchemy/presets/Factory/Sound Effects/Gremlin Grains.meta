@@ -1,0 +1,14 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Processed", "Mono", "Percussive", "VA", "Granular", "Pitch Mod", "Filter Mod"],
+  "name": "Gremlin Grains",
+  "types": [
+    ["Sound Effects"],
+    ["Sound Effects", "Chaotic"]
+  ],
+  "uuid": "556d30a4-ef9d-44b6-a2e3-e753eaeb5d81",
+  "vendor": "Camel Audio"
+}

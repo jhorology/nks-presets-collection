@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Rock", "Soundtrack", "Trance", "Slow Attack", "Long Release", "Sustained", "VA"],
+  "name": "Cinematique",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Analog"]
+  ],
+  "uuid": "b6d5b2c3-af91-4d95-be26-4746285650c2",
+  "vendor": "Camel Audio"
+}

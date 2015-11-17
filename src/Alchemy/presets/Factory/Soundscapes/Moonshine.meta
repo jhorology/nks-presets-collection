@@ -1,0 +1,15 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Pulsing", "Slow Attack", "Sustained", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Moonshine",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Chaotic"]
+  ],
+  "uuid": "fc8041b7-6c5b-4503-bbae-3aa0559fea84",
+  "vendor": "Camel Audio"
+}

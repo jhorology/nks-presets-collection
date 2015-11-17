@@ -1,0 +1,15 @@
+{
+  "author": "Beej",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "House", "Trance", "Electro", "Slow Attack", "Sustained", "Granular", "Sampler", "Filter Mod"],
+  "name": "Suburgency",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "e31abebd-61ee-40ef-8d89-565b7019af89",
+  "vendor": "Camel Audio"
+}

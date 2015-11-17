@@ -1,0 +1,15 @@
+{
+  "author": "Corin Neff",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Pulsing", "Glide", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Pitch Mod"],
+  "name": "Nether Whales",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "e47df04e-4538-4170-960d-ffb73c18850c",
+  "vendor": "Camel Audio"
+}

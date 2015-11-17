@@ -1,0 +1,17 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Trance", "Processed", "Glide", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Pitch Mod", "Filter Mod"],
+  "name": "The Traveller",
+  "types": [
+    ["Pads"],
+    ["Sound Effects"],
+    ["Pads", "Evolving"],
+    ["Pads", "Layered"],
+    ["Sound Effects", "Sci-Fi"]
+  ],
+  "uuid": "f6131bac-5696-4abe-a99d-619613d4fbaa",
+  "vendor": "Camel Audio"
+}

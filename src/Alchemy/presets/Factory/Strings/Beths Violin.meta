@@ -1,0 +1,14 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Pop", "Rock", "Soundtrack", "Orchestral", "Sustained", "Sampler"],
+  "name": "Beths Violin",
+  "types": [
+    ["Strings"],
+    ["Strings", "Solo"]
+  ],
+  "uuid": "cf58fdf0-c10f-45df-a2d9-b82fd8ff5c6f",
+  "vendor": "Camel Audio"
+}

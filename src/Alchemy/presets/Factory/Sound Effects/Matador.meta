@@ -1,0 +1,16 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Tempo Synced", "Pulsing", "Long Release", "Sustained", "VA", "Additive", "Granular", "Multisampled"],
+  "name": "Matador",
+  "types": [
+    ["Sound Effects"],
+    ["Soundscapes"],
+    ["Sound Effects", "Machines"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "dfc624f6-76c3-4f97-9c08-618ebee83df7",
+  "vendor": "Camel Audio"
+}

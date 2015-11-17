@@ -1,0 +1,15 @@
+{
+  "author": "Adam Fielding",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Trance", "Electro", "Decaying", "VA", "Granular", "Multisampled"],
+  "name": "Smooth Morph Keys",
+  "types": [
+    ["Synths"],
+    ["Synths", "Mono"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "b5b86804-8b96-4090-b579-6aa19174c33b",
+  "vendor": "Camel Audio"
+}

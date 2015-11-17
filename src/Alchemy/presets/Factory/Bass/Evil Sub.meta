@@ -1,0 +1,15 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Urban", "Industrial", "Techno", "Electro", "Pulsing", "Mono", "Glide", "Sustained", "VA"],
+  "name": "Evil Sub",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sub"],
+    ["Bass", "Layered"]
+  ],
+  "uuid": "c479e8d4-560c-462c-8d60-c49d5fbc6ab2",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Urban", "Pop", "Techno", "Trance", "Electro", "Mono", "Glide", "Sustained", "VA", "Filter Mod"],
+  "name": "Sync Lead",
+  "types": [
+    ["Leads"],
+    ["Leads", "Hard"],
+    ["Leads", "Analog"]
+  ],
+  "uuid": "5501d026-b435-418d-b828-6b0ce8e6bc56",
+  "vendor": "Camel Audio"
+}

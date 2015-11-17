@@ -1,0 +1,16 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Rock", "Slow Attack", "Long Release", "Sustained", "VA", "Sampler", "Multisampled"],
+  "name": "ZBowedGuitar",
+  "types": [
+    ["Guitars"],
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Guitars", "Bowed"]
+  ],
+  "uuid": "9d74d760-ca7e-4541-b570-69d8e1de52f0",
+  "vendor": "Camel Audio"
+}

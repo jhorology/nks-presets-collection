@@ -1,0 +1,16 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Electro", "Tempo Synced", "Pulsing", "Slow Attack", "Long Release", "Decaying", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Granular Rhythm",
+  "types": [
+    ["Pads"],
+    ["Rhythmic"],
+    ["Pads", "Layered"],
+    ["Rhythmic", "Sequenced"]
+  ],
+  "uuid": "602b5735-99df-48c7-bbcb-8bfaa501e47e",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,17 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Processed", "Slow Attack", "Long Release", "Sustained", "Percussive", "VA", "Granular"],
+  "name": "Bellscape",
+  "types": [
+    ["Mallets"],
+    ["Soundscapes"],
+    ["Mallets", "Bell"],
+    ["Mallets", "Layered"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "9fef27a3-7876-4699-a505-367447e3454e",
+  "vendor": "Camel Audio"
+}

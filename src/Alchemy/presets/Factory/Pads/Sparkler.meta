@@ -1,0 +1,16 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Processed", "Sustained", "Percussive", "VA", "Granular"],
+  "name": "Sparkler",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Digital"],
+    ["Pads", "Fast Attack"]
+  ],
+  "uuid": "e4a64d32-53bf-4cac-b6df-db3b3de2cfad",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Decaying", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Sascha",
+  "types": [
+    ["Pads"],
+    ["Synths"],
+    ["Pads", "Layered"],
+    ["Pads", "Digital"],
+    ["Synths", "Poly"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "17992746-c60d-4240-a9c3-a292e906227a",
+  "vendor": "Camel Audio"
+}

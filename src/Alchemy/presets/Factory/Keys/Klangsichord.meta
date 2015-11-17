@@ -1,0 +1,14 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Pop", "Orchestral", "World", "Dry", "Decaying", "VA", "Additive"],
+  "name": "Klangsichord",
+  "types": [
+    ["Keys"],
+    ["Keys", "Acoustic"]
+  ],
+  "uuid": "6166dba9-829f-4f7f-abbf-eb3fad73b62e",
+  "vendor": "Camel Audio"
+}

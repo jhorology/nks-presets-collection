@@ -1,0 +1,16 @@
+{
+  "author": "Ugo",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "Percussive", "VA", "Additive"],
+  "name": "Fields",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Dance"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "79929138-53a8-47ba-8b7d-3c61c406b197",
+  "vendor": "Camel Audio"
+}

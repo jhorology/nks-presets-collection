@@ -1,0 +1,17 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Urban", "Pop", "Techno", "Electro", "Funk", "Arpeggiated", "Dry", "Processed", "Sustained", "VA", "Filter Mod"],
+  "name": "ReZistance",
+  "types": [
+    ["Bass"],
+    ["Synths"],
+    ["Bass", "Sweep"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "4efda9d0-e534-476e-88ce-9f7c105e2ac3",
+  "vendor": "Camel Audio"
+}

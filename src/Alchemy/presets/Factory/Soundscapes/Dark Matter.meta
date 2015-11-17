@@ -1,0 +1,15 @@
+{
+  "author": "Jim Hunter",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "Granular", "Sampler", "Pitch Mod"],
+  "name": "Dark Matter",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "b060b850-123f-4be6-aa8c-2dd8b2dcfaa5",
+  "vendor": "Camel Audio"
+}

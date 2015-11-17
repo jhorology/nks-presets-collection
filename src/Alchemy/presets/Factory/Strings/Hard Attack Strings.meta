@@ -1,0 +1,14 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "House", "Trance", "Electro", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Hard Attack Strings",
+  "types": [
+    ["Strings"],
+    ["Strings", "Synthetic"]
+  ],
+  "uuid": "ac68d7aa-f476-4048-b853-54519cacb08f",
+  "vendor": "Camel Audio"
+}

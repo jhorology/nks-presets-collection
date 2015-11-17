@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Techno", "Trance", "Electro", "Mono", "Glide", "Sustained", "VA"],
+  "name": "3 Osc Stack",
+  "types": [
+    ["Leads"],
+    ["Leads", "Analog"]
+  ],
+  "uuid": "3eb7428f-d998-40a1-bfe4-5105ea22c16d",
+  "vendor": "Camel Audio"
+}

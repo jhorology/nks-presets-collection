@@ -1,0 +1,15 @@
+{
+  "author": "Gareth L Devlin",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Drum and Bass", "Dubstep", "House", "Pop", "Trance", "Pulsing", "Mono", "Chord", "Sustained", "VA", "Spectral"],
+  "name": "Dreamy Wobble Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sub"],
+    ["Bass", "Wobble"]
+  ],
+  "uuid": "32b57ef9-c867-4fc8-b71d-dd311ed80587",
+  "vendor": "Camel Audio"
+}

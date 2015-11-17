@@ -1,0 +1,15 @@
+{
+  "author": "John Lehmkuhl",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Orchestral", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Astral Choir",
+  "types": [
+    ["Vocals"],
+    ["Vocals", "Female"],
+    ["Vocals", "Choir"]
+  ],
+  "uuid": "f8f53a3f-8935-43cd-a20e-c15c40e932ae",
+  "vendor": "Camel Audio"
+}

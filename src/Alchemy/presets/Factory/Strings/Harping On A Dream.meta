@@ -1,0 +1,18 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Pop", "Orchestral", "Dry", "Chord", "Sustained", "Sampler", "Multisampled"],
+  "name": "Harping On A Dream",
+  "types": [
+    ["Guitars"],
+    ["Strings"],
+    ["Guitars", "Acoustic"],
+    ["Guitars", "Layered"],
+    ["Guitars", "Plucked"],
+    ["Strings", "Small Ensemble"]
+  ],
+  "uuid": "67fd9d74-937c-4665-87c8-7c9a0af8802d",
+  "vendor": "Camel Audio"
+}

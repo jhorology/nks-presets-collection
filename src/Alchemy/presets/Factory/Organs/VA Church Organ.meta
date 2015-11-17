@@ -1,0 +1,14 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Soundtrack", "Orchestral", "Sustained", "VA"],
+  "name": "VA Church Organ",
+  "types": [
+    ["Organs"],
+    ["Organs", "Acoustic"]
+  ],
+  "uuid": "d74de058-17f9-476e-a6b2-6ad46397bc28",
+  "vendor": "Camel Audio"
+}

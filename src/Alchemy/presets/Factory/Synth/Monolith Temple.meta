@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Decaying", "Percussive", "VA", "Sampler"],
+  "name": "Monolith Temple",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "54508e06-4804-40fd-adc9-ae5e4a522f17",
+  "vendor": "Camel Audio"
+}

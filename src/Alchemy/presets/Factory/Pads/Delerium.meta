@@ -1,0 +1,14 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Rock", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "VA"],
+  "name": "Delerium",
+  "types": [
+    ["Pads"],
+    ["Pads", "Analog"]
+  ],
+  "uuid": "eb9c030a-d619-4f8b-9018-f8ec3677b9ee",
+  "vendor": "Camel Audio"
+}

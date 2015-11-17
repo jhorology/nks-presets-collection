@@ -1,0 +1,17 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Tempo Synced", "Mono", "Chord", "Long Release", "Sustained", "VA", "Sampler", "Multisampled", "Phrase", "Pitch Mod"],
+  "name": "Orchid Cargo",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"],
+    ["Rhythmic", "Vocal"]
+  ],
+  "uuid": "fed3fbd5-1654-4c85-9f5e-043173af2407",
+  "vendor": "Camel Audio"
+}

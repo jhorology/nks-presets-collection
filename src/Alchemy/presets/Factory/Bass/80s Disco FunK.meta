@@ -1,0 +1,15 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "House", "Pop", "Techno", "Trance", "Electro", "Dry", "Decaying", "VA", "Filter Mod"],
+  "name": "80s Disco FunK",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"],
+    ["Bass", "Short"]
+  ],
+  "uuid": "48a0eaac-9ed5-4ea7-8cd8-529a87019c62",
+  "vendor": "Camel Audio"
+}

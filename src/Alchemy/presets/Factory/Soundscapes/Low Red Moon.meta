@@ -1,0 +1,20 @@
+{
+  "author": "Arksun",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Tempo Synced", "Pulsing", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Phrase", "Pitch Mod"],
+  "name": "Low Red Moon",
+  "types": [
+    ["Soundscapes"],
+    ["Woodwinds"],
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "2ce82c6e-a2d2-45e8-ae39-7a298e16d8de",
+  "vendor": "Camel Audio"
+}

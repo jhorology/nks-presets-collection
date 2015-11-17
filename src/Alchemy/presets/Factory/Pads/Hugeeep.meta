@@ -1,0 +1,17 @@
+{
+  "author": "Adam Fielding",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Trance", "Electro", "Slow Attack", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Hugeeep",
+  "types": [
+    ["Pads"],
+    ["Synths"],
+    ["Pads", "Analog"],
+    ["Synths", "Poly"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "31402172-a50b-4074-ac19-54c459f2bbed",
+  "vendor": "Camel Audio"
+}

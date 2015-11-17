@@ -1,0 +1,15 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Urban", "Pop", "Techno", "Trance", "Electro", "Glide", "Sustained", "VA"],
+  "name": "PortaLead III",
+  "types": [
+    ["Leads"],
+    ["Leads", "Soft"],
+    ["Leads", "Analog"]
+  ],
+  "uuid": "59799c23-3dd6-4ab2-9dfd-2c98bbb216c0",
+  "vendor": "Camel Audio"
+}

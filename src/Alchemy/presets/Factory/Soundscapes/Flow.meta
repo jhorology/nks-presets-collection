@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Chord", "Slow Attack", "Long Release", "Sustained", "Granular", "Sampler", "Filter Mod"],
+  "name": "Flow",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "ab3433d3-23fc-477b-bb5f-bb80a420348a",
+  "vendor": "Camel Audio"
+}

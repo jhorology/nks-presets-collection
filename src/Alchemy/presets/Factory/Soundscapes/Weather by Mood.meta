@@ -1,0 +1,15 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "Morphing", "Granular", "Filter Mod"],
+  "name": "Weather by Mood",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "c525ff7a-51cd-43e6-a335-c885d2bbc490",
+  "vendor": "Camel Audio"
+}

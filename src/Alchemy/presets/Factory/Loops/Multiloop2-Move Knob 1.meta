@@ -1,0 +1,15 @@
+{
+  "author": "biomechanoid",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Techno", "Electro", "Tempo Synced", "Dry", "Processed", "Percussive", "VA", "Granular"],
+  "name": "Multiloop2-Move Knob 1",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Drums"]
+  ],
+  "uuid": "6302f2a6-0fc0-44d8-ad94-9a63df05d71c",
+  "vendor": "Camel Audio"
+}

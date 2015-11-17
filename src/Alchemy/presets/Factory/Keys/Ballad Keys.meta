@@ -1,0 +1,14 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Pop", "Rock", "Funk", "Pulsing", "Decaying", "Sustained", "VA", "Additive"],
+  "name": "Ballad Keys",
+  "types": [
+    ["Keys"],
+    ["Keys", "Electric"]
+  ],
+  "uuid": "19015e45-1849-4920-8ae6-43fc2b0928b4",
+  "vendor": "Camel Audio"
+}

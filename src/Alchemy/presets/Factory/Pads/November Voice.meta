@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Trance", "Slow Attack", "Long Release", "Sustained", "VA", "Additive", "Spectral", "Granular", "Sampler"],
+  "name": "November Voice",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Vocal"]
+  ],
+  "uuid": "00e82fe2-b0a5-45e7-88c2-823c452f62ef",
+  "vendor": "Camel Audio"
+}

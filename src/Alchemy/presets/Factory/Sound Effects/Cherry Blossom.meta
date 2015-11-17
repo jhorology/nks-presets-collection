@@ -1,0 +1,14 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Drum and Bass", "Electronica", "Techno", "Trance", "Electro", "Glide", "Decaying", "Percussive", "VA", "Additive", "Granular", "Multisampled", "Pitch Mod", "Filter Mod"],
+  "name": "Cherry Blossom",
+  "types": [
+    ["Sound Effects"],
+    ["Sound Effects", "Transition"]
+  ],
+  "uuid": "5a6a989f-5432-44e9-a5c3-29ebed85c46c",
+  "vendor": "Camel Audio"
+}

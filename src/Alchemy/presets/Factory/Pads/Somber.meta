@@ -1,0 +1,17 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Industrial", "Techno", "Trance", "Electro", "Slow Attack", "Decaying", "Sustained", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Somber",
+  "types": [
+    ["Pads"],
+    ["Synths"],
+    ["Pads", "Layered"],
+    ["Synths", "Poly"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "15fe6ce2-ef7d-40a3-b7a6-b4a118433b0a",
+  "vendor": "Camel Audio"
+}

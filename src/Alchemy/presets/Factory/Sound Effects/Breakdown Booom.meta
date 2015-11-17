@@ -1,0 +1,16 @@
+{
+  "author": "Jim Hunter",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "House", "Industrial", "Techno", "Trance", "Electro", "Tempo Synced", "Pulsing", "Processed", "Mono", "Glide", "VA", "Spectral", "Granular", "Sampler", "Pitch Mod", "Filter Mod"],
+  "name": "Breakdown Booom",
+  "types": [
+    ["Sound Effects"],
+    ["Sound Effects", "Sci-Fi"],
+    ["Sound Effects", "Transition"],
+    ["Sound Effects", "Chaotic"]
+  ],
+  "uuid": "77fdf920-41a7-41fa-9ad5-72bc5f31ae22",
+  "vendor": "Camel Audio"
+}

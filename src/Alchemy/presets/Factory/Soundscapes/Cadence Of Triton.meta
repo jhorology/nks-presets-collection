@@ -1,0 +1,15 @@
+{
+  "author": "Corin Neff",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Filter Mod"],
+  "name": "Cadence Of Triton",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "890a8b2b-e013-4cf6-9ee6-b83fd9689c47",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Trance", "Slow Attack", "Long Release", "Sustained", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Island Tales",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Digital"]
+  ],
+  "uuid": "bdda699e-0deb-40fd-a364-ada87e61d6a8",
+  "vendor": "Camel Audio"
+}

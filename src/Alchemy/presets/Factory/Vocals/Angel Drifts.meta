@@ -1,0 +1,17 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Orchestral", "World", "Chord", "Slow Attack", "Long Release", "Sustained", "Sampler", "Multisampled", "Pitch Mod"],
+  "name": "Angel Drifts",
+  "types": [
+    ["Vocals"],
+    ["Vocals", "Male"],
+    ["Vocals", "Female"],
+    ["Vocals", "Choir"],
+    ["Vocals", "Phrases"]
+  ],
+  "uuid": "fe1d4272-864f-46d3-837a-ce16a5fcabd8",
+  "vendor": "Camel Audio"
+}

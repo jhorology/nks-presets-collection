@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Electro", "Tempo Synced", "Pulsing", "Processed", "Decaying", "Percussive", "VA", "Additive", "Granular", "Multisampled"],
+  "name": "Rhythm n Beats",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "940e46d7-9406-42f0-8380-99220b53a59b",
+  "vendor": "Camel Audio"
+}

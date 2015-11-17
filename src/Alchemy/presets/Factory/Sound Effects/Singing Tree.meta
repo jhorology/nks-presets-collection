@@ -1,0 +1,14 @@
+{
+  "author": "Daniel Clarke",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Sustained", "VA", "Spectral", "Filter Mod"],
+  "name": "Singing Tree",
+  "types": [
+    ["Sound Effects"],
+    ["Sound Effects", "Natural"]
+  ],
+  "uuid": "baec388c-3bc8-41af-b18c-2cf6d61e1c75",
+  "vendor": "Camel Audio"
+}

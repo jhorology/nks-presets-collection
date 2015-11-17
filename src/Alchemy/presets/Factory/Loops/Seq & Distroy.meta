@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Techno", "Trance", "Electro", "Tempo Synced", "Pulsing", "Processed", "Mono", "Glide", "VA", "Pitch Mod", "Filter Mod"],
+  "name": "Seq & Distroy",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "5a2fb498-c854-49d4-ab81-e0075b8546a6",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Filter Mod"],
+  "name": "General Anaesthetic",
+  "types": [
+    ["Pads"],
+    ["Pads", "Evolving"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "3fc3b46c-cae2-4121-b6df-c38d6e7e65c8",
+  "vendor": "Camel Audio"
+}

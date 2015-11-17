@@ -1,0 +1,15 @@
+{
+  "author": "Robert Rich",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "Morphing", "VA", "Granular"],
+  "name": "VoxOrgana",
+  "types": [
+    ["Vocals"],
+    ["Vocals", "Male"],
+    ["Vocals", "Solo"]
+  ],
+  "uuid": "618fb10d-f43d-49f9-8b35-4d1f715c53aa",
+  "vendor": "Camel Audio"
+}

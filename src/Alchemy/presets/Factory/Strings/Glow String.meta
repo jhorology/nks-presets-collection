@@ -1,0 +1,17 @@
+{
+  "author": "Pendle Poucher",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Arpeggiated", "Tempo Synced", "Processed", "Slow Attack", "Long Release", "Sustained", "Additive", "Sampler"],
+  "name": "Glow String",
+  "types": [
+    ["Mallets"],
+    ["Strings"],
+    ["Mallets", "Bell"],
+    ["Mallets", "Layered"],
+    ["Strings", "Small Ensemble"]
+  ],
+  "uuid": "00393f1d-4463-419d-b8ba-23c4a7e56ae7",
+  "vendor": "Camel Audio"
+}

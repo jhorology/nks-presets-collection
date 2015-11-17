@@ -1,0 +1,15 @@
+{
+  "author": "Aluisio",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "Granular", "Sampler"],
+  "name": "Enigma Of Culture",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "19e4631d-f809-4081-a32a-bd73ed572ee6",
+  "vendor": "Camel Audio"
+}

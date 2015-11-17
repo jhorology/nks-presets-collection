@@ -1,0 +1,17 @@
+{
+  "author": "Gareth L Devlin",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Electro", "Tempo Synced", "Pulsing", "Mono", "Sustained", "VA", "Spectral", "Filter Mod"],
+  "name": "Witness The Sickness",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sub"],
+    ["Bass", "Sweep"],
+    ["Bass", "Wobble"],
+    ["Bass", "Layered"]
+  ],
+  "uuid": "1eb7ceba-4637-4d31-b1d8-10dac7ae3c3c",
+  "vendor": "Camel Audio"
+}

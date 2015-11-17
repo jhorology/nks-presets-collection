@@ -1,0 +1,16 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Electronica", "Techno", "Trance", "Pulsing", "Additive", "Filter Mod"],
+  "name": "Epidermic",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Analog"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "c5ad4e52-0bc1-4bdc-811d-7371fa89bac8",
+  "vendor": "Camel Audio"
+}

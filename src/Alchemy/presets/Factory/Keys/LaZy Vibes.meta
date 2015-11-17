@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Pop", "Dry", "Percussive", "VA", "Granular"],
+  "name": "LaZy Vibes",
+  "types": [
+    ["Keys"],
+    ["Keys", "Electric"]
+  ],
+  "uuid": "78eb3162-2890-40d1-98d1-8fc96ef02afc",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Adam Van Baker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["House", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "Processed", "Glide", "Percussive", "VA", "Phrase", "Pitch Mod"],
+  "name": "Sequenced Square",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Bass"],
+    ["Rhythmic", "Classic"],
+    ["Rhythmic", "Dance"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "2241d90d-5ad1-4687-8f5c-614fbd584476",
+  "vendor": "Camel Audio"
+}

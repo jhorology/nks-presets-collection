@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Trance", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Dune Mantra",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Vocal"]
+  ],
+  "uuid": "f994a15d-1632-4e47-8efa-e80cf483aa4a",
+  "vendor": "Camel Audio"
+}

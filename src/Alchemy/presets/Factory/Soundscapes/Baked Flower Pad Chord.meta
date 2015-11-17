@@ -1,0 +1,16 @@
+{
+  "author": "Christian Kjeldsen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Slow Attack", "Long Release", "Decaying", "Morphing", "Additive", "Spectral", "Granular"],
+  "name": "Baked Flower Pad Chord",
+  "types": [
+    ["Pads"],
+    ["Soundscapes"],
+    ["Pads", "Vocal"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "28988367-e75e-4dd8-baf9-2eea0b3f2f6f",
+  "vendor": "Camel Audio"
+}

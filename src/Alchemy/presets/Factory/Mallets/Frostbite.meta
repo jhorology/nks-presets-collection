@@ -1,0 +1,15 @@
+{
+  "author": "biomechanoid",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Pop", "Soundtrack", "Arpeggiated", "Decaying", "Percussive", "VA", "Additive", "Granular"],
+  "name": "Frostbite",
+  "types": [
+    ["Mallets"],
+    ["Mallets", "Bell"],
+    ["Mallets", "Layered"]
+  ],
+  "uuid": "1e3b924b-c05e-4681-a529-30007e03ca66",
+  "vendor": "Camel Audio"
+}

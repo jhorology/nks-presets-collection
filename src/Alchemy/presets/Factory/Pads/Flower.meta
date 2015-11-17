@@ -1,0 +1,14 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Processed", "Long Release", "Sustained", "VA", "Additive", "Spectral", "Granular", "Multisampled", "Filter Mod"],
+  "name": "Flower",
+  "types": [
+    ["Pads"],
+    ["Pads", "Vocal"]
+  ],
+  "uuid": "b2d244f3-c563-4989-8c81-16c81b7f1f74",
+  "vendor": "Camel Audio"
+}

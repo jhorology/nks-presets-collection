@@ -1,0 +1,17 @@
+{
+  "author": "Corin Neff",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Chord", "Slow Attack", "Long Release", "Sustained", "VA", "Granular"],
+  "name": "Mists Of Titan",
+  "types": [
+    ["Pads"],
+    ["Soundscapes"],
+    ["Pads", "Evolving"],
+    ["Pads", "Layered"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "62305dc2-331f-4953-b623-008d54665a74",
+  "vendor": "Camel Audio"
+}

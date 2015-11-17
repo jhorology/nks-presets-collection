@@ -1,0 +1,17 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Trance", "Tempo Synced", "Percussive", "VA", "Additive", "Sampler", "Pitch Mod"],
+  "name": "Bell Dancer",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "94d9bb00-4fdc-4d99-b721-d550bc10e19b",
+  "vendor": "Camel Audio"
+}

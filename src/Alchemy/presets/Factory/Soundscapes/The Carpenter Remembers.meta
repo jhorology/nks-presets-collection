@@ -1,0 +1,15 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Pulsing", "Percussive", "Additive", "Granular", "Filter Mod"],
+  "name": "The Carpenter Remembers",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "ac275a79-4941-4942-988a-f6c6f53d3268",
+  "vendor": "Camel Audio"
+}

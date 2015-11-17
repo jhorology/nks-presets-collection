@@ -1,0 +1,14 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Pulsing", "Slow Attack", "Long Release", "Sustained", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Northern Cave",
+  "types": [
+    ["Pads"],
+    ["Pads", "Digital"]
+  ],
+  "uuid": "17d44c71-40c4-4369-a3d2-a96d1726504c",
+  "vendor": "Camel Audio"
+}

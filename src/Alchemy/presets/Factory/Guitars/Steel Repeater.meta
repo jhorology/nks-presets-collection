@@ -1,0 +1,16 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Decaying", "Granular", "Sampler"],
+  "name": "Steel Repeater",
+  "types": [
+    ["Guitars"],
+    ["Guitars", "Electric"],
+    ["Guitars", "Layered"],
+    ["Guitars", "Plucked"]
+  ],
+  "uuid": "80b6393f-5590-4db1-9500-2773b3b27c3d",
+  "vendor": "Camel Audio"
+}

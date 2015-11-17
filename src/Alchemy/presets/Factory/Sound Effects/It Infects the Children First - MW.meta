@@ -1,0 +1,17 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Glide", "Percussive", "VA", "Spectral", "Phrase", "Pitch Mod", "Filter Mod"],
+  "name": "It Infects the Children First - MW",
+  "types": [
+    ["Sound Effects"],
+    ["Vocals"],
+    ["Sound Effects", "Sci-Fi"],
+    ["Sound Effects", "Chaotic"],
+    ["Vocals", "Phrases"]
+  ],
+  "uuid": "a0684d7f-9650-40f0-b3ec-684132a90c82",
+  "vendor": "Camel Audio"
+}

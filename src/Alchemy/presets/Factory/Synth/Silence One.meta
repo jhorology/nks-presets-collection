@@ -1,0 +1,21 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Urban", "Pop", "Trance", "Electro", "Chord", "Decaying", "Sustained", "VA", "Filter Mod"],
+  "name": "Silence One",
+  "types": [
+    ["Bass"],
+    ["Synths"],
+    ["Bass", "Sweep"],
+    ["Bass", "Classic"],
+    ["Synths", "Poly"],
+    ["Synths", "Analog"],
+    ["Synths", "Digital"],
+    ["Synths", "Classic"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "7b53859a-ec8e-42bd-95da-5c59b5e26cd9",
+  "vendor": "Camel Audio"
+}

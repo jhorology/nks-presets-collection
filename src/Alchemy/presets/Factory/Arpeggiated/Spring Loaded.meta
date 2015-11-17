@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "House", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "VA", "Filter Mod"],
+  "name": "Spring Loaded",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "a3501265-ee2a-4938-bced-48a66bdd812a",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Pop", "Processed", "Decaying", "Percussive", "VA", "Additive", "Granular", "Multisampled"],
+  "name": "Spoken Form",
+  "types": [
+    ["Mallets"],
+    ["Synths"],
+    ["Synths", "Mono"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "7849b401-354e-4366-b66a-48af24759f06",
+  "vendor": "Camel Audio"
+}

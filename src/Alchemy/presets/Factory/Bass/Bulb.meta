@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "House", "Techno", "Trance", "Electro", "Decaying", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Bulb",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"],
+    ["Bass", "Classic"]
+  ],
+  "uuid": "4ea62539-8063-433e-9de9-48f66359846a",
+  "vendor": "Camel Audio"
+}

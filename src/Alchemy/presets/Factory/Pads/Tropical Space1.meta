@@ -1,0 +1,18 @@
+{
+  "author": "Steffen Presley",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Trance", "Glide", "Slow Attack", "Long Release", "Sustained", "VA", "Additive", "Pitch Mod", "Filter Mod"],
+  "name": "Tropical Space1",
+  "types": [
+    ["Pads"],
+    ["Sound Effects"],
+    ["Synths"],
+    ["Pads", "Digital"],
+    ["Synths", "Poly"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "d06034c7-5b50-4193-9e99-2c32c016c2aa",
+  "vendor": "Camel Audio"
+}

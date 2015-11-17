@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Tempo Synced", "Processed", "Slow Attack", "Long Release", "VA", "Spectral", "Granular"],
+  "name": "Eclipse Of Mind",
+  "types": [
+    ["Pads"],
+    ["Pads", "Evolving"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "fb3d85ea-e210-4943-ab3c-5555607fca89",
+  "vendor": "Camel Audio"
+}

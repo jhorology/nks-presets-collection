@@ -1,0 +1,14 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Techno", "Trance", "Electro", "Mono", "Glide", "Decaying", "Sustained", "VA", "Granular", "Sampler"],
+  "name": "Cs5 PopaSweep",
+  "types": [
+    ["Leads"],
+    ["Leads", "Soft"]
+  ],
+  "uuid": "986d14af-1659-4dfd-b1ea-52481559da04",
+  "vendor": "Camel Audio"
+}

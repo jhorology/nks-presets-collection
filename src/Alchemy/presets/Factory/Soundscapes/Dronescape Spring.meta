@@ -1,0 +1,14 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Sustained", "Percussive", "VA", "Granular", "Sampler"],
+  "name": "Dronescape Spring",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "a5c3942e-66cf-497a-acd1-9ea0c9f27db2",
+  "vendor": "Camel Audio"
+}

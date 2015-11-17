@@ -1,0 +1,15 @@
+{
+  "author": "Robert Rich",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Electro", "Processed", "Glide", "Sustained", "VA", "Pitch Mod", "Filter Mod"],
+  "name": "MachineRoomNightmare2",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Sci-Fi"],
+    ["Soundscapes", "Chaotic"]
+  ],
+  "uuid": "4d91d65c-2587-4b53-93fc-d7c91480da55",
+  "vendor": "Camel Audio"
+}

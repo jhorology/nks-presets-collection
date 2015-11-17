@@ -1,0 +1,14 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "World", "Dry", "Decaying", "Percussive", "VA", "Additive"],
+  "name": "Bell Studio",
+  "types": [
+    ["Mallets"],
+    ["Mallets", "Bell"]
+  ],
+  "uuid": "eaf2aa37-f25f-4e6e-9c8f-7b06e3e59457",
+  "vendor": "Camel Audio"
+}

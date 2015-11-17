@@ -1,0 +1,18 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Trance", "Pulsing", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Filter Mod"],
+  "name": "The Width Of The Pulse",
+  "types": [
+    ["Soundscapes"],
+    ["Synths"],
+    ["Soundscapes", "Drone"],
+    ["Synths", "Poly"],
+    ["Synths", "Analog"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "0b17e0bd-d7af-48eb-b811-e3f3bd66d00c",
+  "vendor": "Camel Audio"
+}

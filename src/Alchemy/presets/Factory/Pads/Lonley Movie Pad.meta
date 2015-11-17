@@ -1,0 +1,14 @@
+{
+  "author": "John Lehmkuhl",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Pop", "Soundtrack", "Orchestral", "Long Release", "Sustained", "VA", "Granular", "Sampler"],
+  "name": "Lonley Movie Pad",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "98eee4da-91b0-4dd3-81a3-a95a406597f4",
+  "vendor": "Camel Audio"
+}

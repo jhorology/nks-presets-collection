@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Tempo Synced", "Processed", "Chord", "Glide", "VA", "Additive", "Filter Mod"],
+  "name": "Glide Fish",
+  "types": [
+    ["Leads"],
+    ["Leads", "Soft"]
+  ],
+  "uuid": "2f1db9bb-fbc4-4beb-9112-6d140066f838",
+  "vendor": "Camel Audio"
+}

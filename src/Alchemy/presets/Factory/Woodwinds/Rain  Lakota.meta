@@ -1,0 +1,17 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Pulsing", "Slow Attack", "Long Release", "Sustained", "Sampler"],
+  "name": "Rain  Lakota",
+  "types": [
+    ["Sound Effects"],
+    ["Soundscapes"],
+    ["Woodwinds"],
+    ["Sound Effects", "Natural"],
+    ["Woodwinds", "Layered"]
+  ],
+  "uuid": "e0905a6c-7ae4-46e0-81d7-807c63782272",
+  "vendor": "Camel Audio"
+}

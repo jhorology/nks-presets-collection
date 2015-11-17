@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Pop", "Funk", "Chord", "Sustained", "VA"],
+  "name": "Brassy Prophet",
+  "types": [
+    ["Keys"],
+    ["Keys", "Electric"]
+  ],
+  "uuid": "83f704f4-aa3b-4d63-a5da-d8eb9c0212e8",
+  "vendor": "Camel Audio"
+}

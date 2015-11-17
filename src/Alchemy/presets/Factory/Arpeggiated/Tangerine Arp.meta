@@ -1,0 +1,16 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Trance", "Arpeggiated", "Tempo Synced", "Pulsing", "Percussive", "VA", "Additive", "Pitch Mod"],
+  "name": "Tangerine Arp",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "584c0d2a-e139-4370-8fbb-8e01aa52f445",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "biomechanoid",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Trance", "Pulsing", "Slow Attack", "Long Release", "Sustained", "Morphing", "Granular"],
+  "name": "Art Shimmer",
+  "types": [
+    ["Vocals"],
+    ["Vocals", "Female"],
+    ["Vocals", "Solo"]
+  ],
+  "uuid": "e705c32c-7933-425b-aaee-005a4ba75abb",
+  "vendor": "Camel Audio"
+}

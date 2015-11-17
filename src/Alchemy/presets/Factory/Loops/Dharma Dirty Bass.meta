@@ -1,0 +1,15 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Industrial", "Techno", "Electro", "Tempo Synced", "Mono", "Glide", "Spectral", "Sampler", "Multisampled", "Pitch Mod"],
+  "name": "Dharma Dirty Bass",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Bass"]
+  ],
+  "uuid": "e226c9b7-5609-48ae-86fb-e9c4a49e4dfc",
+  "vendor": "Camel Audio"
+}

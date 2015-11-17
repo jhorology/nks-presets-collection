@@ -1,0 +1,14 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Rock", "Arpeggiated", "Dry", "Decaying", "Percussive", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Good Vibes",
+  "types": [
+    ["Mallets"],
+    ["Mallets", "Layered"]
+  ],
+  "uuid": "2bb4198f-6cb9-42d4-b2f1-f39a98d11ad7",
+  "vendor": "Camel Audio"
+}

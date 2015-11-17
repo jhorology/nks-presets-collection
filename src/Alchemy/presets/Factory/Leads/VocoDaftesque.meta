@@ -1,0 +1,17 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Electro", "Tempo Synced", "Pulsing", "Sustained", "VA", "Filter Mod"],
+  "name": "VocoDaftesque",
+  "types": [
+    ["Leads"],
+    ["Synths"],
+    ["Leads", "Analog"],
+    ["Synths", "Poly"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "2900fd24-4082-4815-849c-86b2abc52d3e",
+  "vendor": "Camel Audio"
+}

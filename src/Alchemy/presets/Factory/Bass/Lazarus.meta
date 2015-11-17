@@ -1,0 +1,14 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Urban", "Industrial", "Techno", "Electro", "Dry", "Glide", "Sustained", "Percussive", "VA"],
+  "name": "Lazarus",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sub"]
+  ],
+  "uuid": "28ff99c7-aad8-499d-b2c1-075810382c4e",
+  "vendor": "Camel Audio"
+}

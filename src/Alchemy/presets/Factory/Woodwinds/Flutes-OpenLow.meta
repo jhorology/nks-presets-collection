@@ -1,0 +1,15 @@
+{
+  "author": "Robert Rich",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Long Release", "Sustained", "Sampler"],
+  "name": "Flutes-OpenLow",
+  "types": [
+    ["Woodwinds"],
+    ["Woodwinds", "Layered"],
+    ["Woodwinds", "Solo"]
+  ],
+  "uuid": "b34a35b1-68d7-4359-8f1c-a62a21c6d606",
+  "vendor": "Camel Audio"
+}

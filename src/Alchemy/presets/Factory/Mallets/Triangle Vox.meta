@@ -1,0 +1,17 @@
+{
+  "author": "Steffen Presley",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Chord", "Long Release", "Sustained", "Percussive", "VA", "Additive", "Spectral", "Granular"],
+  "name": "Triangle Vox",
+  "types": [
+    ["Mallets"],
+    ["Pads"],
+    ["Mallets", "Bell"],
+    ["Mallets", "Layered"],
+    ["Pads", "Analog"]
+  ],
+  "uuid": "215e2f93-a1dd-4168-8ef2-05618d896cbc",
+  "vendor": "Camel Audio"
+}

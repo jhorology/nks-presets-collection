@@ -1,0 +1,14 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Rock", "Glide", "Long Release", "Sustained", "VA"],
+  "name": "Touch Pad",
+  "types": [
+    ["Pads"],
+    ["Pads", "Analog"]
+  ],
+  "uuid": "9d04766f-ac3d-4e76-93af-0ce996bbfb96",
+  "vendor": "Camel Audio"
+}

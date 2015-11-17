@@ -1,0 +1,17 @@
+{
+  "author": "Arksun",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Trance", "Electro", "Tempo Synced", "Pulsing", "Processed", "Mono", "VA", "Phrase", "Pitch Mod", "Filter Mod"],
+  "name": "Battlestar",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "f96d5791-5f85-460b-b30c-427f944ba32f",
+  "vendor": "Camel Audio"
+}

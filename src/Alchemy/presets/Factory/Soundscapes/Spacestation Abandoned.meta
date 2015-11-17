@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Slow Attack", "Long Release", "Sustained", "VA", "Granular"],
+  "name": "Spacestation Abandoned",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "d6ee2c81-1a2d-4680-acef-8d8a307e1e45",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Trance", "Pulsing", "Slow Attack", "Sustained", "Additive", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Korus",
+  "types": [
+    ["Pads"],
+    ["Pads", "Evolving"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "9e2da180-4aff-49cc-8fa3-4a757b09e139",
+  "vendor": "Camel Audio"
+}

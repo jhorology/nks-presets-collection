@@ -1,0 +1,15 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "House", "Pop", "Techno", "Trance", "Electro", "Tempo Synced", "Pulsing", "Processed", "Long Release", "Morphing", "Additive", "Filter Mod"],
+  "name": "Choreography",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "36bbb467-6cdd-49b4-ad29-a8987c731695",
+  "vendor": "Camel Audio"
+}

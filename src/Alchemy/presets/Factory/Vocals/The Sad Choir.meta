@@ -1,0 +1,15 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Filter Mod"],
+  "name": "The Sad Choir",
+  "types": [
+    ["Vocals"],
+    ["Vocals", "Choir"],
+    ["Vocals", "Synthetic"]
+  ],
+  "uuid": "5d3a51f6-fe90-41a1-9dcd-e559fe74f348",
+  "vendor": "Camel Audio"
+}

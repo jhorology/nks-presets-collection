@@ -1,0 +1,14 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Urban", "Pop", "Rock", "Funk", "Jazz", "Pulsing", "Dry", "Sustained", "Percussive", "VA", "Additive", "Spectral"],
+  "name": "Organics",
+  "types": [
+    ["Organs"],
+    ["Organs", "Electric"]
+  ],
+  "uuid": "8b2437ea-ed9e-472e-aac1-33f858f4b713",
+  "vendor": "Camel Audio"
+}

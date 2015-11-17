@@ -1,0 +1,18 @@
+{
+  "author": "Jim Hunter",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Trance", "Tempo Synced", "Processed", "Chord", "Glide", "Slow Attack", "Granular", "Sampler", "Multisampled", "Phrase", "Pitch Mod"],
+  "name": "Cascade",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Synths"],
+    ["Rhythmic", "Vocal"]
+  ],
+  "uuid": "346edf5e-e07c-4c51-ba84-4b3ed215fe2f",
+  "vendor": "Camel Audio"
+}

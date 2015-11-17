@@ -1,0 +1,16 @@
+{
+  "author": "Daniel Clarke",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "Chord", "VA", "Granular", "Multisampled", "Pitch Mod"],
+  "name": "Running 8bit",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Dance"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "a2912994-545d-4435-a77d-251b75d29687",
+  "vendor": "Camel Audio"
+}

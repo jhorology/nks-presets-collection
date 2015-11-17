@@ -1,0 +1,18 @@
+{
+  "author": "Birds Use Stars",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Industrial", "Soundtrack", "World", "Decaying", "Percussive", "Granular", "Multisampled"],
+  "name": "Steam Spirits",
+  "types": [
+    ["Guitars"],
+    ["Sound Effects"],
+    ["Soundscapes"],
+    ["Guitars", "Acoustic"],
+    ["Sound Effects", "Natural"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "df7596b5-19ef-4d7b-a7f5-611d18243ea7",
+  "vendor": "Camel Audio"
+}

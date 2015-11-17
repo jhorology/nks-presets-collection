@@ -1,0 +1,15 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "House", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Processed", "Percussive", "VA", "Granular", "Multisampled", "Pitch Mod"],
+  "name": "Bronze Star",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "0327d328-bd78-4fc3-b310-4f721e00b152",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Urban", "Pop", "Rock", "Trance", "Electro", "Dry", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Nocturne",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "a9c27b54-4fa9-4b3a-bea0-2699fab0e4af",
+  "vendor": "Camel Audio"
+}

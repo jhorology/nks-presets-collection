@@ -1,0 +1,16 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack", "World", "Arpeggiated", "Tempo Synced", "Pulsing", "Mono", "VA", "Additive", "Pitch Mod"],
+  "name": "Hammered",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "18651d0e-c457-4e79-9d4a-76a95a2b8a45",
+  "vendor": "Camel Audio"
+}

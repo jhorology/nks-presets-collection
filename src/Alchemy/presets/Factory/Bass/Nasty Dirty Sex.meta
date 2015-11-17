@@ -1,0 +1,14 @@
+{
+  "author": "biomechanoid",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Industrial", "Techno", "Electro", "Dry", "Sustained", "VA", "Granular", "Pitch Mod", "Filter Mod"],
+  "name": "Nasty Dirty Sex",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"]
+  ],
+  "uuid": "fefd5d92-3852-4ece-b311-86d845461f60",
+  "vendor": "Camel Audio"
+}

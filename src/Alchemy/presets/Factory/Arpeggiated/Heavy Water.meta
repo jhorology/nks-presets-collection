@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "House", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "Mono", "Percussive", "VA", "Filter Mod"],
+  "name": "Heavy Water",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "b1ce83b8-3e05-4974-8f1b-bab7d6338f6a",
+  "vendor": "Camel Audio"
+}

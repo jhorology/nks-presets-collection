@@ -1,0 +1,17 @@
+{
+  "author": "Jim Hunter",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Long Release", "Sustained", "Percussive", "VA", "Granular", "Sampler", "Multisampled", "Pitch Mod"],
+  "name": "Pandora's Box",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Drums"],
+    ["Rhythmic", "Vocal"]
+  ],
+  "uuid": "c03f5194-3b41-46f9-95cc-bd71077d12ac",
+  "vendor": "Camel Audio"
+}

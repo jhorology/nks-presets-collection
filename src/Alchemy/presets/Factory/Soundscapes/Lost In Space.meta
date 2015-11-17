@@ -1,0 +1,15 @@
+{
+  "author": "Julian Ray",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "Sampler", "Filter Mod"],
+  "name": "Lost In Space",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "f3e6d2bc-1261-4090-8c81-2dcf47de37da",
+  "vendor": "Camel Audio"
+}

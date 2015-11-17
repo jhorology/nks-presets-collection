@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Pop", "Dry", "Chord", "Long Release", "Sustained", "VA"],
+  "name": "Lush",
+  "types": [
+    ["Pads"],
+    ["Pads", "Analog"],
+    ["Pads", "Fast Attack"]
+  ],
+  "uuid": "e5372d8d-851b-4c34-a911-256abecdcd5b",
+  "vendor": "Camel Audio"
+}

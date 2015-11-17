@@ -1,0 +1,14 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "World", "Chord", "Long Release", "Sustained", "VA", "Additive", "Pitch Mod", "Filter Mod"],
+  "name": "Moonlight",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "ae977a03-dfdf-4433-831a-76cd9e5c2d7b",
+  "vendor": "Camel Audio"
+}

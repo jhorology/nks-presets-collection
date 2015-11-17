@@ -1,0 +1,15 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Shimmer",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Vocal"]
+  ],
+  "uuid": "cc18b88a-19d0-4e17-87fe-e760bc0eea15",
+  "vendor": "Camel Audio"
+}

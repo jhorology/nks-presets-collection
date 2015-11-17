@@ -1,0 +1,18 @@
+{
+  "author": "biomechanoid",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Arpeggiated", "Sustained", "Percussive", "Granular"],
+  "name": "Hiroshima",
+  "types": [
+    ["Guitars"],
+    ["Vocals"],
+    ["Guitars", "Acoustic"],
+    ["Guitars", "Layered"],
+    ["Guitars", "Plucked"],
+    ["Vocals", "Choir"]
+  ],
+  "uuid": "54e7425a-1999-43d6-90cd-aac64c01d4b1",
+  "vendor": "Camel Audio"
+}

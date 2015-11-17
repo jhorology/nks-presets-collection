@@ -1,0 +1,17 @@
+{
+  "author": "Adam Van Baker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["House", "Trance", "Arpeggiated", "Tempo Synced", "Pulsing", "Chord", "Percussive", "VA", "Pitch Mod"],
+  "name": "House Pike",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Dance"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "0a42f2c1-95a2-427d-ba6b-a3d09cb74146",
+  "vendor": "Camel Audio"
+}

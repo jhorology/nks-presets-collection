@@ -1,0 +1,15 @@
+{
+  "author": "Corin Neff",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Trance", "Tempo Synced", "Pulsing", "Slow Attack", "Long Release", "Sustained", "VA", "Pitch Mod", "Filter Mod"],
+  "name": "Starship Infinity",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Pads", "Analog"]
+  ],
+  "uuid": "741e35dd-07ba-4438-9d00-02f6ca2b67c4",
+  "vendor": "Camel Audio"
+}

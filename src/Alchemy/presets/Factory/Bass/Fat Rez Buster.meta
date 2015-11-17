@@ -1,0 +1,15 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Urban", "House", "Techno", "Electro", "Funk", "Dry", "Decaying", "Percussive", "VA", "Filter Mod"],
+  "name": "Fat Rez Buster",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"],
+    ["Bass", "Short"]
+  ],
+  "uuid": "34f39e8f-cfe5-41a8-846b-ea2eed9448ae",
+  "vendor": "Camel Audio"
+}

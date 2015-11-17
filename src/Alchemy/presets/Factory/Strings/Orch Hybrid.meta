@@ -1,0 +1,14 @@
+{
+  "author": "Robert Rich",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Orchestral", "Processed", "Long Release", "Sustained", "Sampler"],
+  "name": "Orch Hybrid",
+  "types": [
+    ["Strings"],
+    ["Strings", "Large Ensemble"]
+  ],
+  "uuid": "31b095e8-2910-4657-ab17-4b02b2f6ac17",
+  "vendor": "Camel Audio"
+}

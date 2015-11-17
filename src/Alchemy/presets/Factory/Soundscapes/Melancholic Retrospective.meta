@@ -1,0 +1,15 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "Granular", "Filter Mod"],
+  "name": "Melancholic Retrospective",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "92a82c06-191d-487f-8ee2-a92c4aed6d8d",
+  "vendor": "Camel Audio"
+}

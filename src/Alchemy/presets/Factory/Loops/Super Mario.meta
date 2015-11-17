@@ -1,0 +1,17 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Industrial", "Techno", "Electro", "Tempo Synced", "Processed", "Mono", "Percussive", "VA", "Additive", "Filter Mod"],
+  "name": "Super Mario",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Drums"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "b4207f37-de1d-4e52-bc1b-f94ad86b17da",
+  "vendor": "Camel Audio"
+}

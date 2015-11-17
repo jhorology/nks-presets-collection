@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "House", "Pop", "Techno", "Trance", "Electro", "Arpeggiated", "Mono", "Glide", "Sustained", "VA"],
+  "name": "BiFilter Head",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"]
+  ],
+  "uuid": "30c4b31e-8964-4f3b-95c2-2626f8073066",
+  "vendor": "Camel Audio"
+}

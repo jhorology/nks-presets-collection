@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Industrial", "Techno", "Electro", "Mono", "Decaying", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Gasm",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"],
+    ["Bass", "Classic"]
+  ],
+  "uuid": "de08de74-06f3-49c0-8c2e-fddc9e4557fe",
+  "vendor": "Camel Audio"
+}

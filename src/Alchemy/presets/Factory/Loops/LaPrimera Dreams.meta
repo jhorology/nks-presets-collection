@@ -1,0 +1,19 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Arpeggiated", "Tempo Synced", "Pulsing", "Glide", "Percussive", "VA", "Granular", "Pitch Mod"],
+  "name": "LaPrimera Dreams",
+  "types": [
+    ["Woodwinds"],
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Drums"],
+    ["Woodwinds", "Layered"],
+    ["Woodwinds", "Solo"]
+  ],
+  "uuid": "c5aa9f98-f865-456e-8537-8c166f34c533",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Electro", "Tempo Synced", "Processed", "Mono", "Percussive", "VA", "Granular", "Pitch Mod", "Filter Mod"],
+  "name": "Stomp",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Drums"],
+    ["Rhythmic", "Synths"],
+    ["Rhythmic", "Vocal"]
+  ],
+  "uuid": "f71e5767-eea3-4950-919c-e87dc9dd5c63",
+  "vendor": "Camel Audio"
+}

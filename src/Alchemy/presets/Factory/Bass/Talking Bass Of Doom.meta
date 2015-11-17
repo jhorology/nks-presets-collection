@@ -1,0 +1,15 @@
+{
+  "author": "Gareth L Devlin",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Industrial", "Techno", "Electro", "Tempo Synced", "Processed", "Mono", "Glide", "Sustained", "VA", "Filter Mod"],
+  "name": "Talking Bass Of Doom",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"],
+    ["Bass", "Wobble"]
+  ],
+  "uuid": "e11c668b-592d-44e3-8fda-70d9deecd8d7",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Pop", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Filter Mod"],
+  "name": "Sea Of Possibilities",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "7f072a2e-fd6e-49a1-8203-b72409349391",
+  "vendor": "Camel Audio"
+}

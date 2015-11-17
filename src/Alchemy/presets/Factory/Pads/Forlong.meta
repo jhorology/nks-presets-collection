@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Long Release", "Sustained", "VA", "Granular", "Sampler", "Filter Mod"],
+  "name": "Forlong",
+  "types": [
+    ["Pads"],
+    ["Pads", "Digital"],
+    ["Pads", "Vocal"]
+  ],
+  "uuid": "28525833-8525-491a-a671-fdfb3ba6d4bb",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "biomechanoid",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "VA", "Granular"],
+  "name": "Make Your Own Pad-Use XY2",
+  "types": [
+    ["Pads"],
+    ["Pads", "Digital"]
+  ],
+  "uuid": "1cbd4b93-cb7d-4def-bf35-a40ac5ce4a4b",
+  "vendor": "Camel Audio"
+}

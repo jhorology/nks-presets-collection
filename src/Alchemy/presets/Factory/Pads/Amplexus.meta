@@ -1,0 +1,14 @@
+{
+  "author": "Yuroun",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Chord", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Sampler"],
+  "name": "Amplexus",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "7142a688-1e9d-417a-97e8-23dbea180047",
+  "vendor": "Camel Audio"
+}

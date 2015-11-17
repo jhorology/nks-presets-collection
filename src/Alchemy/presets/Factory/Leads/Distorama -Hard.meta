@@ -1,0 +1,15 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Industrial", "Techno", "Electro", "Processed", "Glide", "Sustained", "VA"],
+  "name": "Distorama -Hard",
+  "types": [
+    ["Leads"],
+    ["Leads", "Hard"],
+    ["Leads", "Analog"]
+  ],
+  "uuid": "7d434c6f-7e2d-452a-a453-0aef6d678356",
+  "vendor": "Camel Audio"
+}

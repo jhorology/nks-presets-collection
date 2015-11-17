@@ -1,0 +1,15 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "House", "Trance", "Electro", "Arpeggiated", "Mono", "Glide", "Sustained", "VA"],
+  "name": "Hoffa Goes Saw",
+  "types": [
+    ["Leads"],
+    ["Leads", "Hard"],
+    ["Leads", "Analog"]
+  ],
+  "uuid": "a24cad86-dc53-4ef5-a556-e643c731d016",
+  "vendor": "Camel Audio"
+}

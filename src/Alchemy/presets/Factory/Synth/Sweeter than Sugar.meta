@@ -1,0 +1,18 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Urban", "Pop", "Jazz", "Sustained", "Percussive", "VA", "Additive", "Filter Mod"],
+  "name": "Sweeter than Sugar",
+  "types": [
+    ["Mallets"],
+    ["Synths"],
+    ["Mallets", "Bell"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "420ec708-b529-4d13-899a-668c8ce28bb2",
+  "vendor": "Camel Audio"
+}

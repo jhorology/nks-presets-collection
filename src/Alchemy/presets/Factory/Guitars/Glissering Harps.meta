@@ -1,0 +1,18 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "Long Release", "Sustained", "VA", "Additive", "Granular", "Sampler", "Multisampled"],
+  "name": "Glissering Harps",
+  "types": [
+    ["Guitars"],
+    ["Pads"],
+    ["Pads", "Layered"],
+    ["Guitars", "Acoustic"],
+    ["Guitars", "Layered"],
+    ["Guitars", "Plucked"]
+  ],
+  "uuid": "9ae411cc-6e86-4464-8051-9573adc0e7da",
+  "vendor": "Camel Audio"
+}

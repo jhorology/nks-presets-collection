@@ -1,0 +1,16 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Pop", "World", "Arpeggiated", "Tempo Synced", "Chord", "Percussive", "VA", "Additive", "Spectral"],
+  "name": "Wind Up",
+  "types": [
+    ["Mallets"],
+    ["Rhythmic"],
+    ["Mallets", "Bell"],
+    ["Rhythmic", "Sequenced"]
+  ],
+  "uuid": "cf5aeb0d-bfc3-4b63-9108-38289b3d5adb",
+  "vendor": "Camel Audio"
+}

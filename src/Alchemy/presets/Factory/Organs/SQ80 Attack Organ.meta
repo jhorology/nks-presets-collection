@@ -1,0 +1,14 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "House", "Pop", "Rock", "Jazz", "Sustained", "Percussive", "VA", "Spectral"],
+  "name": "SQ80 Attack Organ",
+  "types": [
+    ["Organs"],
+    ["Organs", "Electric"]
+  ],
+  "uuid": "d4e2c679-16a2-473c-b56a-8e6d8bc330a6",
+  "vendor": "Camel Audio"
+}

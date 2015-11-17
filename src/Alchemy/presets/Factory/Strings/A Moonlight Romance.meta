@@ -1,0 +1,14 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack", "Orchestral", "Chord", "Slow Attack", "Long Release", "Sustained", "Sampler"],
+  "name": "A Moonlight Romance",
+  "types": [
+    ["Strings"],
+    ["Strings", "Large Ensemble"]
+  ],
+  "uuid": "06ac0963-a6d3-468b-b3a3-681562d15535",
+  "vendor": "Camel Audio"
+}

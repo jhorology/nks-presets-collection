@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sciurba",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["House", "Pop", "Techno", "Trance", "Arpeggiated", "Tempo Synced", "Pulsing", "Processed", "Mono", "Chord", "VA", "Spectral", "Filter Mod"],
+  "name": "Warning Sign",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "fd7782be-6d2c-4e08-badc-5396d8a3fc52",
+  "vendor": "Camel Audio"
+}

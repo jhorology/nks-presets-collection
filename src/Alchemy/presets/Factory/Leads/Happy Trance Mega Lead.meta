@@ -1,0 +1,15 @@
+{
+  "author": "John Lehmkuhl",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Industrial", "Techno", "Trance", "Dry", "Sustained", "VA"],
+  "name": "Happy Trance Mega Lead",
+  "types": [
+    ["Leads"],
+    ["Leads", "Hard"],
+    ["Leads", "Analog"]
+  ],
+  "uuid": "385e9b46-b43b-4bbd-aebb-cabd66609e72",
+  "vendor": "Camel Audio"
+}

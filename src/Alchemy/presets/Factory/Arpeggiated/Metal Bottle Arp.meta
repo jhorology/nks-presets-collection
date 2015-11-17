@@ -1,0 +1,17 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "World", "Arpeggiated", "Tempo Synced", "Pulsing", "Percussive", "VA", "Granular", "Pitch Mod"],
+  "name": "Metal Bottle Arp",
+  "types": [
+    ["Mallets"],
+    ["Rhythmic"],
+    ["Mallets", "Bell"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"]
+  ],
+  "uuid": "083cb409-caeb-4d4c-b577-ad79f51c438a",
+  "vendor": "Camel Audio"
+}

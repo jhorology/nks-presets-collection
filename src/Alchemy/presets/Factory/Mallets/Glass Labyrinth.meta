@@ -1,0 +1,18 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Chord", "Slow Attack", "Long Release", "Sustained", "Percussive", "Granular", "Filter Mod"],
+  "name": "Glass Labyrinth",
+  "types": [
+    ["Mallets"],
+    ["Soundscapes"],
+    ["Mallets", "Bell"],
+    ["Mallets", "Layered"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "b97be45e-0515-4602-a746-6e669686464d",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,17 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Trance", "Tempo Synced", "Pulsing", "Long Release", "Sustained", "Granular", "Sampler", "Filter Mod"],
+  "name": "Fireflies",
+  "types": [
+    ["Soundscapes"],
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "0c613984-3f08-49aa-8a40-cf6272acb4f8",
+  "vendor": "Camel Audio"
+}

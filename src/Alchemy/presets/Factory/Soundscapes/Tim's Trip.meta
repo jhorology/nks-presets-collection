@@ -1,0 +1,15 @@
+{
+  "author": "Jim Hunter",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Slow Attack", "Long Release", "Sustained", "Granular", "Multisampled", "Pitch Mod"],
+  "name": "Tim's Trip",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "c0ce6153-c72a-4248-b036-03a890cfa388",
+  "vendor": "Camel Audio"
+}

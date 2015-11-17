@@ -1,0 +1,16 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Industrial", "World", "Arpeggiated", "Tempo Synced", "Processed", "Percussive", "Granular", "Sampler", "Filter Mod"],
+  "name": "Teletubby Exctacy",
+  "types": [
+    ["Sound Effects"],
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Drums"]
+  ],
+  "uuid": "8115e7c2-df5d-43ba-be60-07d78a233861",
+  "vendor": "Camel Audio"
+}

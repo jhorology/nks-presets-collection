@@ -1,0 +1,20 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Trance", "Electro", "Chord", "Sustained", "VA", "Filter Mod"],
+  "name": "Replicant",
+  "types": [
+    ["Brass"],
+    ["Synths"],
+    ["Brass", "Synthetic"],
+    ["Synths", "Mono"],
+    ["Synths", "Poly"],
+    ["Synths", "Analog"],
+    ["Synths", "Classic"],
+    ["Synths", "Sweep"]
+  ],
+  "uuid": "173c56e9-91e6-463a-ad20-a9a48e8b216b",
+  "vendor": "Camel Audio"
+}

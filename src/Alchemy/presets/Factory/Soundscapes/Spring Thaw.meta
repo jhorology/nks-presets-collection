@@ -1,0 +1,16 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "VA", "Additive", "Granular", "Multisampled", "Pitch Mod", "Filter Mod"],
+  "name": "Spring Thaw",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "b47eb2d7-90a9-48e7-9a2c-6afcbc54fed0",
+  "vendor": "Camel Audio"
+}

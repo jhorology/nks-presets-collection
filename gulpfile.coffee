@@ -284,6 +284,23 @@ order by
     magic: 'CaAl'
     presets: '/Library/Application Support/Camel Audio/Alchemy/Presets'
     db: '/Library/Application Support/Camel Audio/Alchemy/Alchemy_Preset_Ratings_And_Tags'
+    query_items: '''
+select
+  t0.ITEM_NAME as name
+  ,t3.ATTRIBUTE_TYPE_NAME as key
+  ,t2.ATTRIBUTE_NAME as value
+  ,t4.ATTRIBUTE_NAME as parentValue
+from
+  items as t0
+  left join attributes_map t1 on t0.ITEM_ID = t1.ITEM_ID
+  left join attributes t2 on t1.ATTRIBUTE_ID = t2.ATTRIBUTE_ID
+  left join ATTRIBUTE_TYPES t3 on t2.ATTRIBUTE_TYPE_ID = t3.ATTRIBUTE_TYPE_ID
+  left join attributes t4 on t2.ATTRIBUTES_TREE_PARENT = t4.ATTRIBUTE_ID
+where
+  t0.STORAGE_PATH = $preset
+order by
+  t2.ATTRIBUTE_ID
+'''
 
   #
   # FabFilter Twin 2
@@ -1550,9 +1567,7 @@ gulp.task 'alchemy-generate-mappings', ->
       match = /(Cont1Lbl =[\s\S]*?XyPad2y = [\s\S]*?\n)/.exec preset
       # convert json style
       regexp = / = (.*$)/gm
-      # escape "'"
-      assignments = match[1].replace /'/g, '\\\''
-      assignments = assignments.replace regexp, ": '$1',"
+      assignments = match[1].replace regexp, ": \"$1\","
       # some presets headig '_' e.g '_XyPad1x'
       assignments = assignments.replace /_XyPad/g, 'XyPad'
       # string to object
@@ -1567,8 +1582,115 @@ gulp.task 'alchemy-generate-mappings', ->
     .pipe gulp.dest "src/#{$.Alchemy.dir}/mappings"
 
 
+# generate metadata from serum's sqlite database
+gulp.task 'alchemy-generate-meta', ->
+  # open database
+  db = new sqlite3.Database $.Alchemy.db, sqlite3.OPEN_READONLY
+  gulp.src ["#{$.Alchemy.presets}/**/*.acp"]
+    .pipe data (file, done) ->
+      bank = file.relative.replace /(\/.*$)/, ''
+      # execute query
+      db.all $.Alchemy.query_items, $preset: "Alchemy/Presets/#{file.relative}", (err, rows) ->
+        unless rows and rows.length
+          return done "record not found in database. preset:#{file.relative}"
+        author = ''
+        types = []
+        modes = []
+        for row in rows
+          switch row.key
+            when 'Category'
+              types.push [row.value]
+            when 'Subcategory'
+              types.push [row.parentValue, row.value]
+            when 'Timber'
+              modes.push row.value
+            when 'Genre'
+              modes.push row.value
+            when 'Articulation'
+              modes.push row.value
+            when 'Sound Designer'
+              author = row.value
+            else
+        done undefined,
+          vendor: $.Alchemy.vendor
+          uuid: uuid.v4()
+          types: types
+          name: rows[0].name
+          modes: _.uniq modes
+          deviceType: 'INST'
+          comment: ''
+          bankchain: ['Alchemy', bank, '']
+          author: author
+    .pipe data (file) ->
+      json = beautify (JSON.stringify file.data), indent_size: $.json_indent
+      file.contents = new Buffer json
+      # rename .acp to .meta
+      file.path = "#{file.path[..-4]}meta"
+      file.data
+    .pipe gulp.dest "src/#{$.Alchemy.dir}/presets"
+    .on 'end', ->
+      # colse database
+      db.close()
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'alchemy-dist', [
+  'alchemy-dist-image'
+  'alchemy-dist-database'
+  'alchemy-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'alchemy-dist-image', ->
+  _dist_image $.Alchemy.dir, $.Alchemy.vendor
+
+# copy database resources to dist folder
+gulp.task 'alchemy-dist-database', ->
+  _dist_database $.Alchemy.dir, $.Alchemy.vendor
+
+# build presets file to dist folder
+gulp.task 'alchemy-dist-presets', ->
+  _dist_presets $.Alchemy.dir, $.Alchemy.magic, (file) ->
+    "./src/#{$.Alchemy.dir}/mappings/#{file.relative[..-5]}json"
+
+# check
+gulp.task 'alchemy-check-dist-presets', ->
+  _check_dist_presets $.Alchemy.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'alchemy-deploy', [
+  'alchemy-deploy-resources'
+  'alchemy-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'alchemy-deploy-resources', [
+  'alchemy-dist-image'
+  'alchemy-dist-database'
+  ], ->
+    _deploy_resources $.Alchemy.dir
+
+# copy database resources to local environment
+gulp.task 'alchemy-deploy-presets', [
+  'alchemy-dist-presets'
+  ] , ->
+    _deploy_presets $.Alchemy.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'alchemy-release',['alchemy-dist'], ->
+  _release $.Alchemy.dir
+
 # ---------------------------------------------------------------
-# end Novation V-Station
+# end Camel Audio Alchemy
 #
 
 

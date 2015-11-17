@@ -1,0 +1,15 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Chord", "Slow Attack", "Long Release", "Sustained", "VA", "Granular", "Sampler"],
+  "name": "Amberville",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "cd86e50d-37dc-44ab-8691-067df50bad9c",
+  "vendor": "Camel Audio"
+}

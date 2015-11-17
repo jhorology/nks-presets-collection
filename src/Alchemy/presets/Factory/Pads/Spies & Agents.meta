@@ -1,0 +1,14 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Trance", "Slow Attack", "Long Release", "Sustained", "VA", "Spectral", "Granular", "Filter Mod"],
+  "name": "Spies & Agents",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "c153420a-ca4e-4146-a591-6c3de8d5eb97",
+  "vendor": "Camel Audio"
+}

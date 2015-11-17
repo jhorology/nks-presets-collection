@@ -1,0 +1,14 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Soundtrack", "Pulsing", "Slow Attack", "Sustained", "VA", "Granular", "Filter Mod"],
+  "name": "Ancient Architecture",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "a53bc861-badc-4882-a5d3-0970e55262a7",
+  "vendor": "Camel Audio"
+}

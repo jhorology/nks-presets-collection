@@ -1,0 +1,15 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Techno", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "VA", "Filter Mod"],
+  "name": "Bottomz Up - Bass Arp",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Bass"],
+    ["Rhythmic", "Dance"]
+  ],
+  "uuid": "170c6f7d-0a71-425d-b459-63a1dcb16f71",
+  "vendor": "Camel Audio"
+}

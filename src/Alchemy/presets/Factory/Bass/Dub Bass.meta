@@ -1,0 +1,15 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Dubstep", "Urban", "House", "Techno", "Trance", "Electro", "World", "Dry", "Sustained", "Percussive", "VA"],
+  "name": "Dub Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sub"],
+    ["Bass", "Classic"]
+  ],
+  "uuid": "f1c327f6-d1b2-4e72-81d6-08c687a9d4c5",
+  "vendor": "Camel Audio"
+}

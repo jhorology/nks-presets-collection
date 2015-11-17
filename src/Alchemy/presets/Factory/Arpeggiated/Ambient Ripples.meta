@@ -1,0 +1,16 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Arpeggiated", "Tempo Synced", "Percussive", "VA", "Granular", "Sampler", "Multisampled"],
+  "name": "Ambient Ripples",
+  "types": [
+    ["Mallets"],
+    ["Rhythmic"],
+    ["Mallets", "Bell"],
+    ["Rhythmic", "Melodic"]
+  ],
+  "uuid": "68e57d5a-4474-43ee-a9fa-9f1ba9ad232f",
+  "vendor": "Camel Audio"
+}

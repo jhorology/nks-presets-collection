@@ -1,0 +1,17 @@
+{
+  "author": "Ole Jeppesen",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Pop", "Trance", "Arpeggiated", "Tempo Synced", "Processed", "Percussive", "VA", "Additive", "Phrase", "Pitch Mod"],
+  "name": "OmniMy",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "e31195b8-df29-4b12-b9de-7850b3a58573",
+  "vendor": "Camel Audio"
+}

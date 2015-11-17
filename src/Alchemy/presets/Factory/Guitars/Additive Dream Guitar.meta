@@ -1,0 +1,16 @@
+{
+  "author": "John Lehmkuhl",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "World", "Decaying", "VA", "Additive"],
+  "name": "Additive Dream Guitar",
+  "types": [
+    ["Guitars"],
+    ["Guitars", "Acoustic"],
+    ["Guitars", "Layered"],
+    ["Guitars", "Plucked"]
+  ],
+  "uuid": "4e4b57cf-25a0-4d7e-ab3c-26f7f5e21fb6",
+  "vendor": "Camel Audio"
+}

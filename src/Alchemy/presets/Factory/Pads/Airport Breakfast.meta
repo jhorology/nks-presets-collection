@@ -1,0 +1,14 @@
+{
+  "author": "Luftrum",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Slow Attack", "Long Release", "Sustained", "VA", "Additive", "Granular", "Sampler", "Filter Mod"],
+  "name": "Airport Breakfast",
+  "types": [
+    ["Pads"],
+    ["Pads", "Layered"]
+  ],
+  "uuid": "d5a85e57-c094-4a3c-9f93-2cede772f597",
+  "vendor": "Camel Audio"
+}

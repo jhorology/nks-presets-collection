@@ -1,0 +1,16 @@
+{
+  "author": "Junkie XL",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Industrial", "Soundtrack", "Techno", "Trance", "Processed", "Mono", "Decaying", "Morphing", "VA", "Granular", "Sampler", "Pitch Mod", "Filter Mod"],
+  "name": "Thunderdome",
+  "types": [
+    ["Sound Effects"],
+    ["Sound Effects", "Machines"],
+    ["Sound Effects", "Transition"],
+    ["Sound Effects", "Sting"]
+  ],
+  "uuid": "c6ceda85-c7bc-41c3-905a-18e0d441fcfe",
+  "vendor": "Camel Audio"
+}

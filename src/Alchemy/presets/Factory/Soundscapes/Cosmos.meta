@@ -1,0 +1,15 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Long Release", "Decaying", "Sustained", "VA", "Additive", "Pitch Mod"],
+  "name": "Cosmos",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Sci-Fi"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "13a0bab0-445d-4655-ba2e-937bb15352a3",
+  "vendor": "Camel Audio"
+}

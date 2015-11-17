@@ -1,0 +1,14 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["House", "Pop", "Dry", "Sustained", "Percussive", "VA", "Additive", "Granular", "Sampler", "Multisampled"],
+  "name": "FM Chunk Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Layered"]
+  ],
+  "uuid": "db3d54e7-9058-4e8e-97fc-129928a1719f",
+  "vendor": "Camel Audio"
+}

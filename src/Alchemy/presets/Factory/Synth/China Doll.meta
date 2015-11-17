@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Downtempo", "Pop", "Soundtrack", "Dry", "Decaying", "Percussive", "VA", "Sampler", "Multisampled"],
+  "name": "China Doll",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "90cc5358-a509-44bb-8eee-cb6e0624562c",
+  "vendor": "Camel Audio"
+}

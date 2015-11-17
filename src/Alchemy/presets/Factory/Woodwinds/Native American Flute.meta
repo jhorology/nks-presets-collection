@@ -1,0 +1,15 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "World", "Pulsing", "Processed", "Long Release", "Sustained", "Additive", "Spectral", "Sampler"],
+  "name": "Native American Flute",
+  "types": [
+    ["Soundscapes"],
+    ["Woodwinds"],
+    ["Woodwinds", "Layered"]
+  ],
+  "uuid": "a317154a-0280-4dac-add3-e9aa99c4ce7c",
+  "vendor": "Camel Audio"
+}

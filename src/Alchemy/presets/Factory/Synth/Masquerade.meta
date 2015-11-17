@@ -1,0 +1,15 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Trance", "Electro", "Processed", "Decaying", "Percussive", "Granular", "Sampler", "Multisampled"],
+  "name": "Masquerade",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "caf39fd3-51d3-4854-86ba-c29ca6b99b87",
+  "vendor": "Camel Audio"
+}

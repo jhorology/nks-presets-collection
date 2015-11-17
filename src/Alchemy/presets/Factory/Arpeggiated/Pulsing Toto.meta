@@ -1,0 +1,17 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Electronica", "Pop", "Trance", "Electro", "Arpeggiated", "Tempo Synced", "Pulsing", "Percussive", "VA", "Pitch Mod", "Filter Mod"],
+  "name": "Pulsing Toto",
+  "types": [
+    ["Rhythmic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Dance"],
+    ["Rhythmic", "Layered"],
+    ["Rhythmic", "Synths"]
+  ],
+  "uuid": "4cee74f3-3515-478a-a46c-c827cf2df125",
+  "vendor": "Camel Audio"
+}

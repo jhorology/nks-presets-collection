@@ -1,0 +1,15 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Chord", "Slow Attack", "Long Release", "Sustained", "VA", "Pitch Mod", "Filter Mod"],
+  "name": "Spacepad Dilemma",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "163bff17-06fa-4643-bbc9-20e710211de8",
+  "vendor": "Camel Audio"
+}

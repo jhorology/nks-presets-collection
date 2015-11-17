@@ -1,0 +1,15 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Techno", "Electro", "Processed", "Sustained", "Percussive", "VA", "Additive", "Granular", "Sampler"],
+  "name": "Crossing Destiny",
+  "types": [
+    ["Synths"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "f84cc37a-acaa-4fbf-ac77-54575cfb8140",
+  "vendor": "Camel Audio"
+}

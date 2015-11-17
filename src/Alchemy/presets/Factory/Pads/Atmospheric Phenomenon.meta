@@ -1,0 +1,18 @@
+{
+  "author": "Yuroun",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "Spectral", "Granular", "Sampler", "Filter Mod"],
+  "name": "Atmospheric Phenomenon",
+  "types": [
+    ["Pads"],
+    ["Soundscapes"],
+    ["Pads", "Evolving"],
+    ["Pads", "Layered"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "d346e24d-b520-4063-9137-0ddd717b0e2b",
+  "vendor": "Camel Audio"
+}

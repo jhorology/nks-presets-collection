@@ -1,0 +1,15 @@
+{
+  "author": "Himalaya",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Jazz", "World", "Tempo Synced", "Processed", "Decaying", "Percussive", "Sampler"],
+  "name": "Guitar PM Acoustic",
+  "types": [
+    ["Guitars"],
+    ["Guitars", "Acoustic"],
+    ["Guitars", "Plucked"]
+  ],
+  "uuid": "7717675d-59b8-4c8f-b418-e166717a1600",
+  "vendor": "Camel Audio"
+}

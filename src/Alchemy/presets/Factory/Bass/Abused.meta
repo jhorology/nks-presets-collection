@@ -1,0 +1,14 @@
+{
+  "author": "bManic",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Dubstep", "Electronica", "Industrial", "Techno", "Trance", "Electro", "Processed", "Mono", "Glide", "Sustained", "Percussive", "VA", "Filter Mod"],
+  "name": "Abused",
+  "types": [
+    ["Bass"],
+    ["Bass", "Sweep"]
+  ],
+  "uuid": "2ad388f3-e1f3-459f-b7c9-d2eda6503820",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Corin Neff",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Industrial", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular"],
+  "name": "Dreamport 9",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "747408eb-8ed2-40c4-a1ba-c6090ce788c5",
+  "vendor": "Camel Audio"
+}

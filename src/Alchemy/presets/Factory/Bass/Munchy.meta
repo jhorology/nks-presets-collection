@@ -1,0 +1,17 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["House", "Techno", "Trance", "Electro", "Pulsing", "Mono", "Sustained", "VA", "Filter Mod"],
+  "name": "Munchy",
+  "types": [
+    ["Bass"],
+    ["Synths"],
+    ["Bass", "Sweep"],
+    ["Bass", "Classic"],
+    ["Synths", "Mono"]
+  ],
+  "uuid": "b6bfd9c5-34bf-4175-8cd8-bef90b8e01e0",
+  "vendor": "Camel Audio"
+}

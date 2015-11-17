@@ -1,0 +1,15 @@
+{
+  "author": "Robert Rich",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Sustained", "Granular"],
+  "name": "Haunted Plucks",
+  "types": [
+    ["Keys"],
+    ["Keys", "Electric"],
+    ["Keys", "Layered"]
+  ],
+  "uuid": "e3028944-07ea-4be7-aec9-469521921c6f",
+  "vendor": "Camel Audio"
+}

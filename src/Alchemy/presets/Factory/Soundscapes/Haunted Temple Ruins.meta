@@ -1,0 +1,16 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Pulsing", "Processed", "Slow Attack", "Long Release", "Sustained", "Additive", "Granular", "Pitch Mod"],
+  "name": "Haunted Temple Ruins",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Sci-Fi"]
+  ],
+  "uuid": "c730f89d-d7df-40bf-bc96-ef395a4794bc",
+  "vendor": "Camel Audio"
+}

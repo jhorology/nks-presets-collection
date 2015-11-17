@@ -1,0 +1,20 @@
+{
+  "author": "Paul Nauert",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "World", "Arpeggiated", "Tempo Synced", "Pulsing", "Percussive", "Morphing", "VA", "Additive", "Spectral", "Pitch Mod"],
+  "name": "Polynesian Arp Morph",
+  "types": [
+    ["Mallets"],
+    ["Rhythmic"],
+    ["Mallets", "Wood"],
+    ["Mallets", "Bell"],
+    ["Mallets", "Layered"],
+    ["Rhythmic", "Melodic"],
+    ["Rhythmic", "Sequenced"],
+    ["Rhythmic", "Layered"]
+  ],
+  "uuid": "512a4fef-00c7-4809-ba70-d677a145960d",
+  "vendor": "Camel Audio"
+}

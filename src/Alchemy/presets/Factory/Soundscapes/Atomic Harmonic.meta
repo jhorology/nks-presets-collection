@@ -1,0 +1,15 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Tempo Synced", "Pulsing", "Processed", "Percussive", "Granular", "Sampler"],
+  "name": "Atomic Harmonic",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "5561a487-7380-43b7-b434-1ec7c9c87c64",
+  "vendor": "Camel Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Pop", "Soundtrack", "World", "Processed", "Decaying", "Percussive", "Sampler", "Multisampled"],
+  "name": "Chelonian Mallet",
+  "types": [
+    ["Mallets"],
+    ["Mallets", "Bell"]
+  ],
+  "uuid": "d2637358-4168-4dcd-b552-b1b478887cc2",
+  "vendor": "Camel Audio"
+}

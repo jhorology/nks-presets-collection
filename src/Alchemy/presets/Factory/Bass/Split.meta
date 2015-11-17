@@ -1,0 +1,18 @@
+{
+  "author": "Shaun Wallace",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Urban", "House", "Techno", "Trance", "Electro", "Pulsing", "Mono", "VA", "Additive", "Sampler", "Multisampled"],
+  "name": "Split",
+  "types": [
+    ["Bass"],
+    ["Synths"],
+    ["Bass", "Sweep"],
+    ["Bass", "Layered"],
+    ["Synths", "Poly"],
+    ["Synths", "Digital"]
+  ],
+  "uuid": "1d57cab1-1a58-4bb3-a9c8-260a29a19d79",
+  "vendor": "Camel Audio"
+}

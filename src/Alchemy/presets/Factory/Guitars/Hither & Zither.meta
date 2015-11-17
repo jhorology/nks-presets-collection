@@ -1,0 +1,18 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Downtempo", "Electronica", "Pop", "Soundtrack", "Long Release", "Sustained", "Granular", "Sampler", "Pitch Mod"],
+  "name": "Hither & Zither",
+  "types": [
+    ["Guitars"],
+    ["Pads"],
+    ["Pads", "Evolving"],
+    ["Guitars", "Acoustic"],
+    ["Guitars", "Layered"],
+    ["Guitars", "Plucked"]
+  ],
+  "uuid": "8e0918be-9aaf-4838-a98b-d48a6164e670",
+  "vendor": "Camel Audio"
+}

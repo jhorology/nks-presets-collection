@@ -1,0 +1,15 @@
+{
+  "author": "Denis Goekdag",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Slow Attack", "Long Release", "Sustained", "VA", "Granular"],
+  "name": "Hissy Texture Drone",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Evolving"],
+    ["Soundscapes", "Drone"]
+  ],
+  "uuid": "8a510178-c23a-473d-a398-38e0dc86d87a",
+  "vendor": "Camel Audio"
+}

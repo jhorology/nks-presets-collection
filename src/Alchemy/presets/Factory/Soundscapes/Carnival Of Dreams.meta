@@ -1,0 +1,16 @@
+{
+  "author": "Martin Walker",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electronica", "Soundtrack", "Processed", "Chord", "Percussive", "Sampler", "Filter Mod"],
+  "name": "Carnival Of Dreams",
+  "types": [
+    ["Soundscapes"],
+    ["Soundscapes", "Drone"],
+    ["Soundscapes", "Sci-Fi"],
+    ["Soundscapes", "Fragmented"]
+  ],
+  "uuid": "466de812-a993-4fb2-9b85-928de302bf34",
+  "vendor": "Camel Audio"
+}

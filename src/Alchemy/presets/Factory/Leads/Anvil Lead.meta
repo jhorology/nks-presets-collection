@@ -1,0 +1,14 @@
+{
+  "author": "M. Lewis Osborne",
+  "bankchain": ["Alchemy", "Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Drum and Bass", "Industrial", "Techno", "Trance", "Electro", "Pulsing", "Processed", "Mono", "Sustained", "VA", "Granular", "Sampler", "Multisampled", "Filter Mod"],
+  "name": "Anvil Lead",
+  "types": [
+    ["Leads"],
+    ["Leads", "Hard"]
+  ],
+  "uuid": "00d32dde-1a34-4bc6-9d91-33c5a666722d",
+  "vendor": "Camel Audio"
+}
