@@ -9,3 +9,6 @@ components/
 node_modules/
 /src/Alchemy/presets/*
 !/src/Alchemy/presets/Factory/
+/src/Alchemy/mappings/*
+!/src/Alchemy/mappings/default.json.tpl
+!/src/Alchemy/mappings/Factory/

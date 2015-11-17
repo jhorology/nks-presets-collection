@@ -282,6 +282,8 @@ order by
     dir: 'Alchemy'
     vendor: 'Camel Audio'
     magic: 'CaAl'
+    presets: '/Library/Application Support/Camel Audio/Alchemy/Presets'
+    db: '/Library/Application Support/Camel Audio/Alchemy/Alchemy_Preset_Ratings_And_Tags'
 
   #
   # FabFilter Twin 2
@@ -907,7 +909,7 @@ gulp.task 'spire-generate-meta', ->
         when (basename.indexOf ' PL ') > 0  then 'Pluck'
         when basename[-3..] is ' FX'   then 'FX'
         else 'Non-Category'
-          
+
       author = switch
         when bank is 'Factory Bank 1'   then 'Reveal Sound'
         when bank is 'Factory Bank 5'   then folder[1]
@@ -1176,7 +1178,7 @@ gulp.task 'analoglab-generate-sound-mappings', ->
     .on 'end', ->
       # colse database
       db.close()
-      
+
 # generate multi preset mappings from sqlite database
 gulp.task 'analoglab-generate-multi-mappings', ->
   # open database
@@ -1523,6 +1525,48 @@ gulp.task 'alchemy-extract-raw-presets', ->
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.Alchemy.dir}/presets"
 
+
+# generate per preset mappings
+#
+# *.acp is text file, contain control assignmnets as follow:
+# Cont1Lbl = VibratOo
+# Cont2Lbl = FltDecay
+# Cont3Lbl = SymReZ
+# Cont4Lbl = EVF1depth
+# Cont5Lbl = Comp On
+# Cont6Lbl = CompRel
+# Cont7Lbl = CoffSet--
+# Cont8Lbl = Amp
+# XyPad1x = Curved
+# XyPad1y = EQ
+# XyPad2x = Thinner
+# XyPad2y =
+gulp.task 'alchemy-generate-mappings', ->
+  # read default mapping template
+  template = _.template (fs.readFileSync "src/#{$.Alchemy.dir}/mappings/default.json.tpl").toString()
+  gulp.src ["#{$.Alchemy.presets}/**/*.acp"], read: on
+    .pipe data (file) ->
+      preset = file.contents.toString()
+      match = /(Cont1Lbl =[\s\S]*?XyPad2y = [\s\S]*?\n)/.exec preset
+      # convert json style
+      regexp = / = (.*$)/gm
+      # escape "'"
+      assignments = match[1].replace /'/g, '\\\''
+      assignments = assignments.replace regexp, ": '$1',"
+      # some presets headig '_' e.g '_XyPad1x'
+      assignments = assignments.replace /_XyPad/g, 'XyPad'
+      # string to object
+      console.info "({#{assignments}})"
+      assignments = eval "({#{assignments}})"
+      mapping = template assignments
+      # set buffer contents
+      file.contents = new Buffer mapping
+      # rename .acp to .json
+      file.path = "#{file.path[..-4]}json"
+      file.data
+    .pipe gulp.dest "src/#{$.Alchemy.dir}/mappings"
+
+
 # ---------------------------------------------------------------
 # end Novation V-Station
 #
@@ -1561,7 +1605,7 @@ gulp.task 'twin2-extract-raw-presets', ->
     .pipe extract
       form_type: 'NIKS'
       chunk_ids: ['PCHK']
-      filename_template:"<%= basename.substring(0,basename.length-5) %><%= count ? '_' + count : '' %>.<%= id.trim().toLowerCase() %>"
+      filename_template: "<%= basename.substring(0,basename.length-5) %><%= count ? '_' + count : '' %>.<%= id.trim().toLowerCase() %>"
     .pipe gulp.dest "src/#{$.Twin2.dir}/presets"
 
 # ---------------------------------------------------------------
