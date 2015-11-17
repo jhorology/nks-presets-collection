@@ -2052,7 +2052,6 @@ _check_dist_presets = (dir, PLID) ->
   dist = "dist/#{dir}/User Content/#{dir}"
   gulp.src ["#{dist}/**/*.nksf"], read: true
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['NISI', 'NICA', 'PLID']
     .pipe data (file) ->
       console.info _deserialize file
