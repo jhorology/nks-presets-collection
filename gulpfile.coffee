@@ -365,6 +365,7 @@ gulp.task 'dist', [
   'xpand2-dist'
   'analoglab-dist'
   'spire-dist'
+  'alchemy-dist'
 ]
 
 gulp.task 'deploy', [
@@ -373,6 +374,7 @@ gulp.task 'deploy', [
   'xpand2-deploy'
   'analoglab-deploy'
   'spire-deploy'
+  'alchemy-deploy'
 ]
 
 gulp.task 'release', [
@@ -381,6 +383,7 @@ gulp.task 'release', [
   'xpand2-release'
   'analoglab-release'
   'spire-release'
+  'alchemy-release'
 ]
 
 # Air Music Technology Velvet
@@ -1685,8 +1688,17 @@ gulp.task 'alchemy-deploy-presets', [
 # release
 # --------------------------------
 
+# delete third-party libs
+gulp.task 'alchemy-delete-thirdparty-libs',  ['alchemy-dist'], (cb) ->
+  del [
+    "dist/#{$.Alchemy.dir}/User Content/#{$.Alchemy.dir}/**"
+    "!dist/#{$.Alchemy.dir}/User Content/#{$.Alchemy.dir}"
+    "!dist/#{$.Alchemy.dir}/User Content/#{$.Alchemy.dir}/Factory/**"
+    ]
+  , force: true, cb
+
 # release zip file to dropbox
-gulp.task 'alchemy-release',['alchemy-dist'], ->
+gulp.task 'alchemy-release', ['alchemy-delete-thirdparty-libs'], ->
   _release $.Alchemy.dir
 
 # ---------------------------------------------------------------
