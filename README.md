@@ -17,7 +17,7 @@ NKS(Native Kontrol Standard) presets collection
 |[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||||||
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||||||
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||||||
-|[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|||||
+|[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|||||
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
