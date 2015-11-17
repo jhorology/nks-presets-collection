@@ -1,142 +1,1358 @@
 {
   "ni8": [
     [{
-      "autoname": true,
-      "id": 0,
-      "name": "Bend Range",
+      "autoname": false,
+      "id": 81,
+      "name": "Character",
+      "section": "Sound",
       "vflag": false
     }, {
-      "autoname": true,
-      "id": 1,
-      "name": "Modulation Rate",
+      "autoname": false,
+      "id": 82,
+      "name": "Complexity",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 83,
+      "name": "Tone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Emphasis",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "Contour",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Punch",
+      "section": "Dynamics",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Length",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Time-FX",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 89,
+      "name": "Depth",
+      "section": "Modulation",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "Speed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "Pre Gain",
+      "section": "FX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Off/On",
+      "section": "FX Dist",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Off/On",
+      "section": "FX Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
       "id": 2,
-      "name": "Modulation Mix",
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 3,
-      "name": "Modulation Depth",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 9,
+      "name": "Off/On",
+      "section": "FX Del",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Off/On",
+      "section": "FX Rev",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Mix",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 4,
-      "name": "Master Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "section": "Bend",
       "vflag": false
     }, {
       "autoname": true,
       "id": 5,
       "name": "Width",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 220,
+      "name": "Auto On",
+      "section": "Morph",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 223,
+      "name": "Sync On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 222,
+      "name": "Speed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 221,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 224,
+      "name": "Retrigger",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 6,
-      "name": "Mute FX",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 7,
-      "name": "Dist FX On",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 31,
+      "name": "Type",
+      "section": "Spec Dist",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Start",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 225,
+      "name": "Blur",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "section": "Spec Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Speed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Start",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Env Sel",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 43,
+      "name": "Env Dest",
+      "section": "Spec Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 40,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "LFO Sel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "LFO Dest",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Ctrl Sel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Ctrl Dest",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 207,
+      "name": "Off/On",
+      "section": "Module 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 100,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
       "vflag": false
     }],
     [{
       "autoname": true,
-      "id": 8,
-      "name": "Mod FX On",
+      "id": 102,
+      "name": "Env Source",
+      "section": "Module 1",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 9,
-      "name": "Delay FX On",
+      "id": 103,
+      "name": "Mod Source",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 10,
-      "name": "Reverb FX On",
+      "id": 104,
+      "name": "Ctrl Source",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 11,
-      "name": "Mod FX Type",
+      "id": 105,
+      "name": "Env Depth",
       "vflag": false
     }, {
       "autoname": true,
+      "id": 106,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 107,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 208,
+      "name": "Off/On",
+      "section": "Module 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 109,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 110,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 111,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 112,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 113,
+      "name": "Env Source",
+      "section": "Module 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 114,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 115,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 116,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 117,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 118,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 209,
+      "name": "Off/On",
+      "section": "Module 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 119,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 120,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 121,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 122,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 123,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 124,
+      "name": "Env Source",
+      "section": "Module 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 125,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 126,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 127,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 128,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 129,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 210,
+      "name": "Off/On",
+      "section": "Module 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 130,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 131,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 132,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 133,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 134,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 135,
+      "name": "Env Source",
+      "section": "Module 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 136,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 137,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 138,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 139,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 140,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 211,
+      "name": "Off/On",
+      "section": "Module 5",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 141,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 142,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 143,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 144,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 145,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 146,
+      "name": "Env Source",
+      "section": "Module 5",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 147,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 148,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 149,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 150,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 151,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 212,
+      "name": "Off/On",
+      "section": "Module 6",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 152,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 153,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 154,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 155,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 156,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 157,
+      "name": "Env Source",
+      "section": "Module 6",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 158,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 159,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 160,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 161,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 162,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 213,
+      "name": "Off/On",
+      "section": "Module 7",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 163,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 164,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 165,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 166,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 167,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 168,
+      "name": "Env Source",
+      "section": "Module 7",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 169,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 170,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 171,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 172,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 173,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 214,
+      "name": "Off/On",
+      "section": "Module 8",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 174,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 175,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 176,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 177,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 178,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 179,
+      "name": "Env Source",
+      "section": "Module 8",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 180,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 181,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 182,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 183,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 184,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 215,
+      "name": "Off/On",
+      "section": "Module 9",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 185,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 186,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 187,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 188,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 189,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 190,
+      "name": "Env Source",
+      "section": "Module 9",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 191,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 192,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 193,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 194,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 195,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 216,
+      "name": "Off/On",
+      "section": "Module 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 196,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 197,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 198,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 199,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "id": 200,
+      "name": "",
+      "vflag": true
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 201,
+      "name": "Env Source",
+      "section": "Module 10",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 202,
+      "name": "Mod Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 203,
+      "name": "Ctrl Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 204,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 205,
+      "name": "Mod Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 206,
+      "name": "Ctrl Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 46,
+      "name": "Env",
+      "section": "Global Pitch",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 48,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 50,
+      "name": "Attack",
+      "section": "Env 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "Hold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 54,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 55,
+      "name": "Attack",
+      "section": "Env 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 56,
+      "name": "Hold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 60,
+      "name": "Attack",
+      "section": "Env 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "Hold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 64,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 65,
+      "name": "StartLevel",
+      "section": "Env 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "AttackTime",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Slope1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Slope2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Rate",
+      "section": "LFO 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 70,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 72,
+      "name": "Fade",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 73,
+      "name": "Rate",
+      "section": "LFO 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 75,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "Fade",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "Rate",
+      "section": "LFO 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 80,
+      "name": "Fade",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 12,
-      "name": "Distortion Mode",
+      "name": "Mode",
+      "section": "FX Dist",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 13,
-      "name": "Distortion Drive",
+      "name": "Drive",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 14,
-      "name": "Distortion HighCut",
+      "name": "HighCut",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Type",
+      "section": "FX Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Depth",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 15,
-      "name": "Distortion Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
       "vflag": false
     }],
     [{
-      "autoname": true,
-      "id": 16,
-      "name": "Delay Stereo",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 17,
-      "name": "Delay Sync",
-      "vflag": false
-    }, {
-      "autoname": true,
+      "autoname": false,
       "id": 18,
-      "name": "Delay Time",
+      "name": "Time",
+      "section": "FX Del",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 19,
-      "name": "Delay Feedback",
+      "name": "Feedback",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 17,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Stereo",
+      "vflag": false
+    }, {
+      "autoname": false,
       "id": 20,
-      "name": "Delay Low Cut",
+      "name": "Low Cut",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 21,
-      "name": "Delay High Cut",
+      "name": "High Cut",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 22,
-      "name": "Delay Mix",
       "vflag": false
     }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
       "autoname": true,
       "id": 23,
       "name": "Reverb Preset",
+      "section": "FX Rev",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": true,
       "id": 24,
       "name": "Reverb Time",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 25,
-      "name": "Reverb Mix",
+      "id": 26,
+      "name": "Reverb High Cut",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 26,
-      "name": "Reverb High Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 29,
+      "name": "Per Voice",
+      "section": "Partial",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 230,
+      "name": "Sync",
       "vflag": false
     }, {
       "autoname": true,
@@ -147,513 +1363,25 @@
       "autoname": true,
       "id": 28,
       "name": "Glide Time",
+      "section": "Glide",
       "vflag": false
     }, {
-      "autoname": true,
-      "id": 29,
-      "name": "Max Num Partials",
+      "autoname": false,
+      "id": 0,
+      "name": "Range",
+      "section": "Bend",
       "vflag": false
     }, {
       "autoname": true,
       "id": 30,
       "name": "Eco Mode",
+      "section": "Eco",
       "vflag": false
     }, {
       "autoname": true,
-      "id": 31,
-      "name": "Spectral Dist Type",
       "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 32,
-      "name": "Spectral Dist Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 33,
-      "name": "Spectral Dist Start",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 34,
-      "name": "Spectral Mod Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 35,
-      "name": "Spectral Mod Speed",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 36,
-      "name": "Spectral Mod Start",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 37,
-      "name": "Spectral Mod Env Sel",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 38,
-      "name": "Spectral Mod LFO Sel",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 39,
-      "name": "Spectral Mod Ctrl Sel",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 40,
-      "name": "Spectral Mod Env Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 41,
-      "name": "Spectral Mod LFO Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 42,
-      "name": "Spectral Mod Ctrl Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 43,
-      "name": "Spectral Mod Env Dest",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 44,
-      "name": "Spectral Mod LFO Dest",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 45,
-      "name": "Spectral Mod Ctrl Dest",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 46,
-      "name": "Pitch Mod Env",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 47,
-      "name": "Pitch Mod LFO",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 48,
-      "name": "Pitch Mod Env Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 49,
-      "name": "Pitch Mod LFO Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 50,
-      "name": "Env 1 Attack",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 51,
-      "name": "Env 1 Hold",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 52,
-      "name": "Env 1 Decay",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 53,
-      "name": "Env 1 Sustain",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 54,
-      "name": "Env 1 Release",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 55,
-      "name": "Env 2 Attack",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 56,
-      "name": "Env 2 Hold",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 57,
-      "name": "Env 2 Decay",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 58,
-      "name": "Env 2 Sustain",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 59,
-      "name": "Env 2 Release",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 60,
-      "name": "Env 3 Attack",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 61,
-      "name": "Env 3 Hold",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 62,
-      "name": "Env 3 Decay",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 63,
-      "name": "Env 3 Sustain",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 64,
-      "name": "Env 3 Release",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 65,
-      "name": "Env 4 StartLevel",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 66,
-      "name": "Env 4 AttackTime",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 67,
-      "name": "Env 4 Slope1",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 68,
-      "name": "Env 4 Slope2",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 69,
-      "name": "LFO 1 Rate",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 70,
-      "name": "LFO 1 Sync",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 71,
-      "name": "LFO 1 Mode",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 72,
-      "name": "LFO 1 Fade",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 73,
-      "name": "LFO 2 Rate",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 74,
-      "name": "LFO 2 Sync",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 75,
-      "name": "LFO 2 Mode",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 76,
-      "name": "LFO 2 Fade",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 77,
-      "name": "LFO 3 Rate",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 78,
-      "name": "LFO 3 Sync",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 79,
-      "name": "LFO 3 Mode",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 80,
-      "name": "LFO 3 Fade",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 81,
-      "name": "Easy Character",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 82,
-      "name": "Easy Complexity",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 83,
-      "name": "Easy Tone",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 84,
-      "name": "Easy Emphasis",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 85,
-      "name": "Easy Contour",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 86,
-      "name": "Easy Punch",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 87,
-      "name": "Easy Length",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 88,
-      "name": "Easy Time-FX",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 89,
-      "name": "Easy Modulation",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 90,
-      "name": "Easy Speed",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 91,
-      "name": "Easy Gain",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 92,
-      "name": "MasterRsrd12",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 93,
-      "name": "MasterRsrd13",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 94,
-      "name": "MasterRsrd14",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 95,
-      "name": "MasterRsrd15",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 96,
-      "name": "MasterRsrd16",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 97,
-      "name": "Module 1 Main",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 98,
-      "name": "Module 1 Adjust 1",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 99,
-      "name": "Module 1 Adjust 2",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 100,
-      "name": "Module 1 Adjust 3",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 101,
-      "name": "Module 1 Adjust 4",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 102,
-      "name": "Module 1 Env",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 103,
-      "name": "Module 1 LFO",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 104,
-      "name": "Module 1 Ctrl",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 105,
-      "name": "Module 1 Env Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 106,
-      "name": "Module 1 LFO Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 107,
-      "name": "Module 1 Ctrl Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 108,
-      "name": "Module 2 Main",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 109,
-      "name": "Module 2 Adjust 1",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 110,
-      "name": "Module 2 Adjust 2",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 111,
-      "name": "Module 2 Adjust 3",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 112,
-      "name": "Module 2 Adjust 4",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 113,
-      "name": "Module 2 Env",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 114,
-      "name": "Module 2 LFO",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 115,
-      "name": "Module 2 Ctrl",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 116,
-      "name": "Module 2 Env Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 117,
-      "name": "Module 2 LFO Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 118,
-      "name": "Module 2 Ctrl Depth",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 119,
-      "name": "Module 3 Main",
-      "vflag": false
-    }],
-    [{
-      "autoname": true,
-      "id": 120,
-      "name": "Module 3 Adjust 1",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 121,
-      "name": "Module 3 Adjust 2",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 122,
-      "name": "Module 3 Adjust 3",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 123,
-      "name": "Module 3 Adjust 4",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 124,
-      "name": "Module 3 Env",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 125,
-      "name": "Module 3 LFO",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "id": 126,
-      "name": "Module 3 Ctrl",
-      "vflag": false
     }, {
       "autoname": true,
-      "id": 127,
-      "name": "Module 3 Env Depth",
       "vflag": false
     }]
   ]

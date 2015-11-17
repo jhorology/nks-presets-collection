@@ -366,6 +366,7 @@ gulp.task 'dist', [
   'analoglab-dist'
   'spire-dist'
   'alchemy-dist'
+  'loom-dist'
 ]
 
 gulp.task 'deploy', [
@@ -375,6 +376,7 @@ gulp.task 'deploy', [
   'analoglab-deploy'
   'spire-deploy'
   'alchemy-deploy'
+  'loom-deploy'
 ]
 
 gulp.task 'release', [
@@ -384,6 +386,7 @@ gulp.task 'release', [
   'analoglab-release'
   'spire-release'
   'alchemy-release'
+  'loom-release'
 ]
 
 # Air Music Technology Velvet
@@ -691,6 +694,93 @@ gulp.task 'loom-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# generate metadata
+gulp.task 'loom-generate-meta', ->
+  presets = "src/#{$.Loom.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
+      # meta
+      meta =
+        vendor: $.Loom.vendor
+        uuid: uuid.v4()
+        types: [
+          # remove first 3 char from folder name.
+          # ex) '01 Meet Loom' -> 'Meet Loom'
+          [folder[3..]]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['Loom', 'Loom Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Loom.dir}/presets"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'loom-dist', [
+  'loom-dist-image'
+  'loom-dist-database'
+  'loom-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'loom-dist-image', ->
+  _dist_image $.Loom.dir, $.Loom.vendor
+
+# copy database resources to dist folder
+gulp.task 'loom-dist-database', ->
+  _dist_database $.Loom.dir, $.Loom.vendor
+
+# build presets file to dist folder
+gulp.task 'loom-dist-presets', ->
+  _dist_presets $.Loom.dir, $.Loom.magic
+
+# check
+gulp.task 'loom-check-dist-presets', ->
+  _check_dist_presets $.Loom.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'loom-deploy', [
+  'loom-deploy-resources'
+  'loom-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'loom-deploy-resources', [
+  'loom-dist-image'
+  'loom-dist-database'
+  ], ->
+    _deploy_resources $.Loom.dir
+
+# copy database resources to local environment
+gulp.task 'loom-deploy-presets', [
+  'loom-dist-presets'
+  ] , ->
+    _deploy_presets $.Loom.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'loom-release',['loom-dist'], ->
+  _release $.Loom.dir
+
 # ---------------------------------------------------------------
 # end Air Music Technology Loom
 #
@@ -848,7 +938,7 @@ gulp.task 'theriser-extract-raw-presets', ->
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - Spire    (*unknown version)
-#  - recycle bitwig presets. https://github.com/jhorology/Xpand2Pack4Bitwig
+#  - recycle bitwig presets. https://github.com/jhorology/SpirePack4Bitwig
 # ---------------------------------------------------------------
 
 # preparing tasks
