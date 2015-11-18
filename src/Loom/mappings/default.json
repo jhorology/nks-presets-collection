@@ -113,7 +113,6 @@
       "vflag": false
     }, {
       "autoname": true,
-      "section": "Bend",
       "vflag": false
     }, {
       "autoname": true,
@@ -185,7 +184,9 @@
       "name": "Blur",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 34,
+      "name": "Depth",
       "section": "Spec Mod",
       "vflag": false
     }, {
