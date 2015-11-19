@@ -2,6 +2,8 @@
 NKS(Native Kontrol Standard) presets collection
 
 ## Status
+
+10940/24421(45%)
 |          |raw presets|mappings|meta|resources|download|
 |----------|:---------:|:---:|:-------:|:------:|:-------:|
 |[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|
