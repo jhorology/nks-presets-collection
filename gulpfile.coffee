@@ -104,6 +104,14 @@ $ =
   #
   # Air Music Technology Strike
   #-------------------------------------------
+  Structure:
+    dir: 'Structure'
+    vendor: 'Air Music Technology'
+    magic: 'urtS'
+    
+  #
+  # Air Music Technology Strike
+  #-------------------------------------------
   Strike:
     dir: 'Strike'
     vendor: 'Air Music Technology'
@@ -940,6 +948,45 @@ gulp.task 'theriser-extract-raw-presets', ->
 #
 
 # ---------------------------------------------------------------
+# Air Music Technology Structure
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Strike  2.06.18983
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'structure-print-default-meta', ->
+  _print_default_meta $.Structure.dir
+
+# print mapping of _Default.nksf
+gulp.task 'structure-print-default-mapping', ->
+  _print_default_mapping $.Structure.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'structure-print-magic', ->
+  _print_plid $.Structure.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'structure-generate-default-mapping', ->
+  _generate_default_mapping $.Structure.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'structure-extract-raw-presets', ->
+  gulp.src ["temp/#{$.Structure.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.Structure.dir}/presets"
+
+# ---------------------------------------------------------------
+# end Air Music Technology Structure
+#
+
+
+# ---------------------------------------------------------------
 # Air Music Technology Strike
 #
 # notes
@@ -972,6 +1019,11 @@ gulp.task 'strike-extract-raw-presets', ->
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.Strike.dir}/presets"
+
+# ---------------------------------------------------------------
+# end Air Music Technology Strike
+#
+
 
 # ---------------------------------------------------------------
 # Reveal Sound Spire
