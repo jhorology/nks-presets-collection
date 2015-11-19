@@ -100,6 +100,14 @@ $ =
     dir: 'theRiser'
     vendor: 'Air Music Technology'
     magic: "rsRt"
+    
+  #
+  # Air Music Technology Strike
+  #-------------------------------------------
+  Strike:
+    dir: 'Strike'
+    vendor: 'Air Music Technology'
+    magic: 'krtS'
 
   #
   # Reveal Sound Spire
@@ -884,7 +892,7 @@ gulp.task 'vacuumpro-extract-raw-presets', ->
 
 
 # ---------------------------------------------------------------
-# Air Music Technology VacuumPro
+# Air Music Technology theRiser
 #
 # notes
 #  - Komplete Kontrol  1.5.0(R3065)
@@ -931,6 +939,39 @@ gulp.task 'theriser-extract-raw-presets', ->
 # end Air Music Technology theRiser
 #
 
+# ---------------------------------------------------------------
+# Air Music Technology Strike
+#
+# notes
+#  - Komplete Kontrol 1.5.0(R3065)
+#  - Strike  2.06.18983
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'strike-print-default-meta', ->
+  _print_default_meta $.Strike.dir
+
+# print mapping of _Default.nksf
+gulp.task 'strike-print-default-mapping', ->
+  _print_default_mapping $.Strike.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'strike-print-magic', ->
+  _print_plid $.Strike.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'strike-generate-default-mapping', ->
+  _generate_default_mapping $.Strike.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'strike-extract-raw-presets', ->
+  gulp.src ["temp/#{$.Strike.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.Strike.dir}/presets"
 
 # ---------------------------------------------------------------
 # Reveal Sound Spire
