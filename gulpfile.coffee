@@ -727,10 +727,15 @@ gulp.task 'loom-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
       # meta
       meta =
         vendor: $.Loom.vendor
-        uuid: uuid.v4()
+        uuid: uid
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Meet Loom' -> 'Meet Loom'
@@ -854,6 +859,41 @@ gulp.task 'hybrid-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# generate metadata
+gulp.task 'hybrid-generate-meta', ->
+  presets = "src/#{$.Hybrid.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = (path.relative presets, path.dirname file.path).split path.sep
+      type = if folder.length < 2 then 'Default' else folder[1][3..]
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.Hybrid.vendor
+        uuid: uid
+        types: [
+          [type]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['Hybrid', folder[0], '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Hybrid.dir}/presets"
+    
 # ---------------------------------------------------------------
 # end Air Music Technology Hybrid
 #
@@ -1085,7 +1125,7 @@ gulp.task 'spire-generate-meta', ->
     .pipe data (file) ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
-      folder = (path.relative presets, path.dirname file.path).split '/'
+      folder = (path.relative presets, path.dirname file.path).split path.sep
       bank = folder[0]
       type = switch
         when basename[0..3] is 'ATM '  then 'Atmosphere'
