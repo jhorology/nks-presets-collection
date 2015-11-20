@@ -1800,6 +1800,39 @@ gulp.task 'bassstation-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# generate metadata
+gulp.task 'bassstation-generate-meta', ->
+  presets = "src/#{$.BassStation.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, path.extname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.BassStation.vendor
+        uuid: uid
+        types: [
+          ['Bass']
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['BassStation', 'BassStation Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.BassStation.dir}/presets"
+
 # ---------------------------------------------------------------
 # end Novation Bassstation
 #
