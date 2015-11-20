@@ -4,10 +4,10 @@
   "types": [
     ["Synth Brass"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "+01 Glossy Brass",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Xpand!2", "Xpand!2 Factory", ""],
+  "bankchain": ["Xpand!2", "Xpand!2 Factory+", ""],
   "author": ""
 }

@@ -4,10 +4,10 @@
   "types": [
     ["Brass + Woodwind"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "+29 Brass + Strings",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Xpand!2", "Xpand!2 Factory", ""],
+  "bankchain": ["Xpand!2", "Xpand!2 Factory+", ""],
   "author": ""
 }

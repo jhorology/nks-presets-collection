@@ -4,10 +4,10 @@
   "types": [
     ["Action Pads"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "+20 Sizzler",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Xpand!2", "Xpand!2 Factory", ""],
+  "bankchain": ["Xpand!2", "Xpand!2 Factory+", ""],
   "author": ""
 }

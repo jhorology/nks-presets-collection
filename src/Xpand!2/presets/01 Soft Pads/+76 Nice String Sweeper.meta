@@ -4,10 +4,10 @@
   "types": [
     ["Soft Pads"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "+76 Nice String Sweeper",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Xpand!2", "Xpand!2 Factory", ""],
+  "bankchain": ["Xpand!2", "Xpand!2 Factory+", ""],
   "author": ""
 }

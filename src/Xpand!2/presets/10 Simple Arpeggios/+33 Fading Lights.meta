@@ -4,10 +4,10 @@
   "types": [
     ["Simple Arpeggios"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "+33 Fading Lights",
   "deviceType": "INST",
   "comment": "",
-  "bankchain": ["Xpand!2", "Xpand!2 Factory", ""],
+  "bankchain": ["Xpand!2", "Xpand!2 Factory+", ""],
   "author": ""
 }

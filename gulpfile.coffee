@@ -582,20 +582,29 @@ gulp.task 'xpand2-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      bank = if basename[0] is '+'
+        'Xpand!2 Factory+'
+      else
+        'Xpand!2 Factory'
       # meta
       meta =
         vendor: $.Xpand2.vendor
-        uuid: uuid.v4()
+        uuid: uid
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'
           [folder[3..]]
         ]
-        modes: []
+        modes: ["Sample Based"]
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Xpand!2', 'Xpand!2 Factory', '']
+        bankchain: ['Xpand!2', bank, '']
         author: ''
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
@@ -1684,7 +1693,6 @@ gulp.task 'vstation-generate-default-mapping', ->
 gulp.task 'vstation-extract-raw-presets', ->
   gulp.src ["temp/#{$.VStation.dir}/**/*.nksf"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.VStation.dir}/presets"
 
@@ -1724,7 +1732,6 @@ gulp.task 'alchemy-generate-default-mapping', ->
 gulp.task 'alchemy-extract-raw-presets', ->
   gulp.src ["temp/#{$.Alchemy.dir}/**/*.nksf"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.Alchemy.dir}/presets"
 
@@ -1920,7 +1927,6 @@ gulp.task 'twin2-generate-default-mapping', ->
 gulp.task 'twin2-extract-raw-presets', ->
   gulp.src ["temp/#{$.Twin2.dir}/**/*.nksf.new"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['PCHK']
       filename_template: "<%= basename.substring(0,basename.length-5) %><%= count ? '_' + count : '' %>.<%= id.trim().toLowerCase() %>"
     .pipe gulp.dest "src/#{$.Twin2.dir}/presets"
@@ -1960,7 +1966,6 @@ gulp.task 'eightyeight-generate-default-mapping', ->
 gulp.task 'eightyeight-extract-raw-presets', ->
   gulp.src ["temp/#{$.EightyEight.dir}/**/*.nksf"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.EightyEight.dir}/presets"
 
@@ -2154,7 +2159,6 @@ _generate_default_mapping = (dir) ->
         dest = path.join (path.dirname dest), 'default.json'
         changed.compareLastModifiedTime stream, cb, file, dest
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['NICA']
       filename_template: "default.json"
     .pipe data (file) ->
@@ -2165,7 +2169,6 @@ _generate_default_mapping = (dir) ->
 _print_default_meta = (dir) ->
   gulp.src ["#{$.NI.userContent}/#{dir}/_Default.nksf"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['NISI']
     .pipe data (file) ->
       console.info _deserialize file
@@ -2174,7 +2177,6 @@ _print_default_meta = (dir) ->
 _print_default_mapping = (dir) ->
   gulp.src ["#{$.NI.userContent}/#{dir}/_Default.nksf"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['NICA']
     .pipe data (file) ->
       console.info _deserialize file
@@ -2183,7 +2185,6 @@ _print_default_mapping = (dir) ->
 _print_plid = (dir) ->
   gulp.src ["#{$.NI.userContent}/#{dir}/_Default.nksf"]
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['PLID']
     .pipe data (file) ->
       magic = _deserializeMagic file
@@ -2193,7 +2194,6 @@ _print_plid = (dir) ->
 _extract_raw_presets = (srcs, dest) ->
   gulp.src srcs
     .pipe extract
-      form_type: 'NIKS'
       chunk_ids: ['PCHK']
     .pipe gulp.dest dest
 
