@@ -448,10 +448,15 @@ gulp.task 'velvet-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
       # meta
       meta =
         vendor: $.Velvet.vendor
-        uuid: uuid.v4()
+        uuid: uid
         types: [
           ["Piano/Keys", "Electric Piano"]
         ]
@@ -1229,6 +1234,11 @@ gulp.task 'spire-generate-meta', ->
       basename = path.basename file.path, extname
       folder = (path.relative presets, path.dirname file.path).split path.sep
       bank = folder[0]
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
       type = switch
         when basename[0..3] is 'ATM '  then 'Atmosphere'
         when basename[0..2] is 'AR '   then 'Arpeggiated'
@@ -1286,7 +1296,7 @@ gulp.task 'spire-generate-meta', ->
       # meta
       meta =
         vendor: $.Spire.vendor
-        uuid: uuid.v4()
+        uuid: uid
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'
@@ -1419,6 +1429,11 @@ gulp.task 'analoglab-generate-meta', ->
   db = new sqlite3.Database $.AnalogLab.db, sqlite3.OPEN_READONLY
   gulp.src ["src/#{$.AnalogLab.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
       # SQL bind parameters
       soundname = path.basename file.path, '.pchk'
       folder = path.relative "src/#{$.AnalogLab.dir}/presets", path.dirname file.path
@@ -1436,7 +1451,7 @@ gulp.task 'analoglab-generate-meta', ->
           console.info JSON.stringify rows[0]
           done undefined,
             vendor: $.AnalogLab.vendor
-            uuid: uuid.v4()
+            uuid: uid
             types: [['Multi']]
             name: soundname
             modes: [rows[0].MusicGenreName]
@@ -1461,7 +1476,7 @@ gulp.task 'analoglab-generate-meta', ->
             return done 'row unfound in sounds'
           done undefined,
             vendor: $.AnalogLab.vendor
-            uuid: uuid.v4()
+            uuid: uid
             types: [[rows[0].TypeName?.trim()]]
             name: soundname
             modes: _.uniq (row.CharName for row in rows)
@@ -2022,6 +2037,11 @@ gulp.task 'alchemy-generate-meta', ->
   db = new sqlite3.Database $.Alchemy.db, sqlite3.OPEN_READONLY
   gulp.src ["#{$.Alchemy.presets}/**/*.acp"]
     .pipe data (file, done) ->
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
       bank = file.relative.replace /(\/.*$)/, ''
       # execute query
       db.all $.Alchemy.query_items, $preset: "Alchemy/Presets/#{file.relative}", (err, rows) ->
@@ -2047,7 +2067,7 @@ gulp.task 'alchemy-generate-meta', ->
             else
         done undefined,
           vendor: $.Alchemy.vendor
-          uuid: uuid.v4()
+          uuid: uid
           types: types
           name: rows[0].name
           modes: _.uniq modes
@@ -2257,6 +2277,11 @@ gulp.task 'serum-generate-meta', ->
   db = new sqlite3.Database $.Serum.db, sqlite3.OPEN_READONLY
   gulp.src ["src/#{$.Serum.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
       # SQL bind parameters
       params =
         $name: path.basename file.path, '.pchk'
@@ -2265,7 +2290,7 @@ gulp.task 'serum-generate-meta', ->
       db.get $.Serum.query, params, (err, row) ->
         done err,
           vendor: $.Serum.vendor
-          uuid: uuid.v4()
+          uuid: uid
           types: [[row.Category?.trim()]]
           name: row.PresetDisplayName?.trim()
           deviceType: 'INST'

@@ -132,10 +132,6 @@ NKSF file is the only type of [RIFF](https://msdn.microsoft.com/en-us/library/wi
 
 It seems that first 3 chunks are encoded using [MessagePack](http://msgpack.org). PCHK chunk is the only pluginstates.
 
-## To Do
-
-- keeping uuid
-
 ## License
 
 Raw preset data (*.pchk files) and some image files are not my property. I'm not a lawyer, but I think the use of these come under [fair-use](https://en.wikipedia.org/wiki/Fair_use).
