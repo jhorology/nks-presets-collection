@@ -13,8 +13,8 @@ NKS(Native Kontrol Standard) presets collection
 |[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_exclamation_mark:1|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|
-|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||||||
-|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||||||
+|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||:heavy_check_mark:||||
+|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:||||||
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:||||||
 |[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||||||
