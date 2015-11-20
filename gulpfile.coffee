@@ -943,6 +943,40 @@ gulp.task 'vacuumpro-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# generate metadata
+gulp.task 'vacuumpro-generate-meta', ->
+  presets = "src/#{$.VacuumPro.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.VacuumPro.vendor
+        uuid: uid
+        types: [
+          [folder[3..]]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['VacuumPro', 'VacuumPro Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.VacuumPro.dir}/presets"
+
 # ---------------------------------------------------------------
 # end Air Music Technology VacuumPro
 #
