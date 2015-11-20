@@ -1838,6 +1838,40 @@ gulp.task 'vstation-extract-raw-presets', ->
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.VStation.dir}/presets"
 
+gulp.task 'vstation-generate-meta', ->
+  presets = "src/#{$.VStation.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      type = basename.replace /^[0-9]+ /, ''
+      type = type.replace /[ ,0-9]+$/, ''
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.VStation.vendor
+        uuid: uid
+        types: [
+          [type]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['VStation', 'VStation Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.VStation.dir}/presets"
+
 # ---------------------------------------------------------------
 # end Novation V-Station
 #
