@@ -299,177 +299,177 @@
       "name": "MorFiltY",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 55,
-      "name": "DelLRate",
+      "name": "LRate",
       "section": "Delay",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 56,
-      "name": "DelLRat2",
+      "name": "LRat2",
       "section": "Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 57,
-      "name": "DelRRate",
+      "name": "RRate",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 58,
-      "name": "DelRRat2",
+      "name": "RRat2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 59,
-      "name": "DelLOff",
+      "name": "LOff",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 60,
-      "name": "DelLOff2",
+      "name": "LOff2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 61,
-      "name": "DelROff",
+      "name": "ROff",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 62,
-      "name": "DelROff2",
+      "name": "ROff2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 63,
-      "name": "DelFback",
+      "name": "Fback",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 64,
-      "name": "DelFbac2",
+      "name": "Fbac2",
       "section": "Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 65,
-      "name": "DelFbaR",
+      "name": "FbaR",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 66,
-      "name": "DelFbaR2",
+      "name": "FbaR2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 67,
-      "name": "DelF1Cut",
+      "name": "F1Cut",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 68,
-      "name": "DelF1Cu2",
+      "name": "F1Cu2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 69,
-      "name": "DelF2Cut",
+      "name": "F2Cut",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 70,
-      "name": "DelF2Cu2",
+      "name": "F2Cu2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 71,
-      "name": "DelF1Res",
+      "name": "F1Res",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 72,
-      "name": "DelF1Re2",
+      "name": "F1Re2",
       "section": "Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 73,
-      "name": "DelF2Res",
+      "name": "F2Res",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 74,
-      "name": "DelF2Re2",
+      "name": "F2Re2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 75,
-      "name": "DelMix",
+      "name": "Mix",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 76,
-      "name": "DelMix2",
+      "name": "Mix2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 77,
-      "name": "DelCross",
+      "name": "Cross",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 78,
-      "name": "DelCros2",
+      "name": "Cros2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 79,
-      "name": "DelIPan",
+      "name": "IPan",
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 80,
-      "name": "DelIPan2",
+      "name": "IPan2",
       "section": "Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 81,
-      "name": "RevSize",
+      "name": "Size",
       "section": "Reverb",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 82,
-      "name": "RevMix",
+      "name": "Mix",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 83,
-      "name": "RevDamp",
+      "name": "Damp",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 84,
-      "name": "RevDelay",
+      "name": "Delay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 85,
-      "name": "RevLoCut",
+      "name": "LoCut",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 86,
-      "name": "RevHiCut",
+      "name": "HiCut",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "vflag": false
     }]
   ]
