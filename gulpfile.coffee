@@ -2035,7 +2035,7 @@ gulp.task 'alchemy-generate-mappings', ->
 gulp.task 'alchemy-generate-meta', ->
   # open database
   db = new sqlite3.Database $.Alchemy.db, sqlite3.OPEN_READONLY
-  gulp.src ["#{$.Alchemy.presets}/**/*.acp"]
+  gulp.src ["src/#{$.Alchemy.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
       metafile = "#{file.path[..-5]}meta"
       uid = if fs.existsSync metafile
@@ -2044,7 +2044,7 @@ gulp.task 'alchemy-generate-meta', ->
         uuid.v4()
       bank = file.relative.replace /(\/.*$)/, ''
       # execute query
-      db.all $.Alchemy.query_items, $preset: "Alchemy/Presets/#{file.relative}", (err, rows) ->
+      db.all $.Alchemy.query_items, $preset: "Alchemy/Presets/#{file.relative[..-5]}acp", (err, rows) ->
         unless rows and rows.length
           return done "record not found in database. preset:#{file.relative}"
         author = ''
@@ -2079,7 +2079,7 @@ gulp.task 'alchemy-generate-meta', ->
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
       file.contents = new Buffer json
       # rename .acp to .meta
-      file.path = "#{file.path[..-4]}meta"
+      file.path = "#{file.path[..-5]}meta"
       file.data
     .pipe gulp.dest "src/#{$.Alchemy.dir}/presets"
     .on 'end', ->
