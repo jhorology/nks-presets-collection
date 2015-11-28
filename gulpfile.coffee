@@ -1423,6 +1423,7 @@ gulp.task 'spire_1_1-extract-raw-presets', ->
 # generate metadata
 gulp.task 'spire_1_1-generate-meta', ->
   presets = "src/#{$.Spire_1_1.dir}/presets"
+  resourceDir = _normalizeDirname $.Spire_1_1.dir
   gulp.src ["#{presets}/**/*.pchk"]
     .pipe data (file) ->
       extname = path.extname file.path
@@ -1504,7 +1505,7 @@ gulp.task 'spire_1_1-generate-meta', ->
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Spire-1.1', bank, '']
+        bankchain: [resourceDir, bank, '']
         author: author
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
@@ -2610,6 +2611,11 @@ _serialize = (json) ->
 _require_meta = (filePath) ->
   JSON.parse fs.readFileSync filePath, "utf8"
 
+
+# resource dirname can't use ".", "!"
+_normalizeDirname = (dir) ->
+  dir.replace /[\.\!]/, ' '
+
 #
 # prepair
 # --------------------------------
@@ -2667,12 +2673,12 @@ _extract_raw_presets = (srcs, dest) ->
 # copy image resources to dist folder
 _dist_image = (dir, vendor) ->
   gulp.src ["src/#{dir}/resources/image/**/*.{json,meta,png}"]
-    .pipe gulp.dest "dist/#{dir}/NI Resources/image/#{vendor.toLowerCase()}/#{dir.toLowerCase()}"
+    .pipe gulp.dest "dist/#{dir}/NI Resources/image/#{vendor.toLowerCase()}/#{_normalizeDirname dir.toLowerCase()}"
 
 # copy database resources to dist folder
 _dist_database = (dir, vendor) ->
   gulp.src ["src/#{dir}/resources/dist_database/**/*.{json,meta,png}"]
-    .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{vendor.toLowerCase()}/#{dir.toLowerCase()}"
+    .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{vendor.toLowerCase()}/#{_normalizeDirname dir.toLowerCase()}"
 
 # build presets file to dist folder
 # callback(file) optional, provide per preset mapping filepath.
@@ -2737,4 +2743,3 @@ _release = (dir) ->
   gulp.src ["dist/#{dir}/**/*.{json,meta,png,nksf}"]
     .pipe zip "#{dir}.zip"
     .pipe gulp.dest $.release
-
