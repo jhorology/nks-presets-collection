@@ -1,0 +1,75 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 14,
+      "name": "Delay Mix",
+      "section": "Smart Edit",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Delay Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Reverb",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Phaser Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "More Fretnoises",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Hi String Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 0,
+      "name": "Volume",
+      "section": "Master",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2,
+      "name": "Semi",
+      "section": "Transpose",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

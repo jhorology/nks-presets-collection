@@ -18,6 +18,8 @@ msgpack     = require 'msgpack-lite'
 builder     = require './lib/riff-builder'
 beautify    = require 'js-beautify'
 uuid        = require 'uuid'
+xpath       = require 'xpath'
+xmldom      = (require 'xmldom').DOMParser
 
 $ =
   #
@@ -108,6 +110,7 @@ $ =
     dir: 'Structure'
     vendor: 'Air Music Technology'
     magic: 'urtS'
+    libs: '/Applications/AIR Music Technology/Structure/Structure Factory Libraries'
     
   #
   # Air Music Technology Strike
@@ -116,14 +119,14 @@ $ =
     dir: 'Strike'
     vendor: 'Air Music Technology'
     magic: 'krtS'
-
+    
   #
   # Reveal Sound Spire
   #-------------------------------------------
   Spire:
     dir: 'Spire'
     vendor: 'Reveal Sound'
-    magic: "Spir"
+    magic: 'Spir'
 
   #
   # Reveal Sound Spire
@@ -1115,39 +1118,24 @@ gulp.task 'structure-extract-raw-presets', ->
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.Structure.dir}/presets"
 
-# generate metadata
-gulp.task 'strike-generate-meta', ->
-  presets = "src/#{$.Strike.dir}/presets"
-  gulp.src ["#{presets}/**/*.pchk"]
+# generate per preset mappings
+gulp.task 'structure-generate-mappings', ->
+  # read default mapping template
+  template = _.template (fs.readFileSync "src/#{$.Structure.dir}/mappings/default.json.tpl").toString()
+  gulp.src ["#{$.Structure.libs}/**/*.patch"], read: on
     .pipe data (file) ->
-      extname = path.extname file.path
-      basename = path.basename file.path, extname
-      folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
-      # meta
-      meta =
-        vendor: $.Strike.vendor
-        uuid: uid
-        types: [
-          ['Drum']
-        ]
-        modes: folder.split '+'
-        name: basename
-        deviceType: 'INST'
-        comment: ''
-        bankchain: ['Strike', 'Strike Factory', '']
-        author: ''
-      json = beautify (JSON.stringify meta), indent_size: $.json_indent
-      console.info json
-      file.contents = new Buffer json
-      # rename .pchk to .meta
-      file.path = "#{file.path[..-5]}meta"
-      meta
-    .pipe gulp.dest "src/#{$.Strike.dir}/presets"
+      doc = new xmldom().parseFromString file.contents.toString()
+      data  = {}
+      for key in ['Edit1','Edit2','Edit3','Edit4','Edit5','Edit6']
+        data[key] = (xpath.select "/H3Patch/H3Assign[@Source=\"#{key}\"]/@Name", doc)[0].value
+      mapping = template data
+      # set buffer contents
+      file.contents = new Buffer mapping
+      # rename .acp to .json
+      file.path = "#{file.path[..-6]}json"
+      file.data
+    .pipe gulp.dest "src/#{$.Structure.dir}/mappings"
+
 
 # ---------------------------------------------------------------
 # end Air Music Technology Structure
@@ -1188,6 +1176,40 @@ gulp.task 'strike-extract-raw-presets', ->
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.Strike.dir}/presets"
 
+# generate metadata
+gulp.task 'strike-generate-meta', ->
+  presets = "src/#{$.Strike.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.Strike.vendor
+        uuid: uid
+        types: [
+          ['Drum']
+        ]
+        modes: folder.split '+'
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['Strike', 'Strike Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Strike.dir}/presets"
+    
 # ---------------------------------------------------------------
 # end Air Music Technology Strike
 #

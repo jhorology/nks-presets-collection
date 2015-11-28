@@ -1,0 +1,75 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 14,
+      "name": "Room Amount",
+      "section": "Smart Edit",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Room Size",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Fatness",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Brightness",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Punch",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Dirt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 0,
+      "name": "Volume",
+      "section": "Master",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2,
+      "name": "Semi",
+      "section": "Transpose",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

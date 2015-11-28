@@ -1,0 +1,75 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 14,
+      "name": "Chorus Mix",
+      "section": "Smart Edit",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Loop Delay Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Pad Cutoff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Pad Reso",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Pad Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Pad Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 0,
+      "name": "Volume",
+      "section": "Master",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2,
+      "name": "Semi",
+      "section": "Transpose",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}
