@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "b16911e1-4496-420e-a82c-a85335db0032",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "13 Hybrid Moog Bass",
+  "modes": ["Sweep", "Resonant", "Bright"],
+  "deviceType": "INST",
+  "comment": "Moogish Ow Hybrid Reso Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "36a458b1-7ef6-45f7-95ef-362f4cc8feab",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "03 Fat Kit XXL",
+  "modes": ["Natural", "Fat", "Keyswitch", "XXL"],
+  "deviceType": "INST",
+  "comment": "Fat Natural Drums. Alternating Samples. Multiple Mics. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

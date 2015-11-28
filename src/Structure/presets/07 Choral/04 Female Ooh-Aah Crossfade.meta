@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a0fd64e5-2f48-4275-93a4-47a8bad1b328",
+  "types": [
+    ["Vocals", "Choir"]
+  ],
+  "name": "04 Female Ooh-Aah Crossfade",
+  "modes": ["Breathy", "Bright", "Mellow", "Rich", "Layer", "Crossfade"],
+  "deviceType": "INST",
+  "comment": "Classical Female Ooh-Aah Choir. Use Knob 1 or Modwheel Crossfade. Natural Range C2-A4.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

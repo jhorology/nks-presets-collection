@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "1ac751fe-866c-41b2-a422-21a22472c0e0",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "12 Violins Staccato Dn+Up Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Alternating Up And Down Staccato Violins. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

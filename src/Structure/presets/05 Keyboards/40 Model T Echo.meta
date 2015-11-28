@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "7d560a21-255d-443e-8351-7c2abe7341a9",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "40 Model T Echo",
+  "modes": ["Electric", "Warm", "Echo"],
+  "deviceType": "INST",
+  "comment": "Model T Electric Piano + Echo. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

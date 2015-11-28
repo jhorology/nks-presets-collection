@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "61319b20-5ce3-4503-a720-c0a1379722b4",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "20 Pop Kit GM Hard",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Pop Kit Hard Version. GM Mapping. Knob 4 Selects 1 Of 4 Snare Drum Sets.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

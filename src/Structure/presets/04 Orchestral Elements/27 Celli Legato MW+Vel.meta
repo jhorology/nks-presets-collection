@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a42736f1-e510-4a3f-81c3-58a8fb07c723",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "27 Celli Legato MW+Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Centered Modwheel=Velocity Only. Use Modwheel To Swell.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

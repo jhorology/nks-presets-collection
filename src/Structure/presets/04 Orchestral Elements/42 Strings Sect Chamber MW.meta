@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d4430ecb-f963-4017-a3ad-dcdf70c2fdf3",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "42 Strings Sect Chamber MW",
+  "modes": ["Natural", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Strings Section Chamber Long Notes. Use Modwheel to Swell. Natural Range C0-G3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

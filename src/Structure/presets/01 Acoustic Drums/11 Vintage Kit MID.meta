@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "579831ae-ca30-4a38-b0c4-bd6953e1c185",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "11 Vintage Kit MID",
+  "modes": ["Natural", "Fat", "Keyswitch", "MID", "Vintage"],
+  "deviceType": "INST",
+  "comment": "Vintage Drums. Multiple Mics. Medium Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

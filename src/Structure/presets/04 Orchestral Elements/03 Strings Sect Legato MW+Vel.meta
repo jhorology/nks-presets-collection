@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "01316469-f3c7-404d-8b54-0887d55ee2d5",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "03 Strings Sect Legato MW+Vel",
+  "modes": ["Natural", "Mod", "Wheel"],
+  "deviceType": "INST",
+  "comment": "Centered Modwheel=Velocity Only. Use Modwheel To Swell.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

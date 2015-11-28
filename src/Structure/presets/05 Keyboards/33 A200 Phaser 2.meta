@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a3a0292f-964d-46cb-b434-aa052baf9964",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "33 A200 Phaser 2",
+  "modes": ["Electric", "Phaser", "Warm", "Echo"],
+  "deviceType": "INST",
+  "comment": "A200 Electric Piano + Phaser Sampled From Digidesign Velvet. Use Modwheel For Vibrato.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

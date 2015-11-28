@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "468b65e5-72da-4b7c-a115-e4ebe3d6ab30",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "14 Toy Piano",
+  "modes": ["Natural", "", "Metallic", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Toy Piano.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

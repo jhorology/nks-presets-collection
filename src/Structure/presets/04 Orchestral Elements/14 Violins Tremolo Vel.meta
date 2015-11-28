@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "47ea8f69-203b-4a48-a031-2e41ca71162d",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "14 Violins Tremolo Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Tremolo Violins. Velocity Sensitive.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f5b427c0-e073-403a-9d7f-506870a7392a",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "08 Studio Kit MID",
+  "modes": ["Natural", "Fat", "Keyswitch", "MID"],
+  "deviceType": "INST",
+  "comment": "Clean Natural Drums. Multiple Mics. Medium Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

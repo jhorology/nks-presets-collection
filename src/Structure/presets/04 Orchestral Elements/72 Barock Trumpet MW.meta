@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8a5d8471-0a8a-4e6a-b170-18989f6695ee",
+  "types": [
+    ["Brass", "Solo"]
+  ],
+  "name": "72 Barock Trumpet MW",
+  "modes": ["Natural", "Breathy", "", "Mellow"],
+  "deviceType": "INST",
+  "comment": "Barock Trumpet. Use Mod Wheel For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

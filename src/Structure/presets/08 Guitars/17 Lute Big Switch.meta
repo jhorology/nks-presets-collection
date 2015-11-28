@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "b55f63da-a81f-4b31-a6b3-80d49bf3dbb7",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "17 Lute Big Switch",
+  "modes": ["Natural", "Velocity-Switch", "Clean"],
+  "deviceType": "INST",
+  "comment": "Lute. Use Keyswitch C0-D#0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

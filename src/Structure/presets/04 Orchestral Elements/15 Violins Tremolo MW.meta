@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "058e2073-0722-4118-84a8-e5eebd2e68b5",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "15 Violins Tremolo MW",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Tremolo Violins. Use Modwheel To Swell.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

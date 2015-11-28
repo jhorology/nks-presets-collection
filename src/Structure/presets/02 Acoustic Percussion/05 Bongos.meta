@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8860608f-289d-43e1-97fb-73b7f5b9ccad",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "05 Bongos",
+  "modes": ["Clean", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Two Bongos With Various Hit Types. Bongo 1=C1-B2. Bongo 2=C3-B4.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

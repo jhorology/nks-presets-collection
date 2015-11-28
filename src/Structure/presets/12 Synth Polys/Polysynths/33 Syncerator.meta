@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "22511b0d-f71e-4ce7-a635-abe20e7db22d",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "33 Syncerator",
+  "modes": ["Distorted", "Fat", "Hard"],
+  "deviceType": "INST",
+  "comment": "Sync Poly Synth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

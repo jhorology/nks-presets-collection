@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "bcea5ffd-9e05-4e55-b639-e96c9ec03c30",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "41 Model T Phaser",
+  "modes": ["Electric", "Warm", "", "Phase"],
+  "deviceType": "INST",
+  "comment": "Model T Electric Piano Phaser. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

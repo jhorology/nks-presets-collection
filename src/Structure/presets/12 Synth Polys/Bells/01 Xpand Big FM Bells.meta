@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "90f73e30-6ed2-43f8-97be-110865279052",
+  "types": [
+    ["Synth", "Bell"]
+  ],
+  "name": "01 Xpand Big FM Bells",
+  "modes": ["Digital", "Bell", "Detune"],
+  "deviceType": "INST",
+  "comment": "Digital Bells.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

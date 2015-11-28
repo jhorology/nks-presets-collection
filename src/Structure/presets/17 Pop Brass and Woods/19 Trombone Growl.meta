@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8dc2ce40-bd60-4103-be33-e93f1351859b",
+  "types": [
+    ["Brass", "Pop"]
+  ],
+  "name": "19 Trombone Growl",
+  "modes": ["Bright", "Detune", "Natural"],
+  "deviceType": "INST",
+  "comment": "Trombone Growl. Natural Range C1-C4",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

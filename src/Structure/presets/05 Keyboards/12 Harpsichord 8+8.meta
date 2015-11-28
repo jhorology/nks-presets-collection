@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "9512d502-75f3-48f7-8519-d7c3a78aa5f3",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "12 Harpsichord 8+8",
+  "modes": ["Natural", "", "Bright", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Harpsichord 8+8 Foot Registrations.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

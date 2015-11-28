@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "45592a15-335c-4849-9bce-42f2191b9b4c",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "41 Hand Claps Single",
+  "modes": ["Bright", "Acoustic", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Multi-Velocity single Hand Claps. Modwheel controls Level.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

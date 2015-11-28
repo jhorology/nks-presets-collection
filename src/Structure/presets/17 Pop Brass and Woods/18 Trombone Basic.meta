@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f54881df-42c0-40d8-b22a-40a67d7e6a54",
+  "types": [
+    ["Brass", "Pop"]
+  ],
+  "name": "18 Trombone Basic",
+  "modes": ["Warm", "Natural", "Bright"],
+  "deviceType": "INST",
+  "comment": "Warm Trombone. Natural Range C1-C4",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

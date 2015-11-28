@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ef3d233d-1919-45fb-9157-ff6e133074d4",
+  "types": [
+    ["Strings", "Solo"]
+  ],
+  "name": "54 Violin Solo MW",
+  "modes": ["Natural", "", "Warm", "Bright"],
+  "deviceType": "INST",
+  "comment": "Solo Violin Long. Use Modwheel To Swell. Natural Range G2-C6",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e0a9994e-514a-49fe-9963-a91ded338016",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "15 Ukulele Basic",
+  "modes": ["Metallic", "Natural", "Key-Switch"],
+  "deviceType": "INST",
+  "comment": "Ukulele Open, Fingernail and Muted. Keyswitch C0-D0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

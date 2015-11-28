@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a88ab345-b1f8-4186-a368-e7ca66f658b3",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "40 Hand Claps Big Group",
+  "modes": ["Acoustic", "", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Multi-Velocity Big Group Hand Claps.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

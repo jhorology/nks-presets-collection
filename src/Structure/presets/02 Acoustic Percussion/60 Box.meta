@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "b489b856-41dd-4ed6-9a9e-a47107255501",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "60 Box",
+  "modes": ["Hard", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Various Cardboard Box Hits Close and Far Mic.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

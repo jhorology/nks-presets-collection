@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "968aaa40-a563-4363-b4e7-6514aa103f52",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "18 Polysynth Surround",
+  "modes": ["Rich", "Detune", "Surround", "Fat"],
+  "deviceType": "INST",
+  "comment": "Analog Saw Synth Poly Layer In Surround.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

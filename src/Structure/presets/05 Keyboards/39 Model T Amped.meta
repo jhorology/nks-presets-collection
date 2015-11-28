@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "cd977476-4869-4344-915c-42d78c5577ad",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "39 Model T Amped",
+  "modes": ["Electric", "Warm", "Distorted"],
+  "deviceType": "INST",
+  "comment": "Model T  Electric Piano Amped. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e410aa0a-d609-4b63-ae89-4944f89877f2",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "30 Celli Tremolo Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Cello Section Tremolo. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

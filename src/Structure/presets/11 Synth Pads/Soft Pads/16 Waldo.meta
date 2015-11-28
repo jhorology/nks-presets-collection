@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ef9e545c-33d1-4a08-b7d8-6c50a1d01554",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "16 Waldo",
+  "modes": ["Flange", "Soft", "Morphing"],
+  "deviceType": "INST",
+  "comment": "Soft Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

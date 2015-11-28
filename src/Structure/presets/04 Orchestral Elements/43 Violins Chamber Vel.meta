@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2d4b117d-e405-4b28-890d-2381a650a4a1",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "43 Violins Chamber Vel",
+  "modes": ["Natural", "", "Warm", "Bright"],
+  "deviceType": "INST",
+  "comment": "Chamber Violins. Use Modwheel To Swell. Natural Range G2-C6",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

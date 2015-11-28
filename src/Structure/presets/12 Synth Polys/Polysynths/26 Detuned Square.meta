@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "7c1e5aaa-d939-421f-b5cc-db5add4866d6",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "26 Detuned Square",
+  "modes": ["Detune", "Fuzzy", "Hard"],
+  "deviceType": "INST",
+  "comment": "Detuned Square Poly Synth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

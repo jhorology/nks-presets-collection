@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "99efa3c1-df44-46db-abd6-1d86dfb23a9b",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "09 Nylon Guitar + FX",
+  "modes": ["Acoustic", "Natural", "Key-Switch", "Soft", "Chorus", "Echo"],
+  "deviceType": "INST",
+  "comment": "Nylon String Acoustic Guitar. C0-D#0=Dry E0-G0=Delay G#0-B0=Delay+Chorus.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

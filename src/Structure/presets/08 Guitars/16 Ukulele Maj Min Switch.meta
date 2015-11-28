@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "89233001-4b0e-4dcf-be55-69e8c196fdde",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "16 Ukulele Maj Min Switch",
+  "modes": ["Metallic", "Natural", "Key-Switch"],
+  "deviceType": "INST",
+  "comment": "Ukulele Open, Fingernail and Muted. Keyswitch C0-D0. C1-B1 Maj Strum. C2-B2 Min Strums.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

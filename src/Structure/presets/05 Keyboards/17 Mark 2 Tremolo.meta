@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "52a26f1c-6910-4cd0-a6dd-92494a16aefb",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "17 Mark 2 Tremolo",
+  "modes": ["Basic", "Electric", "Warm", "Tremolo"],
+  "deviceType": "INST",
+  "comment": "Mark 2 Electric Piano + Tremolo Sampled From Digidesign Velvet. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

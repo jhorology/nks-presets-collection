@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "aeee964c-6a09-4335-8a05-b3ace9559bee",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "09 Upright Piano Soft",
+  "modes": ["Natural", "", "Mellow", "Rich"],
+  "deviceType": "INST",
+  "comment": "Bechstein  Upright Piano. Soft Tone.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c91326e2-becd-4eb4-a5cb-7932458a5a6b",
+  "types": [
+    ["Percussion", "Ethnic"]
+  ],
+  "name": "93 Bass Drum Round Robin",
+  "modes": ["Percussive", "Natural", "Rich"],
+  "deviceType": "INST",
+  "comment": "Open Drum G1+G2. Off Center G3. Stick Rim G4.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

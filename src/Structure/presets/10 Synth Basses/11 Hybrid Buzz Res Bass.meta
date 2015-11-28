@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "de998c47-45b9-4f7a-ac68-69a3b5769932",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "11 Hybrid Buzz Res Bass",
+  "modes": ["Distorted", "Bright", "Resonant"],
+  "deviceType": "INST",
+  "comment": "Dirty Reso Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

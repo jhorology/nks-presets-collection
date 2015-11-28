@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c1776ed8-1abf-45f4-b71a-253966187e57",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "27 Djembe",
+  "modes": ["Natural", "Percussive", "Rich"],
+  "deviceType": "INST",
+  "comment": "Djembe. Various Hits. C1-B3 Right Hand, C4-B6 Left Hand.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

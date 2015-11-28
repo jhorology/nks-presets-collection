@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "6ed33762-d6e3-435d-bb6e-405c97266261",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "47 Perc Shaker 3",
+  "modes": ["Natural", "Bright", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Various Shakers. Close and Far Mic.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3ba1466a-f0fc-48fe-91a6-d5b298172875",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "08 Sync Sweep Pad Surround",
+  "modes": ["Bright", "Sweep", "Detune", "Rich", "Layer", "Surround"],
+  "deviceType": "INST",
+  "comment": "Bright Filter Reson Sweep Pad &amp; Soft Pad Layer With Surround Panning.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

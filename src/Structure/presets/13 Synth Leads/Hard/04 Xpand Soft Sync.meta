@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d9dfc950-56d5-48cf-92a0-29f8e695d443",
+  "types": [
+    ["Synth", "Lead"]
+  ],
+  "name": "04 Xpand Soft Sync",
+  "modes": ["Bright", "Sync"],
+  "deviceType": "INST",
+  "comment": "Sync Lead.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

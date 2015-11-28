@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "141e8dcc-14eb-4897-8df3-d05091f367e4",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "13 Harpsichord Lute Stop",
+  "modes": ["Natural", "", "Bright", "Damped"],
+  "deviceType": "INST",
+  "comment": "Harpsichord Lute Stop.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

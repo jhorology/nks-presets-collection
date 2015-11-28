@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "7345e75a-8b4e-41d7-aa69-abe5341f70d0",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "12 Epic Pad",
+  "modes": ["Tremolo", "Warm", "Mellow"],
+  "deviceType": "INST",
+  "comment": "Bright Epic Swell Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

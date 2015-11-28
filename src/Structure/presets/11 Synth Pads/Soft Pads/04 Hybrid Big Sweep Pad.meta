@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "94793ace-7f4d-442e-b65a-1ec632adc85e",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "04 Hybrid Big Sweep Pad",
+  "modes": ["Rich", "Fat", "Sweep"],
+  "deviceType": "INST",
+  "comment": "Fat Rich Hybrid Sweep Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

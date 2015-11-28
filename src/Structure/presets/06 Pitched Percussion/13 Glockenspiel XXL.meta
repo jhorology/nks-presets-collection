@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5f302aac-9504-49d2-911e-785043b62d79",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "13 Glockenspiel XXL",
+  "modes": ["Bright", "Hard", "Metallic", "Natural", "XXL"],
+  "deviceType": "INST",
+  "comment": "Glockenspiel With Large Sample Mapping. Natural Range Is D#5-G#6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

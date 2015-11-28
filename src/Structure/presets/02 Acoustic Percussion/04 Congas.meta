@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f29457d8-7031-48ba-8588-74d17311f14e",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "04 Congas",
+  "modes": ["Clean", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Three Congas With Various Hit Types. Conga 1=C1-B2. Conga 2=C3-B4. Conga 3=C5-B6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

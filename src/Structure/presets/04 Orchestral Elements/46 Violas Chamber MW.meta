@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "0ad1c35e-b044-41e1-9dae-10e86efd5b21",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "46 Violas Chamber MW",
+  "modes": ["Natural", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Violas Chamber Long Notes. Use Modwheel To Swell. Natural Range C2-A5",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

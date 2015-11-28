@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "40e12345-f108-41be-8232-b05a45344093",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "01 Hybrid Percussive",
+  "modes": ["Percussive", "Soft", "Warm"],
+  "deviceType": "INST",
+  "comment": "Soft Percussive Digital Hybrid Synth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

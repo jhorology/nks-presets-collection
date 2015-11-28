@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "25b7cc91-5a79-4bca-898a-0454e772ba0d",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "11 Xylophone MID",
+  "modes": ["Natural", "Percussive", "Mallet", "MID"],
+  "deviceType": "INST",
+  "comment": "Xylophone With Medium Sized Sample Mapping. Natural Range Is F3-C7.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

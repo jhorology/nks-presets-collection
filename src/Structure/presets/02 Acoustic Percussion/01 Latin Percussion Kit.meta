@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a1d7d5c1-d972-4a94-b80d-a2f448fe917b",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "01 Latin Percussion Kit",
+  "modes": ["Clean", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Natural Latin Percussion C1-G6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

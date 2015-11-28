@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8dcd8997-4cb8-47d7-863c-c7108107da85",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "01 Big 6 String Acoustic",
+  "modes": ["Acoustic", "Bright", "Natural", "Key-Switch"],
+  "deviceType": "INST",
+  "comment": "Large Acoustic Steel String Guitar With Playing Styles Selector Keyswitches C0-F0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

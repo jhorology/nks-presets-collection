@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ba7c3246-d5a6-400c-92db-8ca91696a499",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "02 Xpand Percussive Sine",
+  "modes": ["Percussive", "Hard", "Echo"],
+  "deviceType": "INST",
+  "comment": "Percussive Sine Wave With Multi-Tap Delay.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

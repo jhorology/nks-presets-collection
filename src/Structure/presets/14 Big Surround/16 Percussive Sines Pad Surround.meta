@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d253c48b-6b79-4f78-8ee5-c0455370729a",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "16 Percussive Sines Pad Surround",
+  "modes": ["Soft", "Basic", "Surround", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Rich Percussive Sine &amp; Soft Sine Pad Surround Layer.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "df72d68f-8720-49eb-ae70-f7f64bef0105",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "22 Violas Tremolo Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Viola Section Tremolos. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

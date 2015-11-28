@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "11aeaf08-45cd-496c-b114-a14fa0de69fe",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "15 Fat Kit Surround",
+  "modes": ["Natural", "Fat", "Keyswitch", "ECO", "Surround"],
+  "deviceType": "INST",
+  "comment": "Fat Natural Strike Drums. Multiple Mics Panned In Surround. Eco Data Size.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

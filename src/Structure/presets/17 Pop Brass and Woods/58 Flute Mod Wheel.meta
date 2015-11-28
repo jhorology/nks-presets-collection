@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "313e6d6d-8b5a-428c-8900-8474165e9f5f",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "58 Flute Mod Wheel",
+  "modes": ["Natural", "Breathy", "Clean"],
+  "deviceType": "INST",
+  "comment": "Flute Legato. Modwheel Controls Level. Natural Range C3-D6",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

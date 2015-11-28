@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "413d414c-bfad-4a10-ba65-1014607d6199",
+  "types": [
+    ["Synth", "Bell"]
+  ],
+  "name": "02 Xpand Light Bells",
+  "modes": ["Bell", "Bright", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Light Digital Bells.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

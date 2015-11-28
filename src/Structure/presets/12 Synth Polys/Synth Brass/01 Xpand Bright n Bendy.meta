@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "52dfd3ec-0f40-4387-a2c4-35d01d86fa52",
+  "types": [
+    ["Synth", "Brass"]
+  ],
+  "name": "01 Xpand Bright n Bendy",
+  "modes": ["Bright", "Bend", "Detune"],
+  "deviceType": "INST",
+  "comment": "Bright Bendy Detuned Synth Brass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

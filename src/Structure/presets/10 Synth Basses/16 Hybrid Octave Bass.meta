@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "61ea45d7-7778-4bdf-a557-fba808cc1518",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "16 Hybrid Octave Bass",
+  "modes": ["Percussive", "Thick"],
+  "deviceType": "INST",
+  "comment": "Attacking Analog Octave Hybrid Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

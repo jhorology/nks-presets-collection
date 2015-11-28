@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "7e71d0da-2975-4407-a437-1454d3e19a0e",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "20 AIR Steinway Surround",
+  "modes": ["Acoustic", "Natural", "Surround", "Reverb"],
+  "deviceType": "INST",
+  "comment": "Concert Hall Steinway B Grand Piano In Surround Concert Hall.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["East West"]
+}

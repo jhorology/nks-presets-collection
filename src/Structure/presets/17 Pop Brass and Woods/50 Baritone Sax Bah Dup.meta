@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5f138b3c-fd9f-4a7d-969f-880aab4da5fc",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "50 Baritone Sax Bah Dup",
+  "modes": ["Detune", "Breathy", "Natural"],
+  "deviceType": "INST",
+  "comment": "Baritone Sax Bah Dup. Natural Range C#1-A3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

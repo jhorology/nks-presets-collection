@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d5edcd7a-801f-4d1a-8b24-0faa7616bda9",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "25 Garage Kit ECO",
+  "modes": ["Natural", "Fat", "Keyswitch", "ECO"],
+  "deviceType": "INST",
+  "comment": "Garage Kit. Multiple Mics. C0-G0=Sounds. B0-A2 Kit.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

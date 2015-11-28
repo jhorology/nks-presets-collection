@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f1756f2c-c01f-4cca-bec0-da437bbbef9b",
+  "types": [
+    ["Strings", "Solo"]
+  ],
+  "name": "52 Strings Solo Long MW",
+  "modes": ["Natural", "Mellow", "Warm"],
+  "deviceType": "INST",
+  "comment": "Strings Solo Long Notes. Modwheel controls Volume. Natural Range C0-G3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

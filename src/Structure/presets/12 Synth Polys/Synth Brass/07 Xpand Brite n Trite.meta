@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3396d7cf-d2de-4556-a542-cd710b515f61",
+  "types": [
+    ["Synth", "Brass"]
+  ],
+  "name": "07 Xpand Brite n Trite",
+  "modes": ["Bend", "Bright", "Detune"],
+  "deviceType": "INST",
+  "comment": "Bright Bend Up Synth Brass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

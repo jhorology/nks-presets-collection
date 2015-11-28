@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "1003a98e-79d1-45e0-9e5a-f509e56f6b6e",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "09 Cowbells",
+  "modes": ["Clean", "Natural", "Percussive", "Bright", "Hard", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Six Cowbells With Various Hits. One Cowbell Per Octave C1-B6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

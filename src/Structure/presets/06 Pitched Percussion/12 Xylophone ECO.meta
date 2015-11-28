@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "14a5a0d2-ec1c-4a4f-a4d5-270dbb81c93d",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "12 Xylophone ECO",
+  "modes": ["Natural", "Percussive", "Mallet", "ECO"],
+  "deviceType": "INST",
+  "comment": "Xylophone With Economical Sample Mapping. Natural Range Is F3-C7.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

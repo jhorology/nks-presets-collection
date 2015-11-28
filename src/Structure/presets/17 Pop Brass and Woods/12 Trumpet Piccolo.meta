@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f53da810-da86-4a99-8a31-43dc59b872cc",
+  "types": [
+    ["Brass", "Pop"]
+  ],
+  "name": "12 Trumpet Piccolo",
+  "modes": ["Breathy", "Bright", "Natural"],
+  "deviceType": "INST",
+  "comment": "Piccolo Trumpet. Natural Range Db3-Db5",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

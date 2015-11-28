@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2d95af16-6bf8-4a7c-acf3-befb3ea790bd",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "10 Light Bells",
+  "modes": ["Bright", "Clean", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Synth Bells.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

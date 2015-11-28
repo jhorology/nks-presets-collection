@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e87a54f7-f86e-4119-8c26-90b5a835fda7",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "05 Mini PWM Bass",
+  "modes": ["Fat", "Detune", "Bright"],
+  "deviceType": "INST",
+  "comment": "Classic Single Oscillator Vintage Bright Attack PWM Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

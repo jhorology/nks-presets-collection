@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8ddbd321-00cc-4b90-9915-1b989f2d3caa",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "14 Heavy Kit MID",
+  "modes": ["Natural", "Rock", "Heavy", "Keyswitch", "MID"],
+  "deviceType": "INST",
+  "comment": "Heavy Drums. Multiple Mics. Medium Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

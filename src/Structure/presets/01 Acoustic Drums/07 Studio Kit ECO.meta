@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "656c6547-beb9-49a7-a02d-1a280c045547",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "07 Studio Kit ECO",
+  "modes": ["Natural", "Fat", "Keyswitch", "ECO"],
+  "deviceType": "INST",
+  "comment": "Clean Natural Drums. Multiple Mics. Economical Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

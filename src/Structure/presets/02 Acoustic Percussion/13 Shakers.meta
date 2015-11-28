@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2cafd224-5c5a-4bfb-bae7-9059117e82fd",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "13 Shakers",
+  "modes": ["Clean", "Natural", "Bright", "Soft"],
+  "deviceType": "INST",
+  "comment": "Six Shakers With Various Hit Types. 1 Per Octave C1-B6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

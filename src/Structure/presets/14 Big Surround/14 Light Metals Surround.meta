@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c59c9f09-413d-4cc9-87de-fcc2ea21768e",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "14 Light Metals Surround",
+  "modes": ["Percussive", "Soft", "Light", "Metallic", "Surround"],
+  "deviceType": "INST",
+  "comment": "Light Metallic Surround Poly.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

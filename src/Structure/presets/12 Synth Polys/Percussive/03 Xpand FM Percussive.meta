@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "33ac4551-a01f-41df-be38-9d696ec87f90",
+  "types": [
+    ["Synth", "Metallic"]
+  ],
+  "name": "03 Xpand FM Percussive",
+  "modes": ["Percussive", "Digital"],
+  "deviceType": "INST",
+  "comment": "Percussive FM Synth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

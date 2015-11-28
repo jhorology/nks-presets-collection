@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a88c9930-70c1-42fe-8190-9ebab68e65fa",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "39 Basses Tremolo MW",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Basses Section Tremolo. Modwheel Controls Level &amp; Playing Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

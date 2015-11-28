@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "1f5c5f0a-d09f-4c75-91ea-28be1df59eeb",
+  "types": [
+    ["Sound Effects", "Natural"]
+  ],
+  "name": "24 Balloon Blow",
+  "modes": ["Breathy", "Natural", "Noise"],
+  "deviceType": "INST",
+  "comment": "Blowing Up A Balloon.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

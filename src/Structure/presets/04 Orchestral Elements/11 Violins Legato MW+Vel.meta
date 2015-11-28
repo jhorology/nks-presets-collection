@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f4e6bce9-9a18-4e74-865d-e53865ab47ce",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "11 Violins Legato MW+Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Centered Modwheel=Velocity Only. Use Modwheel To Swell.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

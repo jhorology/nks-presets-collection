@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "4150ffc6-0798-4d24-b387-efa43f5bd0eb",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "19 Xpand Octa ResSweep Bass",
+  "modes": ["Fat", "Resonant", "Sweep", "Bright"],
+  "deviceType": "INST",
+  "comment": "Bright Reso Sweep Octave Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

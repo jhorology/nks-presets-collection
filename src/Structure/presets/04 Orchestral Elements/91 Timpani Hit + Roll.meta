@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8347326f-ca50-41e5-b37c-b33db5c4b7fd",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "91 Timpani Hit + Roll",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Timpani Hits = C1 - G2. Rolls = D3 - C5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

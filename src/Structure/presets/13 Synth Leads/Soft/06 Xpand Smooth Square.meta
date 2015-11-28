@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "df010840-34e4-43b9-924f-0de53aa6a357",
+  "types": [
+    ["Synth", "Lead"]
+  ],
+  "name": "06 Xpand Smooth Square",
+  "modes": ["Detune", "Soft"],
+  "deviceType": "INST",
+  "comment": "Basic Smooth Square Wave Lead.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

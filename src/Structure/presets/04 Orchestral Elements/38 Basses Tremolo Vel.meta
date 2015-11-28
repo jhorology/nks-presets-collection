@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5d71f1c9-808a-45a3-a78b-48a8ddbe65ff",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "38 Basses Tremolo Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Basses Section Tremolo. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

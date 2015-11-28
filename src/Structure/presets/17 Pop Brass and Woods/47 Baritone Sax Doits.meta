@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ec34a319-05bf-4d0c-876e-0aac2fcbc82c",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "47 Baritone Sax Doits",
+  "modes": ["Bend", "Detune", "Natural"],
+  "deviceType": "INST",
+  "comment": "Baritone Sax Doits. Natural Range C#1-A3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

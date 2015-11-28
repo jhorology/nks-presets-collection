@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "b35a5402-7099-4f6e-bba1-9bdf880ec5a9",
+  "types": [
+    ["Bass", "Electric"]
+  ],
+  "name": "11 Big Pick Bass",
+  "modes": ["Clean", "Electric", "Fat", "Keyswitch"],
+  "deviceType": "INST",
+  "comment": "Large Pick Bass. Keyswitches C0-A0 Select Playing Styles. FX From C5 &amp; Above.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

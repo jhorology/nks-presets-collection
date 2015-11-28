@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "eef20875-b043-4e81-8eee-0b95f81b488a",
+  "types": [
+    ["Synth", "Lead"]
+  ],
+  "name": "04 Xpand Bend Saw",
+  "modes": ["Bright", "Thin", "Resonant"],
+  "deviceType": "INST",
+  "comment": "Legato Bend Synth Saw Solo. Velocity Adds Brightness &amp; Resonance.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

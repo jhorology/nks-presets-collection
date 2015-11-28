@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "621534e2-1414-4115-a1e2-e00af153f295",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "03 Moving Chimes Pad Surround",
+  "modes": ["Detune", "Rich", "Sweep", "Rich", "Surround"],
+  "deviceType": "INST",
+  "comment": "Big Swirly Surround Pad With Moving Chimes.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

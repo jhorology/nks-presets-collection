@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "6766932e-8ba6-4e0a-99d1-25b97252fa09",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "15 Hybrid Flap Bass",
+  "modes": ["Resonant", "Sweep", "Fat"],
+  "deviceType": "INST",
+  "comment": "Flappy Hybrid Reso Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

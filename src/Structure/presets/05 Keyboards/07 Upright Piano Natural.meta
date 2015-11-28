@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "0886f16a-5ebb-4c45-9241-a762ac50e756",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "07 Upright Piano Natural",
+  "modes": ["Natural", "", "Mellow", "Rich"],
+  "deviceType": "INST",
+  "comment": "Bechstein  Upright Piano",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

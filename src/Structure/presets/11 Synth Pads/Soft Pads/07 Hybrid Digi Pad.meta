@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a4da95e1-3197-4c84-a50e-48d030201862",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "07 Hybrid Digi Pad",
+  "modes": ["Sweep", "Soft"],
+  "deviceType": "INST",
+  "comment": "Hybrid Soft Attack Analog Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d7f681a2-7ebb-455f-b240-b15186ad788a",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "09 Kalimba ECO",
+  "modes": ["Bright", "Hard", "Metallic", "Natural", "ECO", "Pluck"],
+  "deviceType": "INST",
+  "comment": "Kalimba With Economical Sample Mapping. Natural Range Is A2-E4.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

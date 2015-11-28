@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "37ab7732-98fc-4c28-ae7c-f1081ffa64bb",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "06 Hybrid Soft Pad",
+  "modes": ["Rich", "Soft", "Detune"],
+  "deviceType": "INST",
+  "comment": "Simple Rich Hybrid Pad. Good For Layering.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

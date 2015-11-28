@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3e4d891e-fd23-4219-ad89-a104aa46d4e2",
+  "types": [
+    ["Sound Effects", "Urban"]
+  ],
+  "name": "12 Gas Horn",
+  "modes": ["Natural", "Noise", "Nasty"],
+  "deviceType": "INST",
+  "comment": "Gas Horn.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

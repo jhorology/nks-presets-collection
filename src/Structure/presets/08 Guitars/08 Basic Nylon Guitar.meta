@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "03a2869b-d454-4eb4-9c26-f45168736286",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "08 Basic Nylon Guitar",
+  "modes": ["Acoustic", "Natural", "Key-Switch", "Soft"],
+  "deviceType": "INST",
+  "comment": "Nylon String Acoustic Guitar + Harmonics. C0=Normal. C#0=Harmonics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

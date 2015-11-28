@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3bba18ec-6fa4-45e9-aa0f-6c9ba61cbbc6",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "32 Celli Pizzicato",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Pizzicato Cello Section. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

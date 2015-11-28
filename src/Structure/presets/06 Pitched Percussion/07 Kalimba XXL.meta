@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "9a490aa6-8b2a-40c6-be42-9fc0ac9d6516",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "07 Kalimba XXL",
+  "modes": ["Bright", "Hard", "Metallic", "Natural", "XXL", "Pluck"],
+  "deviceType": "INST",
+  "comment": "Kalimba With Large Sample Mapping. Natural Range Is A2-E4.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

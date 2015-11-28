@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "fa37fa10-8b5c-4358-9b4f-0b529b445c9c",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "57 Flute Velo",
+  "modes": ["Natural", "Breathy", "Clean"],
+  "deviceType": "INST",
+  "comment": "Flute Legato. Modwheel Controls Vibrato. Natural Range C3-D6",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

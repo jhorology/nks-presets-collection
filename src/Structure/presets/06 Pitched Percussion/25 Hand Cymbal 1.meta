@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "88e441a7-d249-4b3f-b339-c5ed48497aac",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "25 Hand Cymbal 1",
+  "modes": ["Bright", "Percussive", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Hand Cymbals.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

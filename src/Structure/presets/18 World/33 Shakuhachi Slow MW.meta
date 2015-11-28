@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "b6052f00-6ed3-49d3-a38c-d78ea57e9cec",
+  "types": [
+    ["Ethnic", "Blown"]
+  ],
+  "name": "33 Shakuhachi Slow MW",
+  "modes": ["Natural", "", "Acoustic", "Breathy"],
+  "deviceType": "INST",
+  "comment": "Shakuhachi Slow Attack. Modwheel Controls Level. Vibrato On Aftertouch.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["AIR"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c26254b2-0e90-44e8-92ae-e63f0cbfb752",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "01 Pad + Loop Surround",
+  "modes": ["Rich", "Sweep", "Detune", "Percussive", "Surround"],
+  "deviceType": "INST",
+  "comment": "Rich Pad With Tempo Synced Rex Loop. Modwheel Reduces Pad Volume.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

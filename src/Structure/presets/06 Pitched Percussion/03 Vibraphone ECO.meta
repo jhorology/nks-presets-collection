@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e3801778-cb5c-41e9-821e-2b2215b1c067",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "03 Vibraphone ECO",
+  "modes": ["Bright", "Hollow", "Mellow", "Natural", "Percussive", "ECO"],
+  "deviceType": "INST",
+  "comment": "Vibraphone With Economical Sample Mapping. Natural Range Is F2-F5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

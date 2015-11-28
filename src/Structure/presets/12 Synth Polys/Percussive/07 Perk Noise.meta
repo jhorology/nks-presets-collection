@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "fb5ed699-3d3e-4ab3-b50f-a73db037751c",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "07 Perk Noise",
+  "modes": ["Detune", "Noise", "Fuzzy"],
+  "deviceType": "INST",
+  "comment": "Dynamic Percussive Noise.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

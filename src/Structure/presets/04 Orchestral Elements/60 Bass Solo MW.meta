@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "7c5e5d28-2031-4e80-85f9-65ccde16213e",
+  "types": [
+    ["Strings", "Solo"]
+  ],
+  "name": "60 Bass Solo MW",
+  "modes": ["Natural", "Mellow", "Warm"],
+  "deviceType": "INST",
+  "comment": "Solo Bass Long Notes. Modwheel Reduces Volume For Dynamics. Natural Range C0-G3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

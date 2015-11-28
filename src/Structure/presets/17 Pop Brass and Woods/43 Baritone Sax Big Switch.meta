@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "30c7752c-8d70-4d0b-a351-62d3d23a4c04",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "43 Baritone Sax Big Switch",
+  "modes": ["Breathy", "Bright", "Natural"],
+  "deviceType": "INST",
+  "comment": "Baritone Sax Key Switch C0-F#0. Natural Range C#1-A3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

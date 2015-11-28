@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a83f56a4-7c18-4e78-80d7-ecaddfee615d",
+  "types": [
+    ["Sound Effects", "Urban"]
+  ],
+  "name": "19 Party Whistle",
+  "modes": ["Natural", "Noise", "Detune"],
+  "deviceType": "INST",
+  "comment": "Party Whistle Multiple Velocities.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

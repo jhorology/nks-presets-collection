@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "7a5a201c-c4f7-4c49-98d4-edb9bc01fb32",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "06 Swirly Pad Surround",
+  "modes": ["Phaser", "Bright", "Sweep", "Rich", "Surround", "Panning"],
+  "deviceType": "INST",
+  "comment": "Bright Swirly Synth Pads Layer In Surround.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

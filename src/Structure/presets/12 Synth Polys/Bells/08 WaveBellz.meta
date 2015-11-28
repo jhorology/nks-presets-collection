@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "6906cb04-91e7-496c-a332-0e3ef22d2203",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "08 WaveBellz",
+  "modes": ["Mellow", "Bright", "Tremolo"],
+  "deviceType": "INST",
+  "comment": "Digital Bells with Tremolo FX.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

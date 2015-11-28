@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "626f26ab-0bfc-4b72-9282-c9dbc2e35ddb",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "27 Faithful FM Bass",
+  "modes": ["Electronic", "Fat", "Resonant"],
+  "deviceType": "INST",
+  "comment": "Fat Pulse Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "dc0e9dc8-2dc7-4187-8868-bbeb618e789d",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "62 Gong 2",
+  "modes": ["Bright", "Acoustic", "", "Natural"],
+  "deviceType": "INST",
+  "comment": "Multi-Velocity Gongs.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

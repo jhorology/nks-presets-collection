@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "9acbeef7-9246-42d5-bce4-0538182c6d93",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "07 Strings Section Tremolo MW",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Strings Section Tremolo. Modwheel Controls Level &amp; Playing Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

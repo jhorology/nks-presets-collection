@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "bd402a9f-0d37-4634-93e7-56be510bd680",
+  "types": [
+    ["Strings", "Solo"]
+  ],
+  "name": "55 Viola Solo Vel",
+  "modes": ["Natural", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Solo Viola Long. Use Modwheel to Swell. Natural Range C2-A5",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

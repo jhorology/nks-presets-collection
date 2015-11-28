@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "9a74a308-0cd8-47a2-9130-ff4da151bc81",
+  "types": [
+    ["Synth", "Brass"]
+  ],
+  "name": "02 Xpand Bigger Section",
+  "modes": ["Bright", "Detune", "Section"],
+  "deviceType": "INST",
+  "comment": "Synth Brass Section.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

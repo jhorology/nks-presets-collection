@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "341de9cd-a137-4e30-96ac-ad4e5c517b7e",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "25 Synth Strings",
+  "modes": ["Bright", "Mellow", "Electric"],
+  "deviceType": "INST",
+  "comment": "Synth Strings Poly.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

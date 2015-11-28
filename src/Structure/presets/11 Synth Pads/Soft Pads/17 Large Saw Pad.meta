@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "de756212-468b-4260-ae6a-4271de2bf837",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "17 Large Saw Pad",
+  "modes": ["Flange", "Soft", "Morphing"],
+  "deviceType": "INST",
+  "comment": "Rich Detuned Saw Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

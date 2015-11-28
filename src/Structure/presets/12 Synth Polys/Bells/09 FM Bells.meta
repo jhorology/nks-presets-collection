@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f2e9b29d-84b5-4798-a16f-d6224100a2b8",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "09 FM Bells",
+  "modes": ["Bright", "Metallic", "Percussive"],
+  "deviceType": "INST",
+  "comment": "FM Synth Bells.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

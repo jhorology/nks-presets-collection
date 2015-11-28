@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c13eeed9-a1ce-472c-8819-4cdbdb028be8",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "14 Glockenspiel MID",
+  "modes": ["Bright", "Hard", "Metallic", "Natural", "MID"],
+  "deviceType": "INST",
+  "comment": "Glockenspiel With Medium Sized Sample Mapping. Natural Range Is D#5-G#6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

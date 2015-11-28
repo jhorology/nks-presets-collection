@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "0c8dadd1-64c1-4407-a0f3-830464190857",
+  "types": [
+    ["Guitar", "Electric"]
+  ],
+  "name": "10 Strat Open + Harm",
+  "modes": ["Electric,", "Pick"],
+  "deviceType": "INST",
+  "comment": "Clean Stratocaster with Harmonics on Keyswitch C#0",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

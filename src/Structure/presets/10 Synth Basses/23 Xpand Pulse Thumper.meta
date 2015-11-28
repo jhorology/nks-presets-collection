@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f955a833-4933-4404-b53b-5e1bbacf3c08",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "23 Xpand Pulse Thumper",
+  "modes": ["Percussive", "Fat", "Thick"],
+  "deviceType": "INST",
+  "comment": "Short Percussive Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "31fdfe3b-a861-46ba-bf88-cc84dc0148a4",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "31 Celli Tremolo MW",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Cello Section Tremolo. Modwheel Controls Level &amp; Playing Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

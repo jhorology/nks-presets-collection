@@ -1131,10 +1131,45 @@ gulp.task 'structure-generate-mappings', ->
       mapping = template data
       # set buffer contents
       file.contents = new Buffer mapping
-      # rename .acp to .json
+      # rename .patch to .json
       file.path = "#{file.path[..-6]}json"
       file.data
     .pipe gulp.dest "src/#{$.Structure.dir}/mappings"
+
+# generate per preset mappings
+gulp.task 'structure-generate-meta', ->
+  # read default mapping template
+  gulp.src ["#{$.Structure.libs}/**/*.patch"], read: on
+    .pipe data (file) ->
+      basename = path.basename file.path, '.patch'
+      # if already exists .meta, reuse uuid
+      metafile = "#{file.path[..-6]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      patch = new xmldom().parseFromString file.contents.toString()
+      metaxml = (xpath.select "/H3Patch/MetaData/text()", patch).toString().replace /&lt;/mg, '<'
+      meta = new xmldom().parseFromString metaxml
+      kkmeta =
+        vendor: $.Structure.vendor
+        uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
+        types: [
+          (xpath.select "/DBValueMap/category/text()", meta).toString().trim().split ': '
+          ]
+        name: basename.trim()
+        modes: (xpath.select "/DBValueMap/keywords/text()", meta).toString().trim().split ' '
+        deviceType: 'INST'
+        comment: (xpath.select "/H3Patch/Comment/text()", patch).toString().trim()
+        bankchain: ['Structure', 'Structure Factory', '']
+        author: (xpath.select "/DBValueMap/manufacturer/text()", meta).toString().trim().split ': '
+      json = beautify (JSON.stringify kkmeta), indent_size: $.json_indent
+      # set buffer contents
+      file.contents = new Buffer json
+      # rename .patch to .json
+      file.path = "#{file.path[..-6]}meta"
+      file.data
+    .pipe gulp.dest "src/#{$.Structure.dir}/presets"
 
 
 # ---------------------------------------------------------------

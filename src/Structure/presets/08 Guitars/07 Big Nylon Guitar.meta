@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2afb5095-2e5c-4d67-bfae-5437b4489f7d",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "07 Big Nylon Guitar",
+  "modes": ["Acoustic", "Natural", "Key-Switch", "Soft"],
+  "deviceType": "INST",
+  "comment": "Large Acoustic Nylon String Guitar With Playing Styles Selector Keyswitches C0-F0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

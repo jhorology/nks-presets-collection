@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3733b01f-0fdc-48f6-b7e7-6752d7e2eb54",
+  "types": [
+    ["Vocals", "Choir"]
+  ],
+  "name": "08 Male Ooh-Aah Crossfade",
+  "modes": ["Breathy", "Bright", "Mellow", "Rich", "Layer", "Crossfade"],
+  "deviceType": "INST",
+  "comment": "Classical Female Ooh-Aah Choir. Use Knob 1 or Modwheel Crossfade.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

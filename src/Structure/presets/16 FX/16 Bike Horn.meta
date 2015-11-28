@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "fa4fd39e-51dd-43cf-9ea5-cedad972c28a",
+  "types": [
+    ["Sound Effects", "Urban"]
+  ],
+  "name": "16 Bike Horn",
+  "modes": ["Detune", "Natural", "Noise"],
+  "deviceType": "INST",
+  "comment": "Bike Horn.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

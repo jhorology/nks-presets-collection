@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "94b9b966-7987-42e3-af37-6e5c3aeeda22",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "02 Fat Kit MID",
+  "modes": ["Natural", "Fat", "Keyswitch", "MID"],
+  "deviceType": "INST",
+  "comment": "Fat Natural StrikeDrums. Multiple Mics. Medium Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

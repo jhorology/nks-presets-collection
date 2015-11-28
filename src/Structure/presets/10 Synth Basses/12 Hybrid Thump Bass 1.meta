@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "eda04d50-bc22-4f9f-8e11-8646b9ec0696",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "12 Hybrid Thump Bass 1",
+  "modes": ["Percussive", "Soft"],
+  "deviceType": "INST",
+  "comment": "Single Oscillator Hybrid Synth Thump Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

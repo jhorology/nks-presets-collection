@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "61f64618-bd5f-47d5-bab9-7e8bda3a1a93",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "06 Strings Section Tremolo Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Strings Section Tremolo. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

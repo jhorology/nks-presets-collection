@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "332dff69-13f9-4d61-bf3e-6649c26407b1",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "20 Tablas",
+  "modes": ["Fat", "Acoustic"],
+  "deviceType": "INST",
+  "comment": "5 Tablas. One in Each Octave From C1-C5. Tabla Hits C-F.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

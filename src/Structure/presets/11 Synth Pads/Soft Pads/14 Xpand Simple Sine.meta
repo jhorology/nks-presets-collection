@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "46455481-c64e-4592-a896-c13e9cf76879",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "14 Xpand Simple Sine",
+  "modes": ["Soft", "Basic"],
+  "deviceType": "INST",
+  "comment": "Soft Simple Sine Wave Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

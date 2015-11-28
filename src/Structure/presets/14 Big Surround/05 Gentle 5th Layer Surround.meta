@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ada76fcc-c53b-4d16-aca2-3a8ef6b624d1",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "05 Gentle 5th Layer Surround",
+  "modes": ["Bend", "Detune", "Sweep", "Harmony", "Rich", "Surround"],
+  "deviceType": "INST",
+  "comment": "5th Harmony Pad &amp; Soft Sweeper Layer With Surround Panning &amp; Effects.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

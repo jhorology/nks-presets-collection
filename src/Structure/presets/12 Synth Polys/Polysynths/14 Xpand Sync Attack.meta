@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c5e3ceeb-b31f-47f6-950c-ade6edacd479",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "14 Xpand Sync Attack",
+  "modes": ["Bright", "Hard", "Attack"],
+  "deviceType": "INST",
+  "comment": "Bright Sync Sweep Poly.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

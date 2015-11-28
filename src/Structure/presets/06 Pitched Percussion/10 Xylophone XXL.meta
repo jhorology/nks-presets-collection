@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "99d5cb4e-59c9-45ab-b89c-195f2a5cdb7c",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "10 Xylophone XXL",
+  "modes": ["Natural", "Percussive", "Mallet", "XXL"],
+  "deviceType": "INST",
+  "comment": "Xylophone With Large Sample Mapping. Natural Range Is F3-C7.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

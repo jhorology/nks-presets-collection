@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e327c15f-04aa-4666-ad47-889bf62aa587",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "65 Gong Cymbal Mute 1",
+  "modes": ["Bright", "Acoustic", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Chromatically Mapped Multi-Velocity Muted Gong. Close and Far Mics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d6459704-230c-469b-a545-1ff5972585f1",
+  "types": [
+    ["Keyboards", "Vintage"]
+  ],
+  "name": "59 Harmonium",
+  "modes": ["Detune", "Soft", "Lo-Fi"],
+  "deviceType": "INST",
+  "comment": "Harmonium. Modwheel Controls Volume.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

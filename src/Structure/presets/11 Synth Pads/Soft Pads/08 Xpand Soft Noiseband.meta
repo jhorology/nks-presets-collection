@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5671ad0a-014a-4105-a260-00c949a9bf54",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "08 Xpand Soft Noiseband",
+  "modes": ["Soft", "Noise"],
+  "deviceType": "INST",
+  "comment": "Soft Noise Pad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

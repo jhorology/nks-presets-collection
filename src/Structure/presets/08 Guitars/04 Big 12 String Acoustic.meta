@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "968f8838-0c18-4cc2-bce0-4b78aa730b27",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "04 Big 12 String Acoustic",
+  "modes": ["Acoustic", "Bright", "Natural", "Key-Switch"],
+  "deviceType": "INST",
+  "comment": "12 String Acoustic Guitar With Playing Styles Selector Keyswitches C0-D0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

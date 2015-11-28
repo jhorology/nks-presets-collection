@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "37977d50-cbfe-4498-a413-cd246d5d1f6e",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "26 A200  Electric Piano",
+  "modes": ["Basic", "Electric", "Warm"],
+  "deviceType": "INST",
+  "comment": "Basic A200 Electric Piano Sampled From Digidesign Velvet. Use Modwheel For Vibrato.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

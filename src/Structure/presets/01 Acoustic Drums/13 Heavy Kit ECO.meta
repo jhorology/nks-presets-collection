@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "453cf430-c330-4979-bb36-ced82b386f11",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "13 Heavy Kit ECO",
+  "modes": ["Natural", "Rock", "Heavy", "Keyswitch", "ECO"],
+  "deviceType": "INST",
+  "comment": "Heavy Drums. Multiple Mics. Economical Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

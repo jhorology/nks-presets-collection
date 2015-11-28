@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "1ad2956b-ca41-413e-94dc-9d7499f96234",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "06 Electric Piano Tine",
+  "modes": ["Bright", "Mellow", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Electric Piano Synth Tine.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "22a75316-de5f-4e49-b626-dd06cc6795cb",
+  "types": [
+    ["Synth", "Brass"]
+  ],
+  "name": "08 Xpand Attack Brass",
+  "modes": ["Bend", "Bright", "Detune"],
+  "deviceType": "INST",
+  "comment": "Synth Brass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

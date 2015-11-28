@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5d351ac4-6dce-48da-9447-400b86c6e358",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "12 Belly Body",
+  "modes": ["Bright", "Clean", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Percussive Belly Synth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

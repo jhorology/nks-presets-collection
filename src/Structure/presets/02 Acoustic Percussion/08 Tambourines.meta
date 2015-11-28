@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "456f4f85-dd52-4ef7-8788-058c43578ed4",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "08 Tambourines",
+  "modes": ["Clean", "Natural", "Percussive", "Bright", "Hard", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Five Tambourines With Various Hits. One Tambourine Per Octave C1-B5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

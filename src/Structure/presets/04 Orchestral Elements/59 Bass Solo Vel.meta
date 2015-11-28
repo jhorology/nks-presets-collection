@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5765d882-8c89-4ff1-9eb9-7f464ed94210",
+  "types": [
+    ["Strings", "Solo"]
+  ],
+  "name": "59 Bass Solo Vel",
+  "modes": ["Natural", "Mellow", "Warm"],
+  "deviceType": "INST",
+  "comment": "Solo Bass Long Notes. Modwheel Reduces Volume For Dynamics. Natural Range C0-G3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

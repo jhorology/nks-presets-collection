@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "71304e4e-309d-4a4d-bc19-53751f4e4f0a",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "02 Hybrid Soft String Pad",
+  "modes": ["Rich", "Detune", "Chorus"],
+  "deviceType": "INST",
+  "comment": "Soft Hybrid Strings.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

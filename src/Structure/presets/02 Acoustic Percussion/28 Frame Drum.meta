@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2987809e-75d9-4002-9a0d-980745797289",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "28 Frame Drum",
+  "modes": ["Natural", "Percussive", "Woody"],
+  "deviceType": "INST",
+  "comment": "Frame Drum. Various Hits. Close And Far Mics. C3-B3.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e75475e6-2cdb-4f81-8413-437bb710e802",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "12 Triangles",
+  "modes": ["Bright", "Clean", "Metallic", "Natural"],
+  "deviceType": "INST",
+  "comment": "Three Triangles. 1 Octave Each C1-B3.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

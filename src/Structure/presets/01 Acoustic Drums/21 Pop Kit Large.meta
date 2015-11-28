@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "edc3e6d9-c87f-4f1f-8789-af3f642fbca6",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "21 Pop Kit Large",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Pop Kit Large Mapping. See PDF For Mapping.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

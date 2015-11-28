@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d0399326-8bf8-4a42-98f1-502ddad74a7c",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "31 A200 Classic Vibrato",
+  "modes": ["Electric", "Warm", "Distorted", "Vibrato"],
+  "deviceType": "INST",
+  "comment": "Amped A200 Electric Piano + Vibrato From Digidesign Velvet. Use Modwheel For Vibrato.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "be698f08-c39b-462e-9af4-cf06445c9593",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "88 Flute Staccato Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Alternating Staccato Flute. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

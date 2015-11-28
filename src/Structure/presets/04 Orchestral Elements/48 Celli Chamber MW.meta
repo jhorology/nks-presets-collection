@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "eda4f0a8-d072-433c-b8f8-68dbf69c6a03",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "48 Celli Chamber MW",
+  "modes": ["Natural", "Warm", "Bright"],
+  "deviceType": "INST",
+  "comment": "Celli Chamber Long Notes. Use Modwheel to Swell. Natural Range C1-A4",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

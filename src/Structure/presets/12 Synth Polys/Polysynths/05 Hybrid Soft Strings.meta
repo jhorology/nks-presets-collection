@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ab197738-7dd3-48f8-a2c5-4dfc45834dd0",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "05 Hybrid Soft Strings",
+  "modes": ["Rich", "Detune", "Chorus"],
+  "deviceType": "INST",
+  "comment": "Soft Hybrid Strings.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

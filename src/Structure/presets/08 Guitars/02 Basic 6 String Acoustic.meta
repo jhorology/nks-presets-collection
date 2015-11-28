@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a24627a2-a43b-44b1-8469-a1dc7ce9258b",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "02 Basic 6 String Acoustic",
+  "modes": ["Acoustic", "Bright", "Natural", "Key-Switch"],
+  "deviceType": "INST",
+  "comment": "6 String Acoustic Guitar +  Harmonics. C0 Selects Normal, C#0 Harmonics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

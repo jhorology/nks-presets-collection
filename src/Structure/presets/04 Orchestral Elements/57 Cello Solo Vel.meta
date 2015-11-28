@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2e78cb87-d665-4bd0-bb15-cbcad0449592",
+  "types": [
+    ["Strings", "Solo"]
+  ],
+  "name": "57 Cello Solo Vel",
+  "modes": ["Natural", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Solo Cello Long. Use Modwheel to Swell. Natural Range C1-A4",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "bd433a8d-c8a2-4c19-99a2-b9a8f28e2ac9",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "43 Finger Snap Single",
+  "modes": ["Acoustic", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Various Single Finger Snaps.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

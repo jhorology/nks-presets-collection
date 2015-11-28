@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5f44e50e-1af7-4aa4-acb6-cd4bde936b65",
+  "types": [
+    ["Sound Effects", "Urban"]
+  ],
+  "name": "14 Electronic Alarm Clock",
+  "modes": ["Clean", "Natural", "Noise"],
+  "deviceType": "INST",
+  "comment": "Electronic Alarm Clock.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

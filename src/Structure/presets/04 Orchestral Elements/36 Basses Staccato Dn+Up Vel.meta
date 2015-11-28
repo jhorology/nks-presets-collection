@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "731a7167-5c49-4292-9a0d-2ca23c0217ed",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "36 Basses Staccato Dn+Up Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Alternating Up + Down Basses Staccato. Modwheel Reduces Volume For Dynamics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

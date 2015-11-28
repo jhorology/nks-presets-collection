@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "147c46b3-70ca-4d2f-b3c5-847bdc6e31b6",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "23 Buzzsaw",
+  "modes": ["Bright", "Rich", "Warm"],
+  "deviceType": "INST",
+  "comment": "Sawpad.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d632bc90-082c-48f6-a68c-fe76b771cfa0",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "04 Xpand Bright Sync Sweep",
+  "modes": ["Bright", "Sweep", "Detune"],
+  "deviceType": "INST",
+  "comment": "Very Bright Filter Reson Sweep Pad/Poly.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

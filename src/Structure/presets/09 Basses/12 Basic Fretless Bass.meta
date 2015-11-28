@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "97936d07-f9f7-43f4-87bb-a7e6dd6f0e94",
+  "types": [
+    ["Bass", "Electric"]
+  ],
+  "name": "12 Basic Fretless Bass",
+  "modes": ["Clean", "Electric", "Fat", "Keyswitch"],
+  "deviceType": "INST",
+  "comment": "Fretless Bass. C0=Mono. C#0=Poly. FX From C5 Up.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

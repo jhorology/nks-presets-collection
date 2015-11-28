@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "eaed0182-3572-4d44-a1a7-c50a41885f9b",
+  "types": [
+    ["Loop", "Percussion"]
+  ],
+  "name": "48 Shekere Perc Loop",
+  "modes": ["Bright", "Key-Switch", "Pulsing", "Noise"],
+  "deviceType": "INST",
+  "comment": "Shekere Percussion Loops. 4 Variations Selectable By Key Switches C5-D#5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

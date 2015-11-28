@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "562da428-d300-4933-9ff9-98945c4d4ac0",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "08 Kalimba MID",
+  "modes": ["Bright", "Hard", "Metallic", "Natural", "MID", "Pluck"],
+  "deviceType": "INST",
+  "comment": "Kalimba With Medium Sized Sample Mapping. Natural Range Is A2-E4.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

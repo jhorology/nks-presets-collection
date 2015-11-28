@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f4e3bd6b-571b-4c9e-9335-26ede33811c1",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "14 Ukulele Big Switch",
+  "modes": ["Metallic", "Natural", "Key-Switch"],
+  "deviceType": "INST",
+  "comment": "Ukulele Open, Fingernail and Muted. Keyswitch C0-D0. C1-B1 Maj Strum. C2-B2 Min Strums.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

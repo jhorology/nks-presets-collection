@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "4ebac6ae-6b8c-46b0-92e2-a0df35ae4f57",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "06 Marimba ECO",
+  "modes": ["Hard", "Hollow", "Natural", "Percussive", "ECO"],
+  "deviceType": "INST",
+  "comment": "Marimba With Economical Sample Mapping. Natural Range Is F1-C6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

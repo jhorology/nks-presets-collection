@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "258a2eae-f0f6-45eb-b599-18859e0bfb8f",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "01 Vibraphone XXL",
+  "modes": ["Bright", "Hollow", "Mellow", "Natural", "Percussive", "XXL"],
+  "deviceType": "INST",
+  "comment": "Vibraphone With Large Sample Mapping. Natural Range Is F2-F5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

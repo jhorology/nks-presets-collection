@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "4d90b251-d5f2-4578-b4fe-785222167e71",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "05 Music Box",
+  "modes": ["Percussive", "Bright", "Echo"],
+  "deviceType": "INST",
+  "comment": "Music Box.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

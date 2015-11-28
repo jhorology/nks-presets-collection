@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f68092e4-2887-4245-912d-b1e904ae5881",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "26 Hand Cymbal 2",
+  "modes": ["Natural", "Percussive", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Hand Cymbals.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

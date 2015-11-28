@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e3cbfb85-7b25-4545-96c3-a10c822ac7c7",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "11 Spectral Bell",
+  "modes": ["Bright", "Percussive", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Digital Detuned Bell Poly Synth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "6f734ee6-6080-43de-bf9d-e81111512ac1",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "09 Simple Soft & Surround",
+  "modes": ["Rich", "Sweep", "Soft", "Surround"],
+  "deviceType": "INST",
+  "comment": "Simple Soft Moving Surround Pad. Modwheel Adds Sparkle.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

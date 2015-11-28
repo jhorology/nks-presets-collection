@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a3c6d2a2-e5b3-44cd-9c56-478499545675",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "17 Hybrid Reso Bass 1",
+  "modes": ["Resonant", "Sweep", "Wah"],
+  "deviceType": "INST",
+  "comment": "Reso Hybrid Synth Bass. Use Modwheel For Wah Type Effect.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

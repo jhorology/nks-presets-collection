@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8f47f171-4bbe-43ac-91c7-3d3322f6a347",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "26 Fat Pulse Bass",
+  "modes": ["Electronic", "Fat", "Resonant"],
+  "deviceType": "INST",
+  "comment": "Fat Pulse Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

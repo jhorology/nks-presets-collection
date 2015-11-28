@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "9d234395-52c3-4bbc-b103-4dc904d2e1f7",
+  "types": [
+    ["Synth", "Poly"]
+  ],
+  "name": "13 Xpand Porta Bend",
+  "modes": ["Bend", "Bright", "Thick"],
+  "deviceType": "INST",
+  "comment": "Bright Bend Synth Poly.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "0020abca-8fb1-4f40-8255-61efafefdc98",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "35 Basses Legato MW+Vel",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Centered Modwheel=Velocity Only. Use Modwheel To Swell.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

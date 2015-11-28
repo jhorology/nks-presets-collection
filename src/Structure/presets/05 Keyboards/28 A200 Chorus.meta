@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "166dd045-7b55-498f-84c0-91e32768056b",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "28 A200 Chorus",
+  "modes": ["Electric", "Warm", "Chorus"],
+  "deviceType": "INST",
+  "comment": "A200 Electric Piano + Chorus Sampled From Digidesign Velvet. Use Modwheel For Vibrato.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

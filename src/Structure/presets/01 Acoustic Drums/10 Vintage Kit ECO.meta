@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "5635551f-68a4-40d3-990a-0d71ccfa76c9",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "10 Vintage Kit ECO",
+  "modes": ["Natural", "Fat", "Keyswitch", "ECO", "Vintage"],
+  "deviceType": "INST",
+  "comment": "Vintage Drums. Multiple Mics. Economical Data Size. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

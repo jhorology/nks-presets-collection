@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "4dc01b24-1f06-4676-a721-66ac20174b29",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "37 Model T Chorus",
+  "modes": ["Electric", "Warm", "", "Mellow"],
+  "deviceType": "INST",
+  "comment": "Model T Electric Piano With Chorus. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

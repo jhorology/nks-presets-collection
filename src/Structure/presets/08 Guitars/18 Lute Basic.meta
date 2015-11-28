@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "6958c055-c106-454e-abfd-caac7917eb9d",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "18 Lute Basic",
+  "modes": ["Natural", "Velocity-Switch", "Clean"],
+  "deviceType": "INST",
+  "comment": "Lute, Main Picked Samples Only.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

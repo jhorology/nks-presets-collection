@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "4f960bdd-99b4-4589-9ff7-1d9be351b274",
+  "types": [
+    ["Synth", "Bell"]
+  ],
+  "name": "04 Xpand Tubular Bells",
+  "modes": ["Bell", "Detune", "Metallic"],
+  "deviceType": "INST",
+  "comment": "FM Tubular Bells.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "d09767ed-5bd5-45b7-aa4a-e573904ca652",
+  "types": [
+    ["Percussion", "FX"]
+  ],
+  "name": "67 Breath",
+  "modes": ["Breathy", "Natural", "Noise"],
+  "deviceType": "INST",
+  "comment": "Human Breath. C1-C3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

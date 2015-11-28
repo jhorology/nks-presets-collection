@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "0c1ca491-74f1-4b97-ba1d-7620c798b429",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "05 Strings Staccato Dn+Up MW",
+  "modes": ["Natural", "Mod-Wheel"],
+  "deviceType": "INST",
+  "comment": "Alternating Down And Up Strings Section Staccato. Use Modwheel.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

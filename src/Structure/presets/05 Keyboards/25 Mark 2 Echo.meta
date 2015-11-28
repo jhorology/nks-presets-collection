@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "0b28c526-ebbf-44f5-87e7-58fc2132de8a",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "25 Mark 2 Echo",
+  "modes": ["Electric", "Warm", "Echo"],
+  "deviceType": "INST",
+  "comment": "Mark 2 Electric Piano + Echo Sampled From Digidesign Velvet. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "eff317c6-8ad7-4bc7-9bc6-9b6f10d502eb",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "22 Steeldrums",
+  "modes": ["Hard", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Steeldrums. Natural Range Is C3-E5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "67454bb6-20ca-44ba-800d-6abc28de437e",
+  "types": [
+    ["Keyboards", "Organ"]
+  ],
+  "name": "58 Church Organ",
+  "modes": ["Bright", "Natural", "Rich"],
+  "deviceType": "INST",
+  "comment": "Bright Church Organ.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

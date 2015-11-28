@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "dfa5a7e2-86b6-480d-8849-e1d52fe9091f",
+  "types": [
+    ["Piano", "Acoustic"]
+  ],
+  "name": "10 Harpsichord 8 Foot Lower",
+  "modes": ["Natural", "", "Metallic", "Bright"],
+  "deviceType": "INST",
+  "comment": "Harpsichord 8 Foot Lower Keyboard.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c24935b1-7804-47d9-9b6b-b494e0c5054e",
+  "types": [
+    ["Guitar", "Electric"]
+  ],
+  "name": "13 Basic Jazz Guitar",
+  "modes": ["Electric", "Key-Switch", "Clean"],
+  "deviceType": "INST",
+  "comment": "Clean Jazz Guitar.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

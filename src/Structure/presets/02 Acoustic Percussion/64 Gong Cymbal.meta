@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "854510cb-fe91-4805-8943-04aa9b6167f1",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "64 Gong Cymbal",
+  "modes": ["Bright", "Acoustic", "Metallic"],
+  "deviceType": "INST",
+  "comment": "Chromatically Mapped Multi-Velocity Gong. Close and Far Mics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

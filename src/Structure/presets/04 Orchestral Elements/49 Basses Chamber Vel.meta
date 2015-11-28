@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "50068978-dccb-4c30-8d23-8b3be9ca9040",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "49 Basses Chamber Vel",
+  "modes": ["Natural", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Chamber Basses Long Notes. Use Modwheel to Swell. Natural Range C0-G3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

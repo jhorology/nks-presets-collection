@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ddfe2dce-7e54-4260-9555-2c0a8a561828",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "19 Vintage & FM EP Surround",
+  "modes": ["Basic", "Electric", "Warm", "Chorus", "Digital", "Surround"],
+  "deviceType": "INST",
+  "comment": "Vintage &amp; FM Electric Pianos Layer. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

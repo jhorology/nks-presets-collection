@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "2ac55f9d-d01a-4762-8ef6-844596726669",
+  "types": [
+    ["Brass", "Solo"]
+  ],
+  "name": "73 Flugelhorn",
+  "modes": ["Natural", "Warm", "Bright"],
+  "deviceType": "INST",
+  "comment": "Solo Flugelhorn. Natural Range F2-C5",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "bf89137c-f91b-4cca-aa0c-9a437253ac0e",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "25 Xpand Octa Saw Bass",
+  "modes": ["Attack", "Fat", "Resonant"],
+  "deviceType": "INST",
+  "comment": "Filtered Resonant Octave Synth Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

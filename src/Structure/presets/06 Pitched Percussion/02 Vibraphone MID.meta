@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "ed29d697-fdd2-487f-bcc4-4adc4d4383d8",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "02 Vibraphone MID",
+  "modes": ["Bright", "Hollow", "Mellow", "Natural", "Percussive", "MID"],
+  "deviceType": "INST",
+  "comment": "Vibraphone With Medium Sized Sample Mapping. Natural Range Is F2-F5.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "1f843023-b139-4e86-ba8f-e214392d3fc2",
+  "types": [
+    ["Bass", "Electric"]
+  ],
+  "name": "13 Big Fretless Bass",
+  "modes": ["Clean", "Electric", "Fat", "Keyswitch"],
+  "deviceType": "INST",
+  "comment": "Fretless Bass. C0=Mono. C#0=Poly. D0=Deadnotes. D#0=Harmonics. FX From C5 Up.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "49e492e4-8560-42a1-b98d-ff78b6e8ef9f",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "17 Rhythmic PP Surround",
+  "modes": ["Hard", "Hollow", "Natural", "Percussive", "Surround", "Echo"],
+  "deviceType": "INST",
+  "comment": "Various Pitched Percussion With Rhythmic Delays In Surround.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

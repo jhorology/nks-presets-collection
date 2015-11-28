@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "e3c6983d-caef-41cc-b2af-c4efaf87418b",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "18 Mark 2 Chorus",
+  "modes": ["Basic", "Electric", "Warm", "Chorus"],
+  "deviceType": "INST",
+  "comment": "Mark 2 Electric Piano + Chorus Sampled From Digidesign Velvet. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

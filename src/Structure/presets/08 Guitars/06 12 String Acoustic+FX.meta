@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3f774a09-a4e7-4643-b527-ad31682fe940",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "06 12 String Acoustic+FX",
+  "modes": ["Acoustic", "Bright", "Natural", "Key-Switch", "Echo", "Phase"],
+  "deviceType": "INST",
+  "comment": "12 String Acoustic Guitar + FX. Dry=C0-D0. Phaser + Delay On=D#0-F0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "da443cf7-1b5e-4f94-97dc-b64ec87b995f",
+  "types": [
+    ["Bass", "Electric"]
+  ],
+  "name": "09 Basic Open Pick Bass",
+  "modes": ["Clean", "Electric", "Fat", "Keyswitch"],
+  "deviceType": "INST",
+  "comment": "Pick Bass Position 1&amp;2 Open+Deadnotes+Harmonics. C0-E0=Playing Styles. FX=C5 &amp; Above.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

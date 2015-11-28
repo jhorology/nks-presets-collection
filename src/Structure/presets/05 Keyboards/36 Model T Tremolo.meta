@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "78424a80-4516-467d-be57-492114f2fb8a",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "36 Model T Tremolo",
+  "modes": ["Electric", "Warm", "", "Mellow"],
+  "deviceType": "INST",
+  "comment": "Model T Electric Piano With Tremolo. Use Modwheel For Tremolo Depth.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

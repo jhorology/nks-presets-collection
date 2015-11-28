@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "18463f3d-97a4-44c1-a79a-7abf0cacd481",
+  "types": [
+    ["Ethnic", "Blown"]
+  ],
+  "name": "34 Shakuhachi Fast Velo",
+  "modes": ["Natural", "", "Acoustic", "Breathy"],
+  "deviceType": "INST",
+  "comment": "Shakuhachi Faster Attack. Modwheel Controls Level. Vibrato On Aftertouch.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["AIR"]
+}

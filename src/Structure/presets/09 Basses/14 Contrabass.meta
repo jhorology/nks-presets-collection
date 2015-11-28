@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c35968d1-f3b2-4821-b10c-9ec48548d8d2",
+  "types": [
+    ["Bass", "Acoustic"]
+  ],
+  "name": "14 Contrabass",
+  "modes": ["Key-Switch", "Acoustic", "Fat"],
+  "deviceType": "INST",
+  "comment": "Acoustic Upright Bass. Choose Playing Styles With Keyswitches C0 - D#0.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

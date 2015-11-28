@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "fac91578-f0ec-4f70-ad24-3571b7128dd0",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "88 Wood Block 4",
+  "modes": ["Hard", "Natural", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Various Wood Blocks. Close and Far Mics.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

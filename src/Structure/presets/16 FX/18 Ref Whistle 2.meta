@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "40a6f98c-7d72-410e-8e0b-44f98e3960a8",
+  "types": [
+    ["Sound Effects", "Urban"]
+  ],
+  "name": "18 Ref Whistle 2",
+  "modes": ["Natural", "Noise", "Nasty"],
+  "deviceType": "INST",
+  "comment": "Referee Whistle. Multiple Velocities.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "cd4f3f56-4244-44a0-adfb-a54669f847f9",
+  "types": [
+    ["Piano", "Electric"]
+  ],
+  "name": "20 Mark 2 Classic Amped",
+  "modes": ["Basic", "Electric", "Warm", "Distorted"],
+  "deviceType": "INST",
+  "comment": "Mark 2 Electric Piano + Amp Sampled From Digidesign Velvet. Use Modwheel For Tremolo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

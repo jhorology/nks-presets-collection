@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "9e74d0e1-d24a-4af2-97fe-29850876425f",
+  "types": [
+    ["Bass", "Synth"]
+  ],
+  "name": "06 Mini Saw Reso Bass",
+  "modes": ["Fat", "Thick", "Resonant", "Sweep"],
+  "deviceType": "INST",
+  "comment": "Vintage Sawtooth Reso Bass.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

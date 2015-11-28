@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8a94f226-38d4-4116-8b92-93c13cfc97b7",
+  "types": [
+    ["Woodwinds", "Solo"]
+  ],
+  "name": "44 Baritone Sax Basic",
+  "modes": ["Breathy", "Bright", "Natural"],
+  "deviceType": "INST",
+  "comment": "Baritone Sax Legato. Natural Range C#1-A3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

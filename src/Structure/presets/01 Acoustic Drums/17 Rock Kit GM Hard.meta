@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "c3b70dd6-17f9-4f25-95da-b8f43e52c55f",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "17 Rock Kit GM Hard",
+  "modes": ["Natural"],
+  "deviceType": "INST",
+  "comment": "Rock Kit Hard Version. GM Mapping. Knob 4 Selects 1 Of 2 Snare Drum Sets.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

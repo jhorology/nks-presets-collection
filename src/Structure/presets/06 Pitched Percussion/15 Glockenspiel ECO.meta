@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "488d84d9-1c65-40d0-ade8-f0a9bbc0cf64",
+  "types": [
+    ["Percussion", "Pitched"]
+  ],
+  "name": "15 Glockenspiel ECO",
+  "modes": ["Bright", "Hard", "Metallic", "Natural", "ECO"],
+  "deviceType": "INST",
+  "comment": "Glockenspiel With Economical Sample Mapping. Natural Range Is D#5-G#6.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "939e865a-7fb2-4c26-a1b8-992f15eb8956",
+  "types": [
+    ["Drums", "Acoustic"]
+  ],
+  "name": "12 Vintage Kit XXL",
+  "modes": ["Natural", "Fat", "Keyswitch", "XXL", "Vintage"],
+  "deviceType": "INST",
+  "comment": "Vintage Drums. Alternating Samples. Multiple Mics. C0-G0=Kit Sounds.G#0-A#0 Fills.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

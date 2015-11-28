@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "f2130034-9c09-46ed-8d2b-be820af930d3",
+  "types": [
+    ["Guitar", "Acoustic"]
+  ],
+  "name": "19 Banjo",
+  "modes": ["Acoustic", "Bright", "Natural"],
+  "deviceType": "INST",
+  "comment": "Banjo.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

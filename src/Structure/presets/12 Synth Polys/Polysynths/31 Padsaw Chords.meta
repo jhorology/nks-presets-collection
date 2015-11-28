@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8dbf374d-fd8c-49fd-bab2-f47a7fe0c42b",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "31 Padsaw Chords",
+  "modes": ["Tremolo", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Wider Saw Poly with Tremolo FX.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

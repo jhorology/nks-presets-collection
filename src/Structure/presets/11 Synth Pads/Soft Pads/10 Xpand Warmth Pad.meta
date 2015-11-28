@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "668dd2e5-b829-4eff-bc61-2a67a01854e4",
+  "types": [
+    ["Synth", "Pad"]
+  ],
+  "name": "10 Xpand Warmth Pad",
+  "modes": ["Rich", "Sweep", "Detune"],
+  "deviceType": "INST",
+  "comment": "Big Rich Pad With Some Filter Sweeping.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

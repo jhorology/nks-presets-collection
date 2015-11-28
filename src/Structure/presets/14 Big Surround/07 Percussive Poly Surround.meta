@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "85e89c0a-52b5-4eb4-bfc2-09c3ccbdc0da",
+  "types": [
+    ["Synth", "Metallic"]
+  ],
+  "name": "07 Percussive Poly Surround",
+  "modes": ["Percussive", "Digital", "Echo", "Surround"],
+  "deviceType": "INST",
+  "comment": "Percussive Synth &amp; Samplers With Delays &amp; Surround Panning.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

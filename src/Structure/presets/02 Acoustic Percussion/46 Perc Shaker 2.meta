@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "8c73af3f-9e37-45c5-927e-363182429d13",
+  "types": [
+    ["Percussion", "Acoustic"]
+  ],
+  "name": "46 Perc Shaker 2",
+  "modes": ["Natural", "Bright", "", "Percussive"],
+  "deviceType": "INST",
+  "comment": "Various Shakers. Close and Far Mic.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

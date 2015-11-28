@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "a0d27879-c511-479f-896a-225056f1d9c7",
+  "types": [
+    ["Strings", "Section"]
+  ],
+  "name": "50 Basses Chamber MW",
+  "modes": ["Natural", "Bright", "Warm"],
+  "deviceType": "INST",
+  "comment": "Chamber Basses Long Notes. Use Modwheel to Swell. Natural Range C0-G3",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}

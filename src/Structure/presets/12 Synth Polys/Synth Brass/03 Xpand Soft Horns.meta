@@ -1,0 +1,13 @@
+{
+  "vendor": "Air Music Technology",
+  "uuid": "3366bca1-0727-4a38-80e4-c27e4db52c87",
+  "types": [
+    ["Synth", "Brass"]
+  ],
+  "name": "03 Xpand Soft Horns",
+  "modes": ["Soft", "Rich", "Detune"],
+  "deviceType": "INST",
+  "comment": "Soft Rich Synth Horns.",
+  "bankchain": ["Structure", "Structure Factory", ""],
+  "author": ["Air Music Technology"]
+}
