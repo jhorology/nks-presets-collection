@@ -391,6 +391,7 @@ gulp.task 'dist', [
   'spire-dist'
   'alchemy-dist'
   'loom-dist'
+  'spire_1_1-dist'
 ]
 
 gulp.task 'deploy', [
@@ -401,6 +402,7 @@ gulp.task 'deploy', [
   'spire-deploy'
   'alchemy-deploy'
   'loom-deploy'
+  'spire_1_1-deploy'
 ]
 
 gulp.task 'release', [
@@ -411,6 +413,7 @@ gulp.task 'release', [
   'spire-release'
   'alchemy-release'
   'loom-release'
+  'spire_1_1-release'
 ]
 
 # Air Music Technology Velvet
@@ -590,6 +593,7 @@ gulp.task 'xpand2-extract-raw-presets', ->
 # generate metadata
 gulp.task 'xpand2-generate-meta', ->
   presets = "src/#{$.Xpand2.dir}/presets"
+  resourceDir = _normalizeDirname $.Xpand2.dir
   gulp.src ["#{presets}/**/*.pchk"]
     .pipe data (file) ->
       extname = path.extname file.path
@@ -617,7 +621,7 @@ gulp.task 'xpand2-generate-meta', ->
         name: basename
         deviceType: 'INST'
         comment: ''
-        bankchain: ['Xpand!2', bank, '']
+        bankchain: [resourceDir, bank, '']
         author: ''
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
