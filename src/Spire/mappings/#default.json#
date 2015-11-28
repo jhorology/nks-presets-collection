@@ -1,0 +1,556 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 103,
+      "name": "Cut",
+      "section": "FILTER 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "Res",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "Key Track",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Cut",
+      "section": "FILTER 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "Res",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "Balance",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 26,
+      "name": "Octave",
+      "section": "OSC 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Note",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Ctrl A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "Ctrl B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "WT Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 45,
+      "name": "Octave",
+      "section": "OSC 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Note",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 48,
+      "name": "Ctrl A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "Ctrl B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "WT Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 64,
+      "name": "Octave",
+      "section": "OSC 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "Note",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Ctrl A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Ctrl B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "WT Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 83,
+      "name": "Octave",
+      "section": "OSC 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Note",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "Fine",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Ctrl A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Ctrl B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "WT Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 21,
+      "name": "OSC 1",
+      "section": "OSC MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "OCS 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "OCS 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "OCS 4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "x-comp",
+      "section": "GLOBAL",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 8,
+      "name": "velocity",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 113,
+      "name": "Attack",
+      "section": "ENV 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "SL Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "SL Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 129,
+      "name": "Attack",
+      "section": "ENV 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 130,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 131,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 132,
+      "name": "SL Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 133,
+      "name": "SL Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 134,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 145,
+      "name": "Attack",
+      "section": "ENV 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 146,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 147,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 148,
+      "name": "SL Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 149,
+      "name": "SL Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 150,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 161,
+      "name": "Attack",
+      "section": "ENV 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 162,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 163,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 164,
+      "name": "SL Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 165,
+      "name": "SL Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 166,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 177,
+      "name": "Rate",
+      "section": "LFO 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 178,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 179,
+      "name": "Sym",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 183,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 182,
+      "name": "Morph",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 184,
+      "name": "Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 185,
+      "name": "Amp",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 193,
+      "name": "Rate",
+      "section": "LFO 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 194,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 195,
+      "name": "Sym",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 199,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 198,
+      "name": "Morph",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 200,
+      "name": "Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 201,
+      "name": "Amp",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 209,
+      "name": "Rate",
+      "section": "LFO 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 210,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 211,
+      "name": "Sym",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 215,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 214,
+      "name": "Morph",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 216,
+      "name": "Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 217,
+      "name": "Amp",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 225,
+      "name": "Rate",
+      "section": "LFO 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 226,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 227,
+      "name": "Sym",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 231,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 230,
+      "name": "Morph",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 232,
+      "name": "Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 233,
+      "name": "Amp",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}
