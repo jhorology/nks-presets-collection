@@ -1,0 +1,13 @@
+{
+  "vendor": "Reveal Sound",
+  "uuid": "42c4dddc-6a0d-4b04-806b-16d3428e80b2",
+  "types": [
+    ["Pad"]
+  ],
+  "modes": [],
+  "name": "PD Doppler",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Spire-1.1", "Factory Bank 5", ""],
+  "author": "SawPWM"
+}

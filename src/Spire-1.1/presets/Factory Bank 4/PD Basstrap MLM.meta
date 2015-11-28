@@ -1,0 +1,13 @@
+{
+  "vendor": "Reveal Sound",
+  "uuid": "ca21d363-2d2a-41f1-a641-89dfad37e232",
+  "types": [
+    ["Pad"]
+  ],
+  "modes": [],
+  "name": "PD Basstrap MLM",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["Spire-1.1", "Factory Bank 4", ""],
+  "author": "Mathieu Le Manson"
+}
