@@ -43,17 +43,19 @@
     }],
     [{
       "autoname": false,
-      "id": 2,
-      "name": "Semi",
+      "id": 11,
+      "name": "Octave",
       "section": "Transpose",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 9,
-      "name": "Fine",
+      "id": 12,
+      "name": "Semi",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 13,
+      "name": "Fine",
       "vflag": false
     }, {
       "autoname": true,

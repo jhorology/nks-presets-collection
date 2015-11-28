@@ -3,33 +3,33 @@
     [{
       "autoname": false,
       "id": 14,
-      "name": "Edit1",
+      "name": "Wetter",
       "section": "Smart Edit",
       "vflag": false
     }, {
       "autoname": false,
       "id": 15,
-      "name": "Edit2",
+      "name": "Air",
       "vflag": false
     }, {
       "autoname": false,
       "id": 16,
-      "name": "Edit3",
+      "name": "Cutoff",
       "vflag": false
     }, {
       "autoname": false,
       "id": 17,
-      "name": "Edit4",
+      "name": "Sample Start",
       "vflag": false
     }, {
       "autoname": false,
       "id": 18,
-      "name": "Edit5",
+      "name": "Attack",
       "vflag": false
     }, {
       "autoname": false,
       "id": 19,
-      "name": "Edit6",
+      "name": "Release",
       "vflag": false
     }, {
       "autoname": true,
@@ -43,17 +43,19 @@
     }],
     [{
       "autoname": false,
-      "id": 2,
-      "name": "Semi",
+      "id": 11,
+      "name": "Octave",
       "section": "Transpose",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 9,
-      "name": "Fine",
+      "id": 12,
+      "name": "Semi",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 13,
+      "name": "Fine",
       "vflag": false
     }, {
       "autoname": true,
