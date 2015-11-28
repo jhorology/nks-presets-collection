@@ -1,0 +1,782 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Master Volume",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Reverb Preset",
+		"normalizedValue": 0,
+		"valueDisplay": "Hall"
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Reverb Time",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "2.41"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Reverb High Cut",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "8.14"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Reverb Mix",
+		"normalizedValue": 0.15000000596046448,
+		"valueDisplay": "15"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "Delay Time",
+		"normalizedValue": 0.4399999976158142,
+		"valueDisplay": "1/8D"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "Delay Feedback",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "40"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "Delay High Cut",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "8.14"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "Delay Mix",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "20"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "Volume Decay",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "Filter Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "Pitch Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "Noise Volume Offset",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "Sweep Volume Offset",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "Chord Volume Offset",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "Noise Gain Start Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "Noise Gain End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "+12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "Noise Gain Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "Noise Gain LFO Depth Volume",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "Noise Gain LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "Sweep Gain Start Value",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "+5.8"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "Sweep Gain End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "+12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "Sweep Gain Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "Sweep Gain LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "Sweep Gain LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "Sweep Freq Start Value",
+		"normalizedValue": 0,
+		"valueDisplay": "25.0"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "Sweep Freq End Value",
+		"normalizedValue": 0.8999999761581421,
+		"valueDisplay": "5.49"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "Sweep Freq  Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "Sweep Freq LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "Sweep Freq LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "SweepOsc Shape Start Value",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "SweepOsc Shape End Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "SweepOsc Shape Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "SweepOsc Shape LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "SweepOsc Shape LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "Chord Gain Start Value",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "-16.0"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "Chord Gain End Value",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "+5.8"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "Chord Gain Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "Chord Gain LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "Chord Gain LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "Filter Freq Start Value",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "267"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "Filter Freq End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "20.0"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "Filter Freq Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "Filter Freq LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "Filter Freq LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "Filter Reso Start Value",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "40"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "Filter Reso End Value",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "Filter Reso Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "Filter Reso LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "Filter Reso LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "Pan Start Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "Pan End Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "Pan Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "Pan LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "Pan LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "Chord Shape Start Value",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "40"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "Chord Shape End Value",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "60"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "Chord Shape Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "Chord Shape LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "Chord Shape LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "Chord Brightness Start Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "548"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "Chord Brightness End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "20.0"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "Chord Brightness Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "Chord Brightness LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "Chord Brightness LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "Master Gain Start Value",
+		"normalizedValue": 1,
+		"valueDisplay": "+12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "Master Gain End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "+12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "Master Gain Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM68",
+		"name": "Master Gain LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM69",
+		"name": "Master GainLFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM70",
+		"name": "Noise Shape Start Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM71",
+		"name": "Noise Shape End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM72",
+		"name": "Noise Shape Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM73",
+		"name": "Noise Shape LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM74",
+		"name": "Noise Shape LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM75",
+		"name": "Noise Tune Start Value",
+		"normalizedValue": 0.6669999957084656,
+		"valueDisplay": "0.01 Sem"
+	},
+	{
+		"id": "CONTENTS/PARAM76",
+		"name": "Noise Tune End Value",
+		"normalizedValue": 0.6669999957084656,
+		"valueDisplay": "0.01 Sem"
+	},
+	{
+		"id": "CONTENTS/PARAM77",
+		"name": "Noise Tune Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM78",
+		"name": "Noise Tune LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM79",
+		"name": "Noise Tune LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM80",
+		"name": "LFO A Rate Start Value",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "3.06"
+	},
+	{
+		"id": "CONTENTS/PARAM81",
+		"name": "LFO A Rate End Value",
+		"normalizedValue": 0.8999999761581421,
+		"valueDisplay": "17.0"
+	},
+	{
+		"id": "CONTENTS/PARAM82",
+		"name": "LFO A Rate Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM83",
+		"name": "LFO A Depth Start Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM84",
+		"name": "LFO A Depth End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM85",
+		"name": "LFO A Depth Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM86",
+		"name": "LFO B Depth Start Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM87",
+		"name": "LFO B Depth End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM88",
+		"name": "LFO B Depth Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM89",
+		"name": "Effect Mix Start Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM90",
+		"name": "Effect Mix End Value",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM91",
+		"name": "Effect Mix Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM92",
+		"name": "SweepOsc Mode",
+		"normalizedValue": 0.3400000035762787,
+		"valueDisplay": "SawMulti"
+	},
+	{
+		"id": "CONTENTS/PARAM93",
+		"name": "ChordOsc Mode",
+		"normalizedValue": 0.3400000035762787,
+		"valueDisplay": "SawMulti"
+	},
+	{
+		"id": "CONTENTS/PARAM94",
+		"name": "Filter Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "LP4"
+	},
+	{
+		"id": "CONTENTS/PARAM95",
+		"name": "Filter Noise Active",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM96",
+		"name": "Filter Sweep Active",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM97",
+		"name": "Filter Chord Active",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM98",
+		"name": "LFO A Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM99",
+		"name": "Reserved",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM100",
+		"name": "LFO B Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM101",
+		"name": "Reserved",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM102",
+		"name": "LFO B Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "3/16"
+	},
+	{
+		"id": "CONTENTS/PARAM103",
+		"name": "Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Note On"
+	},
+	{
+		"id": "CONTENTS/PARAM104",
+		"name": "Sync Offset Bars",
+		"normalizedValue": 0,
+		"valueDisplay": "--"
+	},
+	{
+		"id": "CONTENTS/PARAM105",
+		"name": "Sync Offset Fine",
+		"normalizedValue": 0,
+		"valueDisplay": "--"
+	},
+	{
+		"id": "CONTENTS/PARAM106",
+		"name": "Chord Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Major"
+	},
+	{
+		"id": "CONTENTS/PARAM107",
+		"name": "Chord Octave",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM108",
+		"name": "Pumper Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "3/16"
+	},
+	{
+		"id": "CONTENTS/PARAM109",
+		"name": "Pumper Depth",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM110",
+		"name": "Filter Dist Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Overdriv"
+	},
+	{
+		"id": "CONTENTS/PARAM111",
+		"name": "Stereo Width",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM112",
+		"name": "Invert",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM113",
+		"name": "Sweep Freqs Notes",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM114",
+		"name": "Distortion Start Value",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM115",
+		"name": "Distortion End Value",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM116",
+		"name": "Distortion Curve Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM117",
+		"name": "Distortion LFO Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM118",
+		"name": "Distortion LFO Select",
+		"normalizedValue": 0,
+		"valueDisplay": "A"
+	},
+	{
+		"id": "CONTENTS/PARAM119",
+		"name": "Chord Freq Follow Sweep",
+		"normalizedValue": 1,
+		"valueDisplay": "As Playe"
+	},
+	{
+		"id": "CONTENTS/PARAM120",
+		"name": "Master Low Cut",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM121",
+		"name": "Low Cut Frequency",
+		"normalizedValue": 0.11389999836683273,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM122",
+		"name": "Lock Effects",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM123",
+		"name": "Lock Decay",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM124",
+		"name": "Lock Pumper",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM125",
+		"name": "Transpose Up Switch-Note",
+		"normalizedValue": 0,
+		"valueDisplay": "--"
+	},
+	{
+		"id": "CONTENTS/PARAM126",
+		"name": "Unused3",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM127",
+		"name": "Unused4",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM128",
+		"name": "Unused5",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM129",
+		"name": "Unused6",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	}
+]

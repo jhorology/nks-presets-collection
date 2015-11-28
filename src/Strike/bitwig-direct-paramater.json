@@ -1,0 +1,4304 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Master Level",
+		"normalizedValue": 0.8912500143051147,
+		"valueDisplay": "-2.0"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Latch",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Speed",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Intensity",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "Jam Density",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "4"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "Jam",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "Snare Center/Rim",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "HiHat Closed/Open",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "Timing",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "Groove Depth",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "Feel",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "Variance Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "All"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "Timing Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "All"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "Groove Template",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "16th Swi"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "Mic Leakage",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "Snare Buzz",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "Close Mics Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "Overhead Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "Overhead Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "Overhead Level",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "-9.9"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "Overhead Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "Overhead Width",
+		"normalizedValue": 0.6499999761581421,
+		"valueDisplay": "+30"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "Room Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "Room Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "Room Level",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "-22.0"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "Room Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "Room Width",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "Room Size",
+		"normalizedValue": 0.25,
+		"valueDisplay": "0.4"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "Room Surround",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "Talkback Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "Talkback Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "Talkback Level",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "Master Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "Master EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "Master EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "Master EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "Master EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "Master EQ Lo Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "Master EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "Master EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "Master EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "Master EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "Master EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "Master EQ Hi Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "Master Ins",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "Master Ins Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "Master Ins Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "Master Ins Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "Master Ins Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "Master Ins Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "Master Dyn",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "Master Dyn Drive",
+		"normalizedValue": 0.2199999988079071,
+		"valueDisplay": "13.2"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "Master Dyn Ratio",
+		"normalizedValue": 0.5099999904632568,
+		"valueDisplay": "10.5:1"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "Master Dyn Gain",
+		"normalizedValue": 0.029999999329447746,
+		"valueDisplay": "0.9"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "Master Dyn Attack",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "0.08"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "Master Dyn Release",
+		"normalizedValue": 0.4699999988079071,
+		"valueDisplay": "116"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "Overhead Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "Overhead EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "Overhead EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "Overhead EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "Overhead EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "Overhead EQ Lo Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "Overhead EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM68",
+		"name": "Overhead EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM69",
+		"name": "Overhead EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM70",
+		"name": "Overhead EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM71",
+		"name": "Overhead EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM72",
+		"name": "Overhead EQ Hi Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM73",
+		"name": "Overhead Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM74",
+		"name": "Overhead Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM75",
+		"name": "Overhead Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM76",
+		"name": "Overhead Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM77",
+		"name": "Overhead Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM78",
+		"name": "Overhead Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM79",
+		"name": "Overhead Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM80",
+		"name": "Overhead Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM81",
+		"name": "Overhead Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM82",
+		"name": "Overhead Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM83",
+		"name": "Overhead Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM84",
+		"name": "Overhead Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM85",
+		"name": "Room Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM86",
+		"name": "Room EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM87",
+		"name": "Room EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM88",
+		"name": "Room EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM89",
+		"name": "Room EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM90",
+		"name": "Room EQ Lo Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM91",
+		"name": "Room EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM92",
+		"name": "Room EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM93",
+		"name": "Room EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM94",
+		"name": "Room EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM95",
+		"name": "Room EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM96",
+		"name": "Room EQ Hi Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM97",
+		"name": "Room Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM98",
+		"name": "Room Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM99",
+		"name": "Room Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM100",
+		"name": "Room Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM101",
+		"name": "Room Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM102",
+		"name": "Room Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM103",
+		"name": "Room Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM104",
+		"name": "Room Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM105",
+		"name": "Room Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM106",
+		"name": "Room Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM107",
+		"name": "Room Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM108",
+		"name": "Room Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM109",
+		"name": "Talkback Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM110",
+		"name": "Talkback EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM111",
+		"name": "Talkback EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM112",
+		"name": "Talkback EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM113",
+		"name": "Talkback EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM114",
+		"name": "Talkback EQ Lo Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM115",
+		"name": "Talkback EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM116",
+		"name": "Talkback EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM117",
+		"name": "Talkback EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM118",
+		"name": "Talkback EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM119",
+		"name": "Talkback EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM120",
+		"name": "Talkback EQ Hi Q",
+		"normalizedValue": 0,
+		"valueDisplay": "Shelf"
+	},
+	{
+		"id": "CONTENTS/PARAM121",
+		"name": "Talkback Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM122",
+		"name": "Talkback Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM123",
+		"name": "Talkback Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM124",
+		"name": "Talkback Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM125",
+		"name": "Talkback Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM126",
+		"name": "Talkback Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM127",
+		"name": "Talkback Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM128",
+		"name": "Talkback Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM129",
+		"name": "Talkback Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM130",
+		"name": "Talkback Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM131",
+		"name": "Talkback Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM132",
+		"name": "Talkback Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM133",
+		"name": "Talkback Drive",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM134",
+		"name": "Cymbal Width",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM135",
+		"name": "Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM136",
+		"name": "Ride Edge/Bell",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM137",
+		"name": "Stop Playback",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM138",
+		"name": "Intensity Range",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70"
+	},
+	{
+		"id": "CONTENTS/PARAM139",
+		"name": "Auto Cymbal Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM140",
+		"name": "uu7",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM141",
+		"name": "Ch.1 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM142",
+		"name": "Ch.1 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM143",
+		"name": "Ch.1 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM144",
+		"name": "Ch.1 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM145",
+		"name": "Ch.1 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM146",
+		"name": "Ch.1 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM147",
+		"name": "Ch.1 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM148",
+		"name": "Ch.1 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM149",
+		"name": "Ch.1 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM150",
+		"name": "Ch.1 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM151",
+		"name": "Ch.1 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM152",
+		"name": "Ch.1 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM153",
+		"name": "Ch.1 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM154",
+		"name": "Ch.1 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM155",
+		"name": "Ch.1 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM156",
+		"name": "Ch.1 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM157",
+		"name": "Ch.1 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM158",
+		"name": "Ch.1 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM159",
+		"name": "Ch.1 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM160",
+		"name": "Ch.1 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM161",
+		"name": "Ch.1 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM162",
+		"name": "Ch.1 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM163",
+		"name": "Ch.1 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM164",
+		"name": "Ch.1 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM165",
+		"name": "Ch.1 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM166",
+		"name": "Ch.1 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM167",
+		"name": "Ch.1 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM168",
+		"name": "Ch.1 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM169",
+		"name": "Ch.1 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM170",
+		"name": "Ch.1 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM171",
+		"name": "Ch.1 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM172",
+		"name": "Ch.1 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM173",
+		"name": "Ch.1 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM174",
+		"name": "Ch.1 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM175",
+		"name": "Ch.1 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM176",
+		"name": "Ch.1 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM177",
+		"name": "Ch.1 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM178",
+		"name": "Ch.1 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM179",
+		"name": "Ch.1 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM180",
+		"name": "Ch.1 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM181",
+		"name": "Ch.1 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM182",
+		"name": "Ch.1 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM183",
+		"name": "Ch.1 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM184",
+		"name": "Ch.1 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM185",
+		"name": "Ch.1 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM186",
+		"name": "Ch.1 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM187",
+		"name": "Ch.1 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM188",
+		"name": "Ch.1 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM189",
+		"name": "Ch.2 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM190",
+		"name": "Ch.2 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM191",
+		"name": "Ch.2 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM192",
+		"name": "Ch.2 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM193",
+		"name": "Ch.2 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM194",
+		"name": "Ch.2 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM195",
+		"name": "Ch.2 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM196",
+		"name": "Ch.2 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM197",
+		"name": "Ch.2 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM198",
+		"name": "Ch.2 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM199",
+		"name": "Ch.2 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM200",
+		"name": "Ch.2 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM201",
+		"name": "Ch.2 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM202",
+		"name": "Ch.2 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM203",
+		"name": "Ch.2 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM204",
+		"name": "Ch.2 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM205",
+		"name": "Ch.2 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM206",
+		"name": "Ch.2 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM207",
+		"name": "Ch.2 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM208",
+		"name": "Ch.2 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM209",
+		"name": "Ch.2 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM210",
+		"name": "Ch.2 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM211",
+		"name": "Ch.2 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM212",
+		"name": "Ch.2 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM213",
+		"name": "Ch.2 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM214",
+		"name": "Ch.2 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM215",
+		"name": "Ch.2 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM216",
+		"name": "Ch.2 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM217",
+		"name": "Ch.2 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM218",
+		"name": "Ch.2 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM219",
+		"name": "Ch.2 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM220",
+		"name": "Ch.2 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM221",
+		"name": "Ch.2 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM222",
+		"name": "Ch.2 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM223",
+		"name": "Ch.2 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM224",
+		"name": "Ch.2 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM225",
+		"name": "Ch.2 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM226",
+		"name": "Ch.2 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM227",
+		"name": "Ch.2 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM228",
+		"name": "Ch.2 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM229",
+		"name": "Ch.2 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM230",
+		"name": "Ch.2 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM231",
+		"name": "Ch.2 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM232",
+		"name": "Ch.2 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM233",
+		"name": "Ch.2 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM234",
+		"name": "Ch.2 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM235",
+		"name": "Ch.2 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM236",
+		"name": "Ch.2 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM237",
+		"name": "Ch.3 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM238",
+		"name": "Ch.3 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM239",
+		"name": "Ch.3 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM240",
+		"name": "Ch.3 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM241",
+		"name": "Ch.3 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM242",
+		"name": "Ch.3 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM243",
+		"name": "Ch.3 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM244",
+		"name": "Ch.3 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM245",
+		"name": "Ch.3 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM246",
+		"name": "Ch.3 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM247",
+		"name": "Ch.3 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM248",
+		"name": "Ch.3 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM249",
+		"name": "Ch.3 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM250",
+		"name": "Ch.3 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM251",
+		"name": "Ch.3 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM252",
+		"name": "Ch.3 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM253",
+		"name": "Ch.3 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM254",
+		"name": "Ch.3 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM255",
+		"name": "Ch.3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM256",
+		"name": "Ch.3 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM257",
+		"name": "Ch.3 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM258",
+		"name": "Ch.3 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM259",
+		"name": "Ch.3 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM260",
+		"name": "Ch.3 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM261",
+		"name": "Ch.3 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM262",
+		"name": "Ch.3 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM263",
+		"name": "Ch.3 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM264",
+		"name": "Ch.3 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM265",
+		"name": "Ch.3 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM266",
+		"name": "Ch.3 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM267",
+		"name": "Ch.3 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM268",
+		"name": "Ch.3 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM269",
+		"name": "Ch.3 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM270",
+		"name": "Ch.3 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM271",
+		"name": "Ch.3 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM272",
+		"name": "Ch.3 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM273",
+		"name": "Ch.3 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM274",
+		"name": "Ch.3 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM275",
+		"name": "Ch.3 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM276",
+		"name": "Ch.3 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM277",
+		"name": "Ch.3 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM278",
+		"name": "Ch.3 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM279",
+		"name": "Ch.3 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM280",
+		"name": "Ch.3 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM281",
+		"name": "Ch.3 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM282",
+		"name": "Ch.3 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM283",
+		"name": "Ch.3 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM284",
+		"name": "Ch.3 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM285",
+		"name": "Ch.4 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM286",
+		"name": "Ch.4 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM287",
+		"name": "Ch.4 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM288",
+		"name": "Ch.4 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM289",
+		"name": "Ch.4 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM290",
+		"name": "Ch.4 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM291",
+		"name": "Ch.4 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM292",
+		"name": "Ch.4 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM293",
+		"name": "Ch.4 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM294",
+		"name": "Ch.4 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM295",
+		"name": "Ch.4 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM296",
+		"name": "Ch.4 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM297",
+		"name": "Ch.4 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM298",
+		"name": "Ch.4 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM299",
+		"name": "Ch.4 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM300",
+		"name": "Ch.4 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM301",
+		"name": "Ch.4 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM302",
+		"name": "Ch.4 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM303",
+		"name": "Ch.4 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM304",
+		"name": "Ch.4 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM305",
+		"name": "Ch.4 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM306",
+		"name": "Ch.4 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM307",
+		"name": "Ch.4 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM308",
+		"name": "Ch.4 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM309",
+		"name": "Ch.4 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM310",
+		"name": "Ch.4 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM311",
+		"name": "Ch.4 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM312",
+		"name": "Ch.4 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM313",
+		"name": "Ch.4 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM314",
+		"name": "Ch.4 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM315",
+		"name": "Ch.4 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM316",
+		"name": "Ch.4 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM317",
+		"name": "Ch.4 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM318",
+		"name": "Ch.4 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM319",
+		"name": "Ch.4 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM320",
+		"name": "Ch.4 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM321",
+		"name": "Ch.4 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM322",
+		"name": "Ch.4 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM323",
+		"name": "Ch.4 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM324",
+		"name": "Ch.4 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM325",
+		"name": "Ch.4 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM326",
+		"name": "Ch.4 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM327",
+		"name": "Ch.4 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM328",
+		"name": "Ch.4 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM329",
+		"name": "Ch.4 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM330",
+		"name": "Ch.4 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM331",
+		"name": "Ch.4 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM332",
+		"name": "Ch.4 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM333",
+		"name": "Ch.5 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM334",
+		"name": "Ch.5 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM335",
+		"name": "Ch.5 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM336",
+		"name": "Ch.5 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM337",
+		"name": "Ch.5 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM338",
+		"name": "Ch.5 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM339",
+		"name": "Ch.5 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM340",
+		"name": "Ch.5 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM341",
+		"name": "Ch.5 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM342",
+		"name": "Ch.5 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM343",
+		"name": "Ch.5 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM344",
+		"name": "Ch.5 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM345",
+		"name": "Ch.5 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM346",
+		"name": "Ch.5 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM347",
+		"name": "Ch.5 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM348",
+		"name": "Ch.5 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM349",
+		"name": "Ch.5 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM350",
+		"name": "Ch.5 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM351",
+		"name": "Ch.5 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM352",
+		"name": "Ch.5 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM353",
+		"name": "Ch.5 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM354",
+		"name": "Ch.5 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM355",
+		"name": "Ch.5 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM356",
+		"name": "Ch.5 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM357",
+		"name": "Ch.5 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM358",
+		"name": "Ch.5 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM359",
+		"name": "Ch.5 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM360",
+		"name": "Ch.5 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM361",
+		"name": "Ch.5 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM362",
+		"name": "Ch.5 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM363",
+		"name": "Ch.5 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM364",
+		"name": "Ch.5 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM365",
+		"name": "Ch.5 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM366",
+		"name": "Ch.5 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM367",
+		"name": "Ch.5 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM368",
+		"name": "Ch.5 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM369",
+		"name": "Ch.5 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM370",
+		"name": "Ch.5 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM371",
+		"name": "Ch.5 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM372",
+		"name": "Ch.5 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM373",
+		"name": "Ch.5 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM374",
+		"name": "Ch.5 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM375",
+		"name": "Ch.5 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM376",
+		"name": "Ch.5 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM377",
+		"name": "Ch.5 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM378",
+		"name": "Ch.5 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM379",
+		"name": "Ch.5 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM380",
+		"name": "Ch.5 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM381",
+		"name": "Ch.6 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM382",
+		"name": "Ch.6 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM383",
+		"name": "Ch.6 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM384",
+		"name": "Ch.6 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM385",
+		"name": "Ch.6 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM386",
+		"name": "Ch.6 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM387",
+		"name": "Ch.6 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM388",
+		"name": "Ch.6 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM389",
+		"name": "Ch.6 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM390",
+		"name": "Ch.6 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM391",
+		"name": "Ch.6 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM392",
+		"name": "Ch.6 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM393",
+		"name": "Ch.6 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM394",
+		"name": "Ch.6 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM395",
+		"name": "Ch.6 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM396",
+		"name": "Ch.6 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM397",
+		"name": "Ch.6 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM398",
+		"name": "Ch.6 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM399",
+		"name": "Ch.6 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM400",
+		"name": "Ch.6 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM401",
+		"name": "Ch.6 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM402",
+		"name": "Ch.6 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM403",
+		"name": "Ch.6 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM404",
+		"name": "Ch.6 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM405",
+		"name": "Ch.6 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM406",
+		"name": "Ch.6 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM407",
+		"name": "Ch.6 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM408",
+		"name": "Ch.6 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM409",
+		"name": "Ch.6 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM410",
+		"name": "Ch.6 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM411",
+		"name": "Ch.6 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM412",
+		"name": "Ch.6 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM413",
+		"name": "Ch.6 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM414",
+		"name": "Ch.6 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM415",
+		"name": "Ch.6 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM416",
+		"name": "Ch.6 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM417",
+		"name": "Ch.6 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM418",
+		"name": "Ch.6 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM419",
+		"name": "Ch.6 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM420",
+		"name": "Ch.6 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM421",
+		"name": "Ch.6 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM422",
+		"name": "Ch.6 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM423",
+		"name": "Ch.6 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM424",
+		"name": "Ch.6 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM425",
+		"name": "Ch.6 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM426",
+		"name": "Ch.6 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM427",
+		"name": "Ch.6 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM428",
+		"name": "Ch.6 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM429",
+		"name": "Ch.7 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM430",
+		"name": "Ch.7 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM431",
+		"name": "Ch.7 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM432",
+		"name": "Ch.7 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM433",
+		"name": "Ch.7 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM434",
+		"name": "Ch.7 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM435",
+		"name": "Ch.7 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM436",
+		"name": "Ch.7 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM437",
+		"name": "Ch.7 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM438",
+		"name": "Ch.7 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM439",
+		"name": "Ch.7 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM440",
+		"name": "Ch.7 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM441",
+		"name": "Ch.7 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM442",
+		"name": "Ch.7 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM443",
+		"name": "Ch.7 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM444",
+		"name": "Ch.7 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM445",
+		"name": "Ch.7 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM446",
+		"name": "Ch.7 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM447",
+		"name": "Ch.7 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM448",
+		"name": "Ch.7 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM449",
+		"name": "Ch.7 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM450",
+		"name": "Ch.7 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM451",
+		"name": "Ch.7 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM452",
+		"name": "Ch.7 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM453",
+		"name": "Ch.7 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM454",
+		"name": "Ch.7 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM455",
+		"name": "Ch.7 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM456",
+		"name": "Ch.7 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM457",
+		"name": "Ch.7 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM458",
+		"name": "Ch.7 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM459",
+		"name": "Ch.7 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM460",
+		"name": "Ch.7 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM461",
+		"name": "Ch.7 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM462",
+		"name": "Ch.7 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM463",
+		"name": "Ch.7 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM464",
+		"name": "Ch.7 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM465",
+		"name": "Ch.7 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM466",
+		"name": "Ch.7 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM467",
+		"name": "Ch.7 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM468",
+		"name": "Ch.7 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM469",
+		"name": "Ch.7 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM470",
+		"name": "Ch.7 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM471",
+		"name": "Ch.7 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM472",
+		"name": "Ch.7 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM473",
+		"name": "Ch.7 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM474",
+		"name": "Ch.7 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM475",
+		"name": "Ch.7 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM476",
+		"name": "Ch.7 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM477",
+		"name": "Ch.8 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM478",
+		"name": "Ch.8 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM479",
+		"name": "Ch.8 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM480",
+		"name": "Ch.8 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM481",
+		"name": "Ch.8 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM482",
+		"name": "Ch.8 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM483",
+		"name": "Ch.8 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM484",
+		"name": "Ch.8 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM485",
+		"name": "Ch.8 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM486",
+		"name": "Ch.8 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM487",
+		"name": "Ch.8 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM488",
+		"name": "Ch.8 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM489",
+		"name": "Ch.8 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM490",
+		"name": "Ch.8 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM491",
+		"name": "Ch.8 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM492",
+		"name": "Ch.8 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM493",
+		"name": "Ch.8 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM494",
+		"name": "Ch.8 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM495",
+		"name": "Ch.8 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM496",
+		"name": "Ch.8 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM497",
+		"name": "Ch.8 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM498",
+		"name": "Ch.8 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM499",
+		"name": "Ch.8 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM500",
+		"name": "Ch.8 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM501",
+		"name": "Ch.8 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM502",
+		"name": "Ch.8 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM503",
+		"name": "Ch.8 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM504",
+		"name": "Ch.8 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM505",
+		"name": "Ch.8 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM506",
+		"name": "Ch.8 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM507",
+		"name": "Ch.8 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM508",
+		"name": "Ch.8 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM509",
+		"name": "Ch.8 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM510",
+		"name": "Ch.8 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM511",
+		"name": "Ch.8 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM512",
+		"name": "Ch.8 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM513",
+		"name": "Ch.8 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM514",
+		"name": "Ch.8 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM515",
+		"name": "Ch.8 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM516",
+		"name": "Ch.8 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM517",
+		"name": "Ch.8 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM518",
+		"name": "Ch.8 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM519",
+		"name": "Ch.8 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM520",
+		"name": "Ch.8 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM521",
+		"name": "Ch.8 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM522",
+		"name": "Ch.8 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM523",
+		"name": "Ch.8 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM524",
+		"name": "Ch.8 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM525",
+		"name": "Ch.9 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM526",
+		"name": "Ch.9 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM527",
+		"name": "Ch.9 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM528",
+		"name": "Ch.9 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM529",
+		"name": "Ch.9 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM530",
+		"name": "Ch.9 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM531",
+		"name": "Ch.9 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM532",
+		"name": "Ch.9 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM533",
+		"name": "Ch.9 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM534",
+		"name": "Ch.9 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM535",
+		"name": "Ch.9 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM536",
+		"name": "Ch.9 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM537",
+		"name": "Ch.9 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM538",
+		"name": "Ch.9 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM539",
+		"name": "Ch.9 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM540",
+		"name": "Ch.9 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM541",
+		"name": "Ch.9 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM542",
+		"name": "Ch.9 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM543",
+		"name": "Ch.9 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM544",
+		"name": "Ch.9 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM545",
+		"name": "Ch.9 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM546",
+		"name": "Ch.9 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM547",
+		"name": "Ch.9 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM548",
+		"name": "Ch.9 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM549",
+		"name": "Ch.9 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM550",
+		"name": "Ch.9 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM551",
+		"name": "Ch.9 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM552",
+		"name": "Ch.9 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM553",
+		"name": "Ch.9 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM554",
+		"name": "Ch.9 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM555",
+		"name": "Ch.9 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM556",
+		"name": "Ch.9 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM557",
+		"name": "Ch.9 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM558",
+		"name": "Ch.9 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM559",
+		"name": "Ch.9 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM560",
+		"name": "Ch.9 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM561",
+		"name": "Ch.9 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM562",
+		"name": "Ch.9 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM563",
+		"name": "Ch.9 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM564",
+		"name": "Ch.9 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM565",
+		"name": "Ch.9 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM566",
+		"name": "Ch.9 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM567",
+		"name": "Ch.9 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM568",
+		"name": "Ch.9 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM569",
+		"name": "Ch.9 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM570",
+		"name": "Ch.9 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM571",
+		"name": "Ch.9 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM572",
+		"name": "Ch.9 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM573",
+		"name": "Ch.10 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM574",
+		"name": "Ch.10 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM575",
+		"name": "Ch.10 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM576",
+		"name": "Ch.10 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM577",
+		"name": "Ch.10 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM578",
+		"name": "Ch.10 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM579",
+		"name": "Ch.10 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM580",
+		"name": "Ch.10 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM581",
+		"name": "Ch.10 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM582",
+		"name": "Ch.10 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM583",
+		"name": "Ch.10 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM584",
+		"name": "Ch.10 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM585",
+		"name": "Ch.10 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM586",
+		"name": "Ch.10 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM587",
+		"name": "Ch.10 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM588",
+		"name": "Ch.10 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM589",
+		"name": "Ch.10 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM590",
+		"name": "Ch.10 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM591",
+		"name": "Ch.10 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM592",
+		"name": "Ch.10 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM593",
+		"name": "Ch.10 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM594",
+		"name": "Ch.10 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM595",
+		"name": "Ch.10 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM596",
+		"name": "Ch.10 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM597",
+		"name": "Ch.10 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM598",
+		"name": "Ch.10 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM599",
+		"name": "Ch.10 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM600",
+		"name": "Ch.10 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM601",
+		"name": "Ch.10 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM602",
+		"name": "Ch.10 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM603",
+		"name": "Ch.10 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM604",
+		"name": "Ch.10 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM605",
+		"name": "Ch.10 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM606",
+		"name": "Ch.10 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM607",
+		"name": "Ch.10 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM608",
+		"name": "Ch.10 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM609",
+		"name": "Ch.10 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM610",
+		"name": "Ch.10 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM611",
+		"name": "Ch.10 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM612",
+		"name": "Ch.10 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM613",
+		"name": "Ch.10 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM614",
+		"name": "Ch.10 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM615",
+		"name": "Ch.10 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM616",
+		"name": "Ch.10 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM617",
+		"name": "Ch.10 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM618",
+		"name": "Ch.10 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM619",
+		"name": "Ch.10 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM620",
+		"name": "Ch.10 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM621",
+		"name": "Ch.11 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM622",
+		"name": "Ch.11 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM623",
+		"name": "Ch.11 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM624",
+		"name": "Ch.11 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM625",
+		"name": "Ch.11 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM626",
+		"name": "Ch.11 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM627",
+		"name": "Ch.11 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM628",
+		"name": "Ch.11 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM629",
+		"name": "Ch.11 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM630",
+		"name": "Ch.11 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM631",
+		"name": "Ch.11 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM632",
+		"name": "Ch.11 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM633",
+		"name": "Ch.11 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM634",
+		"name": "Ch.11 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM635",
+		"name": "Ch.11 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM636",
+		"name": "Ch.11 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM637",
+		"name": "Ch.11 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM638",
+		"name": "Ch.11 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM639",
+		"name": "Ch.11 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM640",
+		"name": "Ch.11 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM641",
+		"name": "Ch.11 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM642",
+		"name": "Ch.11 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM643",
+		"name": "Ch.11 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM644",
+		"name": "Ch.11 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM645",
+		"name": "Ch.11 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM646",
+		"name": "Ch.11 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM647",
+		"name": "Ch.11 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM648",
+		"name": "Ch.11 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM649",
+		"name": "Ch.11 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM650",
+		"name": "Ch.11 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM651",
+		"name": "Ch.11 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM652",
+		"name": "Ch.11 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM653",
+		"name": "Ch.11 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM654",
+		"name": "Ch.11 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM655",
+		"name": "Ch.11 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM656",
+		"name": "Ch.11 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM657",
+		"name": "Ch.11 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM658",
+		"name": "Ch.11 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM659",
+		"name": "Ch.11 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM660",
+		"name": "Ch.11 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM661",
+		"name": "Ch.11 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM662",
+		"name": "Ch.11 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM663",
+		"name": "Ch.11 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM664",
+		"name": "Ch.11 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM665",
+		"name": "Ch.11 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM666",
+		"name": "Ch.11 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM667",
+		"name": "Ch.11 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM668",
+		"name": "Ch.11 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM669",
+		"name": "Ch.12 Mute",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM670",
+		"name": "Ch.12 Solo",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM671",
+		"name": "Ch.12 Level",
+		"normalizedValue": 0.7070000171661377,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM672",
+		"name": "Ch.12 Overhead Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM673",
+		"name": "Ch.12 Room Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM674",
+		"name": "Ch.12 Close Mic 1 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM675",
+		"name": "Ch.12 Close Mic 2 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM676",
+		"name": "Ch.12 Close Mic 3 Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM677",
+		"name": "Ch.12 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM678",
+		"name": "Ch.12 Pause",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM679",
+		"name": "Ch.12 Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM680",
+		"name": "Ch.12 Intensity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM681",
+		"name": "Ch.12 Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM682",
+		"name": "Ch.12 Timing",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM683",
+		"name": "Ch.12 Grid",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM684",
+		"name": "Ch.12 Hit Variance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM685",
+		"name": "Ch.12 Playing Dynamics",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM686",
+		"name": "Ch.12 Timbre Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM687",
+		"name": "Ch.12 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM688",
+		"name": "Ch.12 Decay",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM689",
+		"name": "Ch.12 Damping",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM690",
+		"name": "Ch.12 Tuning",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM691",
+		"name": "Ch.12 Tuning Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM692",
+		"name": "Ch.12 Startpoint",
+		"normalizedValue": 0,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM693",
+		"name": "Ch.12 Inserts",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM694",
+		"name": "Ch.12 EQ",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM695",
+		"name": "Ch.12 EQ Position",
+		"normalizedValue": 0,
+		"valueDisplay": "Pre"
+	},
+	{
+		"id": "CONTENTS/PARAM696",
+		"name": "Ch.12 EQ Lo Freq",
+		"normalizedValue": 0.3544999957084656,
+		"valueDisplay": "65.3"
+	},
+	{
+		"id": "CONTENTS/PARAM697",
+		"name": "Ch.12 EQ Lo Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM698",
+		"name": "Ch.12 EQ Lo Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM699",
+		"name": "Ch.12 EQ Mid Freq",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM700",
+		"name": "Ch.12 EQ Mid Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM701",
+		"name": "Ch.12 EQ Mid Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM702",
+		"name": "Ch.12 EQ Hi Freq",
+		"normalizedValue": 0.8600000143051147,
+		"valueDisplay": "12.0"
+	},
+	{
+		"id": "CONTENTS/PARAM703",
+		"name": "Ch.12 EQ Hi Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM704",
+		"name": "Ch.12 EQ Hi Q",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.91"
+	},
+	{
+		"id": "CONTENTS/PARAM705",
+		"name": "Ch.12 Ins.A",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM706",
+		"name": "Ch.12 Ins.A Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM707",
+		"name": "Ch.12 Ins.A Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM708",
+		"name": "Ch.12 Ins.A Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM709",
+		"name": "Ch.12 Ins.A Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM710",
+		"name": "Ch.12 Ins.A Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM711",
+		"name": "Ch.12 Ins.B",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM712",
+		"name": "Ch.12 Ins.B Edit 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM713",
+		"name": "Ch.12 Ins.B Edit 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM714",
+		"name": "Ch.12 Ins.B Edit 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM715",
+		"name": "Ch.12 Ins.B Edit 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	},
+	{
+		"id": "CONTENTS/PARAM716",
+		"name": "Ch.12 Ins.B Edit 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": " "
+	}
+]

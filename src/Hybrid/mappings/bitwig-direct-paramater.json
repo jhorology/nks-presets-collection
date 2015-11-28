@@ -1,0 +1,4124 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Unison Voices",
+		"normalizedValue": 0,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Unison Detune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "+12.50"
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Unison Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Pitch Bend Range",
+		"normalizedValue": 0.15000000596046448,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Key Split point",
+		"normalizedValue": 0,
+		"valueDisplay": "C-2 (0)"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "PartA Enable",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "PartA Unison On",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "PartA Voice Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Poly"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "PartA Voice Limit",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "16"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "PartA Portamento Time",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "40ms"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "PartA Envelope Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Legato"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "PartA Octave",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "PartA Tune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "PartA Pitch Bend",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "PartA Porta Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "PartA Pitch Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "PartA Pitch Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "PartA Chorus Send",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "PartA Delay Send",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "PartA Reverb Send",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "PartA SSeq Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "PartA Phrase Select",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "PartA SSeq Rate",
+		"normalizedValue": 0.6499999761581421,
+		"valueDisplay": "1/8"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "PartA SSeq Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "First No"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "PartA SSeq Latch",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "PartA SSeq Octave",
+		"normalizedValue": 0,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "PartA SSeq Step",
+		"normalizedValue": 0,
+		"valueDisplay": "Default"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "PartA SSeq Gate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "PartA SSeq Swing",
+		"normalizedValue": 0,
+		"valueDisplay": "50.00"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "PartA Gate 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "PartA Gate 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "PartA Gate 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "PartA Gate 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "PartA Gate 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "PartA Gate 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "PartA Gate 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "PartA Gate 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "PartA Gate 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "PartA Gate 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "PartA Gate 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "PartA Gate 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "PartA Gate 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "PartA Gate 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "PartA Gate 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "PartA Gate 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "PartA Note 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "PartA Note 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "PartA Note 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "PartA Note 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "PartA Note 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "PartA Note 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "PartA Note 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "PartA Note 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "PartA Note 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "PartA Note 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "PartA Note 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "PartA Note 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "PartA Note 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "PartA Note 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "PartA Note 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "PartA Note 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "PartA Velocity 01",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "PartA Velocity 02",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "PartA Velocity 03",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "PartA Velocity 04",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "PartA Velocity 05",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "PartA Velocity 06",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "PartA Velocity 07",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM68",
+		"name": "PartA Velocity 08",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM69",
+		"name": "PartA Velocity 09",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM70",
+		"name": "PartA Velocity 10",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM71",
+		"name": "PartA Velocity 11",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM72",
+		"name": "PartA Velocity 12",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM73",
+		"name": "PartA Velocity 13",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM74",
+		"name": "PartA Velocity 14",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM75",
+		"name": "PartA Velocity 15",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM76",
+		"name": "PartA Velocity 16",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM77",
+		"name": "PartA CtrlSeq1 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM78",
+		"name": "PartA CtrlSeq1 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM79",
+		"name": "PartA CtrlSeq1 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM80",
+		"name": "PartA CtrlSeq1 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM81",
+		"name": "PartA CtrlSeq1 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM82",
+		"name": "PartA CtrlSeq1 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM83",
+		"name": "PartA CtrlSeq1 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM84",
+		"name": "PartA CtrlSeq1 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM85",
+		"name": "PartA CtrlSeq1 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM86",
+		"name": "PartA CtrlSeq1 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM87",
+		"name": "PartA CtrlSeq1 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM88",
+		"name": "PartA CtrlSeq1 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM89",
+		"name": "PartA CtrlSeq1 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM90",
+		"name": "PartA CtrlSeq1 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM91",
+		"name": "PartA CtrlSeq1 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM92",
+		"name": "PartA CtrlSeq1 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM93",
+		"name": "PartA CtrlSeq2 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM94",
+		"name": "PartA CtrlSeq2 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM95",
+		"name": "PartA CtrlSeq2 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM96",
+		"name": "PartA CtrlSeq2 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM97",
+		"name": "PartA CtrlSeq2 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM98",
+		"name": "PartA CtrlSeq2 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM99",
+		"name": "PartA CtrlSeq2 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM100",
+		"name": "PartA CtrlSeq2 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM101",
+		"name": "PartA CtrlSeq2 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM102",
+		"name": "PartA CtrlSeq2 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM103",
+		"name": "PartA CtrlSeq2 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM104",
+		"name": "PartA CtrlSeq2 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM105",
+		"name": "PartA CtrlSeq2 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM106",
+		"name": "PartA CtrlSeq2 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM107",
+		"name": "PartA CtrlSeq2 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM108",
+		"name": "PartA CtrlSeq2 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM109",
+		"name": "PartA CtrlSeq1 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM110",
+		"name": "PartA CtrlSeq1 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM111",
+		"name": "PartA CtrlSeq2 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM112",
+		"name": "PartA CtrlSeq2 Mod Lev",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "-20"
+	},
+	{
+		"id": "CONTENTS/PARAM113",
+		"name": "PartA Oscillator1 Wavetable",
+		"normalizedValue": 0,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM114",
+		"name": "PartA Oscillator1 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw Sync"
+	},
+	{
+		"id": "CONTENTS/PARAM115",
+		"name": "PartA Oscillator1 Semi",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM116",
+		"name": "PartA Oscillator1 Cent",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM117",
+		"name": "PartA Oscillator1 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM118",
+		"name": "PartA Oscillator1 Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM119",
+		"name": "PartA Oscillator1 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Pitch"
+	},
+	{
+		"id": "CONTENTS/PARAM120",
+		"name": "PartA Oscillator1 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Shape"
+	},
+	{
+		"id": "CONTENTS/PARAM121",
+		"name": "PartA Oscillator1 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "Level"
+	},
+	{
+		"id": "CONTENTS/PARAM122",
+		"name": "PartA Oscillator1 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM123",
+		"name": "PartA Oscillator1 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM124",
+		"name": "PartA Oscillator1 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM125",
+		"name": "PartA Oscillator1 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM126",
+		"name": "PartA Oscillator1 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM127",
+		"name": "PartA Oscillator1 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM128",
+		"name": "PartA Oscillator2 Wavetable",
+		"normalizedValue": 0,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM129",
+		"name": "PartA Oscillator2 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw Sync"
+	},
+	{
+		"id": "CONTENTS/PARAM130",
+		"name": "PartA Oscillator2 Semi",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM131",
+		"name": "PartA Oscillator2 Cent",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM132",
+		"name": "PartA Oscillator2 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM133",
+		"name": "PartA Oscillator2 Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM134",
+		"name": "PartA Oscillator2 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Pitch"
+	},
+	{
+		"id": "CONTENTS/PARAM135",
+		"name": "PartA Oscillator2 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Shape"
+	},
+	{
+		"id": "CONTENTS/PARAM136",
+		"name": "PartA Oscillator2 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "Level"
+	},
+	{
+		"id": "CONTENTS/PARAM137",
+		"name": "PartA Oscillator2 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM138",
+		"name": "PartA Oscillator2 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM139",
+		"name": "PartA Oscillator2 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM140",
+		"name": "PartA Oscillator2 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM141",
+		"name": "PartA Oscillator2 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM142",
+		"name": "PartA Oscillator2 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM143",
+		"name": "PartA Oscillator3 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw"
+	},
+	{
+		"id": "CONTENTS/PARAM144",
+		"name": "PartA Oscillator3 Octave",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM145",
+		"name": "PartA Oscillator3 Level",
+		"normalizedValue": 0.9950000047683716,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM146",
+		"name": "PartA Sub Osc Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM147",
+		"name": "PartA Noise Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM148",
+		"name": "PartA Oscillator3 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Level"
+	},
+	{
+		"id": "CONTENTS/PARAM149",
+		"name": "PartA Oscillator3 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Sub"
+	},
+	{
+		"id": "CONTENTS/PARAM150",
+		"name": "PartA Oscillator3 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "Noise"
+	},
+	{
+		"id": "CONTENTS/PARAM151",
+		"name": "PartA Oscillator3 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM152",
+		"name": "PartA Oscillator3 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM153",
+		"name": "PartA Oscillator3 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM154",
+		"name": "PartA Oscillator3 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM155",
+		"name": "PartA Oscillator3 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM156",
+		"name": "PartA Oscillator3 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM157",
+		"name": "PartA Filter Type",
+		"normalizedValue": 0,
+		"valueDisplay": "LP4"
+	},
+	{
+		"id": "CONTENTS/PARAM158",
+		"name": "PartA Filter Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM159",
+		"name": "PartA Cutoff",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM160",
+		"name": "PartA Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM161",
+		"name": "PartA Envelope",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM162",
+		"name": "PartA Key Track",
+		"normalizedValue": 1,
+		"valueDisplay": "+100"
+	},
+	{
+		"id": "CONTENTS/PARAM163",
+		"name": "PartA Filter FM",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM164",
+		"name": "PartA Filter FM Mix",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM165",
+		"name": "PartA Filter Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Cut"
+	},
+	{
+		"id": "CONTENTS/PARAM166",
+		"name": "PartA Filter Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Res"
+	},
+	{
+		"id": "CONTENTS/PARAM167",
+		"name": "PartA Filter Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "FM"
+	},
+	{
+		"id": "CONTENTS/PARAM168",
+		"name": "PartA Filter Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM169",
+		"name": "PartA Filter Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM170",
+		"name": "PartA Filter Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM171",
+		"name": "PartA Filter Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM172",
+		"name": "PartA Filter Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM173",
+		"name": "PartA Filter Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM174",
+		"name": "PartA Volume",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM175",
+		"name": "PartA Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM176",
+		"name": "PartA Amplifier Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Vol"
+	},
+	{
+		"id": "CONTENTS/PARAM177",
+		"name": "PartA Amplifier Mod Dest2",
+		"normalizedValue": 1,
+		"valueDisplay": "Pan"
+	},
+	{
+		"id": "CONTENTS/PARAM178",
+		"name": "PartA Amplifier Mod Dest3",
+		"normalizedValue": 0,
+		"valueDisplay": "Vol"
+	},
+	{
+		"id": "CONTENTS/PARAM179",
+		"name": "PartA Amplifier Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM180",
+		"name": "PartA Amplifier Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM181",
+		"name": "PartA Amplifier Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM182",
+		"name": "PartA Amplifier Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM183",
+		"name": "PartA Amplifier Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM184",
+		"name": "PartA Amplifier Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM185",
+		"name": "PartA Pan Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM186",
+		"name": "PartA Pan Random",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM187",
+		"name": "PartA EnvF Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM188",
+		"name": "PartA EnvF Decay1",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM189",
+		"name": "PartA EnvF Level1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM190",
+		"name": "PartA EnvF Decay2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM191",
+		"name": "PartA EnvF Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM192",
+		"name": "PartA EnvF Release",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM193",
+		"name": "PartA EnvF Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM194",
+		"name": "PartA EnvF Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM195",
+		"name": "PartA EnvF Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM196",
+		"name": "PartA EnvF Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM197",
+		"name": "PartA EnvA Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM198",
+		"name": "PartA EnvA Decay1",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM199",
+		"name": "PartA EnvA Level1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM200",
+		"name": "PartA EnvA Decay2",
+		"normalizedValue": 0.44185999035835266,
+		"valueDisplay": "781ms"
+	},
+	{
+		"id": "CONTENTS/PARAM201",
+		"name": "PartA EnvA Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM202",
+		"name": "PartA EnvA Release",
+		"normalizedValue": 0.07999999821186066,
+		"valueDisplay": "26ms"
+	},
+	{
+		"id": "CONTENTS/PARAM203",
+		"name": "PartA EnvA Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM204",
+		"name": "PartA EnvA Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM205",
+		"name": "PartA EnvA Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM206",
+		"name": "PartA EnvA Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM207",
+		"name": "PartA Env1 Start Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM208",
+		"name": "PartA Env1 Start Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM209",
+		"name": "PartA Env1 Attack Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM210",
+		"name": "PartA Env1 Attack Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM211",
+		"name": "PartA Env1 Decay1 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM212",
+		"name": "PartA Env1 Decay1 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM213",
+		"name": "PartA Env1 Decay2 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM214",
+		"name": "PartA Env1 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM215",
+		"name": "PartA Env1 Release Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM216",
+		"name": "PartA Env1 Release Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM217",
+		"name": "PartA Env1 Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM218",
+		"name": "PartA Env1 Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM219",
+		"name": "PartA Env1 Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM220",
+		"name": "PartA Env1 Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM221",
+		"name": "PartA Env2 Start Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM222",
+		"name": "PartA Env2 Start Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM223",
+		"name": "PartA Env2 Attack Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM224",
+		"name": "PartA Env2 Attack Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM225",
+		"name": "PartA Env2 Decay1 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM226",
+		"name": "PartA Env2 Decay1 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM227",
+		"name": "PartA Env2 Decay2 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM228",
+		"name": "PartA Env2 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM229",
+		"name": "PartA Env2 Release Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM230",
+		"name": "PartA Env2 Release Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM231",
+		"name": "PartA Env2 Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM232",
+		"name": "PartA Env2 Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM233",
+		"name": "PartA Env2 Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM234",
+		"name": "PartA Env2 Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM235",
+		"name": "PartA LFO1 Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM236",
+		"name": "PartA LFO1 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM237",
+		"name": "PartA LFO1 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM238",
+		"name": "PartA LFO1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM239",
+		"name": "PartA LFO1 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM240",
+		"name": "PartA LFO1 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM241",
+		"name": "PartA LFO2 Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM242",
+		"name": "PartA LFO2 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM243",
+		"name": "PartA LFO2 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM244",
+		"name": "PartA LFO2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM245",
+		"name": "PartA LFO2 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM246",
+		"name": "PartA LFO2 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM247",
+		"name": "PartA LFO3 Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM248",
+		"name": "PartA LFO3 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM249",
+		"name": "PartA LFO3 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM250",
+		"name": "PartA LFO3 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM251",
+		"name": "PartA LFO3 Mod Dest",
+		"normalizedValue": 0,
+		"valueDisplay": "Depth"
+	},
+	{
+		"id": "CONTENTS/PARAM252",
+		"name": "PartA LFO3 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM253",
+		"name": "PartA LFO3 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM254",
+		"name": "PartA Fx1 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "None"
+	},
+	{
+		"id": "CONTENTS/PARAM255",
+		"name": "PartA Fx1 Reserved",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM256",
+		"name": "PartA Fx1 Enable",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM257",
+		"name": "PartA Fx1 Parameter1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM258",
+		"name": "PartA Fx1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM259",
+		"name": "PartA Fx1 Parameter2",
+		"normalizedValue": 0.6899999976158142,
+		"valueDisplay": "69"
+	},
+	{
+		"id": "CONTENTS/PARAM260",
+		"name": "PartA Fx1 Parameter3",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM261",
+		"name": "PartA Fx1 Parameter4",
+		"normalizedValue": 0.5049999952316284,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM262",
+		"name": "PartA Fx1 Parameter5",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM263",
+		"name": "PartA Fx1 Parameter6",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM264",
+		"name": "PartA Fx1 Parameter7",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM265",
+		"name": "PartA Fx1 Parameter8",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM266",
+		"name": "PartA Fx1 Parameter9",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM267",
+		"name": "PartA Fx1 Parameter10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM268",
+		"name": "PartA Fx1 Parameter11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM269",
+		"name": "PartA Fx2 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "None"
+	},
+	{
+		"id": "CONTENTS/PARAM270",
+		"name": "PartA Fx2 Reserved",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM271",
+		"name": "PartA Fx2 Enable",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM272",
+		"name": "PartA Fx2 Parameter1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM273",
+		"name": "PartA Fx2 Sync",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM274",
+		"name": "PartA Fx2 Parameter2",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM275",
+		"name": "PartA Fx2 Parameter3",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM276",
+		"name": "PartA Fx2 Parameter4",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM277",
+		"name": "PartA Fx2 Parameter5",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM278",
+		"name": "PartA Fx2 Parameter6",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM279",
+		"name": "PartA Fx2 Parameter7",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM280",
+		"name": "PartA Fx2 Parameter8",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM281",
+		"name": "PartA Fx2 Parameter9",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM282",
+		"name": "PartA Fx2 Parameter10",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM283",
+		"name": "PartA Fx2 Parameter11",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM284",
+		"name": "PartA Filter 1 Distortion Mode",
+		"normalizedValue": 0.9166666269302368,
+		"valueDisplay": "Overdriv"
+	},
+	{
+		"id": "CONTENTS/PARAM285",
+		"name": "PartA Filter 1 Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "VCF"
+	},
+	{
+		"id": "CONTENTS/PARAM286",
+		"name": "PartA Noise Color",
+		"normalizedValue": 0,
+		"valueDisplay": "White"
+	},
+	{
+		"id": "CONTENTS/PARAM287",
+		"name": "PartA Oscillator1 Multi Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw"
+	},
+	{
+		"id": "CONTENTS/PARAM288",
+		"name": "PartA Oscillator2 Multi Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw"
+	},
+	{
+		"id": "CONTENTS/PARAM289",
+		"name": "PartA Hype Low",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM290",
+		"name": "PartA Hype High",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM291",
+		"name": "PartA Osc Restart",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM292",
+		"name": "PartA Voice Doubling",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM293",
+		"name": "PartA Voice Doubling Width",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70"
+	},
+	{
+		"id": "CONTENTS/PARAM294",
+		"name": "PartA Filter Cutoff",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM295",
+		"name": "PartA Filter Resonance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM296",
+		"name": "PartA Filter Env",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM297",
+		"name": "PartA Filter 2 Routing",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM298",
+		"name": "PartA Filter 2 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "LP4"
+	},
+	{
+		"id": "CONTENTS/PARAM299",
+		"name": "PartA Filter 2 Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM300",
+		"name": "PartA Cutoff 2",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM301",
+		"name": "PartA Resonance 2",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM302",
+		"name": "PartA Envelope 2",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM303",
+		"name": "PartA Key Track 2",
+		"normalizedValue": 1,
+		"valueDisplay": "+100"
+	},
+	{
+		"id": "CONTENTS/PARAM304",
+		"name": "PartA Filter 2 FM",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM305",
+		"name": "PartA Filter 2 FM Mix",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM306",
+		"name": "PartA Filter 2 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Cut"
+	},
+	{
+		"id": "CONTENTS/PARAM307",
+		"name": "PartA Filter 2 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Res"
+	},
+	{
+		"id": "CONTENTS/PARAM308",
+		"name": "PartA Filter 2 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "FM"
+	},
+	{
+		"id": "CONTENTS/PARAM309",
+		"name": "PartA Filter 2 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM310",
+		"name": "PartA Filter 2 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM311",
+		"name": "PartA Filter 2 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM312",
+		"name": "PartA Filter 2 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM313",
+		"name": "PartA Filter 2 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM314",
+		"name": "PartA Filter 2 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM315",
+		"name": "PartA Filter Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM316",
+		"name": "PartA Filter 2 Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM317",
+		"name": "PartA Filter 2 Distortion Mode",
+		"normalizedValue": 0.9166666269302368,
+		"valueDisplay": "Overdriv"
+	},
+	{
+		"id": "CONTENTS/PARAM318",
+		"name": "PartA Pumper Speed",
+		"normalizedValue": 0.30000001192092896,
+		"valueDisplay": "30"
+	},
+	{
+		"id": "CONTENTS/PARAM319",
+		"name": "PartA Pumper Attack",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "5"
+	},
+	{
+		"id": "CONTENTS/PARAM320",
+		"name": "PartA Pumper Hold",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "10"
+	},
+	{
+		"id": "CONTENTS/PARAM321",
+		"name": "PartA Pumper Release",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "60"
+	},
+	{
+		"id": "CONTENTS/PARAM322",
+		"name": "PartA Pumper Shape",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "10"
+	},
+	{
+		"id": "CONTENTS/PARAM323",
+		"name": "PartA Pumper Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM324",
+		"name": "PartB Enable",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM325",
+		"name": "PartB Unison On",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM326",
+		"name": "PartB Voice Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Poly"
+	},
+	{
+		"id": "CONTENTS/PARAM327",
+		"name": "PartB Voice Limit",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "16"
+	},
+	{
+		"id": "CONTENTS/PARAM328",
+		"name": "PartB Portamento Time",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "40ms"
+	},
+	{
+		"id": "CONTENTS/PARAM329",
+		"name": "PartB Envelope Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Legato"
+	},
+	{
+		"id": "CONTENTS/PARAM330",
+		"name": "PartB Octave",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM331",
+		"name": "PartB Tune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM332",
+		"name": "PartB Pitch Bend",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM333",
+		"name": "PartB Porta Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM334",
+		"name": "PartB Pitch Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM335",
+		"name": "PartB Pitch Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM336",
+		"name": "PartB Chorus Send",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM337",
+		"name": "PartB Delay Send",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM338",
+		"name": "PartB Reverb Send",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM339",
+		"name": "PartB SSeq Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM340",
+		"name": "PartB Phrase Select",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM341",
+		"name": "PartB SSeq Rate",
+		"normalizedValue": 0.6499999761581421,
+		"valueDisplay": "1/8"
+	},
+	{
+		"id": "CONTENTS/PARAM342",
+		"name": "PartB SSeq Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "First No"
+	},
+	{
+		"id": "CONTENTS/PARAM343",
+		"name": "PartB SSeq Latch",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM344",
+		"name": "PartB SSeq Octave",
+		"normalizedValue": 0,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM345",
+		"name": "PartB SSeq Step",
+		"normalizedValue": 0,
+		"valueDisplay": "Default"
+	},
+	{
+		"id": "CONTENTS/PARAM346",
+		"name": "PartB SSeq Gate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM347",
+		"name": "PartB SSeq Swing",
+		"normalizedValue": 0,
+		"valueDisplay": "50.00"
+	},
+	{
+		"id": "CONTENTS/PARAM348",
+		"name": "PartB Gate 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM349",
+		"name": "PartB Gate 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM350",
+		"name": "PartB Gate 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM351",
+		"name": "PartB Gate 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM352",
+		"name": "PartB Gate 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM353",
+		"name": "PartB Gate 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM354",
+		"name": "PartB Gate 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM355",
+		"name": "PartB Gate 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM356",
+		"name": "PartB Gate 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM357",
+		"name": "PartB Gate 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM358",
+		"name": "PartB Gate 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM359",
+		"name": "PartB Gate 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM360",
+		"name": "PartB Gate 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM361",
+		"name": "PartB Gate 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM362",
+		"name": "PartB Gate 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM363",
+		"name": "PartB Gate 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM364",
+		"name": "PartB Note 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM365",
+		"name": "PartB Note 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM366",
+		"name": "PartB Note 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM367",
+		"name": "PartB Note 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM368",
+		"name": "PartB Note 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM369",
+		"name": "PartB Note 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM370",
+		"name": "PartB Note 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM371",
+		"name": "PartB Note 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM372",
+		"name": "PartB Note 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM373",
+		"name": "PartB Note 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM374",
+		"name": "PartB Note 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM375",
+		"name": "PartB Note 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM376",
+		"name": "PartB Note 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM377",
+		"name": "PartB Note 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM378",
+		"name": "PartB Note 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM379",
+		"name": "PartB Note 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM380",
+		"name": "PartB Velocity 01",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM381",
+		"name": "PartB Velocity 02",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM382",
+		"name": "PartB Velocity 03",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM383",
+		"name": "PartB Velocity 04",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM384",
+		"name": "PartB Velocity 05",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM385",
+		"name": "PartB Velocity 06",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM386",
+		"name": "PartB Velocity 07",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM387",
+		"name": "PartB Velocity 08",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM388",
+		"name": "PartB Velocity 09",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM389",
+		"name": "PartB Velocity 10",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM390",
+		"name": "PartB Velocity 11",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM391",
+		"name": "PartB Velocity 12",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM392",
+		"name": "PartB Velocity 13",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM393",
+		"name": "PartB Velocity 14",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM394",
+		"name": "PartB Velocity 15",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM395",
+		"name": "PartB Velocity 16",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "80"
+	},
+	{
+		"id": "CONTENTS/PARAM396",
+		"name": "PartB CtrlSeq1 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM397",
+		"name": "PartB CtrlSeq1 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM398",
+		"name": "PartB CtrlSeq1 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM399",
+		"name": "PartB CtrlSeq1 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM400",
+		"name": "PartB CtrlSeq1 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM401",
+		"name": "PartB CtrlSeq1 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM402",
+		"name": "PartB CtrlSeq1 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM403",
+		"name": "PartB CtrlSeq1 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM404",
+		"name": "PartB CtrlSeq1 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM405",
+		"name": "PartB CtrlSeq1 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM406",
+		"name": "PartB CtrlSeq1 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM407",
+		"name": "PartB CtrlSeq1 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM408",
+		"name": "PartB CtrlSeq1 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM409",
+		"name": "PartB CtrlSeq1 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM410",
+		"name": "PartB CtrlSeq1 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM411",
+		"name": "PartB CtrlSeq1 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM412",
+		"name": "PartB CtrlSeq2 01",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM413",
+		"name": "PartB CtrlSeq2 02",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM414",
+		"name": "PartB CtrlSeq2 03",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM415",
+		"name": "PartB CtrlSeq2 04",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM416",
+		"name": "PartB CtrlSeq2 05",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM417",
+		"name": "PartB CtrlSeq2 06",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM418",
+		"name": "PartB CtrlSeq2 07",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM419",
+		"name": "PartB CtrlSeq2 08",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM420",
+		"name": "PartB CtrlSeq2 09",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM421",
+		"name": "PartB CtrlSeq2 10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM422",
+		"name": "PartB CtrlSeq2 11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM423",
+		"name": "PartB CtrlSeq2 12",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM424",
+		"name": "PartB CtrlSeq2 13",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM425",
+		"name": "PartB CtrlSeq2 14",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM426",
+		"name": "PartB CtrlSeq2 15",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM427",
+		"name": "PartB CtrlSeq2 16",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM428",
+		"name": "PartB CtrlSeq1 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM429",
+		"name": "PartB CtrlSeq1 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM430",
+		"name": "PartB CtrlSeq2 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM431",
+		"name": "PartB CtrlSeq2 Mod Lev",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "-20"
+	},
+	{
+		"id": "CONTENTS/PARAM432",
+		"name": "PartB Oscillator1 Wavetable",
+		"normalizedValue": 0,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM433",
+		"name": "PartB Oscillator1 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw Sync"
+	},
+	{
+		"id": "CONTENTS/PARAM434",
+		"name": "PartB Oscillator1 Semi",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM435",
+		"name": "PartB Oscillator1 Cent",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM436",
+		"name": "PartB Oscillator1 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM437",
+		"name": "PartB Oscillator1 Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM438",
+		"name": "PartB Oscillator1 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Pitch"
+	},
+	{
+		"id": "CONTENTS/PARAM439",
+		"name": "PartB Oscillator1 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Shape"
+	},
+	{
+		"id": "CONTENTS/PARAM440",
+		"name": "PartB Oscillator1 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "Level"
+	},
+	{
+		"id": "CONTENTS/PARAM441",
+		"name": "PartB Oscillator1 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM442",
+		"name": "PartB Oscillator1 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM443",
+		"name": "PartB Oscillator1 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM444",
+		"name": "PartB Oscillator1 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM445",
+		"name": "PartB Oscillator1 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM446",
+		"name": "PartB Oscillator1 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM447",
+		"name": "PartB Oscillator2 Wavetable",
+		"normalizedValue": 0,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM448",
+		"name": "PartB Oscillator2 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw Sync"
+	},
+	{
+		"id": "CONTENTS/PARAM449",
+		"name": "PartB Oscillator2 Semi",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM450",
+		"name": "PartB Oscillator2 Cent",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM451",
+		"name": "PartB Oscillator2 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM452",
+		"name": "PartB Oscillator2 Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM453",
+		"name": "PartB Oscillator2 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Pitch"
+	},
+	{
+		"id": "CONTENTS/PARAM454",
+		"name": "PartB Oscillator2 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Shape"
+	},
+	{
+		"id": "CONTENTS/PARAM455",
+		"name": "PartB Oscillator2 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "Level"
+	},
+	{
+		"id": "CONTENTS/PARAM456",
+		"name": "PartB Oscillator2 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM457",
+		"name": "PartB Oscillator2 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM458",
+		"name": "PartB Oscillator2 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM459",
+		"name": "PartB Oscillator2 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM460",
+		"name": "PartB Oscillator2 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM461",
+		"name": "PartB Oscillator2 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM462",
+		"name": "PartB Oscillator3 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw"
+	},
+	{
+		"id": "CONTENTS/PARAM463",
+		"name": "PartB Oscillator3 Octave",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM464",
+		"name": "PartB Oscillator3 Level",
+		"normalizedValue": 0.9950000047683716,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM465",
+		"name": "PartB Sub Osc Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM466",
+		"name": "PartB Noise Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM467",
+		"name": "PartB Oscillator3 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Level"
+	},
+	{
+		"id": "CONTENTS/PARAM468",
+		"name": "PartB Oscillator3 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Sub"
+	},
+	{
+		"id": "CONTENTS/PARAM469",
+		"name": "PartB Oscillator3 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "Noise"
+	},
+	{
+		"id": "CONTENTS/PARAM470",
+		"name": "PartB Oscillator3 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM471",
+		"name": "PartB Oscillator3 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM472",
+		"name": "PartB Oscillator3 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM473",
+		"name": "PartB Oscillator3 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM474",
+		"name": "PartB Oscillator3 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM475",
+		"name": "PartB Oscillator3 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM476",
+		"name": "PartB Filter Type",
+		"normalizedValue": 0,
+		"valueDisplay": "LP4"
+	},
+	{
+		"id": "CONTENTS/PARAM477",
+		"name": "PartB Filter Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM478",
+		"name": "PartB Cutoff",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM479",
+		"name": "PartB Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM480",
+		"name": "PartB Envelope",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM481",
+		"name": "PartB Key Track",
+		"normalizedValue": 1,
+		"valueDisplay": "+100"
+	},
+	{
+		"id": "CONTENTS/PARAM482",
+		"name": "PartB Filter FM",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM483",
+		"name": "PartB Filter FM Mix",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM484",
+		"name": "PartB Filter Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Cut"
+	},
+	{
+		"id": "CONTENTS/PARAM485",
+		"name": "PartB Filter Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Res"
+	},
+	{
+		"id": "CONTENTS/PARAM486",
+		"name": "PartB Filter Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "FM"
+	},
+	{
+		"id": "CONTENTS/PARAM487",
+		"name": "PartB Filter Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM488",
+		"name": "PartB Filter Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM489",
+		"name": "PartB Filter Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM490",
+		"name": "PartB Filter Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM491",
+		"name": "PartB Filter Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM492",
+		"name": "PartB Filter Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM493",
+		"name": "PartB Volume",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM494",
+		"name": "PartB Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "<C>"
+	},
+	{
+		"id": "CONTENTS/PARAM495",
+		"name": "PartB Amplifier Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Vol"
+	},
+	{
+		"id": "CONTENTS/PARAM496",
+		"name": "PartB Amplifier Mod Dest2",
+		"normalizedValue": 1,
+		"valueDisplay": "Pan"
+	},
+	{
+		"id": "CONTENTS/PARAM497",
+		"name": "PartB Amplifier Mod Dest3",
+		"normalizedValue": 0,
+		"valueDisplay": "Vol"
+	},
+	{
+		"id": "CONTENTS/PARAM498",
+		"name": "PartB Amplifier Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM499",
+		"name": "PartB Amplifier Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM500",
+		"name": "PartB Amplifier Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM501",
+		"name": "PartB Amplifier Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM502",
+		"name": "PartB Amplifier Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM503",
+		"name": "PartB Amplifier Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM504",
+		"name": "PartB Pan Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM505",
+		"name": "PartB Pan Random",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM506",
+		"name": "PartB EnvF Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM507",
+		"name": "PartB EnvF Decay1",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM508",
+		"name": "PartB EnvF Level1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM509",
+		"name": "PartB EnvF Decay2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM510",
+		"name": "PartB EnvF Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM511",
+		"name": "PartB EnvF Release",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM512",
+		"name": "PartB EnvF Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM513",
+		"name": "PartB EnvF Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM514",
+		"name": "PartB EnvF Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM515",
+		"name": "PartB EnvF Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM516",
+		"name": "PartB EnvA Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM517",
+		"name": "PartB EnvA Decay1",
+		"normalizedValue": 0,
+		"valueDisplay": "0ms"
+	},
+	{
+		"id": "CONTENTS/PARAM518",
+		"name": "PartB EnvA Level1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM519",
+		"name": "PartB EnvA Decay2",
+		"normalizedValue": 0.44185999035835266,
+		"valueDisplay": "781ms"
+	},
+	{
+		"id": "CONTENTS/PARAM520",
+		"name": "PartB EnvA Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM521",
+		"name": "PartB EnvA Release",
+		"normalizedValue": 0.07999999821186066,
+		"valueDisplay": "26ms"
+	},
+	{
+		"id": "CONTENTS/PARAM522",
+		"name": "PartB EnvA Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM523",
+		"name": "PartB EnvA Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM524",
+		"name": "PartB EnvA Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM525",
+		"name": "PartB EnvA Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM526",
+		"name": "PartB Env1 Start Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM527",
+		"name": "PartB Env1 Start Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM528",
+		"name": "PartB Env1 Attack Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM529",
+		"name": "PartB Env1 Attack Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM530",
+		"name": "PartB Env1 Decay1 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM531",
+		"name": "PartB Env1 Decay1 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM532",
+		"name": "PartB Env1 Decay2 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM533",
+		"name": "PartB Env1 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM534",
+		"name": "PartB Env1 Release Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM535",
+		"name": "PartB Env1 Release Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM536",
+		"name": "PartB Env1 Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM537",
+		"name": "PartB Env1 Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM538",
+		"name": "PartB Env1 Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM539",
+		"name": "PartB Env1 Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM540",
+		"name": "PartB Env2 Start Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM541",
+		"name": "PartB Env2 Start Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM542",
+		"name": "PartB Env2 Attack Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM543",
+		"name": "PartB Env2 Attack Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM544",
+		"name": "PartB Env2 Decay1 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM545",
+		"name": "PartB Env2 Decay1 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM546",
+		"name": "PartB Env2 Decay2 Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM547",
+		"name": "PartB Env2 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM548",
+		"name": "PartB Env2 Release Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00s"
+	},
+	{
+		"id": "CONTENTS/PARAM549",
+		"name": "PartB Env2 Release Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM550",
+		"name": "PartB Env2 Level Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM551",
+		"name": "PartB Env2 Attack Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM552",
+		"name": "PartB Env2 Decay Velocity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM553",
+		"name": "PartB Env2 Time Key Track",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM554",
+		"name": "PartB LFO1 Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM555",
+		"name": "PartB LFO1 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM556",
+		"name": "PartB LFO1 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM557",
+		"name": "PartB LFO1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM558",
+		"name": "PartB LFO1 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM559",
+		"name": "PartB LFO1 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM560",
+		"name": "PartB LFO2 Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM561",
+		"name": "PartB LFO2 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM562",
+		"name": "PartB LFO2 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM563",
+		"name": "PartB LFO2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM564",
+		"name": "PartB LFO2 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM565",
+		"name": "PartB LFO2 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM566",
+		"name": "PartB LFO3 Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM567",
+		"name": "PartB LFO3 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.00 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM568",
+		"name": "PartB LFO3 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM569",
+		"name": "PartB LFO3 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM570",
+		"name": "PartB LFO3 Mod Dest",
+		"normalizedValue": 0,
+		"valueDisplay": "Depth"
+	},
+	{
+		"id": "CONTENTS/PARAM571",
+		"name": "PartB LFO3 Mod Src",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM572",
+		"name": "PartB LFO3 Mod Lev",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM573",
+		"name": "PartB Fx1 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "None"
+	},
+	{
+		"id": "CONTENTS/PARAM574",
+		"name": "PartB Fx1 Reserved",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM575",
+		"name": "PartB Fx1 Enable",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM576",
+		"name": "PartB Fx1 Parameter1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM577",
+		"name": "PartB Fx1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM578",
+		"name": "PartB Fx1 Parameter2",
+		"normalizedValue": 0.6899999976158142,
+		"valueDisplay": "69"
+	},
+	{
+		"id": "CONTENTS/PARAM579",
+		"name": "PartB Fx1 Parameter3",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM580",
+		"name": "PartB Fx1 Parameter4",
+		"normalizedValue": 0.5049999952316284,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM581",
+		"name": "PartB Fx1 Parameter5",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM582",
+		"name": "PartB Fx1 Parameter6",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM583",
+		"name": "PartB Fx1 Parameter7",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM584",
+		"name": "PartB Fx1 Parameter8",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM585",
+		"name": "PartB Fx1 Parameter9",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM586",
+		"name": "PartB Fx1 Parameter10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM587",
+		"name": "PartB Fx1 Parameter11",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM588",
+		"name": "PartB Fx2 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "None"
+	},
+	{
+		"id": "CONTENTS/PARAM589",
+		"name": "PartB Fx2 Reserved",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM590",
+		"name": "PartB Fx2 Enable",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM591",
+		"name": "PartB Fx2 Parameter1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM592",
+		"name": "PartB Fx2 Sync",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM593",
+		"name": "PartB Fx2 Parameter2",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM594",
+		"name": "PartB Fx2 Parameter3",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM595",
+		"name": "PartB Fx2 Parameter4",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM596",
+		"name": "PartB Fx2 Parameter5",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM597",
+		"name": "PartB Fx2 Parameter6",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM598",
+		"name": "PartB Fx2 Parameter7",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM599",
+		"name": "PartB Fx2 Parameter8",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM600",
+		"name": "PartB Fx2 Parameter9",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM601",
+		"name": "PartB Fx2 Parameter10",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM602",
+		"name": "PartB Fx2 Parameter11",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM603",
+		"name": "PartB Filter 1 Distortion Mode",
+		"normalizedValue": 0.9166666269302368,
+		"valueDisplay": "Overdriv"
+	},
+	{
+		"id": "CONTENTS/PARAM604",
+		"name": "PartB Filter 1 Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "VCF"
+	},
+	{
+		"id": "CONTENTS/PARAM605",
+		"name": "PartB Noise Color",
+		"normalizedValue": 0,
+		"valueDisplay": "White"
+	},
+	{
+		"id": "CONTENTS/PARAM606",
+		"name": "PartB Oscillator1 Multi Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw"
+	},
+	{
+		"id": "CONTENTS/PARAM607",
+		"name": "PartB Oscillator2 Multi Wave",
+		"normalizedValue": 0,
+		"valueDisplay": "Saw"
+	},
+	{
+		"id": "CONTENTS/PARAM608",
+		"name": "PartB Hype Low",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM609",
+		"name": "PartB Hype High",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM610",
+		"name": "PartB Osc Restart",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM611",
+		"name": "PartB Voice Doubling",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM612",
+		"name": "PartB Voice Doubling Width",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70"
+	},
+	{
+		"id": "CONTENTS/PARAM613",
+		"name": "PartB Filter Cutoff",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM614",
+		"name": "PartB Filter Resonance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM615",
+		"name": "PartB Filter Env",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM616",
+		"name": "PartB Filter 2 Routing",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM617",
+		"name": "PartB Filter 2 Type",
+		"normalizedValue": 0,
+		"valueDisplay": "LP4"
+	},
+	{
+		"id": "CONTENTS/PARAM618",
+		"name": "PartB Filter 2 Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM619",
+		"name": "PartB Cutoff 2",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM620",
+		"name": "PartB Resonance 2",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM621",
+		"name": "PartB Envelope 2",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM622",
+		"name": "PartB Key Track 2",
+		"normalizedValue": 1,
+		"valueDisplay": "+100"
+	},
+	{
+		"id": "CONTENTS/PARAM623",
+		"name": "PartB Filter 2 FM",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM624",
+		"name": "PartB Filter 2 FM Mix",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM625",
+		"name": "PartB Filter 2 Mod Dest1",
+		"normalizedValue": 0,
+		"valueDisplay": "Cut 2"
+	},
+	{
+		"id": "CONTENTS/PARAM626",
+		"name": "PartB Filter 2 Mod Dest2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Res 2"
+	},
+	{
+		"id": "CONTENTS/PARAM627",
+		"name": "PartB Filter 2 Mod Dest3",
+		"normalizedValue": 1,
+		"valueDisplay": "FM 2"
+	},
+	{
+		"id": "CONTENTS/PARAM628",
+		"name": "PartB Filter 2 Mod Src1",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM629",
+		"name": "PartB Filter 2 Mod Src2",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM630",
+		"name": "PartB Filter 2 Mod Src3",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM631",
+		"name": "PartB Filter 2 Mod Lev1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM632",
+		"name": "PartB Filter 2 Mod Lev2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM633",
+		"name": "PartB Filter 2 Mod Lev3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM634",
+		"name": "PartB Filter Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM635",
+		"name": "PartB Filter 2 Gain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM636",
+		"name": "PartB Filter 2 Distortion Mode",
+		"normalizedValue": 0.9166666269302368,
+		"valueDisplay": "Overdriv"
+	},
+	{
+		"id": "CONTENTS/PARAM637",
+		"name": "PartB Pumper Speed",
+		"normalizedValue": 0.30000001192092896,
+		"valueDisplay": "30"
+	},
+	{
+		"id": "CONTENTS/PARAM638",
+		"name": "PartB Pumper Attack",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "5"
+	},
+	{
+		"id": "CONTENTS/PARAM639",
+		"name": "PartB Pumper Hold",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "10"
+	},
+	{
+		"id": "CONTENTS/PARAM640",
+		"name": "PartB Pumper Release",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "60"
+	},
+	{
+		"id": "CONTENTS/PARAM641",
+		"name": "PartB Pumper Shape",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "10"
+	},
+	{
+		"id": "CONTENTS/PARAM642",
+		"name": "PartB Pumper Shift",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM643",
+		"name": "Chorus Enable",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM644",
+		"name": "Chorus Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Chorus"
+	},
+	{
+		"id": "CONTENTS/PARAM645",
+		"name": "Chorus Rate",
+		"normalizedValue": 0.27500098943710327,
+		"valueDisplay": ".25 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM646",
+		"name": "Chorus Depth",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM647",
+		"name": "Chorus Phase",
+		"normalizedValue": 1,
+		"valueDisplay": "+180"
+	},
+	{
+		"id": "CONTENTS/PARAM648",
+		"name": "Chorus Feedback",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM649",
+		"name": "Chorus Wet Mix",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM650",
+		"name": "Delay Enable",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM651",
+		"name": "Delay Mode",
+		"normalizedValue": 1,
+		"valueDisplay": "Cross"
+	},
+	{
+		"id": "CONTENTS/PARAM652",
+		"name": "Delay Sync",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM653",
+		"name": "Delay Time L",
+		"normalizedValue": 0.3605000078678131,
+		"valueDisplay": "+0.433"
+	},
+	{
+		"id": "CONTENTS/PARAM654",
+		"name": "Delay Time R",
+		"normalizedValue": 0.5019999742507935,
+		"valueDisplay": "+0.793"
+	},
+	{
+		"id": "CONTENTS/PARAM655",
+		"name": "Delay Feedback L",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM656",
+		"name": "Delay Feedback R",
+		"normalizedValue": 0.5149999856948853,
+		"valueDisplay": "52"
+	},
+	{
+		"id": "CONTENTS/PARAM657",
+		"name": "Delay HiDamp",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM658",
+		"name": "Delay Character",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM659",
+		"name": "Delay Wet Mix",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM660",
+		"name": "Reverb Enable",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM661",
+		"name": "Reverb Pre-Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "+0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM662",
+		"name": "Reverb Room Size",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM663",
+		"name": "Reverb Ambience",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM664",
+		"name": "Reverb Time",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM665",
+		"name": "Reverb Mode",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Natural"
+	},
+	{
+		"id": "CONTENTS/PARAM666",
+		"name": "Reverb Hicut",
+		"normalizedValue": 0.5,
+		"valueDisplay": "4472.14 "
+	},
+	{
+		"id": "CONTENTS/PARAM667",
+		"name": "Reverb Wet Mix",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM668",
+		"name": "Master Volume",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM669",
+		"name": "Link Step Sequencer",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM670",
+		"name": "Reserved2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM671",
+		"name": "Reserved3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM672",
+		"name": "Reserved4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM673",
+		"name": "Reserved5",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM674",
+		"name": "Reserved6",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM675",
+		"name": "Reserved7",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM676",
+		"name": "Reserved8",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM677",
+		"name": "Reserved9",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM678",
+		"name": "Reserved10",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM679",
+		"name": "Morph 1",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM680",
+		"name": "Morph 2",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM681",
+		"name": "Morph 3",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM682",
+		"name": "Morph 4",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM683",
+		"name": "Morph 1 Ctrl Assign",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM684",
+		"name": "Morph 2 Ctrl Assign",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM685",
+		"name": "Morph 3 Ctrl Assign",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM686",
+		"name": "Morph 4 Ctrl Assign",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	}
+]

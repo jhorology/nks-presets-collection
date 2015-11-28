@@ -1,0 +1,5300 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Master Tune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000 semitones"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Master Scale",
+		"normalizedValue": 0.3333333432674408,
+		"valueDisplay": "16\""
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Osc 1 Detune",
+		"normalizedValue": 0.486541748046875,
+		"valueDisplay": "-0.027 semitones"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Osc 1 Scale",
+		"normalizedValue": 0,
+		"valueDisplay": "0 octaves"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Osc 1 Wave Form",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "Sawtooth"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "Osc 1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "Osc 1 Pulse Width",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "Osc 1 Level",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "Osc 1 Pan",
+		"normalizedValue": 0.3698272705078125,
+		"valueDisplay": "-0.260"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "Osc 1 Phase Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "Osc 1 Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "Osc 2 Detune",
+		"normalizedValue": 0.513580322265625,
+		"valueDisplay": "0.027 semitones"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "Osc 2 Scale",
+		"normalizedValue": 0,
+		"valueDisplay": "0 octaves"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "Osc 2 Wave Form",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "Sawtooth"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "Osc 2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "Osc 2 Pulse Width",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "Osc 2 Level",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "Osc 2 Pan",
+		"normalizedValue": 0.623504638671875,
+		"valueDisplay": "0.247"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "Osc 2 Phase Sync",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "Osc 2 Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "Osc 3 Detune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000 semitones"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "Osc 3 Scale",
+		"normalizedValue": 0,
+		"valueDisplay": "0 octaves"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "Osc 3 Wave Form",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "Osc 3 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "Osc 3 Pulse Width",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "Osc 3 Level",
+		"normalizedValue": 0.4222259521484375,
+		"valueDisplay": "-7.49 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "Osc 3 Pan",
+		"normalizedValue": 0.22589111328125,
+		"valueDisplay": "-0.548"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "Osc 3 Phase Sync",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "Osc 3 Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "Ring Modulation Enabled",
+		"normalizedValue": 0,
+		"valueDisplay": "Disabled"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "Portamento",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "Portamento Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "Filter 1 Freq",
+		"normalizedValue": 0.679046630859375,
+		"valueDisplay": "3402.488 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "Filter 1 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "Filter 1 Peak",
+		"normalizedValue": 0.519832193851471,
+		"valueDisplay": "0.520"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "Filter 1 Characteristic",
+		"normalizedValue": 0,
+		"valueDisplay": "FabFilter One"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "Filter 1 Response",
+		"normalizedValue": 0,
+		"valueDisplay": "LP"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "Filter 1 Slope",
+		"normalizedValue": 0,
+		"valueDisplay": "12"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "Filter 1 Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "Filter 2 Freq",
+		"normalizedValue": 0.43023681640625,
+		"valueDisplay": "307.409 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "Filter 2 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "Filter 2 Peak",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "Filter 2 Characteristic",
+		"normalizedValue": 0,
+		"valueDisplay": "FabFilter One"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "Filter 2 Response",
+		"normalizedValue": 0.5,
+		"valueDisplay": "HP"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "Filter 2 Slope",
+		"normalizedValue": 0,
+		"valueDisplay": "12"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "Filter 2 Enabled",
+		"normalizedValue": 0,
+		"valueDisplay": "Disabled"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "Filter Routing",
+		"normalizedValue": 0,
+		"valueDisplay": "Serial"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "Delay L Time",
+		"normalizedValue": 0.3594207763671875,
+		"valueDisplay": "499.7 ms"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "Delay L Offset",
+		"normalizedValue": 0.4525146484375,
+		"valueDisplay": "0.936"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "Delay L Sync",
+		"normalizedValue": 0.4285714328289032,
+		"valueDisplay": "1/4 Note"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "Delay L Feedback",
+		"normalizedValue": 0.37945556640625,
+		"valueDisplay": "0.285"
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "Delay L Cross Feedback",
+		"normalizedValue": 0.1522369384765625,
+		"valueDisplay": "0.069"
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "Delay L Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "Delay R Time",
+		"normalizedValue": 0.2829742431640625,
+		"valueDisplay": "331.9 ms"
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "Delay R Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "Delay R Sync",
+		"normalizedValue": 0.5714285969734192,
+		"valueDisplay": "1/8 Note"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "Delay R Feedback",
+		"normalizedValue": 0.447540283203125,
+		"valueDisplay": "0.401"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "Delay R Cross Feedback",
+		"normalizedValue": 0.306060791015625,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "Delay R Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "Delay Link",
+		"normalizedValue": 0,
+		"valueDisplay": "Separate"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "Delay Filter Routing",
+		"normalizedValue": 0,
+		"valueDisplay": "Serial"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "Delay Filter 1 Freq",
+		"normalizedValue": 0.6238836646080017,
+		"valueDisplay": "1996.716 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "Delay Filter 1 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "Delay Filter 1 Peak",
+		"normalizedValue": 0.1408291459083557,
+		"valueDisplay": "0.141"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "Delay Filter 1 Characteristic",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Easy Going"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "Delay Filter 1 Response",
+		"normalizedValue": 0,
+		"valueDisplay": "LP"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "Delay Filter 1 Slope",
+		"normalizedValue": 0,
+		"valueDisplay": "12"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "Delay Filter 1 Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM68",
+		"name": "Delay Filter 2 Freq",
+		"normalizedValue": 1,
+		"valueDisplay": "75615.789 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM69",
+		"name": "Delay Filter 2 Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM70",
+		"name": "Delay Filter 2 Peak",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM71",
+		"name": "Delay Filter 2 Characteristic",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "Hard"
+	},
+	{
+		"id": "CONTENTS/PARAM72",
+		"name": "Delay Filter 2 Response",
+		"normalizedValue": 0,
+		"valueDisplay": "LP"
+	},
+	{
+		"id": "CONTENTS/PARAM73",
+		"name": "Delay Filter 2 Slope",
+		"normalizedValue": 0,
+		"valueDisplay": "12"
+	},
+	{
+		"id": "CONTENTS/PARAM74",
+		"name": "Delay Filter 2 Enabled",
+		"normalizedValue": 0,
+		"valueDisplay": "Disabled"
+	},
+	{
+		"id": "CONTENTS/PARAM75",
+		"name": "Delay Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM76",
+		"name": "Delay Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "-6.02 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM77",
+		"name": "Delay Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM78",
+		"name": "Wet Enabled",
+		"normalizedValue": 1,
+		"valueDisplay": "Enabled"
+	},
+	{
+		"id": "CONTENTS/PARAM79",
+		"name": "Dry Level",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM80",
+		"name": "Dry Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM81",
+		"name": "Num Active XY Controllers",
+		"normalizedValue": 0.5,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM82",
+		"name": "XY Controller 1 Hor",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM83",
+		"name": "XY Controller 1 Ver",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM84",
+		"name": "XY Controller 2 Hor",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM85",
+		"name": "XY Controller 2 Ver",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM86",
+		"name": "XY Controller 3 Hor",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM87",
+		"name": "XY Controller 3 Ver",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM88",
+		"name": "XY Controller 4 Hor",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM89",
+		"name": "XY Controller 4 Ver",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM90",
+		"name": "Num Active XLFOs",
+		"normalizedValue": 0.1666666716337204,
+		"valueDisplay": "1"
+	},
+	{
+		"id": "CONTENTS/PARAM91",
+		"name": "XLFO 1 Frequency",
+		"normalizedValue": 0.5747528076171875,
+		"valueDisplay": "7.798 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM92",
+		"name": "XLFO 1 Frequency Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM93",
+		"name": "XLFO 1 Balance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.500"
+	},
+	{
+		"id": "CONTENTS/PARAM94",
+		"name": "XLFO 1 Phase Offset",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM95",
+		"name": "XLFO 1 Glide",
+		"normalizedValue": 1,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM96",
+		"name": "XLFO 1 Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM97",
+		"name": "XLFO 1 MIDI Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM98",
+		"name": "XLFO 1 Snap",
+		"normalizedValue": 0,
+		"valueDisplay": "No Snap"
+	},
+	{
+		"id": "CONTENTS/PARAM99",
+		"name": "Num Active XLFO 1 Steps",
+		"normalizedValue": 0.06666667014360428,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM100",
+		"name": "XLFO 1 Step 1 Value",
+		"normalizedValue": 0,
+		"valueDisplay": "-1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM101",
+		"name": "XLFO 1 Step 1 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM102",
+		"name": "XLFO 1 Step 1 Glide function",
+		"normalizedValue": 1,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM103",
+		"name": "XLFO 1 Step 1 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM104",
+		"name": "XLFO 1 Step 2 Value",
+		"normalizedValue": 1,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM105",
+		"name": "XLFO 1 Step 2 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM106",
+		"name": "XLFO 1 Step 2 Glide function",
+		"normalizedValue": 1,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM107",
+		"name": "XLFO 1 Step 2 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM108",
+		"name": "XLFO 1 Step 3 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM109",
+		"name": "XLFO 1 Step 3 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM110",
+		"name": "XLFO 1 Step 3 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM111",
+		"name": "XLFO 1 Step 3 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM112",
+		"name": "XLFO 1 Step 4 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM113",
+		"name": "XLFO 1 Step 4 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM114",
+		"name": "XLFO 1 Step 4 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM115",
+		"name": "XLFO 1 Step 4 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM116",
+		"name": "XLFO 1 Step 5 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM117",
+		"name": "XLFO 1 Step 5 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM118",
+		"name": "XLFO 1 Step 5 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM119",
+		"name": "XLFO 1 Step 5 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM120",
+		"name": "XLFO 1 Step 6 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM121",
+		"name": "XLFO 1 Step 6 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM122",
+		"name": "XLFO 1 Step 6 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM123",
+		"name": "XLFO 1 Step 6 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM124",
+		"name": "XLFO 1 Step 7 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM125",
+		"name": "XLFO 1 Step 7 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM126",
+		"name": "XLFO 1 Step 7 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM127",
+		"name": "XLFO 1 Step 7 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM128",
+		"name": "XLFO 1 Step 8 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM129",
+		"name": "XLFO 1 Step 8 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM130",
+		"name": "XLFO 1 Step 8 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM131",
+		"name": "XLFO 1 Step 8 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM132",
+		"name": "XLFO 1 Step 9 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM133",
+		"name": "XLFO 1 Step 9 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM134",
+		"name": "XLFO 1 Step 9 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM135",
+		"name": "XLFO 1 Step 9 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM136",
+		"name": "XLFO 1 Step 10 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM137",
+		"name": "XLFO 1 Step 10 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM138",
+		"name": "XLFO 1 Step 10 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM139",
+		"name": "XLFO 1 Step 10 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM140",
+		"name": "XLFO 1 Step 11 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM141",
+		"name": "XLFO 1 Step 11 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM142",
+		"name": "XLFO 1 Step 11 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM143",
+		"name": "XLFO 1 Step 11 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM144",
+		"name": "XLFO 1 Step 12 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM145",
+		"name": "XLFO 1 Step 12 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM146",
+		"name": "XLFO 1 Step 12 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM147",
+		"name": "XLFO 1 Step 12 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM148",
+		"name": "XLFO 1 Step 13 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM149",
+		"name": "XLFO 1 Step 13 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM150",
+		"name": "XLFO 1 Step 13 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM151",
+		"name": "XLFO 1 Step 13 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM152",
+		"name": "XLFO 1 Step 14 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM153",
+		"name": "XLFO 1 Step 14 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM154",
+		"name": "XLFO 1 Step 14 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM155",
+		"name": "XLFO 1 Step 14 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM156",
+		"name": "XLFO 1 Step 15 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM157",
+		"name": "XLFO 1 Step 15 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM158",
+		"name": "XLFO 1 Step 15 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM159",
+		"name": "XLFO 1 Step 15 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM160",
+		"name": "XLFO 1 Step 16 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM161",
+		"name": "XLFO 1 Step 16 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM162",
+		"name": "XLFO 1 Step 16 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM163",
+		"name": "XLFO 1 Step 16 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM164",
+		"name": "XLFO 2 Frequency",
+		"normalizedValue": 0.25,
+		"valueDisplay": "1.000 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM165",
+		"name": "XLFO 2 Frequency Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM166",
+		"name": "XLFO 2 Balance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.500"
+	},
+	{
+		"id": "CONTENTS/PARAM167",
+		"name": "XLFO 2 Phase Offset",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM168",
+		"name": "XLFO 2 Glide",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM169",
+		"name": "XLFO 2 Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM170",
+		"name": "XLFO 2 MIDI Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM171",
+		"name": "XLFO 2 Snap",
+		"normalizedValue": 0,
+		"valueDisplay": "No Snap"
+	},
+	{
+		"id": "CONTENTS/PARAM172",
+		"name": "Num Active XLFO 2 Steps",
+		"normalizedValue": 0.06666667014360428,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM173",
+		"name": "XLFO 2 Step 1 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM174",
+		"name": "XLFO 2 Step 1 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM175",
+		"name": "XLFO 2 Step 1 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM176",
+		"name": "XLFO 2 Step 1 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM177",
+		"name": "XLFO 2 Step 2 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM178",
+		"name": "XLFO 2 Step 2 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM179",
+		"name": "XLFO 2 Step 2 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM180",
+		"name": "XLFO 2 Step 2 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM181",
+		"name": "XLFO 2 Step 3 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM182",
+		"name": "XLFO 2 Step 3 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM183",
+		"name": "XLFO 2 Step 3 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM184",
+		"name": "XLFO 2 Step 3 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM185",
+		"name": "XLFO 2 Step 4 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM186",
+		"name": "XLFO 2 Step 4 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM187",
+		"name": "XLFO 2 Step 4 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM188",
+		"name": "XLFO 2 Step 4 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM189",
+		"name": "XLFO 2 Step 5 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM190",
+		"name": "XLFO 2 Step 5 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM191",
+		"name": "XLFO 2 Step 5 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM192",
+		"name": "XLFO 2 Step 5 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM193",
+		"name": "XLFO 2 Step 6 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM194",
+		"name": "XLFO 2 Step 6 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM195",
+		"name": "XLFO 2 Step 6 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM196",
+		"name": "XLFO 2 Step 6 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM197",
+		"name": "XLFO 2 Step 7 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM198",
+		"name": "XLFO 2 Step 7 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM199",
+		"name": "XLFO 2 Step 7 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM200",
+		"name": "XLFO 2 Step 7 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM201",
+		"name": "XLFO 2 Step 8 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM202",
+		"name": "XLFO 2 Step 8 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM203",
+		"name": "XLFO 2 Step 8 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM204",
+		"name": "XLFO 2 Step 8 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM205",
+		"name": "XLFO 2 Step 9 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM206",
+		"name": "XLFO 2 Step 9 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM207",
+		"name": "XLFO 2 Step 9 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM208",
+		"name": "XLFO 2 Step 9 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM209",
+		"name": "XLFO 2 Step 10 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM210",
+		"name": "XLFO 2 Step 10 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM211",
+		"name": "XLFO 2 Step 10 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM212",
+		"name": "XLFO 2 Step 10 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM213",
+		"name": "XLFO 2 Step 11 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM214",
+		"name": "XLFO 2 Step 11 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM215",
+		"name": "XLFO 2 Step 11 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM216",
+		"name": "XLFO 2 Step 11 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM217",
+		"name": "XLFO 2 Step 12 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM218",
+		"name": "XLFO 2 Step 12 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM219",
+		"name": "XLFO 2 Step 12 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM220",
+		"name": "XLFO 2 Step 12 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM221",
+		"name": "XLFO 2 Step 13 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM222",
+		"name": "XLFO 2 Step 13 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM223",
+		"name": "XLFO 2 Step 13 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM224",
+		"name": "XLFO 2 Step 13 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM225",
+		"name": "XLFO 2 Step 14 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM226",
+		"name": "XLFO 2 Step 14 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM227",
+		"name": "XLFO 2 Step 14 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM228",
+		"name": "XLFO 2 Step 14 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM229",
+		"name": "XLFO 2 Step 15 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM230",
+		"name": "XLFO 2 Step 15 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM231",
+		"name": "XLFO 2 Step 15 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM232",
+		"name": "XLFO 2 Step 15 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM233",
+		"name": "XLFO 2 Step 16 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM234",
+		"name": "XLFO 2 Step 16 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM235",
+		"name": "XLFO 2 Step 16 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM236",
+		"name": "XLFO 2 Step 16 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM237",
+		"name": "XLFO 3 Frequency",
+		"normalizedValue": 0.2500039339065552,
+		"valueDisplay": "1.000 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM238",
+		"name": "XLFO 3 Frequency Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM239",
+		"name": "XLFO 3 Balance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.500"
+	},
+	{
+		"id": "CONTENTS/PARAM240",
+		"name": "XLFO 3 Phase Offset",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM241",
+		"name": "XLFO 3 Glide",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM242",
+		"name": "XLFO 3 Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM243",
+		"name": "XLFO 3 MIDI Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM244",
+		"name": "XLFO 3 Snap",
+		"normalizedValue": 0,
+		"valueDisplay": "No Snap"
+	},
+	{
+		"id": "CONTENTS/PARAM245",
+		"name": "Num Active XLFO 3 Steps",
+		"normalizedValue": 0.06666667014360428,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM246",
+		"name": "XLFO 3 Step 1 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM247",
+		"name": "XLFO 3 Step 1 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM248",
+		"name": "XLFO 3 Step 1 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM249",
+		"name": "XLFO 3 Step 1 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM250",
+		"name": "XLFO 3 Step 2 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM251",
+		"name": "XLFO 3 Step 2 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM252",
+		"name": "XLFO 3 Step 2 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM253",
+		"name": "XLFO 3 Step 2 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM254",
+		"name": "XLFO 3 Step 3 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM255",
+		"name": "XLFO 3 Step 3 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM256",
+		"name": "XLFO 3 Step 3 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM257",
+		"name": "XLFO 3 Step 3 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM258",
+		"name": "XLFO 3 Step 4 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM259",
+		"name": "XLFO 3 Step 4 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM260",
+		"name": "XLFO 3 Step 4 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM261",
+		"name": "XLFO 3 Step 4 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM262",
+		"name": "XLFO 3 Step 5 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM263",
+		"name": "XLFO 3 Step 5 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM264",
+		"name": "XLFO 3 Step 5 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM265",
+		"name": "XLFO 3 Step 5 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM266",
+		"name": "XLFO 3 Step 6 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM267",
+		"name": "XLFO 3 Step 6 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM268",
+		"name": "XLFO 3 Step 6 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM269",
+		"name": "XLFO 3 Step 6 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM270",
+		"name": "XLFO 3 Step 7 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM271",
+		"name": "XLFO 3 Step 7 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM272",
+		"name": "XLFO 3 Step 7 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM273",
+		"name": "XLFO 3 Step 7 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM274",
+		"name": "XLFO 3 Step 8 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM275",
+		"name": "XLFO 3 Step 8 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM276",
+		"name": "XLFO 3 Step 8 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM277",
+		"name": "XLFO 3 Step 8 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM278",
+		"name": "XLFO 3 Step 9 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM279",
+		"name": "XLFO 3 Step 9 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM280",
+		"name": "XLFO 3 Step 9 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM281",
+		"name": "XLFO 3 Step 9 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM282",
+		"name": "XLFO 3 Step 10 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM283",
+		"name": "XLFO 3 Step 10 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM284",
+		"name": "XLFO 3 Step 10 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM285",
+		"name": "XLFO 3 Step 10 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM286",
+		"name": "XLFO 3 Step 11 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM287",
+		"name": "XLFO 3 Step 11 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM288",
+		"name": "XLFO 3 Step 11 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM289",
+		"name": "XLFO 3 Step 11 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM290",
+		"name": "XLFO 3 Step 12 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM291",
+		"name": "XLFO 3 Step 12 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM292",
+		"name": "XLFO 3 Step 12 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM293",
+		"name": "XLFO 3 Step 12 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM294",
+		"name": "XLFO 3 Step 13 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM295",
+		"name": "XLFO 3 Step 13 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM296",
+		"name": "XLFO 3 Step 13 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM297",
+		"name": "XLFO 3 Step 13 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM298",
+		"name": "XLFO 3 Step 14 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM299",
+		"name": "XLFO 3 Step 14 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM300",
+		"name": "XLFO 3 Step 14 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM301",
+		"name": "XLFO 3 Step 14 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM302",
+		"name": "XLFO 3 Step 15 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM303",
+		"name": "XLFO 3 Step 15 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM304",
+		"name": "XLFO 3 Step 15 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM305",
+		"name": "XLFO 3 Step 15 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM306",
+		"name": "XLFO 3 Step 16 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM307",
+		"name": "XLFO 3 Step 16 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM308",
+		"name": "XLFO 3 Step 16 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM309",
+		"name": "XLFO 3 Step 16 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM310",
+		"name": "XLFO 4 Frequency",
+		"normalizedValue": 0.2500039339065552,
+		"valueDisplay": "1.000 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM311",
+		"name": "XLFO 4 Frequency Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM312",
+		"name": "XLFO 4 Balance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.500"
+	},
+	{
+		"id": "CONTENTS/PARAM313",
+		"name": "XLFO 4 Phase Offset",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM314",
+		"name": "XLFO 4 Glide",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM315",
+		"name": "XLFO 4 Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM316",
+		"name": "XLFO 4 MIDI Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM317",
+		"name": "XLFO 4 Snap",
+		"normalizedValue": 0,
+		"valueDisplay": "No Snap"
+	},
+	{
+		"id": "CONTENTS/PARAM318",
+		"name": "Num Active XLFO 4 Steps",
+		"normalizedValue": 0.06666667014360428,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM319",
+		"name": "XLFO 4 Step 1 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM320",
+		"name": "XLFO 4 Step 1 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM321",
+		"name": "XLFO 4 Step 1 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM322",
+		"name": "XLFO 4 Step 1 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM323",
+		"name": "XLFO 4 Step 2 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM324",
+		"name": "XLFO 4 Step 2 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM325",
+		"name": "XLFO 4 Step 2 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM326",
+		"name": "XLFO 4 Step 2 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM327",
+		"name": "XLFO 4 Step 3 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM328",
+		"name": "XLFO 4 Step 3 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM329",
+		"name": "XLFO 4 Step 3 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM330",
+		"name": "XLFO 4 Step 3 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM331",
+		"name": "XLFO 4 Step 4 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM332",
+		"name": "XLFO 4 Step 4 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM333",
+		"name": "XLFO 4 Step 4 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM334",
+		"name": "XLFO 4 Step 4 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM335",
+		"name": "XLFO 4 Step 5 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM336",
+		"name": "XLFO 4 Step 5 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM337",
+		"name": "XLFO 4 Step 5 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM338",
+		"name": "XLFO 4 Step 5 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM339",
+		"name": "XLFO 4 Step 6 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM340",
+		"name": "XLFO 4 Step 6 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM341",
+		"name": "XLFO 4 Step 6 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM342",
+		"name": "XLFO 4 Step 6 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM343",
+		"name": "XLFO 4 Step 7 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM344",
+		"name": "XLFO 4 Step 7 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM345",
+		"name": "XLFO 4 Step 7 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM346",
+		"name": "XLFO 4 Step 7 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM347",
+		"name": "XLFO 4 Step 8 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM348",
+		"name": "XLFO 4 Step 8 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM349",
+		"name": "XLFO 4 Step 8 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM350",
+		"name": "XLFO 4 Step 8 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM351",
+		"name": "XLFO 4 Step 9 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM352",
+		"name": "XLFO 4 Step 9 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM353",
+		"name": "XLFO 4 Step 9 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM354",
+		"name": "XLFO 4 Step 9 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM355",
+		"name": "XLFO 4 Step 10 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM356",
+		"name": "XLFO 4 Step 10 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM357",
+		"name": "XLFO 4 Step 10 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM358",
+		"name": "XLFO 4 Step 10 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM359",
+		"name": "XLFO 4 Step 11 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM360",
+		"name": "XLFO 4 Step 11 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM361",
+		"name": "XLFO 4 Step 11 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM362",
+		"name": "XLFO 4 Step 11 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM363",
+		"name": "XLFO 4 Step 12 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM364",
+		"name": "XLFO 4 Step 12 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM365",
+		"name": "XLFO 4 Step 12 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM366",
+		"name": "XLFO 4 Step 12 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM367",
+		"name": "XLFO 4 Step 13 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM368",
+		"name": "XLFO 4 Step 13 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM369",
+		"name": "XLFO 4 Step 13 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM370",
+		"name": "XLFO 4 Step 13 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM371",
+		"name": "XLFO 4 Step 14 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM372",
+		"name": "XLFO 4 Step 14 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM373",
+		"name": "XLFO 4 Step 14 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM374",
+		"name": "XLFO 4 Step 14 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM375",
+		"name": "XLFO 4 Step 15 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM376",
+		"name": "XLFO 4 Step 15 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM377",
+		"name": "XLFO 4 Step 15 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM378",
+		"name": "XLFO 4 Step 15 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM379",
+		"name": "XLFO 4 Step 16 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM380",
+		"name": "XLFO 4 Step 16 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM381",
+		"name": "XLFO 4 Step 16 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM382",
+		"name": "XLFO 4 Step 16 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM383",
+		"name": "XLFO 5 Frequency",
+		"normalizedValue": 0.2500039339065552,
+		"valueDisplay": "1.000 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM384",
+		"name": "XLFO 5 Frequency Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM385",
+		"name": "XLFO 5 Balance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.500"
+	},
+	{
+		"id": "CONTENTS/PARAM386",
+		"name": "XLFO 5 Phase Offset",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM387",
+		"name": "XLFO 5 Glide",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM388",
+		"name": "XLFO 5 Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM389",
+		"name": "XLFO 5 MIDI Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM390",
+		"name": "XLFO 5 Snap",
+		"normalizedValue": 0,
+		"valueDisplay": "No Snap"
+	},
+	{
+		"id": "CONTENTS/PARAM391",
+		"name": "Num Active XLFO 5 Steps",
+		"normalizedValue": 0.06666667014360428,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM392",
+		"name": "XLFO 5 Step 1 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM393",
+		"name": "XLFO 5 Step 1 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM394",
+		"name": "XLFO 5 Step 1 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM395",
+		"name": "XLFO 5 Step 1 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM396",
+		"name": "XLFO 5 Step 2 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM397",
+		"name": "XLFO 5 Step 2 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM398",
+		"name": "XLFO 5 Step 2 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM399",
+		"name": "XLFO 5 Step 2 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM400",
+		"name": "XLFO 5 Step 3 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM401",
+		"name": "XLFO 5 Step 3 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM402",
+		"name": "XLFO 5 Step 3 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM403",
+		"name": "XLFO 5 Step 3 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM404",
+		"name": "XLFO 5 Step 4 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM405",
+		"name": "XLFO 5 Step 4 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM406",
+		"name": "XLFO 5 Step 4 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM407",
+		"name": "XLFO 5 Step 4 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM408",
+		"name": "XLFO 5 Step 5 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM409",
+		"name": "XLFO 5 Step 5 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM410",
+		"name": "XLFO 5 Step 5 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM411",
+		"name": "XLFO 5 Step 5 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM412",
+		"name": "XLFO 5 Step 6 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM413",
+		"name": "XLFO 5 Step 6 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM414",
+		"name": "XLFO 5 Step 6 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM415",
+		"name": "XLFO 5 Step 6 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM416",
+		"name": "XLFO 5 Step 7 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM417",
+		"name": "XLFO 5 Step 7 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM418",
+		"name": "XLFO 5 Step 7 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM419",
+		"name": "XLFO 5 Step 7 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM420",
+		"name": "XLFO 5 Step 8 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM421",
+		"name": "XLFO 5 Step 8 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM422",
+		"name": "XLFO 5 Step 8 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM423",
+		"name": "XLFO 5 Step 8 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM424",
+		"name": "XLFO 5 Step 9 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM425",
+		"name": "XLFO 5 Step 9 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM426",
+		"name": "XLFO 5 Step 9 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM427",
+		"name": "XLFO 5 Step 9 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM428",
+		"name": "XLFO 5 Step 10 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM429",
+		"name": "XLFO 5 Step 10 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM430",
+		"name": "XLFO 5 Step 10 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM431",
+		"name": "XLFO 5 Step 10 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM432",
+		"name": "XLFO 5 Step 11 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM433",
+		"name": "XLFO 5 Step 11 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM434",
+		"name": "XLFO 5 Step 11 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM435",
+		"name": "XLFO 5 Step 11 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM436",
+		"name": "XLFO 5 Step 12 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM437",
+		"name": "XLFO 5 Step 12 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM438",
+		"name": "XLFO 5 Step 12 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM439",
+		"name": "XLFO 5 Step 12 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM440",
+		"name": "XLFO 5 Step 13 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM441",
+		"name": "XLFO 5 Step 13 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM442",
+		"name": "XLFO 5 Step 13 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM443",
+		"name": "XLFO 5 Step 13 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM444",
+		"name": "XLFO 5 Step 14 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM445",
+		"name": "XLFO 5 Step 14 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM446",
+		"name": "XLFO 5 Step 14 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM447",
+		"name": "XLFO 5 Step 14 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM448",
+		"name": "XLFO 5 Step 15 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM449",
+		"name": "XLFO 5 Step 15 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM450",
+		"name": "XLFO 5 Step 15 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM451",
+		"name": "XLFO 5 Step 15 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM452",
+		"name": "XLFO 5 Step 16 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM453",
+		"name": "XLFO 5 Step 16 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM454",
+		"name": "XLFO 5 Step 16 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM455",
+		"name": "XLFO 5 Step 16 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM456",
+		"name": "XLFO 6 Frequency",
+		"normalizedValue": 0.2500039339065552,
+		"valueDisplay": "1.000 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM457",
+		"name": "XLFO 6 Frequency Offset",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM458",
+		"name": "XLFO 6 Balance",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.500"
+	},
+	{
+		"id": "CONTENTS/PARAM459",
+		"name": "XLFO 6 Phase Offset",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM460",
+		"name": "XLFO 6 Glide",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM461",
+		"name": "XLFO 6 Sync Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM462",
+		"name": "XLFO 6 MIDI Trigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM463",
+		"name": "XLFO 6 Snap",
+		"normalizedValue": 0,
+		"valueDisplay": "No Snap"
+	},
+	{
+		"id": "CONTENTS/PARAM464",
+		"name": "Num Active XLFO 6 Steps",
+		"normalizedValue": 0.06666667014360428,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM465",
+		"name": "XLFO 6 Step 1 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM466",
+		"name": "XLFO 6 Step 1 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM467",
+		"name": "XLFO 6 Step 1 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM468",
+		"name": "XLFO 6 Step 1 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM469",
+		"name": "XLFO 6 Step 2 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM470",
+		"name": "XLFO 6 Step 2 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM471",
+		"name": "XLFO 6 Step 2 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM472",
+		"name": "XLFO 6 Step 2 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM473",
+		"name": "XLFO 6 Step 3 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM474",
+		"name": "XLFO 6 Step 3 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM475",
+		"name": "XLFO 6 Step 3 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM476",
+		"name": "XLFO 6 Step 3 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM477",
+		"name": "XLFO 6 Step 4 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM478",
+		"name": "XLFO 6 Step 4 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM479",
+		"name": "XLFO 6 Step 4 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM480",
+		"name": "XLFO 6 Step 4 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM481",
+		"name": "XLFO 6 Step 5 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM482",
+		"name": "XLFO 6 Step 5 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM483",
+		"name": "XLFO 6 Step 5 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM484",
+		"name": "XLFO 6 Step 5 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM485",
+		"name": "XLFO 6 Step 6 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM486",
+		"name": "XLFO 6 Step 6 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM487",
+		"name": "XLFO 6 Step 6 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM488",
+		"name": "XLFO 6 Step 6 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM489",
+		"name": "XLFO 6 Step 7 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM490",
+		"name": "XLFO 6 Step 7 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM491",
+		"name": "XLFO 6 Step 7 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM492",
+		"name": "XLFO 6 Step 7 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM493",
+		"name": "XLFO 6 Step 8 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM494",
+		"name": "XLFO 6 Step 8 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM495",
+		"name": "XLFO 6 Step 8 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM496",
+		"name": "XLFO 6 Step 8 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM497",
+		"name": "XLFO 6 Step 9 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM498",
+		"name": "XLFO 6 Step 9 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM499",
+		"name": "XLFO 6 Step 9 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM500",
+		"name": "XLFO 6 Step 9 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM501",
+		"name": "XLFO 6 Step 10 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM502",
+		"name": "XLFO 6 Step 10 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM503",
+		"name": "XLFO 6 Step 10 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM504",
+		"name": "XLFO 6 Step 10 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM505",
+		"name": "XLFO 6 Step 11 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM506",
+		"name": "XLFO 6 Step 11 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM507",
+		"name": "XLFO 6 Step 11 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM508",
+		"name": "XLFO 6 Step 11 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM509",
+		"name": "XLFO 6 Step 12 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM510",
+		"name": "XLFO 6 Step 12 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM511",
+		"name": "XLFO 6 Step 12 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM512",
+		"name": "XLFO 6 Step 12 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM513",
+		"name": "XLFO 6 Step 13 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM514",
+		"name": "XLFO 6 Step 13 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM515",
+		"name": "XLFO 6 Step 13 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM516",
+		"name": "XLFO 6 Step 13 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM517",
+		"name": "XLFO 6 Step 14 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM518",
+		"name": "XLFO 6 Step 14 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM519",
+		"name": "XLFO 6 Step 14 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM520",
+		"name": "XLFO 6 Step 14 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM521",
+		"name": "XLFO 6 Step 15 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM522",
+		"name": "XLFO 6 Step 15 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM523",
+		"name": "XLFO 6 Step 15 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM524",
+		"name": "XLFO 6 Step 15 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM525",
+		"name": "XLFO 6 Step 16 Value",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM526",
+		"name": "XLFO 6 Step 16 Glide",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM527",
+		"name": "XLFO 6 Step 16 Glide function",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM528",
+		"name": "XLFO 6 Step 16 Random",
+		"normalizedValue": 0,
+		"valueDisplay": "Fixed"
+	},
+	{
+		"id": "CONTENTS/PARAM529",
+		"name": "Num Active EGs",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM530",
+		"name": "EG Main Hold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM531",
+		"name": "EG Main Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM532",
+		"name": "EG Main Range",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM533",
+		"name": "EG Main Threshold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM534",
+		"name": "EG Main Triggering",
+		"normalizedValue": 0,
+		"valueDisplay": "MIDI"
+	},
+	{
+		"id": "CONTENTS/PARAM535",
+		"name": "EG Main Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM536",
+		"name": "EG Main Decay",
+		"normalizedValue": 0.0804443359375,
+		"valueDisplay": "0.064 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM537",
+		"name": "EG Main Sustain",
+		"normalizedValue": 0.705841064453125,
+		"valueDisplay": "-3.03 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM538",
+		"name": "EG Main Release",
+		"normalizedValue": 0.0345001220703125,
+		"valueDisplay": "0.022 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM539",
+		"name": "EG 2 Hold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM540",
+		"name": "EG 2 Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM541",
+		"name": "EG 2 Range",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM542",
+		"name": "EG 2 Threshold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM543",
+		"name": "EG 2 Triggering",
+		"normalizedValue": 0,
+		"valueDisplay": "MIDI"
+	},
+	{
+		"id": "CONTENTS/PARAM544",
+		"name": "EG 2 Attack",
+		"normalizedValue": 0.3333587646484375,
+		"valueDisplay": "1.561 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM545",
+		"name": "EG 2 Decay",
+		"normalizedValue": 0.04768717288970947,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM546",
+		"name": "EG 2 Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM547",
+		"name": "EG 2 Release",
+		"normalizedValue": 0.2643585205078125,
+		"valueDisplay": "1.301 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM548",
+		"name": "EG 3 Hold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM549",
+		"name": "EG 3 Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM550",
+		"name": "EG 3 Range",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM551",
+		"name": "EG 3 Threshold",
+		"normalizedValue": 0.30000001192092896,
+		"valueDisplay": "0.072"
+	},
+	{
+		"id": "CONTENTS/PARAM552",
+		"name": "EG 3 Triggering",
+		"normalizedValue": 0,
+		"valueDisplay": "MIDI"
+	},
+	{
+		"id": "CONTENTS/PARAM553",
+		"name": "EG 3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM554",
+		"name": "EG 3 Decay",
+		"normalizedValue": 0.04768717288970947,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM555",
+		"name": "EG 3 Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM556",
+		"name": "EG 3 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.006 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM557",
+		"name": "EG 4 Hold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM558",
+		"name": "EG 4 Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM559",
+		"name": "EG 4 Range",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM560",
+		"name": "EG 4 Threshold",
+		"normalizedValue": 0.30000001192092896,
+		"valueDisplay": "0.072"
+	},
+	{
+		"id": "CONTENTS/PARAM561",
+		"name": "EG 4 Triggering",
+		"normalizedValue": 0,
+		"valueDisplay": "MIDI"
+	},
+	{
+		"id": "CONTENTS/PARAM562",
+		"name": "EG 4 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM563",
+		"name": "EG 4 Decay",
+		"normalizedValue": 0.04768717288970947,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM564",
+		"name": "EG 4 Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM565",
+		"name": "EG 4 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.006 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM566",
+		"name": "EG 5 Hold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM567",
+		"name": "EG 5 Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM568",
+		"name": "EG 5 Range",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM569",
+		"name": "EG 5 Threshold",
+		"normalizedValue": 0.30000001192092896,
+		"valueDisplay": "0.072"
+	},
+	{
+		"id": "CONTENTS/PARAM570",
+		"name": "EG 5 Triggering",
+		"normalizedValue": 0,
+		"valueDisplay": "MIDI"
+	},
+	{
+		"id": "CONTENTS/PARAM571",
+		"name": "EG 5 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM572",
+		"name": "EG 5 Decay",
+		"normalizedValue": 0.04768717288970947,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM573",
+		"name": "EG 5 Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM574",
+		"name": "EG 5 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.006 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM575",
+		"name": "EG 6 Hold",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM576",
+		"name": "EG 6 Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM577",
+		"name": "EG 6 Range",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM578",
+		"name": "EG 6 Threshold",
+		"normalizedValue": 0.30000001192092896,
+		"valueDisplay": "0.072"
+	},
+	{
+		"id": "CONTENTS/PARAM579",
+		"name": "EG 6 Triggering",
+		"normalizedValue": 0,
+		"valueDisplay": "MIDI"
+	},
+	{
+		"id": "CONTENTS/PARAM580",
+		"name": "EG 6 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM581",
+		"name": "EG 6 Decay",
+		"normalizedValue": 0.04768717288970947,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM582",
+		"name": "EG 6 Sustain",
+		"normalizedValue": 1,
+		"valueDisplay": "0.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM583",
+		"name": "EG 6 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.006 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM584",
+		"name": "Num Active EFs",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM585",
+		"name": "EF 1 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM586",
+		"name": "EF 1 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM587",
+		"name": "EF 2 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM588",
+		"name": "EF 2 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM589",
+		"name": "EF 3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM590",
+		"name": "EF 3 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM591",
+		"name": "EF 4 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.001 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM592",
+		"name": "EF 4 Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0.050 sec"
+	},
+	{
+		"id": "CONTENTS/PARAM593",
+		"name": "Num Active MIDI Sources",
+		"normalizedValue": 0.5,
+		"valueDisplay": "5"
+	},
+	{
+		"id": "CONTENTS/PARAM594",
+		"name": "MIDI Source 1 Input",
+		"normalizedValue": 0.20000000298023224,
+		"valueDisplay": "Pitch Bend"
+	},
+	{
+		"id": "CONTENTS/PARAM595",
+		"name": "MIDI Source 1 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM596",
+		"name": "MIDI Source 1 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM597",
+		"name": "MIDI Source 2 Input",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "Velocity"
+	},
+	{
+		"id": "CONTENTS/PARAM598",
+		"name": "MIDI Source 2 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM599",
+		"name": "MIDI Source 2 Response Curve",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "Sqr"
+	},
+	{
+		"id": "CONTENTS/PARAM600",
+		"name": "MIDI Source 3 Input",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "KB Track"
+	},
+	{
+		"id": "CONTENTS/PARAM601",
+		"name": "MIDI Source 3 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM602",
+		"name": "MIDI Source 3 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM603",
+		"name": "MIDI Source 4 Input",
+		"normalizedValue": 0,
+		"valueDisplay": "Mod Wheel"
+	},
+	{
+		"id": "CONTENTS/PARAM604",
+		"name": "MIDI Source 4 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM605",
+		"name": "MIDI Source 4 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM606",
+		"name": "MIDI Source 5 Input",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "Aftertouch"
+	},
+	{
+		"id": "CONTENTS/PARAM607",
+		"name": "MIDI Source 5 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM608",
+		"name": "MIDI Source 5 Response Curve",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "Sqr"
+	},
+	{
+		"id": "CONTENTS/PARAM609",
+		"name": "MIDI Source 6 Input",
+		"normalizedValue": 0,
+		"valueDisplay": "Mod Wheel"
+	},
+	{
+		"id": "CONTENTS/PARAM610",
+		"name": "MIDI Source 6 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM611",
+		"name": "MIDI Source 6 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM612",
+		"name": "MIDI Source 7 Input",
+		"normalizedValue": 0,
+		"valueDisplay": "Mod Wheel"
+	},
+	{
+		"id": "CONTENTS/PARAM613",
+		"name": "MIDI Source 7 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM614",
+		"name": "MIDI Source 7 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM615",
+		"name": "MIDI Source 8 Input",
+		"normalizedValue": 0,
+		"valueDisplay": "Mod Wheel"
+	},
+	{
+		"id": "CONTENTS/PARAM616",
+		"name": "MIDI Source 8 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM617",
+		"name": "MIDI Source 8 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM618",
+		"name": "MIDI Source 9 Input",
+		"normalizedValue": 0,
+		"valueDisplay": "Mod Wheel"
+	},
+	{
+		"id": "CONTENTS/PARAM619",
+		"name": "MIDI Source 9 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM620",
+		"name": "MIDI Source 9 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM621",
+		"name": "MIDI Source 10 Input",
+		"normalizedValue": 0,
+		"valueDisplay": "Mod Wheel"
+	},
+	{
+		"id": "CONTENTS/PARAM622",
+		"name": "MIDI Source 10 Controller Number",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM623",
+		"name": "MIDI Source 10 Response Curve",
+		"normalizedValue": 0,
+		"valueDisplay": "Linear"
+	},
+	{
+		"id": "CONTENTS/PARAM624",
+		"name": "Audition Signal",
+		"normalizedValue": 0,
+		"valueDisplay": "Output"
+	},
+	{
+		"id": "CONTENTS/PARAM625",
+		"name": "Output Volume",
+		"normalizedValue": 0.5887451171875,
+		"valueDisplay": "-4.00 dB"
+	},
+	{
+		"id": "CONTENTS/PARAM626",
+		"name": "Output Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM627",
+		"name": "Stereo",
+		"normalizedValue": 0.5,
+		"valueDisplay": "1.000"
+	},
+	{
+		"id": "CONTENTS/PARAM628",
+		"name": "Total Voices",
+		"normalizedValue": 0.7272727489471436,
+		"valueDisplay": "16"
+	},
+	{
+		"id": "CONTENTS/PARAM629",
+		"name": "Unison Voices",
+		"normalizedValue": 0.09090909361839294,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM630",
+		"name": "Polyphony",
+		"normalizedValue": 1,
+		"valueDisplay": "Poly"
+	},
+	{
+		"id": "CONTENTS/PARAM631",
+		"name": "Unison Spread",
+		"normalizedValue": 0.372406005859375,
+		"valueDisplay": "10 %"
+	},
+	{
+		"id": "CONTENTS/PARAM632",
+		"name": "Num Active Slots",
+		"normalizedValue": 0.6200000047683716,
+		"valueDisplay": "31"
+	},
+	{
+		"id": "CONTENTS/PARAM633",
+		"name": "Slot 1 Source",
+		"normalizedValue": 0.029411764815449715,
+		"valueDisplay": "XY 1 Hor"
+	},
+	{
+		"id": "CONTENTS/PARAM634",
+		"name": "Slot 1 Level",
+		"normalizedValue": 0.8177337646484375,
+		"valueDisplay": "0.684"
+	},
+	{
+		"id": "CONTENTS/PARAM635",
+		"name": "Slot 1 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM636",
+		"name": "Slot 1 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM637",
+		"name": "Slot 1 Target",
+		"normalizedValue": 0.1146496832370758,
+		"valueDisplay": "Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM638",
+		"name": "Slot 2 Source",
+		"normalizedValue": 0.05882352963089943,
+		"valueDisplay": "XY 1 Ver"
+	},
+	{
+		"id": "CONTENTS/PARAM639",
+		"name": "Slot 2 Level",
+		"normalizedValue": 0.800048828125,
+		"valueDisplay": "0.635"
+	},
+	{
+		"id": "CONTENTS/PARAM640",
+		"name": "Slot 2 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM641",
+		"name": "Slot 2 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM642",
+		"name": "Slot 2 Target",
+		"normalizedValue": 0.12738853693008423,
+		"valueDisplay": "Filter 1 Peak"
+	},
+	{
+		"id": "CONTENTS/PARAM643",
+		"name": "Slot 3 Source",
+		"normalizedValue": 0.05882352963089943,
+		"valueDisplay": "XY 1 Ver"
+	},
+	{
+		"id": "CONTENTS/PARAM644",
+		"name": "Slot 3 Level",
+		"normalizedValue": 0.4774627685546875,
+		"valueDisplay": "0.150"
+	},
+	{
+		"id": "CONTENTS/PARAM645",
+		"name": "Slot 3 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM646",
+		"name": "Slot 3 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM647",
+		"name": "Slot 3 Target",
+		"normalizedValue": 0.20382165908813477,
+		"valueDisplay": "Delay Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM648",
+		"name": "Slot 4 Source",
+		"normalizedValue": 0.2647058963775635,
+		"valueDisplay": "XLFO 1"
+	},
+	{
+		"id": "CONTENTS/PARAM649",
+		"name": "Slot 4 Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM650",
+		"name": "Slot 4 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM651",
+		"name": "Slot 4 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM652",
+		"name": "Slot 4 Target",
+		"normalizedValue": 0.006369426846504211,
+		"valueDisplay": "Master Tune"
+	},
+	{
+		"id": "CONTENTS/PARAM653",
+		"name": "Slot 5 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM654",
+		"name": "Slot 5 Level",
+		"normalizedValue": 0.68408203125,
+		"valueDisplay": "0.344"
+	},
+	{
+		"id": "CONTENTS/PARAM655",
+		"name": "Slot 5 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM656",
+		"name": "Slot 5 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM657",
+		"name": "Slot 5 Target",
+		"normalizedValue": 0.10191082954406738,
+		"valueDisplay": "Osc 3 Level"
+	},
+	{
+		"id": "CONTENTS/PARAM658",
+		"name": "Slot 6 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM659",
+		"name": "Slot 6 Level",
+		"normalizedValue": 0.7991180419921875,
+		"valueDisplay": "0.633"
+	},
+	{
+		"id": "CONTENTS/PARAM660",
+		"name": "Slot 6 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM661",
+		"name": "Slot 6 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM662",
+		"name": "Slot 6 Target",
+		"normalizedValue": 0.1082802563905716,
+		"valueDisplay": "Osc 3 Pan"
+	},
+	{
+		"id": "CONTENTS/PARAM663",
+		"name": "Slot 7 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM664",
+		"name": "Slot 7 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM665",
+		"name": "Slot 7 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM666",
+		"name": "Slot 7 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM667",
+		"name": "Slot 7 Target",
+		"normalizedValue": 0.1146496832370758,
+		"valueDisplay": "Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM668",
+		"name": "Slot 8 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM669",
+		"name": "Slot 8 Level",
+		"normalizedValue": 0.5466461181640625,
+		"valueDisplay": "0.207"
+	},
+	{
+		"id": "CONTENTS/PARAM670",
+		"name": "Slot 8 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM671",
+		"name": "Slot 8 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM672",
+		"name": "Slot 8 Target",
+		"normalizedValue": 0.12738853693008423,
+		"valueDisplay": "Filter 1 Peak"
+	},
+	{
+		"id": "CONTENTS/PARAM673",
+		"name": "Slot 9 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM674",
+		"name": "Slot 9 Level",
+		"normalizedValue": 0.535614013671875,
+		"valueDisplay": "0.196"
+	},
+	{
+		"id": "CONTENTS/PARAM675",
+		"name": "Slot 9 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM676",
+		"name": "Slot 9 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM677",
+		"name": "Slot 9 Target",
+		"normalizedValue": 0.20382165908813477,
+		"valueDisplay": "Delay Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM678",
+		"name": "Slot 10 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM679",
+		"name": "Slot 10 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM680",
+		"name": "Slot 10 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM681",
+		"name": "Slot 10 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM682",
+		"name": "Slot 10 Target",
+		"normalizedValue": 0.2165605127811432,
+		"valueDisplay": "Delay Filter 1 Peak"
+	},
+	{
+		"id": "CONTENTS/PARAM683",
+		"name": "Slot 11 Source",
+		"normalizedValue": 0.47058823704719543,
+		"valueDisplay": "EG 2"
+	},
+	{
+		"id": "CONTENTS/PARAM684",
+		"name": "Slot 11 Level",
+		"normalizedValue": 0.1240234375,
+		"valueDisplay": "0.010"
+	},
+	{
+		"id": "CONTENTS/PARAM685",
+		"name": "Slot 11 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM686",
+		"name": "Slot 11 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM687",
+		"name": "Slot 11 Target",
+		"normalizedValue": 0.8598726391792297,
+		"valueDisplay": "Slot 28 Level"
+	},
+	{
+		"id": "CONTENTS/PARAM688",
+		"name": "Slot 12 Source",
+		"normalizedValue": 0.7352941036224365,
+		"valueDisplay": "MIDI 1"
+	},
+	{
+		"id": "CONTENTS/PARAM689",
+		"name": "Slot 12 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM690",
+		"name": "Slot 12 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM691",
+		"name": "Slot 12 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM692",
+		"name": "Slot 12 Target",
+		"normalizedValue": 0.006369426846504211,
+		"valueDisplay": "Master Tune"
+	},
+	{
+		"id": "CONTENTS/PARAM693",
+		"name": "Slot 13 Source",
+		"normalizedValue": 0.7647058963775635,
+		"valueDisplay": "MIDI 2"
+	},
+	{
+		"id": "CONTENTS/PARAM694",
+		"name": "Slot 13 Level",
+		"normalizedValue": 0.66119384765625,
+		"valueDisplay": "0.321"
+	},
+	{
+		"id": "CONTENTS/PARAM695",
+		"name": "Slot 13 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM696",
+		"name": "Slot 13 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM697",
+		"name": "Slot 13 Target",
+		"normalizedValue": 0.1146496832370758,
+		"valueDisplay": "Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM698",
+		"name": "Slot 14 Source",
+		"normalizedValue": 0.7647058963775635,
+		"valueDisplay": "MIDI 2"
+	},
+	{
+		"id": "CONTENTS/PARAM699",
+		"name": "Slot 14 Level",
+		"normalizedValue": 0.74468994140625,
+		"valueDisplay": "0.483"
+	},
+	{
+		"id": "CONTENTS/PARAM700",
+		"name": "Slot 14 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM701",
+		"name": "Slot 14 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM702",
+		"name": "Slot 14 Target",
+		"normalizedValue": 0.12738853693008423,
+		"valueDisplay": "Filter 1 Peak"
+	},
+	{
+		"id": "CONTENTS/PARAM703",
+		"name": "Slot 15 Source",
+		"normalizedValue": 0.7647058963775635,
+		"valueDisplay": "MIDI 2"
+	},
+	{
+		"id": "CONTENTS/PARAM704",
+		"name": "Slot 15 Level",
+		"normalizedValue": 0.616973876953125,
+		"valueDisplay": "0.277"
+	},
+	{
+		"id": "CONTENTS/PARAM705",
+		"name": "Slot 15 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM706",
+		"name": "Slot 15 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM707",
+		"name": "Slot 15 Target",
+		"normalizedValue": 0.662420392036438,
+		"valueDisplay": "Output Volume"
+	},
+	{
+		"id": "CONTENTS/PARAM708",
+		"name": "Slot 16 Source",
+		"normalizedValue": 0.7941176295280457,
+		"valueDisplay": "MIDI 3"
+	},
+	{
+		"id": "CONTENTS/PARAM709",
+		"name": "Slot 16 Level",
+		"normalizedValue": 0.865447998046875,
+		"valueDisplay": "0.815"
+	},
+	{
+		"id": "CONTENTS/PARAM710",
+		"name": "Slot 16 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM711",
+		"name": "Slot 16 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM712",
+		"name": "Slot 16 Target",
+		"normalizedValue": 0.1146496832370758,
+		"valueDisplay": "Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM713",
+		"name": "Slot 17 Source",
+		"normalizedValue": 0.7941176295280457,
+		"valueDisplay": "MIDI 3"
+	},
+	{
+		"id": "CONTENTS/PARAM714",
+		"name": "Slot 17 Level",
+		"normalizedValue": 0.8623199462890625,
+		"valueDisplay": "0.806"
+	},
+	{
+		"id": "CONTENTS/PARAM715",
+		"name": "Slot 17 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM716",
+		"name": "Slot 17 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM717",
+		"name": "Slot 17 Target",
+		"normalizedValue": 0.668789803981781,
+		"valueDisplay": "Output Pan"
+	},
+	{
+		"id": "CONTENTS/PARAM718",
+		"name": "Slot 18 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM719",
+		"name": "Slot 18 Level",
+		"normalizedValue": 0.73468017578125,
+		"valueDisplay": "0.455"
+	},
+	{
+		"id": "CONTENTS/PARAM720",
+		"name": "Slot 18 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM721",
+		"name": "Slot 18 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM722",
+		"name": "Slot 18 Target",
+		"normalizedValue": 0.1146496832370758,
+		"valueDisplay": "Filter 1 Freq"
+	},
+	{
+		"id": "CONTENTS/PARAM723",
+		"name": "Slot 19 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM724",
+		"name": "Slot 19 Level",
+		"normalizedValue": 0.8318023681640625,
+		"valueDisplay": "0.722"
+	},
+	{
+		"id": "CONTENTS/PARAM725",
+		"name": "Slot 19 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM726",
+		"name": "Slot 19 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM727",
+		"name": "Slot 19 Target",
+		"normalizedValue": 0.1656050980091095,
+		"valueDisplay": "Delay 1 Feedback"
+	},
+	{
+		"id": "CONTENTS/PARAM728",
+		"name": "Slot 20 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM729",
+		"name": "Slot 20 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM730",
+		"name": "Slot 20 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM731",
+		"name": "Slot 20 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM732",
+		"name": "Slot 20 Target",
+		"normalizedValue": 0.1719745248556137,
+		"valueDisplay": "Delay 1 Cross Feedback"
+	},
+	{
+		"id": "CONTENTS/PARAM733",
+		"name": "Slot 21 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM734",
+		"name": "Slot 21 Level",
+		"normalizedValue": 0.7822113037109375,
+		"valueDisplay": "0.586"
+	},
+	{
+		"id": "CONTENTS/PARAM735",
+		"name": "Slot 21 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM736",
+		"name": "Slot 21 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM737",
+		"name": "Slot 21 Target",
+		"normalizedValue": 0.19108280539512634,
+		"valueDisplay": "Delay 2 Feedback"
+	},
+	{
+		"id": "CONTENTS/PARAM738",
+		"name": "Slot 22 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM739",
+		"name": "Slot 22 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM740",
+		"name": "Slot 22 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM741",
+		"name": "Slot 22 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM742",
+		"name": "Slot 22 Target",
+		"normalizedValue": 0.19745223224163055,
+		"valueDisplay": "Delay 2 Cross Feedback"
+	},
+	{
+		"id": "CONTENTS/PARAM743",
+		"name": "Slot 23 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM744",
+		"name": "Slot 23 Level",
+		"normalizedValue": 0.845947265625,
+		"valueDisplay": "0.761"
+	},
+	{
+		"id": "CONTENTS/PARAM745",
+		"name": "Slot 23 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM746",
+		"name": "Slot 23 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM747",
+		"name": "Slot 23 Target",
+		"normalizedValue": 0.2165605127811432,
+		"valueDisplay": "Delay Filter 1 Peak"
+	},
+	{
+		"id": "CONTENTS/PARAM748",
+		"name": "Slot 24 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM749",
+		"name": "Slot 24 Level",
+		"normalizedValue": 0.55047607421875,
+		"valueDisplay": "0.210"
+	},
+	{
+		"id": "CONTENTS/PARAM750",
+		"name": "Slot 24 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM751",
+		"name": "Slot 24 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM752",
+		"name": "Slot 24 Target",
+		"normalizedValue": 0.24203822016716003,
+		"valueDisplay": "Delay Level"
+	},
+	{
+		"id": "CONTENTS/PARAM753",
+		"name": "Slot 25 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM754",
+		"name": "Slot 25 Level",
+		"normalizedValue": 0.22308349609375,
+		"valueDisplay": "0.041"
+	},
+	{
+		"id": "CONTENTS/PARAM755",
+		"name": "Slot 25 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM756",
+		"name": "Slot 25 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM757",
+		"name": "Slot 25 Target",
+		"normalizedValue": 0.662420392036438,
+		"valueDisplay": "Output Volume"
+	},
+	{
+		"id": "CONTENTS/PARAM758",
+		"name": "Slot 26 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM759",
+		"name": "Slot 26 Level",
+		"normalizedValue": 0.7772979736328125,
+		"valueDisplay": "0.573"
+	},
+	{
+		"id": "CONTENTS/PARAM760",
+		"name": "Slot 26 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM761",
+		"name": "Slot 26 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM762",
+		"name": "Slot 26 Target",
+		"normalizedValue": 0.7643312215805054,
+		"valueDisplay": "Slot 13 Level"
+	},
+	{
+		"id": "CONTENTS/PARAM763",
+		"name": "Slot 27 Source",
+		"normalizedValue": 0.8235294222831726,
+		"valueDisplay": "MIDI 4"
+	},
+	{
+		"id": "CONTENTS/PARAM764",
+		"name": "Slot 27 Level",
+		"normalizedValue": 0.712982177734375,
+		"valueDisplay": "0.396"
+	},
+	{
+		"id": "CONTENTS/PARAM765",
+		"name": "Slot 27 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM766",
+		"name": "Slot 27 Inverted",
+		"normalizedValue": 1,
+		"valueDisplay": "Inverted"
+	},
+	{
+		"id": "CONTENTS/PARAM767",
+		"name": "Slot 27 Target",
+		"normalizedValue": 0.7707006335258484,
+		"valueDisplay": "Slot 14 Level"
+	},
+	{
+		"id": "CONTENTS/PARAM768",
+		"name": "Slot 28 Source",
+		"normalizedValue": 0.8529411554336548,
+		"valueDisplay": "MIDI 5"
+	},
+	{
+		"id": "CONTENTS/PARAM769",
+		"name": "Slot 28 Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0.000"
+	},
+	{
+		"id": "CONTENTS/PARAM770",
+		"name": "Slot 28 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM771",
+		"name": "Slot 28 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM772",
+		"name": "Slot 28 Target",
+		"normalizedValue": 0.7070063948631287,
+		"valueDisplay": "Slot 4 Level"
+	},
+	{
+		"id": "CONTENTS/PARAM773",
+		"name": "Slot 29 Source",
+		"normalizedValue": 0.0882352963089943,
+		"valueDisplay": "XY 2 Hor"
+	},
+	{
+		"id": "CONTENTS/PARAM774",
+		"name": "Slot 29 Level",
+		"normalizedValue": 0.4818878173828125,
+		"valueDisplay": "0.152"
+	},
+	{
+		"id": "CONTENTS/PARAM775",
+		"name": "Slot 29 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM776",
+		"name": "Slot 29 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM777",
+		"name": "Slot 29 Target",
+		"normalizedValue": 0.3949044644832611,
+		"valueDisplay": "EG 1 Attack"
+	},
+	{
+		"id": "CONTENTS/PARAM778",
+		"name": "Slot 30 Source",
+		"normalizedValue": 0.0882352963089943,
+		"valueDisplay": "XY 2 Hor"
+	},
+	{
+		"id": "CONTENTS/PARAM779",
+		"name": "Slot 30 Level",
+		"normalizedValue": 0.381011962890625,
+		"valueDisplay": "0.108"
+	},
+	{
+		"id": "CONTENTS/PARAM780",
+		"name": "Slot 30 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM781",
+		"name": "Slot 30 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM782",
+		"name": "Slot 30 Target",
+		"normalizedValue": 0.41401273012161255,
+		"valueDisplay": "EG 1 Release"
+	},
+	{
+		"id": "CONTENTS/PARAM783",
+		"name": "Slot 31 Source",
+		"normalizedValue": 0.11764705926179886,
+		"valueDisplay": "XY 2 Ver"
+	},
+	{
+		"id": "CONTENTS/PARAM784",
+		"name": "Slot 31 Level",
+		"normalizedValue": 0.348114013671875,
+		"valueDisplay": "0.093"
+	},
+	{
+		"id": "CONTENTS/PARAM785",
+		"name": "Slot 31 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM786",
+		"name": "Slot 31 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM787",
+		"name": "Slot 31 Target",
+		"normalizedValue": 0.6815286874771118,
+		"valueDisplay": "Unison Spread"
+	},
+	{
+		"id": "CONTENTS/PARAM788",
+		"name": "Slot 32 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM789",
+		"name": "Slot 32 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM790",
+		"name": "Slot 32 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM791",
+		"name": "Slot 32 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM792",
+		"name": "Slot 32 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM793",
+		"name": "Slot 33 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM794",
+		"name": "Slot 33 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM795",
+		"name": "Slot 33 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM796",
+		"name": "Slot 33 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM797",
+		"name": "Slot 33 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM798",
+		"name": "Slot 34 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM799",
+		"name": "Slot 34 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM800",
+		"name": "Slot 34 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM801",
+		"name": "Slot 34 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM802",
+		"name": "Slot 34 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM803",
+		"name": "Slot 35 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM804",
+		"name": "Slot 35 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM805",
+		"name": "Slot 35 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM806",
+		"name": "Slot 35 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM807",
+		"name": "Slot 35 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM808",
+		"name": "Slot 36 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM809",
+		"name": "Slot 36 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM810",
+		"name": "Slot 36 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM811",
+		"name": "Slot 36 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM812",
+		"name": "Slot 36 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM813",
+		"name": "Slot 37 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM814",
+		"name": "Slot 37 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM815",
+		"name": "Slot 37 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM816",
+		"name": "Slot 37 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM817",
+		"name": "Slot 37 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM818",
+		"name": "Slot 38 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM819",
+		"name": "Slot 38 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM820",
+		"name": "Slot 38 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM821",
+		"name": "Slot 38 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM822",
+		"name": "Slot 38 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM823",
+		"name": "Slot 39 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM824",
+		"name": "Slot 39 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM825",
+		"name": "Slot 39 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM826",
+		"name": "Slot 39 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM827",
+		"name": "Slot 39 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM828",
+		"name": "Slot 40 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM829",
+		"name": "Slot 40 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM830",
+		"name": "Slot 40 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM831",
+		"name": "Slot 40 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM832",
+		"name": "Slot 40 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM833",
+		"name": "Slot 41 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM834",
+		"name": "Slot 41 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM835",
+		"name": "Slot 41 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM836",
+		"name": "Slot 41 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM837",
+		"name": "Slot 41 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM838",
+		"name": "Slot 42 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM839",
+		"name": "Slot 42 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM840",
+		"name": "Slot 42 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM841",
+		"name": "Slot 42 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM842",
+		"name": "Slot 42 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM843",
+		"name": "Slot 43 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM844",
+		"name": "Slot 43 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM845",
+		"name": "Slot 43 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM846",
+		"name": "Slot 43 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM847",
+		"name": "Slot 43 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM848",
+		"name": "Slot 44 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM849",
+		"name": "Slot 44 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM850",
+		"name": "Slot 44 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM851",
+		"name": "Slot 44 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM852",
+		"name": "Slot 44 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM853",
+		"name": "Slot 45 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM854",
+		"name": "Slot 45 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM855",
+		"name": "Slot 45 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM856",
+		"name": "Slot 45 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM857",
+		"name": "Slot 45 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM858",
+		"name": "Slot 46 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM859",
+		"name": "Slot 46 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM860",
+		"name": "Slot 46 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM861",
+		"name": "Slot 46 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM862",
+		"name": "Slot 46 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM863",
+		"name": "Slot 47 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM864",
+		"name": "Slot 47 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM865",
+		"name": "Slot 47 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM866",
+		"name": "Slot 47 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM867",
+		"name": "Slot 47 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM868",
+		"name": "Slot 48 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM869",
+		"name": "Slot 48 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM870",
+		"name": "Slot 48 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM871",
+		"name": "Slot 48 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM872",
+		"name": "Slot 48 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM873",
+		"name": "Slot 49 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM874",
+		"name": "Slot 49 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM875",
+		"name": "Slot 49 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM876",
+		"name": "Slot 49 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM877",
+		"name": "Slot 49 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	},
+	{
+		"id": "CONTENTS/PARAM878",
+		"name": "Slot 50 Source",
+		"normalizedValue": 0,
+		"valueDisplay": "< Source >"
+	},
+	{
+		"id": "CONTENTS/PARAM879",
+		"name": "Slot 50 Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.160"
+	},
+	{
+		"id": "CONTENTS/PARAM880",
+		"name": "Slot 50 Bypassed",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM881",
+		"name": "Slot 50 Inverted",
+		"normalizedValue": 0,
+		"valueDisplay": "Normal"
+	},
+	{
+		"id": "CONTENTS/PARAM882",
+		"name": "Slot 50 Target",
+		"normalizedValue": 0,
+		"valueDisplay": "< Target >"
+	}
+]

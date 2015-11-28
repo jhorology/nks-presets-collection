@@ -1,0 +1,1310 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Volume Trim",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Bend Range",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "2"
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Arp On",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Arp Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Up"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Arp Rate",
+		"normalizedValue": 0.6700000166893005,
+		"valueDisplay": "1/16 not"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "Modulation Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Chorus"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "Modulation Rate",
+		"normalizedValue": 0.25,
+		"valueDisplay": "25"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "Modulation Mix",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "Modulation Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "Delay Ping-Pong",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "Delay Sync",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "Delay Time",
+		"normalizedValue": 0.4399999976158142,
+		"valueDisplay": "8D"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "Delay Feedback",
+		"normalizedValue": 0.4000000059604645,
+		"valueDisplay": "40"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "Delay Low Cut",
+		"normalizedValue": 0.10000000149011612,
+		"valueDisplay": "10"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "Delay High Cut",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "Delay Mix",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "A VTO 1 Shape",
+		"normalizedValue": 0.33000001311302185,
+		"valueDisplay": "1%Tri,99"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "A VTO 1 Range",
+		"normalizedValue": 0.5,
+		"valueDisplay": "8'"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "A VTO 1 Quad",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "A VTO 1 Finetune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "A VTO 1 Env To Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "A VTO 1 Delay Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "A VTO 1 Delay Amount",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "A VTO 1 Quad Detune",
+		"normalizedValue": 0.25,
+		"valueDisplay": "25"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "A VTO 2 Shape",
+		"normalizedValue": 0.33000001311302185,
+		"valueDisplay": "1%Noise,"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "A VTO 2 Range",
+		"normalizedValue": 0.5,
+		"valueDisplay": "8'"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "A VTO 2 Quad",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "A VTO 2 Finetune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "A VTO 2 Env To Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "A VTO 2 Delay Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "A VTO 2 Delay Amount",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "A VTO 2 Quad Detune",
+		"normalizedValue": 0.25,
+		"valueDisplay": "25"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "A Glide Time",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "A Glide Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Held"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "A Ringmodulation",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "A VTO 1 Mix",
+		"normalizedValue": 1,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "A VTO 2 Mix",
+		"normalizedValue": 1,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "A Mix Drive",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "A HPF Cutoff",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "A HPF Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "A HPF Slope",
+		"normalizedValue": 0.5,
+		"valueDisplay": "12.00"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "A HPF Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "A HPF Env Mod",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "A HPF Keytracking",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "A Filter Routing",
+		"normalizedValue": 0,
+		"valueDisplay": "Serial"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "A LPF Cutoff",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "A LPF Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "A LPF Slope",
+		"normalizedValue": 0.5,
+		"valueDisplay": "12.00"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "A LPF Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "A LPF Env Mod",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "A LPF Keytracking",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "A VTO Drift",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "A Age Dust",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "Part A On",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "A VTA Volume",
+		"normalizedValue": 0.7099999785423279,
+		"valueDisplay": "+0.1"
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "A VTA Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "A VTA Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "A Env 1 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "A Env 1 Decay",
+		"normalizedValue": 0.5,
+		"valueDisplay": "316"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "A Env 1 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "A Env 1 Release",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "2.99"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "A Env 1 Velocity Mod",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "A Env 3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "A Env 3 Decay",
+		"normalizedValue": 0.5,
+		"valueDisplay": "316"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "A Env 3 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "A Env 3 Release",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "2.99"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "A Env 3 Velocity Mod",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "A Env Retrigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM68",
+		"name": "A LFO 1 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "5.01 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM69",
+		"name": "A LFO 1 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM70",
+		"name": "A LFO 1 Fade",
+		"normalizedValue": 0.5,
+		"valueDisplay": "No Fade"
+	},
+	{
+		"id": "CONTENTS/PARAM71",
+		"name": "A LFO 1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM72",
+		"name": "A LFO 2 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "5.01"
+	},
+	{
+		"id": "CONTENTS/PARAM73",
+		"name": "A LFO 2 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM74",
+		"name": "A LFO 2 Fade",
+		"normalizedValue": 0.5,
+		"valueDisplay": "No Fade"
+	},
+	{
+		"id": "CONTENTS/PARAM75",
+		"name": "A LFO 2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM76",
+		"name": "A LFO 1 Destination",
+		"normalizedValue": 0.3400000035762787,
+		"valueDisplay": "Vibrato"
+	},
+	{
+		"id": "CONTENTS/PARAM77",
+		"name": "A Mod 1 Source",
+		"normalizedValue": 0.5,
+		"valueDisplay": "VTO 1"
+	},
+	{
+		"id": "CONTENTS/PARAM78",
+		"name": "A Mod 2 Source",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Modwheel"
+	},
+	{
+		"id": "CONTENTS/PARAM79",
+		"name": "A Mod 1 Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM80",
+		"name": "A Mod 2 Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM81",
+		"name": "A Mod 1 Destination",
+		"normalizedValue": 0,
+		"valueDisplay": "Pitch"
+	},
+	{
+		"id": "CONTENTS/PARAM82",
+		"name": "A Mod 2 Destination",
+		"normalizedValue": 0.6700000166893005,
+		"valueDisplay": "LPF"
+	},
+	{
+		"id": "CONTENTS/PARAM83",
+		"name": "A Velocity to Amp",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM84",
+		"name": "A Velocity to HPF",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM85",
+		"name": "A Velocity to LPF",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM86",
+		"name": "A Unused 1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM87",
+		"name": "A VTO 2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM88",
+		"name": "A VTO 1 Delay Repitch",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM89",
+		"name": "A VTO 2 Delay Repitch",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM90",
+		"name": "A HPF Volume",
+		"normalizedValue": 1,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM91",
+		"name": "A Env Select",
+		"normalizedValue": 1,
+		"valueDisplay": "Linked ("
+	},
+	{
+		"id": "CONTENTS/PARAM92",
+		"name": "A Env 4 Start Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM93",
+		"name": "A Env 4 Attack Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM94",
+		"name": "A Env 4 Slope 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM95",
+		"name": "A Env 4 Slope 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM96",
+		"name": "A Env 4 Dest.",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM97",
+		"name": "A Env 2 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM98",
+		"name": "A Env 2 Decay",
+		"normalizedValue": 0.5,
+		"valueDisplay": "316"
+	},
+	{
+		"id": "CONTENTS/PARAM99",
+		"name": "A Env 2 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM100",
+		"name": "A Env 2 Release",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "2.99"
+	},
+	{
+		"id": "CONTENTS/PARAM101",
+		"name": "A Env 2 Velocity Mod",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM102",
+		"name": "A Bandpass",
+		"normalizedValue": 0,
+		"valueDisplay": "Highpass"
+	},
+	{
+		"id": "CONTENTS/PARAM103",
+		"name": "A Part Level",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "-0.2"
+	},
+	{
+		"id": "CONTENTS/PARAM104",
+		"name": "A Unused 2",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM105",
+		"name": "A Unused 3",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM106",
+		"name": "A Unused 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM107",
+		"name": "A Unused 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM108",
+		"name": "A Unused 6",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM109",
+		"name": "A Unused 7",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM110",
+		"name": "B VTO 1 Shape",
+		"normalizedValue": 0.33000001311302185,
+		"valueDisplay": "1%Tri,99"
+	},
+	{
+		"id": "CONTENTS/PARAM111",
+		"name": "B VTO 1 Range",
+		"normalizedValue": 0.5,
+		"valueDisplay": "8'"
+	},
+	{
+		"id": "CONTENTS/PARAM112",
+		"name": "B VTO 1 Quad",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM113",
+		"name": "B VTO 1 Finetune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM114",
+		"name": "B VTO 1 Env To Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM115",
+		"name": "B VTO 1 Delay Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM116",
+		"name": "B VTO 1 Delay Amount",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM117",
+		"name": "B VTO 1 Quad Detune",
+		"normalizedValue": 0.25,
+		"valueDisplay": "25"
+	},
+	{
+		"id": "CONTENTS/PARAM118",
+		"name": "B VTO 2 Shape",
+		"normalizedValue": 0.33000001311302185,
+		"valueDisplay": "1%Noise,"
+	},
+	{
+		"id": "CONTENTS/PARAM119",
+		"name": "B VTO 2 Range",
+		"normalizedValue": 0.5,
+		"valueDisplay": "8'"
+	},
+	{
+		"id": "CONTENTS/PARAM120",
+		"name": "B VTO 2 Quad",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM121",
+		"name": "B VTO 2 Finetune",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM122",
+		"name": "B VTO 2 Env To Shape",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM123",
+		"name": "B VTO 2 Delay Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM124",
+		"name": "B VTO 2 Delay Amount",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM125",
+		"name": "B VTO 2 Quad Detune",
+		"normalizedValue": 0.25,
+		"valueDisplay": "25"
+	},
+	{
+		"id": "CONTENTS/PARAM126",
+		"name": "B Glide Time",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM127",
+		"name": "B Glide Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Held"
+	},
+	{
+		"id": "CONTENTS/PARAM128",
+		"name": "B Ringmodulation",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM129",
+		"name": "B VTO 1 Mix",
+		"normalizedValue": 1,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM130",
+		"name": "B VTO 2 Mix",
+		"normalizedValue": 1,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM131",
+		"name": "B Mix Drive",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM132",
+		"name": "B HPF Cutoff",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM133",
+		"name": "B HPF Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM134",
+		"name": "B HPF Slope",
+		"normalizedValue": 0.5,
+		"valueDisplay": "12.00"
+	},
+	{
+		"id": "CONTENTS/PARAM135",
+		"name": "B HPF Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM136",
+		"name": "B HPF Env Mod",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM137",
+		"name": "B HPF Keytracking",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM138",
+		"name": "B Filter Routing",
+		"normalizedValue": 0,
+		"valueDisplay": "Serial"
+	},
+	{
+		"id": "CONTENTS/PARAM139",
+		"name": "B LPF Cutoff",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM140",
+		"name": "B LPF Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM141",
+		"name": "B LPF Slope",
+		"normalizedValue": 0.5,
+		"valueDisplay": "12.00"
+	},
+	{
+		"id": "CONTENTS/PARAM142",
+		"name": "B LPF Saturation",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM143",
+		"name": "B LPF Env Mod",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM144",
+		"name": "B LPF Keytracking",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM145",
+		"name": "B VTO Drift",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM146",
+		"name": "B Age Dust",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM147",
+		"name": "Part B On",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM148",
+		"name": "B VTA Volume",
+		"normalizedValue": 0.7099999785423279,
+		"valueDisplay": "+0.1"
+	},
+	{
+		"id": "CONTENTS/PARAM149",
+		"name": "B VTA Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM150",
+		"name": "B VTA Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM151",
+		"name": "B Env 1 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM152",
+		"name": "B Env 1 Decay",
+		"normalizedValue": 0.5,
+		"valueDisplay": "316"
+	},
+	{
+		"id": "CONTENTS/PARAM153",
+		"name": "B Env 1 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM154",
+		"name": "B Env 1 Release",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "2.99"
+	},
+	{
+		"id": "CONTENTS/PARAM155",
+		"name": "B Env 1 Velocity Mod",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM156",
+		"name": "B Env 3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM157",
+		"name": "B Env 3 Decay",
+		"normalizedValue": 0.5,
+		"valueDisplay": "316"
+	},
+	{
+		"id": "CONTENTS/PARAM158",
+		"name": "B Env 3 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM159",
+		"name": "B Env 3 Release",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "2.99"
+	},
+	{
+		"id": "CONTENTS/PARAM160",
+		"name": "B Env 3 Velocity Mod",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM161",
+		"name": "B Env Retrigger",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM162",
+		"name": "B LFO 1 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "5.01 Hz"
+	},
+	{
+		"id": "CONTENTS/PARAM163",
+		"name": "B LFO 1 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM164",
+		"name": "B LFO 1 Fade",
+		"normalizedValue": 0.5,
+		"valueDisplay": "No Fade"
+	},
+	{
+		"id": "CONTENTS/PARAM165",
+		"name": "B LFO 1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM166",
+		"name": "B LFO 2 Rate",
+		"normalizedValue": 0.5,
+		"valueDisplay": "5.01"
+	},
+	{
+		"id": "CONTENTS/PARAM167",
+		"name": "B LFO 2 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "Sine"
+	},
+	{
+		"id": "CONTENTS/PARAM168",
+		"name": "B LFO 2 Fade",
+		"normalizedValue": 0.5,
+		"valueDisplay": "No Fade"
+	},
+	{
+		"id": "CONTENTS/PARAM169",
+		"name": "B LFO 2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Free"
+	},
+	{
+		"id": "CONTENTS/PARAM170",
+		"name": "B LFO 1 Destination",
+		"normalizedValue": 0.3400000035762787,
+		"valueDisplay": "Vibrato"
+	},
+	{
+		"id": "CONTENTS/PARAM171",
+		"name": "B Mod 1 Source",
+		"normalizedValue": 0.5,
+		"valueDisplay": "VTO 1"
+	},
+	{
+		"id": "CONTENTS/PARAM172",
+		"name": "B Mod 2 Source",
+		"normalizedValue": 0.5,
+		"valueDisplay": "Modwheel"
+	},
+	{
+		"id": "CONTENTS/PARAM173",
+		"name": "B Mod 1 Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM174",
+		"name": "B Mod 2 Depth",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM175",
+		"name": "B Mod 1 Destination",
+		"normalizedValue": 0,
+		"valueDisplay": "Pitch"
+	},
+	{
+		"id": "CONTENTS/PARAM176",
+		"name": "B Mod 2 Destination",
+		"normalizedValue": 0.6700000166893005,
+		"valueDisplay": "LPF"
+	},
+	{
+		"id": "CONTENTS/PARAM177",
+		"name": "B Velocity to Amp",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM178",
+		"name": "B Velocity to HPF",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM179",
+		"name": "B Velocity to LPF",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM180",
+		"name": "B Unused 1",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM181",
+		"name": "B VTO 2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM182",
+		"name": "B VTO 1 Delay Repitch",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM183",
+		"name": "B VTO 2 Delay Repitch",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM184",
+		"name": "B HPF Volume",
+		"normalizedValue": 1,
+		"valueDisplay": "+6.0"
+	},
+	{
+		"id": "CONTENTS/PARAM185",
+		"name": "B Env Select",
+		"normalizedValue": 1,
+		"valueDisplay": "Linked ("
+	},
+	{
+		"id": "CONTENTS/PARAM186",
+		"name": "B Env 4 Start Level",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM187",
+		"name": "B Env 4 Attack Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM188",
+		"name": "B Env 4 Slope 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM189",
+		"name": "B Env 4 Slope 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM190",
+		"name": "B Env 4 Dest.",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM191",
+		"name": "B Env 2 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM192",
+		"name": "B Env 2 Decay",
+		"normalizedValue": 0.5,
+		"valueDisplay": "316"
+	},
+	{
+		"id": "CONTENTS/PARAM193",
+		"name": "B Env 2 Sustain",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM194",
+		"name": "B Env 2 Release",
+		"normalizedValue": 0.05000000074505806,
+		"valueDisplay": "2.99"
+	},
+	{
+		"id": "CONTENTS/PARAM195",
+		"name": "B Env 2 Velocity Mod",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM196",
+		"name": "B Bandpass",
+		"normalizedValue": 0,
+		"valueDisplay": "Highpass"
+	},
+	{
+		"id": "CONTENTS/PARAM197",
+		"name": "B Part Level",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "-0.2"
+	},
+	{
+		"id": "CONTENTS/PARAM198",
+		"name": "B Unused 2",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM199",
+		"name": "B Unused 3",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM200",
+		"name": "B Unused 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM201",
+		"name": "B Unused 5",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM202",
+		"name": "B Unused 6",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50"
+	},
+	{
+		"id": "CONTENTS/PARAM203",
+		"name": "B Unused 7",
+		"normalizedValue": 1,
+		"valueDisplay": "100"
+	},
+	{
+		"id": "CONTENTS/PARAM204",
+		"name": "Doubling",
+		"normalizedValue": 1,
+		"valueDisplay": "On"
+	},
+	{
+		"id": "CONTENTS/PARAM205",
+		"name": "Polyphony",
+		"normalizedValue": 1,
+		"valueDisplay": "6 Voices"
+	},
+	{
+		"id": "CONTENTS/PARAM206",
+		"name": "Modwheel",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM207",
+		"name": "Master Level",
+		"normalizedValue": 0.707099974155426,
+		"valueDisplay": "0.0"
+	},
+	{
+		"id": "CONTENTS/PARAM208",
+		"name": "Master Width",
+		"normalizedValue": 0.6499999761581421,
+		"valueDisplay": "65"
+	},
+	{
+		"id": "CONTENTS/PARAM209",
+		"name": "Smart Complexity",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM210",
+		"name": "Smart Tone",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM211",
+		"name": "Smart Punch",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM212",
+		"name": "Smart Length",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM213",
+		"name": "Smart Fat",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM214",
+		"name": "Smart Contour",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM215",
+		"name": "Smart Modulation",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM216",
+		"name": "Smart Emphasis",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM217",
+		"name": "Eco Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	}
+]

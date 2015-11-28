@@ -1,0 +1,410 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Osc Voice Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Auto"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Osc1 Waveform",
+		"normalizedValue": 0,
+		"valueDisplay": "Sawtooth"
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Osc1 Mod Env",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Osc1 Lfo1",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Osc1 PWM Source",
+		"normalizedValue": 0,
+		"valueDisplay": "Env 2"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "Osc1 Pulse Width",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "Osc2 Waveform",
+		"normalizedValue": 0,
+		"valueDisplay": "Sawtooth"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "Osc2 Octave",
+		"normalizedValue": 0,
+		"valueDisplay": "16"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "Osc2 Semitone",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "Osc2 Detune",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "Osc2 Mod Env",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "Osc2 Lfo1",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "Osc2 PWM Source",
+		"normalizedValue": 0,
+		"valueDisplay": "Env 2"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "Osc2 Pulse Width",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "Osc Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "Mix",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "Filter Frequency",
+		"normalizedValue": 1,
+		"valueDisplay": "127"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "Filter Resonance",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "Filter Slope",
+		"normalizedValue": 0,
+		"valueDisplay": "12dB"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "Mod Env > Filter Freq",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "Lfo > Filter Freq",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "Mod Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "Mod Decay",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "Mod Sustain",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "Mod Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "Mod Velocity",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "Amp Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "Amp Decay",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "Amp Sustain",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "Amp Release",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "Amp Velocity ",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "Lfo Waveform",
+		"normalizedValue": 0,
+		"valueDisplay": "Random"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "Lfo Speed",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "Lfo Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "Lfo Sync Rate",
+		"normalizedValue": 0,
+		"valueDisplay": "OFF"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "Master Level",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "Portamento",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "Osc Bend Depth",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "Filter Modwheel",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "Pitch Modwheel",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "Env Bias Breath",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "Env Bias Aftertouch",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "PMod Breath",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "PMod Aftertouch",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "FMod Breath",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "FMod Aftertouch",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "Master Tune",
+		"normalizedValue": 0.5039370059967041,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "Midi Clock Source",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "Setup Tab",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "Keyboard Octave",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "Lfo Phase Indicator",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "Midi Activity",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "Memory Restore",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "Memory Import",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "Memory Export",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "Prefs Pot Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "Prefs Auto Write",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "Prefs Num Pad Program Select",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "ModWheel",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "PitchBend",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "Patch Inc",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "Patch Dec",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "Octave Inc",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "Octave Dec",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "Program Compare",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "Program Write",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "Program Write Confirm",
+		"normalizedValue": 0,
+		"valueDisplay": "Off"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "Mapping Select",
+		"normalizedValue": 0,
+		"valueDisplay": "0"
+	}
+]
