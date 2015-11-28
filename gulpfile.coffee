@@ -395,6 +395,7 @@ gulp.task 'dist', [
   'alchemy-dist'
   'loom-dist'
   'spire_1_1-dist'
+  'structure-dist'
 ]
 
 gulp.task 'deploy', [
@@ -406,6 +407,7 @@ gulp.task 'deploy', [
   'alchemy-deploy'
   'loom-deploy'
   'spire_1_1-deploy'
+  'structure-deploy'
 ]
 
 gulp.task 'release', [
@@ -417,6 +419,7 @@ gulp.task 'release', [
   'alchemy-release'
   'loom-release'
   'spire_1_1-release'
+  'structure-release'
 ]
 
 # Air Music Technology Velvet
@@ -1170,6 +1173,63 @@ gulp.task 'structure-generate-meta', ->
       file.path = "#{file.path[..-6]}meta"
       file.data
     .pipe gulp.dest "src/#{$.Structure.dir}/presets"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'structure-dist', [
+  'structure-dist-image'
+  'structure-dist-database'
+  'structure-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'structure-dist-image', ->
+  _dist_image $.Structure.dir, $.Structure.vendor
+
+# copy database resources to dist folder
+gulp.task 'structure-dist-database', ->
+  _dist_database $.Structure.dir, $.Structure.vendor
+
+# build presets file to dist folder
+gulp.task 'structure-dist-presets', ->
+  _dist_presets $.Structure.dir, $.Structure.magic, (file) ->
+    "./src/#{$.Structure.dir}/mappings/#{file.relative[..-5]}json"
+
+# check
+gulp.task 'structure-check-dist-presets', ->
+  _check_dist_presets $.Structure.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'structure-deploy', [
+  'structure-deploy-resources'
+  'structure-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'structure-deploy-resources', [
+  'structure-dist-image'
+  'structure-dist-database'
+  ], ->
+    _deploy_resources $.Structure.dir
+
+# copy database resources to local environment
+gulp.task 'structure-deploy-presets', [
+  'structure-dist-presets'
+  ] , ->
+    _deploy_presets $.Structure.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'structure-release',['structure-dist'], ->
+  _release $.Structure.dir
 
 
 # ---------------------------------------------------------------
