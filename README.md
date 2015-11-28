@@ -7,25 +7,25 @@ NKS(Native Kontrol Standard) presets collection
 
 |          |raw presets|mappings|meta|resources|download|
 |----------|:---------:|:---:|:-------:|:------:|:-------:|
-|[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|
-|[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|
-|[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/yqm4bqbmj1n88cs/Spire.zip?dl=0)|
-|[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|[:arrow_down:](https://www.dropbox.com/s/eq371tcj8rdjhhb/Spire-1.1.zip?dl=0)|
-|[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|
-|[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:||||
-|[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|
-|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||:heavy_check_mark:||||
-|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:||
-|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:||:heavy_check_mark:||||
-|[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|
-|[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||:heavy_check_mark:||||
-|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||:heavy_check_mark:||||
-|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||:heavy_check_mark:||||
-|[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|
-|[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:||||||
-|[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|||||
-|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
-|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|
+|[<img src="src/Velvet/resources/image/VB_logo.png" style="background-color: #000000;">](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Velvet/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|
+|[<img src="src/Serum/resources/image/VB_logo.png" style="background-color: #2B2F35;">](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Serum/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|
+|[<img src="src/Spire/resources/image/VB_logo.png" style="background-color: #101040;"> 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|<img src="src/Spire/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/yqm4bqbmj1n88cs/Spire.zip?dl=0)|
+|[<img src="src/Spire-1.1/resources/image/VB_logo.png" style="background-color: #005278;"> 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|<img src="src/Spire-1.1/resources/image/VB_artwork.png">1|[:arrow_down:](https://www.dropbox.com/s/eq371tcj8rdjhhb/Spire-1.1.zip?dl=0)|
+|[<img src="src/Xpand!2/resources/image/VB_logo.png" style="background-color: #A5A297;">](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Xpand!2/resources/image/VB_artwork.png">1|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|
+|[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:|||
+|[<img src="src/Loom/resources/image/VB_logo.png" style="background-color: #404048;">](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Loom/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|
+|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||:heavy_check_mark:|||
+|[<img src="src/theRiser/resources/image/VB_logo.png" style="background-color: #1E645E;">](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||:heavy_check_mark:|<img src="src/theRiser/resources/image/VB_artwork.png">||
+|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:||:heavy_check_mark:|||
+|[<img src="src/Structure/resources/image/VB_logo.png" style="background-color: #5C718B;">](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Structure/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|
+|[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||:heavy_check_mark:|||
+|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||:heavy_check_mark:|||
+|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||:heavy_check_mark:|||
+|[<img src="src/Alchemy/resources/image/VB_logo.png" style="background-color: #937F6B;">](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Alchemy/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|
+|[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:|||||
+|[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:||||
+|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|||||
+|[<img src="src/Analog Lab/resources/image/VB_logo.png" style="background-color: #7A7D6D;">](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|<img src="src/Analog Lab/resources/image/VB_artwork.png">|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|
 
  1. Plugin name(root of bankchain) were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.
