@@ -90,7 +90,7 @@
       "autoname": false,
       "id": 9,
       "name": "Off/On",
-      "section": "FX Del",
+      "section": "FX Dly",
       "vflag": false
     }, {
       "autoname": false,
@@ -286,33 +286,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 102,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 1",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 103,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 104,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 105,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 106,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 107,
       "name": "Ctrl Depth",
       "vflag": false
@@ -362,33 +362,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 113,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 114,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 115,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 116,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 117,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 118,
       "name": "Ctrl Depth",
       "vflag": false
@@ -438,33 +438,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 124,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 3",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 125,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 126,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 127,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 128,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 129,
       "name": "Ctrl Depth",
       "vflag": false
@@ -514,33 +514,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 135,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 4",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 136,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 137,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 138,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 139,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 140,
       "name": "Ctrl Depth",
       "vflag": false
@@ -590,33 +590,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 146,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 5",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 147,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 148,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 149,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 150,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 151,
       "name": "Ctrl Depth",
       "vflag": false
@@ -666,33 +666,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 157,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 6",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 158,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 159,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 160,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 161,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 162,
       "name": "Ctrl Depth",
       "vflag": false
@@ -742,33 +742,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 168,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 7",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 169,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 170,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 171,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 172,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 173,
       "name": "Ctrl Depth",
       "vflag": false
@@ -818,33 +818,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 179,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 8",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 180,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 181,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 182,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 183,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 184,
       "name": "Ctrl Depth",
       "vflag": false
@@ -894,33 +894,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 190,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 9",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 191,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 192,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 193,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 194,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 195,
       "name": "Ctrl Depth",
       "vflag": false
@@ -970,33 +970,33 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 201,
-      "name": "Env Source",
+      "name": "Env Src",
       "section": "Module 10",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 202,
-      "name": "Mod Source",
+      "name": "Mod Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 203,
-      "name": "Ctrl Source",
+      "name": "Ctrl Src",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 204,
       "name": "Env Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 205,
       "name": "Mod Depth",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 206,
       "name": "Ctrl Depth",
       "vflag": false
@@ -1011,7 +1011,7 @@
       "autoname": false,
       "id": 46,
       "name": "Env",
-      "section": "Global Pitch",
+      "section": "Glob Pit",
       "vflag": false
     }, {
       "autoname": false,
@@ -1042,28 +1042,28 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 50,
       "name": "Attack",
       "section": "Env 1",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 51,
       "name": "Hold",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 52,
       "name": "Decay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 53,
       "name": "Sustain",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 54,
       "name": "Release",
       "vflag": false
@@ -1078,28 +1078,28 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 55,
       "name": "Attack",
       "section": "Env 2",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 56,
       "name": "Hold",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 57,
       "name": "Decay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 58,
       "name": "Sustain",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 59,
       "name": "Release",
       "vflag": false
@@ -1114,28 +1114,28 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 60,
       "name": "Attack",
       "section": "Env 3",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 61,
       "name": "Hold",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 62,
       "name": "Decay",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 63,
       "name": "Sustain",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 64,
       "name": "Release",
       "vflag": false
@@ -1152,13 +1152,13 @@
     [{
       "autoname": false,
       "id": 65,
-      "name": "StartLevel",
+      "name": "Start",
       "section": "Env 4",
       "vflag": false
     }, {
       "autoname": false,
       "id": 66,
-      "name": "AttackTime",
+      "name": "Attack",
       "vflag": false
     }, {
       "autoname": false,
@@ -1313,20 +1313,20 @@
       "vflag": false
     }],
     [{
-      "autoname": true,
+      "autoname": false,
       "id": 23,
-      "name": "Reverb Preset",
+      "name": "Preset",
       "section": "FX Rev",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 24,
-      "name": "Reverb Time",
+      "name": "Time",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 26,
-      "name": "Reverb High Cut",
+      "name": "High Cut",
       "vflag": false
     }, {
       "autoname": true,
@@ -1356,14 +1356,14 @@
       "name": "Sync",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 27,
       "name": "Polyphony",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 28,
-      "name": "Glide Time",
+      "name": "Time",
       "section": "Glide",
       "vflag": false
     }, {
@@ -1373,7 +1373,7 @@
       "section": "Bend",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 30,
       "name": "Eco Mode",
       "section": "Eco",
