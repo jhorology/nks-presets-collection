@@ -2185,6 +2185,205 @@ gulp.task 'discoverypro-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.DiscoveryPro.dir}/presets"
 
+# suggest mapping
+gulp.task 'discoverypro-suggest-mapping', ->
+  prefixes = [
+    # layer A
+    'A:Filter_'
+    'A:Lfo1_'
+    'A:Lfo2_'
+    'A:ModEnv_'
+    'A:Osc1_'
+    'A:Osc2_'
+    'A:Osc_'
+    'A:Amp_'
+    'A:Fil_'
+    'A:Pan_'
+    'A:Port_'
+    'A:Delay_'
+    'A:Dly_'
+    'A:L_Dly_'
+    'A:R_Dly_'
+    'A:Gat_'
+    'A:Mod_'
+    'A:Wave_'
+    'A:Misc_'
+    'A:'
+    # layer B
+    'B:Filter_'
+    'B:Lfo1_'
+    'B:Lfo2_'
+    'B:ModEnv_'
+    'B:Osc1_'
+    'B:Osc2_'
+    'B:Osc_'
+    'B:Amp_'
+    'B:Fil_'
+    'B:Pan_'
+    'B:Port_'
+    'B:Delay_'
+    'B:Dly_'
+    'B:L_Dly_'
+    'B:R_Dly_'
+    'B:Gat_'
+    'B:Mod_'
+    'B:Wave_'
+    'B:Misc_'
+    'B:'
+    # layer C
+    'C:Filter_'
+    'C:Lfo1_'
+    'C:Lfo2_'
+    'C:ModEnv_'
+    'C:Osc1_'
+    'C:Osc2_'
+    'C:Osc_'
+    'C:Amp_'
+    'C:Fil_'
+    'C:Pan_'
+    'C:Port_'
+    'C:Dly_'
+    'C:Delay_'
+    'C:L_Dly_'
+    'C:R_Dly_'
+    'C:Gat_'
+    'C:Mod_'
+    'C:Wave_'
+    'C:Misc_'
+    'C:'
+    # layer D
+    'D:Filter_'
+    'D:Lfo1_'
+    'D:Lfo2_'
+    'D:ModEnv_'
+    'D:Osc1_'
+    'D:Osc2_'
+    'D:Osc_'
+    'D:Amp_'
+    'D:Fil_'
+    'D:Pan_'
+    'D:Port_'
+    'D:Delay_'
+    'D:Dly_'
+    'D:L_Dly_'
+    'D:R_Dly_'
+    'D:Gat_'
+    'D:Mod_'
+    'D:Wave_'
+    'D:Misc_'
+    'D:'
+    ]
+  gulp.src ["src/#{$.DiscoveryPro.dir}/mappings/bitwig-direct-paramater.json"], read: true
+    .pipe data (file) ->
+      flatList = JSON.parse file.contents.toString()
+      mapping =
+        ni8: []
+      groups = _.groupBy flatList, (param) ->
+        group = _.find prefixes, (prefix) ->
+          (param.name.indexOf prefix) is 0
+        group ?= 'undefined'
+      console.info beautify (JSON.stringify groups), indent_size: $.json_indent
+      makepages = (section, del) ->
+        c = 0
+        pages = []
+        page = []
+        for param in groups[section]
+          page.push if c is 0
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section}", '' else param.name
+            section: section.replace /_$/, ''
+            vflag: false
+          else
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section}", '' else param.name
+            vflag: false
+          if c++ is 8
+            pages.push page
+            page = []
+            c = 0
+        if c
+          for i in [c...8]
+            page.push
+              autoname: true
+              vflag: false
+          pages.push page
+          pages
+      for prefix in prefixes
+        Array.prototype.push.apply mapping.ni8, makepages prefix, true
+      json = beautify (JSON.stringify mapping), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      mapping
+    .pipe rename basename: 'default-suggest'
+    .pipe gulp.dest "src/#{$.DiscoveryPro.dir}/mappings"
+
+
+# suggest mapping
+gulp.task 'discoverypro-check-default-mapping', ->
+  gulp.src ["src/#{$.DiscoveryPro.dir}/mappings/default.json"], read: true
+    .pipe data (file) ->
+      mapping = JSON.parse file.contents.toString()
+      for page in mapping.ni8
+        assert.ok page.length is 8, "items per page shoud be 8.\n #{JSON.stringify page}"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'discoverypro-dist', [
+  'discoverypro-dist-image'
+  'discoverypro-dist-database'
+  'discoverypro-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'discoverypro-dist-image', ->
+  _dist_image $.DiscoveryPro.dir, $.DiscoveryPro.vendor
+
+# copy database resources to dist folder
+gulp.task 'discoverypro-dist-database', ->
+  _dist_database $.DiscoveryPro.dir, $.DiscoveryPro.vendor
+
+# build presets file to dist folder
+gulp.task 'discoverypro-dist-presets', ->
+  _dist_presets $.DiscoveryPro.dir, $.DiscoveryPro.magic
+
+# check
+gulp.task 'discoverypro-check-dist-presets', ->
+  _check_dist_presets $.DiscoveryPro.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'discoverypro-deploy', [
+  'discoverypro-deploy-resources'
+  'discoverypro-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'discoverypro-deploy-resources', [
+  'discoverypro-dist-image'
+  'discoverypro-dist-database'
+  ], ->
+    _deploy_resources $.DiscoveryPro.dir
+
+# copy database resources to local environment
+gulp.task 'discoverypro-deploy-presets', [
+  'discoverypro-dist-presets'
+  ] , ->
+    _deploy_presets $.DiscoveryPro.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'discoverypro-release',['discoverypro-dist'], ->
+  _release $.DiscoveryPro.dir
+
 # ---------------------------------------------------------------
 # end discoDSP Discovery Pro
 #
