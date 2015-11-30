@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1c55cbe1-284f-418e-b7b0-9f30e52ddafe",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "01 Chord To Atonal Swell",
   "deviceType": "INST",
   "comment": "",

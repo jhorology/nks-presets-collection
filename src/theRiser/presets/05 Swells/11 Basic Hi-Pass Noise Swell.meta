@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cc1df61a-7ee2-411b-802e-b63d98f391cd",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "11 Basic Hi-Pass Noise Swell",
   "deviceType": "INST",
   "comment": "",

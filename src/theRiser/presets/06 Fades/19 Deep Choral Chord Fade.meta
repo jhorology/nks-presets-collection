@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3bc41598-bfb1-4b6a-8c37-45cf9b597f6f",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "19 Deep Choral Chord Fade",
   "deviceType": "INST",
   "comment": "",

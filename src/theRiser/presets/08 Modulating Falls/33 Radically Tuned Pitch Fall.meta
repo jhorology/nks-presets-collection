@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f12a83a8-5800-4956-a69c-fcf126f90883",
   "types": [
-    ["Modulating Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Falls"],
   "name": "33 Radically Tuned Pitch Fall",
   "deviceType": "INST",
   "comment": "",

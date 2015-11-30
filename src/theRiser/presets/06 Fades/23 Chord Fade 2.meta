@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "74d7e9bc-b089-4981-8467-507d861a33be",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "23 Chord Fade 2",
   "deviceType": "INST",
   "comment": "",

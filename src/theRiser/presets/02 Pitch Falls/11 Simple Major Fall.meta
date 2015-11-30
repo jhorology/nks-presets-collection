@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e59fa713-b913-4628-ae4c-ad9e654a736a",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "11 Simple Major Fall",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "fe01e5cf-c8c6-4852-9766-f946e137466c",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "28 Pitch Sweep Fall",
   "deviceType": "INST",
   "comment": "",

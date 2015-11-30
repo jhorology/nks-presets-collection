@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "eb641465-df56-4b73-81d0-3e7c04da0c44",
   "types": [
-    ["Reso Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Reso Falls"],
   "name": "01 Basic Noise Fall",
   "deviceType": "INST",
   "comment": "",

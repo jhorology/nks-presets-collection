@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9555102b-9369-42db-855b-dfdfef4c0b24",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "01 Siren Fall",
   "deviceType": "INST",
   "comment": "",

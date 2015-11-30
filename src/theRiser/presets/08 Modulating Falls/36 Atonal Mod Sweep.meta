@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "bdca71ad-d602-4fe2-b137-622b355738ef",
   "types": [
-    ["Modulating Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Falls"],
   "name": "36 Atonal Mod Sweep",
   "deviceType": "INST",
   "comment": "",

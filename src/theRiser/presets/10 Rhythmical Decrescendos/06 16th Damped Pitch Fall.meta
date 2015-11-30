@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "38ec174a-c45d-4f73-9fc2-5c2a575ebbea",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "06 16th Damped Pitch Fall",
   "deviceType": "INST",
   "comment": "",

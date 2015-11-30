@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "99ceb79e-03d4-4dbf-9db7-aace69c135e4",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "08 16th Chord Fade 1",
   "deviceType": "INST",
   "comment": "",

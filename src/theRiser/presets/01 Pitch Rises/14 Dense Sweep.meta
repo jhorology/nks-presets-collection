@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f5a26967-6d77-4054-b15b-cbd92c1ecb39",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "14 Dense Sweep",
   "deviceType": "INST",
   "comment": "",

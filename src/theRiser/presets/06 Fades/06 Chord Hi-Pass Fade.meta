@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "fcc10e14-8736-4b61-86ae-b2b7c02fa911",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "06 Chord Hi-Pass Fade",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7de8006e-9088-4466-a286-02b4cbf189a0",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "07 Chopped Chord Fade",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "196892ed-9293-49bb-9f9b-ed79bebfc2d4",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "10 Slowly Pumping Rise",
   "deviceType": "INST",
   "comment": "",

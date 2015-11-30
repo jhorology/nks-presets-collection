@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3ae95912-7ff5-477a-8bbc-e1b0042b6a6e",
   "types": [
-    ["Modulating Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Rises"],
   "name": "02 Complex Saw Mod Sweep",
   "deviceType": "INST",
   "comment": "",

@@ -14,6 +14,7 @@ changed     = require 'gulp-changed'
 data        = require 'gulp-data'
 exec        = require 'gulp-exec'
 zip         = require 'gulp-zip'
+rename      = require 'gulp-rename'
 msgpack     = require 'msgpack-lite'
 builder     = require './lib/riff-builder'
 beautify    = require 'js-beautify'
@@ -396,6 +397,7 @@ gulp.task 'dist', [
   'loom-dist'
   'spire_1_1-dist'
   'structure-dist'
+  'theriser-dist'
 ]
 
 gulp.task 'deploy', [
@@ -408,6 +410,7 @@ gulp.task 'deploy', [
   'loom-deploy'
   'spire_1_1-deploy'
   'structure-deploy'
+  'theriser-deploy'
 ]
 
 gulp.task 'release', [
@@ -420,6 +423,7 @@ gulp.task 'release', [
   'loom-release'
   'spire_1_1-release'
   'structure-release'
+  'theriser-release'
 ]
 
 # Air Music Technology Velvet
@@ -1058,18 +1062,14 @@ gulp.task 'theriser-generate-meta', ->
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
       metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.theRiser.vendor
-        uuid: uid
+        uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
         types: [
-          [folder[3..]]
+          ['Sound Effects']
         ]
-        modes: []
+        modes: [folder[3..]]
         name: basename
         deviceType: 'INST'
         comment: ''
@@ -1079,10 +1079,144 @@ gulp.task 'theriser-generate-meta', ->
       console.info json
       file.contents = new Buffer json
       # rename .pchk to .meta
-      file.path = "#{file.path[..-5]}meta"
+      file.path = metafile
       meta
     .pipe gulp.dest "src/#{$.theRiser.dir}/presets"
 
+# suggest mapping
+gulp.task 'theriser-suggest-mapping', ->
+  prefixes = [
+    'Sweep Gain'
+    'Sweep Freq'
+    'SweepOsc Shape'
+    'Noise Gain'
+    'Noise Shape'
+    'Noise Tune'
+    'Chord Gain'
+    'Chord Shape'
+    'Chord Brightness'
+    'Filter Freq'
+    'Filter Reso'
+    'Distortion'
+    'Master Gain'
+    'Pan'
+    'Pumper'
+    'Delay'
+    'Reverb'
+    'Effect Mix'
+    'LFO A'
+    'LFO B'
+    'Lock'
+    'Sync'
+    ]
+  postfixes = [
+    'Decay'
+    ]
+  gulp.src ["src/#{$.theRiser.dir}/mappings/bitwig-direct-paramater.json"], read: true
+    .pipe data (file) ->
+      flatList = JSON.parse file.contents.toString()
+      mapping =
+        ni8: []
+      groups = _.groupBy flatList, (param) ->
+        group = _.find prefixes, (prefix) ->
+          (param.name.indexOf prefix) is 0
+        group ?= _.find postfixes, (postfix) ->
+          (param.name.indexOf postfix) is (param.name.length - postfix.length)
+        group ?= 'undefined'
+      console.info beautify (JSON.stringify groups), indent_size: $.json_indent
+      makepages = (section, del) ->
+        c = 0
+        pages = []
+        page = []
+        for param in groups[section]
+          page.push if c is 0
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section} ", '' else param.name
+            section: section
+            vflag: false
+          else
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section} ", '' else param.name
+            vflag: false
+          if c++ is 8
+            pages.push page
+            page = []
+            c = 0
+        if c
+          for i in [c...8]
+            page.push
+              autoname: false
+              vflag: false
+          pages.push page
+          pages
+      Array.prototype.push.apply mapping.ni8, makepages 'undefined', false
+      for prefix in prefixes
+        Array.prototype.push.apply mapping.ni8, makepages prefix, true
+      json = beautify (JSON.stringify mapping), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      mapping
+    .pipe rename basename: 'default-suggest'
+    .pipe gulp.dest "src/#{$.theRiser.dir}/mappings"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'theriser-dist', [
+  'theriser-dist-image'
+  'theriser-dist-database'
+  'theriser-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'theriser-dist-image', ->
+  _dist_image $.theRiser.dir, $.theRiser.vendor
+
+# copy database resources to dist folder
+gulp.task 'theriser-dist-database', ->
+  _dist_database $.theRiser.dir, $.theRiser.vendor
+
+# build presets file to dist folder
+gulp.task 'theriser-dist-presets', ->
+  _dist_presets $.theRiser.dir, $.theRiser.magic
+
+# check
+gulp.task 'theriser-check-dist-presets', ->
+  _check_dist_presets $.theRiser.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'theriser-deploy', [
+  'theriser-deploy-resources'
+  'theriser-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'theriser-deploy-resources', [
+  'theriser-dist-image'
+  'theriser-dist-database'
+  ], ->
+    _deploy_resources $.theRiser.dir
+
+# copy database resources to local environment
+gulp.task 'theriser-deploy-presets', [
+  'theriser-dist-presets'
+  ] , ->
+    _deploy_presets $.theRiser.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'theriser-release',['theriser-dist'], ->
+  _release $.theRiser.dir
+        
 # ---------------------------------------------------------------
 # end Air Music Technology theRiser
 #
@@ -1616,7 +1750,8 @@ gulp.task 'spire_1_1-generate-meta', ->
       # meta
       meta =
         vendor: $.Spire_1_1.vendor
-        uuid: uid
+        UUID: uid
+        uuid: ""
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'

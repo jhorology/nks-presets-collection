@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "19666973-08be-4b65-8c10-f67ab43b165f",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "01 Siren Sweep",
   "deviceType": "INST",
   "comment": "",

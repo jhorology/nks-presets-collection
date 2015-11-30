@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "5e5dc860-78f0-4144-9a7f-689cf5010a40",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "30 Bar Length Siren Sweep",
   "deviceType": "INST",
   "comment": "",

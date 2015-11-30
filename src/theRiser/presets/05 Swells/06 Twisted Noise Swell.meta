@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d470fcc9-206e-4ad4-a6e8-5c6385e2fe3e",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "06 Twisted Noise Swell",
   "deviceType": "INST",
   "comment": "",

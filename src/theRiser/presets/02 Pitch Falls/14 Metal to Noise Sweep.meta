@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "8f228356-64f5-4ddb-ad90-19af30b142fe",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "14 Metal to Noise Sweep",
   "deviceType": "INST",
   "comment": "",

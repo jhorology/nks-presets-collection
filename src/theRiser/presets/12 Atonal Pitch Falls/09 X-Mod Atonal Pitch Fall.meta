@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c89acef2-6a86-4ada-b917-e5e472275bad",
   "types": [
-    ["Atonal Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Falls"],
   "name": "09 X-Mod Atonal Pitch Fall",
   "deviceType": "INST",
   "comment": "",

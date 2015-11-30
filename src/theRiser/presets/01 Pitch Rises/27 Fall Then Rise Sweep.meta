@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a22ed807-f907-4455-a56b-f2c94814e227",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "27 Fall Then Rise Sweep",
   "deviceType": "INST",
   "comment": "",

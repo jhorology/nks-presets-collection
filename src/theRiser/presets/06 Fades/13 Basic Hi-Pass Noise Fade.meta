@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1df29b47-fbcc-482e-a3f1-7b6aa9ab0542",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "13 Basic Hi-Pass Noise Fade",
   "deviceType": "INST",
   "comment": "",

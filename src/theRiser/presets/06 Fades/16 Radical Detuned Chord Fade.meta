@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7010224e-ad92-4081-a5fc-2b18aac34a53",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "16 Radical Detuned Chord Fade",
   "deviceType": "INST",
   "comment": "",

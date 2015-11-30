@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4dfbc9ff-5d2d-4860-9b4e-6ae441ec76e5",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "27 Pumping Synced Saw Fall",
   "deviceType": "INST",
   "comment": "",

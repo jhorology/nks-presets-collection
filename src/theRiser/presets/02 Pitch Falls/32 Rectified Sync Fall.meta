@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "477fdce9-e035-4ecf-8689-454305eb7680",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "32 Rectified Sync Fall",
   "deviceType": "INST",
   "comment": "",

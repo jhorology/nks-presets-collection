@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a350bb01-cfa8-45f9-b307-d38c12564da0",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "01 Half Note Pitch Toggling Fall",
   "deviceType": "INST",
   "comment": "",

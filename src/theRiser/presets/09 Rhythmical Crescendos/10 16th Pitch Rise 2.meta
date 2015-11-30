@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2c3f9c23-37d4-4104-ad4a-d8fb858ce9cb",
   "types": [
-    ["Rhythmical Crescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Crescendos"],
   "name": "10 16th Pitch Rise 2",
   "deviceType": "INST",
   "comment": "",

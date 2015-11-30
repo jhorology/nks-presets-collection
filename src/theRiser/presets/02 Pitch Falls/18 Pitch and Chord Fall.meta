@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "56374e72-8b28-428d-96c4-dfb92ca4999b",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "18 Pitch and Chord Fall",
   "deviceType": "INST",
   "comment": "",

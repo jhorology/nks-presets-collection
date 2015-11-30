@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e812805c-798d-42f2-ae4b-b662f406a364",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "13 32th Crushed Pitch Fall",
   "deviceType": "INST",
   "comment": "",

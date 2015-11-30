@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ba832fd3-8d3e-4b1a-9042-b009b647408e",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "11 Chord And Noise Fade",
   "deviceType": "INST",
   "comment": "",

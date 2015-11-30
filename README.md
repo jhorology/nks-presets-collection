@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-12418/25192(49%)
+12782/25192(51%)
 
 |          |raw presets|mappings|meta|resources|download|
 |----------|:---------:|:---:|:-------:|:------:|:-------:|
@@ -15,7 +15,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:||:heavy_check_mark:||||
-|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:||
+|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|
 |[DiscoveryPro](http://www.discodsp.com/discoverypro/)|:heavy_check_mark:||:heavy_check_mark:||||

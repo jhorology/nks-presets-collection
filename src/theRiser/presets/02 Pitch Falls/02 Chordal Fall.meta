@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e2336a8e-6346-4bfb-b15e-23268db81eb6",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "02 Chordal Fall",
   "deviceType": "INST",
   "comment": "",

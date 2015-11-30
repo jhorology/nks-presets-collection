@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "417caf60-9937-4a4d-a4b2-b6580a576b26",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "12 Resonant Tonal Chord Fade",
   "deviceType": "INST",
   "comment": "",

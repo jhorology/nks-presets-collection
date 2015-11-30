@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0d57d6e4-950a-4971-a575-e3f2300a6720",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "30 Basic Sync Saw Fall",
   "deviceType": "INST",
   "comment": "",

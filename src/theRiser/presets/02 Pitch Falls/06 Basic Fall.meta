@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "30f55582-11b8-4fd2-a9f0-8b6cd046b192",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "06 Basic Fall",
   "deviceType": "INST",
   "comment": "",

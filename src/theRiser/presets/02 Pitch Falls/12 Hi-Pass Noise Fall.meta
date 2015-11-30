@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0b4e6b6a-b7f8-48ec-bbd6-92993b400ebf",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "12 Hi-Pass Noise Fall",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7558b3b1-5f41-452b-b83b-624dc17b0a5c",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "22 Atonal To Chord Fade",
   "deviceType": "INST",
   "comment": "",

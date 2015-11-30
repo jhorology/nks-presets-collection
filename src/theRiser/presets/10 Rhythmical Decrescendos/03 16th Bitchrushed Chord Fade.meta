@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "61153ad6-ac7c-499a-8754-52e2492b2abb",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "03 16th Bitchrushed Chord Fade",
   "deviceType": "INST",
   "comment": "",

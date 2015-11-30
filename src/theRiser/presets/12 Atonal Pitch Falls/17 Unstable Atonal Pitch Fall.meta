@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b6c92749-74cd-4664-91cb-668f9eecd0e8",
   "types": [
-    ["Atonal Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Falls"],
   "name": "17 Unstable Atonal Pitch Fall",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "255859fe-e666-4104-840f-593b8df21e6c",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "21 Damped Sweep",
   "deviceType": "INST",
   "comment": "",

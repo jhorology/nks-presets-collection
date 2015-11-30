@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e7f1b14d-77f8-4fec-8e6a-011f6e35aa4c",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "34 Thin Band-Pass Swell",
   "deviceType": "INST",
   "comment": "",

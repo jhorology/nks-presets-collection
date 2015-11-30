@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "223cbe63-0f2d-4638-96fa-0b93fccc050c",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "09 Panned Chord To Noise Swell",
   "deviceType": "INST",
   "comment": "",

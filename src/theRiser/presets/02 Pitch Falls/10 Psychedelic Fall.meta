@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0f2652ff-7fc6-4495-902b-85147c03cae3",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "10 Psychedelic Fall",
   "deviceType": "INST",
   "comment": "",

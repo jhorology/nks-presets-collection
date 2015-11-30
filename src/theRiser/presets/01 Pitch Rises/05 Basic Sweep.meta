@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9ca3aae0-5379-4e35-ad33-0b170e86c293",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "05 Basic Sweep",
   "deviceType": "INST",
   "comment": "",

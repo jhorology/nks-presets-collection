@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "83fec421-35ab-4db5-b772-730fb1c88608",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "01 Gargly Atonal Rise",
   "deviceType": "INST",
   "comment": "",

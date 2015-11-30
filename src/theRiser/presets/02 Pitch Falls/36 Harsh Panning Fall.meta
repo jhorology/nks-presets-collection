@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "74f48e12-8ba3-446c-b1b4-9dca37b2d423",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "36 Harsh Panning Fall",
   "deviceType": "INST",
   "comment": "",

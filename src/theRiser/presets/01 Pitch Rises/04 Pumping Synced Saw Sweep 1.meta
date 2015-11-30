@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1059d0b1-a229-4982-9248-8e0dd0d0d7b4",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "04 Pumping Synced Saw Sweep 1",
   "deviceType": "INST",
   "comment": "",

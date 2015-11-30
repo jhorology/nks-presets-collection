@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d1141f79-429c-4f4f-bf3d-0b16f00a4ea8",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "05 Horror Chord Swell",
   "deviceType": "INST",
   "comment": "",

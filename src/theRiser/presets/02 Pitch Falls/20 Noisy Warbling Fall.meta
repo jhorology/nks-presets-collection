@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "36df5179-ca08-461c-85f5-b5ba94083c7b",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "20 Noisy Warbling Fall",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7cdd4466-42fc-483e-876b-e0798bb6b8df",
   "types": [
-    ["Modulating Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Rises"],
   "name": "12 Resonant Saw Mod Sweep",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6812ee54-b3dd-4c8b-b31f-cf3e79c5d84e",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "25 Chord Swell 3",
   "deviceType": "INST",
   "comment": "",

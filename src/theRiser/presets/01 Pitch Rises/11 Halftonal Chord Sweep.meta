@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "59052b49-f6d1-42e8-83f5-e946ca4644bf",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "11 Halftonal Chord Sweep",
   "deviceType": "INST",
   "comment": "",

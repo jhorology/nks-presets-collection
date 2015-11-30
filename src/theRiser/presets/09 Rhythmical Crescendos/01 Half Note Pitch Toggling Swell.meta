@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "27cd13c0-dc03-4bf9-b399-0d24420bf8b5",
   "types": [
-    ["Rhythmical Crescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Crescendos"],
   "name": "01 Half Note Pitch Toggling Swell",
   "deviceType": "INST",
   "comment": "",

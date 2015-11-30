@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7b396401-7b20-4fd9-937e-82ca543b1dbf",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "13 Basic Noise Swell",
   "deviceType": "INST",
   "comment": "",

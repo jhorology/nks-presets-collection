@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f4b566be-2aae-444f-b9f4-a7e217f89027",
   "types": [
-    ["Rhythmical Crescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Crescendos"],
   "name": "15 32th Pitch Rise 1",
   "deviceType": "INST",
   "comment": "",

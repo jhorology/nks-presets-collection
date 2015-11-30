@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "fb1532e0-1ae3-46e9-9322-ed4c1dd7ef9f",
   "types": [
-    ["Atonal Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Falls"],
   "name": "01 Windy Atonal Pitch Fall",
   "deviceType": "INST",
   "comment": "",

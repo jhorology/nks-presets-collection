@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7c82d7f6-3066-4b87-9354-a13b340a7eaf",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "39 Mid Resonant Fall",
   "deviceType": "INST",
   "comment": "",

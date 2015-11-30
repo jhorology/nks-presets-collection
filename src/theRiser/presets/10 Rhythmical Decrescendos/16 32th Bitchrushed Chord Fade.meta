@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d43d6772-ad0b-480b-b88c-d419b8417888",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "16 32th Bitchrushed Chord Fade",
   "deviceType": "INST",
   "comment": "",

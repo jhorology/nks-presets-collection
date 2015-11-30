@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "74781455-6f3f-4d5c-a133-1cdedae03106",
   "types": [
-    ["Rhythmical Crescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Crescendos"],
   "name": "02 8th Pitch Rise",
   "deviceType": "INST",
   "comment": "",

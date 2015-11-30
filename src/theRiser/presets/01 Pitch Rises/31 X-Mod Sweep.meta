@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "828484f3-ebce-459c-95bb-e1b60bcd2ce8",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "31 X-Mod Sweep",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7bc9b779-a240-4abf-bbfe-31ae82915cf7",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "16 Euphoric XMod Sweep",
   "deviceType": "INST",
   "comment": "",

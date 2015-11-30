@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "565c6732-4d04-4a0f-903f-63eb797d7399",
   "types": [
-    ["Rhythmical Decrescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Decrescendos"],
   "name": "09 16th Reso Fall",
   "deviceType": "INST",
   "comment": "",

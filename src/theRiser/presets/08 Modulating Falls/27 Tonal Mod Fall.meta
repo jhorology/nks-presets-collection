@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "09f20791-1b0c-4222-b1bf-7b8d3dd93f4c",
   "types": [
-    ["Modulating Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Falls"],
   "name": "27 Tonal Mod Fall",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "831db8b7-e1a1-4279-9fd3-e0e80e45fec0",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "24 Atonal Mod To Chord Fall",
   "deviceType": "INST",
   "comment": "",

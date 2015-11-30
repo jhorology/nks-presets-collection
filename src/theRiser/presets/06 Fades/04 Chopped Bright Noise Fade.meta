@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3933ec48-1a2e-4f9c-ab88-46a124ea60d5",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "04 Chopped Bright Noise Fade",
   "deviceType": "INST",
   "comment": "",

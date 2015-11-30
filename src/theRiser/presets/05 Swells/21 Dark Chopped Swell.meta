@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "74082a13-1799-47d6-bab3-fae2db1c6e7a",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "21 Dark Chopped Swell",
   "deviceType": "INST",
   "comment": "",

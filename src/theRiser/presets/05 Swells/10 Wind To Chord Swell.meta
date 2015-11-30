@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2a6eee2d-7e34-41d8-9add-3bbc619a8d0a",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "10 Wind To Chord Swell",
   "deviceType": "INST",
   "comment": "",

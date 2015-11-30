@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "be49c109-b89a-41e9-b05a-8f965556ed01",
   "types": [
-    ["Atonal Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Falls"],
   "name": "14 Basic Atonal Fall",
   "deviceType": "INST",
   "comment": "",

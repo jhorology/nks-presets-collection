@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9ac27633-a2c0-4ec1-92f1-29baace6e1a2",
   "types": [
-    ["Rhythmical Crescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Crescendos"],
   "name": "14 32th Dark Swell",
   "deviceType": "INST",
   "comment": "",

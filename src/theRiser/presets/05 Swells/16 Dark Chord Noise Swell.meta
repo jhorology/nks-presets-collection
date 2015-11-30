@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "764a665a-2d96-4f30-bfe0-8a7573e26b66",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "16 Dark Chord Noise Swell",
   "deviceType": "INST",
   "comment": "",

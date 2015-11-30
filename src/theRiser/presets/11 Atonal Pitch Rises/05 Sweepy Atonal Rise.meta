@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e8ec73ba-3d63-4205-ae75-bc0eef792082",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "05 Sweepy Atonal Rise",
   "deviceType": "INST",
   "comment": "",

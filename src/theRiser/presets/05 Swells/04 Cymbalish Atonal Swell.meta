@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "baccec3e-aeb6-418d-a365-0f8c97823b62",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "04 Cymbalish Atonal Swell",
   "deviceType": "INST",
   "comment": "",

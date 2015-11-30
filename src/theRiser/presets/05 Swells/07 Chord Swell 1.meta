@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "827f3532-7eb7-4a91-89bc-c339efd8ff3a",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "07 Chord Swell 1",
   "deviceType": "INST",
   "comment": "",

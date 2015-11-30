@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "89a37192-876c-46b7-8cfb-49e108d429c8",
   "types": [
-    ["Modulating Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Falls"],
   "name": "16 Noisy Mod Fade",
   "deviceType": "INST",
   "comment": "",

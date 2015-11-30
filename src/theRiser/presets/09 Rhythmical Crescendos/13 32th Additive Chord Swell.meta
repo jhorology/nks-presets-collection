@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4d4993bc-630f-4cff-8aff-f4fed75192df",
   "types": [
-    ["Rhythmical Crescendos"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Rhythmical Crescendos"],
   "name": "13 32th Additive Chord Swell",
   "deviceType": "INST",
   "comment": "",

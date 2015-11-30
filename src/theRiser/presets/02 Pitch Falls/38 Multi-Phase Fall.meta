@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4277ecaa-8b5e-4cea-a8de-bdcbe776cd5d",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "38 Multi-Phase Fall",
   "deviceType": "INST",
   "comment": "",

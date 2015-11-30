@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ee070bb6-706f-4037-9124-4bb561620a53",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "08 X-Mod Atonal Pitch Rise",
   "deviceType": "INST",
   "comment": "",

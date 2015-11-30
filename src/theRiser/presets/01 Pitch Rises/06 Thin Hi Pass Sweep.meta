@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e666df1f-b36e-4d6b-8897-75d8a7dafade",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "06 Thin Hi Pass Sweep",
   "deviceType": "INST",
   "comment": "",

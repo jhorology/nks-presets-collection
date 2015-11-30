@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4ca9886e-9a28-4df3-abac-aaf69223ad27",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "13 Crushed Fall Then Rise Sweep",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b472e948-f4ee-4e52-a9fe-f0fd962fa525",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "02 Windy Atonal Pitch Rise",
   "deviceType": "INST",
   "comment": "",

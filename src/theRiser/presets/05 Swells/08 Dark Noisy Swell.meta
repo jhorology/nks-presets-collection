@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ed626b3c-73a9-43f4-a6f0-04968e04c0a4",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "08 Dark Noisy Swell",
   "deviceType": "INST",
   "comment": "",

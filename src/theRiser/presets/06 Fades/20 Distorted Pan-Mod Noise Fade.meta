@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b5b88d09-9e34-41af-be38-944a38034477",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "20 Distorted Pan-Mod Noise Fade",
   "deviceType": "INST",
   "comment": "",

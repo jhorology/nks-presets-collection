@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4e30c55f-0526-4d4b-9cd0-fb434b728bef",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "18 Dark Chopped End-Up Swell",
   "deviceType": "INST",
   "comment": "",

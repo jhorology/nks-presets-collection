@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "8a76126f-df94-4649-b6ec-db49f0701663",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "26 High Resonant Fall",
   "deviceType": "INST",
   "comment": "",

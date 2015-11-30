@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7362b9e8-64fc-414b-9b3c-18da256bec29",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "10 Minor Chord Up",
   "deviceType": "INST",
   "comment": "",

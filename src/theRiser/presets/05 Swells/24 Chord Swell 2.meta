@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f8dc42e8-e962-498c-87a4-67d0969f98df",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "24 Chord Swell 2",
   "deviceType": "INST",
   "comment": "",

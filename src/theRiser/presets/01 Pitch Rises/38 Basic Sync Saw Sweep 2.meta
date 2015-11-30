@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3248c32a-b1ac-4329-957a-05c18824d162",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "38 Basic Sync Saw Sweep 2",
   "deviceType": "INST",
   "comment": "",

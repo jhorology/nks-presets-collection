@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cd6d1196-1187-454d-b625-a65002e9ec28",
   "types": [
-    ["Modulating Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Modulating Rises"],
   "name": "16 Low Noise To Chord Mod Rise",
   "deviceType": "INST",
   "comment": "",

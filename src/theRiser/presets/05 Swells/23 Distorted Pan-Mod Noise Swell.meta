@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "118d9733-eee2-430f-92ed-ccc1262181fd",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "23 Distorted Pan-Mod Noise Swell",
   "deviceType": "INST",
   "comment": "",

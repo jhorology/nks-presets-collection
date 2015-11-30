@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a7c1bc6e-a748-46e0-8548-a32de5b75535",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "22 Pitch Rise Sidechain",
   "deviceType": "INST",
   "comment": "",

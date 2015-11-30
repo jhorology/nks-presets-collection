@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "61d02d2b-91ac-4de0-95d6-aebcdf98551c",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "12 Psychedelic Sweep",
   "deviceType": "INST",
   "comment": "",

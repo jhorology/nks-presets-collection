@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3ed971d0-4f31-46fd-bfe6-43c809e2f94c",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "24 Chord Band-Pass Fade",
   "deviceType": "INST",
   "comment": "",

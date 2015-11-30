@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b5566edd-2e40-4be6-98e3-d2cf18a52a48",
   "types": [
-    ["Fades"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Fades"],
   "name": "15 Dark Chopped Falling Fade",
   "deviceType": "INST",
   "comment": "",

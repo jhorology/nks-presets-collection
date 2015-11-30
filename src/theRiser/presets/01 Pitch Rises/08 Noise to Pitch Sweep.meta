@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d6a96417-09b7-4b00-9181-67f69dcb46d4",
   "types": [
-    ["Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Rises"],
   "name": "08 Noise to Pitch Sweep",
   "deviceType": "INST",
   "comment": "",

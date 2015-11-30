@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "084270a7-fe19-4ac0-829f-631d3461ab8e",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "25 Halftonal Chord Fall",
   "deviceType": "INST",
   "comment": "",

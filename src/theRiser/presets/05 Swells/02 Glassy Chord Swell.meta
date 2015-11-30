@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2132db61-42b5-4f97-8d16-a3d8611feca9",
   "types": [
-    ["Swells"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Swells"],
   "name": "02 Glassy Chord Swell",
   "deviceType": "INST",
   "comment": "",

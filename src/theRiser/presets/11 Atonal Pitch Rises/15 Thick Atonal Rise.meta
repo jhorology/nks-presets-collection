@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d22898bf-f071-4036-917e-2657eaac3c44",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "15 Thick Atonal Rise",
   "deviceType": "INST",
   "comment": "",

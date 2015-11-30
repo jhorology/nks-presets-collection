@@ -1,0 +1,914 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Master Volume",
+      "section": "undefined",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Noise Volume Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Sweep Volume Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Chord Volume Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "SweepOsc Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "ChordOsc Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "Filter Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 95,
+      "name": "Filter Noise Active",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 96,
+      "name": "Filter Sweep Active",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 97,
+      "name": "Filter Chord Active",
+      "section": "undefined",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 99,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Chord Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Chord Octave",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "Filter Dist Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "Stereo Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "Invert",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 119,
+      "name": "Chord Freq Follow Sweep",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 120,
+      "name": "Master Low Cut",
+      "section": "undefined",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "Low Cut Frequency",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 125,
+      "name": "Transpose Up Switch-Note",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 126,
+      "name": "Unused3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 127,
+      "name": "Unused4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 128,
+      "name": "Unused5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 129,
+      "name": "Unused6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 20,
+      "name": "Start Value",
+      "section": "Sweep Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 25,
+      "name": "Start Value",
+      "section": "Sweep Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": " Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "Sweep Freqs Notes",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 30,
+      "name": "Start Value",
+      "section": "SweepOsc Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 15,
+      "name": "Start Value",
+      "section": "Noise Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "LFO Depth Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 70,
+      "name": "Start Value",
+      "section": "Noise Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 72,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 75,
+      "name": "Start Value",
+      "section": "Noise Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 35,
+      "name": "Start Value",
+      "section": "Chord Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 55,
+      "name": "Start Value",
+      "section": "Chord Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 56,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 57,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 60,
+      "name": "Start Value",
+      "section": "Chord Brightness",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 64,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 40,
+      "name": "Start Value",
+      "section": "Filter Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 43,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 45,
+      "name": "Start Value",
+      "section": "Filter Reso",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 48,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 114,
+      "name": "Start Value",
+      "section": "Distortion",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 65,
+      "name": "Start Value",
+      "section": "Master Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Master GainLFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 50,
+      "name": "Start Value",
+      "section": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "LFO Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 108,
+      "name": "Rate",
+      "section": "Pumper",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 5,
+      "name": "Time",
+      "section": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "High Cut",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1,
+      "name": "Preset",
+      "section": "Reverb",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "High Cut",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 89,
+      "name": "Start Value",
+      "section": "Effect Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 80,
+      "name": "Rate Start Value",
+      "section": "LFO A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 81,
+      "name": "Rate End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "Rate Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "Depth Start Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Depth End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "Depth Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 86,
+      "name": "Depth Start Value",
+      "section": "LFO B",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Depth End Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Depth Curve Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 122,
+      "name": "Effects",
+      "section": "Lock",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 123,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "Pumper",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 103,
+      "name": "Mode",
+      "section": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "Offset Bars",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Offset Fine",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }]
+  ]
+}

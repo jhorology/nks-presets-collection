@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "fae5483b-8baf-40a3-bf03-582014315df3",
   "types": [
-    ["Pitch Falls"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Pitch Falls"],
   "name": "35 Short Pitch Switch",
   "deviceType": "INST",
   "comment": "",

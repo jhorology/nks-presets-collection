@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ed5ec454-4ed5-445b-81fc-d66d2e813efd",
   "types": [
-    ["Atonal Pitch Rises"]
+    ["Sound Effects"]
   ],
-  "modes": [],
+  "modes": ["Atonal Pitch Rises"],
   "name": "04 Noisy Atonal Rise",
   "deviceType": "INST",
   "comment": "",
