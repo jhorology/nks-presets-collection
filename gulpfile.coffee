@@ -1004,6 +1004,157 @@ gulp.task 'vacuumpro-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.VacuumPro.dir}/presets"
 
+# suggest mapping
+gulp.task 'vacuumpro-suggest-mapping', ->
+  prefixes = [
+    'Smart'
+    'Master'
+    'Delay'
+    'A Glide'
+    'A VTO 1'
+    'A VTO 2'
+    'A HPF'
+    'A LPF'
+    'A Env 1'
+    'A Env 2'
+    'A Env 3'
+    'A Env 4'
+    'A Env'
+    'A LFO 1'
+    'A LFO 2'
+    'A Mod 1'
+    'A Mod 2'
+    'A Velocity'
+    'A'
+    'B Glide'
+    'B VTO 1'
+    'B VTO 2'
+    'B HPF'
+    'B LPF'
+    'B Env 1'
+    'B Env 2'
+    'B Env 3'
+    'B Env 4'
+    'B Env'
+    'B LFO 1'
+    'B LFO 2'
+    'B Mod 1'
+    'B Mod 2'
+    'B Velocity'
+    'B'
+    ]
+  gulp.src ["src/#{$.VacuumPro.dir}/mappings/bitwig-direct-paramater.json"], read: true
+    .pipe data (file) ->
+      flatList = JSON.parse file.contents.toString()
+      mapping =
+        ni8: []
+      groups = _.groupBy flatList, (param) ->
+        group = _.find prefixes, (prefix) ->
+          (param.name.indexOf prefix) is 0
+        group ?= 'undefined'
+      console.info beautify (JSON.stringify groups), indent_size: $.json_indent
+      makepages = (section, del) ->
+        c = 0
+        pages = []
+        page = []
+        for param in groups[section]
+          page.push if c is 0
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section} ", '' else param.name
+            section: section
+            vflag: false
+          else
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section} ", '' else param.name
+            vflag: false
+          if c++ is 8
+            pages.push page
+            page = []
+            c = 0
+        if c
+          for i in [c...8]
+            page.push
+              autoname: false
+              vflag: false
+          pages.push page
+          pages
+      Array.prototype.push.apply mapping.ni8, makepages 'undefined', false
+      for prefix in prefixes
+        Array.prototype.push.apply mapping.ni8, makepages prefix, true
+      json = beautify (JSON.stringify mapping), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      mapping
+    .pipe rename basename: 'default-suggest'
+    .pipe gulp.dest "src/#{$.VacuumPro.dir}/mappings"
+
+# check mapping
+gulp.task 'vacuumpro-check-default-mapping', ->
+  gulp.src ["src/#{$.VacuumPro.dir}/mappings/default.json"], read: true
+    .pipe data (file) ->
+      mapping = JSON.parse file.contents.toString()
+      for page in mapping.ni8
+        assert.ok page.length is 8, "items per page shoud be 8.\n #{JSON.stringify page}"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'vacuumpro-dist', [
+  'vacuumpro-dist-image'
+  'vacuumpro-dist-database'
+  'vacuumpro-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'vacuumpro-dist-image', ->
+  _dist_image $.VacuumPro.dir, $.VacuumPro.vendor
+
+# copy database resources to dist folder
+gulp.task 'vacuumpro-dist-database', ->
+  _dist_database $.VacuumPro.dir, $.VacuumPro.vendor
+
+# build presets file to dist folder
+gulp.task 'vacuumpro-dist-presets', ->
+  _dist_presets $.VacuumPro.dir, $.VacuumPro.magic
+
+# check
+gulp.task 'vacuumpro-check-dist-presets', ->
+  _check_dist_presets $.VacuumPro.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'vacuumpro-deploy', [
+  'vacuumpro-deploy-resources'
+  'vacuumpro-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'vacuumpro-deploy-resources', [
+  'vacuumpro-dist-image'
+  'vacuumpro-dist-database'
+  ], ->
+    _deploy_resources $.VacuumPro.dir
+
+# copy database resources to local environment
+gulp.task 'vacuumpro-deploy-presets', [
+  'vacuumpro-dist-presets'
+  ] , ->
+    _deploy_presets $.VacuumPro.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'vacuumpro-release',['vacuumpro-dist'], ->
+  _release $.VacuumPro.dir
+    
+
 # ---------------------------------------------------------------
 # end Air Music Technology VacuumPro
 #
@@ -2320,7 +2471,7 @@ gulp.task 'discoverypro-suggest-mapping', ->
     .pipe gulp.dest "src/#{$.DiscoveryPro.dir}/mappings"
 
 
-# suggest mapping
+# check mapping
 gulp.task 'discoverypro-check-default-mapping', ->
   gulp.src ["src/#{$.DiscoveryPro.dir}/mappings/default.json"], read: true
     .pipe data (file) ->

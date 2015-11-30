@@ -2,6 +2,83 @@
   "ni8": [
     [{
       "autoname": false,
+      "id": 0,
+      "name": "Volume Trim",
+      "section": "undefined",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Modulation Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Modulation Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Modulation Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Modulation Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "Part A On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 147,
+      "name": "Part B On",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 204,
+      "name": "Doubling",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 205,
+      "name": "Polyphony",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 206,
+      "name": "Modwheel",
+      "section": "undefined",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 217,
+      "name": "Eco Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 209,
       "name": "Complexity",
       "section": "Smart",
@@ -44,86 +121,32 @@
     }],
     [{
       "autoname": false,
-      "id": 53,
-      "name": "On",
-      "section": "Part A",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 103,
-      "name": "Level",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 147,
-      "name": "On",
-      "section": "Part B",
-      "vflag": false
-    }, {
-      "id": 197,
-      "name": "Level",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 204,
-      "name": "Double",
-      "section": "Master",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 205,
-      "name": "Poly",
-      "vflag": false
-    }, {
-      "autoname": false,
       "id": 207,
       "name": "Level",
+      "section": "Master",
       "vflag": false
     }, {
       "autoname": false,
       "id": 208,
       "name": "Width",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
-      "id": 2,
-      "name": "On",
-      "section": "Arp",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 3,
-      "name": "Mode",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 4,
-      "name": "Rate",
-      "vflag": false
-    }, {
-      "autoname": true,
       "vflag": false
     }, {
       "autoname": false,
-      "id": 5,
-      "name": "Type",
-      "section": "Cho/Phs",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 6,
-      "name": "Rate",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 7,
-      "name": "Mix",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 8,
-      "name": "Depth",
       "vflag": false
     }],
     [{
@@ -168,6 +191,36 @@
     }],
     [{
       "autoname": false,
+      "id": 32,
+      "name": "Time",
+      "section": "A Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 16,
       "name": "Shape",
       "section": "A VTO 1",
@@ -190,31 +243,58 @@
     }, {
       "autoname": false,
       "id": 20,
-      "name": "Env2Shp",
+      "name": "Env To Shape",
       "vflag": false
     }, {
       "autoname": false,
       "id": 21,
-      "name": "Dly Tm",
+      "name": "Delay Time",
       "vflag": false
     }, {
       "autoname": false,
       "id": 22,
-      "name": "Dly Amt",
+      "name": "Delay Amount",
       "vflag": false
     }, {
       "autoname": false,
       "id": 23,
       "name": "Quad Detune",
       "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Mix",
+      "vflag": false
     }],
     [{
       "autoname": false,
       "id": 88,
-      "name": "Repitch",
+      "name": "Delay Repitch",
       "section": "A VTO 1",
       "vflag": false
     }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
       "autoname": false,
       "id": 24,
       "name": "Shape",
@@ -238,58 +318,57 @@
     }, {
       "autoname": false,
       "id": 28,
-      "name": "Env2Shap",
+      "name": "Env To Shape",
       "vflag": false
     }, {
       "autoname": false,
       "id": 29,
-      "name": "Dly Tm",
+      "name": "Delay Time",
       "vflag": false
     }, {
       "autoname": false,
       "id": 30,
-      "name": "Dly Amt",
+      "name": "Delay Amount",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 31,
       "name": "Quad Detune",
-      "section": "A VTO 2",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 87,
-      "name": "Sync",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 89,
-      "name": "Repitch",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 35,
-      "name": "VTO 1",
-      "section": "A VTO Mix",
       "vflag": false
     }, {
       "autoname": false,
       "id": 36,
-      "name": "VTO 2",
+      "name": "Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 87,
+      "name": "Sync",
+      "section": "A VTO 2",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 37,
-      "name": "Drive",
+      "id": 89,
+      "name": "Delay Repitch",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 34,
-      "name": "Ring",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
@@ -301,12 +380,7 @@
     }, {
       "autoname": false,
       "id": 39,
-      "name": "Res",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 102,
-      "name": "HPF/BPF",
+      "name": "Resonance",
       "vflag": false
     }, {
       "autoname": false,
@@ -326,21 +400,18 @@
     }, {
       "autoname": false,
       "id": 43,
-      "name": "Key Tr",
+      "name": "Keytracking",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 44,
-      "name": "Routing",
+      "id": 90,
+      "name": "Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
-      "autoname": false,
-      "id": 90,
-      "name": "Gain",
-      "section": "A HPF",
-      "vflag": false
-    }, {
       "autoname": false,
       "id": 45,
       "name": "Cutoff",
@@ -349,7 +420,7 @@
     }, {
       "autoname": false,
       "id": 46,
-      "name": "Res",
+      "name": "Resonance",
       "vflag": false
     }, {
       "autoname": false,
@@ -369,54 +440,13 @@
     }, {
       "autoname": false,
       "id": 50,
-      "name": "Key Tr",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
-      "id": 51,
-      "section": "A AGE",
-      "name": "Drift",
+      "name": "Keytracking",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 52,
-      "name": "Dust",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 54,
-      "name": "Volume",
-      "section": "A VTA",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 55,
-      "name": "Shape",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 56,
-      "name": "Pan",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 32,
-      "name": "Glide Tm",
-      "section": "A Setup",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 33,
-      "name": "Glide Md",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 67,
-      "name": "Retrig",
       "vflag": false
     }],
     [{
@@ -443,7 +473,7 @@
     }, {
       "autoname": false,
       "id": 61,
-      "name": "Vel Mod",
+      "name": "Velocity Mod",
       "vflag": false
     }, {
       "autoname": false,
@@ -453,8 +483,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "id": 91,
-      "name": "Select",
       "vflag": false
     }],
     [{
@@ -481,7 +509,7 @@
     }, {
       "autoname": false,
       "id": 101,
-      "name": "Vel Mod",
+      "name": "Velocity Mod",
       "vflag": false
     }, {
       "autoname": false,
@@ -517,7 +545,7 @@
     }, {
       "autoname": false,
       "id": 66,
-      "name": "Vel Mod",
+      "name": "Velocity Mod",
       "vflag": false
     }, {
       "autoname": false,
@@ -532,13 +560,13 @@
     [{
       "autoname": false,
       "id": 92,
-      "name": "Start",
+      "name": "Start Level",
       "section": "A Env 4",
       "vflag": false
     }, {
       "autoname": false,
       "id": 93,
-      "name": "Attack",
+      "name": "Attack Time",
       "vflag": false
     }, {
       "autoname": false,
@@ -553,7 +581,37 @@
     }, {
       "autoname": false,
       "id": 96,
-      "name": "Dest",
+      "name": "Dest.",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 67,
+      "name": "Retrigger",
+      "section": "A Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
@@ -589,7 +647,7 @@
     }, {
       "autoname": false,
       "id": 76,
-      "name": "Dest",
+      "name": "Destination",
       "vflag": false
     }, {
       "autoname": false,
@@ -624,6 +682,19 @@
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 77,
       "name": "Source",
       "section": "A Mod 1",
@@ -636,7 +707,19 @@
     }, {
       "autoname": false,
       "id": 81,
-      "name": "Dest",
+      "name": "Destination",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
@@ -656,13 +739,29 @@
     }, {
       "autoname": false,
       "id": 82,
-      "name": "Dest",
+      "name": "Destination",
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 83,
       "name": "to Amp",
-      "section": "A Vel",
+      "section": "A Velocity",
       "vflag": false
     }, {
       "autoname": false,
@@ -673,6 +772,169 @@
       "autoname": false,
       "id": 85,
       "name": "to LPF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2,
+      "name": "Arp On",
+      "section": "A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Arp Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Arp Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Ringmodulation",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Mix Drive",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Filter Routing",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "VTO Drift",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Age Dust",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "VTA Volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 55,
+      "name": "VTA Shape",
+      "section": "A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 56,
+      "name": "VTA Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Unused 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Bandpass",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 103,
+      "name": "Part Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "Unused 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Unused 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Unused 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Unused 5",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 108,
+      "name": "Unused 6",
+      "section": "A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Unused 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 126,
+      "name": "Time",
+      "section": "B Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 127,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
@@ -705,31 +967,58 @@
     }, {
       "autoname": false,
       "id": 114,
-      "name": "Env2Shp",
+      "name": "Env To Shape",
       "vflag": false
     }, {
       "autoname": false,
       "id": 115,
-      "name": "Dly Tm",
+      "name": "Delay Time",
       "vflag": false
     }, {
       "autoname": false,
       "id": 116,
-      "name": "Dly Amt",
+      "name": "Delay Amount",
       "vflag": false
     }, {
       "autoname": false,
       "id": 117,
       "name": "Quad Detune",
       "vflag": false
+    }, {
+      "autoname": false,
+      "id": 129,
+      "name": "Mix",
+      "vflag": false
     }],
     [{
       "autoname": false,
       "id": 182,
-      "name": "Repitch",
+      "name": "Delay Repitch",
       "section": "B VTO 1",
       "vflag": false
     }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
       "autoname": false,
       "id": 118,
       "name": "Shape",
@@ -753,58 +1042,57 @@
     }, {
       "autoname": false,
       "id": 122,
-      "name": "Env2Shap",
+      "name": "Env To Shape",
       "vflag": false
     }, {
       "autoname": false,
       "id": 123,
-      "name": "Dly Tm",
+      "name": "Delay Time",
       "vflag": false
     }, {
       "autoname": false,
       "id": 124,
-      "name": "Dly Amt",
+      "name": "Delay Amount",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 125,
       "name": "Quad Detune",
-      "section": "B VTO 2",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 181,
-      "name": "Sync",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 183,
-      "name": "Repitch",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 129,
-      "name": "VTO 1",
-      "section": "B VTO Mix",
       "vflag": false
     }, {
       "autoname": false,
       "id": 130,
-      "name": "VTO 2",
+      "name": "Mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 181,
+      "name": "Sync",
+      "section": "B VTO 2",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 131,
-      "name": "Drive",
+      "id": 183,
+      "name": "Delay Repitch",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 128,
-      "name": "Ring",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
@@ -816,12 +1104,7 @@
     }, {
       "autoname": false,
       "id": 133,
-      "name": "Res",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 196,
-      "name": "HPF/BPF",
+      "name": "Resonance",
       "vflag": false
     }, {
       "autoname": false,
@@ -841,21 +1124,18 @@
     }, {
       "autoname": false,
       "id": 137,
-      "name": "Key Tr",
+      "name": "Keytracking",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 138,
-      "name": "Routing",
+      "id": 184,
+      "name": "Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
-      "autoname": false,
-      "id": 184,
-      "name": "Gain",
-      "section": "B HPF",
-      "vflag": false
-    }, {
       "autoname": false,
       "id": 139,
       "name": "Cutoff",
@@ -884,54 +1164,13 @@
     }, {
       "autoname": false,
       "id": 144,
-      "name": "Key Tr",
-      "vflag": false
-    }, {
-      "autoname": true,
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
-      "id": 145,
-      "name": "Drift",
-      "section": "B AGE",
+      "name": "Keytracking",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 146,
-      "name": "Drift",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 148,
-      "name": "Volume",
-      "section": "B VTA",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 149,
-      "name": "Shape",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 150,
-      "name": "Pan",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 126,
-      "name": "Glide Tm",
-      "section": "B Setup",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 127,
-      "name": "Glide Md",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 161,
-      "name": "Retrig",
       "vflag": false
     }],
     [{
@@ -958,7 +1197,7 @@
     }, {
       "autoname": false,
       "id": 155,
-      "name": "Vel Mod",
+      "name": "Velocity Mod",
       "vflag": false
     }, {
       "autoname": false,
@@ -968,8 +1207,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "id": 185,
-      "name": "Select",
       "vflag": false
     }],
     [{
@@ -996,7 +1233,7 @@
     }, {
       "autoname": false,
       "id": 195,
-      "name": "Vel Mod",
+      "name": "Velocity Mod",
       "vflag": false
     }, {
       "autoname": false,
@@ -1032,7 +1269,7 @@
     }, {
       "autoname": false,
       "id": 160,
-      "name": "Vel Mod",
+      "name": "Velocity Mod",
       "vflag": false
     }, {
       "autoname": false,
@@ -1047,13 +1284,13 @@
     [{
       "autoname": false,
       "id": 186,
-      "name": "Start",
+      "name": "Start Level",
       "section": "B Env 4",
       "vflag": false
     }, {
       "autoname": false,
       "id": 187,
-      "name": "Attack",
+      "name": "Attack Time",
       "vflag": false
     }, {
       "autoname": false,
@@ -1068,7 +1305,37 @@
     }, {
       "autoname": false,
       "id": 190,
-      "name": "Dest",
+      "name": "Dest.",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 161,
+      "name": "Retrigger",
+      "section": "B Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 185,
+      "name": "Select",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
@@ -1104,7 +1371,7 @@
     }, {
       "autoname": false,
       "id": 170,
-      "name": "Dest",
+      "name": "Destination",
       "vflag": false
     }, {
       "autoname": false,
@@ -1139,6 +1406,19 @@
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 171,
       "name": "Source",
       "section": "B Mod 1",
@@ -1151,7 +1431,19 @@
     }, {
       "autoname": false,
       "id": 175,
-      "name": "Dest",
+      "name": "Destination",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
@@ -1171,13 +1463,29 @@
     }, {
       "autoname": false,
       "id": 176,
-      "name": "Dest",
+      "name": "Destination",
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 177,
       "name": "to Amp",
-      "section": "B Vel",
+      "section": "B Velocity",
       "vflag": false
     }, {
       "autoname": false,
@@ -1188,6 +1496,15 @@
       "autoname": false,
       "id": 179,
       "name": "to LPF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
