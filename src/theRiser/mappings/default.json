@@ -31,13 +31,13 @@
       "name": "Filter",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 111,
       "name": "Width",
       "section": "Master",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 0,
       "name": "Volume",
       "vflag": false
