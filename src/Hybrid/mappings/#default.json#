@@ -281,6 +281,74 @@
     }],
     [{
       "autoname": false,
+      "id": 158,
+      "name": "Saturation",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 163,
+      "name": "FM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 164,
+      "name": "FM Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 165,
+      "name": "Mod Dest1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 166,
+      "name": "Mod Dest2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 167,
+      "name": "Mod Dest3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 168,
+      "name": "Mod Src1",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 169,
+      "name": "Mod Src2",
+      "section": "PartA Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 170,
+      "name": "Mod Src3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 171,
+      "name": "Mod Lev1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 172,
+      "name": "Mod Lev2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 173,
+      "name": "Mod Lev3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 296,
+      "name": "Env",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 297,
       "name": "Routing",
       "section": "PartA Filter 2",
@@ -356,74 +424,6 @@
       "autoname": false,
       "id": 317,
       "name": "Distortion Mode",
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
-      "id": 158,
-      "name": "Saturation",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 163,
-      "name": "FM",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 164,
-      "name": "FM Mix",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 165,
-      "name": "Mod Dest1",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 166,
-      "name": "Mod Dest2",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 167,
-      "name": "Mod Dest3",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 168,
-      "name": "Mod Src1",
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
-      "id": 169,
-      "name": "Mod Src2",
-      "section": "PartA Filter",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 170,
-      "name": "Mod Src3",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 171,
-      "name": "Mod Lev1",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 172,
-      "name": "Mod Lev2",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 173,
-      "name": "Mod Lev3",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 296,
-      "name": "Env",
       "vflag": false
     }],
     [{

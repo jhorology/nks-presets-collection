@@ -2,49 +2,6 @@
   "ni8": [
     [{
       "autoname": false,
-      "id": 679,
-      "name": "1",
-      "section": "Morph",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 680,
-      "name": "2",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 681,
-      "name": "3",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 682,
-      "name": "4",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 683,
-      "name": "1",
-      "section": "Morph Assign",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 684,
-      "name": "2",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 685,
-      "name": "3",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 686,
-      "name": "4",
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
       "id": 0,
       "name": "Unison Voices",
       "section": "undefined",
@@ -80,7 +37,93 @@
       "name": "Link Step Sequencer",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
+      "id": 670,
+      "name": "Reserved2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 671,
+      "name": "Reserved3",
+      "section": "undefined",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 672,
+      "name": "Reserved4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 673,
+      "name": "Reserved5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 674,
+      "name": "Reserved6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 675,
+      "name": "Reserved7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 676,
+      "name": "Reserved8",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 677,
+      "name": "Reserved9",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 678,
+      "name": "Reserved10",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 679,
+      "name": "1",
+      "section": "Morph",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 680,
+      "name": "2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 681,
+      "name": "3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 682,
+      "name": "4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 683,
+      "name": "1 Ctrl Assign",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 684,
+      "name": "2 Ctrl Assign",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 685,
+      "name": "3 Ctrl Assign",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 686,
+      "name": "4 Ctrl Assign",
       "vflag": false
     }],
     [{
@@ -239,44 +282,32 @@
     }],
     [{
       "autoname": false,
+      "id": 284,
+      "name": "Distortion Mode",
+      "section": "PartA Filter 1",
+      "vflag": false
+    }, {
+      "autoname": false,
       "id": 285,
       "name": "Mode",
-      "section": "A:Filt 1",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 157,
-      "name": "Type",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 294,
-      "name": "Cutoff",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 295,
-      "name": "Reso",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 299,
-      "name": "Saturation",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 315,
-      "name": "Gain",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 161,
-      "name": "Envelope",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 284,
-      "name": "Dist Mode",
       "vflag": false
     }],
     [{
@@ -289,6 +320,11 @@
       "autoname": false,
       "id": 298,
       "name": "Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 299,
+      "name": "Saturation",
       "vflag": false
     }, {
       "autoname": false,
@@ -360,6 +396,12 @@
     }],
     [{
       "autoname": false,
+      "id": 157,
+      "name": "Type",
+      "section": "PartA Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
       "id": 158,
       "name": "Saturation",
       "vflag": false
@@ -422,11 +464,27 @@
       "vflag": false
     }, {
       "autoname": false,
+      "id": 294,
+      "name": "Cutoff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 295,
+      "name": "Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
       "id": 296,
       "name": "Env",
       "vflag": false
     }],
     [{
+      "autoname": false,
+      "id": 315,
+      "name": "Gain",
+      "section": "PartA Filter",
+      "vflag": false
+    }, {
       "autoname": false,
       "vflag": false
     }, {
@@ -1776,6 +1834,11 @@
       "autoname": false,
       "id": 160,
       "name": "Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 161,
+      "name": "Envelope",
       "vflag": false
     }, {
       "autoname": false,

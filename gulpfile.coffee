@@ -921,6 +921,114 @@ gulp.task 'hybrid-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.Hybrid.dir}/presets"
     
+# suggest mapping
+gulp.task 'hybrid-suggest-mapping', ->
+  prefixes = [
+    'Morph'
+    'Chorus'
+    'Delay'
+    'Reverb'
+    'PartA Filter 1'
+    'PartA Filter 2'
+    'PartA Filter'
+    'PartA Oscillator1'
+    'PartA Oscillator2'
+    'PartA Oscillator3'
+    'PartA Env1'
+    'PartA Env2'
+    'PartA EnvF'
+    'PartA EnvA'
+    'PartA LFO1'
+    'PartA LFO2'
+    'PartA LFO3'
+    'PartA Pumper'
+    'PartA SSeq'
+    'PartA Gate'
+    'PartA Note'
+    'PartA Velocity'
+    'PartA CtrlSeq1'
+    'PartA CtrlSeq2'
+    'PartA'
+    'PartB Filter 1'
+    'PartB Filter 2'
+    'PartB Filter'
+    'PartB Oscillator1'
+    'PartB Oscillator2'
+    'PartB Oscillator3'
+    'PartB Env1'
+    'PartB Env2'
+    'PartB EnvF'
+    'PartB EnvA'
+    'PartB LFO1'
+    'PartB LFO2'
+    'PartB LFO3'
+    'PartB Pumper'
+    'PartB SSeq'
+    'PartB Gate'
+    'PartB Note'
+    'PartB Velocity'
+    'PartB CtrlSeq1'
+    'PartB CtrlSeq2'
+    'PartB'
+    ]
+  gulp.src ["src/#{$.Hybrid.dir}/mappings/bitwig-direct-paramater.json"], read: true
+    .pipe data (file) ->
+      flatList = JSON.parse file.contents.toString()
+      mapping =
+        ni8: []
+      groups = _.groupBy flatList, (param) ->
+        group = _.find prefixes, (prefix) ->
+          (param.name.indexOf prefix) is 0
+        group ?= 'undefined'
+      console.info beautify (JSON.stringify groups), indent_size: $.json_indent
+      makepages = (section, del) ->
+        c = 0
+        pages = []
+        page = []
+        for param in groups[section]
+          page.push if c is 0
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section} ", '' else param.name
+            section: section
+            vflag: false
+          else
+            autoname: false
+            id: parseInt param.id[14..]
+            name: if del then param.name.replace "#{section} ", '' else param.name
+            vflag: false
+          c++
+          if c is 8
+            pages.push page
+            page = []
+            c = 0
+        if c
+          for i in [c...8]
+            page.push
+              autoname: false
+              vflag: false
+          pages.push page
+        pages
+      Array.prototype.push.apply mapping.ni8, makepages 'undefined', false
+      for prefix in prefixes
+        Array.prototype.push.apply mapping.ni8, makepages prefix, true
+      json = beautify (JSON.stringify mapping), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      mapping
+    .pipe rename basename: 'default-suggest'
+    .pipe gulp.dest "src/#{$.Hybrid.dir}/mappings"
+
+# check mapping
+gulp.task 'hybrid-check-default-mapping', ->
+  gulp.src ["src/#{$.Hybrid.dir}/mappings/default.json"], read: true
+    .pipe data (file) ->
+      mapping = JSON.parse file.contents.toString()
+      for page in mapping.ni8
+        assert.ok page.length is 8, "items per page shoud be 8.\n #{JSON.stringify page}"
+
+
+
 # ---------------------------------------------------------------
 # end Air Music Technology Hybrid
 #
