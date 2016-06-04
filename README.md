@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-17902/25192(71%)
+17902/25886(69%)
 
 |          |raw presets|mappings|meta|resources|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:------:|:---------:|
@@ -25,6 +25,7 @@ NKS(Native Kontrol Standard) presets collection
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|||||
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:||||||
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Nov 9, 2015|
+|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||||||
 
  1. Plugin name(root of bankchain) were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.

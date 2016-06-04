@@ -272,6 +272,15 @@ order by
 '''
 
   #
+  # Arturia Analog Lab 2
+  #-------------------------------------------
+  AnalogLab2:
+    dir: 'Analog Lab 2'
+    vendor: 'Arturia'
+    magic: 'Ala2'
+    db: '/Library/Arturia/Presets/db.db3'
+    
+  #
   # discoDSP Discovery Pro
   #-------------------------------------------
   DiscoveryPro:
@@ -2367,6 +2376,43 @@ gulp.task 'analoglab-release',['analoglab-dist'], ->
 # end Arturia Analog Lab
 #
 
+# ---------------------------------------------------------------
+# Arturia Analog Lab 2
+#
+# notes
+#  - Komplete Kontrol 1.5.1(R3132)
+#  - Analog Lab 2  2.0.1.51
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'analoglab2-print-default-meta', ->
+  _print_default_meta $.AnalogLab2.dir
+
+# print mapping of _Default.nksf
+gulp.task 'analoglab2-print-default-mapping', ->
+  _print_default_mapping $.AnalogLab2.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'analoglab2-print-magic', ->
+  _print_plid $.AnalogLab2.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'analoglab2-generate-default-mapping', ->
+  _generate_default_mapping $.AnalogLab2.dir
+
+# extract PCHK chunk from ableton .adg files.
+gulp.task 'analoglab2-extract-raw-presets', ->
+  gulp.src ["temp/#{$.AnalogLab2.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.AnalogLab2.dir}/presets"
+
+# ---------------------------------------------------------------
+# end Arturia Analog Lab2
+#
 
 # ---------------------------------------------------------------
 # discoDSP Discovery Pro
