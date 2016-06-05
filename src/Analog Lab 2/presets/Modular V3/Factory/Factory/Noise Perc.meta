@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Noise Perc",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4b8d007e-64e8-484d-aeb9-73e5d7c736e2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Slow attack mix of saw waves and little white noise.  Works well at all registers. Oscillator 3 is modulation source triggered by the mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "OB-V",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "efca06ad-a221-434e-84b7-a57bb633feb1",
+  "vendor": "Arturia"
+}

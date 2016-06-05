@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Softer Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1be1d3fe-2566-4cfc-9c2c-197ff04c213f",
+  "vendor": "Arturia"
+}

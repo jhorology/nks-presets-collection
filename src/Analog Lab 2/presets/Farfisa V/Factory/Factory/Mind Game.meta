@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Gentle reverby organ encircled by a swarm of mildy annoyed bees. Repeat and Percussion controls govern the intensity of bees' anger.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Mind Game",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "84e3243e-25cd-490e-9734-a88a5d76b3e1",
+  "vendor": "Arturia"
+}

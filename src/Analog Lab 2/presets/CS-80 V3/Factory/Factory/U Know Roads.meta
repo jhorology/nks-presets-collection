@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "U Know Roads",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2743ec7f-df54-4b31-8130-baf151757274",
+  "vendor": "Arturia"
+}

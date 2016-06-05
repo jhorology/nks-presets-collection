@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Quiet"],
+  "name": "Square Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1f8468fd-ce7d-4804-966b-2fddab4a8c10",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Tristesse",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e67ac5e6-6bb2-4df6-9f38-61e26773068e",
+  "vendor": "Arturia"
+}

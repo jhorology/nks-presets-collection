@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Quiet"],
+  "name": "New E-Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "de4dd3b0-2e40-4ef5-988b-ece921e48f54",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Short"],
+  "name": "Elec Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5caec5aa-dca2-4897-8e0c-8c873e181627",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Hard"],
+  "name": "Crispy Cluster",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "077946d3-fb78-4867-a231-a1b69fde119d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Modweel org",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "dfd2558e-e06e-4e41-ba14-c5da63a841c7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex"],
+  "name": "Liquid Wobble",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7d1045b3-32be-4765-9ff2-55207fd8de8a",
+  "vendor": "Arturia"
+}

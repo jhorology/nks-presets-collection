@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Long"],
+  "name": "Motion Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7359c568-8b6e-43e3-a09c-22599b95e062",
+  "vendor": "Arturia"
+}

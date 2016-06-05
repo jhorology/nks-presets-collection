@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Filtersweep",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c8a6356d-8480-4be9-b966-5e1285a30dda",
+  "vendor": "Arturia"
+}

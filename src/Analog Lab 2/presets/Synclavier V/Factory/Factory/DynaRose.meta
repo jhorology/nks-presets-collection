@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "One of the remarkable FM electric piano sound.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky", "Simple", "Soft"],
+  "name": "DynaRose",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6d27969b-0be5-437c-b6e7-7e7ee07858ed",
+  "vendor": "Arturia"
+}

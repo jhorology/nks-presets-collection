@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "River Movement",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0692c5e5-656d-4925-95ba-68a8ede6ea45",
+  "vendor": "Arturia"
+}

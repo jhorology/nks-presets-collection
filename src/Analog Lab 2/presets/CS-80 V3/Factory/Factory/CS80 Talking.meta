@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark"],
+  "name": "CS80 Talking",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "90008a8d-7533-404c-af21-e785465f5bfd",
+  "vendor": "Arturia"
+}

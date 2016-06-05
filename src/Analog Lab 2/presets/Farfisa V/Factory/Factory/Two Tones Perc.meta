@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Two Tones Perc",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "cbb6f3cb-6dc2-4fc5-87e0-01ca563d5b10",
+  "vendor": "Arturia"
+}

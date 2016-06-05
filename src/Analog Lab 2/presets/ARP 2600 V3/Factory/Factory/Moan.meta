@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Moan",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ed0482da-6ff2-461c-95e0-7e061bcf9988",
+  "vendor": "Arturia"
+}

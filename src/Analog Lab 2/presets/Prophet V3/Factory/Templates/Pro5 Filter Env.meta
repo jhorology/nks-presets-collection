@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Pro5 Filter Env",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4661c1c3-6f3d-4844-8140-1b1e20a29753",
+  "vendor": "Arturia"
+}

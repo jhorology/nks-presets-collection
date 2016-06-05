@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Chorus DX",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8650eb9d-ca00-4947-a512-efb5490f09e1",
+  "vendor": "Arturia"
+}

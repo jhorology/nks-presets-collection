@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Highly dynamic bell with a nice tail at the end. Voice detune is assigned to the mod wheel for some nice (a)tonal effects.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky", "Simple", "Soft"],
+  "name": "Bevolve",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9056f2f7-c24f-47ff-8c3a-dc5b68d18d50",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Electro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ba39187f-b30d-4cc8-8867-d8eb580488d3",
+  "vendor": "Arturia"
+}

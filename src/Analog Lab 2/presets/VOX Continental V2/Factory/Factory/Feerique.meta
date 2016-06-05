@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Long", "Short"],
+  "name": "Feerique",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bf09b413-2627-41ce-ae33-ff12cd5c7389",
+  "vendor": "Arturia"
+}

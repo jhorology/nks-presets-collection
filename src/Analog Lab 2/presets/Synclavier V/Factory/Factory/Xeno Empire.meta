@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "this shoud be deleted as i renamed it to slide some",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Noise"],
+  "name": "Xeno Empire",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "11ed3a79-d599-46dd-96f8-42c0853d03f0",
+  "vendor": "Arturia"
+}

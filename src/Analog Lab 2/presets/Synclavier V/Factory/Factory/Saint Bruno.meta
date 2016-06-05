@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Medium class church organ",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Simple", "Quiet"],
+  "name": "Saint Bruno",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "628712e1-0272-49b3-af09-43908919a21b",
+  "vendor": "Arturia"
+}

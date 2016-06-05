@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise"],
+  "name": "Prophet Lead",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "1ff6da65-9df4-4380-a971-20a5d4417d72",
+  "vendor": "Arturia"
+}

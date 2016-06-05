@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Hard"],
+  "name": "Cross Mod",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d9833dc2-258a-41bb-bca9-8c769054c5db",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark"],
+  "name": "Waw Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a3f0cf5c-d2a4-4a2c-9d94-dfc329816cfa",
+  "vendor": "Arturia"
+}

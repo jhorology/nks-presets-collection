@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Electr Gas Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b4fdadbc-ffda-4a25-9389-d29d5689fe99",
+  "vendor": "Arturia"
+}

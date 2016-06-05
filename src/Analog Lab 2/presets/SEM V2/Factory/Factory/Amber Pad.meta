@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Amber Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "23b7dde9-1a2b-4a2a-877a-f6e7d7aefbeb",
+  "vendor": "Arturia"
+}

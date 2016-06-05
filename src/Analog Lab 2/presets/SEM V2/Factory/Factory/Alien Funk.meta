@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Alien Funk",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "34c09991-1c33-4bdc-8834-eaa6d7c75662",
+  "vendor": "Arturia"
+}

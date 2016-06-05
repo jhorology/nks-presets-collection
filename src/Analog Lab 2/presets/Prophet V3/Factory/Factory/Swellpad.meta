@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Swellpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "651d78f9-88a6-4de1-bd6f-c44f512475c5",
+  "vendor": "Arturia"
+}

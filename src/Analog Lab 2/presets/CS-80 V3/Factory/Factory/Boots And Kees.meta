@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Boots And Kees",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c97a8940-41e6-4c02-8e10-0cf288dcef0f",
+  "vendor": "Arturia"
+}

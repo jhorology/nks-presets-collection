@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a somewhat cinematic pad sound with octaved layers",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Bigwave",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1163c454-c4e8-454c-9d08-0cbb3dcb0df2",
+  "vendor": "Arturia"
+}

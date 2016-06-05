@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Dark", "Long"],
+  "name": "Psycho Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ca1ac4a4-5ca9-4b9c-a069-a7bbe2e20313",
+  "vendor": "Arturia"
+}

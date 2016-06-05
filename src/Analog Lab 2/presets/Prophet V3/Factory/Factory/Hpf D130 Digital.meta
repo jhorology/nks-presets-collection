@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid"],
+  "name": "Hpf D130 Digital",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a5057052-a042-42f6-9e12-41640ecbf076",
+  "vendor": "Arturia"
+}

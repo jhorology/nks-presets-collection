@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Pizzimod",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e161a0fa-ae3f-41c8-9b98-17815dd5654f",
+  "vendor": "Arturia"
+}

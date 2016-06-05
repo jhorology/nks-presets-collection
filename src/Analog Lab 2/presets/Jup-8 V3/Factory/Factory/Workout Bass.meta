@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Workout Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3624f132-52fd-47b8-b242-be67e8262ec1",
+  "vendor": "Arturia"
+}

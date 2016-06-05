@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Tour De France",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3b521af8-6589-451e-857c-690deb91beb4",
+  "vendor": "Arturia"
+}

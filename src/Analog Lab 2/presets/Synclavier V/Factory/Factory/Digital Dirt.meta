@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Agressive bass sound using a lower pitched modulator. Be sure to use the mod wheel to make it more aggresive and the pitch bend which is set to 12 semitones for some heavy shifting",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Dark", "Digital", "Hard", "Simple"],
+  "name": "Digital Dirt",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f5180dab-6d10-4ada-808e-4bf1073f8b64",
+  "vendor": "Arturia"
+}

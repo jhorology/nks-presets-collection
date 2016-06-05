@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Everyone Is Happy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d022e669-1f8f-40e7-a66c-22d7cc34080c",
+  "vendor": "Arturia"
+}

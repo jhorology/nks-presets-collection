@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "The mod-wheel transforms this analog-style arpeggio to a more bell-like arpeggio - hence the name.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Morpheggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7bac693d-bb51-4870-ad84-2850aced3d43",
+  "vendor": "Arturia"
+}

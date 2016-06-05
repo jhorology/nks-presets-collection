@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Square Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fd7c4bc7-facd-4d49-afed-cbbf324fef60",
+  "vendor": "Arturia"
+}

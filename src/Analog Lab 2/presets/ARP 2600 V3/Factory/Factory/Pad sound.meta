@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pad sound",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "633b79fb-019b-4c95-9fcb-ed4a610bbb71",
+  "vendor": "Arturia"
+}

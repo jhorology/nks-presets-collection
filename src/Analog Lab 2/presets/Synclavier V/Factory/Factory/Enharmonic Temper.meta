@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Highly playable key sound that's very velocity sensitive so be sure to play it on a keyboard. Mod wheel is assigned to vibrato.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Funky", "Simple"],
+  "name": "Enharmonic Temper",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2df96d79-cf29-4613-92f5-592cac1a2f63",
+  "vendor": "Arturia"
+}

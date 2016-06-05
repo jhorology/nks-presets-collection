@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Old Friend",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e71f4509-e9af-431c-925b-906ff9acbe1b",
+  "vendor": "Arturia"
+}

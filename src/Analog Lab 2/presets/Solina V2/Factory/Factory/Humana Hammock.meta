@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Humana Hammock",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8e02d011-c729-4b72-9796-51e8279d1994",
+  "vendor": "Arturia"
+}

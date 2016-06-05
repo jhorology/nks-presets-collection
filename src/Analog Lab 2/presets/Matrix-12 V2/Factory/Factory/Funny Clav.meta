@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Hard"],
+  "name": "Funny Clav",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "461fed88-f24e-4bcd-91c5-2c0923d35fe7",
+  "vendor": "Arturia"
+}

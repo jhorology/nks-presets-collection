@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Reso Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "be3e5bac-69e7-437c-bf69-a7202ee723ff",
+  "vendor": "Arturia"
+}

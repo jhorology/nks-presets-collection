@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "SonicSevenAttack",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f5c8517c-dd48-4823-94ff-b0540bf9ce07",
+  "vendor": "Arturia"
+}

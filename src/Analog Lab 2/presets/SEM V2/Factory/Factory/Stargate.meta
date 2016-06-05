@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Slowly evolving, filter-opening pad tuned to fifths, with repeats.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Long", "Soft", "Soundtrack"],
+  "name": "Stargate",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1de179b8-c268-4079-9d94-ba5aded4737b",
+  "vendor": "Arturia"
+}

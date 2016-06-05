@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Dusk Zone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c46be889-594f-4dc7-877e-4a1c09600be9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soundtrack"],
+  "name": "Studio A",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "15778f16-f23d-453a-916b-8234cd8bf76c",
+  "vendor": "Arturia"
+}

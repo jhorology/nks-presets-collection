@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Controls Of The Sun",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d8f3e564-3e27-4f9e-b5ef-55a3ee317131",
+  "vendor": "Arturia"
+}

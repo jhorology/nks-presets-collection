@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Wild Space X",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2bc4f291-292c-46d8-bff3-c6324cddb171",
+  "vendor": "Arturia"
+}

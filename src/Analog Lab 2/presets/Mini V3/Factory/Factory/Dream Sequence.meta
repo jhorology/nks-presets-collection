@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient"],
+  "name": "Dream Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7e460362-30b3-4259-b4c4-b2c689ec7aa6",
+  "vendor": "Arturia"
+}

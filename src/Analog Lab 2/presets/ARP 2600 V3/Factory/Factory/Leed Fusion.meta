@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Leed Fusion",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd9be8a2-dd72-4e87-9590-2c0d70b6acf7",
+  "vendor": "Arturia"
+}

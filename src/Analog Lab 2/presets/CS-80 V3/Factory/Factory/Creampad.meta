@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Digital sounding pad in fifths.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Creampad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0d95d866-23a2-4420-9990-3c88d9469f4e",
+  "vendor": "Arturia"
+}

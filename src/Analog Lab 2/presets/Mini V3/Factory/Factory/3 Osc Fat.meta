@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "3 Osc Fat",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "40657ea0-8b54-447e-b960-c95784c4276b",
+  "vendor": "Arturia"
+}

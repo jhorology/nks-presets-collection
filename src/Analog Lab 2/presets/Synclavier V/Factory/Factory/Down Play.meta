@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a one shot arp that works depending on the number of notes you play",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Down Play",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a8b2fe3e-869a-4c46-a2b4-68525f0889e4",
+  "vendor": "Arturia"
+}

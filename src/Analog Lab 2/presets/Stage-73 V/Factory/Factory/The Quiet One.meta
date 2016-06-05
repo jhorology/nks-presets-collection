@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "The Quiet One",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6f0b0d58-4906-48a2-9196-220112899187",
+  "vendor": "Arturia"
+}

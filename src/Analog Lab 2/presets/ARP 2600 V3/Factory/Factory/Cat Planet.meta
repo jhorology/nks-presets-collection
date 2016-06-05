@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Cat Planet",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7e2033cb-3bc9-46a5-b086-86c8ba91fe07",
+  "vendor": "Arturia"
+}

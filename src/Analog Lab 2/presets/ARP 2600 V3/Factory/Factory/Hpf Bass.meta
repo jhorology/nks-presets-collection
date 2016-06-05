@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Hpf Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fb967761-7faf-4847-9da3-54b3db39f14c",
+  "vendor": "Arturia"
+}

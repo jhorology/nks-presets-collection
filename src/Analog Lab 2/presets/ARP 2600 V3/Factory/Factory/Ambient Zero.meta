@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Ambient Zero",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5dec5f78-394d-458d-b38b-75105ffdf2e8",
+  "vendor": "Arturia"
+}

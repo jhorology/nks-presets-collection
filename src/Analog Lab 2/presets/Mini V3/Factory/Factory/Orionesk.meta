@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Orionesk",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c516b33d-161e-4693-82c7-98e63d18bb29",
+  "vendor": "Arturia"
+}

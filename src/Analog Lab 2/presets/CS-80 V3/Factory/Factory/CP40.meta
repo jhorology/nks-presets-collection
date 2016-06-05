@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "CP40",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ab48253e-67d9-4be0-836b-6d08cc7000c8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Evolupad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c3c3a7b6-55d9-48fa-8224-1cee816c9c3d",
+  "vendor": "Arturia"
+}

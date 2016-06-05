@@ -1,0 +1,13 @@
+{
+  "author": "Reek Havok",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Calliope Fuzz",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2357134b-eb62-4c87-bbe4-efeb084a58e2",
+  "vendor": "Arturia"
+}

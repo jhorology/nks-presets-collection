@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Sadly Out Of Tune",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5e70f379-3305-4e68-9dea-844e36e61c22",
+  "vendor": "Arturia"
+}

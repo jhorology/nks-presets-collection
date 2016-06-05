@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Reed Organ 2",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f38991c1-b332-4d75-b17d-f4ea997e638d",
+  "vendor": "Arturia"
+}

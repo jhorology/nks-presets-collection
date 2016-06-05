@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "2 STEPS BD",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e89f38e4-0653-452c-a3fd-de2bf24538cd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Squelchy pulse wave sequence with Mod wheel control of sequence rate. Compelling movement of low pass filter cutoff with sequence.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex"],
+  "name": "TB Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ae35f9d8-1478-4d3a-9024-acae65c6615b",
+  "vendor": "Arturia"
+}

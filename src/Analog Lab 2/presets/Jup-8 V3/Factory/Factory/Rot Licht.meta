@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Simple"],
+  "name": "Rot Licht",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "56f80b9e-62d1-4e31-8223-9e9349b66757",
+  "vendor": "Arturia"
+}

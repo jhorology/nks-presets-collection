@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Spiral Galaxy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a23e3a3f-8ea6-4193-9cf7-85ac7e798622",
+  "vendor": "Arturia"
+}

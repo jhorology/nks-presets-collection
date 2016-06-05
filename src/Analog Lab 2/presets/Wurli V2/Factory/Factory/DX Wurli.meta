@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Soft"],
+  "name": "DX Wurli",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cd07c241-c562-4884-b962-ac375a2c9aa5",
+  "vendor": "Arturia"
+}

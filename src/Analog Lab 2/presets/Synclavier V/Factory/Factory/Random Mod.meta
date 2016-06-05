@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Heavy Modulation Sound Effect with delay. Modwheel controlled Repeat-Arpeggiate",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Random Mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2fcbe254-0ffb-4bfb-9468-3fca71dcb251",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Compare to the Synclavier glide pad on Welcome to the Pleasuredome. MOD WHEEL adds stereo tremolo.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "PleasureDomeSawGlide",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bd5a812a-8e89-4b13-a1bd-304366576ed8",
+  "vendor": "Arturia"
+}

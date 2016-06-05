@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Meditation",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "152c336d-5504-4975-ac19-b89499181e76",
+  "vendor": "Arturia"
+}

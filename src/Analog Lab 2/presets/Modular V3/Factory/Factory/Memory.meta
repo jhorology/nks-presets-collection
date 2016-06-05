@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Memory",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "49840f00-4df0-4783-844c-31df9b51e492",
+  "vendor": "Arturia"
+}

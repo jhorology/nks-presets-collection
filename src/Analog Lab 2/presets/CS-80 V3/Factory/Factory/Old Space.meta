@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Old Space",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cd152c6c-621c-404c-a1b1-1b54af4bccd4",
+  "vendor": "Arturia"
+}

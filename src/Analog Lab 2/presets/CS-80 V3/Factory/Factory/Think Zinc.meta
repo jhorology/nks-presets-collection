@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright"],
+  "name": "Think Zinc",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b9cecc6e-acb6-4acf-bcfd-13056198183f",
+  "vendor": "Arturia"
+}

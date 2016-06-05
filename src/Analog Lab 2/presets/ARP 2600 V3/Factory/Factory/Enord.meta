@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Enord",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f256c329-9057-4476-9c57-90ea74630044",
+  "vendor": "Arturia"
+}

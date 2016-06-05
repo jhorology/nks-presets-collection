@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Use wheel or aftertouch to add  crowling feeling.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Dark", "Digital", "Long", "Soft", "Soundtrack"],
+  "name": "Giant Sandworm",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b3f5de77-24da-4a9d-8251-bcf6e852336f",
+  "vendor": "Arturia"
+}

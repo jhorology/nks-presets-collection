@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sounds Like More",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d55c31fd-071d-480d-921f-71abd397f968",
+  "vendor": "Arturia"
+}

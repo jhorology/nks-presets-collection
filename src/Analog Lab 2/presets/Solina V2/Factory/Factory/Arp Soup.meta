@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Arp Soup",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b893e33d-260d-4a13-8eda-c962bbae6435",
+  "vendor": "Arturia"
+}

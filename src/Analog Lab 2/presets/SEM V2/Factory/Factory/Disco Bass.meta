@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Disco Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4a6c96d6-099f-49e6-836a-dc5fd2e54675",
+  "vendor": "Arturia"
+}

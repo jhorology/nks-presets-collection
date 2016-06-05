@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Noise Up",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "44e57bf7-5bc5-4a30-bc7e-b2528205b930",
+  "vendor": "Arturia"
+}

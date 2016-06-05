@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Clavinet",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d9b72027-0d5e-421c-bd03-ec75d507c194",
+  "vendor": "Arturia"
+}

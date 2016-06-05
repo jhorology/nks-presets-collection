@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Birdla",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2f8f634d-2549-4276-86bc-8005ae79d99a",
+  "vendor": "Arturia"
+}

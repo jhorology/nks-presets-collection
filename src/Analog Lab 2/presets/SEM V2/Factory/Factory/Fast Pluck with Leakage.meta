@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Fast Pluck with Leakage",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d9071986-f9d8-4a16-b424-f0c867202f9e",
+  "vendor": "Arturia"
+}

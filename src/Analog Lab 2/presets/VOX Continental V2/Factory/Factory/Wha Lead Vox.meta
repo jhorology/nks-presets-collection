@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Complex", "Hard"],
+  "name": "Wha Lead Vox",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a0af0226-77fb-4387-9f10-1164d152fc1f",
+  "vendor": "Arturia"
+}

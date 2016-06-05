@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Simple Ton",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2d2f77cf-714d-4978-8c05-9a5badaa2a1a",
+  "vendor": "Arturia"
+}

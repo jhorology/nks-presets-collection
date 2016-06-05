@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Ironically long name for this short, stabby percussive sound. Steel drum. Mod wheel add noise.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Ensemble", "Funky", "Soundtrack", "Evolving"],
+  "name": "MosEisley SteelDrm",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "4a24bd5a-a633-4a92-931a-fc1544d876c1",
+  "vendor": "Arturia"
+}

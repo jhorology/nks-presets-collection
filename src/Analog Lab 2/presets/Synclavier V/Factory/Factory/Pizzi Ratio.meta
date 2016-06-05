@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Short keys sound with delay. Modwheel controlled Chorus",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Pizzi Ratio",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9ae1656e-aab3-4eb8-abef-0f1cdb5159a8",
+  "vendor": "Arturia"
+}

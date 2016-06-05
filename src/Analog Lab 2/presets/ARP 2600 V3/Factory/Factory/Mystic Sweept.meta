@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mystic Sweept",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b78a2095-2a2c-47af-93b6-6cc49f32c1f7",
+  "vendor": "Arturia"
+}

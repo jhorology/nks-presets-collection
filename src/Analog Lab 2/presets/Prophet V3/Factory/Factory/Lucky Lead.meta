@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Lucky Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f73d7cd9-6396-4d12-9d43-6c9c4f8850a9",
+  "vendor": "Arturia"
+}

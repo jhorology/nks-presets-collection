@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Velocity Resonance",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "25be5cfb-4917-4942-99bf-02e91157da10",
+  "vendor": "Arturia"
+}

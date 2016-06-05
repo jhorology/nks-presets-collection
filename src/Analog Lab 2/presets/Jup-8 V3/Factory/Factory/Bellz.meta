@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bellz",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f1f3a4aa-3da0-4cc3-9076-a86ab6187b9c",
+  "vendor": "Arturia"
+}

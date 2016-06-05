@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Pad Electro",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6775513b-8c84-409c-8305-31593321b4c9",
+  "vendor": "Arturia"
+}

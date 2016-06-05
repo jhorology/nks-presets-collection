@@ -1,0 +1,13 @@
+{
+  "author": "Clement Chaumeil",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Digital"],
+  "name": "Gift",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7760fbbd-a36f-451a-ab87-332a5682bacd",
+  "vendor": "Arturia"
+}

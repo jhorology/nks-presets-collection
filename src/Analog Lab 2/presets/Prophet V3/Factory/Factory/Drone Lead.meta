@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Mono large lead, stuck on a C note.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Drone Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e48b6965-77f5-44db-8350-b463d7e07040",
+  "vendor": "Arturia"
+}

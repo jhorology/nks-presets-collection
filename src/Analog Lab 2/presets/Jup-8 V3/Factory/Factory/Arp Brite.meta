@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Short"],
+  "name": "Arp Brite",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e576096c-462d-443e-b34d-04b9141e7885",
+  "vendor": "Arturia"
+}

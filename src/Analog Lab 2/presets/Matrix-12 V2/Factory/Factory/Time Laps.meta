@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long"],
+  "name": "Time Laps",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "586757ad-2114-47be-a535-9af0dd746dd8",
+  "vendor": "Arturia"
+}

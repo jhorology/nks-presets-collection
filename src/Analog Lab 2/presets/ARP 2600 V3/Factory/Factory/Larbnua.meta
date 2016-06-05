@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Larbnua",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5c3f47ca-345b-4fc9-b709-9fce7f74b865",
+  "vendor": "Arturia"
+}

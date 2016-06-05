@@ -1,0 +1,13 @@
+{
+  "author": "Anthony Gonzales",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Complex"],
+  "name": "My Kid Is Strange",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bd5fd1fb-3547-46b4-9742-3d78d670e31a",
+  "vendor": "Arturia"
+}

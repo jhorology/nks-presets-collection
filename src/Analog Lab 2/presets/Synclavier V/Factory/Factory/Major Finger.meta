@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a wacky lead with a major harmony which can be quite fun",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Major Finger",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0682f800-96bc-4016-94c8-4ef6ef08c2b0",
+  "vendor": "Arturia"
+}

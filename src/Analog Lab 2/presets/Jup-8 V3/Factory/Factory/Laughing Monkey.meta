@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Laughing Monkey",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b1b21591-28ee-4660-b49f-bd08f70f1241",
+  "vendor": "Arturia"
+}

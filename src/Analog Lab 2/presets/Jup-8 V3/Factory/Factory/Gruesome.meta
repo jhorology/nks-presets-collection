@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Dark", "Soundtrack"],
+  "name": "Gruesome",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cd936030-6c2f-4d0a-a717-e8be5566fcef",
+  "vendor": "Arturia"
+}

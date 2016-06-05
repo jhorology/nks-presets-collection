@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Basspad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5d5727f5-994e-4318-b7f8-95aa636b07fa",
+  "vendor": "Arturia"
+}

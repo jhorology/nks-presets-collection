@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "an fairly basic octaved sound that plays more like a general synth with ambience and delay",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Old Phase",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "07e023a9-168e-4734-ac7d-11e6f5beb182",
+  "vendor": "Arturia"
+}

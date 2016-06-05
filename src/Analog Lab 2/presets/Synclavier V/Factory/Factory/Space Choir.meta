@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Choir pad sound.",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft", "Soundtrack"],
+  "name": "Space Choir",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c3433362-8701-489e-ae60-0e61f2330815",
+  "vendor": "Arturia"
+}

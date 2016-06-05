@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "SynclOrgan",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "77ea94ca-68b2-481f-9bac-b21693debacb",
+  "vendor": "Arturia"
+}

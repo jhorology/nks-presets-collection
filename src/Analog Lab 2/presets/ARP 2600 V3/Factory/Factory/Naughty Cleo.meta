@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Evolving"],
+  "name": "Naughty Cleo",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e29c2fcd-2a60-4919-8f6f-349e6a7e2d62",
+  "vendor": "Arturia"
+}

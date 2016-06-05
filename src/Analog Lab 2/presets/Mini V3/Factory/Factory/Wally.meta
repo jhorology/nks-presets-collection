@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Wally",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "77a1c86f-b3e4-43e2-af4d-c41808d96738",
+  "vendor": "Arturia"
+}

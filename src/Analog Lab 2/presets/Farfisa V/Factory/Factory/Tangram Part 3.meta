@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Tangram Part 3",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d3c64a8f-b01c-4f5e-a55e-130165be402f",
+  "vendor": "Arturia"
+}

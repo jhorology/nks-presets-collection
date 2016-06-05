@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Mod W Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fc8e4027-4f9f-4348-930b-7a9992827792",
+  "vendor": "Arturia"
+}

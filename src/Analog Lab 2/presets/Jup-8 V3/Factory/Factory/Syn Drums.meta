@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble", "Hard"],
+  "name": "Syn Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e72dfe0c-49b9-4fd6-87bd-7c6ea738bca7",
+  "vendor": "Arturia"
+}

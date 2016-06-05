@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack", "Quiet"],
+  "name": "Calm",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a1bdd4ea-3988-46b9-9d8d-959c72c85c9d",
+  "vendor": "Arturia"
+}

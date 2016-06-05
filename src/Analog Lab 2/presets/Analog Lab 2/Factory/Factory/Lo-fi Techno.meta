@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Lo-fi Techno",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5ec66352-2868-4f33-a79f-9d145bb46680",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Mellow Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2eeba6e3-80e5-4238-a270-45ef443c0af2",
+  "vendor": "Arturia"
+}

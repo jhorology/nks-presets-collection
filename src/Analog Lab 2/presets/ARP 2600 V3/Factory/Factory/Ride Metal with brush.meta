@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Ride Metal with brush",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "de13c99f-0da7-4d4a-912b-fae9c82cee1b",
+  "vendor": "Arturia"
+}

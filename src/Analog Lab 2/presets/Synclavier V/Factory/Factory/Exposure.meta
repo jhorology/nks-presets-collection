@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice keys in 80's style with modulation and reverb. Modwheel controlled vibrato deph for a form of sequence .",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Exposure",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "fed2587d-4c15-4629-bde0-1c094af22b4a",
+  "vendor": "Arturia"
+}

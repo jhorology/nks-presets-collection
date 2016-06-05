@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft"],
+  "name": "Raindrops",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2925e1f9-79b4-4960-854b-ba9cf500b692",
+  "vendor": "Arturia"
+}

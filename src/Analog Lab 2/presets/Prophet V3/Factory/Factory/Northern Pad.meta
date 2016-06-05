@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet"],
+  "name": "Northern Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "804e9d5f-1285-4a73-b85f-f064240d529c",
+  "vendor": "Arturia"
+}

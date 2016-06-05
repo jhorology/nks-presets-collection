@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Seq Ibiza Ignite",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "50158644-d9a4-49de-a396-27738f60e550",
+  "vendor": "Arturia"
+}

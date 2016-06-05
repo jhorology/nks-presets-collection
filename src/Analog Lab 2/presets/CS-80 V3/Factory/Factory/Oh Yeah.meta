@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Oh Yeah",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f071f874-b5c7-4285-80fd-3fe4656e1953",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Reverse Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2ae46d42-d84e-443d-865a-e7632eea0944",
+  "vendor": "Arturia"
+}

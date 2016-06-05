@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Talking speed can be changed by velocity",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Funky", "Long"],
+  "name": "Funy Voice",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "698675dc-f56f-4c25-99f9-fef5fec6d083",
+  "vendor": "Arturia"
+}

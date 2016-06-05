@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ensemble"],
+  "name": "The Great Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "6ad94cd5-149c-44f5-9509-82a52840ef33",
+  "vendor": "Arturia"
+}

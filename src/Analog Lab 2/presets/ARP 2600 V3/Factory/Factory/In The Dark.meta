@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "In The Dark",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "da088f09-515c-4a73-b1e9-a6866245adc0",
+  "vendor": "Arturia"
+}

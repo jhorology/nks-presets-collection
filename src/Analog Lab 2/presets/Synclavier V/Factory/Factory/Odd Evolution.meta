@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "John Chowning type sound. Uses the time frames to travel accross the harmonics",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Odd Evolution",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9aa51268-af92-4505-b2e4-0951a70816be",
+  "vendor": "Arturia"
+}

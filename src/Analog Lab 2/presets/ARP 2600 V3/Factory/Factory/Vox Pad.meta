@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Vox Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9f6da4ba-ae34-4107-a9bc-9568af92fc1f",
+  "vendor": "Arturia"
+}

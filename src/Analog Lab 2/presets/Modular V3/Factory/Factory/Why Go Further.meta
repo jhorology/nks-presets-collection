@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Why Go Further",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8546f40b-9f9b-405c-b734-c22c565b0b77",
+  "vendor": "Arturia"
+}

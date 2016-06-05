@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Pleases Me",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a63ab990-ddc7-42e5-80f1-fd0e3dccfe8a",
+  "vendor": "Arturia"
+}

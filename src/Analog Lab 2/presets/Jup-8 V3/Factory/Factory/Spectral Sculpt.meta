@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Spectral Sculpt",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b461a690-c48e-4c0a-968d-6caeea977fa6",
+  "vendor": "Arturia"
+}

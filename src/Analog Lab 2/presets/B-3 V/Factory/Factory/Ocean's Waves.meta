@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Upper manual drawbars modulated by multiple LFO lower manul for single bass notes",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble"],
+  "name": "Ocean's Waves",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5a6aeb1b-b90c-40c5-97ba-8eb9a35d8d55",
+  "vendor": "Arturia"
+}

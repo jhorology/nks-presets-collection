@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Quiet"],
+  "name": "Eminental",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "714de946-9cb7-42b7-becb-f14fa804c1f2",
+  "vendor": "Arturia"
+}

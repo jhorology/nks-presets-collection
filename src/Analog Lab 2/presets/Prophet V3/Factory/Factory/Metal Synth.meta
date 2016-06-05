@@ -1,0 +1,13 @@
+{
+  "author": "Silicon Sound",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Metal Synth",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8ea0279e-fef0-4bb5-80cc-7ed9706d9b5e",
+  "vendor": "Arturia"
+}

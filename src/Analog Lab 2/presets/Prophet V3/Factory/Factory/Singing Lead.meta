@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Singing Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f326b6a0-bb64-411b-8042-600c7a4a9520",
+  "vendor": "Arturia"
+}

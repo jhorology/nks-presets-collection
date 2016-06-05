@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Get Red",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "306016b6-44d5-45e8-8fb2-29cdadf0af90",
+  "vendor": "Arturia"
+}

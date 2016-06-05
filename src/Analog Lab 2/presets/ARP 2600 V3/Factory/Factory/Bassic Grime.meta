@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Bassic Grime",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "95064ed1-9033-4fa7-a388-799055c3912f",
+  "vendor": "Arturia"
+}

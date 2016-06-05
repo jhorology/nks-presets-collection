@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mod Wheel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fed2a746-3a44-47fe-81fb-5ec31e2562a0",
+  "vendor": "Arturia"
+}

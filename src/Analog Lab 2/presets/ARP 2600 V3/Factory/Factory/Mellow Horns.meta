@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Mellow Horns",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a8379d3f-5b80-449a-99fd-cf7882662d53",
+  "vendor": "Arturia"
+}

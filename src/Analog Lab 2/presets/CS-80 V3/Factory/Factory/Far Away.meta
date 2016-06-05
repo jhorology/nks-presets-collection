@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Far Away",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7120d18a-c8e3-4f55-b5da-148036b694db",
+  "vendor": "Arturia"
+}

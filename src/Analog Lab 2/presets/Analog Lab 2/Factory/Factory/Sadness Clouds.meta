@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft", "Soundtrack"],
+  "name": "Sadness Clouds",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "79536f5f-ad78-42e2-bbbf-45a92bb4d850",
+  "vendor": "Arturia"
+}

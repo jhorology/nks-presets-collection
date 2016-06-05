@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Velocity expressive beautiful String ensembre.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Ensemble", "Long", "Soundtrack", "Evolving"],
+  "name": "6 violins",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d765bbf7-a95c-41d4-a459-0757ba972f19",
+  "vendor": "Arturia"
+}

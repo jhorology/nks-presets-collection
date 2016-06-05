@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple"],
+  "name": "Lucy",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c9770b63-31aa-4178-8a66-12eec8c876f1",
+  "vendor": "Arturia"
+}

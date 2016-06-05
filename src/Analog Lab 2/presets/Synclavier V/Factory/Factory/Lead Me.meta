@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Load sound very responsive to VELOCITY - attack volume and timbre changes. AFTERTOUCH slightly increases FM amount",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Hard", "Soft"],
+  "name": "Lead Me",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3f45ba50-fc5c-4174-a74a-59e463e2879b",
+  "vendor": "Arturia"
+}

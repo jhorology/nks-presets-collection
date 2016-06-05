@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Slow Sequence with Kick and many dirty and modulate sounds. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark"],
+  "name": "Electro More Down",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ce20bf1c-59bf-43e4-9ca7-a4a921644cb6",
+  "vendor": "Arturia"
+}

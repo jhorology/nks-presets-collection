@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long"],
+  "name": "Resma Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fcae074c-3d4b-44c9-adfd-2c07253be80f",
+  "vendor": "Arturia"
+}

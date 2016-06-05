@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Digital", "Soft"],
+  "name": "Touch Talk",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c777f925-b6e5-4718-98b5-d1bedc7e3801",
+  "vendor": "Arturia"
+}

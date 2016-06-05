@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Hollow Flutes",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d1119f6e-801c-4b93-a541-e72114e4585e",
+  "vendor": "Arturia"
+}

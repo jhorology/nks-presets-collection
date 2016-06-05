@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Slow, pulsing, repetative note sequence under fast-repeating attacks.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft", "Short"],
+  "name": "Moon Traveler",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f3959008-396c-4d7c-95d1-c0b086e747ec",
+  "vendor": "Arturia"
+}

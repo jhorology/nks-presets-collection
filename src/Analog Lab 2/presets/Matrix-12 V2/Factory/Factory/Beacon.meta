@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Bright", "Complex", "Soundtrack"],
+  "name": "Beacon",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c2d61386-49cf-44e0-a7a7-1d4a513e58cc",
+  "vendor": "Arturia"
+}

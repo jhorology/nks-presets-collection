@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Full Powa",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "dc40c5b6-2902-4936-9e02-83425c5f9f03",
+  "vendor": "Arturia"
+}

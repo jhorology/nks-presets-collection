@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Electricity",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4a3804a1-85c9-4ded-82df-0f20b946591b",
+  "vendor": "Arturia"
+}

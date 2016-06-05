@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Complex"],
+  "name": "Razorblade",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9cb919a1-ede5-4201-8893-3cdf9e1630b2",
+  "vendor": "Arturia"
+}

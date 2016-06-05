@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Bass Drum",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2a1ac58b-c4f5-4332-a4c4-d0554aa36633",
+  "vendor": "Arturia"
+}

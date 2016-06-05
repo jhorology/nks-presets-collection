@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Bright"],
+  "name": "Psychadelic Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "81aabe2a-9e27-48f7-8655-0c4c6a135036",
+  "vendor": "Arturia"
+}

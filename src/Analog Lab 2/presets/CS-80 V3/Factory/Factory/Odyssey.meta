@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Odyssey",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e5d884a0-f295-45d2-aa25-b86e4c0509a1",
+  "vendor": "Arturia"
+}

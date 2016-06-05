@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Dub Step Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ad8e458a-338c-4722-b8f1-8368b9e253cb",
+  "vendor": "Arturia"
+}

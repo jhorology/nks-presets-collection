@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Phase 3",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "27b70efa-f506-4aa8-aebf-121f11878a32",
+  "vendor": "Arturia"
+}

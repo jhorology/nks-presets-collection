@@ -1,0 +1,13 @@
+{
+  "author": "Jupiter-8 Factory",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Short"],
+  "name": "Jup-8 Fact 56",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0ad27e53-2628-435d-8073-34a0ff99d80b",
+  "vendor": "Arturia"
+}

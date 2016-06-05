@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Rocket",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6e6132f5-2d58-408f-932f-65424d5ce591",
+  "vendor": "Arturia"
+}

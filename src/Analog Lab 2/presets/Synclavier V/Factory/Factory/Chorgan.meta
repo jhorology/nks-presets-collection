@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hold a note and feel the calm",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Quiet"],
+  "name": "Chorgan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "09780cd3-5e5c-45b3-96fe-b1f4301e1f54",
+  "vendor": "Arturia"
+}

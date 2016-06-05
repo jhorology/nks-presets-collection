@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Chorus Vib",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "46a2dbc8-e6d7-469c-9f42-f2eed0a35d2d",
+  "vendor": "Arturia"
+}

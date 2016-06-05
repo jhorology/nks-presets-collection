@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Square Sustain",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a8a301e2-ca40-42e4-84f1-bf5a047aefdb",
+  "vendor": "Arturia"
+}

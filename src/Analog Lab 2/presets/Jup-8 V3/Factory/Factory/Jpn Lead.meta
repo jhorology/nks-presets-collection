@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Quiet"],
+  "name": "Jpn Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "cac3ae6e-b0bb-4e39-8186-4efe48b0e0d7",
+  "vendor": "Arturia"
+}

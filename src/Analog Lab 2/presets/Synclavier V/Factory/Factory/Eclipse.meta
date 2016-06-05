@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a spacey texture that works as a pad too",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Digital", "Long", "Noise", "Soundtrack"],
+  "name": "Eclipse",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "537be6bf-12c3-4ff7-af53-8d6e4de9a9d7",
+  "vendor": "Arturia"
+}

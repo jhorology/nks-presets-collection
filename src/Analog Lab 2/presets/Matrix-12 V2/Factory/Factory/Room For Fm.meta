@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Short"],
+  "name": "Room For Fm",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f146a6fd-f906-4e1d-854c-d8bce9a44f92",
+  "vendor": "Arturia"
+}

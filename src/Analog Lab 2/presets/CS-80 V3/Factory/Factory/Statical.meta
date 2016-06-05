@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Statical",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "95e44db7-5091-4dbb-9cb8-7d67a12776ea",
+  "vendor": "Arturia"
+}

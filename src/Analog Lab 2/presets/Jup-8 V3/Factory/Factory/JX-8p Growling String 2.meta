@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "JX-8p Growling String 2",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "916e03e0-db55-4e50-895f-6cd8fc9f435d",
+  "vendor": "Arturia"
+}

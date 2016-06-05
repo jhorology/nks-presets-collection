@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rave Sum",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "92a51bfa-b88d-455d-ba83-4ddbe875c664",
+  "vendor": "Arturia"
+}

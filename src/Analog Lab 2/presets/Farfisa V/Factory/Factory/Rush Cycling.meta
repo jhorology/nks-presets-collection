@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Rush Cycling",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b1f69f07-92c2-439c-b357-297ed07bd268",
+  "vendor": "Arturia"
+}

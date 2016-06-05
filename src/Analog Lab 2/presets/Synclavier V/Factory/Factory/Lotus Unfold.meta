@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Soft", "Soundtrack", "Evolving"],
+  "name": "Lotus Unfold",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8bce67ce-b5e7-4641-a949-37de076346f2",
+  "vendor": "Arturia"
+}

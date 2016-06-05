@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Morehair",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e0c62482-7040-4108-aa6e-017fcbc66f9b",
+  "vendor": "Arturia"
+}

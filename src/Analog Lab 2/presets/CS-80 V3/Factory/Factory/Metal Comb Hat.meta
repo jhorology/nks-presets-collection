@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise", "Simple", "Short"],
+  "name": "Metal Comb Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "dc957bc5-28f0-408c-8991-40de1960f927",
+  "vendor": "Arturia"
+}

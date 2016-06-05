@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Cool Brass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d39018e8-4016-4556-97c2-952de431e883",
+  "vendor": "Arturia"
+}

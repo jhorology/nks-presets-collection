@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Fat Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "949f633a-e81d-4a8e-8ac5-296009b5a01a",
+  "vendor": "Arturia"
+}

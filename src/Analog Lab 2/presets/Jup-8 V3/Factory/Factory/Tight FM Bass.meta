@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Tight FM Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a75d452e-a979-40e3-a0b0-e2795498eabf",
+  "vendor": "Arturia"
+}

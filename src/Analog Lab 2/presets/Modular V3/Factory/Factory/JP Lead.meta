@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "JP Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "07d758d5-a3da-4b70-bd26-bb80643093c8",
+  "vendor": "Arturia"
+}

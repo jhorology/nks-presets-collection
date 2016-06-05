@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Bright", "Short"],
+  "name": "Psyche Pulse",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a6b90fa7-86ad-4093-9884-215505dbec71",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Twisted Caliope",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2c6948a3-f5e6-4558-a302-8c9926ceaece",
+  "vendor": "Arturia"
+}

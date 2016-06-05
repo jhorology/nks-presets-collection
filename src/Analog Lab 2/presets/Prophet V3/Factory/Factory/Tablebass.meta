@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Tablebass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "79012575-9b8b-4648-a0a5-b15d7d5c38e0",
+  "vendor": "Arturia"
+}

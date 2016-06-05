@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Glistening, echoey organ using 8' and 4' strings. An analog delay gives the sound more length.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Simple", "Soft", "Short"],
+  "name": "Melo Fantasy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "392f379a-b65a-43b7-bee9-bc7f140203bb",
+  "vendor": "Arturia"
+}

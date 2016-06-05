@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Short"],
+  "name": "Triangular Vibe",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b18523ce-be0d-4a69-af8f-ad09e0a084fc",
+  "vendor": "Arturia"
+}

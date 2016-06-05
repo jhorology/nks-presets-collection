@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Funky"],
+  "name": "Acidic",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "04e93168-eff8-4083-940b-dbbbccd82f2f",
+  "vendor": "Arturia"
+}

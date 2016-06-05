@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft", "Soundtrack"],
+  "name": "Rodiphazed Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c8f39aa-bb9a-4201-b6dc-3ad2fe01a52b",
+  "vendor": "Arturia"
+}

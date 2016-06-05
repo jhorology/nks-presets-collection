@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Noise", "Simple"],
+  "name": "Pew Pew",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bb44f73d-4be3-46f2-8662-32344e1958ef",
+  "vendor": "Arturia"
+}

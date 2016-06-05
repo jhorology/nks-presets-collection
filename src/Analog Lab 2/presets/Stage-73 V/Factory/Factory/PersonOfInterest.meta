@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "Deep phasing gives this tone its character. Otherwise, it's a standard, solid sound, not too velocity dependent.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "PersonOfInterest",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "44952e0c-f02f-43fd-ae68-abeafc4d488c",
+  "vendor": "Arturia"
+}

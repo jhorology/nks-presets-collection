@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "In B",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "72808fbe-6f8c-4484-a73c-abf7eba9a5f7",
+  "vendor": "Arturia"
+}

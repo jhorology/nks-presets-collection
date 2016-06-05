@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A clavi on steroids. Highly dynamic and the mod-wheel will make it more bright plus add some vibrato (which if not very clavi like - but then again - a clavi doesn't have a mod-wheel to begin with).",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Bright", "Digital", "Funky", "Hard", "Simple"],
+  "name": "Metal Clav",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "873442c2-b00c-48d1-bdb6-9e90492e65b5",
+  "vendor": "Arturia"
+}

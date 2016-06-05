@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soundtrack"],
+  "name": "Space Reedz",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "4013c074-a4fb-482f-a21b-f3cc3a58643a",
+  "vendor": "Arturia"
+}

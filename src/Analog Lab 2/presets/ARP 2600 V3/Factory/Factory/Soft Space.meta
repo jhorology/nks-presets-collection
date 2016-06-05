@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Evolving"],
+  "name": "Soft Space",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bd6e517a-2cd0-4f3d-bb39-6b62f549b4b8",
+  "vendor": "Arturia"
+}

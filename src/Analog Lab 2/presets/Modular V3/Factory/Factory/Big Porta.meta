@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Big Porta",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0abef1ea-1e7f-46bc-b851-069aa086df9b",
+  "vendor": "Arturia"
+}

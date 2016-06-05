@@ -1,0 +1,13 @@
+{
+  "author": "Solina Factory",
+  "bankchain": ["Analog Lab 2", "Solina", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Trumpet",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "363dff9f-f12b-4607-b2df-f2ce66c1a185",
+  "vendor": "Arturia"
+}

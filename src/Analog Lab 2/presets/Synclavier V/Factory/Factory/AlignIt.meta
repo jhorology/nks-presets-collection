@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Can make a nice bass or lead in mono mode. Makes a cutting pad up high in poly mode. Use aftertouch and velocity for brightness. Mod wheel for vibrato.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Digital", "Hard", "Evolving"],
+  "name": "AlignIt",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f7e16f02-b7c3-46bb-a85b-dd3867026b4c",
+  "vendor": "Arturia"
+}

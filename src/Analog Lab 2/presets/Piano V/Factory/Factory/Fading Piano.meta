@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Minimalist and soft ambient piano sound",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soundtrack"],
+  "name": "Fading Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2f940ca2-aa96-4c7f-876c-0cedfa73df2f",
+  "vendor": "Arturia"
+}

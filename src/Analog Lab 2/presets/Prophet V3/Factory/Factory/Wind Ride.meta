@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Wind Ride",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9623578f-fc96-4107-b077-7467ca77df35",
+  "vendor": "Arturia"
+}

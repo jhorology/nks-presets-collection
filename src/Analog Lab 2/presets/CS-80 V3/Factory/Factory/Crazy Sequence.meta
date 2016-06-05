@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Crazy Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "59f61fdd-3667-40d4-aea3-89fa02cd8bb7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Fairfield Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2740f9b7-a6af-4066-a29f-ab4e827d1a61",
+  "vendor": "Arturia"
+}

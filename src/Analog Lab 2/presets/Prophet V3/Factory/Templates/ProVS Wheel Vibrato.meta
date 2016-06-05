@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "ProVS Wheel Vibrato",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4dbfea34-ffef-4ece-8f59-2aeda31270ad",
+  "vendor": "Arturia"
+}

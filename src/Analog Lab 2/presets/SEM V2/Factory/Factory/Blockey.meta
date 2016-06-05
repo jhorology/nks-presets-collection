@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Blockey",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1e44ae77-03e5-4248-b351-78bb9c9be2ec",
+  "vendor": "Arturia"
+}

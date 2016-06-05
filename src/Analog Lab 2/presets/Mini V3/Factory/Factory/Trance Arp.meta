@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard"],
+  "name": "Trance Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0e7c13e5-1d98-4201-8ac8-770d3dbad2e5",
+  "vendor": "Arturia"
+}

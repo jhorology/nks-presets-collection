@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital"],
+  "name": "Numan",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "6365df40-dce7-4157-b7e2-50651441c3c8",
+  "vendor": "Arturia"
+}

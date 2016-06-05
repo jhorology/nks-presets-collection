@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Percussive sequence with repeat arpeggio mode. Modwheel controlled Repeat-arpeggiator",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Noise Run",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "898ecc30-ff04-4804-9154-609cc614cae9",
+  "vendor": "Arturia"
+}

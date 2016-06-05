@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Sci Join",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b445e1fd-904a-4660-b85f-ccbb096ba979",
+  "vendor": "Arturia"
+}

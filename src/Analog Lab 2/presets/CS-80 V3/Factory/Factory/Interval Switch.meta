@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Interval Switch",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "738c2fc7-a2d4-46b1-9a28-f1203cfcd9f3",
+  "vendor": "Arturia"
+}

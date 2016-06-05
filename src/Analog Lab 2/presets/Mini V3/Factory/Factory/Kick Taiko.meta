@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Kick Taiko",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a7337c8a-3714-434a-966c-eae99b1863e1",
+  "vendor": "Arturia"
+}

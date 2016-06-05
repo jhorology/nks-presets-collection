@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Fake Delay",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "63e19024-c8c6-4353-b93a-12ef1b2c1758",
+  "vendor": "Arturia"
+}

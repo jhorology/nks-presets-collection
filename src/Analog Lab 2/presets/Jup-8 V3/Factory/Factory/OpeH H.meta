@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "OpeH H",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a65f8f6a-9866-416f-b631-10419d4bd7ce",
+  "vendor": "Arturia"
+}

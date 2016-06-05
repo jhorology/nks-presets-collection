@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Organic",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b6c2f9f7-ff3d-4b23-ad43-01e39016338a",
+  "vendor": "Arturia"
+}

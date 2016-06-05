@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Detune Yoda",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "440caa79-16ab-43c7-a717-68942b15250b",
+  "vendor": "Arturia"
+}

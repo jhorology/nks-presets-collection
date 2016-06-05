@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Shimmer Clocks",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b5083ba3-c0d3-4a47-bb28-4ea6efd69075",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Simple bright synth brass",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple", "Evolving"],
+  "name": "Fanfare",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "820dab58-e4ef-495e-a815-798b814e2d3d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Close Encounters",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b331c454-61dd-4d15-9ee5-408e441cd434",
+  "vendor": "Arturia"
+}

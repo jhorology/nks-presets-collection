@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Glass harmonica with moving harmonics.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble", "Long", "Soft"],
+  "name": "Glass Works",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e8fb49ff-1ba8-44df-986f-48fe8416e004",
+  "vendor": "Arturia"
+}

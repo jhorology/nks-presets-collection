@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Strangers",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1c051859-4f24-4d25-b289-e65fe975e71f",
+  "vendor": "Arturia"
+}

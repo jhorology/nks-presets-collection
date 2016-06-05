@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark"],
+  "name": "Excessive",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aff7e9e1-afd9-4717-94c9-33c6072dab81",
+  "vendor": "Arturia"
+}

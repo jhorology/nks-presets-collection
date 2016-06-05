@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Evolving"],
+  "name": "Square Root",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "21e0f291-3782-4451-a4b5-1e5b3e6b1f0e",
+  "vendor": "Arturia"
+}

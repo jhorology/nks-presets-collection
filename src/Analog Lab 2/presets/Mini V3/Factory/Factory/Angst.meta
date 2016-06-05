@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Driving, repetitive and bouncy. Mod wheel opens up the filter.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark"],
+  "name": "Angst",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1dd8d93f-0a39-41d7-a8ea-d116579fc44f",
+  "vendor": "Arturia"
+}

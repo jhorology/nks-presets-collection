@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Feelings",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a1fa8655-f4a6-45b0-9a7e-06006c4c7c4b",
+  "vendor": "Arturia"
+}

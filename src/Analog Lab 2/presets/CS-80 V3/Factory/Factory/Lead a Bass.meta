@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Lead a Bass",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "47365b58-ed0b-41f8-8e95-45d88b89a9a2",
+  "vendor": "Arturia"
+}

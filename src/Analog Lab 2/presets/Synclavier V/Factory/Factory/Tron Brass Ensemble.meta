@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' legendary Tron soundtrack from 1982. She used  DK Synergy systems which share a lot in common with Synclavier's FM synthesis. This layered brass  patch is very responsive to VELOCITY. MOD WHEEL increases FM and AT -vibrato",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Funky", "Soundtrack"],
+  "name": "Tron Brass Ensemble",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bf864af6-0aca-434d-b2c4-335bb683d19e",
+  "vendor": "Arturia"
+}

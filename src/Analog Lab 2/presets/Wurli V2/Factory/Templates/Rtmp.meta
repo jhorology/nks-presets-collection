@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Rtmp",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "fd0dbb84-dd25-4f4f-ae6b-966eecbf14d0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice soundtrack pad with phaser and reverb. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Soundtrack"],
+  "name": "Meta Ensemble",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fbdff2ca-9ddd-4740-82e3-6e6d0a0f41ce",
+  "vendor": "Arturia"
+}

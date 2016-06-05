@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Washing Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "afd447d9-c832-4685-a4c3-c76b7efc24a4",
+  "vendor": "Arturia"
+}

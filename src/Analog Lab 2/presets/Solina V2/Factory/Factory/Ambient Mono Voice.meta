@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Blurry and swimmy but with a 'vocal wow' front end. Extremely long fade.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Long", "Soft"],
+  "name": "Ambient Mono Voice",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "0772b7bf-ed93-4225-9633-a7f4d6071464",
+  "vendor": "Arturia"
+}

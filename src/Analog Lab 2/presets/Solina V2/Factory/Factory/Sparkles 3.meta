@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Simple", "Quiet"],
+  "name": "Sparkles 3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ea1f33cd-4cc4-4996-9552-5229a85c0d65",
+  "vendor": "Arturia"
+}

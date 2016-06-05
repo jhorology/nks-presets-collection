@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Digital", "Hard", "Soundtrack"],
+  "name": "Ring The Bells",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b3338e00-85c5-422b-964c-55c316514b00",
+  "vendor": "Arturia"
+}

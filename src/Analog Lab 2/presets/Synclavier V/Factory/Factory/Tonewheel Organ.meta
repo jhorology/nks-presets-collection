@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Tonewheel organ emulation",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Tonewheel Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5ae8f4d0-1322-4f91-8562-85ce36adbdd4",
+  "vendor": "Arturia"
+}

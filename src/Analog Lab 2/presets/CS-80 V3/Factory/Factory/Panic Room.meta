@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Panic Room",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2da5aecb-ef6b-410c-b35f-bb4ac305f07b",
+  "vendor": "Arturia"
+}

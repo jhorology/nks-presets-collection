@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Melancholic Mogue",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "41221418-87a5-44a3-b72e-f7dd35acca2f",
+  "vendor": "Arturia"
+}

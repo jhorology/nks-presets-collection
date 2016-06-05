@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Electro Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "4023faf3-1ffe-441c-90c2-5f69d094c1af",
+  "vendor": "Arturia"
+}

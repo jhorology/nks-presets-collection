@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Hard"],
+  "name": "Metalhead",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ec6baf04-e4c3-4661-8478-7c064a615f00",
+  "vendor": "Arturia"
+}

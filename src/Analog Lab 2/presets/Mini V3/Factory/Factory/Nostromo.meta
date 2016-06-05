@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Long", "Noise", "Soundtrack"],
+  "name": "Nostromo",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "86776071-7f5b-45e3-bf35-6a73cfe91d52",
+  "vendor": "Arturia"
+}

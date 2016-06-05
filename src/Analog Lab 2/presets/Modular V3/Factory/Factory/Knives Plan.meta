@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft"],
+  "name": "Knives Plan",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0c0bcdd5-9714-4eef-a5f8-cb895d378368",
+  "vendor": "Arturia"
+}

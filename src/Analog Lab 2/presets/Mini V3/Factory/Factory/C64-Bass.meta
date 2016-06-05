@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "C64-Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bae8401a-afc1-4094-a236-664f02b83484",
+  "vendor": "Arturia"
+}

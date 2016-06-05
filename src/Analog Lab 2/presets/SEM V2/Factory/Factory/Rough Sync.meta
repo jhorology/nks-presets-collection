@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Rough Sync",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8d2fc5c7-1970-4bdc-b485-c11b41120fec",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft", "Short"],
+  "name": "Cello",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9dddfc33-0a6a-4805-9c48-4718125a2367",
+  "vendor": "Arturia"
+}

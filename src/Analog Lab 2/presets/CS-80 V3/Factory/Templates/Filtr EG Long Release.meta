@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Filtr EG Long Release",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "40e1cdb1-7ff5-4751-90ef-a31938c66e01",
+  "vendor": "Arturia"
+}

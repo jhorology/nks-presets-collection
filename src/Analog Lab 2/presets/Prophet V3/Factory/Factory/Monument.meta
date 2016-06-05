@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Monument",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4fc5cf95-0fd5-47a5-9d16-70fe0d3cd422",
+  "vendor": "Arturia"
+}

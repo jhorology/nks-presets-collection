@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Noise"],
+  "name": "Vocal Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f4769859-a148-44e4-aad3-f32e96d1ace5",
+  "vendor": "Arturia"
+}

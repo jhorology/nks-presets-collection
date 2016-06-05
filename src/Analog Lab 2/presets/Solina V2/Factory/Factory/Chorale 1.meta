@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long", "Simple"],
+  "name": "Chorale 1",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "90d26156-572a-468b-9db3-115119473e01",
+  "vendor": "Arturia"
+}

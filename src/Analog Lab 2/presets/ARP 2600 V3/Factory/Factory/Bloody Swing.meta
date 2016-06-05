@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Bloody Swing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ce253527-2fd2-4cbc-87fd-db9a99ebfc58",
+  "vendor": "Arturia"
+}

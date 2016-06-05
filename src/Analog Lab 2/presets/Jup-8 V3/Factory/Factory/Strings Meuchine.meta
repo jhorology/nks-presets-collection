@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Strings Meuchine",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3e006a7f-1846-41dc-95b1-0b9cef786407",
+  "vendor": "Arturia"
+}

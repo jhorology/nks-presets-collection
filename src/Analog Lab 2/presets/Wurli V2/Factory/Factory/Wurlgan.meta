@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Wurlgan",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8ebee2ca-987a-40fd-996f-c4e334ffa71f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Plastic Snow",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e97ca34c-0d39-41d1-b19f-e85c16a4b961",
+  "vendor": "Arturia"
+}

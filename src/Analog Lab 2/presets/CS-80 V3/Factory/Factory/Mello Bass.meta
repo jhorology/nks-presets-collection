@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Mello Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3991477d-1509-47be-8a16-f46040cffe8b",
+  "vendor": "Arturia"
+}

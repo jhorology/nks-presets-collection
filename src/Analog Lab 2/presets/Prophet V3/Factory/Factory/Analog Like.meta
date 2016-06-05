@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Hard and distorted lead sound with a high amount of portamento.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Analog Like",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1aed0078-6253-434c-93db-f135e858d71a",
+  "vendor": "Arturia"
+}

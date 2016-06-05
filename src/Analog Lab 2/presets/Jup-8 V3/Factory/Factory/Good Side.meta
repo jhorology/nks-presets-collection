@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Evolving"],
+  "name": "Good Side",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "03e73559-4126-43e0-b5cb-ebd00b27b7ed",
+  "vendor": "Arturia"
+}

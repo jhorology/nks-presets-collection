@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "The name says it all. It uses a lower pitched modulator to get a 'growl' sound that sounds really nice on this synth. The mod-wheel will make it talk even more and the pitch bend is set to 12 semitones for a more dramatic effect.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Simple"],
+  "name": "Juicy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "574da0c0-bfe8-4fca-acff-8fb30793763a",
+  "vendor": "Arturia"
+}

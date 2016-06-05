@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "Celm Glass Organ 2",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2f403bd3-3493-48d7-961f-fa0098002680",
+  "vendor": "Arturia"
+}

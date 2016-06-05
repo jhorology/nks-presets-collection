@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Bass Rise",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "496ba442-f81d-4313-92f6-e7b88933f667",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Begass",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "eebc7c36-eb9f-4dcc-8003-99afda977c9d",
+  "vendor": "Arturia"
+}

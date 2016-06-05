@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Bright", "Complex"],
+  "name": "Stellina",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2036cd27-5357-45e2-ac87-146e6761cdfd",
+  "vendor": "Arturia"
+}

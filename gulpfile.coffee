@@ -278,8 +278,28 @@ order by
     dir: 'Analog Lab 2'
     vendor: 'Arturia'
     magic: 'Ala2'
+    presets_dir: '/Library/Arturia/Presets'
     db: '/Library/Arturia/Presets/db.db3'
-    
+    query_preset: '''
+select
+  t0.name as name,
+  t1.name as type,
+  t2.name as inst,
+  t3.name as author,
+  t4.name as pack,
+  t0.comment as comment,
+  t6.name as characteristic
+from
+  Preset_Id t0
+  join Types t1 on t0.type = t1.key_id 
+  join Instruments t2 on t0.instrument_key = t2.key_id 
+  join Sound_Designers t3 on t0.sound_designer = t3.key_id 
+  join Packs t4 on t0.pack = t4.key_id 
+  left outer join Preset_Characteristics t5 on t0.key_id = t5.preset_key 
+  left outer join Characteristics t6 on t5.characteristic_key = t6.key_id 
+where
+  t0.file_path = $FilePath
+'''
   #
   # discoDSP Discovery Pro
   #-------------------------------------------
@@ -2410,6 +2430,54 @@ gulp.task 'analoglab2-extract-raw-presets', ->
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.AnalogLab2.dir}/presets"
 
+# generate metadata from Analog Lab's sqlite database
+gulp.task 'analoglab2-generate-meta', ->
+  # open database
+  db = new sqlite3.Database $.AnalogLab2.db, sqlite3.OPEN_READONLY
+  gulp.src ["src/#{$.AnalogLab2.dir}/presets/**/*.pchk"]
+    .pipe data (file, done) ->
+      metafile = "#{file.path[..-5]}meta"
+      # generate or re-use uuid
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # SQL bind parameters
+      presetName = path.basename file.path, '.pchk'
+      folder = path.relative "src/#{$.AnalogLab2.dir}/presets", path.dirname file.path
+      instname = path.dirname folder
+      params =
+        $FilePath: path.join $.AnalogLab2.presets_dir, folder, presetName
+      # execute query
+      db.all $.AnalogLab2.query_preset, params, (err, rows) ->
+        done err if err
+        unless rows and rows.length
+          return done "row unfound. $FilePath:#{params.$FilePath}"
+        # replace Analog Lab => MULT
+        inst = rows[0].inst
+        if inst is 'Analog Lab'
+          inst = 'MULTI'
+        done undefined,
+          vendor: $.AnalogLab2.vendor
+          uuid: uid
+          types: [[rows[0].type?.trim()]]
+          name: presetName
+          modes: if rows[0].characteristic then _.uniq (row.characteristic for row in rows) else []
+          deviceType: 'INST'
+          comment: rows[0].comment?.trim()
+          bankchain: [$.AnalogLab2.dir, inst, rows[0].pack]
+          author: rows[0].author?.trim()
+    .pipe data (file) ->
+      json = beautify (JSON.stringify file.data), indent_size: $.json_indent
+      # console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      file.data
+    .pipe gulp.dest "src/#{$.AnalogLab2.dir}/presets"
+    .on 'end', ->
+      # colse database
+      db.close()
 # ---------------------------------------------------------------
 # end Arturia Analog Lab2
 #

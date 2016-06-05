@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Simple", "Soundtrack", "Short"],
+  "name": "Modulate Texture",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e0e9aeff-5a4b-4095-940b-4d8c602bd121",
+  "vendor": "Arturia"
+}

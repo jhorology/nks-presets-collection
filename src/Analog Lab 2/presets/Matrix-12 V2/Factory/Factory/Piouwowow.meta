@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Piouwowow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "39c7a9ca-72b2-47e8-9c03-e236bd6a1193",
+  "vendor": "Arturia"
+}

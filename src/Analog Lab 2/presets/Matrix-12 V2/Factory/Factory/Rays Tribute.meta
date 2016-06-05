@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Quiet"],
+  "name": "Rays Tribute",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f34be674-6f84-40a8-bb3e-513702a75169",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Poly Synthi",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "fdb9f3be-ed58-43e1-b997-d6f162607c3b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital"],
+  "name": "Pads Lisboa",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "8dd7cc2c-9815-457b-84bf-35de3b2abb72",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "\"Electronic chattering",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Digital"],
+  "name": "Malfunctions",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "72178029-3973-4cac-a3ca-fdabf913cc21",
+  "vendor": "Arturia"
+}

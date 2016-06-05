@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Fantasy piano with a very soft attack.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Short"],
+  "name": "Purness",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c5acbdf7-3042-4d1b-8e0d-832aff9e71a0",
+  "vendor": "Arturia"
+}

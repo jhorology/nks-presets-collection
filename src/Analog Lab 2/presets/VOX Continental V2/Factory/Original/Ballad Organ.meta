@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Ballad Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "747b3233-b946-408a-b52e-a125e64f96f6",
+  "vendor": "Arturia"
+}

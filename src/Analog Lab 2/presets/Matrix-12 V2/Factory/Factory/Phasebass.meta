@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Phasebass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d802a87d-9285-48c3-a41e-f0d7cad6b205",
+  "vendor": "Arturia"
+}

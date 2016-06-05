@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Noise", "Simple", "Soundtrack", "Quiet"],
+  "name": "Gardner Model",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "6e6e5acc-b97c-42e8-81e4-94108bfb147e",
+  "vendor": "Arturia"
+}

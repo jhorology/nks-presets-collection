@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soft"],
+  "name": "BASSBRS1",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6510540d-aa02-431d-9fa1-7c33c786ddf4",
+  "vendor": "Arturia"
+}

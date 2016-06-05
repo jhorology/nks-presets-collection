@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Rythm Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "129671c3-dfde-4786-a41d-626afef61ecf",
+  "vendor": "Arturia"
+}

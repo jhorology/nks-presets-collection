@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "New Leaf",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f353139d-8757-4278-81d8-57dba34a05ef",
+  "vendor": "Arturia"
+}

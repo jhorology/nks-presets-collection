@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Sub Delirious Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a4799dff-5496-4664-bc92-170566dd4693",
+  "vendor": "Arturia"
+}

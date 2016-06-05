@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soft"],
+  "name": "Space Delay",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3b53d5be-145a-466a-985e-84079e981c78",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Classic Roland Bass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "ece0489a-4a10-40b6-b094-0a2fe71fa9d8",
+  "vendor": "Arturia"
+}

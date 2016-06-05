@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Compare to Synclavier bass used in Grace Jones - The Fashion Show. MOD WHEEL - slower decay and slight chorusing.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Funky", "Long", "Soft"],
+  "name": "Jones The Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "41f9182a-bed0-4850-aa18-c0ad2d6e78e4",
+  "vendor": "Arturia"
+}

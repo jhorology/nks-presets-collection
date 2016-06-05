@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Two disctinct arpeggiated sounds - a bass with a soft stab with noise lead sound. Classic Kraftwerk / electronica. Quite pretty. Mod wheel adds to the decay time.",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack", "Quiet"],
+  "name": "Keep On",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e968a02f-e46a-40e1-b54f-1e10da9d3ca9",
+  "vendor": "Arturia"
+}

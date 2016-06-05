@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Direct Hammond sound, no Leslie, just for the braves!",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Funky", "Simple"],
+  "name": "Sound Of Pan",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2e94a3c7-7197-4af7-ba7b-4369a9043e15",
+  "vendor": "Arturia"
+}

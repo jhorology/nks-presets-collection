@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Soft"],
+  "name": "Rummbller",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "7e6b858b-d756-4c9e-88ed-a74a2fea922d",
+  "vendor": "Arturia"
+}

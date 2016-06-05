@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Octave up / octave down sequence strangely reminiscent of the Jeapardy theme. Mod wheel controls note rate. Mod wheel adds a lot of interest to this sound.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Soundtrack"],
+  "name": "Speed Variable",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3714df95-0161-4fa7-ab2b-43d1e87b076a",
+  "vendor": "Arturia"
+}

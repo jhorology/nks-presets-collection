@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Polylop",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9d5c8800-2f93-4226-b087-988c46d0576a",
+  "vendor": "Arturia"
+}

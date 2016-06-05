@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Tick Tock Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "608ecc2b-e88a-4949-9ef4-88c654d71c8d",
+  "vendor": "Arturia"
+}

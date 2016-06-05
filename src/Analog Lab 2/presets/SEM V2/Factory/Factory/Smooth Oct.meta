@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Smooth Oct",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "59d1073c-b2c5-49ee-9a10-166198e8ad79",
+  "vendor": "Arturia"
+}

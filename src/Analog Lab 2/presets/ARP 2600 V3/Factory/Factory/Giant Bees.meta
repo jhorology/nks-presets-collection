@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Giant Bees",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "78a5180e-700c-4a37-b86f-cd2b0e6b14a6",
+  "vendor": "Arturia"
+}

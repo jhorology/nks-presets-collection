@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Evolving and echoey. Works well in all registers. A very long overhang of reverb.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Ensemble", "Long", "Soft", "Soundtrack"],
+  "name": "Deep Breathing",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "553f34ca-7e28-4cb9-9ecf-cbc05d4aaeb0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "8p Bow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b166f609-44d6-45b7-97b3-918f47c039ac",
+  "vendor": "Arturia"
+}

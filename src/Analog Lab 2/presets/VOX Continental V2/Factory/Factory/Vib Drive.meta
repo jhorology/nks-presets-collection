@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "Vib Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "64b9b010-667f-4505-a9bf-f14a3f5cbbb5",
+  "vendor": "Arturia"
+}

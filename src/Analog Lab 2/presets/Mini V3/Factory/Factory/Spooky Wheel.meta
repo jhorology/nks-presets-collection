@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Spooky Wheel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bd4c6b27-6e4c-4022-913e-7a9d16cbba1e",
+  "vendor": "Arturia"
+}

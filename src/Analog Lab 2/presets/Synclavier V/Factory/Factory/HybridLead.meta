@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Load sound very responsive to VELOCITY - attack volume and timbre changes.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Funky", "Simple"],
+  "name": "HybridLead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "de5b31c3-b324-4577-8563-be009c483d3e",
+  "vendor": "Arturia"
+}

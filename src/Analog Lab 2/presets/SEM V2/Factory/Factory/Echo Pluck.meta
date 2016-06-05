@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Echo Pluck",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2ed732f2-4867-41b0-90da-1ed3c0f631e0",
+  "vendor": "Arturia"
+}

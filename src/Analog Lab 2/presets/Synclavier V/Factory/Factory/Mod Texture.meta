@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice soundtrack pad with a lot of modulations on different partials. Modwheel controlled pitch chorus & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Mod Texture",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "691119c3-f128-4775-9bc0-86308232d1b5",
+  "vendor": "Arturia"
+}

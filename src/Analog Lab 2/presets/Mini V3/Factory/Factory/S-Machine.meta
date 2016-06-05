@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soundtrack"],
+  "name": "S-Machine",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5a136553-ecc5-4b5a-9ace-92cc2321e02b",
+  "vendor": "Arturia"
+}

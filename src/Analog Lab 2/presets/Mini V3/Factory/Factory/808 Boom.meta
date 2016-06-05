@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "808 Boom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8bd80b91-ae24-403e-884c-da089b81fdf9",
+  "vendor": "Arturia"
+}

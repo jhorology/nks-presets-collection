@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long", "Soundtrack"],
+  "name": "Out Of Control",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7e82dc05-bb52-4389-8087-0b629944e81c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Pulse Mod",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2c698802-64f0-42b0-b815-60d74361424f",
+  "vendor": "Arturia"
+}

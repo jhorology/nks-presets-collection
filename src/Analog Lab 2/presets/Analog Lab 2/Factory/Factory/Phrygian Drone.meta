@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "Hold one note and trip",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soft", "Soundtrack"],
+  "name": "Phrygian Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4f33138d-9278-4aaa-8548-564d8fb2140b",
+  "vendor": "Arturia"
+}

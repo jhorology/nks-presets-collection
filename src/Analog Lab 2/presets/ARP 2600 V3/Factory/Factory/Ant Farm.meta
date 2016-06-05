@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Ant Farm",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ba493737-0096-4472-a82d-3146c48b935f",
+  "vendor": "Arturia"
+}

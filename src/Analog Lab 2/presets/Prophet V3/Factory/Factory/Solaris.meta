@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Soundtrack"],
+  "name": "Solaris",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1cf008a1-b175-458d-ac73-8c811ec61093",
+  "vendor": "Arturia"
+}

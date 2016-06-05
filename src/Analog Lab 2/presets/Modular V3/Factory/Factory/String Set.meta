@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple"],
+  "name": "String Set",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "57bded43-847b-4695-930c-febc02507df5",
+  "vendor": "Arturia"
+}

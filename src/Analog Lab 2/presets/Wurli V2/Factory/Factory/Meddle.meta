@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark"],
+  "name": "Meddle",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "44e6a82e-b0e7-43f9-86c5-b51e0ab3ae82",
+  "vendor": "Arturia"
+}

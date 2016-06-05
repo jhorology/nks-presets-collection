@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Ice Palace",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "249e26df-9fdb-40a2-98d3-ba3be3a32ddd",
+  "vendor": "Arturia"
+}

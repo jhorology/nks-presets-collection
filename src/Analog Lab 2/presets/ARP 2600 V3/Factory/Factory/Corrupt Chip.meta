@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Corrupt Chip",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5eb7a307-d4ae-470d-990c-ba53d7564b2a",
+  "vendor": "Arturia"
+}

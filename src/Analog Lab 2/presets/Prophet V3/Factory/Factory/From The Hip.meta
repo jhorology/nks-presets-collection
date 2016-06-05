@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "From The Hip",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "99a87738-01dd-444c-a184-57a49c79482d",
+  "vendor": "Arturia"
+}

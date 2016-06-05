@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Same as other Gowbass.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Gowbass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2b30ce58-b09a-4304-b206-dfbdc8e062ac",
+  "vendor": "Arturia"
+}

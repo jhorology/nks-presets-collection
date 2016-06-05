@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Very long and sweeping square wave pad with extended release time. Great for film scoring or other ambient work.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Intrigual",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "aa4a45cd-422f-4536-ab08-7fdd60ceabef",
+  "vendor": "Arturia"
+}

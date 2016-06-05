@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Fairlight",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "557e948d-63e0-4e7c-89c2-c0668397fe78",
+  "vendor": "Arturia"
+}

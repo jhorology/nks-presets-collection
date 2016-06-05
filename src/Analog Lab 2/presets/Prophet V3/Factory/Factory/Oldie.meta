@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Oldie",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5521941d-b4e7-4ef2-8d5f-8ee0be296c03",
+  "vendor": "Arturia"
+}

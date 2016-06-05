@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Long"],
+  "name": "Phaser Vibrato Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c0811567-c8a6-4738-8284-b07f52572fd4",
+  "vendor": "Arturia"
+}

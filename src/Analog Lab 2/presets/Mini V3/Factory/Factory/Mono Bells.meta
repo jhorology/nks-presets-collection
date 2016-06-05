@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Mono Bells",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0d4b5e36-a289-44b8-8e4e-b9991650f9f0",
+  "vendor": "Arturia"
+}

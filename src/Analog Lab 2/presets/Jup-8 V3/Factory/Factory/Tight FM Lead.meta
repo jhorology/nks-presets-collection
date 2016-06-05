@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Tight FM Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "59add8b0-239f-4227-b61c-754e7b32f786",
+  "vendor": "Arturia"
+}

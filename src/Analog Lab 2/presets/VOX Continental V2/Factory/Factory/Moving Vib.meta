@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Swirling medium tone with analog delay and rotary speaker. Mod wheel intensifies and speeds up the effect.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Quiet"],
+  "name": "Moving Vib",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "66a48275-5b9a-4d7f-92f2-308dcbc34d8f",
+  "vendor": "Arturia"
+}

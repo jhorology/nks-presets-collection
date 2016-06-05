@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Long", "Soundtrack"],
+  "name": "Ripleys Dream",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "51d4bc78-5f81-4d22-b9ae-d7d78d6ade59",
+  "vendor": "Arturia"
+}

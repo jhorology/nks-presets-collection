@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Chatty",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4ed8d15f-20b7-4bf6-b3ff-c1d238333581",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Classic double manual mighty organ sound both upper and lower for chords",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble", "Simple"],
+  "name": "Woodstock",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e5fbba87-0af1-4fce-8aea-4509601d0ca8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft", "Soundtrack"],
+  "name": "Indian Summer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "766d88a2-bb06-46d4-abf5-002ac77a6c9f",
+  "vendor": "Arturia"
+}

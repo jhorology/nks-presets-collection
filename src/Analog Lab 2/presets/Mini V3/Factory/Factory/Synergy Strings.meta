@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soundtrack"],
+  "name": "Synergy Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "25b1534f-bcc9-485e-a099-5a8731e2be57",
+  "vendor": "Arturia"
+}

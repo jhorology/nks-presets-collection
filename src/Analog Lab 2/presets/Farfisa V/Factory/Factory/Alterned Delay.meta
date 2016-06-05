@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Simple", "Short"],
+  "name": "Alterned Delay",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a3908564-4782-4f50-9ea2-aebcd1c6a62f",
+  "vendor": "Arturia"
+}

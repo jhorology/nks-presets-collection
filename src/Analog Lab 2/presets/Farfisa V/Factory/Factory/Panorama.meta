@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple", "Soundtrack"],
+  "name": "Panorama",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c012d4a0-ae76-4b27-a80a-b72297a1f8c8",
+  "vendor": "Arturia"
+}

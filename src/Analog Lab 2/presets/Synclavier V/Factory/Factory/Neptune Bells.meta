@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "an fm bell sound with vibrato",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Neptune Bells",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "79293bd2-198d-4084-a0d5-199b1189ec64",
+  "vendor": "Arturia"
+}

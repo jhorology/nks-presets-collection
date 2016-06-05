@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Atlanthats",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "7c66a28e-ff1a-42f8-8f13-810ed6a1a942",
+  "vendor": "Arturia"
+}

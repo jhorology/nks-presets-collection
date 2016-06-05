@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Let It Ring",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7b8ffae4-4922-4035-9b2c-c13d1fb2e9f2",
+  "vendor": "Arturia"
+}

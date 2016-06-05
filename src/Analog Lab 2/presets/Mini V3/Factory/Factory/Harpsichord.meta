@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Harpsichord",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8bf05354-8b15-48ad-baa5-5f43638b54ab",
+  "vendor": "Arturia"
+}

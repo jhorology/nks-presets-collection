@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Syn Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "41dddbb9-1619-4aae-b2ca-1e0cfe4d0824",
+  "vendor": "Arturia"
+}

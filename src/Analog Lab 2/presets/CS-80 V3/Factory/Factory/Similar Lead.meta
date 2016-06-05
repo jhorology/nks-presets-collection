@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soft"],
+  "name": "Similar Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "99abb980-ef9f-4673-ac02-41645268af73",
+  "vendor": "Arturia"
+}

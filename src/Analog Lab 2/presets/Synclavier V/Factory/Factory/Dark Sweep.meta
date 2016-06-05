@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Emulates a filter sweep with the time frame view. Play a low note for optimal results",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Digital"],
+  "name": "Dark Sweep",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1bf5e1a4-5d14-4d61-ac7e-6ccbbb10700f",
+  "vendor": "Arturia"
+}

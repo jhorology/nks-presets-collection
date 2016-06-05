@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Slow moving to Fast Leslie on this rich tone. Watery, clangy reverb at the end.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Quiet"],
+  "name": "Dirty Leslie",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "28e5b1d6-6c80-4698-826e-388224176f50",
+  "vendor": "Arturia"
+}

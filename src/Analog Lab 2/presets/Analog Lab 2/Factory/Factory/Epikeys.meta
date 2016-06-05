@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Epikeys",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a286e5c7-3aa3-49f8-bf2a-164e15b2311c",
+  "vendor": "Arturia"
+}

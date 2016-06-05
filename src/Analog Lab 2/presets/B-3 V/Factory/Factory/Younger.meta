@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Younger",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d5896b8c-3147-4c40-a1b6-2b9a7ae87940",
+  "vendor": "Arturia"
+}

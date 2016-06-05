@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "2 Steps Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "90e5da23-d3cd-4969-bcf3-535d03e17940",
+  "vendor": "Arturia"
+}

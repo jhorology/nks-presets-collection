@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Dark"],
+  "name": "Rise",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "38776e4c-8fd2-42e8-aa20-1346f3ec0873",
+  "vendor": "Arturia"
+}

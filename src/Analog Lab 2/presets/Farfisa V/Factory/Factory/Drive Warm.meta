@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Simple", "Short"],
+  "name": "Drive Warm",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "81190d69-06c8-4567-80b1-a4e07ab10aaa",
+  "vendor": "Arturia"
+}

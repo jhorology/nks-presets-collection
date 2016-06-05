@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Soffa",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8fe8d328-cf52-434b-8979-2ace715025bc",
+  "vendor": "Arturia"
+}

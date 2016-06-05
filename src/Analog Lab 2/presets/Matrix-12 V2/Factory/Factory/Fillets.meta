@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Fillets",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "605a2ab6-cfd4-4200-9988-5b76dacb281b",
+  "vendor": "Arturia"
+}

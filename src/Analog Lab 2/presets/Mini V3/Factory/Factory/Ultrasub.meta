@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Ultrasub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3a651174-24eb-4e2d-9465-2a5f8581532c",
+  "vendor": "Arturia"
+}

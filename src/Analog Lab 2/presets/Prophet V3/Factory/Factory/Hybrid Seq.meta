@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Hybrid Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cee87c8c-db8d-4581-bcbc-0fc79950e42a",
+  "vendor": "Arturia"
+}

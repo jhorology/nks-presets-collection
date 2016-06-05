@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Noise"],
+  "name": "Band Past",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bce84239-c08f-4eb1-8d6c-575262ba9d84",
+  "vendor": "Arturia"
+}

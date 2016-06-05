@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Quiet"],
+  "name": "Inside a Star",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f4ee6cdc-3f63-4551-9bc3-10d124b39926",
+  "vendor": "Arturia"
+}

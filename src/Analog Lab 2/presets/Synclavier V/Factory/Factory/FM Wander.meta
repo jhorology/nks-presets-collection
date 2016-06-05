@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a dive sort of sound that is definitely fm",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "FM Wander",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "7b22aabb-495d-4359-ba72-c2c14dfd68df",
+  "vendor": "Arturia"
+}

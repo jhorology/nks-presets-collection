@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Multi Delayed",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9fbf053c-1e70-4dac-a108-749309213351",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Vingy Fire",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ed95fb3b-c0d3-48ee-bf68-e33ebf599854",
+  "vendor": "Arturia"
+}

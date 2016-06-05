@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Harsh FM bass. Use modwheel to soften the sound",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard"],
+  "name": "Not Analog",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "18b22f83-f322-4ed5-9a9e-215c9d007ec6",
+  "vendor": "Arturia"
+}

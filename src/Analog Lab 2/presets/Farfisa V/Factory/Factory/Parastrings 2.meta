@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Slow filter-evolving pad based on 8' strings.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Soundtrack"],
+  "name": "Parastrings 2",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "e5e9b8b5-3aff-4bf4-86cf-3bc35e63d020",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Simple Nappe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d6164186-355c-470f-8b13-74f1f90d2574",
+  "vendor": "Arturia"
+}

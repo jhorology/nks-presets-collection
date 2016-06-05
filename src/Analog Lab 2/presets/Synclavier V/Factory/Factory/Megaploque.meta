@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Layered big funky Synth sound. Works as a bass as much as a lead",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble"],
+  "name": "Megaploque",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ee6856dc-5bb1-4900-8805-65f0a45dbc2e",
+  "vendor": "Arturia"
+}

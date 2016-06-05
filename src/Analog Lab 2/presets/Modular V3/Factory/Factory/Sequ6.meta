@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Sequ6",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d4b0bcdf-3b08-458b-a6b3-8c1a659bbe71",
+  "vendor": "Arturia"
+}

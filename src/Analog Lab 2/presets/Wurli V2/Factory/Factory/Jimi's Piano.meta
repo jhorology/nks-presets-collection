@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Jimi's Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e24ca847-dc05-4605-9648-10a2742bf82f",
+  "vendor": "Arturia"
+}

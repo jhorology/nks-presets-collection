@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Digital", "Noise"],
+  "name": "Inside Alien Ship",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ee85b72a-32e4-497a-b2db-bbe6a45a3b62",
+  "vendor": "Arturia"
+}

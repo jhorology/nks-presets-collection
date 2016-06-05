@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Quiet"],
+  "name": "Heaven's Pearls",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "07fe2e29-d850-4b9d-bc76-b3fac9227b89",
+  "vendor": "Arturia"
+}

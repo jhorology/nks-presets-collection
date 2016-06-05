@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Thinking Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "037eb464-c532-4817-9846-25b379fe467c",
+  "vendor": "Arturia"
+}

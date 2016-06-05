@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Fishing Bait",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1a8a2a09-d1c8-4b43-a643-989273264c31",
+  "vendor": "Arturia"
+}

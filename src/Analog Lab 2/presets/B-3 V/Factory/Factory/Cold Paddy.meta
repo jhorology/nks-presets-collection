@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "RIch Organ Pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Long", "Soft"],
+  "name": "Cold Paddy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b2d08b65-c3c6-4104-be2e-48c92d6b0000",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Speedee",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "c85d5e99-a75d-4ab5-a0d3-aec3e8b47c91",
+  "vendor": "Arturia"
+}

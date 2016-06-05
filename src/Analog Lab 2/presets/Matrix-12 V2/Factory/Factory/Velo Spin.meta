@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Velo Spin",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bf13c30e-3ee9-4342-9017-ba6b2ec2eb22",
+  "vendor": "Arturia"
+}

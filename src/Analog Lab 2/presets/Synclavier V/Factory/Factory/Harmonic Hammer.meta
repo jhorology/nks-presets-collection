@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "This highly dynamic key sound uses the time-frames as a sort of pitch envelope to get the scoop sound at the beginning. Those same time-frames disintegrate the sound at the end.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Dark", "Digital", "Funky", "Hard"],
+  "name": "Harmonic Hammer",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e1f1f75d-3ac3-47d6-a4a5-6500a4de7688",
+  "vendor": "Arturia"
+}

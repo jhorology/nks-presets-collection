@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple", "Short"],
+  "name": "Drive Control",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2ef38eaf-6e89-472b-b89c-71c880525a17",
+  "vendor": "Arturia"
+}

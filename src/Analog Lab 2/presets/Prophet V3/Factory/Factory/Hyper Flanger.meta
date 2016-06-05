@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soundtrack"],
+  "name": "Hyper Flanger",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ef1a395e-79e0-4e62-8cf3-fda4c2d94dc0",
+  "vendor": "Arturia"
+}

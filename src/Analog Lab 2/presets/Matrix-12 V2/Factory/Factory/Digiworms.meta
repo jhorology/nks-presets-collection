@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Digiworms",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "999dda8c-6572-413a-90c9-701b8552de54",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Soft"],
+  "name": "Evolving",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "17fc3d0f-00ba-49ab-8320-e684b4602f70",
+  "vendor": "Arturia"
+}

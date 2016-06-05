@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Casio Tone",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "120fc58e-d9af-4349-9e40-25922646688a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark"],
+  "name": "Vocalitzer",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1e1ad8e8-b4bb-44de-a626-9c794f2b873d",
+  "vendor": "Arturia"
+}

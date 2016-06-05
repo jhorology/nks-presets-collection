@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Waters Key",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "023086c6-ac63-456d-b207-87443938d9ee",
+  "vendor": "Arturia"
+}

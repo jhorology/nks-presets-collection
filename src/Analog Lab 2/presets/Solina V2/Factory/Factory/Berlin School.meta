@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Simple", "Soft", "Short"],
+  "name": "Berlin School",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7fa315ee-931c-4c66-b2a0-569300d99538",
+  "vendor": "Arturia"
+}

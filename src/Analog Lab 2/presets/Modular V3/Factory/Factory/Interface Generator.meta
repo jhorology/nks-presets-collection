@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Interface Generator",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2322fa26-b6d8-4b8d-bf6d-b0cd89bbb678",
+  "vendor": "Arturia"
+}

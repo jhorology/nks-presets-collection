@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Pseudo Orch",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "126027ce-df9a-41f3-b398-e1782d2ad563",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack"],
+  "name": "Synchromod Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9ae33c6b-1f14-48c3-824b-7fa4b81782af",
+  "vendor": "Arturia"
+}

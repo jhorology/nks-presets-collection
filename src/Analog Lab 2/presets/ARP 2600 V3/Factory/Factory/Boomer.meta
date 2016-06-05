@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Boomer",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2af16a76-f7a4-48c5-b301-3f75bf02e4ab",
+  "vendor": "Arturia"
+}

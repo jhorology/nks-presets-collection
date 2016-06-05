@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Shake Pet",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d6b5aacb-b075-491f-b6d5-fd23714d705d",
+  "vendor": "Arturia"
+}

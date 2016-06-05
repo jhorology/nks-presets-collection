@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Evolving Synth",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1a0e0357-dd0c-4581-8320-ad7840a3debb",
+  "vendor": "Arturia"
+}

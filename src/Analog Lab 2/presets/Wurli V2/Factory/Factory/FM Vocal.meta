@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Funky"],
+  "name": "FM Vocal",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4a7e055c-6832-4f01-8f84-9b9c75d9f2e7",
+  "vendor": "Arturia"
+}

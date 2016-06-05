@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Simple"],
+  "name": "Standby",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "29328b25-9642-4caa-b6a4-bf91be0b0392",
+  "vendor": "Arturia"
+}

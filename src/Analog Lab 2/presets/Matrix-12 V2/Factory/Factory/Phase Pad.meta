@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Phase Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f812c58c-c7c2-4b0e-9b3d-bfa1430e3268",
+  "vendor": "Arturia"
+}

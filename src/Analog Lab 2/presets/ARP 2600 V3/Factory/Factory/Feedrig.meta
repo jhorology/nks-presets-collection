@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Feedrig",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f9e3ebc5-6b72-4eec-89cc-8883b36617a4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "Funny Arpg",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f35d6d30-ba8d-4d26-8e9f-74c4b097e94b",
+  "vendor": "Arturia"
+}

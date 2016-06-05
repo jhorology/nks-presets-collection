@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Wormhole",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "827fe741-78fe-449e-9003-e2b1fa2d8925",
+  "vendor": "Arturia"
+}

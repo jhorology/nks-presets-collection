@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Long"],
+  "name": "Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b7d0fc33-db52-4293-8a69-e85aab2d4b40",
+  "vendor": "Arturia"
+}

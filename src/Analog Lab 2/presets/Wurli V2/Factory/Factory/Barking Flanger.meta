@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Simple"],
+  "name": "Barking Flanger",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d9e20fda-b5f7-4c36-8935-811db077a587",
+  "vendor": "Arturia"
+}

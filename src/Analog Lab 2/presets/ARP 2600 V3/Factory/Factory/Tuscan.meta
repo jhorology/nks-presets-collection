@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft"],
+  "name": "Tuscan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1fe32b8c-9cdb-4a5a-8550-a1da775d93ad",
+  "vendor": "Arturia"
+}

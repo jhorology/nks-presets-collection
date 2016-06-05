@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple", "Short"],
+  "name": "Tech Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "dcd76539-38aa-4f92-a781-c5461ba90f65",
+  "vendor": "Arturia"
+}

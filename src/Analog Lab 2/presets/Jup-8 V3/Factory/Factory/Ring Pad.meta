@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Digital"],
+  "name": "Ring Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "35181404-9361-498d-8393-69892b51a3da",
+  "vendor": "Arturia"
+}

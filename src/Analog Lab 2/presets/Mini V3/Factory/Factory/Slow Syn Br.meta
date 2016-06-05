@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Slow Syn Br",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "ccebebb6-8077-48da-9f01-80ea6c7c8ff7",
+  "vendor": "Arturia"
+}

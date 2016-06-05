@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soundtrack", "Short"],
+  "name": "SEM V Action",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f479eb69-87b3-443b-8a91-6e84bd989870",
+  "vendor": "Arturia"
+}

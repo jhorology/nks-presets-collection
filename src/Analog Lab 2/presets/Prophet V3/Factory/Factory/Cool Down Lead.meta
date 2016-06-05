@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Quite simple lead sound, yet playing short notes makes it slightly comical!",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Cool Down Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "223fb11d-ca51-4e1c-bca0-a3c84f4bcd97",
+  "vendor": "Arturia"
+}

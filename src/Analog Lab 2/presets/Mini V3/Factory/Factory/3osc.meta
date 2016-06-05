@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Classic bass patch you can use all day long. Sustained, legato, like a Taurus pedal.Mod wheel closes down the filter for a softer,  more clipped version.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "3osc",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b7ae90bf-833f-419c-9528-fc722f761515",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Anthony Gonzales",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack"],
+  "name": "LostMyHeartInSpace",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bc373f08-8a36-4b99-94c0-32edbc893fcd",
+  "vendor": "Arturia"
+}

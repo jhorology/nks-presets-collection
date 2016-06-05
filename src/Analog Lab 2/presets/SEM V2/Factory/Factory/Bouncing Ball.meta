@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "Bouncing Ball",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "18e7c753-ff4f-46f4-a89f-3c4f1c4a2eb5",
+  "vendor": "Arturia"
+}

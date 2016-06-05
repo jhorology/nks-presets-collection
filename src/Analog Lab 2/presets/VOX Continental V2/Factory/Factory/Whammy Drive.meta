@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Whammy Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "91d204fa-1f31-4a23-b5f0-67cbbe58775f",
+  "vendor": "Arturia"
+}

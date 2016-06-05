@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soundtrack", "Evolving"],
+  "name": "Ad Libitum",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "70efe029-fdb8-4e55-833f-f2e44f6ea504",
+  "vendor": "Arturia"
+}

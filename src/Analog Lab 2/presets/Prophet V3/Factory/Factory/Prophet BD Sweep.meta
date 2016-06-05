@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Prophet BD Sweep",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "dc2cf720-44fa-4bd2-9c2c-6a984dbdc67f",
+  "vendor": "Arturia"
+}

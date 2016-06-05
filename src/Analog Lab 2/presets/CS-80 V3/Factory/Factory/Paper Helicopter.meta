@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Paper Helicopter",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "13fcaf6f-6a29-43f4-ac7a-04c69ce3aa76",
+  "vendor": "Arturia"
+}

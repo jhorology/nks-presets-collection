@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Forbidden",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "23a2c7e1-085c-4726-898e-e2cba2919247",
+  "vendor": "Arturia"
+}

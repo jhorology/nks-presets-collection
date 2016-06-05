@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Drum roll like front end (the multi-stage attack envelope) on this otherwise soft mono pad. Mod wheel adds vibrato.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Multi Attack",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "37a8bf71-5d31-4547-b464-5089e2bcc8bc",
+  "vendor": "Arturia"
+}

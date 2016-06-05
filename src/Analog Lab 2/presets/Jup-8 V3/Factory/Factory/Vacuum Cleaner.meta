@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Vacuum Cleaner",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "9a1c344e-15b2-4e80-9444-5f3491e68653",
+  "vendor": "Arturia"
+}

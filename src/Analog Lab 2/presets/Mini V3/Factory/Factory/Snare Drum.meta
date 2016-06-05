@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise", "Simple"],
+  "name": "Snare Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0a21e327-f7ee-4969-8b15-3daec3ce990a",
+  "vendor": "Arturia"
+}

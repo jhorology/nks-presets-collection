@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Heavy Modulation Sound Effect with repeat mode. Modwheel controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Short"],
+  "name": "Repeat Kling",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3049a533-7c5d-40d8-b0ad-3481e958aa1f",
+  "vendor": "Arturia"
+}

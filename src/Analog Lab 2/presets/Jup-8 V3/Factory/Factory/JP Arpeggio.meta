@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Quiet", "Short"],
+  "name": "JP Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2fa1ca51-0e08-4f33-9dc9-0a4b3fbea02e",
+  "vendor": "Arturia"
+}

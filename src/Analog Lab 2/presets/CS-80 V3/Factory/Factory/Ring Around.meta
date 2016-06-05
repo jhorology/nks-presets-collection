@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Ring Around",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d836ce8e-5065-4991-9a4a-85b6db23a92e",
+  "vendor": "Arturia"
+}

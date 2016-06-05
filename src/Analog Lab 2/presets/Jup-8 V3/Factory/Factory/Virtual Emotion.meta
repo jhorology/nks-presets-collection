@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Virtual Emotion",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "17d18740-035c-4173-ba0e-da1f0291c1e7",
+  "vendor": "Arturia"
+}

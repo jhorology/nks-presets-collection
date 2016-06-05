@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Very strange",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "834471d2-8081-479d-8dbf-3e22b199e714",
+  "vendor": "Arturia"
+}

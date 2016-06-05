@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Quiet"],
+  "name": "Acc Lunar",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f9dc28e7-2a7e-4313-8579-9b49786e4d2d",
+  "vendor": "Arturia"
+}

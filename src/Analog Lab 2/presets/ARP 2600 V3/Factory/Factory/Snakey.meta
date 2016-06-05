@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Funky", "Hard"],
+  "name": "Snakey",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e2cb5f1f-848f-4685-a908-44258a7e86f1",
+  "vendor": "Arturia"
+}

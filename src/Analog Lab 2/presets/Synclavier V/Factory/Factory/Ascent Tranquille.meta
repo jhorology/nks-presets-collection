@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL-stereo tremolo depth AFTERTOUCH-speeds up the ascentdescent",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Ascent Tranquille",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c7dd4d2f-320c-4ff7-a875-ad477118ec45",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Soft 5th",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a57fcdf7-36cb-4017-927b-1c2cf0b4aa8e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Long", "Soundtrack"],
+  "name": "Scary Movie",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "01e2ac4d-cc10-49dd-a6ea-4d162efd41c4",
+  "vendor": "Arturia"
+}

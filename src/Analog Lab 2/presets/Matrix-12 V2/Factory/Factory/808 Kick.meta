@@ -1,0 +1,13 @@
+{
+  "author": "James Bernard",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "808 Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5de7f117-8783-40a6-8682-7fa0c1d9894d",
+  "vendor": "Arturia"
+}

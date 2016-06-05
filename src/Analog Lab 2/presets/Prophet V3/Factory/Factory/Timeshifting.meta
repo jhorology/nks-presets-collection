@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "Timeshifting",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ac14ee21-4ef8-4162-aa9b-3878fbb593c1",
+  "vendor": "Arturia"
+}

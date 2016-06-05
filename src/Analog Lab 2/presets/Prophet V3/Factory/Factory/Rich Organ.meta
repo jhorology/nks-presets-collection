@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Rich Organ",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "df4b5f96-dd90-44d5-92eb-e395ceb78d50",
+  "vendor": "Arturia"
+}

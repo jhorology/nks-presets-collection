@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Bow",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "99f70a27-2ef0-411a-8e23-4f00e8a262b4",
+  "vendor": "Arturia"
+}

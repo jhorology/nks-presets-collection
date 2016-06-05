@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Digital"],
+  "name": "Passing Menace",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3067d3f8-2349-4e7e-82bb-effea45d8369",
+  "vendor": "Arturia"
+}

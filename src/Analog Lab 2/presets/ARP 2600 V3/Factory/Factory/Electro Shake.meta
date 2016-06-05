@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Electro Shake",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cad0a26d-696e-46ae-8925-84e18adb37bd",
+  "vendor": "Arturia"
+}

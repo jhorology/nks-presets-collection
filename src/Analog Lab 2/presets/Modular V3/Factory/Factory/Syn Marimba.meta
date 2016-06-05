@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Syn Marimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e2955743-cbef-4c66-825f-57ae3a8063ae",
+  "vendor": "Arturia"
+}

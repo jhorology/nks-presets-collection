@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Click Pepiano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9b39f7cf-57bf-43c0-a30d-e9f3fe667e53",
+  "vendor": "Arturia"
+}

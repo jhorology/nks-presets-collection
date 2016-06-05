@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack"],
+  "name": "Wally Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e0127a83-bb7a-4a76-b595-5646c2a7d4fd",
+  "vendor": "Arturia"
+}

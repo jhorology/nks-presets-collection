@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Digichord",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "95b74c67-f3f9-42a1-958d-84be177012f7",
+  "vendor": "Arturia"
+}

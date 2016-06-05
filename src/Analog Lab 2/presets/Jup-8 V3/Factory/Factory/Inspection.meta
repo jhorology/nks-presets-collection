@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Arpeggiated minor sequence, one you could hear in an old b-movie. Try to put some delay on it !",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Inspection",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f2912d27-abc1-4e29-8f51-fe9b66f5bce4",
+  "vendor": "Arturia"
+}

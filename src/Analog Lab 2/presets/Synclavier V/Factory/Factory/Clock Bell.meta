@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Clockshop bell chime 1",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Clock Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fbd6a0d4-5156-4a85-8fa4-a7928ed00e07",
+  "vendor": "Arturia"
+}

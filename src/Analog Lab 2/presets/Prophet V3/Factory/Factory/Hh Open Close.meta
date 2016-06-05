@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Hh Open Close",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0ea62c08-2373-41ce-ae3c-a7a0bbdd222d",
+  "vendor": "Arturia"
+}

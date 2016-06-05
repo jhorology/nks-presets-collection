@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "String Hole",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "8c236591-898c-460b-9c98-18efa4f8e1e9",
+  "vendor": "Arturia"
+}

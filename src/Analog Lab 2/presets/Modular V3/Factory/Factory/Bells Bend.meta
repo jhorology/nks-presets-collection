@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long"],
+  "name": "Bells Bend",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5769b6d4-df72-4c3a-854d-b7612f20d03e",
+  "vendor": "Arturia"
+}

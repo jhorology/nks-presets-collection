@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long"],
+  "name": "Retina Scan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cb28bd7e-7178-475d-9c48-f1e28e22d5d6",
+  "vendor": "Arturia"
+}

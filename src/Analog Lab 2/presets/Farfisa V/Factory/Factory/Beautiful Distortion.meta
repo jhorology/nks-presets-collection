@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Noise"],
+  "name": "Beautiful Distortion",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "26adcc54-81b2-4900-b04e-f153513f6ec0",
+  "vendor": "Arturia"
+}

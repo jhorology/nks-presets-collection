@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "3partssplit",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9a847080-59c0-4d99-bc0c-3049303a2558",
+  "vendor": "Arturia"
+}

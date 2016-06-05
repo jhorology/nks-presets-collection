@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Ensemble"],
+  "name": "Strange org",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e2150827-ee8e-4b0a-8117-0f74eab46fc1",
+  "vendor": "Arturia"
+}

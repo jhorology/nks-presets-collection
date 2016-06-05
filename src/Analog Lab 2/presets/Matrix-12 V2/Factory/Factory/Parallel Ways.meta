@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long", "Soundtrack"],
+  "name": "Parallel Ways",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7038399f-6f64-47ac-829b-18f80ef4d534",
+  "vendor": "Arturia"
+}

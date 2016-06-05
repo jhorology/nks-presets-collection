@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' legendary Tron soundtrack from 1982. She used  DK Synergy systems which share a lot in common with Synclavier's FM synthesis. This patch is based on the beginning of the track End Titles.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Ensemble", "Soft", "Soundtrack"],
+  "name": "Tron End Titles",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "616d648e-6f54-4923-803c-c073a3b31a43",
+  "vendor": "Arturia"
+}

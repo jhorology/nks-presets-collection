@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Ambient", "Bright", "Complex"],
+  "name": "Psychedelica",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0f903ad6-51e6-4009-881b-26df22ff26cc",
+  "vendor": "Arturia"
+}

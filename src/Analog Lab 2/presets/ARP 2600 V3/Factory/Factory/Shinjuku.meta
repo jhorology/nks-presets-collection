@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Shinjuku",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "22055527-0ede-4b16-a776-3c55c31d7161",
+  "vendor": "Arturia"
+}

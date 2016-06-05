@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very aggressive FM bass - good to play around with the mod wheel and resample everything",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "Razor Edge",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a3c6b186-839a-48ae-80e9-108ea75f836d",
+  "vendor": "Arturia"
+}

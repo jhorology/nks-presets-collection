@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soundtrack"],
+  "name": "Ratarisi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b1018458-3259-4d1e-ab5d-4745859e58aa",
+  "vendor": "Arturia"
+}

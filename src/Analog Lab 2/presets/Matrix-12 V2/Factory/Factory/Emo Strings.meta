@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soundtrack"],
+  "name": "Emo Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "55743edf-5593-4dc0-9ff7-2535c33733d1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Bright", "Complex"],
+  "name": "Flange Lead",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "06b5fdb9-1017-4cd0-ab50-b0632f329c7b",
+  "vendor": "Arturia"
+}

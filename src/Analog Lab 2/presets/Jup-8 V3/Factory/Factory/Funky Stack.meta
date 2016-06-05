@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Distorted plucked lead. Works well when played in the lower register as a hybrid bass/lead acid sound.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Funky"],
+  "name": "Funky Stack",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "db70cee5-18e8-4301-892e-84ccdf492bea",
+  "vendor": "Arturia"
+}

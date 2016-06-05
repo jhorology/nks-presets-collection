@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soft", "Soundtrack"],
+  "name": "Candlelight",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "01fe4185-7cf4-452c-be13-b5bb4b1311a0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "End Asia Brasses",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "85c5ab22-71fa-4e2d-88c9-d586f1ed1cdb",
+  "vendor": "Arturia"
+}

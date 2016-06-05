@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [],
+  "name": "Sample And Hold",
+  "types": [
+    ["Template"]
+  ],
+  "uuid": "623f569d-5ef6-4624-8cc7-d80cdbf62678",
+  "vendor": "Arturia"
+}

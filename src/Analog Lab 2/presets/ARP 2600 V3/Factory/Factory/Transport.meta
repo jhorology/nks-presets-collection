@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Evolving"],
+  "name": "Transport",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1f113dfc-0a30-4c1a-9622-8e535cf29d5f",
+  "vendor": "Arturia"
+}

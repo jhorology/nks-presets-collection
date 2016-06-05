@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a hollow square like key sound with a fading pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Long", "Soundtrack"],
+  "name": "Violet Cast",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9391018e-3409-4bd0-98e2-acd6eccbba82",
+  "vendor": "Arturia"
+}

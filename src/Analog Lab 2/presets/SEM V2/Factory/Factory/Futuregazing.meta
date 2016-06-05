@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Futuregazing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1e9d65a3-0f3a-4747-9fcf-b57a35a06c2e",
+  "vendor": "Arturia"
+}

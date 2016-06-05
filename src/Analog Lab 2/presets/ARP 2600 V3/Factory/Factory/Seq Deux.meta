@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Seq Deux",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "04f28e2e-3138-471e-aa77-e982c609aec9",
+  "vendor": "Arturia"
+}

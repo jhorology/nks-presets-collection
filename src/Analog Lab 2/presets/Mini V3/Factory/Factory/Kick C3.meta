@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Kick C3",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "cfa3b0f9-7e27-4a2f-b46e-aefc535b9685",
+  "vendor": "Arturia"
+}

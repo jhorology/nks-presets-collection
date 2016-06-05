@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Solo trumpet sound.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Trumpet Solo",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "14fcee61-9084-457c-8a01-86f712814998",
+  "vendor": "Arturia"
+}

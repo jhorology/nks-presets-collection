@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Lead opening by an high pass filter sweep with a lot of harmonic content.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "Reality Open",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7cdb9aee-f62d-42e6-aeae-a90d084da0d5",
+  "vendor": "Arturia"
+}

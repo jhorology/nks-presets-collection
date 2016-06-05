@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Slow-fading low strings and voices. Quite light and spacious.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Simple", "Soundtrack", "Quiet"],
+  "name": "Ambi Strings 1",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9331bcec-8b11-4d62-bd54-7c0ff22cf9d3",
+  "vendor": "Arturia"
+}

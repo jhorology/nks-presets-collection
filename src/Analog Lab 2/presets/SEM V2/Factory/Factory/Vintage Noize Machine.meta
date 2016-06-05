@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Noise"],
+  "name": "Vintage Noize Machine",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "61cd5f9a-6747-4660-b048-bc5d96d73b67",
+  "vendor": "Arturia"
+}

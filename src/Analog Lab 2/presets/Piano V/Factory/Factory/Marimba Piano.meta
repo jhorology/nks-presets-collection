@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Soft and plucked marimba-like sound.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Marimba Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7c2d6426-e78d-47e3-a81b-e9afb79b4602",
+  "vendor": "Arturia"
+}

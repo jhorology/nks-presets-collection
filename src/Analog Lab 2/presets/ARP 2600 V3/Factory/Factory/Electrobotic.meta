@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Electrobotic",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "08d82fb7-4ee9-4eaf-8699-641ec6eca1f2",
+  "vendor": "Arturia"
+}

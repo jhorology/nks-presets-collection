@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atonal noise patch with different layered FM sounds. MOD WHEEL adjusts FM Ratio which changes the sounds a lot",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital", "Long", "Noise", "Evolving"],
+  "name": "Prepared Clavier",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a1bf50f5-773c-4fe5-b833-119ac65d47b9",
+  "vendor": "Arturia"
+}

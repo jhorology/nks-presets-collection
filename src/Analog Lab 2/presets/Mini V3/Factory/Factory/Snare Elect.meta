@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Snare Elect",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f16da1e6-a6af-46b4-a30d-abde059d52cc",
+  "vendor": "Arturia"
+}

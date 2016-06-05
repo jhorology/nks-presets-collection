@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Ting Tong",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d2b62aca-a3aa-41ec-9a13-640181134f90",
+  "vendor": "Arturia"
+}

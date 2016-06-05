@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Slow and expansive strings with LFO-geneated repeats fading in.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack", "Quiet"],
+  "name": "Rich Pulse Pad",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6d2d841a-416b-43e3-b34d-db862be28b03",
+  "vendor": "Arturia"
+}

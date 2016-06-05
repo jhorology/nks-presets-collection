@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "HPF Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9970bc34-a091-4393-9335-affe19b85065",
+  "vendor": "Arturia"
+}

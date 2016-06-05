@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft"],
+  "name": "Reso Swell",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "58853f85-1f36-4aff-9b5d-b37d195edd65",
+  "vendor": "Arturia"
+}

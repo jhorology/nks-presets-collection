@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Hiss Mod Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d44e3000-8401-4dd1-8cd5-3f57c300e19a",
+  "vendor": "Arturia"
+}

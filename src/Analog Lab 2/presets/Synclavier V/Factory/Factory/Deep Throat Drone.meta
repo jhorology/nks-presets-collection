@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Tibetan monk throat-singing. VELOCITY and AFTERTOUCH produce brighter throat-tone (FM amount) MOD WHEEL affects speed of chanting and tonal quality (harmonic envelope level)",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soft", "Soundtrack", "Evolving"],
+  "name": "Deep Throat Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ac5ccade-fb8c-4052-aee7-6e282e32927a",
+  "vendor": "Arturia"
+}

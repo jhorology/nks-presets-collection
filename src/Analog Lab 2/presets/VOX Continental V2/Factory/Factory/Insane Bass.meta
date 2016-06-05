@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "Insane Bass",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "49c7e091-53e1-40c8-ad43-fcb2f5c10245",
+  "vendor": "Arturia"
+}

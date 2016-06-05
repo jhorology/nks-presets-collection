@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Keep It Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "896a737c-d2fa-467c-b02e-b4856fa1574a",
+  "vendor": "Arturia"
+}

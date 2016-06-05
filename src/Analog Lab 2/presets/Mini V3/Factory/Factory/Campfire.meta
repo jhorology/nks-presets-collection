@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Campfire",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0aef7e14-80fe-45b3-80f9-1319fa5cb596",
+  "vendor": "Arturia"
+}

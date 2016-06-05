@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Hybridouble",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1fd653a7-a5c6-4630-bf7a-8d55b1bb1066",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Fairlighting",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5f15fb4b-97e2-44f5-85a9-fba75ece8b88",
+  "vendor": "Arturia"
+}

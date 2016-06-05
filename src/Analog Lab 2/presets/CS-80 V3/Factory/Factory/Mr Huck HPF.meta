@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Mr Huck HPF",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "22aa8d10-514d-4569-9f9e-3ea4996891f6",
+  "vendor": "Arturia"
+}

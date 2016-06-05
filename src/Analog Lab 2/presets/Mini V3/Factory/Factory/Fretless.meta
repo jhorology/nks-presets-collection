@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft"],
+  "name": "Fretless",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1274bf8e-2f55-4adc-b970-c66142e334af",
+  "vendor": "Arturia"
+}

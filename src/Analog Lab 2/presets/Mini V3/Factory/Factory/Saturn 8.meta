@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Saturn 8",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "bb9bfa14-e5bc-41c4-98f3-bbec4e636b12",
+  "vendor": "Arturia"
+}

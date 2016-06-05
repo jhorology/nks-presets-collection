@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark", "Digital", "Soundtrack", "Evolving"],
+  "name": "NastyLead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c3768616-b038-430a-bdd1-f739e8e0c08f",
+  "vendor": "Arturia"
+}

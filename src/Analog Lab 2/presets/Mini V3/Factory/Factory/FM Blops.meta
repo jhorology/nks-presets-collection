@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "FM Blops",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e25c337a-db9e-4a38-9aa9-babdc9ebcf2e",
+  "vendor": "Arturia"
+}

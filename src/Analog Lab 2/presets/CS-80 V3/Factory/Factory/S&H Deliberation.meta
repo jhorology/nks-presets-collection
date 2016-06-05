@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "S&H Deliberation",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dda6b796-3902-46f3-a023-49b7ff19ddf7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Bleeps and bloops in a sauce of heavy delays.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Space Operate",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c3489e6f-e038-4e9e-98d2-718ac51dc76d",
+  "vendor": "Arturia"
+}

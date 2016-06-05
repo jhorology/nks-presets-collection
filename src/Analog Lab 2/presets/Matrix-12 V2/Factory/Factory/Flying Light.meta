@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Flying Light",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a18f0702-0245-488a-9a6e-e8573e83ec66",
+  "vendor": "Arturia"
+}

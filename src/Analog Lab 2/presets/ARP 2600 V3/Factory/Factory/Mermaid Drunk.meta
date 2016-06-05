@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Mermaid Drunk",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4fa03211-03e7-4f17-946e-cd8350b142f3",
+  "vendor": "Arturia"
+}

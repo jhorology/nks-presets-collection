@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Sweet Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2dca4691-f9e9-4606-b678-c71c1c2a136a",
+  "vendor": "Arturia"
+}

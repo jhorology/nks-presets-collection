@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Compare to Synclavier pad sound in Grace Jones - The Crossing (Ohh The Action).",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soundtrack", "Short"],
+  "name": "Jones ThePad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9c1e4017-6988-46f4-a81b-e211b0f5a7d6",
+  "vendor": "Arturia"
+}

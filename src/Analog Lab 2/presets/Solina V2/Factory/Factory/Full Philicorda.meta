@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Short"],
+  "name": "Full Philicorda",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b483c926-569b-4824-8a07-01868a264bca",
+  "vendor": "Arturia"
+}

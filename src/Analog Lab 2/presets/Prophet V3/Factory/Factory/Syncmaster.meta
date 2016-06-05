@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard"],
+  "name": "Syncmaster",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2196a0b6-2ecd-4268-a249-51e2ea0f6cf7",
+  "vendor": "Arturia"
+}

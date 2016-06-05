@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Complex", "Dark"],
+  "name": "Bad Memory",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "25013771-f166-420b-9a9a-506c3c51ae9d",
+  "vendor": "Arturia"
+}

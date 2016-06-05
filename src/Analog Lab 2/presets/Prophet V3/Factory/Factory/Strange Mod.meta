@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Noise"],
+  "name": "Strange Mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "42a7b6cb-03be-4024-9962-f6e267c98b19",
+  "vendor": "Arturia"
+}

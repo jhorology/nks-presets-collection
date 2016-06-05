@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "HPF Sweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "176d28da-0af1-453d-8724-ee57873f76e3",
+  "vendor": "Arturia"
+}

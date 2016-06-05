@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Syncrono",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "731dff61-e0a8-4e54-a6f7-070dee5161d9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Soft mallets playing on metallic strings",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Soft Metal Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2bc04935-41c3-4358-a161-a98b1e5b23ae",
+  "vendor": "Arturia"
+}

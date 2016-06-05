@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Vangelis' The City. MOD WHEEL-stereo tremolo AFTERTOUCH-pad brighter",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Ensemble", "Long", "Soundtrack"],
+  "name": "CityDawn",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6202a173-1b38-4b8d-8786-dc8ed6c3133e",
+  "vendor": "Arturia"
+}

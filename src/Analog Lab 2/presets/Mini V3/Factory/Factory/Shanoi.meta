@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Shanoi",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0bd17cff-3154-4c43-9815-a7b0fbc34653",
+  "vendor": "Arturia"
+}

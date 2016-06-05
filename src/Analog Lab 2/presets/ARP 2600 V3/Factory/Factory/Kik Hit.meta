@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Kik Hit",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "52828d18-7619-4fec-93c6-7c68b35bda0e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Pitchup",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1ab22574-1b41-4e35-b0b7-a4c74f1ea6f9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble", "Hard"],
+  "name": "Teleport Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f5ba7d29-c38a-495a-9b1d-8ee093b5e2c0",
+  "vendor": "Arturia"
+}

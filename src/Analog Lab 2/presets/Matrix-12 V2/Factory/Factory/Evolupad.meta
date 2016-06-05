@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soundtrack"],
+  "name": "Evolupad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c0f2a8f3-5029-445d-b662-ce7bc1966d0f",
+  "vendor": "Arturia"
+}

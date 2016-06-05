@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Cheerch",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "73c2e917-4342-43df-bd80-b2df598d830c",
+  "vendor": "Arturia"
+}

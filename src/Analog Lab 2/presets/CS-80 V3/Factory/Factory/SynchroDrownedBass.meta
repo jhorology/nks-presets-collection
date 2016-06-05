@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "SynchroDrownedBass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bb692111-f1db-4381-8b03-6a49b79f3b8d",
+  "vendor": "Arturia"
+}

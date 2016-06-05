@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Thunder effects sound.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Thunder Rumbler",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d696819b-7fce-4f13-bdba-c7b93ec486a7",
+  "vendor": "Arturia"
+}

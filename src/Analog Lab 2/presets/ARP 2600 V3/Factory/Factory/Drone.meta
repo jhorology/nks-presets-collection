@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Drone",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0b091502-17ea-4b30-8eeb-752b9122979b",
+  "vendor": "Arturia"
+}

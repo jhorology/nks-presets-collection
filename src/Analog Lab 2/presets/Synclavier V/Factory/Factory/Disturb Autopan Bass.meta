@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Strange synth sound with repeat arpeggio mode. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Digital", "Hard", "Long"],
+  "name": "Disturb Autopan Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f39fa27b-950f-4499-ae44-47132713010f",
+  "vendor": "Arturia"
+}

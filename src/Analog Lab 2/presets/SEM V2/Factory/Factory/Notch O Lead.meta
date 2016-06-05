@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Notch O Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3ff2209c-9787-4990-b1ef-20da6554b554",
+  "vendor": "Arturia"
+}

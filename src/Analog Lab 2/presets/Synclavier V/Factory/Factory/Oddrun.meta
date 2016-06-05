@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a fast sequence from hight to low creating a  wacky feel",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital", "Short"],
+  "name": "Oddrun",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "76c5819e-ce1c-44a3-aee9-1736e23155d4",
+  "vendor": "Arturia"
+}

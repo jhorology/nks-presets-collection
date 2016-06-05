@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ensemble", "Hard"],
+  "name": "Wah Keys",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8e47abd6-b0a2-4603-ac9e-c69914798f0f",
+  "vendor": "Arturia"
+}

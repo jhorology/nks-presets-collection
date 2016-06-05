@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre", "Long"],
+  "name": "Modulated Slow",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f5a3367c-930c-424b-a335-e1d0c40b1dd2",
+  "vendor": "Arturia"
+}

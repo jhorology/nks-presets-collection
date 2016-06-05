@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "New Wave",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "642db199-49c6-4e32-8719-56e786d80260",
+  "vendor": "Arturia"
+}

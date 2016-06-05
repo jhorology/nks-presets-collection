@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Lovely Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2dd85588-7412-4d1a-919b-1274d2bbecf2",
+  "vendor": "Arturia"
+}

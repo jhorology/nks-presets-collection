@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Bright"],
+  "name": "Sharp FM Bass1",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fcee3cea-e97d-4de4-a160-d25ca2adb410",
+  "vendor": "Arturia"
+}

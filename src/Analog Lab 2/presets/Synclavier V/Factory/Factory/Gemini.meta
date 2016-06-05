@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a somewhat unstable sounding monophonic lead",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Gemini",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "968beb07-13c6-4ad4-be0b-e41f081afda6",
+  "vendor": "Arturia"
+}

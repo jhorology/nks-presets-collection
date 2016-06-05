@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Shaky Sweep",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c8610f62-a862-4e5f-9c74-7d6af34b312e",
+  "vendor": "Arturia"
+}

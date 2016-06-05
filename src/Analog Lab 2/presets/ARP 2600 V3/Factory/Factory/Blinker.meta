@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex"],
+  "name": "Blinker",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc193901-b403-46e9-b7fb-2f1f0994668d",
+  "vendor": "Arturia"
+}

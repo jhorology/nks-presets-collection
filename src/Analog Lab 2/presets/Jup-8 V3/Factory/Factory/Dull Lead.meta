@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Quiet"],
+  "name": "Dull Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7010a63b-3c66-4c04-b17b-c37eb796a64d",
+  "vendor": "Arturia"
+}

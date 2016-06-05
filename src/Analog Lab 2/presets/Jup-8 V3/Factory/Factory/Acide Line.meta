@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Bright", "Hard"],
+  "name": "Acide Line",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7788b5d0-a052-4f67-bc03-fc11f0a7a14a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Sweepm",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2259fc29-c1b5-45f8-8e06-c40f084c8bc3",
+  "vendor": "Arturia"
+}

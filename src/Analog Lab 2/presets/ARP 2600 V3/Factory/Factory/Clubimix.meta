@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Clubimix",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "86be557c-96fa-44b7-bd21-3cefbc0c4a74",
+  "vendor": "Arturia"
+}

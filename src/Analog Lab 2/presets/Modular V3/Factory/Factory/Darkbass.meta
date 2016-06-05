@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Bass sequence with portamento and an interesting rising then quickly dropping filter envelope.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Darkbass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f2564223-4fe5-44d8-8015-f4a169f36ddb",
+  "vendor": "Arturia"
+}

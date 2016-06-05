@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Long Attack",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ab4a1c7d-27d1-44c8-beb0-122abf6edff8",
+  "vendor": "Arturia"
+}

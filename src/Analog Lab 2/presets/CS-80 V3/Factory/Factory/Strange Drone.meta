@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Strange Drone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9d71e568-981a-43a9-afdb-731c832fc808",
+  "vendor": "Arturia"
+}

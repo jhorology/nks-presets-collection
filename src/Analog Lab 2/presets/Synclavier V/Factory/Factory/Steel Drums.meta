@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Steel drum sound.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Steel Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "47d2852a-f313-4fb4-ac1f-691158efd923",
+  "vendor": "Arturia"
+}

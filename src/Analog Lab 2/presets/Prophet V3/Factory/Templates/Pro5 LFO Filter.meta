@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Pro5 LFO Filter",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0dbc9579-63c3-4941-ade2-560a2da75cd5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Harmonics move quickly in time",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Funky", "Long"],
+  "name": "Spectrum Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "0368278b-4be0-4905-9c16-32b9e37b7499",
+  "vendor": "Arturia"
+}

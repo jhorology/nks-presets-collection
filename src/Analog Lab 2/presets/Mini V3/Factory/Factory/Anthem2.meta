@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Noise"],
+  "name": "Anthem2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "68eec5cf-31ae-49e2-ae6e-883c4e2a3f37",
+  "vendor": "Arturia"
+}

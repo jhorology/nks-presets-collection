@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired from the sandworm of DUNE.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Long", "Soft"],
+  "name": "Sandworm Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bf3d4bc4-eb2d-4f88-bc1a-afbdb4442768",
+  "vendor": "Arturia"
+}

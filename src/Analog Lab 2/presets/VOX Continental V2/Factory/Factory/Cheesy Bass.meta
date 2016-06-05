@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long", "Simple"],
+  "name": "Cheesy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ab0f379c-ee73-49f1-9cd0-163c1cf80252",
+  "vendor": "Arturia"
+}

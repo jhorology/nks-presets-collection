@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Openning Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6737ec89-0396-433f-bb9c-b622d1f768e7",
+  "vendor": "Arturia"
+}

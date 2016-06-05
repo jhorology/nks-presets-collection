@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Cutter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a49b8a35-5b68-4cd9-afae-348fafe10242",
+  "vendor": "Arturia"
+}

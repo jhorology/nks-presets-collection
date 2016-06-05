@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soundtrack", "Short"],
+  "name": "The Game",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "273048d0-4362-440b-9e4e-981df6981e79",
+  "vendor": "Arturia"
+}

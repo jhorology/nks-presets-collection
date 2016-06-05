@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Noise"],
+  "name": "Syncronicity",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ce8d657d-27f8-46d1-b106-32eba50580fb",
+  "vendor": "Arturia"
+}

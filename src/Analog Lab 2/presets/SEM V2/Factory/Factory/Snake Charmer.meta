@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre"],
+  "name": "Snake Charmer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd2782b5-1cda-4d20-87a0-fe3c13c3be60",
+  "vendor": "Arturia"
+}

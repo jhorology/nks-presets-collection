@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Musik Planz",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c9228aac-3287-4f56-babf-bd40b8a36d55",
+  "vendor": "Arturia"
+}

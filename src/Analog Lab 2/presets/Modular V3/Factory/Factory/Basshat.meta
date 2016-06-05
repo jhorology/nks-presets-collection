@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise", "Short"],
+  "name": "Basshat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "da18d803-ccf7-49ca-84fa-9961ebce2736",
+  "vendor": "Arturia"
+}

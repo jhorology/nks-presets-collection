@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Long"],
+  "name": "Release it",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a13a7eee-f24b-4430-9dcc-076c0069bb2e",
+  "vendor": "Arturia"
+}

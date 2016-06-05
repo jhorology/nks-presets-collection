@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Creampad Plane",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c8dba686-c70a-4f83-b4a7-bebc8442d437",
+  "vendor": "Arturia"
+}

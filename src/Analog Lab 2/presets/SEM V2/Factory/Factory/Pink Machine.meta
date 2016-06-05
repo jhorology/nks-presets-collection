@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Pink Machine",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "78fcbee7-fc45-4494-9092-000198ecf25e",
+  "vendor": "Arturia"
+}

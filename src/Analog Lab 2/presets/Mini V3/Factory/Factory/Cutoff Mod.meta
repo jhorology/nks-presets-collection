@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Cutoff Mod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "308b4f3d-3870-4ab0-8a00-4fd8bd5687f0",
+  "vendor": "Arturia"
+}

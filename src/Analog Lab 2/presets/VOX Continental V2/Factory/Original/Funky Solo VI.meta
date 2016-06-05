@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Simple"],
+  "name": "Funky Solo VI",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c46a827e-4cb5-4357-9c65-809275fb4a55",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Long"],
+  "name": "Ultra Sync Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b81f8970-1f58-450f-a5ec-9ba12128ea38",
+  "vendor": "Arturia"
+}

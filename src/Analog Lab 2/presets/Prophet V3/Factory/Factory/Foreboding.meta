@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Long"],
+  "name": "Foreboding",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d1a879ea-a99a-4fd8-a9ed-920f028cb388",
+  "vendor": "Arturia"
+}

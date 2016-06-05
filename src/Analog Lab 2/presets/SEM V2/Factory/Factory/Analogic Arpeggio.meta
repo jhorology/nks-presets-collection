@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Analogic Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "869248ef-a116-4f5b-b33c-843e85ece61f",
+  "vendor": "Arturia"
+}

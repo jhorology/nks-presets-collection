@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard", "Noise"],
+  "name": "Piercing Sheik",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3bd2b792-3404-43f8-acfa-17c4e49b87df",
+  "vendor": "Arturia"
+}

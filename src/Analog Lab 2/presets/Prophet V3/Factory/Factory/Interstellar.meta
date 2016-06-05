@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Long"],
+  "name": "Interstellar",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "72302d1e-5ca3-4fd8-935e-a2ce7fc64102",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Noise"],
+  "name": "Spaorgan",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3c9f7854-fbba-43e3-9bf4-4829bbe442b2",
+  "vendor": "Arturia"
+}

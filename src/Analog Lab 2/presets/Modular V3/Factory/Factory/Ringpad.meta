@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Ringpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "84b19fa4-f264-4aaf-b127-049022dc3e5b",
+  "vendor": "Arturia"
+}

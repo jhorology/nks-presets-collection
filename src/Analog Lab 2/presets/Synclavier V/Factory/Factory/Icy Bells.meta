@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "ModWheel controlled release",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Icy Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1b26e351-9e3f-4ffe-b1b2-0579527086e6",
+  "vendor": "Arturia"
+}

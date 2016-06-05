@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "An ambient pad that gives way first to heavy vibrato and then into a glitchy rhythm when the Mod wheel is brought up past half way.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Soft"],
+  "name": "Troll",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "59d5f2ae-798d-4198-83bf-e2fa2cd31ee8",
+  "vendor": "Arturia"
+}

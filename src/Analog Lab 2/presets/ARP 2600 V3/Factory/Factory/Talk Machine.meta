@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Talk Machine",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fc8a092d-492c-4459-9e9f-05f47563733f",
+  "vendor": "Arturia"
+}

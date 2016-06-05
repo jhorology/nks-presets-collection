@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Quiet"],
+  "name": "Steampunk Harpishord",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "eae19f07-4011-4272-9045-40917e4bd1ea",
+  "vendor": "Arturia"
+}

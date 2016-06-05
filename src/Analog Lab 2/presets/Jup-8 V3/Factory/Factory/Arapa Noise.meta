@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soft"],
+  "name": "Arapa Noise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3b1ab8b2-91be-41f1-9563-ad074e833033",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Long"],
+  "name": "Dreamy",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "2ac51a2a-a1f7-4ba4-a0ea-a6b032c61867",
+  "vendor": "Arturia"
+}

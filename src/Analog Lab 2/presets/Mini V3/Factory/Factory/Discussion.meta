@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Formant filtery with arpeggiation in octaves.",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "Discussion",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2e3a2e50-6454-4970-b504-8c25f29f1e12",
+  "vendor": "Arturia"
+}

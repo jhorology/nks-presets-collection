@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Wurlie Jazz",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "32914c22-8b3d-4de7-ac9c-499eff5ab59a",
+  "vendor": "Arturia"
+}

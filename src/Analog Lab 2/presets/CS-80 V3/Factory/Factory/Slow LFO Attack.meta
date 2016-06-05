@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Slow LFO Attack",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fb641567-b716-4bd6-b54d-f2527a242270",
+  "vendor": "Arturia"
+}

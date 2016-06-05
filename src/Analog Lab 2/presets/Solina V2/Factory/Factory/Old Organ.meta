@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Raw, verging on bagpipes but without the congestion.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Simple", "Short"],
+  "name": "Old Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a5660b15-100f-4d6a-b542-95c050bbcbf7",
+  "vendor": "Arturia"
+}

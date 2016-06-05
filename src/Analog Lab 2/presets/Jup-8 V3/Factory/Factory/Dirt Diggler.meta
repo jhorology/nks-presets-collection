@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Dirt Diggler",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c3fd72ac-681f-4d62-a8bf-7b7f183d2915",
+  "vendor": "Arturia"
+}

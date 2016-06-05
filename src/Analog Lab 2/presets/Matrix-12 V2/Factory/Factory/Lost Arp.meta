@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Space noises in this pulsating sample-and-hold style sound that accelerates and decelerates all by itself.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft", "Soundtrack"],
+  "name": "Lost Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "de8a56e9-702b-4754-aaf8-86234d9e1f67",
+  "vendor": "Arturia"
+}

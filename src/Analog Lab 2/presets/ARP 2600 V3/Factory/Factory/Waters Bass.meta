@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard"],
+  "name": "Waters Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7169e5b1-b3b8-4e49-9bba-dd60b4f62abb",
+  "vendor": "Arturia"
+}

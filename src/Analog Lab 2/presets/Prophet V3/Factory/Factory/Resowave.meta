@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soundtrack"],
+  "name": "Resowave",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "170550b1-6c2f-490e-a95e-f9b95bdfb561",
+  "vendor": "Arturia"
+}

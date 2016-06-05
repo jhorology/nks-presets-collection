@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Meringue",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d9c3b466-b77e-426c-bc29-8f95dff6b857",
+  "vendor": "Arturia"
+}

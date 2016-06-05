@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Elec Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e03439e9-9312-44b9-a0e7-0c97f33c51e7",
+  "vendor": "Arturia"
+}

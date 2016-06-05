@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Please Wait",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "82155dea-d918-4c8b-a3f4-6f7d39e6bff9",
+  "vendor": "Arturia"
+}

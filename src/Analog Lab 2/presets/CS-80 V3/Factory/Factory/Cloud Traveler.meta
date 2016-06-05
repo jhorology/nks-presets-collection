@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Cloud Traveler",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b9335b73-9f2d-404f-ba25-e2c21d83b027",
+  "vendor": "Arturia"
+}

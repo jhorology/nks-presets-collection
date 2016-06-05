@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Swam Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e420029c-a772-4d54-ad0b-ab93b8e3868d",
+  "vendor": "Arturia"
+}

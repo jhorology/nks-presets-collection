@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Deep silky strings",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Long", "Soft", "Soundtrack", "Quiet"],
+  "name": "Deeper Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "fb9eb711-02ff-4924-996d-f96f32e05e20",
+  "vendor": "Arturia"
+}

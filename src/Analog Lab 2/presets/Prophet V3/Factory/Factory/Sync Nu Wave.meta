@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sync Nu Wave",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1516587b-8c9d-4998-b6ee-b46cff7c95d2",
+  "vendor": "Arturia"
+}

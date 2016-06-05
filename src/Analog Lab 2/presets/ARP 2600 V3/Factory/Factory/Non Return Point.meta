@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Non Return Point",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "91eff24e-ea44-4d2f-9c10-e0dfa82d1741",
+  "vendor": "Arturia"
+}

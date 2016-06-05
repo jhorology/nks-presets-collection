@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Long"],
+  "name": "FX downer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "818b6ec3-299f-4b61-99ab-9df43ec374a9",
+  "vendor": "Arturia"
+}

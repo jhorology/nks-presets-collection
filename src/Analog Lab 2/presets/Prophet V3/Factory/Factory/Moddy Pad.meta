@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Moddy Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "343fa6cf-e77a-4b29-9a99-c34746ec44e4",
+  "vendor": "Arturia"
+}

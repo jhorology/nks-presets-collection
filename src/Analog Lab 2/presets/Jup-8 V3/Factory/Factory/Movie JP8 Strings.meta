@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soundtrack"],
+  "name": "Movie JP8 Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "99d87018-188e-45d2-9f89-a7e662c02414",
+  "vendor": "Arturia"
+}

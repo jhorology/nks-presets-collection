@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid"],
+  "name": "Radiosity",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dcc323d7-c7c4-4a4f-9d20-94c33bd08464",
+  "vendor": "Arturia"
+}

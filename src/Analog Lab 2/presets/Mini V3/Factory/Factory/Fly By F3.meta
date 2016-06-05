@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Digital", "Long"],
+  "name": "Fly By F3",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5166b6b6-c127-48eb-beea-8361db114c54",
+  "vendor": "Arturia"
+}

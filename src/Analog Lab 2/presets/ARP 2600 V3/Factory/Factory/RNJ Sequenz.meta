@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "RNJ Sequenz",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6d2c594c-4d44-4fdb-b097-62a0b3d9aad2",
+  "vendor": "Arturia"
+}

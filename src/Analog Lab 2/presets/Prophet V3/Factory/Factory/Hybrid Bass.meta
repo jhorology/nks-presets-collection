@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble"],
+  "name": "Hybrid Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0ba0bf75-86c8-46f6-8abc-a6b06141809a",
+  "vendor": "Arturia"
+}

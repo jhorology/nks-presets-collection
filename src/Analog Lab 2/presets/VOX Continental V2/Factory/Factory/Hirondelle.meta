@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long", "Simple"],
+  "name": "Hirondelle",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "09728107-6057-4628-9acd-2e3d3b317bfa",
+  "vendor": "Arturia"
+}

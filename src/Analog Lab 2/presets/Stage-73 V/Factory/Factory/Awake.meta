@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Awake",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b3ccce66-e416-4119-8611-5ea7a1b6bea2",
+  "vendor": "Arturia"
+}

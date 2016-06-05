@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Goa Party",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dc72f6bb-fd88-4595-b70d-8287e40bc64f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A feedbacking guitar. It uses the time-frames to to change the harmonic content of the carrier and modulator waves over time.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Long", "Soundtrack", "Evolving"],
+  "name": "FB Axe",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "0f407b66-82e8-4cb1-991c-ff44fa9db4f1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "On single notes this is like a transistor organ but if you play two or more notes it generates fast burbling, like the ring of an old telephone.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Quiet"],
+  "name": "Stutter Organ Layer",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2ed2ac1a-7677-4b21-a9f5-4b989f42305b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Down Spiral",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3f26c4af-45bc-452d-a4db-5d72c32c0274",
+  "vendor": "Arturia"
+}

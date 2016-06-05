@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Noise", "Soundtrack"],
+  "name": "Noisy Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "23d8ed57-49fb-476a-b980-2fad99b3b2cf",
+  "vendor": "Arturia"
+}

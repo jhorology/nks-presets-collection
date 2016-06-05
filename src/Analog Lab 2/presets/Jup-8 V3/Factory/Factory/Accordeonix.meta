@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Long", "Quiet"],
+  "name": "Accordeonix",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d119bc04-eb61-484e-8d35-4a8e4ac73182",
+  "vendor": "Arturia"
+}

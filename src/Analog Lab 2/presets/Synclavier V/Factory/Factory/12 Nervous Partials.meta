@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A lot of Fm on this sound with all the partials used. Modwheel controlled FM Ratio and aftertouch controlled FM amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "12 Nervous Partials",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1860fd2c-415c-4ae0-b269-18f9d98fe9d3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Soft Ambt",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "02c1ba97-ba6e-4132-9696-60a43b11e59f",
+  "vendor": "Arturia"
+}

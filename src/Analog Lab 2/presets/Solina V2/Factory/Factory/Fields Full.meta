@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long"],
+  "name": "Fields Full",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7eb0b544-1a8a-4a02-9dce-eaf785d3f4ea",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise", "Simple"],
+  "name": "DNB Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ed3a5af3-8e20-4daa-98f9-9277011a32fb",
+  "vendor": "Arturia"
+}

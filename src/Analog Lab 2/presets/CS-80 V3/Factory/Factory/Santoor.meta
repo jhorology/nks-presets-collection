@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Santoor",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "a33b844f-68af-4690-85a5-dd88658f5772",
+  "vendor": "Arturia"
+}

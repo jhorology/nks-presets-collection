@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Velocity makes it brighter. Mod wheel for vibrato and makes it a bit darker. Aftertouch adds a stereo panning. Try different play modes.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Hard", "Evolving"],
+  "name": "OCD Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8a548d0a-fe2d-4815-a17d-fecd39f21bea",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Simple", "Soft"],
+  "name": "Lay it back",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cc0280c7-574e-4b97-a244-e142d5e08855",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Evil Sweep",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fa92cb57-c270-4983-b2dc-e1b0d77ec5ce",
+  "vendor": "Arturia"
+}

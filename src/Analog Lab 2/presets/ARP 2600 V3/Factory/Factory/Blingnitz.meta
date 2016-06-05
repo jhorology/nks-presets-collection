@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Blingnitz",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d68f5013-5b69-4892-8895-70b9e2bd96d8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Pitch Dive",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9e01f761-a452-4265-a82c-a836d807df62",
+  "vendor": "Arturia"
+}

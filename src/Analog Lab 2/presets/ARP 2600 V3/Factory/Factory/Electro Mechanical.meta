@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Electro Mechanical",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "131941aa-8e4e-4f6e-8ab8-6f970903ef2f",
+  "vendor": "Arturia"
+}

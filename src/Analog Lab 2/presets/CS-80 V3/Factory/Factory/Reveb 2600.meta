@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Reveb 2600",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f624d750-d9e3-48c5-bd36-d15a1b5766b0",
+  "vendor": "Arturia"
+}

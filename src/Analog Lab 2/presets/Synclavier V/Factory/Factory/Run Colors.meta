@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Keys sound with repeat mode and panoramic fx. Modwheel controlled Pitch Chorus.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Run Colors",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "006d7414-1095-4b90-8e76-9d8e98c98a6d",
+  "vendor": "Arturia"
+}

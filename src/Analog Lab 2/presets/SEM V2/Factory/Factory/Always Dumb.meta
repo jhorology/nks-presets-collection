@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Noise"],
+  "name": "Always Dumb",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d0d1455b-f7f8-4f71-ae83-65c926640522",
+  "vendor": "Arturia"
+}

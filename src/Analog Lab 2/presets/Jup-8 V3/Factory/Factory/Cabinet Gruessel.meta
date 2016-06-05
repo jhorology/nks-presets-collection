@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple"],
+  "name": "Cabinet Gruessel",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "70cfe05d-7f2b-497e-a265-b45390afa640",
+  "vendor": "Arturia"
+}

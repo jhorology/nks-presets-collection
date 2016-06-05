@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Slow Porta",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1374c5bd-ec3c-4f98-8cd4-414cac37ac89",
+  "vendor": "Arturia"
+}

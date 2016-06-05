@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard"],
+  "name": "Harsch Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a5f43548-37a5-4e9d-a858-fa1d759c2117",
+  "vendor": "Arturia"
+}

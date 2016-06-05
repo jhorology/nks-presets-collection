@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Simple"],
+  "name": "Harpshynth",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f42f5dc8-b179-450b-a08f-34fd23235631",
+  "vendor": "Arturia"
+}

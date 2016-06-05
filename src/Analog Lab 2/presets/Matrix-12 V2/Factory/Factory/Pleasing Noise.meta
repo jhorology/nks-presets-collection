@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Soundtrack"],
+  "name": "Pleasing Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "eee26e66-087b-42bf-a2e1-d5e3f7567143",
+  "vendor": "Arturia"
+}

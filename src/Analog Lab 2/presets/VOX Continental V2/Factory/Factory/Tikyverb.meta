@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple", "Short"],
+  "name": "Tikyverb",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "811d96ad-701d-4973-9c6c-f53baab09f06",
+  "vendor": "Arturia"
+}

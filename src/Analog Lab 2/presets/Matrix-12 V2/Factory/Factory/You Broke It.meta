@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital"],
+  "name": "You Broke It",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aa19e4da-1461-423b-bb65-6e9c05f8cb81",
+  "vendor": "Arturia"
+}

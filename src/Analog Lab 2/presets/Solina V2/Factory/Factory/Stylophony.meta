@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple", "Short"],
+  "name": "Stylophony",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "1563fe54-6309-46e5-8a52-fea24c415248",
+  "vendor": "Arturia"
+}

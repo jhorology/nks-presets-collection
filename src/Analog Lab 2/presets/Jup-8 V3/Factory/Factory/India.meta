@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Very long and bright string-like instrument, similar to an indian tanpura.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Quiet"],
+  "name": "India",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "7a5634a6-bf6e-4a94-bd6a-47ff78322d20",
+  "vendor": "Arturia"
+}

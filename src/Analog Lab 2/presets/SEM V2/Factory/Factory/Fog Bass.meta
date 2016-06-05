@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Fog Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5cf0b11e-616f-4e6c-bb25-8380c85a5733",
+  "vendor": "Arturia"
+}

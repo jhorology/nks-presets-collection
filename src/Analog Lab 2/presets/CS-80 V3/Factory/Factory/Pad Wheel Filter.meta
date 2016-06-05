@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Thick and creamy pad. Mod wheel adds a whole lotta brightness and turns it into something else.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pad Wheel Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ac8169d4-d46f-4872-be12-05584c815817",
+  "vendor": "Arturia"
+}

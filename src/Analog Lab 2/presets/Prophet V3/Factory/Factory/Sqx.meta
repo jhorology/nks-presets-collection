@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Short"],
+  "name": "Sqx",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e991f597-246e-4db9-88ad-4a815248ba42",
+  "vendor": "Arturia"
+}

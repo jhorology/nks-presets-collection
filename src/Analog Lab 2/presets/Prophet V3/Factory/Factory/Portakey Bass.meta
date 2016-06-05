@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Portakey Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1be0ce56-a8dd-4448-8487-be5aaab0b479",
+  "vendor": "Arturia"
+}

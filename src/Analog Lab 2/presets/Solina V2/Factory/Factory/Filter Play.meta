@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Long"],
+  "name": "Filter Play",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0d2adcbf-8f12-4508-bd92-16eeed97fe8d",
+  "vendor": "Arturia"
+}

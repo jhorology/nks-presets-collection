@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Blat Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d8b22ddd-e3ef-48ef-97ea-f0a9b50a6bdc",
+  "vendor": "Arturia"
+}

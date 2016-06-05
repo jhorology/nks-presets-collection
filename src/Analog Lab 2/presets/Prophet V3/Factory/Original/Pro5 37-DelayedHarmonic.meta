@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Simple"],
+  "name": "Pro5 37-DelayedHarmonic",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "662d0e49-db8d-47ae-8c1d-da36a4c6773c",
+  "vendor": "Arturia"
+}

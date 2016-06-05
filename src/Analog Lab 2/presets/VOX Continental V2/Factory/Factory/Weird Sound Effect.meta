@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Quiet"],
+  "name": "Weird Sound Effect",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9013e977-f938-4c72-9d6d-40c4bba74d2b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Silky Sweeper",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "04d3eda7-8eee-4f12-816c-4a1e6caeb36e",
+  "vendor": "Arturia"
+}

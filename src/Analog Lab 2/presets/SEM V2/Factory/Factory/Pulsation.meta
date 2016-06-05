@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Pulsation",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1cfa2afa-a3ec-44b3-a418-133f6a49fd76",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Strange synth sequence with repeat arpegio mode. Modwheel controlled Chorus & Aftertouch controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Orgasma Pulse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "57599212-203a-4c8b-bd98-156b1dda1a76",
+  "vendor": "Arturia"
+}

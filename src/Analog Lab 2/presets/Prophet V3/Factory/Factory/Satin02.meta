@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Satin02",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d547eba4-1af8-43e6-824b-6db7d8086233",
+  "vendor": "Arturia"
+}

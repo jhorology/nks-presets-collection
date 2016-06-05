@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Fingerd",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "809a0f5c-c95a-47b8-9990-9c2002583e9f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Wildwest",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "035a2070-59b4-43f3-9c7c-b7692f197569",
+  "vendor": "Arturia"
+}

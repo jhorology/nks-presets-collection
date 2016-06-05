@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soundtrack"],
+  "name": "Scifi Harp",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1ff48468-7750-4a41-9b40-f6b93f35ec69",
+  "vendor": "Arturia"
+}

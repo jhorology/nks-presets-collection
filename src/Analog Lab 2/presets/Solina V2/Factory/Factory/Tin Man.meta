@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Tin Man",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "ea42f1a3-7ee9-4c56-8987-1156dca6ac51",
+  "vendor": "Arturia"
+}

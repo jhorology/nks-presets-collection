@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Flute",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f178d9bb-e1bc-4625-a870-0d53e09add75",
+  "vendor": "Arturia"
+}

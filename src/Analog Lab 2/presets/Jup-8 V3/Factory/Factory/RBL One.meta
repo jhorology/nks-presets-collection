@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "RBL One",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7214da0d-c741-4b10-96ff-ac6d48a63b3a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Bass Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fba746dc-4a40-472a-8581-506e30f5eae2",
+  "vendor": "Arturia"
+}

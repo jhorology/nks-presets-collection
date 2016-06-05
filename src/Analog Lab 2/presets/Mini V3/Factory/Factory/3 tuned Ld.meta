@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "3 tuned Ld",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bc1dea2f-b62a-4343-bfd7-26b86e2b58dd",
+  "vendor": "Arturia"
+}

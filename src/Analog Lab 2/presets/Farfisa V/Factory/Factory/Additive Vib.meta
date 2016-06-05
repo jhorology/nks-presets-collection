@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Additive Vib",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8a19309e-28b7-425e-8ae7-a09df54afa60",
+  "vendor": "Arturia"
+}

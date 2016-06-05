@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "African Ronde",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "62e6fcf1-9529-4010-b420-4e80b62e3286",
+  "vendor": "Arturia"
+}

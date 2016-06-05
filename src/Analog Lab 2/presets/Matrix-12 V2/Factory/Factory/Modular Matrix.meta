@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Modular Matrix",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8f7b3fdc-c4e8-438e-a52d-387107b99b54",
+  "vendor": "Arturia"
+}

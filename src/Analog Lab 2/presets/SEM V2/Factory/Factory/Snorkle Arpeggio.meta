@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Snorkle Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a95535f5-d721-4a8a-aaa2-1ad1a5b7ff98",
+  "vendor": "Arturia"
+}

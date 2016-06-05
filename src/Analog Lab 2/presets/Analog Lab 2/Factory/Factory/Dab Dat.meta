@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Noise", "Simple"],
+  "name": "Dab Dat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a5d398ee-d024-457d-b30a-a08c592580a3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Mossequitos",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8b826c8e-f4ef-41a7-940b-aabf8a1e7328",
+  "vendor": "Arturia"
+}

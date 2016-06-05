@@ -1,0 +1,13 @@
+{
+  "author": "Matrix12",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Quiet"],
+  "name": "Chillo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d0fa1dbe-b6ea-4c8c-9b0f-4c4155f5379e",
+  "vendor": "Arturia"
+}

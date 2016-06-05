@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Ambell Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "30cc212e-40d9-439e-85e6-e1f764b0e146",
+  "vendor": "Arturia"
+}

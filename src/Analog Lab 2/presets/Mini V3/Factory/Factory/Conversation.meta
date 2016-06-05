@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Conversation",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "91478a9e-e2c3-4240-a5ec-7066d9c4f8bf",
+  "vendor": "Arturia"
+}

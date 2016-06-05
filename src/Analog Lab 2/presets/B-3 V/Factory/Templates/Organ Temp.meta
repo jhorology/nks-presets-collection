@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "B-3", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Organ Temp",
+  "types": [
+    ["Template"]
+  ],
+  "uuid": "6f700d5c-a333-416c-b9f5-4b01eda613a2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Quiet"],
+  "name": "Bpf Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e1bbd0b7-a296-4ca4-b3f4-d72063060f42",
+  "vendor": "Arturia"
+}

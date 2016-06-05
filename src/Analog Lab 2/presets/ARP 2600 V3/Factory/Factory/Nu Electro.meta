@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Nu Electro",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c56c262a-e71b-4e25-be20-322e8bb3961b",
+  "vendor": "Arturia"
+}

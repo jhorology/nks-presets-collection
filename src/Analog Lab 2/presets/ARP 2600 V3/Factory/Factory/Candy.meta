@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Candy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "63dff1b1-580d-4f40-88e0-79edfbc3ee01",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Riser",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "94cc5f4e-1f56-4ced-aaed-7f5ee79d0bca",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble"],
+  "name": "Unisson Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b121b341-b3ed-4113-99c8-026d702b5d78",
+  "vendor": "Arturia"
+}

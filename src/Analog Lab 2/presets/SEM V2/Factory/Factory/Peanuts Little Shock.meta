@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soundtrack"],
+  "name": "Peanuts Little Shock",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a2761dbf-895b-48bd-beac-42e939098710",
+  "vendor": "Arturia"
+}

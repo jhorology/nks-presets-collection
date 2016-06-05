@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Xpress Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7d146868-fcff-48f3-8903-0079660857a3",
+  "vendor": "Arturia"
+}

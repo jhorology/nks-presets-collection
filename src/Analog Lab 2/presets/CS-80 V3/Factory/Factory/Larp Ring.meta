@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Larp Ring",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cfc52c20-de70-4583-9299-d863d8c43036",
+  "vendor": "Arturia"
+}

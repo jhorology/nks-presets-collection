@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Soft"],
+  "name": "Beach Light",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "013bc9ca-8d57-48e8-835e-27ab5c843f73",
+  "vendor": "Arturia"
+}

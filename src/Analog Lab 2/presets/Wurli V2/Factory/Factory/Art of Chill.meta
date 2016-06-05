@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soft", "Soundtrack"],
+  "name": "Art of Chill",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a9c6b34f-e866-452c-96a6-2923b4719f9f",
+  "vendor": "Arturia"
+}

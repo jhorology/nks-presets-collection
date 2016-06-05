@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long", "Simple"],
+  "name": "Breaking Glass",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "962caabe-b0f7-461d-a419-81695aac688f",
+  "vendor": "Arturia"
+}

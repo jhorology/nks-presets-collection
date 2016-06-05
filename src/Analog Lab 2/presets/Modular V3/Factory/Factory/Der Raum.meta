@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Der Raum",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2c82e3b4-4e53-48c1-8b72-0025e7b4b0fc",
+  "vendor": "Arturia"
+}

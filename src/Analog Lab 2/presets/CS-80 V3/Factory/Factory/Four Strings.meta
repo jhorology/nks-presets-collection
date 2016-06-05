@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Four Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "1ad586ac-cf7e-4184-9cc6-34e97b9a007a",
+  "vendor": "Arturia"
+}

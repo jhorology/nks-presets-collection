@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Four Organs",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "45796d32-e95d-46e9-b32f-c478a2140ce9",
+  "vendor": "Arturia"
+}

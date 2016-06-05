@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "an organish morphing pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Glassy Organ",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eadb6014-d12a-4848-9ddb-012d8c89af23",
+  "vendor": "Arturia"
+}

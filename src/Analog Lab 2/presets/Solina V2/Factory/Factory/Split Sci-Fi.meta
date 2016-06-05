@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long", "Simple", "Quiet"],
+  "name": "Split Sci-Fi",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d8ed213f-b60d-4966-8e10-75ae1c0936c1",
+  "vendor": "Arturia"
+}

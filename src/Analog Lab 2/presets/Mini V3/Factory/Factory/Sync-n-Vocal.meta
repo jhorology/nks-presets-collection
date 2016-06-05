@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Sync-n-Vocal",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fae39b1c-e89c-489d-bd73-e3d7ad6baee8",
+  "vendor": "Arturia"
+}

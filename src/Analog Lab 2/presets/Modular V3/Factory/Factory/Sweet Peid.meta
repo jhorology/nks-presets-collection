@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Sweet Peid",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7b458bab-1ad3-4420-ad04-7e3813d5cd37",
+  "vendor": "Arturia"
+}

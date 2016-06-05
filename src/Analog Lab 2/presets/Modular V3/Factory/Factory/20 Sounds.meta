@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "20 Sounds",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0c7d371b-9a67-4bd4-90eb-d2ab547dea2e",
+  "vendor": "Arturia"
+}

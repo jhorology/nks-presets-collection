@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise", "Evolving"],
+  "name": "Vepaur",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4b8f85ab-d70f-4988-9e1c-765d7b1132d6",
+  "vendor": "Arturia"
+}

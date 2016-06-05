@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Warm Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8e47a401-ae1a-488c-a9ba-6cc03444ef68",
+  "vendor": "Arturia"
+}

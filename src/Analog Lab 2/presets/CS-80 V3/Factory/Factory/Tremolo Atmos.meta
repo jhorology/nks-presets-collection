@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Tremolo Atmos",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6ffe1935-a942-494b-a9b3-e5da01270ee5",
+  "vendor": "Arturia"
+}

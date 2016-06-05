@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Relays",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1f74f6d9-80a8-4c51-b94c-cdbe284869ec",
+  "vendor": "Arturia"
+}

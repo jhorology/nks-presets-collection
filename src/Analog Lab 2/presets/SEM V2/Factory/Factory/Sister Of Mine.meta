@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Sister Of Mine",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f5887bc2-2f0f-46c6-bf2f-3e295e286f6c",
+  "vendor": "Arturia"
+}

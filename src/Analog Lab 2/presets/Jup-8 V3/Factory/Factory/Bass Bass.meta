@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Bass Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1053cb84-ef45-4706-9941-de79fc0219b8",
+  "vendor": "Arturia"
+}

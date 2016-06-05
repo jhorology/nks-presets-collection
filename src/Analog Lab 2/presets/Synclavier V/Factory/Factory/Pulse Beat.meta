@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sequence with Strange Kick and many sweet sounds. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Complex", "Digital"],
+  "name": "Pulse Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "677e2adf-af7b-4a23-a2a0-a2a750948379",
+  "vendor": "Arturia"
+}

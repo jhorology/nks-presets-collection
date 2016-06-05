@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Long"],
+  "name": "Lunartic",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f8edb57f-6243-4b04-a73c-cd0e918d8c9e",
+  "vendor": "Arturia"
+}

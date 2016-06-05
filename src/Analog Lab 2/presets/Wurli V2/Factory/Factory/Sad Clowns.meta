@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Long", "Simple", "Soft"],
+  "name": "Sad Clowns",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ee80cb7b-d6ac-441c-93a9-0c570044954c",
+  "vendor": "Arturia"
+}

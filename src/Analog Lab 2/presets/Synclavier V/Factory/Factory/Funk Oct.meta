@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "good for both funky bass and lead",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky"],
+  "name": "Funk Oct",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "df2b7b89-3dfc-4e20-bd53-a0b5c526c73c",
+  "vendor": "Arturia"
+}

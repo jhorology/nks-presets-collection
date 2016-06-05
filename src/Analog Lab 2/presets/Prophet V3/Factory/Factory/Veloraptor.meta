@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Two distinct tones triggered by different mixer envelopes. Digital then analog.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Veloraptor",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5aef7bb3-e5ca-48a9-842f-87b891a1114a",
+  "vendor": "Arturia"
+}

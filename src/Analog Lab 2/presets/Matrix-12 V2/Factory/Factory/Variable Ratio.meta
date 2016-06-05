@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Variable Ratio",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d99376cd-ad1f-4590-98db-039ac07f5540",
+  "vendor": "Arturia"
+}

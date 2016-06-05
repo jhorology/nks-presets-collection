@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex"],
+  "name": "Brighter Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b8efd4a9-de4e-46c0-89e6-013706b7be41",
+  "vendor": "Arturia"
+}

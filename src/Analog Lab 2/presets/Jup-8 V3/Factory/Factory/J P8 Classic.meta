@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Hard", "Simple"],
+  "name": "J P8 Classic",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "3210f23b-0e2a-40b1-bf0d-0b5e85471c06",
+  "vendor": "Arturia"
+}

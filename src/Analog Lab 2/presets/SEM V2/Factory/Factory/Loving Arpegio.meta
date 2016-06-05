@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Loving Arpegio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "65053678-b34b-4cf4-8751-44dce567d50d",
+  "vendor": "Arturia"
+}

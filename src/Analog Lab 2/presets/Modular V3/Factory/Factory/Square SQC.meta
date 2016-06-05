@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Square SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0dd7b2a0-4891-40b8-a803-85ddd8fcc542",
+  "vendor": "Arturia"
+}

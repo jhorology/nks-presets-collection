@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bite Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "01b18811-df9c-41cb-8c8b-d42c9aa2a831",
+  "vendor": "Arturia"
+}

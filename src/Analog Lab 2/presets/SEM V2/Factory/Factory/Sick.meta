@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Hard", "Short"],
+  "name": "Sick",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a1e7249f-67d9-4619-a9ea-3f85463f475a",
+  "vendor": "Arturia"
+}

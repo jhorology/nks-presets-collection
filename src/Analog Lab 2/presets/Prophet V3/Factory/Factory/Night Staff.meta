@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Classic portamento square lead. Mod wheel controls the filter cutoff.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Night Staff",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d6e72ece-d963-43fb-b4f7-56dc8175d1f1",
+  "vendor": "Arturia"
+}

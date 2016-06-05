@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Soft"],
+  "name": "Pulsar",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b73f8f7e-7038-4f1e-95fd-edacc8b88217",
+  "vendor": "Arturia"
+}

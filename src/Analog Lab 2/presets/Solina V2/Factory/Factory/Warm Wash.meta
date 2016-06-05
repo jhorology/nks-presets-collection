@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long"],
+  "name": "Warm Wash",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f7177f1a-8c11-409b-8377-08465d0c145e",
+  "vendor": "Arturia"
+}

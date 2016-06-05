@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Powerful lead or bass with sinking (and syncing) pitch on the oscillators.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Soft"],
+  "name": "Laser Harp",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "5c0911bb-f5cc-421e-a9fa-0104db7d95fc",
+  "vendor": "Arturia"
+}

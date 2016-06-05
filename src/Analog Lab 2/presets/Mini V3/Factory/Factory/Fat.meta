@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Fat",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b7ece621-b27a-4f1e-8d29-c247fdf7e2f0",
+  "vendor": "Arturia"
+}

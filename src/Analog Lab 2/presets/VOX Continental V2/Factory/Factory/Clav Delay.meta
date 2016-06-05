@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long", "Soft", "Short"],
+  "name": "Clav Delay",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7c3345b6-bae6-4b9d-8556-823e29d3e2e9",
+  "vendor": "Arturia"
+}

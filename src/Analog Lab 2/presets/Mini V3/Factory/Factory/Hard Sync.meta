@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Hard Sync",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1e19440a-5ace-47c4-9750-b165009aec58",
+  "vendor": "Arturia"
+}

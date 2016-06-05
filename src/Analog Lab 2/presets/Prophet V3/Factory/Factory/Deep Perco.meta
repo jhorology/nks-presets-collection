@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "Deep Perco",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "45a3f2f4-48fa-403f-8a62-45e2bba17e97",
+  "vendor": "Arturia"
+}

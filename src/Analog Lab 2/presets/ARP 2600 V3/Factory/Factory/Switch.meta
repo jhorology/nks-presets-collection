@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Evolving"],
+  "name": "Switch",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "874c36a2-f52a-4b7d-a461-4205ed1b8d91",
+  "vendor": "Arturia"
+}

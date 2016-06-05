@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Glassraum",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a402b30b-7a94-4238-83ef-2b8f6eee9614",
+  "vendor": "Arturia"
+}

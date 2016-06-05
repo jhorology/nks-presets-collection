@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Carillon",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a3c5d25d-f1c0-4219-99be-1e3fdf8d24f3",
+  "vendor": "Arturia"
+}

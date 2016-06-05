@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "House Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9facd5dd-7bde-430e-9f2c-60ca3b3b5439",
+  "vendor": "Arturia"
+}

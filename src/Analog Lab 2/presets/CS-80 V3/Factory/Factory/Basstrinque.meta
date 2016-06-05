@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Basstrinque",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c26b4f1b-c989-481c-9787-0266e355a0ce",
+  "vendor": "Arturia"
+}

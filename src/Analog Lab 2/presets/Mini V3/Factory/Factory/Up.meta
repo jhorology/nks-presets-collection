@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Up",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3be3d167-cad8-4a9a-a995-52ea8903692a",
+  "vendor": "Arturia"
+}

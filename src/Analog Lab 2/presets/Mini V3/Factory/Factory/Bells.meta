@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Long"],
+  "name": "Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6e22eb50-5a6f-475d-9b79-4aee59220c76",
+  "vendor": "Arturia"
+}

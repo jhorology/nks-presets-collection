@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Litergy",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b7195bd6-dcfb-41db-9219-79e820166296",
+  "vendor": "Arturia"
+}

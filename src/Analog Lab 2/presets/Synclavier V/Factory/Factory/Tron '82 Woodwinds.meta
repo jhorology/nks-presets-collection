@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' legendary Tron soundtrack from 1982. She used  DK Synergy systems which share a lot in common with Synclavier's FM synthesis. This multi-layered woodwinds  patch is very responsive to VELOCITY. MOD WHEEL - slight detuning",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Funky", "Soundtrack"],
+  "name": "Tron '82 Woodwinds",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b7194219-6ba9-43f9-80e4-2ad2f62281b4",
+  "vendor": "Arturia"
+}

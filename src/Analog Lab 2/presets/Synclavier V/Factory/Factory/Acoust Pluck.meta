@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Well simulated steel string acoustic guitar.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple"],
+  "name": "Acoust Pluck",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "036085c6-0821-4a40-afe2-68b06e536c87",
+  "vendor": "Arturia"
+}

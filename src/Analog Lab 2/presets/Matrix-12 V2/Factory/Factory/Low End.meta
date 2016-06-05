@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Funky"],
+  "name": "Low End",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "93515f24-745e-46bb-9268-072cfd52700a",
+  "vendor": "Arturia"
+}

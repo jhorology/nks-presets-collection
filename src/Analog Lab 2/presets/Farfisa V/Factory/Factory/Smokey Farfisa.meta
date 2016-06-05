@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Smokey Farfisa",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d30a6d9a-85b6-4a15-9b9c-9856560b4cac",
+  "vendor": "Arturia"
+}

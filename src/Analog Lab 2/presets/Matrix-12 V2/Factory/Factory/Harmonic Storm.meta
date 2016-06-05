@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Multi-dimensional pad with phaser in tow. FM modulation and filter sweeping. Long and evolving. You won't need to 'play' much, just let the sound develop and speak.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Digital"],
+  "name": "Harmonic Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "89341960-0166-4d62-981b-69540c36d09c",
+  "vendor": "Arturia"
+}

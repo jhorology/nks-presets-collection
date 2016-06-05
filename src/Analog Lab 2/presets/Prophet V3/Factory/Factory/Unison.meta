@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Unison",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c604a1d5-b68e-4b8c-adb6-b60f8e5f44a5",
+  "vendor": "Arturia"
+}

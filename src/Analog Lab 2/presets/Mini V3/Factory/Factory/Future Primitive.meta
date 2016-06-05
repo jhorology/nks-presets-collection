@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Noise"],
+  "name": "Future Primitive",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "65991a9f-f872-4f7c-8bde-a8000f631b15",
+  "vendor": "Arturia"
+}

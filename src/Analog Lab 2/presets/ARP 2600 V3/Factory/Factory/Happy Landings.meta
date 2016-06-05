@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Happy Landings",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "09305981-88e6-40c5-82df-002e00a96049",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Scan Leads",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd092d40-3c10-45d8-ba93-1b15c094763e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Drops Zone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b23ed0fd-7a34-45ed-b0be-caef95a0e4fd",
+  "vendor": "Arturia"
+}

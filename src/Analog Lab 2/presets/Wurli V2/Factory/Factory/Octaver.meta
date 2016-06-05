@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Funky"],
+  "name": "Octaver",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "dc58bd82-301c-4ece-ade5-03d7354d64ac",
+  "vendor": "Arturia"
+}

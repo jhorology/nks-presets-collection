@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Pulserz",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "80efe87a-8f77-4437-ac95-e53f735ab4b7",
+  "vendor": "Arturia"
+}

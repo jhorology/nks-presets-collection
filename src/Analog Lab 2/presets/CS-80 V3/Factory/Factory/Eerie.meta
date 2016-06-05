@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Eerie",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e6cb2241-23c0-4b21-aedc-ca1f45808fc2",
+  "vendor": "Arturia"
+}

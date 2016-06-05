@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Klong",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3b8e8ae9-7c1a-49e3-be42-26687006810d",
+  "vendor": "Arturia"
+}

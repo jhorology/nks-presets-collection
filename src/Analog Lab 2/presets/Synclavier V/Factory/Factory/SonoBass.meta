@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Heavy bass sound that uses detuned partials for a wide stereo effect. The specific sound comes from a modulator that is pitch way below it's carrier.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Dark", "Digital", "Hard"],
+  "name": "SonoBass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "48819dbd-1e3f-46a8-9612-6b42410ff048",
+  "vendor": "Arturia"
+}

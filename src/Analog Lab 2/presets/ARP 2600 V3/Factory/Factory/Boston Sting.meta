@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Boston Sting",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5c450ddc-efb2-4db1-8fc3-3e8acad647fc",
+  "vendor": "Arturia"
+}

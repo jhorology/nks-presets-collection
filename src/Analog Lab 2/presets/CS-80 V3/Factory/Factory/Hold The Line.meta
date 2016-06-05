@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long"],
+  "name": "Hold The Line",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2797fd37-9ed9-498f-b756-b3dd2e17446f",
+  "vendor": "Arturia"
+}

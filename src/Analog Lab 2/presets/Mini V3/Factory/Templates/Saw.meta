@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Saw",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6596d7b5-3099-4ed7-8db0-3b06661cec3e",
+  "vendor": "Arturia"
+}

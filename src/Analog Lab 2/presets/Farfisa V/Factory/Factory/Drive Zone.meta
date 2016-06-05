@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Drive Zone",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b59f525b-dcce-4551-8891-107839e4b49f",
+  "vendor": "Arturia"
+}

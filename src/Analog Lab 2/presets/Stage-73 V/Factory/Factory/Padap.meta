@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Padap",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8d1a1205-24e6-441b-8658-abad61e5de50",
+  "vendor": "Arturia"
+}

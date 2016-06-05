@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Calling All Raverz",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1d6cf841-2702-40b3-b063-61e9d706b986",
+  "vendor": "Arturia"
+}

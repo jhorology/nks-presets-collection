@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Complex"],
+  "name": "Ballad Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "4a14690e-b14a-4bab-8196-61a3d7e71639",
+  "vendor": "Arturia"
+}

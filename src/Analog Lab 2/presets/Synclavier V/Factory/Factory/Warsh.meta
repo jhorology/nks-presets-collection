@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "produces slowly morphing chord washes. MOD WHEEL - stereo panning",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Soft", "Soundtrack", "Evolving"],
+  "name": "Warsh",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "af12122f-7c9c-42e7-9924-c5925d48630b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise", "Soft"],
+  "name": "Scifi Tramway",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "427a5f57-d42c-4373-8553-fdf1c1539ff8",
+  "vendor": "Arturia"
+}

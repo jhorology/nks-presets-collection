@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Beelli",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fe69b9fe-3db3-4cfa-8820-db9a3665a23e",
+  "vendor": "Arturia"
+}

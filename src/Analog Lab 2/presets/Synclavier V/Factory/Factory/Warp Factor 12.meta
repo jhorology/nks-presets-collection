@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Ominous metallic swelling pad with lots of FM noise.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise", "Evolving"],
+  "name": "Warp Factor 12",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c099409-c5f5-4156-a81b-c78960b4b7ad",
+  "vendor": "Arturia"
+}

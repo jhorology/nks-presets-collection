@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Kotoe",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d359ba17-4404-4658-b64a-5f1a04c9ba29",
+  "vendor": "Arturia"
+}

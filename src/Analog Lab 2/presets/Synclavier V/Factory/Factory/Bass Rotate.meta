@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bass repeat with modulations. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Bass Rotate",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "542a9acf-e4d2-4563-b0c7-6b42b301e724",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "China Voices",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1f6ba615-4b7b-4531-87d0-3fefd613dee3",
+  "vendor": "Arturia"
+}

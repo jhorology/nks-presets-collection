@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Leed Tacking",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c4b6a393-c1f8-495a-be0f-fcc618ac095c",
+  "vendor": "Arturia"
+}

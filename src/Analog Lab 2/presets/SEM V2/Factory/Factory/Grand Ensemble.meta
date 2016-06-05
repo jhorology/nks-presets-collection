@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Grand Ensemble",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9d5d3e85-3d80-4cef-b143-f20e3b3f0213",
+  "vendor": "Arturia"
+}

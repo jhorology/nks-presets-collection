@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Sweet Risa",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4037618b-f3ae-419d-adb9-1790266cf3a0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Long", "Soundtrack"],
+  "name": "Seafood",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eaa65003-91e9-4fe6-884b-463d840544fa",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Bright Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e8bda5ac-f533-43f0-adc6-6cafdee4de4b",
+  "vendor": "Arturia"
+}

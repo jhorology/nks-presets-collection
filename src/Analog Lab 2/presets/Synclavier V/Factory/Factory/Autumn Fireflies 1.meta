@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Delayed 5ths & 9ths with ModWheel controlled Freq. Cutoff - Expression pedal controlled ascending speed - Velocity controlled tremolo rate",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft", "Soundtrack"],
+  "name": "Autumn Fireflies 1",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "746091e3-8620-4f74-9d7e-1a340862f943",
+  "vendor": "Arturia"
+}

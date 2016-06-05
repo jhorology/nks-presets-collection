@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Zen",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ab4fdb9f-95ab-4ef1-b82d-b968ea9ca596",
+  "vendor": "Arturia"
+}

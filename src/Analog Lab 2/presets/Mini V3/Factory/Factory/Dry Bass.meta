@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Funky", "Simple"],
+  "name": "Dry Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f0b3469f-a168-46a2-9072-2a9cd0594bee",
+  "vendor": "Arturia"
+}

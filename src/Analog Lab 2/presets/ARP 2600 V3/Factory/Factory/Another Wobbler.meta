@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Another Wobbler",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "428bde10-bace-4c3f-9edc-349068cf5f97",
+  "vendor": "Arturia"
+}

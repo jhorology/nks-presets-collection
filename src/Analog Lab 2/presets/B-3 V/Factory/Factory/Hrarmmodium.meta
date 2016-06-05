@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Haemonics shifting harmonium like sound",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Long", "Simple", "Soft"],
+  "name": "Hrarmmodium",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0cb8175e-db99-49ba-bc1b-bb698d5e3177",
+  "vendor": "Arturia"
+}

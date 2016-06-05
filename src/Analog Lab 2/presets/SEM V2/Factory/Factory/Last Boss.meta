@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Last Boss",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9b0ca913-96a5-412f-b18b-51a69fa38557",
+  "vendor": "Arturia"
+}

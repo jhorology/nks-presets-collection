@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Quiet"],
+  "name": "Boards of Solina",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "88c8c8b1-ab6d-4a59-b892-1429a68916b5",
+  "vendor": "Arturia"
+}

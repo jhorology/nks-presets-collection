@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Wait",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a4133da1-07ab-47ef-b4ff-3ec47e093e62",
+  "vendor": "Arturia"
+}

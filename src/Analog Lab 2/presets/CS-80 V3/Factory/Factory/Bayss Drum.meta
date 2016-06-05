@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Bayss Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a8f708d0-e010-4e09-98c2-2b9efcef8fce",
+  "vendor": "Arturia"
+}

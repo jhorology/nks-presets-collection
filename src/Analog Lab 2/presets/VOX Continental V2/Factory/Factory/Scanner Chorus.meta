@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Dark", "Funky", "Quiet"],
+  "name": "Scanner Chorus",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7fbb35b5-05c9-4f3f-b3f7-4592abc99343",
+  "vendor": "Arturia"
+}

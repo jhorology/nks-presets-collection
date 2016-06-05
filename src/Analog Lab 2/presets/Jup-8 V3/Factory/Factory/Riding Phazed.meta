@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Riding Phazed",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6ad4cec4-10fa-4078-bc8c-741f1aff31b0",
+  "vendor": "Arturia"
+}

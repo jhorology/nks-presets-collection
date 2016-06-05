@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL-let the carnival begin AFTERTOUCH tremolo",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Funky", "Long", "Soundtrack"],
+  "name": "Carnival Bass MW",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "caf0da7b-e091-4b9e-9584-59cdd98546e5",
+  "vendor": "Arturia"
+}

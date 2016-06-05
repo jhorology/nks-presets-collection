@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "16 SQC",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "bd7d6a06-3211-4326-a04e-3a77f75f263c",
+  "vendor": "Arturia"
+}

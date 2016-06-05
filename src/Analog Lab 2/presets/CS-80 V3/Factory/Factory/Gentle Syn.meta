@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Gentle Syn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9a9bb24a-1b2f-46c8-8efe-cb8acc32e211",
+  "vendor": "Arturia"
+}

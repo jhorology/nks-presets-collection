@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Sentimental Trip",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5cde4803-3ec7-49ca-946e-dd05f83ca0f4",
+  "vendor": "Arturia"
+}

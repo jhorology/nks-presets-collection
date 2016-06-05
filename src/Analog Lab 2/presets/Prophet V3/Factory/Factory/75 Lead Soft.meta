@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard"],
+  "name": "75 Lead Soft",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "42f9ce95-add4-4558-a17c-6c9b82d0dbf8",
+  "vendor": "Arturia"
+}

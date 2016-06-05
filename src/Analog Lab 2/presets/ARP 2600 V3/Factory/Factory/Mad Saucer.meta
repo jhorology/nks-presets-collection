@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Mad Saucer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "370c5023-dddb-4987-987f-afcf24599efe",
+  "vendor": "Arturia"
+}

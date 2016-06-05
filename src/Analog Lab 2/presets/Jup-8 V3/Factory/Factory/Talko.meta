@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital", "Soft"],
+  "name": "Talko",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8c4da65b-d413-4068-9aee-82a8105118d9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Constellation",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "cb9c4031-0659-49d1-9d36-51dc14d60bfa",
+  "vendor": "Arturia"
+}

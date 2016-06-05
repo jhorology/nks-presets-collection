@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Big general strings in classic Solina style.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack", "Quiet"],
+  "name": "String Mood",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9af07652-fd96-4f9f-a023-76c44d0e5b5b",
+  "vendor": "Arturia"
+}

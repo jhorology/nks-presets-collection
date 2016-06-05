@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Bright", "Complex", "Digital"],
+  "name": "Circle Synth",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bb9fe117-0553-4431-ae0e-c29c6fe257b0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Wait",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a92a54d8-025b-4c2d-b551-f88fc657a456",
+  "vendor": "Arturia"
+}

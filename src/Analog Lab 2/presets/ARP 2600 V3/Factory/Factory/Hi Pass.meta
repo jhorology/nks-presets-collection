@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Hi Pass",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e9b3c70c-a128-4c6a-93cd-0e2bcd5b4216",
+  "vendor": "Arturia"
+}

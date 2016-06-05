@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Vintage 70's digital percussive sequence.",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Euro Slices",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f5409918-f061-469b-b68a-0eb48a296de2",
+  "vendor": "Arturia"
+}

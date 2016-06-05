@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long"],
+  "name": "Movement",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "77b92e96-5f7c-4bcb-8097-735cc7421e58",
+  "vendor": "Arturia"
+}

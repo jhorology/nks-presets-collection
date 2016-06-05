@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Warm Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "bc4db296-b514-4e55-bc01-70291bb7634c",
+  "vendor": "Arturia"
+}

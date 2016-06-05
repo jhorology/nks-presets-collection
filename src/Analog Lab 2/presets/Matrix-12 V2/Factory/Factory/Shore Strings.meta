@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Shore Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "cb6bdfc5-4172-4f02-8af9-2969455dfeec",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Sustained Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "49a61d50-7df0-4904-aefc-28082ecf7647",
+  "vendor": "Arturia"
+}

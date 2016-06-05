@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Droplets",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e92b707a-ee79-4496-b70c-5e7b1e22ba43",
+  "vendor": "Arturia"
+}

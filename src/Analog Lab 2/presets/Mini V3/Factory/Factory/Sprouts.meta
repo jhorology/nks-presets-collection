@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Quiet"],
+  "name": "Sprouts",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "bbfa0ef7-cc34-411c-b063-61107f803dc5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Sharp FM lead, cutoff is modulated by the sequencer.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Evolving"],
+  "name": "Tight FM Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4e11bff3-a1c3-4ccb-94ee-b55f77518173",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ensemble"],
+  "name": "Flowers",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e113e73e-3b8b-42e0-a851-717f7e3c4896",
+  "vendor": "Arturia"
+}

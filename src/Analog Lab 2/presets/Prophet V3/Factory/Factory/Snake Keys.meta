@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Snake Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2a532188-f163-4336-9035-ad70a6ee3c40",
+  "vendor": "Arturia"
+}

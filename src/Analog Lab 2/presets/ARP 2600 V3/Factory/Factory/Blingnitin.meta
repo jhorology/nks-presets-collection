@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Blingnitin",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dfc1a927-a9fe-45c1-bfe3-3c7394ebc8c0",
+  "vendor": "Arturia"
+}

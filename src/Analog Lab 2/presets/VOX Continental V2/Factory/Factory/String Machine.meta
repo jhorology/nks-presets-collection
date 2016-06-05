@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft", "Soundtrack"],
+  "name": "String Machine",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "38a02e42-102c-40d6-ba1b-30d0c64ca715",
+  "vendor": "Arturia"
+}

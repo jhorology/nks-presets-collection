@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Complex"],
+  "name": "Bassjumper",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "70e94f5b-c6e8-4481-b72f-3a595d286e15",
+  "vendor": "Arturia"
+}

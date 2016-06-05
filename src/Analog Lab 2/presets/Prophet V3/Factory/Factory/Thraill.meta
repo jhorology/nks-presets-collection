@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Thraill",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8ae995f0-5239-4948-b8cf-052ee25f2990",
+  "vendor": "Arturia"
+}

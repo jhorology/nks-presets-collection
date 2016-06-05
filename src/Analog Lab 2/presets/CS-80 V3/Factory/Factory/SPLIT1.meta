@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "SPLIT1",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5ee51d04-ed2c-497e-882b-18f0866d372b",
+  "vendor": "Arturia"
+}

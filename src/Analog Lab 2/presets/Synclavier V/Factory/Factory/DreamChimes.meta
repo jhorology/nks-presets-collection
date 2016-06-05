@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL-slow vibrato",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard", "Long", "Soundtrack"],
+  "name": "DreamChimes",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5419eaa4-bfb9-4336-b587-597e884258c3",
+  "vendor": "Arturia"
+}

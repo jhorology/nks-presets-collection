@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Human voice-ich long pad",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble", "Long", "Soft", "Soundtrack"],
+  "name": "Chunting Choir",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3fd0b442-926c-42c4-aeb9-ffc5449fc9ef",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long"],
+  "name": "Wilde Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6c23c789-5148-409b-8830-e2b443c78126",
+  "vendor": "Arturia"
+}

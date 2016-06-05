@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Formant Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d91e60e9-0ccf-4d4b-8bd3-392c11c9a13d",
+  "vendor": "Arturia"
+}

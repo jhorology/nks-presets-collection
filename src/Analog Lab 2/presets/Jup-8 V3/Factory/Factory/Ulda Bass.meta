@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble", "Hard"],
+  "name": "Ulda Bass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "e1dc53ce-e951-4ca3-881f-cc5d7c2fd575",
+  "vendor": "Arturia"
+}

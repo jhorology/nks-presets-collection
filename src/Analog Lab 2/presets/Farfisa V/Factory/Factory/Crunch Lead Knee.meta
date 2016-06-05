@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard", "Noise", "Simple", "Short"],
+  "name": "Crunch Lead Knee",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6b80832f-70b3-4b9d-947c-e0e1eca11ec4",
+  "vendor": "Arturia"
+}

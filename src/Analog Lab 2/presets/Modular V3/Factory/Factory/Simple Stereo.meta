@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Simple Stereo",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "2041fb30-3125-473c-ac31-5cbc1583ab42",
+  "vendor": "Arturia"
+}

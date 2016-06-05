@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Complex"],
+  "name": "Broken",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "6fbda88e-f844-4c34-af47-3aa96838215f",
+  "vendor": "Arturia"
+}

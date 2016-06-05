@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Soft"],
+  "name": "5th Rez",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "327befa7-1d69-41d1-81d2-9804bec1a3ca",
+  "vendor": "Arturia"
+}

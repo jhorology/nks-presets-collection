@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Oxygene 5",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "297ee1e0-5c5e-4de9-95fc-b5e4d7c60cdf",
+  "vendor": "Arturia"
+}

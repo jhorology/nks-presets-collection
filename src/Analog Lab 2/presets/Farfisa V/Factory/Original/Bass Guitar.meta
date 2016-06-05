@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Bass Guitar",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fb7c33c5-1482-4bac-a111-4cf3b7f936f9",
+  "vendor": "Arturia"
+}

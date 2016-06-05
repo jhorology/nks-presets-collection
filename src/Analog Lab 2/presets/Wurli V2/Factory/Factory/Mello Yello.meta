@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Mello Yello",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "18144802-7ee8-474c-8e0c-c0aa334afead",
+  "vendor": "Arturia"
+}

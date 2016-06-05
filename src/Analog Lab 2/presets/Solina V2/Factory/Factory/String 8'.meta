@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "String 8'",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "418056cd-a88d-4511-a960-f02727486db5",
+  "vendor": "Arturia"
+}

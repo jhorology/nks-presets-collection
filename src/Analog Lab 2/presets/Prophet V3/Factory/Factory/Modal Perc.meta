@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Modal Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "13d843bb-6c38-4f84-9850-0a4a2736dd3e",
+  "vendor": "Arturia"
+}

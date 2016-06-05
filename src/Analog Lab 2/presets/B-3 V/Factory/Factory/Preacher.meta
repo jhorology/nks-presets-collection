@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Long", "Simple", "Soft", "Soundtrack", "Quiet"],
+  "name": "Preacher",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "93d08989-8e33-4ddd-acfd-568e1f97f3d3",
+  "vendor": "Arturia"
+}

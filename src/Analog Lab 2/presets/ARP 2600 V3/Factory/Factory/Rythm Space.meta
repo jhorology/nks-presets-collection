@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Rythm Space",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "687c0ce3-3f86-4859-866f-594301586e21",
+  "vendor": "Arturia"
+}

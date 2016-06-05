@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synth sound with repeat arpeggio mode and delay fx.  & Aftertouch controlled Vibrato Rate.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Short Mod Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "81a662ff-66f2-417b-9aa7-8914128ee4ec",
+  "vendor": "Arturia"
+}

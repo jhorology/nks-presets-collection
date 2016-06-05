@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Dawn 2 Dusk",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "191eadaa-bfd5-4133-8dc2-bce445c1c16a",
+  "vendor": "Arturia"
+}

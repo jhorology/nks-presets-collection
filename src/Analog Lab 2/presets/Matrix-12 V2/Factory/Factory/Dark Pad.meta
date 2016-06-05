@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Ensemble", "Soundtrack"],
+  "name": "Dark Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1113170c-93f5-471f-8169-805f9b37f3ed",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Pad With Drive",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1dc451ed-477c-48f1-9562-472f0cb749d6",
+  "vendor": "Arturia"
+}

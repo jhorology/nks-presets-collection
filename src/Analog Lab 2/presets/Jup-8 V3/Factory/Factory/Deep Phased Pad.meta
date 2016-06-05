@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple"],
+  "name": "Deep Phased Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a7acad7a-05b0-43b8-8a79-907a8f52899e",
+  "vendor": "Arturia"
+}

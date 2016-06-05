@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Trip ARP",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "98caf9f8-cb66-4acf-8153-bb6dabdba484",
+  "vendor": "Arturia"
+}

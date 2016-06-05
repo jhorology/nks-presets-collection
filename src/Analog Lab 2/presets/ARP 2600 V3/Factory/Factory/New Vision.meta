@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "New Vision",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "63ce24fa-308f-4072-9d10-36d33da81cad",
+  "vendor": "Arturia"
+}

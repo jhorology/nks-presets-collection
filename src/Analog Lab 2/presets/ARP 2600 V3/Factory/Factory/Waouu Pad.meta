@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Waouu Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d7fbb3c8-69aa-4078-a89d-8a943d09e785",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Hard", "Simple"],
+  "name": "Bumper",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d5a16ddc-6cb7-47f3-bb60-b954ede6303c",
+  "vendor": "Arturia"
+}

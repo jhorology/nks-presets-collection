@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Very Deep Thought",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5277519a-0554-4a28-a7dc-ddd5bc77eea4",
+  "vendor": "Arturia"
+}

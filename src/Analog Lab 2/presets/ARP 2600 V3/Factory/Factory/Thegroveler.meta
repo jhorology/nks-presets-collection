@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Thegroveler",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f2f7177f-0aea-47cd-9871-279481d9f9ca",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A big pad with 12 partials used perfect for ambiant. Modwheel contrilled Vibrato depth.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack"],
+  "name": "12 Partials Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1702b9a3-7f24-4470-a382-b0291d096629",
+  "vendor": "Arturia"
+}

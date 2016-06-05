@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Short"],
+  "name": "Firestarter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "79d542c7-fae5-4aa4-ad33-515cea949f7d",
+  "vendor": "Arturia"
+}

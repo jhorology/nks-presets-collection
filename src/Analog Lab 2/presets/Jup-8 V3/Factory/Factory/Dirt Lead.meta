@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Funky"],
+  "name": "Dirt Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fda1c3d9-8878-4127-83f2-be5b4195e44d",
+  "vendor": "Arturia"
+}

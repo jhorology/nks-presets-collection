@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Mini lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "65344084-a451-46e9-95bd-3758f63acd85",
+  "vendor": "Arturia"
+}

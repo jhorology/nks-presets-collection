@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Sinecure",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fc57d988-8f4e-4390-aebd-3c40baa30ab1",
+  "vendor": "Arturia"
+}

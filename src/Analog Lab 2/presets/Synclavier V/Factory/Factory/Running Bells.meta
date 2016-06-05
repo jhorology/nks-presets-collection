@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bell arpeggio that uses some complex mod-wheel assignments to morph to a more blown character and end up with a different type of bell at the end of the mod wheel run.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard", "Simple", "Soundtrack"],
+  "name": "Running Bells",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7f014200-2360-4a7c-8ac9-05891855df7f",
+  "vendor": "Arturia"
+}

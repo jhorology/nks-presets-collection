@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long"],
+  "name": "Hung Jury",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ba617d71-ad53-4861-bb61-c8ffe1f74809",
+  "vendor": "Arturia"
+}

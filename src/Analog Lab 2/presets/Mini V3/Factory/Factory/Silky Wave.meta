@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Silky Wave",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c0b0600-380f-4887-8433-6d4a75d35e33",
+  "vendor": "Arturia"
+}

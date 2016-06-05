@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Hell FX",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "70bbad1f-d313-4114-846d-d1ecc71d694f",
+  "vendor": "Arturia"
+}

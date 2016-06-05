@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Rock Me",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4ae4f76a-6279-4f14-a4e3-225d8ed5012f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Melotorn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "8d8df1be-293a-4720-bc40-0b707e6108bc",
+  "vendor": "Arturia"
+}

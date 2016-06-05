@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Squeeze Box",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "55723062-2945-43db-a196-f6b53580fd03",
+  "vendor": "Arturia"
+}

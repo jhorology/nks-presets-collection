@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Simple"],
+  "name": "Thin Supermodel",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "11935c44-4847-4541-9543-1874a76c56d8",
+  "vendor": "Arturia"
+}

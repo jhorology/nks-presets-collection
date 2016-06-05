@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Double Way Modulation",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "98400366-c1fb-4025-9e72-b48d3f243c57",
+  "vendor": "Arturia"
+}

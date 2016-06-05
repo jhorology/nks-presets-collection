@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Evolving"],
+  "name": "S&H Rytm Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "79f8c232-f4a4-402e-81a8-c0031bbdf82c",
+  "vendor": "Arturia"
+}

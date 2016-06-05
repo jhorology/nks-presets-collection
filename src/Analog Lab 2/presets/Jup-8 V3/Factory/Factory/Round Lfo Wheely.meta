@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Soft"],
+  "name": "Round Lfo Wheely",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dae4582c-95e3-42b4-85cd-96bbd08450b2",
+  "vendor": "Arturia"
+}

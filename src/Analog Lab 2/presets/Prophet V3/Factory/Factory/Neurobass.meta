@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Heavy bass with a modulation between two of the wavetable oscillator.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard"],
+  "name": "Neurobass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "319b4bf1-4a2d-4a72-b731-d27b33ffe5fc",
+  "vendor": "Arturia"
+}

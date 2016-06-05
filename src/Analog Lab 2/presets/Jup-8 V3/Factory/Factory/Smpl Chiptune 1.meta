@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Smpl Chiptune 1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "56500ec8-6d40-4c15-ae47-0183977b288f",
+  "vendor": "Arturia"
+}

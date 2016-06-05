@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Quiet"],
+  "name": "Used Bass",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f6847b1a-0ace-4f2a-a11c-e27688bf76ae",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atmospheric bright pad with delay and reverb. Perfect for ambiant. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Flying Partial",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eafc7b52-e669-46d6-be50-aa90475124d4",
+  "vendor": "Arturia"
+}

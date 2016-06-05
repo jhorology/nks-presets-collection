@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Leslie Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2227872e-cd52-4ebe-be37-1c0a5c9d1922",
+  "vendor": "Arturia"
+}

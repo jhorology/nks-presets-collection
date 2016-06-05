@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Squared Up Octave Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a822f51e-d296-4983-b99d-f0d9bfb6f22c",
+  "vendor": "Arturia"
+}

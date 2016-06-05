@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Bright strings with a firm attack so you can play fast lines.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble", "Simple"],
+  "name": "Diamond Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "c77f2731-65ee-457c-8546-d040922b474a",
+  "vendor": "Arturia"
+}

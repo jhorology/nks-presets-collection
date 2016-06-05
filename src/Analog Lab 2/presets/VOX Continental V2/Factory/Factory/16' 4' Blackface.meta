@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "16' 4' Blackface",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f2151b73-cefb-4b7e-a358-1193a125f3bf",
+  "vendor": "Arturia"
+}

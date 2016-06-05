@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Quiet"],
+  "name": "Sweet Delay",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e0cbe21b-4ff7-4a92-8aba-a631df5a1451",
+  "vendor": "Arturia"
+}

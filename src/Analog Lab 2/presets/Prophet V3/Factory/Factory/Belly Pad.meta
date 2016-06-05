@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Belly Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "63b95a20-6a3f-4cbf-b125-9702c1ae0266",
+  "vendor": "Arturia"
+}

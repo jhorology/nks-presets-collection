@@ -1,0 +1,13 @@
+{
+  "author": "Sylvere Letellier",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark"],
+  "name": "Closed To",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4136417f-87e5-496d-bcf0-d387e369e94a",
+  "vendor": "Arturia"
+}

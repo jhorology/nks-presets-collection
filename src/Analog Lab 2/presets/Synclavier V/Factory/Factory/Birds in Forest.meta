@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hold any key as you like",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "Birds in Forest",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bf1180bf-3d09-4a5b-9a52-ba94cc787c4b",
+  "vendor": "Arturia"
+}

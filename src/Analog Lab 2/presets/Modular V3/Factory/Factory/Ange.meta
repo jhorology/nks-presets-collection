@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Ange",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5ac524c1-0d00-40b7-a194-544ff8377839",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Ethink Paradox",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fc30a831-ea91-4a17-95ee-7e4d93af633c",
+  "vendor": "Arturia"
+}

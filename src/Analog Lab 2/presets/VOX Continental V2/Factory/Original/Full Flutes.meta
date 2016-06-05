@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Full Flutes",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7b0733a4-276d-4bd4-9c6c-c5edd12b79df",
+  "vendor": "Arturia"
+}

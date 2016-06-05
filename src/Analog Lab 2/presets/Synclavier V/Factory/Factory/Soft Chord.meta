@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Calm and jazzy chord using 6 partials and the panning",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack", "Quiet"],
+  "name": "Soft Chord",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "342cf3d2-d60c-429c-9c9f-9ea66d1c4a22",
+  "vendor": "Arturia"
+}

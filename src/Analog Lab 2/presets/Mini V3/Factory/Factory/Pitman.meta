@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Pitman",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "54b69ac7-9aed-4864-9d56-1baff1ccaaea",
+  "vendor": "Arturia"
+}

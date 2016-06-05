@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Wood Clap",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a0997806-e51c-4250-aade-9f4e62baa794",
+  "vendor": "Arturia"
+}

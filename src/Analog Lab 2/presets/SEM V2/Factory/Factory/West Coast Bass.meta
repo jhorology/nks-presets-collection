@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "West Coast Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4da3d049-ec3b-446a-b7df-c46b571eba8e",
+  "vendor": "Arturia"
+}

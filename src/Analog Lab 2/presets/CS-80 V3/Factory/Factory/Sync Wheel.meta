@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sync Wheel",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "777b4abc-342a-4f66-a85c-07ac3a854d68",
+  "vendor": "Arturia"
+}

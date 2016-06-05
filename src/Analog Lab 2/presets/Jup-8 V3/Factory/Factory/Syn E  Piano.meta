@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Syn E  Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5ba1be14-c7fa-46ca-92f4-bbd518a3810a",
+  "vendor": "Arturia"
+}

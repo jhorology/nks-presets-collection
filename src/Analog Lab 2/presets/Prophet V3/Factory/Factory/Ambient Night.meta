@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "Ambient Night",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9c052c6f-6cb8-4e37-8f31-a62784a73bf8",
+  "vendor": "Arturia"
+}

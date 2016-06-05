@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Vinyl's Favorite",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1d7397a3-3e7e-461f-8219-3e35feed4364",
+  "vendor": "Arturia"
+}

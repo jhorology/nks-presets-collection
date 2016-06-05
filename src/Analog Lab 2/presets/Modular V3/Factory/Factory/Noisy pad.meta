@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Noisy pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "77b55cdf-81f6-43ed-b502-db775f410890",
+  "vendor": "Arturia"
+}

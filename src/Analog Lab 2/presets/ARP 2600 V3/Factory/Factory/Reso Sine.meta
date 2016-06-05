@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Reso Sine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7a7b6871-2ed0-4961-aaa2-e7d768d34965",
+  "vendor": "Arturia"
+}

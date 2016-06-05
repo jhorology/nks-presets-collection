@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Inspired by the best progressive rock bands from the 70s",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Prog Rock Grand",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "73f9ddc8-0dce-4535-854a-d7213396d949",
+  "vendor": "Arturia"
+}

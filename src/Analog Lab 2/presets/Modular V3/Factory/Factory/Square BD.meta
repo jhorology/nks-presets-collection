@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Square BD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c01ebba8-a98a-4088-8f76-13d75149e402",
+  "vendor": "Arturia"
+}

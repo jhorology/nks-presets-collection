@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Hammer Time",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4a648846-9ac4-4ff7-a6e4-449031cdd840",
+  "vendor": "Arturia"
+}

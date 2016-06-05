@@ -1,0 +1,13 @@
+{
+  "author": "Takashi Odanaka",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Grassy Glass",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "754e8bbc-416c-44bf-bccf-7cae333a367f",
+  "vendor": "Arturia"
+}

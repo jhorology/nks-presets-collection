@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Vintage Compact",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "cc92788f-f4ec-42e3-8c37-7a0cba1f7267",
+  "vendor": "Arturia"
+}

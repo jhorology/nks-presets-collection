@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Use leveler 1",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Fm Bell",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2f638028-0613-4419-a773-c897bb4ebf0e",
+  "vendor": "Arturia"
+}

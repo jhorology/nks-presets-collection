@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Noise"],
+  "name": "Gritter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f4c0d593-b2cd-4c72-b19b-ba0df322e7bf",
+  "vendor": "Arturia"
+}

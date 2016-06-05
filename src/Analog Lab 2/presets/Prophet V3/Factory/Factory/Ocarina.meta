@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Ocarina",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "18e8be8a-fecb-404d-a66d-da35c4a0c1a2",
+  "vendor": "Arturia"
+}

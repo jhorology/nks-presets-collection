@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Telephone Harp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "78173b8d-794f-4b60-8549-0f34e8eb0d40",
+  "vendor": "Arturia"
+}

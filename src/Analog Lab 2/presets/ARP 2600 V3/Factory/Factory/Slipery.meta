@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Slipery",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "88343118-378c-4a1c-bb82-b7034dcc066b",
+  "vendor": "Arturia"
+}

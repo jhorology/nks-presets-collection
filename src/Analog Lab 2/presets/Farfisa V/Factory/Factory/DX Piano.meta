@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Short and clipped, with a flat sustain element. In the upper registers this worls well as an 'effect' sound when you're looking for something cute and toy-like.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple", "Short"],
+  "name": "DX Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "075981c7-7b8a-4e72-9781-7c025ac4deef",
+  "vendor": "Arturia"
+}

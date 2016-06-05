@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Howloff",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d03ed496-92f3-4344-bebe-18d2458b1c3c",
+  "vendor": "Arturia"
+}

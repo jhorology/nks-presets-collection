@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Long Bells",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "7d8b4af9-a83b-4025-8a96-ed569bb634d6",
+  "vendor": "Arturia"
+}

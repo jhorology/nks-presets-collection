@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL increases FM Amount for harsher tone.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard", "Short"],
+  "name": "FluteyArp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "28738f25-9917-4f21-8474-d38c8efc14ff",
+  "vendor": "Arturia"
+}

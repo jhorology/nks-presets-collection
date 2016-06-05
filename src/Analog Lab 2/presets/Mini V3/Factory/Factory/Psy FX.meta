@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Digital"],
+  "name": "Psy FX",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "100e8991-e3df-488f-b248-020ce237d6e3",
+  "vendor": "Arturia"
+}

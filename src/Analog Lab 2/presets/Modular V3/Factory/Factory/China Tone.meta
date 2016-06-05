@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "China Tone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c1ac5de0-c2b2-4c81-8bec-847c4b3900cb",
+  "vendor": "Arturia"
+}

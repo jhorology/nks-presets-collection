@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "hold the key some while. Speed can be accelerated by the wheel",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Funky", "Soundtrack"],
+  "name": "Up and Down Steps1",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d4c424ef-120a-4779-8a42-60ab004ffa5b",
+  "vendor": "Arturia"
+}

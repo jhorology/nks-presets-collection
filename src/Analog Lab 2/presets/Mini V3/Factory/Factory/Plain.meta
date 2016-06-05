@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Plain",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "59cd1729-f853-4a08-b628-d046105228b7",
+  "vendor": "Arturia"
+}

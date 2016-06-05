@@ -1,0 +1,13 @@
+{
+  "author": "Sylvere Letellier",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Goblin",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e9cba077-c051-46df-8b4b-af63a35fc0e6",
+  "vendor": "Arturia"
+}

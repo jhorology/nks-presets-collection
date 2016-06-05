@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Sub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "67abe871-b617-4d7c-9d4f-733618fac213",
+  "vendor": "Arturia"
+}

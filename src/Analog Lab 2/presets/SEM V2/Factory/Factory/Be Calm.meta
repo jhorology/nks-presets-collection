@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Short"],
+  "name": "Be Calm",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "32d142f7-5511-4064-95f3-4a4e58ac98b1",
+  "vendor": "Arturia"
+}

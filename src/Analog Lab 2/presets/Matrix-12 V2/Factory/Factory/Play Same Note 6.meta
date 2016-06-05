@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Play Same Note 6",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b76f2d5b-6ec4-43ab-9b36-fd4e9f50fec4",
+  "vendor": "Arturia"
+}

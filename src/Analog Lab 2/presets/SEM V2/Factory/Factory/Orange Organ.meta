@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Orange Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "c59f29f0-9b28-47d8-a765-14e171d79099",
+  "vendor": "Arturia"
+}

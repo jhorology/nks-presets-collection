@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Pulsing repeats when you hold a note or chord. Nice ping pong delay on stabs.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft", "Short"],
+  "name": "House Strings 1",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a93d4d8f-b53d-455d-b9bd-f8557545ec20",
+  "vendor": "Arturia"
+}

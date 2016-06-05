@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Darkshore",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5ce95307-ddf6-4806-bc70-c359f41a6a59",
+  "vendor": "Arturia"
+}

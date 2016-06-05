@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Quiet"],
+  "name": "Sweet and Easy",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7a7f318b-ba63-492f-9d5f-fca97ffb3c63",
+  "vendor": "Arturia"
+}

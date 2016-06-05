@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very agressive lead. Modwheel controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard", "Evolving"],
+  "name": "Multi Slices",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "81f98cea-66b9-464c-883c-d3d31cc74379",
+  "vendor": "Arturia"
+}

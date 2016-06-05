@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Bad Movie",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5ce73b0a-012a-4f8b-b445-4c9f2adae822",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise", "Soundtrack"],
+  "name": "Fat Flange Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d2dd5e02-afe5-4c67-8a06-fd65ce7f45b8",
+  "vendor": "Arturia"
+}

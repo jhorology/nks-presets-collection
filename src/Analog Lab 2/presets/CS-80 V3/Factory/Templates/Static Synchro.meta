@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Static Synchro",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0c0f92a3-91b1-46e6-83ab-a04ffae9e37f",
+  "vendor": "Arturia"
+}

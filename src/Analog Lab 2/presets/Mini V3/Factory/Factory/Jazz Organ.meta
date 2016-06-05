@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Jazz Organ",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "979eefdb-03e8-4bf0-8a9f-86de1aa68b6d",
+  "vendor": "Arturia"
+}

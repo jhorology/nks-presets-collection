@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Monophonic lead that started as a kind of theremin - hence the name. The mod wheel makes it really expressive.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Simple"],
+  "name": "Leon's Cat",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4e7abaf5-5fe8-4f67-9b1f-42f755d39d68",
+  "vendor": "Arturia"
+}

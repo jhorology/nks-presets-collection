@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Touch Me",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b06aef01-b948-4921-a2e0-64ca7d42987a",
+  "vendor": "Arturia"
+}

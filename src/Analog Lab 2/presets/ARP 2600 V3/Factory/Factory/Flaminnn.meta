@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Flaminnn",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "20c83c7d-cba1-406d-bf8e-161c5dfe8d26",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Lune-Mwh",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6640917f-479c-4a08-81d5-94dd43908e8e",
+  "vendor": "Arturia"
+}

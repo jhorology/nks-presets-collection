@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long"],
+  "name": "Laser One",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4153c847-e023-4baa-b96f-61236bc5b86f",
+  "vendor": "Arturia"
+}

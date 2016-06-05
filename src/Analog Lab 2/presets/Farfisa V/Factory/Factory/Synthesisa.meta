@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Short"],
+  "name": "Synthesisa",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "341b039b-27ca-4147-a644-44186ef3afe9",
+  "vendor": "Arturia"
+}

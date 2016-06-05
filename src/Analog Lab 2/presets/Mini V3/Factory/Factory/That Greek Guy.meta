@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Resonant sawtooths in fifths with stereo delay. Mod wheel operates 'in reverse,' closing down the filter - a nice surprise.",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "That Greek Guy",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c40dfa52-7b34-4952-b35f-9bb20f291e00",
+  "vendor": "Arturia"
+}

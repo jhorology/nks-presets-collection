@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Combination of FM electric piano and Brass. Use after touch or wheel",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Funky"],
+  "name": "EP &  AfterTouchBrass",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "19b503d7-9857-4183-a19e-10a9d5e813b7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "An angelic saw and square pad utilizing the multimode filter is contrasted with a very long portamento time. This makes for wonderful bendy chords! Try harmonies with less movement for a more subtle effect.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Bend",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "37f6aea8-129a-42fa-8704-3e5eff5c7e7a",
+  "vendor": "Arturia"
+}

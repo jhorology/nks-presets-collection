@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soundtrack"],
+  "name": "Velo Env",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1e87d2c6-f8c7-42c0-a935-f4adb90264fa",
+  "vendor": "Arturia"
+}

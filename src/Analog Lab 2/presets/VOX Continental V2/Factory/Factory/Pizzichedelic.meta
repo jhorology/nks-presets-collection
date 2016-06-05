@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet", "Short"],
+  "name": "Pizzichedelic",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "31d674b6-6038-45fc-8fb7-cc6cb1ca4c89",
+  "vendor": "Arturia"
+}

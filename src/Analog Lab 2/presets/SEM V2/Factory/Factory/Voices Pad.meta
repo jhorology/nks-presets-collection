@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft", "Soundtrack"],
+  "name": "Voices Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e2596e48-3790-44ff-83ac-1d24545d7842",
+  "vendor": "Arturia"
+}

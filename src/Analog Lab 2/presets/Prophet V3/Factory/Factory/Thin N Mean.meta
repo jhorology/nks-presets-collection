@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Thin N Mean",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0b1ad3cd-6c49-429e-a811-ef33209f1910",
+  "vendor": "Arturia"
+}

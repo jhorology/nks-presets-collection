@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Smeuige Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "88993eb8-46b0-4479-97c6-d65d847abe05",
+  "vendor": "Arturia"
+}

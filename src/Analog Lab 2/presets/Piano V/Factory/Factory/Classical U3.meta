@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Simple and friendly upright piano in a livingroom",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Classical U3",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cc25d684-2006-400c-b908-5416fedc6da2",
+  "vendor": "Arturia"
+}

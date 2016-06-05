@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Rich, quite natural sounding organ.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Serious Tone",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "65fcffac-5f27-4c70-9c61-f88875b67b1b",
+  "vendor": "Arturia"
+}

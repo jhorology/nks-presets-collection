@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "Signal Red",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1ea877ef-0a6c-42af-bab1-550f18b6e18f",
+  "vendor": "Arturia"
+}

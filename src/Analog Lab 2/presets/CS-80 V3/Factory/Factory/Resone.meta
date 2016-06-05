@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Resone",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f9d711de-1f7c-4705-8826-3aae9e8d2c55",
+  "vendor": "Arturia"
+}

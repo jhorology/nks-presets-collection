@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Pertwee",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "10debf98-d0af-4aed-9839-0e4557e19068",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple"],
+  "name": "Perc Bounce",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b719a0cd-0ec8-465a-b836-75ccb639c6c6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "At The Core",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "febc17e1-f09e-461d-a77a-3f4c8adfaa96",
+  "vendor": "Arturia"
+}

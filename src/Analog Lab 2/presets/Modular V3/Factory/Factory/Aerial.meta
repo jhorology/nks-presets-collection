@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Aerial",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "41c50652-d13a-41fc-b266-fe518100cf34",
+  "vendor": "Arturia"
+}

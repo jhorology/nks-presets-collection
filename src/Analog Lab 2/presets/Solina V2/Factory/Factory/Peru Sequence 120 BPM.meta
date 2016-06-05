@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Funky", "Long"],
+  "name": "Peru Sequence 120 BPM",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "890d8e42-1f3d-4761-9711-82c9582d2cf6",
+  "vendor": "Arturia"
+}

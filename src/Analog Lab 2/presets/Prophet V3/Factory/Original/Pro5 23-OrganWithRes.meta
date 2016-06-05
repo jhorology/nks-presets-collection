@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pro5 23-OrganWithRes",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "742beb7b-379c-42ba-bf0b-d158ee658d20",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Plukpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bac79701-c65e-47c6-a2e8-0260ef8909ff",
+  "vendor": "Arturia"
+}

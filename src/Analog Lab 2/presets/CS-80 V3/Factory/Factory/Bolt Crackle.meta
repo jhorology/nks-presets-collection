@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Noise"],
+  "name": "Bolt Crackle",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e17fddaf-c368-4266-b5d0-b152902b1a5c",
+  "vendor": "Arturia"
+}

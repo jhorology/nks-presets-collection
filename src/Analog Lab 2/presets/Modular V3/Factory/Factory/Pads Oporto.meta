@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble", "Long"],
+  "name": "Pads Oporto",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "70942705-ea64-42ee-b3d0-484b08b8e05b",
+  "vendor": "Arturia"
+}

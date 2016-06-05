@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Short"],
+  "name": "Tremolandi 1",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "4af9824b-869e-4cd3-87f9-12ac93761ce9",
+  "vendor": "Arturia"
+}

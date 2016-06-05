@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Reed Solo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e076cc71-c9b9-402a-8acc-1292c5f4bd64",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Addeux",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "14463f2d-71ab-45cf-9582-31e2754247f5",
+  "vendor": "Arturia"
+}

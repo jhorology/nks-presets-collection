@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "CMEPONU",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "79b15a28-6e7e-4a80-a8af-b909c5b6de18",
+  "vendor": "Arturia"
+}

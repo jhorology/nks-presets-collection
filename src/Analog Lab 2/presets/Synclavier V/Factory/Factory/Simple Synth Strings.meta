@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Typical FM synth strings",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Ensemble", "Simple", "Soft", "Evolving"],
+  "name": "Simple Synth Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3defa3cb-a871-4d56-986e-6ab859dc8a40",
+  "vendor": "Arturia"
+}

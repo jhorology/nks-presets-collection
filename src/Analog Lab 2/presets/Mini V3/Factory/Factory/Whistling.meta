@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Whistling",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "16e1b0f5-1b4a-4c36-8fa6-4aaa07c3bc98",
+  "vendor": "Arturia"
+}

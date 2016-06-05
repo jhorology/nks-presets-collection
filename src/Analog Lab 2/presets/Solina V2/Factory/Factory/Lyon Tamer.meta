@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Long"],
+  "name": "Lyon Tamer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "445dd87b-c8ec-4530-80ce-5ed93333bef7",
+  "vendor": "Arturia"
+}

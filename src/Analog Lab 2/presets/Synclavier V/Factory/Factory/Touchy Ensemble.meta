@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A brass and woodwind ensemble-like patch very response to VELOCITY. AFTERTOUCH produces vibrato while MOD WHEEL increass FM Ratio which in the middle ranges produces atonal ring mod type timbres but at maximum produces a lower and higher octave",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble", "Hard", "Soft", "Soundtrack"],
+  "name": "Touchy Ensemble",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "510a41a9-f535-42de-8ee4-fce23d571090",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Weves Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c368185c-2f6c-48fa-a9f2-86737ec4311c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Sweep LF Os",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4adc9424-c912-49fe-bcdf-ae4c8e1aafe9",
+  "vendor": "Arturia"
+}

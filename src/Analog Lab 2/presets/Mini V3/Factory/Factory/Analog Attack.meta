@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Analog Attack",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "390ec84d-df33-41b3-94ff-3cb1bffa7f7f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Play five notes and feel like Terry RIley",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Braindrops",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "975c1487-53a1-40d0-b1ea-f5b10e182009",
+  "vendor": "Arturia"
+}

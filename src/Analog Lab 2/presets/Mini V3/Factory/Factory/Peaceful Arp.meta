@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Peaceful Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cfa0e09a-9e8f-4dc8-b4fd-af14e1cf25c2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "'In your face' type complete bassline - Mod wheel controls amount of FM. Mute Partial 3 & 4 if you only want the kick.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "Kick FulTech",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fc71fc71-d9df-4bdf-bb9d-8403c3ff9c5d",
+  "vendor": "Arturia"
+}

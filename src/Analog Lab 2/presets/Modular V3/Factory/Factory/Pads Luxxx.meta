@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Pads Luxxx",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b767e631-4476-43c0-a9b4-f6fbb9f98ec9",
+  "vendor": "Arturia"
+}

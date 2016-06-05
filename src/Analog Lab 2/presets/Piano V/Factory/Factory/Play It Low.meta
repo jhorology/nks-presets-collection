@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Makes a spine chilling horror-type sound when played very low",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Soundtrack"],
+  "name": "Play It Low",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3f42aa30-b873-44b7-9a13-d4f7a9f80486",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Keyboard",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "81d46db2-f21a-4e22-8939-e1506f39195c",
+  "vendor": "Arturia"
+}

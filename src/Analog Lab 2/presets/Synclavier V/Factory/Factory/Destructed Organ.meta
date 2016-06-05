@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Long"],
+  "name": "Destructed Organ",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "46c9564b-871e-45e1-998e-1c477ac8c7bb",
+  "vendor": "Arturia"
+}

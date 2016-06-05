@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Hard"],
+  "name": "Odd Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bfefdf47-f7ab-421d-a8a7-4d45e747588d",
+  "vendor": "Arturia"
+}

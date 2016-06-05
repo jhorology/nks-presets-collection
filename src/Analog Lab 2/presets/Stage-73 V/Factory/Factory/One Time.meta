@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft", "Soundtrack", "Quiet"],
+  "name": "One Time",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "baf77589-c2d3-4358-b2d0-0237f08d135e",
+  "vendor": "Arturia"
+}

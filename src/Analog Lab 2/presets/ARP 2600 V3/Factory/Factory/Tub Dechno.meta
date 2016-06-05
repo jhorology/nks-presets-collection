@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Evolving"],
+  "name": "Tub Dechno",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3046ace7-d72d-40b2-8946-df025a7a4c37",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "EG Synchro",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "cfcf6801-535a-4b9c-ac2e-fa121e213502",
+  "vendor": "Arturia"
+}

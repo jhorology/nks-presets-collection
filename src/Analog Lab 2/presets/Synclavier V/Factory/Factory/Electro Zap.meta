@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Simple & sharp sine sweep - nice when arppegiated very quickly",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Short"],
+  "name": "Electro Zap",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c83406b5-274e-4a02-b0a1-2c2d57a2edee",
+  "vendor": "Arturia"
+}

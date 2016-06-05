@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet", "Short"],
+  "name": "Oboe 8'",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "345ea2e4-f90d-4315-b543-67220885fd4c",
+  "vendor": "Arturia"
+}

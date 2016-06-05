@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Padicz 3",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "89e06002-e47e-404d-9b16-7280ec408c89",
+  "vendor": "Arturia"
+}

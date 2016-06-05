@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soft", "Soundtrack", "Quiet"],
+  "name": "Control Key",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f7e5dd5a-8443-4928-88bf-4453f02e290d",
+  "vendor": "Arturia"
+}

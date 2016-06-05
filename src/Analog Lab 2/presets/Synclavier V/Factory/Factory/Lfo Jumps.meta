@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a monophonic sound that plays with delay for a sequence effect and works as intended at 130bpm",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Lfo Jumps",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1926bda5-9af5-46a2-befe-cd6cb0c34c27",
+  "vendor": "Arturia"
+}

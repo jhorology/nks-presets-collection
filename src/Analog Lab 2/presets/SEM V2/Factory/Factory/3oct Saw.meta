@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "3oct Saw",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "53c15fd7-813a-4f11-8e79-f80514d0586d",
+  "vendor": "Arturia"
+}

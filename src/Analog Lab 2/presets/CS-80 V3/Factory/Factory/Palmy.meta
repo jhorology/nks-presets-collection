@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Palmy",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "eb909b05-9dee-4a4c-844f-08420a1b3d8c",
+  "vendor": "Arturia"
+}

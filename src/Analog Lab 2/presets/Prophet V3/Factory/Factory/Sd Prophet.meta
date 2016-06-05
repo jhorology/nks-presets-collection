@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Noise", "Short"],
+  "name": "Sd Prophet",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0ddad1bd-11b6-4d98-ab9f-0f4e9666db2b",
+  "vendor": "Arturia"
+}

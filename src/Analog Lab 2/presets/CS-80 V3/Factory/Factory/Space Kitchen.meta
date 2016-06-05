@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Space Kitchen",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e89285fd-4a14-46d1-aeec-5fc4df81290a",
+  "vendor": "Arturia"
+}

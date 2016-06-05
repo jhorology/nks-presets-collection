@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Distortion Is Up",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bfb8d03d-1c92-40a1-9c64-1e095cc1b1d4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Neon Flash",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "310c7e58-ba2c-47f6-8bbc-e0e54e1033ac",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Press Play",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cfcb3974-8e03-492a-8f05-d8bad2bad1cc",
+  "vendor": "Arturia"
+}

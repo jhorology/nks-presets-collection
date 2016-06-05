@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Creep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0f963a00-678e-4174-ab0c-cc3af265d0f6",
+  "vendor": "Arturia"
+}

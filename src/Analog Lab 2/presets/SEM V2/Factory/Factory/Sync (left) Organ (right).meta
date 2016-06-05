@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Sync (left) Organ (right)",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "6b7a314f-669d-41b6-ac84-774f68fb2b83",
+  "vendor": "Arturia"
+}

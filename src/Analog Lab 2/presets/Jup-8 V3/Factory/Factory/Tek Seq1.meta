@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Tek Seq1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "16fef2cb-191a-4fd9-8093-5cb037ab9492",
+  "vendor": "Arturia"
+}

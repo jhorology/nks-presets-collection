@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Double Coffee",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0b175395-4dc0-4114-abe5-92a83f0ff36b",
+  "vendor": "Arturia"
+}

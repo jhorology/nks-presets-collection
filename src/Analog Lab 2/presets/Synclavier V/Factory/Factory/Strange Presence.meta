@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice soundtrack pad with many modulations. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark", "Digital", "Soundtrack"],
+  "name": "Strange Presence",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "40447b0b-2edc-4423-a4ca-28c148811b68",
+  "vendor": "Arturia"
+}

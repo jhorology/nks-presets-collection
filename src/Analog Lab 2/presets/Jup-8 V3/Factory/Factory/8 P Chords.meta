@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "8 P Chords",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b883a90a-0e69-4cf4-8b32-0dcf03025b93",
+  "vendor": "Arturia"
+}

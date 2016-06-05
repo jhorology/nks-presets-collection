@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Seed Toms",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "58e9d329-2656-49c6-84c0-f8af2418283a",
+  "vendor": "Arturia"
+}

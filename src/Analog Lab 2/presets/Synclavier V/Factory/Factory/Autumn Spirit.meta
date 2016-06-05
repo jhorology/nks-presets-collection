@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "ModWheel controlled Freq. Cutoff - Expression pedal controlled inverse tremolo depth - Velocity controlled tremolo rate.",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Autumn Spirit",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e1ebeebc-877e-46f2-9448-71221aa1b2ee",
+  "vendor": "Arturia"
+}

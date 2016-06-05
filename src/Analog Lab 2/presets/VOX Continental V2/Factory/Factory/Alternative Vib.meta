@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Soft, standard tone with pronounced vibrato and a little reverb.",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Alternative Vib",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8f2f731c-564c-4af8-aa42-dbbdb70fd16a",
+  "vendor": "Arturia"
+}

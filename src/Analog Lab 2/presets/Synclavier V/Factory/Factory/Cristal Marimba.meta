@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Marimba that made of cristal",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple", "Soft"],
+  "name": "Cristal Marimba",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f937c062-929a-4e7d-a3b1-4d75834b381f",
+  "vendor": "Arturia"
+}

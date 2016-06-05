@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "FM Bass sound with many harmonics. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Velocity Harmo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cbe90939-9460-4b8c-96f0-040aee98745e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Wide Verb Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a9774fb9-6722-45d8-beb5-6144ad0ab85d",
+  "vendor": "Arturia"
+}

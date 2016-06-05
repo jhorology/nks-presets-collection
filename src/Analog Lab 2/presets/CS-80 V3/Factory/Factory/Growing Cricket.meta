@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Growing Cricket",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4f91830a-d00a-4f9a-8c78-6346ad62b41a",
+  "vendor": "Arturia"
+}

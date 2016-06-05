@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Digital"],
+  "name": "Ghostly Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b2f9a6b5-ca4d-4991-8885-54bc4f4bb922",
+  "vendor": "Arturia"
+}

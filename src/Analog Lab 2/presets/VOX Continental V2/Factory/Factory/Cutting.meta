@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Cutting",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "fcc306cd-e8b1-4a38-95b6-a8270e69cf66",
+  "vendor": "Arturia"
+}

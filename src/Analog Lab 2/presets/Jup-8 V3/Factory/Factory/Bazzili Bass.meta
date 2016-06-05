@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Simple"],
+  "name": "Bazzili Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bad6d2bc-1943-4747-abac-832834e25e82",
+  "vendor": "Arturia"
+}

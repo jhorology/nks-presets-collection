@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Cool Down Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "685bff2f-9924-4b27-9e63-04019e8ca40b",
+  "vendor": "Arturia"
+}

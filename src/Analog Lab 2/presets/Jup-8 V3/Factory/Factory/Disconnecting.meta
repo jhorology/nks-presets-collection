@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Complex and semi-random sequence playing around with the lydian scale. Best experienced by holding a note.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Evolving"],
+  "name": "Disconnecting",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4bda2160-2e53-420c-a184-2fb17356e3e8",
+  "vendor": "Arturia"
+}

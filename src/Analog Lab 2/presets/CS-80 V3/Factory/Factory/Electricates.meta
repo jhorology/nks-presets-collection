@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Electricates",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c7de0a7c-cf62-4346-a5fa-ead58f149cdf",
+  "vendor": "Arturia"
+}

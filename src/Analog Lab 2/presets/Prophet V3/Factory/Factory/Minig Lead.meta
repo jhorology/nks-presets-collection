@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Minig Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1ec9eb81-a24c-4694-9f3e-0971e5d1eace",
+  "vendor": "Arturia"
+}

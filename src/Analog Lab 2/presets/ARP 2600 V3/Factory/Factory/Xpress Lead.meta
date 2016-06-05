@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Xpress Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9df93760-0f47-4a7a-833e-bf375197bf91",
+  "vendor": "Arturia"
+}

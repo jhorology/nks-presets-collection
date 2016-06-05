@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Digital"],
+  "name": "Strange Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c97ad9c5-4549-4c5f-993a-174121d893cd",
+  "vendor": "Arturia"
+}

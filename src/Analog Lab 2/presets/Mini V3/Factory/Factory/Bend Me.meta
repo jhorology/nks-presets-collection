@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Mix of saw and pulse waves. Percussive attack and a little delay thrown in too.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Funky"],
+  "name": "Bend Me",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6d310133-0244-4895-8baa-13e118b3e148",
+  "vendor": "Arturia"
+}

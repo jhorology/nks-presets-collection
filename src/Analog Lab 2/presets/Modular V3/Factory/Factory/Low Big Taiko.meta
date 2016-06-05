@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Low Big Taiko",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "af70ce8a-3469-4040-abef-504f3d284133",
+  "vendor": "Arturia"
+}

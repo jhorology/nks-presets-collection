@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Soft Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "459bb2fc-cea1-4fbe-b6df-b1fe62be4a39",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Short"],
+  "name": "Space Regen",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4ca8d677-ed4f-42e6-ae2d-ecee4e864f6c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long"],
+  "name": "Sustain Deepfilter Effect",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e448d404-f8d4-4c86-861d-d68abced41e9",
+  "vendor": "Arturia"
+}

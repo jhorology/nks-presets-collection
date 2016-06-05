@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soft"],
+  "name": "Haze Of Dream",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "275b71d8-a822-4364-b800-7d61a0cde724",
+  "vendor": "Arturia"
+}

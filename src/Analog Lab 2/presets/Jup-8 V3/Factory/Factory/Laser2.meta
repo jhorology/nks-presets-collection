@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft", "Soundtrack"],
+  "name": "Laser2",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a992ca43-32d2-4424-88dd-c5713b8ef3ce",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky"],
+  "name": "Funk Velo",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f89f7bcb-368a-4a5e-b256-b64547301e87",
+  "vendor": "Arturia"
+}

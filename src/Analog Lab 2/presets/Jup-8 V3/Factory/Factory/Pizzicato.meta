@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Plucked pizzicato-like sound. The use of effects and subtile pitch modulation gives it an 'off' feeling.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Soundtrack", "Short"],
+  "name": "Pizzicato",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "791190bf-7cee-4168-b872-fefc0ed4dc2e",
+  "vendor": "Arturia"
+}

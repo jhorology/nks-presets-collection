@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Funky", "Short"],
+  "name": "Funk Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2d3891b1-c232-4694-9760-50b385f23fe6",
+  "vendor": "Arturia"
+}

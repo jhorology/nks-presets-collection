@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Sq Lead +",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1ed3e7ea-57c0-4af2-a1b2-5b57ae6b6d01",
+  "vendor": "Arturia"
+}

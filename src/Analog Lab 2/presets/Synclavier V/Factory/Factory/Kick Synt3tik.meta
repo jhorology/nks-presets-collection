@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sci-fi style Kickdrum. try playing different notes in a pattern",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Kick Synt3tik",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0afcfbc9-734b-4e2d-8663-9d4dc73ddf2a",
+  "vendor": "Arturia"
+}

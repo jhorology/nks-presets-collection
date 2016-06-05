@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Ensemble"],
+  "name": "Edge Bells",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "26fa5164-db6c-473b-ac9b-2549edac05a7",
+  "vendor": "Arturia"
+}

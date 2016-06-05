@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Twang Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3cbdee05-c2be-458d-94c1-8998d9516263",
+  "vendor": "Arturia"
+}

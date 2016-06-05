@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Pwm Saw",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a5e5e7cf-1d8c-4286-9956-b802279c8f8b",
+  "vendor": "Arturia"
+}

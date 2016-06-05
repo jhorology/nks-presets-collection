@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Rising Filter",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3e584f6c-62de-4989-8d39-47081882bf42",
+  "vendor": "Arturia"
+}

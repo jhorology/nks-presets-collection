@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Kiddie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e650f1e0-1a11-4f94-adec-7466b41b8599",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rudepoly",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "96a332fb-93fa-43fa-8d88-e06642238a6f",
+  "vendor": "Arturia"
+}

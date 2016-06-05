@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Squarangle Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0482faa5-5686-4870-b509-624370e85b1f",
+  "vendor": "Arturia"
+}

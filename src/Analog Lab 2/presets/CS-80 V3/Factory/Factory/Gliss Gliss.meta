@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Stepped glissando that rises or falls in fast semitones from the last played note. Aside from that, it's a fairly standard pulse wave.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Gliss Gliss",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6a6ec6ca-5d64-4185-b21f-68e801c8ba5d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soundtrack"],
+  "name": "Sweet Snc",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "dc06fce7-f994-488c-a9cf-26128a9a594c",
+  "vendor": "Arturia"
+}

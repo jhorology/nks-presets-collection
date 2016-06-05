@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Noise", "Soundtrack"],
+  "name": "Drums Of War",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "03279918-4836-4048-9faf-3cb19641d326",
+  "vendor": "Arturia"
+}

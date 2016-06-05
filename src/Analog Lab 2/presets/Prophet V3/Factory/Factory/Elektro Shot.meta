@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short"],
+  "name": "Elektro Shot",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "36bf6e01-827c-49f6-b249-77617ad9cdc4",
+  "vendor": "Arturia"
+}

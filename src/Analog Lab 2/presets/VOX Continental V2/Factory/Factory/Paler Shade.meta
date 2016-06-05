@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Wide stereo rotary effect on this dark and moody tone.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Simple", "Soft"],
+  "name": "Paler Shade",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "42849675-b8dc-4de8-bce4-1230ff5a71a0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Lost",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "80034061-cb13-420a-8b77-b40286bfc9cf",
+  "vendor": "Arturia"
+}

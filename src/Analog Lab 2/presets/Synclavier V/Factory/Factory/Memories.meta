@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a slow attack pad with vibrato on a bright sounding layer to bring focus of melody",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soundtrack"],
+  "name": "Memories",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2e3c78e5-f987-4dae-9883-69d50ddf6201",
+  "vendor": "Arturia"
+}

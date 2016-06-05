@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "ProVS Sine",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "63bf28a3-e351-4e84-84ce-785a6a569723",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice and bright keys with Dubdelay and Reverb. Modwheel controlled Pitch Chorus.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft", "Soundtrack"],
+  "name": "Simplicity",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b3221ee7-2590-4947-ae71-75b97f46bb2c",
+  "vendor": "Arturia"
+}

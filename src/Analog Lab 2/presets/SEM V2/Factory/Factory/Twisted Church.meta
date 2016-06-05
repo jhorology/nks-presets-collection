@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Twisted Church",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "30bef065-bbca-468a-8be0-a851b2b08688",
+  "vendor": "Arturia"
+}

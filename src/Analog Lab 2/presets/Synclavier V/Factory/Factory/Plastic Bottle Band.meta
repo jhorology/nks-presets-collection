@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Resynthesized plastic bottles struck with hands.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Short"],
+  "name": "Plastic Bottle Band",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e0b41efa-d1c1-41d4-b988-6b231d0301db",
+  "vendor": "Arturia"
+}

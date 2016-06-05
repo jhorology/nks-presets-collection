@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Brite",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "864aa561-f97a-43ff-a95c-0400e50f9e90",
+  "vendor": "Arturia"
+}

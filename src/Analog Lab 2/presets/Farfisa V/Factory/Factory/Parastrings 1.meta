@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Smooth strings with chorus pedal providing some movement and detuning in the sound.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Ensemble", "Soundtrack"],
+  "name": "Parastrings 1",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "dac45623-4929-45e5-895c-40041e4121c1",
+  "vendor": "Arturia"
+}

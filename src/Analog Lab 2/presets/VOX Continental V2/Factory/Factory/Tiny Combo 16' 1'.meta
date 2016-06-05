@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Tiny Combo 16' 1'",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "46f6e9f4-9cfa-43b4-a9c6-579ba0f1ae4d",
+  "vendor": "Arturia"
+}

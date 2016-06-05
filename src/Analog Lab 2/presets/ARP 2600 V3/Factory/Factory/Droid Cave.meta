@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Droid Cave",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "774c48d7-02b9-43a0-89de-283b783aeb24",
+  "vendor": "Arturia"
+}

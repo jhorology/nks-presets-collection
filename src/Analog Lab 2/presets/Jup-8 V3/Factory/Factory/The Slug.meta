@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Hard"],
+  "name": "The Slug",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "2779b185-3a0e-4ea7-b2ae-2cff96046e83",
+  "vendor": "Arturia"
+}

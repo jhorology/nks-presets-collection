@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Drums Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b103001a-e9d8-4157-9362-813be7cc6dca",
+  "vendor": "Arturia"
+}

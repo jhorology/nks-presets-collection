@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Pulsating ambient pad with a strong eerie feeling. Have a nice bright quality when played in the higher register.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Quiet"],
+  "name": "Lightwave Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ce30ee00-dedf-48f9-b6b5-41c20f3bf340",
+  "vendor": "Arturia"
+}

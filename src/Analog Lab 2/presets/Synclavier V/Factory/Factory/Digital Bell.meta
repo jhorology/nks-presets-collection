@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bell Timbre with great harmony. Modwheel controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Digital Bell",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d3fdbd9e-74d1-46ea-ab64-312deaf7d63b",
+  "vendor": "Arturia"
+}

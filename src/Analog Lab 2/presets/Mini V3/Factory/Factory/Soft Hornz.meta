@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Soft Hornz",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "bb648bb0-9576-4520-bec6-5b309ef1e940",
+  "vendor": "Arturia"
+}

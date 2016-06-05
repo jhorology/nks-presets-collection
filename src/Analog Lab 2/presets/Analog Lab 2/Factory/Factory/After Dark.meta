@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "Play a long note. Sounds better in the lower register",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark"],
+  "name": "After Dark",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ead9e454-4dc3-4f73-ba5a-cc82b9d8416c",
+  "vendor": "Arturia"
+}

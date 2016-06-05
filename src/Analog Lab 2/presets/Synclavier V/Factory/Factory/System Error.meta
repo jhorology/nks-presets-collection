@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Complex Sci-fi sequence made with the time frame view. Mod wheel controls the global speed",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "System Error",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "309d2d72-25a1-417c-a295-d1802391e8a5",
+  "vendor": "Arturia"
+}

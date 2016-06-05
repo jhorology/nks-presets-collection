@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "SUBRES1",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bff9b434-55ae-4424-b976-51c6a94d4ef8",
+  "vendor": "Arturia"
+}

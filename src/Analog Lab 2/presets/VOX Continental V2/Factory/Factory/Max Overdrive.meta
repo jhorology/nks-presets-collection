@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Hard"],
+  "name": "Max Overdrive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "47a93f0d-4939-40de-a7cb-9045ee9f1361",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Snare Roux",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "48052725-ccd8-4c10-9d20-cf2b41bad12d",
+  "vendor": "Arturia"
+}

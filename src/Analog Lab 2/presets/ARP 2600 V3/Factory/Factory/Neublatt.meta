@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Neublatt",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "522539ab-b221-4b33-9ab7-da13a61291ce",
+  "vendor": "Arturia"
+}

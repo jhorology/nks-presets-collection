@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Unisone",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "80f9907c-5fd9-49e6-b1ca-83be06fe1c30",
+  "vendor": "Arturia"
+}

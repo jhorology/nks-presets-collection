@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Drawbar Vibraphone",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "Vibrammond",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ab470d66-8e76-48ef-b0b8-b9508697be33",
+  "vendor": "Arturia"
+}

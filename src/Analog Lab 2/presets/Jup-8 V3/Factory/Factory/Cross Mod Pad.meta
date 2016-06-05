@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Long"],
+  "name": "Cross Mod Pad",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3368e831-074c-46a9-9753-ece0e0775fb8",
+  "vendor": "Arturia"
+}

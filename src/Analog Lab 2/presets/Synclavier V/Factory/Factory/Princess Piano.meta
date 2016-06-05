@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Gorgeous toy piano",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Soft"],
+  "name": "Princess Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "01578644-2de0-402c-84e6-fc79e47c52ae",
+  "vendor": "Arturia"
+}

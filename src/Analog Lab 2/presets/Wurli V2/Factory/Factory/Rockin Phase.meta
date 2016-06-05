@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Digital", "Soft"],
+  "name": "Rockin Phase",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0aaa3bf2-6ec7-4ff3-9aba-7939d1a4056c",
+  "vendor": "Arturia"
+}

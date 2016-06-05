@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long", "Soundtrack"],
+  "name": "Frippertroniks",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "35f41ffe-f1ce-4a6d-8988-c962e445a470",
+  "vendor": "Arturia"
+}

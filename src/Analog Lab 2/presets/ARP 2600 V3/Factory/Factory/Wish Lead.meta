@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Wish Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2e1cbbcc-f9a9-4a00-afda-230ee1d6fa96",
+  "vendor": "Arturia"
+}

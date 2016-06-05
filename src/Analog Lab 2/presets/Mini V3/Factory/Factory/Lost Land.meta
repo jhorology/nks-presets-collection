@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Soundtrack"],
+  "name": "Lost Land",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3f7b22cb-0f17-4560-83d8-fd4a559315fd",
+  "vendor": "Arturia"
+}

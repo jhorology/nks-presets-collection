@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Ripping 'wow' sound sequence with octave up/down motif and tons of repeats.",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Syncer Stinker",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7af63fc8-bdc5-4dc8-bdc4-6e2304358cff",
+  "vendor": "Arturia"
+}

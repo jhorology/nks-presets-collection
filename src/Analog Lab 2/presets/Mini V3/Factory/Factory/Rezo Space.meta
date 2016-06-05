@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long"],
+  "name": "Rezo Space",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1031b9ef-1628-4a7e-94a8-477d3c9a5aec",
+  "vendor": "Arturia"
+}

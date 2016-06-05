@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Workhorse Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b7fcdd7f-8592-4543-aa98-d82483e54cdb",
+  "vendor": "Arturia"
+}

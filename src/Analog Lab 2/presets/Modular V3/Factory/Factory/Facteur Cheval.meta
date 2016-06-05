@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Facteur Cheval",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "77ff2fc8-879b-47f2-90b2-b9c40b66fa63",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Gaw Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f23750f4-a33d-45cb-b6d8-5e41244ad4a6",
+  "vendor": "Arturia"
+}

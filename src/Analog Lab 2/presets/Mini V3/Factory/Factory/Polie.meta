@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soundtrack"],
+  "name": "Polie",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f88b24a7-d057-4fc2-bcc9-f22951fd91be",
+  "vendor": "Arturia"
+}

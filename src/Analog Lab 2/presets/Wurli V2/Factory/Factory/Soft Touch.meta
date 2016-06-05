@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Soft Touch",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "22c01db5-2b64-4cc1-ba01-ce2597ebd23f",
+  "vendor": "Arturia"
+}

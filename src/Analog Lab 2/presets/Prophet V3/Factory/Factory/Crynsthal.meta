@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Crynsthal",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "71c05ce4-6c84-47fd-a9d5-497a545a339d",
+  "vendor": "Arturia"
+}

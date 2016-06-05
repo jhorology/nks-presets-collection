@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Multi-layered sequence with high pass filter effects that come to the fore with after-touch and, even more so, with mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex", "Noise"],
+  "name": "The After Touch",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "711d0fd9-a4f1-40c9-baf3-fedc14183643",
+  "vendor": "Arturia"
+}

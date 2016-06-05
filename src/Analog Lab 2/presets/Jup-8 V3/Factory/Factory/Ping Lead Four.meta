@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Ping Lead Four",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "40236826-3d50-4cb3-a694-daa364daa34d",
+  "vendor": "Arturia"
+}

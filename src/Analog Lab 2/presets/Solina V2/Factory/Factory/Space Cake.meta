@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Long", "Soundtrack", "Quiet"],
+  "name": "Space Cake",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8bb614ae-13c2-43f5-b399-68693556a2c1",
+  "vendor": "Arturia"
+}

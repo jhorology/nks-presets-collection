@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Hi Res Arp",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6b9d23e1-0c2d-4be0-877f-4862e475099a",
+  "vendor": "Arturia"
+}

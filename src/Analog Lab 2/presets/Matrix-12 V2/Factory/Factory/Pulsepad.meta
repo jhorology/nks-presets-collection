@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Pulsepad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "54ee728f-8162-4c60-951c-a005c43350f9",
+  "vendor": "Arturia"
+}

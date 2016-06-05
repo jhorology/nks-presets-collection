@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "More layered with higher overtones than DX Epiano. MOD WHEEL-slight detune for chorus-y stereo spread",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky", "Hard", "Simple", "Soft"],
+  "name": "DXM1SY Epiano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cda432ca-ca2c-4dfb-9e7c-eb72a0e6dcaa",
+  "vendor": "Arturia"
+}

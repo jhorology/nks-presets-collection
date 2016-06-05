@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Bd Trance",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "07436c70-1aca-4fd7-8abf-780e8ac3b422",
+  "vendor": "Arturia"
+}

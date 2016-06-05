@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Driver",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ae2e140c-d094-49d3-88b8-f539906626fb",
+  "vendor": "Arturia"
+}

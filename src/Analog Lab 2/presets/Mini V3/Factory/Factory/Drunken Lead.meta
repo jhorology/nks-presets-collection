@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "Drunken Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "29faf796-e6cc-426f-bc45-c9e63a27a3a1",
+  "vendor": "Arturia"
+}

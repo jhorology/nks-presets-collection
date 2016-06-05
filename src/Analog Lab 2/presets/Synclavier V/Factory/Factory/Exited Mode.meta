@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Punchy synth sound with repeat arpeggio mode and panning modulation. Modwheel controlled pitch Chorus.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Exited Mode",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "46ab5885-40b4-4989-8313-594f70cc1779",
+  "vendor": "Arturia"
+}

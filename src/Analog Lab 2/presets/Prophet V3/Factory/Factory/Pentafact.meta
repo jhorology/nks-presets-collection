@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Pentafact",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fdaf1e5f-c276-47e1-a17e-460d4b32cdea",
+  "vendor": "Arturia"
+}

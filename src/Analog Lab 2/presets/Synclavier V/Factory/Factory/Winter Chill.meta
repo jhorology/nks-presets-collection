@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a bright glassy sound that gives a somewhat dark feel in the low notes",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soundtrack"],
+  "name": "Winter Chill",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6450b7de-3639-4012-8fb2-9e6dcb0c65fd",
+  "vendor": "Arturia"
+}

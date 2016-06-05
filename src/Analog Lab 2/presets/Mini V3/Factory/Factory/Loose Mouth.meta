@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "A mix of pulse and sawtooth waves utilizing the vocal filter with stereo delay  (long feedback).",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Loose Mouth",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ca12a80d-4766-4d0c-ae71-541412d762cd",
+  "vendor": "Arturia"
+}

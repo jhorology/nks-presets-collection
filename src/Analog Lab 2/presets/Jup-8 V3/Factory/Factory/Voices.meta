@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Stunning and relaxing voice-like pad. Sounds best in the low-medium range.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Quiet"],
+  "name": "Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "de6f67cb-79e1-4c56-ad64-372fe2be7d15",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Big SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "80a5c3df-0eb7-45b0-9d7e-39a1016d26a3",
+  "vendor": "Arturia"
+}

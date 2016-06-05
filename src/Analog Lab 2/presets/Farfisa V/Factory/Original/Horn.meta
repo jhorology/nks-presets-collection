@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft", "Short"],
+  "name": "Horn",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "49ace60f-9908-46f7-8c67-395167829f3b",
+  "vendor": "Arturia"
+}

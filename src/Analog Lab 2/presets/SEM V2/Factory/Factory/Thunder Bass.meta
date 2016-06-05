@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Bone shaking bass with some edge and full sustain and slowly pulsing LFO. Mod wheel opens up the filter for emphasis.",
+  "deviceType": "INST",
+  "modes": ["Dark"],
+  "name": "Thunder Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1fcecf6a-90c1-4fd6-843d-0c183ec56e10",
+  "vendor": "Arturia"
+}

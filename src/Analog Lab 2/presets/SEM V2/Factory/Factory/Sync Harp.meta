@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Sync Harp",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2fc6e287-21f6-4359-8710-93c26ee48998",
+  "vendor": "Arturia"
+}

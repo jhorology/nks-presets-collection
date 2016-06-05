@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive"],
+  "name": "Lead Pwr Chord",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0ef6e3d6-527c-4423-ac96-d5d13c66f34b",
+  "vendor": "Arturia"
+}

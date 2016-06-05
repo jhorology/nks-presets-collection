@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Taurus",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "318136d3-6c05-4d93-8318-3cf0abfb1b1c",
+  "vendor": "Arturia"
+}

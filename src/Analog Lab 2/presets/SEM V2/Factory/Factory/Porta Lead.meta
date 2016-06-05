@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Porta Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9809ecbf-b9c5-4852-8532-f17da440510f",
+  "vendor": "Arturia"
+}

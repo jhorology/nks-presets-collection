@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a multi layer slide up to the root note",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Long"],
+  "name": "Upslide",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2575822e-9ead-42f6-b24c-7a99cda9a8bf",
+  "vendor": "Arturia"
+}

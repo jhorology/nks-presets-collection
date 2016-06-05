@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Simple", "Short"],
+  "name": "Fibonacci",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5be46c35-dafa-4f79-998b-d99fb4d3f536",
+  "vendor": "Arturia"
+}

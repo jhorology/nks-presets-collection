@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Soundtrack"],
+  "name": "Tebble Sky",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "88d197e5-cac5-4f17-b5e1-651115c508cd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Savoie",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "71ec8b54-1bb3-4cfa-b1da-49fa318acce9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Ensemble", "Long", "Soft", "Soundtrack"],
+  "name": "Ocean Deep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3dbb8c5e-9f48-4211-997c-ade9efed2c97",
+  "vendor": "Arturia"
+}

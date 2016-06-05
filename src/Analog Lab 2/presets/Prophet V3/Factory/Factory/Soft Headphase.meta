@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Soft Headphase",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ae89e6ed-0ecb-401d-a3c6-e71f3e5a670d",
+  "vendor": "Arturia"
+}

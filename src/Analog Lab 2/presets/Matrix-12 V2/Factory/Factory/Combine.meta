@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Pulsating multi-layered, multi-textured driving beat with phaser on board. A lot of the activity is down to the delay.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Soundtrack"],
+  "name": "Combine",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d03e2a4a-398a-4bea-ab2c-bd39b8720d8a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Mermaid",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d0dbc9b6-4a12-4364-860c-e3afab968432",
+  "vendor": "Arturia"
+}

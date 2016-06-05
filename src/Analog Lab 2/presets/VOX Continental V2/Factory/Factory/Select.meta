@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Fluted tone with a strong whinnying vibrato.  A little overdrive is coming from the amp and inserted chorus pedal adds both intensity and movement.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Select",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "832130b7-d852-4340-ad17-e0cbcd4c5dc1",
+  "vendor": "Arturia"
+}

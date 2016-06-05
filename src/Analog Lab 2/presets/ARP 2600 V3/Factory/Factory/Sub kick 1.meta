@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Sub kick 1",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "37a836ce-e6a9-4713-8965-dca148c4b02c",
+  "vendor": "Arturia"
+}

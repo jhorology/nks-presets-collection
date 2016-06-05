@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Bad Pad3",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "79258b7a-8e8c-4e1d-8f13-bc0d6a943e33",
+  "vendor": "Arturia"
+}

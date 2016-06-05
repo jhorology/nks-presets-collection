@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Ryhtmun",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "392ff23c-a5f2-4b0a-988a-a92a32bc23d9",
+  "vendor": "Arturia"
+}

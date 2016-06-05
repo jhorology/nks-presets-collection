@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "In The Boeing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "86f192aa-b932-4788-943a-bfd8a7eacf9d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Soundtrack"],
+  "name": "Pro5 41-PulseWidthMod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4045d7f1-93f6-4421-86c6-fb3ad6c913a1",
+  "vendor": "Arturia"
+}

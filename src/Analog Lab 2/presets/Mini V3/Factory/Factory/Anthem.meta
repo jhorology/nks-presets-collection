@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Standard eighties synth mono stab sound.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Noise"],
+  "name": "Anthem",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3ad7a8fb-70f3-4715-a1b6-e1da178e4bb5",
+  "vendor": "Arturia"
+}

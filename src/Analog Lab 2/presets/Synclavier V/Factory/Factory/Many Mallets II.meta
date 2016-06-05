@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Combination of several kind of mallet instruments type 2",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Ensemble"],
+  "name": "Many Mallets II",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b8a8f344-f4f0-48d0-bebe-61106577adfb",
+  "vendor": "Arturia"
+}

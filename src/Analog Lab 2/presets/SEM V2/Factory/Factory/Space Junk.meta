@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soundtrack"],
+  "name": "Space Junk",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "90ee0d64-e530-47bf-a00f-c8a9aaba1dad",
+  "vendor": "Arturia"
+}

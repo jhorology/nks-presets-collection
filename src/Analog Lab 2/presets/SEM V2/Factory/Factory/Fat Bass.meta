@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Fat Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "239c274a-f309-4bd3-ab25-81a729364d7f",
+  "vendor": "Arturia"
+}

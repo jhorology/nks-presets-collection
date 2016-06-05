@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Noise", "Soundtrack"],
+  "name": "Clazy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6ceac858-3d15-49a0-b27c-b6659b505a9d",
+  "vendor": "Arturia"
+}

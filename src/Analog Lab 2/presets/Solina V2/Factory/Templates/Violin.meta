@@ -1,0 +1,13 @@
+{
+  "author": "Solina Factory",
+  "bankchain": ["Analog Lab 2", "Solina", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Violin",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "63284c3e-4fb1-4ba3-b9ab-304b59d7d185",
+  "vendor": "Arturia"
+}

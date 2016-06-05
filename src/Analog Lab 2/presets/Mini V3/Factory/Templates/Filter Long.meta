@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Filter Long",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2f444fa3-654d-448a-a89b-5281ebb61161",
+  "vendor": "Arturia"
+}

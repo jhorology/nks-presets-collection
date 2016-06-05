@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Old Classic",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7687ea85-b6c9-49ee-937b-04862a5f441d",
+  "vendor": "Arturia"
+}

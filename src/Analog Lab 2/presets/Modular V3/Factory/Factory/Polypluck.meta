@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Polypluck",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "52847488-1eb2-4d1e-968f-ee1bde322c45",
+  "vendor": "Arturia"
+}

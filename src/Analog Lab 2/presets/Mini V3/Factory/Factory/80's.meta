@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "80's",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8d97e1df-e0b3-4a76-a9ea-e38bdcb77f3d",
+  "vendor": "Arturia"
+}

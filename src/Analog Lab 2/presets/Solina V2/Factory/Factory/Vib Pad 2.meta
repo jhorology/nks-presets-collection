@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long"],
+  "name": "Vib Pad 2",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7d6bb96e-e81f-4cca-8ae3-883774a13164",
+  "vendor": "Arturia"
+}

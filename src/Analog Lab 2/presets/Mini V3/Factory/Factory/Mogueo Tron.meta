@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Mogueo Tron",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "63b70488-8639-4479-9f46-c9a9c36d76ef",
+  "vendor": "Arturia"
+}

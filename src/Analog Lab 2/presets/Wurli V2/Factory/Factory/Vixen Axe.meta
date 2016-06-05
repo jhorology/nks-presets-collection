@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Simple"],
+  "name": "Vixen Axe",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b94899da-d44c-49f9-9109-9f227a1fdadb",
+  "vendor": "Arturia"
+}

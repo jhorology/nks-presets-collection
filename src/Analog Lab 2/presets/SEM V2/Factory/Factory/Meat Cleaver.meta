@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Digital", "Hard"],
+  "name": "Meat Cleaver",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5e6e3a2c-1962-4375-b086-8233a1e9a4d4",
+  "vendor": "Arturia"
+}

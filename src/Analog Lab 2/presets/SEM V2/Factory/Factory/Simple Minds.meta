@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble", "Hard"],
+  "name": "Simple Minds",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "64392a44-651d-49e0-8cd2-079108be4ddf",
+  "vendor": "Arturia"
+}

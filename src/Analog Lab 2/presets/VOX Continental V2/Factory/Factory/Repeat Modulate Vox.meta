@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "With pronounced repeats. Medium to full tone and also employs the rotary effect.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Repeat Modulate Vox",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "69c07b3b-a377-40c6-84e9-36731045cbdf",
+  "vendor": "Arturia"
+}

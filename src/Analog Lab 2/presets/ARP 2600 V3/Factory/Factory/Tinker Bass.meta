@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Tinker Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4f9eb1fa-04a0-48e7-8c24-57de48072c31",
+  "vendor": "Arturia"
+}

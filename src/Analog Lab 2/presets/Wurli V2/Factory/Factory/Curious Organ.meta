@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Digital", "Noise"],
+  "name": "Curious Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c82bb309-5f97-4477-b2c0-becca112456e",
+  "vendor": "Arturia"
+}

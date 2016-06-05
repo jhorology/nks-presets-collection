@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Hybrikeys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "09d9d52f-4cdf-46d9-8c5f-279549e7736b",
+  "vendor": "Arturia"
+}

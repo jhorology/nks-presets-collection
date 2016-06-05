@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Underwater bleeps and clangs. Plenty of panned delay and deep reverb. Mod wheel simultaneously adds resonance and drops the cutoff frequency.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark", "Digital", "Noise"],
+  "name": "Cave Creatures",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c700d92d-28c8-404e-80c1-92e8b5551757",
+  "vendor": "Arturia"
+}

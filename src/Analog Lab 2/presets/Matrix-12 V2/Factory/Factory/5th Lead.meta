@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Hard"],
+  "name": "5th Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9ada919c-78bf-40b0-b316-c5e0a25da25d",
+  "vendor": "Arturia"
+}

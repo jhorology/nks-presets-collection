@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Mellow Arp 88 BPM",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "950e5397-6137-480d-bd1c-599b848751c2",
+  "vendor": "Arturia"
+}

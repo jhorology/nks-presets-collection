@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by a passage in Eddie Jobson's Theme of Secrets. MOD WHEEL FM modulates one of the two layered flute for a ring modulator - like effect.",
+  "deviceType": "INST",
+  "modes": [],
+  "name": "Jobson Wonky Flutes",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "14e39810-2e1b-45bf-96d4-9dbd1e9146a1",
+  "vendor": "Arturia"
+}

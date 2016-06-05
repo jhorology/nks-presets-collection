@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "Lather",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "01b2e483-3d0d-4ef7-aa2c-45699dfd8cd9",
+  "vendor": "Arturia"
+}

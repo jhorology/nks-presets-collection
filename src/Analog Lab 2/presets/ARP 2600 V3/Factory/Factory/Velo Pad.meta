@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise", "Soft"],
+  "name": "Velo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6fd32c6e-c98a-4240-92b5-48cf3c4d55de",
+  "vendor": "Arturia"
+}

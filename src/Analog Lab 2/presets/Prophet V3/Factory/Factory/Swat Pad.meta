@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Swat Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "362cc34b-5ace-4e3e-a655-398d30ce367f",
+  "vendor": "Arturia"
+}

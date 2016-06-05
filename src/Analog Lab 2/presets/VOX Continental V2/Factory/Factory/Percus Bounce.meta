@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet", "Short"],
+  "name": "Percus Bounce",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b305a916-0368-4fe5-8526-6486fee97b52",
+  "vendor": "Arturia"
+}

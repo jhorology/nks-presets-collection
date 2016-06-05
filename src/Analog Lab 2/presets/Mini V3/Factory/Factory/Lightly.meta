@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Lightly",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "c37f65be-4657-426b-ba72-2a87b19dd17d",
+  "vendor": "Arturia"
+}

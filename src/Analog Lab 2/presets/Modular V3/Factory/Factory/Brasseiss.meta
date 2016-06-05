@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Brasseiss",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "f68f3178-e744-4f79-83d8-548c30810194",
+  "vendor": "Arturia"
+}

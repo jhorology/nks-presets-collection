@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Close The Door",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "24e8d0f9-4a9e-4634-b1a2-6fcb3c4dd1c8",
+  "vendor": "Arturia"
+}

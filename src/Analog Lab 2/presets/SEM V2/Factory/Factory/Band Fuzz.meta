@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Sync oscillator-ed, fizzy arpeggiator pattern on which you can play notes (it'll play back in octaves) or chords, which will then be arpeggiated.",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Band Fuzz",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9770ed70-e930-4857-95e8-9482a31a3bf1",
+  "vendor": "Arturia"
+}

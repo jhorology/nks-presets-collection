@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "reminicent of the mystery of space in the 70s",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Sagan Chord",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "56277bca-106b-4ac5-949c-64308a058ada",
+  "vendor": "Arturia"
+}

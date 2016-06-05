@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Sync On Wheels",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bb70baf5-eeb3-4045-833b-6483e7f72fea",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Starchild",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8286196a-94f9-4926-9a40-e5502d165e49",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Thickie",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4862c820-e6be-4ba7-a6d5-1ca1a07ea6e7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long"],
+  "name": "Repeat Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d2a281a8-3d28-4858-93ad-4e6d1238ea65",
+  "vendor": "Arturia"
+}

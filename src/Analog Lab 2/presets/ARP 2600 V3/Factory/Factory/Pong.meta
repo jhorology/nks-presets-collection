@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pong",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5b31302b-3492-4c12-94b9-5b3c70370235",
+  "vendor": "Arturia"
+}

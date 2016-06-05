@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Quiet"],
+  "name": "Sensation",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3ceea29a-f752-4002-9a41-c10222ee6012",
+  "vendor": "Arturia"
+}

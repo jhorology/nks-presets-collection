@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Relaxing plucked keyboard sound, suitable for electronica and ambient music. The subtile pitch modulation gives it a vintage feeling. Works well with massive amounts of reverb !",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Soundtrack"],
+  "name": "Underwater Pluck",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "031b9024-d8f6-43d6-bdf1-8165500082e3",
+  "vendor": "Arturia"
+}

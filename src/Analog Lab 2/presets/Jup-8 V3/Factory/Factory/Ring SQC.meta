@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble"],
+  "name": "Ring SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "930bb65f-8c10-4052-8700-af13a3f1f9f3",
+  "vendor": "Arturia"
+}

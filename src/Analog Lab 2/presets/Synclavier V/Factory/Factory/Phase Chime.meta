@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a soft noise attack chime like arpreggiator with a strong phaser effect",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Phase Chime",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5355444b-3ab4-4848-8689-a91f18aa726e",
+  "vendor": "Arturia"
+}

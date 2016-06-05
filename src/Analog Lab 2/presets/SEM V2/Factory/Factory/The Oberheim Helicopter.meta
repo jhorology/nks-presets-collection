@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soundtrack"],
+  "name": "The Oberheim Helicopter",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "84b3073d-c895-4fd9-af43-df0aa57f3e70",
+  "vendor": "Arturia"
+}

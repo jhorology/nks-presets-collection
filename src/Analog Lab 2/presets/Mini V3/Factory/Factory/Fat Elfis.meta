@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Fat Elfis",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e9032939-7f97-41ce-94b4-a310147ef4ed",
+  "vendor": "Arturia"
+}

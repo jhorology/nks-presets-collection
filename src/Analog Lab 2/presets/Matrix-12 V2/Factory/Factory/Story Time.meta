@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Underwater, burbling and bubbling in constantly accelerating and decelerating fashion.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Story Time",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9057967e-bad1-4800-ad55-3129c62ad0ac",
+  "vendor": "Arturia"
+}

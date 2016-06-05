@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "VIP Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "675030f4-0684-4bfe-a5fc-b1deab8e717f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Dirty Rez",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "998faa3a-33be-47bd-a6ba-cb58e36a80f4",
+  "vendor": "Arturia"
+}

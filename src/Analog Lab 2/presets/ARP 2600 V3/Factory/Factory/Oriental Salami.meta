@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Oriental Salami",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "358ff126-3018-4268-81ec-bf7821c54e70",
+  "vendor": "Arturia"
+}

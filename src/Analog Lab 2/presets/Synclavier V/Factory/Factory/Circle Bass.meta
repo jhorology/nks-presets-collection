@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Punchy FM Bass sound. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Digital", "Hard", "Short"],
+  "name": "Circle Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8ae3ce59-d780-4c8e-803d-1cfe0d0a4dc5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Long"],
+  "name": "Square Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2c09250a-053f-4cde-9f8b-0c8381efc161",
+  "vendor": "Arturia"
+}

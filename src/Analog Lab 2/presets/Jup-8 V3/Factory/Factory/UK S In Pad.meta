@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Digital", "Quiet"],
+  "name": "UK S In Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "16ec5a37-02c2-4baf-832d-371c3158a4cf",
+  "vendor": "Arturia"
+}

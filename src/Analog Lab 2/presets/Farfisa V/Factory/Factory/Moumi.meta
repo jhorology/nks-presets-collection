@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Moumi",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7a98de22-3699-428f-b716-d11460615610",
+  "vendor": "Arturia"
+}

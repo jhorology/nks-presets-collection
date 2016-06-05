@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Mod Balloon",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0d25d674-8194-4ad5-9ca2-8db9fca46519",
+  "vendor": "Arturia"
+}

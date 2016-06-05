@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cheap Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ddf7fe91-5181-4bd0-8f80-d2ef5f219f86",
+  "vendor": "Arturia"
+}

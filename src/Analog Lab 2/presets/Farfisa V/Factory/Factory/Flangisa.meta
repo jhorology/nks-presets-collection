@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Short"],
+  "name": "Flangisa",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "aae4c5f1-976f-470e-9879-fbd655ac6e8a",
+  "vendor": "Arturia"
+}

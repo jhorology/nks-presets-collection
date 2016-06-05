@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice keys with modulation and reverb. Modwheel controlled pitch chorus.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Emokeys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "078d9ba9-0832-4103-be5f-06c66cade6a1",
+  "vendor": "Arturia"
+}

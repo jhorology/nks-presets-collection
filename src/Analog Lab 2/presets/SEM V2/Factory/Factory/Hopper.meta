@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Hopper",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1a820f8c-9338-4ecc-96c4-210e2554633b",
+  "vendor": "Arturia"
+}

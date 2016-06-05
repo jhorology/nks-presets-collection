@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Soundtrack", "Quiet"],
+  "name": "Crying Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dee28bea-524c-4980-8e3f-ad54ede0d4bf",
+  "vendor": "Arturia"
+}

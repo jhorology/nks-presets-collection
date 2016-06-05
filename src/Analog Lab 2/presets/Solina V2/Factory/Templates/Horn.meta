@@ -1,0 +1,13 @@
+{
+  "author": "Solina Factory",
+  "bankchain": ["Analog Lab 2", "Solina", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Horn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "71360205-370c-44da-96f0-71145df5adca",
+  "vendor": "Arturia"
+}

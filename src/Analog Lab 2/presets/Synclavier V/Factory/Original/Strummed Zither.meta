@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple"],
+  "name": "Strummed Zither",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "be8cd3a5-3bd2-407a-af80-ed39b66df373",
+  "vendor": "Arturia"
+}

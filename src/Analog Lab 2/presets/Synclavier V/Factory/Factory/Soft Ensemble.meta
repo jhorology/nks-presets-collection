@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble", "Quiet"],
+  "name": "Soft Ensemble",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "0a5ab7fc-ec2a-404c-9dd2-d925339c3e27",
+  "vendor": "Arturia"
+}

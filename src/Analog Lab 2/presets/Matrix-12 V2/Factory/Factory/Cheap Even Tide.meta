@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky"],
+  "name": "Cheap Even Tide",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "81ac7254-acb0-46d0-aa64-e4c8b78ed50b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "PWM Chorus",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "2f8fe857-0e48-4999-a72f-baabf36fd4af",
+  "vendor": "Arturia"
+}

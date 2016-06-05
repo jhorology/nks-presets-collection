@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "This cheesy arpeggio sounds a little like the house-arpeggio's from the 90's. That's why I called it 'Gabber Arp'. Gabber was a dutch hardcore genre - which could be considered a little cheesy by todays standards.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple"],
+  "name": "Gabber Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "913c3755-51ac-4761-8d6c-35dee96f2676",
+  "vendor": "Arturia"
+}

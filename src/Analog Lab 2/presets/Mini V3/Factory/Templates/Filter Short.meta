@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Filter Short",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "07d0cb1a-7958-4bd4-a475-65bfed3d3cfe",
+  "vendor": "Arturia"
+}

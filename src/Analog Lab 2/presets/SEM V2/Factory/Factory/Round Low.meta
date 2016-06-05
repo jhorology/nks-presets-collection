@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Round Low",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4a9ee02d-3788-47a9-b8b6-1e7d2e4ca416",
+  "vendor": "Arturia"
+}

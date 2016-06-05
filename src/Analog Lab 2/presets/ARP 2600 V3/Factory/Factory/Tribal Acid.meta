@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Tribal Acid",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "708d053b-d8e7-4d9e-b9ec-23db2cd84603",
+  "vendor": "Arturia"
+}

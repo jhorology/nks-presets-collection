@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Long", "Soundtrack"],
+  "name": "B-52",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b72c45e8-da35-4039-ae00-309ee2cf99a6",
+  "vendor": "Arturia"
+}

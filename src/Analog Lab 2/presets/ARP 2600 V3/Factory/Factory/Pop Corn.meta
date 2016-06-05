@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Pop Corn",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "aa1e43e1-0a7d-49ae-8bac-e843a3de88b7",
+  "vendor": "Arturia"
+}

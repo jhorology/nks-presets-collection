@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "fundamental",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "93b1e793-b635-4484-ab7a-33967b329e5f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very responsive to velocity. MOD WHEEL - stereo tremolo",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Soft", "Soundtrack", "Evolving"],
+  "name": "Pacific Coast '84",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2bf89a0d-4901-427c-9817-b2ba2b37c952",
+  "vendor": "Arturia"
+}

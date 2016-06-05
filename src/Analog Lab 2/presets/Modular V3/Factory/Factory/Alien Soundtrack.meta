@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long"],
+  "name": "Alien Soundtrack",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "56be24b5-fac9-4b7b-85e4-afd4dd58faa3",
+  "vendor": "Arturia"
+}

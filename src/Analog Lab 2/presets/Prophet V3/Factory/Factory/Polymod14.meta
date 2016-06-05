@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Polymod14",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cbebe97a-6c3f-48d5-a88d-980fe1bb56c4",
+  "vendor": "Arturia"
+}

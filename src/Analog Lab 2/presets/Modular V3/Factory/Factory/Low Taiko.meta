@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Low Taiko",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "aefa1d74-fc78-450c-91ae-ebe0f9a95b53",
+  "vendor": "Arturia"
+}

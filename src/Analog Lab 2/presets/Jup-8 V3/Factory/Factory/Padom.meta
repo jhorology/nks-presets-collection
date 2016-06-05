@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Padom",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0861105c-acf4-447c-9efd-565310747408",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Midi Trig",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c2b81486-b7a0-4505-8c63-62a123ade6e5",
+  "vendor": "Arturia"
+}

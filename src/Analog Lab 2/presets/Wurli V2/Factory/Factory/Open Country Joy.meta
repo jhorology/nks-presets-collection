@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Open Country Joy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6fbbdb7f-5953-4239-8719-be93d70d7b0d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Sortaharp Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3cf47fb1-b560-41ed-8c39-cd7532c8f4ba",
+  "vendor": "Arturia"
+}

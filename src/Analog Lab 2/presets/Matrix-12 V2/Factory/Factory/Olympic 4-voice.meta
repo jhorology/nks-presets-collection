@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Hard"],
+  "name": "Olympic 4-voice",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "65f69ebc-988e-49d5-b694-0709d333d4f7",
+  "vendor": "Arturia"
+}

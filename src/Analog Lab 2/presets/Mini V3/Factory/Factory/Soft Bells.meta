@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Like a chiming clock. Mod wheel introduces VCO3 FM for almost Theramin-like whistling that blends perfectly with the mood.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Soft Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3119cba7-ba20-4ae2-8b03-c0a26d5593e2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Mark Twain",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "89f4e3be-170e-4aa0-a985-916fc975032e",
+  "vendor": "Arturia"
+}

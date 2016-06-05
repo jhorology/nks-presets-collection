@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' legendary Tron soundtrack from 1982. She used  DK Synergy systems which share a lot in common with Synclavier's FM synthesis. This bass patch is very responsive to VELOCITY. MOD WHEEL slows FM attack",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Funky", "Hard", "Soundtrack", "Short"],
+  "name": "Tron '82 Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "026c7160-35ad-4223-bad1-721014e77578",
+  "vendor": "Arturia"
+}

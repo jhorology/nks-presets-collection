@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Beware Of The Wheel",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "faecbefb-e86f-4dd8-9eb8-501a12252a2e",
+  "vendor": "Arturia"
+}

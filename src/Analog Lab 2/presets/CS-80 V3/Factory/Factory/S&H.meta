@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "S&H",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3b2c4b57-4ea5-40d9-af3e-d989c72ab3d7",
+  "vendor": "Arturia"
+}

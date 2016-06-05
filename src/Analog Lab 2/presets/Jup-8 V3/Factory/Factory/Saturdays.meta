@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Quiet", "Short"],
+  "name": "Saturdays",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "038e996c-7a13-4068-8ae6-127b9cb4da29",
+  "vendor": "Arturia"
+}

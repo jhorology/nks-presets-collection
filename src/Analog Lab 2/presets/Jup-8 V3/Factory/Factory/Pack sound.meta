@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Pack sound",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "089c83be-f9fb-463f-befc-e9702d4fb193",
+  "vendor": "Arturia"
+}

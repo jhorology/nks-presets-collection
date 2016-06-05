@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Glockensparkle",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8beea857-605a-428f-a775-f6a9633490aa",
+  "vendor": "Arturia"
+}

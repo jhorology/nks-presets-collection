@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Use the Mod Wheel",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky", "Long", "Soundtrack"],
+  "name": "Going Under",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9614e06d-098a-405e-8874-44be2ab26768",
+  "vendor": "Arturia"
+}

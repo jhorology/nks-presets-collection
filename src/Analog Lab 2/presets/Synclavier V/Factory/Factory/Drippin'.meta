@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Arpeggio using a lot of partials tuned to the harmonic series. Using each of the partials tremolo effect the partials fade in and out creating an ever chaning sound. The mod wheel lengthens the decay for a less percussive sound.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Simple", "Soft", "Soundtrack", "Evolving"],
+  "name": "Drippin'",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b0a90b4b-6138-4eb3-b5c8-a558d40c4fe6",
+  "vendor": "Arturia"
+}

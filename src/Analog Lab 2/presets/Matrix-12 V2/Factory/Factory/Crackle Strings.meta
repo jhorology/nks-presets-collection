@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Soundtrack"],
+  "name": "Crackle Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "18466267-f572-4246-bb98-aab496a36956",
+  "vendor": "Arturia"
+}

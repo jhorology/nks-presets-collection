@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft", "Evolving"],
+  "name": "Ambienatoire",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1f2b1158-f1ee-48a6-ba89-9af67abde945",
+  "vendor": "Arturia"
+}

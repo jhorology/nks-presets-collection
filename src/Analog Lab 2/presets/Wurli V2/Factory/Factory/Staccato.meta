@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Staccato",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1618f550-ca87-4282-9781-88ba076d513b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Padright",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5c2f5502-c9b2-45c4-8b62-2005033cc8a4",
+  "vendor": "Arturia"
+}

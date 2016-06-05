@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Venuselli",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6e184728-3628-4113-ac22-f3cb4c0640fc",
+  "vendor": "Arturia"
+}

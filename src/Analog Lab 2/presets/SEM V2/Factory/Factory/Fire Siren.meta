@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soundtrack"],
+  "name": "Fire Siren",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7f6cca19-59b0-49b7-a337-ef60f96d9e0c",
+  "vendor": "Arturia"
+}

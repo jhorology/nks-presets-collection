@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Ring My Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e7d19204-948b-4b18-b64f-f4752b2c487c",
+  "vendor": "Arturia"
+}

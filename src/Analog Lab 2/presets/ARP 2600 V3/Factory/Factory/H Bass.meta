@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "H Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e72aa6da-1e23-42c8-bfe5-aabf37d92944",
+  "vendor": "Arturia"
+}

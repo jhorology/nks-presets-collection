@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "False Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6fb95e95-c41c-4e62-aef6-3515f421a87c",
+  "vendor": "Arturia"
+}

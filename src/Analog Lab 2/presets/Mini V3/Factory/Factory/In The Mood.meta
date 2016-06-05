@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "In The Mood",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a8443860-fcc1-4d14-ab4f-f58c9145d25e",
+  "vendor": "Arturia"
+}

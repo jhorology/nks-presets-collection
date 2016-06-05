@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Hard"],
+  "name": "Cross Md Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "42caf885-a2f7-4b13-997c-0e77efb8f9d0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Hard"],
+  "name": "Thats A Cool Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3b79cf91-812c-460a-a9b1-ec5968288913",
+  "vendor": "Arturia"
+}

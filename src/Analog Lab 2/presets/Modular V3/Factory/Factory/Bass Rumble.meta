@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Bass Rumble",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c552cfa8-eacc-4610-a23a-41dd315533e2",
+  "vendor": "Arturia"
+}

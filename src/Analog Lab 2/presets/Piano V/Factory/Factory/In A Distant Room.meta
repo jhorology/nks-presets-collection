@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Piano heard from another room",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soundtrack"],
+  "name": "In A Distant Room",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c9add195-27a1-416d-9857-f5b338982c6e",
+  "vendor": "Arturia"
+}

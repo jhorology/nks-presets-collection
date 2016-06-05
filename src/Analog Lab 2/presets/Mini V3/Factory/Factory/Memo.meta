@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Memo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "fcfd3da1-6df4-43b8-adb3-c465465b71c1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Sequenced pitches in a slow downward filter sweep. Mod wheel effects filter cutoff. Delay adds yet more layers and textures.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Syntoys",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0af39755-97f9-4dfa-b2e8-a1ff8fa4532f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Long phasing pad. Sounds somehow similar to a church organ.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Quiet"],
+  "name": "Belle & Sebastien",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "61394444-795d-4533-9560-816e58b270b7",
+  "vendor": "Arturia"
+}

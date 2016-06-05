@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Modwheel Train",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ecaed640-87ab-4f2f-9df1-50b64986bebf",
+  "vendor": "Arturia"
+}

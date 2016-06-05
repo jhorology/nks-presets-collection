@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Big Phazin",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fa89afbe-0584-4148-b776-6fe65b0dfa12",
+  "vendor": "Arturia"
+}

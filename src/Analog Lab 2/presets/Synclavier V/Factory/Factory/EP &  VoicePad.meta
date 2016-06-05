@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Combination of FM electric piano and Human voice ensembre. Use after touch or wheel",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Ensemble", "Funky"],
+  "name": "EP &  VoicePad",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "7b8411c4-ae26-43c5-b488-0c290c467eed",
+  "vendor": "Arturia"
+}

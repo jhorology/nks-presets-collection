@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Super Wet Chorus Flange",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "41cc8c6f-74a2-40cf-b6db-30bfc2731b23",
+  "vendor": "Arturia"
+}

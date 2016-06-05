@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "Farfizer Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "77e23c22-d994-4e5b-a785-a7a9dba603ff",
+  "vendor": "Arturia"
+}

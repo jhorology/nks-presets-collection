@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Funky"],
+  "name": "Disco Tom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "41f4499e-2eeb-433f-9392-67dc09acaf35",
+  "vendor": "Arturia"
+}

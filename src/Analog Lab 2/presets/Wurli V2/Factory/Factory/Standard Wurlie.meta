@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Standard Wurlie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "990a698a-dbd7-46cb-91c0-e9f522012d80",
+  "vendor": "Arturia"
+}

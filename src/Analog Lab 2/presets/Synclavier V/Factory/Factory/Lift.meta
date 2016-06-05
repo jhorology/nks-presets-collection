@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "this could be considered keys too as it has both that and pad elements",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Lift",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4ec41aec-66b9-4ab9-b0db-49248d14bb7a",
+  "vendor": "Arturia"
+}

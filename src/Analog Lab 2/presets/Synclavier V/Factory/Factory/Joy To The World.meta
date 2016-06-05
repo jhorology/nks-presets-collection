@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Rich layered choral ensemble. As with most of my FM  patches VELOCITY increases FM Amount for a brighter tone. MOD WHEEL increases vibrato",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Ensemble", "Long", "Soundtrack"],
+  "name": "Joy To The World",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "961db8d9-2d19-4b70-8b06-be1653b9f7d5",
+  "vendor": "Arturia"
+}

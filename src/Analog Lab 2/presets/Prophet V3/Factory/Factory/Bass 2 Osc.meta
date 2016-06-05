@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Bass 2 Osc",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "180d9890-e563-4f45-84e4-95705464f7e4",
+  "vendor": "Arturia"
+}

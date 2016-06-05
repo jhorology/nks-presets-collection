@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright"],
+  "name": "Saw Acid",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e1f28b5a-6aa2-475f-9cb1-beded00afa54",
+  "vendor": "Arturia"
+}

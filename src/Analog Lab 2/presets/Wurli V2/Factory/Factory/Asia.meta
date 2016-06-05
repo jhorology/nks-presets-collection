@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Organized' Wurli with if not full sustain, plenty to make this useful as a pad with a distinct front end.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Asia",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "bfe81215-8f6a-47db-aadf-7afea6be2c62",
+  "vendor": "Arturia"
+}

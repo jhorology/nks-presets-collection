@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Funky", "Long"],
+  "name": "Faze Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9fcce944-176e-43a0-8bf4-5c382e8922f4",
+  "vendor": "Arturia"
+}

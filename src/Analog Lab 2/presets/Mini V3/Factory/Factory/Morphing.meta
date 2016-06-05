@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Morphing",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "db1711a7-942f-479a-8874-dbb4b32c0be3",
+  "vendor": "Arturia"
+}

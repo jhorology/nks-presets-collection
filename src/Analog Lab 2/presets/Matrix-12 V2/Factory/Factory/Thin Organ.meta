@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Thin Organ",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b4c30a75-1f5a-4169-844c-fb1e618b6e47",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long"],
+  "name": "80S Hybrid Stack",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "19468a42-118e-44fb-99a0-300756730009",
+  "vendor": "Arturia"
+}

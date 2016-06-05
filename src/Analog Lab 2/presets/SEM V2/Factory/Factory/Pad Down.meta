@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Long"],
+  "name": "Pad Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "84630d5d-cbd9-42b8-b50a-9080b2f58df3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Many bells sound randomly",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark", "Digital", "Hard"],
+  "name": "Bell's Inferno",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5d5e989b-c256-495b-9859-852a31e265db",
+  "vendor": "Arturia"
+}

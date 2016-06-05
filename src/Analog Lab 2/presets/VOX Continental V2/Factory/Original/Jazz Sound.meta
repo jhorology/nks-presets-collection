@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Jazz Sound",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f3735cca-f95b-40f8-8d79-23e92fc43e82",
+  "vendor": "Arturia"
+}

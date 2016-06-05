@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Swell Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "a4505948-2bb9-4395-be56-d0926f3aadde",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Typical synth lead with slapping attack",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard"],
+  "name": "Slap Attack Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fc208eec-6485-4ccf-a191-ba7140691f0d",
+  "vendor": "Arturia"
+}

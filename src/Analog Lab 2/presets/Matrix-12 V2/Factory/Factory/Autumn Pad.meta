@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Soundtrack"],
+  "name": "Autumn Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "142bd0e0-8659-40c9-aeff-441d52478298",
+  "vendor": "Arturia"
+}

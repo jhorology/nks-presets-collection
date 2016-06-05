@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Pluck swell",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d632146e-288b-4cd5-8b9c-056fc5f35d1d",
+  "vendor": "Arturia"
+}

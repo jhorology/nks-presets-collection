@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Digital Sub Bs",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6be148e6-0754-4865-8602-8537498b8844",
+  "vendor": "Arturia"
+}

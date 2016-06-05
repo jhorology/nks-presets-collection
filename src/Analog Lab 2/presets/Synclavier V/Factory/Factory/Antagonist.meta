@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Slightly weird evolving FX sound - it settles down eventually",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Complex", "Digital", "Soundtrack"],
+  "name": "Antagonist",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d7ef63d3-c237-4739-9177-56be7ef2fb5b",
+  "vendor": "Arturia"
+}

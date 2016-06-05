@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Lead Detune",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "12116a8b-c3f8-47a2-a644-078764281760",
+  "vendor": "Arturia"
+}

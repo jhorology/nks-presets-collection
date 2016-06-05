@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Reed",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c55d7876-495d-4d1d-be4c-8fb383fb8966",
+  "vendor": "Arturia"
+}

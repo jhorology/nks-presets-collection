@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soft"],
+  "name": "Morning Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bf9189d0-5012-4a93-afbc-d3b6735a3bd0",
+  "vendor": "Arturia"
+}

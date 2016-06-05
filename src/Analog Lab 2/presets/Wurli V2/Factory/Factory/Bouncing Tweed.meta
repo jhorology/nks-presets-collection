@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "Bouncing Tweed",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0195eb9a-17c3-45ae-9b31-e9fe6cc8db83",
+  "vendor": "Arturia"
+}

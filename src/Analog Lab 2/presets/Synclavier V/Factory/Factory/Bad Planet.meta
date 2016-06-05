@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Mod wheel to make it more chaotic",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Noise", "Soundtrack"],
+  "name": "Bad Planet",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8e537a77-76c6-4e8e-a30c-040b15bcba4b",
+  "vendor": "Arturia"
+}

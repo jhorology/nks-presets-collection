@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Motor",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3bcb94e9-813c-4064-a20a-6f7123f45314",
+  "vendor": "Arturia"
+}

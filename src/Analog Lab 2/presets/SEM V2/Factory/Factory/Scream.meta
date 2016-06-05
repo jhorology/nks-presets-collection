@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Hard"],
+  "name": "Scream",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e08d82c2-3c4e-4cb7-9a6a-97b38d9533ca",
+  "vendor": "Arturia"
+}

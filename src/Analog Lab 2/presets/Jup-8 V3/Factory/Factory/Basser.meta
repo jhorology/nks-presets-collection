@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Soft"],
+  "name": "Basser",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "983c798e-a904-4430-9690-f4196d8a23ac",
+  "vendor": "Arturia"
+}

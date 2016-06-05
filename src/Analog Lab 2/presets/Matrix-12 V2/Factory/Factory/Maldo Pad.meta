@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soundtrack"],
+  "name": "Maldo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d01a4f29-96ee-4da3-a8a6-c9fbce98f157",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Simple"],
+  "name": "Space Hall Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7cf30dbb-b3c2-4641-9737-b7e46f439ba9",
+  "vendor": "Arturia"
+}

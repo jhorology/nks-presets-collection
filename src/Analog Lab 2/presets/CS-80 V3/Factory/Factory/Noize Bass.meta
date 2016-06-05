@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Noize Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "60d7566b-e8f1-4b4f-a447-2b59435b1b3a",
+  "vendor": "Arturia"
+}

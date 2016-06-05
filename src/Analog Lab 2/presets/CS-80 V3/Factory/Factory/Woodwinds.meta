@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Square waves and clarinet-like. Add after-touch or mod wheel to brighten.",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Woodwinds",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "c3afad2d-43a4-4bb8-a906-f3bca08d49d7",
+  "vendor": "Arturia"
+}

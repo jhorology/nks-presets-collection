@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Rmi Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9503d099-fce7-4028-8f6e-308977f4f6ee",
+  "vendor": "Arturia"
+}

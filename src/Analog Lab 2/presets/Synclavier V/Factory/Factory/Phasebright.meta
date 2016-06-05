@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "bright all around synth with a phaser effect",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Phasebright",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1f4bf118-92c5-40c4-bcdb-283420ee437d",
+  "vendor": "Arturia"
+}

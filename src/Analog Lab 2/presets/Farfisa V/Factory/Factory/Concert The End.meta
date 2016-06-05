@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Noise"],
+  "name": "Concert The End",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b78e6a05-e041-4f04-aa86-fe47aa9293a3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Utilizes the Motion Recorder effect to create a duophonic pattern playing separate lines. The underlying bass sound is classic sawtooth detune style.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "Bravery120",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "60494063-f23a-48e0-87d2-578db66c1730",
+  "vendor": "Arturia"
+}

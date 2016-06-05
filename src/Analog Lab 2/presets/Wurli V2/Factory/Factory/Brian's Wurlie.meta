@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "Brian's Wurlie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0df4b152-7c83-4622-a3e8-571ce3a640db",
+  "vendor": "Arturia"
+}

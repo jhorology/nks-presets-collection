@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Autochord",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d50c6df4-7e0a-44cc-a6ca-38dfe8418cf3",
+  "vendor": "Arturia"
+}

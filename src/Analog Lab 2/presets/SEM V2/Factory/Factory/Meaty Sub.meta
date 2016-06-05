@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Meaty Sub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a665c8b9-2113-4602-ae78-4ac0744c0f98",
+  "vendor": "Arturia"
+}

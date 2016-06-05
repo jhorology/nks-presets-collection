@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Nice Saws",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0fd92f14-f1af-4637-b0e5-06bbf2a24908",
+  "vendor": "Arturia"
+}

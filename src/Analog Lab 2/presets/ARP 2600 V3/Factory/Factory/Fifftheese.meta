@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Fifftheese",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "16404633-a12a-4b93-a355-bd645d37117b",
+  "vendor": "Arturia"
+}

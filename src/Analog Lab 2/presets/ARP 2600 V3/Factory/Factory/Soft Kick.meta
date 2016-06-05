@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Short"],
+  "name": "Soft Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "edfae976-c812-4597-9c97-a6d3960662fc",
+  "vendor": "Arturia"
+}

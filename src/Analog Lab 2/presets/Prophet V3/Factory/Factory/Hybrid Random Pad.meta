@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Hybrid Random Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "98183f10-c05c-408a-9244-fb9aeb537f79",
+  "vendor": "Arturia"
+}

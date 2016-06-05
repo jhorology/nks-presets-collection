@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Microtonal",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f142629f-44c4-4c9e-b146-b2e4dbb5e6fa",
+  "vendor": "Arturia"
+}

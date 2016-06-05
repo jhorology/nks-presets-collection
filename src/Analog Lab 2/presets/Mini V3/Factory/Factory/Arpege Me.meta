@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Ensemble", "Funky", "Long"],
+  "name": "Arpege Me",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f333a435-7804-499d-967c-f7a7275861f2",
+  "vendor": "Arturia"
+}

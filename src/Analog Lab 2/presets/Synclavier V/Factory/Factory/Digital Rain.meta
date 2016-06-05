@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack", "Quiet"],
+  "name": "Digital Rain",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "407585fa-1f23-497a-a8a0-bf8ce69e4e35",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Ring Mod speed",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "7e9144dc-a2b9-4306-9ae2-e8461a26c3da",
+  "vendor": "Arturia"
+}

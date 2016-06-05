@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Mystic Beam",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c252b25f-31f4-4ee8-a48d-d43bc563a861",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "Intense overdrive on this 'clicky' tone.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Saturated",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cb909a20-7e7f-4f66-93f5-b32726ec6583",
+  "vendor": "Arturia"
+}

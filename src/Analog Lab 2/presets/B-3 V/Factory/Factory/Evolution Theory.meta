@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Multi-point envelope to modulate both upper and lower manuals plus effects",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Evolution Theory",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ceb9b382-b5cf-422a-ae2b-37f723b9ac27",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre", "Complex", "Digital"],
+  "name": "Techno",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2b604fd3-fec3-4520-b76b-35eb6819c97b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Digital repeat sequence with delay effect. Modwheel controlled Vibrato deph & Aftertouch controlled frame speed.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Short"],
+  "name": "Digital Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e8a288e6-f5cd-45a6-b714-ebb7a2b6415a",
+  "vendor": "Arturia"
+}

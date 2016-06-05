@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long"],
+  "name": "Wind Jumper",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9d636b9d-54f2-4b96-a7c8-3a1ab15cd5a4",
+  "vendor": "Arturia"
+}

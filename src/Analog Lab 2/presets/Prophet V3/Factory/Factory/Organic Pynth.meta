@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Organic Pynth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3e5feda3-19f5-49e0-a24f-d8d1039bf437",
+  "vendor": "Arturia"
+}

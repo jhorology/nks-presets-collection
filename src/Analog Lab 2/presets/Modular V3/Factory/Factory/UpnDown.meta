@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple"],
+  "name": "UpnDown",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3a2f7ccc-9d44-4549-8387-1cd3ce4885bf",
+  "vendor": "Arturia"
+}

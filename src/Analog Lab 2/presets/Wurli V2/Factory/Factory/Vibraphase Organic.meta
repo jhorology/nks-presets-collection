@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Vibraphase Organic",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "48744a49-8d2a-48cd-bd13-ae7e1a934c0d",
+  "vendor": "Arturia"
+}

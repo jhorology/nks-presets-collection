@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soundtrack"],
+  "name": "Resonators",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ec475b76-7b7b-42e1-b750-3f8d3ee0cd3c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Templates"],
+  "comment": "The Jennings model. Raw, close and quite naked. No effects, reverb, overdrive, nothing!",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise", "Simple"],
+  "name": "Our Jenny",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5a08693a-5784-472d-86a9-2a447a518c28",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble"],
+  "name": "Stack Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "6867a0c5-0c70-4b30-bb6a-0fd0a90014ab",
+  "vendor": "Arturia"
+}

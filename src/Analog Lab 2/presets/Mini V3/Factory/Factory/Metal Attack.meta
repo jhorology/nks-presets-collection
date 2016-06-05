@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Hard"],
+  "name": "Metal Attack",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e31e8bf7-24e9-4ec3-90c9-a347e410042b",
+  "vendor": "Arturia"
+}

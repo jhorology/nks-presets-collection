@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Quiet"],
+  "name": "Grand Canyon",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ada81297-d1b9-4f38-8fa9-86af3708bedb",
+  "vendor": "Arturia"
+}

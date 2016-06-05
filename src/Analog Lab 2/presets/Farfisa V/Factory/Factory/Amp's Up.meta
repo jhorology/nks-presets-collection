@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Amp's Up",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9380965e-c57c-4d04-b36b-10cf1f7102e6",
+  "vendor": "Arturia"
+}

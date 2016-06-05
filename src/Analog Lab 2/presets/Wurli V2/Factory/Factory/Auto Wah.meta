@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Auto Wah",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "99862549-8d3a-40a8-bcec-fc1206e322b1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Rotaly",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1f05076c-1ed2-45f7-98ca-83896bdd7988",
+  "vendor": "Arturia"
+}

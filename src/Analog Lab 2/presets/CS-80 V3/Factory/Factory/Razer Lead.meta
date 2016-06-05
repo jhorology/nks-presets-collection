@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Razer Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "57b48078-7d59-4fc9-8db1-07ce9480f016",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Major Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "605ab9d0-9352-456c-bba0-f5565f6c5b69",
+  "vendor": "Arturia"
+}

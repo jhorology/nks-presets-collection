@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Tomitas Bedtime",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "188851f9-3c34-47a3-b01d-ff21f84d5ab5",
+  "vendor": "Arturia"
+}

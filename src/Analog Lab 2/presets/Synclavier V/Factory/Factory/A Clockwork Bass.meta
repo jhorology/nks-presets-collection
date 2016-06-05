@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' Moog modular bass in A Clockwork Orange title music.  MOD WHEEL- brighter sound via FM Amount AFTERTOUCH- vibrato",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Digital", "Funky", "Soundtrack"],
+  "name": "A Clockwork Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eb23fc51-767d-4158-bf29-95cab6329bcc",
+  "vendor": "Arturia"
+}

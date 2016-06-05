@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Flanger Trip",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ecad9ae3-fa3b-4440-bca3-2b595c743d06",
+  "vendor": "Arturia"
+}

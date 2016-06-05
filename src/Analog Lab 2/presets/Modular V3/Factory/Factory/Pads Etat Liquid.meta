@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Pads Etat Liquid",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "2540407a-50a4-44b9-8a86-fa76dbd26a90",
+  "vendor": "Arturia"
+}

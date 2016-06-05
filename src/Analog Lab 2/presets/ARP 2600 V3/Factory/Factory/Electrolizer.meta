@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Electrolizer",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "dc5bffc4-5909-4c30-a0d5-ccbaa37f5d9a",
+  "vendor": "Arturia"
+}

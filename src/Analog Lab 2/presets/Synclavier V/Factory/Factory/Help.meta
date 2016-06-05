@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital", "Long", "Soundtrack", "Evolving"],
+  "name": "Help",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6d942c1d-de19-4a36-85b2-3746e293cab5",
+  "vendor": "Arturia"
+}

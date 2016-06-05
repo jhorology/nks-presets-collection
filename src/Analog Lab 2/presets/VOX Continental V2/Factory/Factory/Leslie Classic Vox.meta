@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Leslie Classic Vox",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5d409647-aedf-4810-a76f-bc7b9274387d",
+  "vendor": "Arturia"
+}

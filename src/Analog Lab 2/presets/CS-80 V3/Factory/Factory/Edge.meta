@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Edge",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "79116c79-cd24-4072-8996-5559bdf4df75",
+  "vendor": "Arturia"
+}

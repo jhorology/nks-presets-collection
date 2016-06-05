@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Groover",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "63b49c02-f3d9-4823-935e-0e9ef77685eb",
+  "vendor": "Arturia"
+}

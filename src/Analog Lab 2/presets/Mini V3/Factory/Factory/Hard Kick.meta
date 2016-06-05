@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short"],
+  "name": "Hard Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "073a2e5c-2c29-4f2b-b2dc-72775d834d2d",
+  "vendor": "Arturia"
+}

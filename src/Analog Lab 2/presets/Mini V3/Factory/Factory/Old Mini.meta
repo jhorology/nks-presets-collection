@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Old Mini",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9296f239-6ab0-4acb-81e7-841f6cb69001",
+  "vendor": "Arturia"
+}

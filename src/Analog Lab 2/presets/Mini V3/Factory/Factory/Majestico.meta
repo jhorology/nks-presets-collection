@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Slow attack with gently opening filter. Polyphonic. Rich, almost to the point of church organ.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Majestico",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "accedd71-746b-4394-949f-ff25f6723348",
+  "vendor": "Arturia"
+}

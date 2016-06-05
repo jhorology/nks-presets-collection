@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Beez",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a83b04ec-a5b2-4bdf-ab3e-444b287dd431",
+  "vendor": "Arturia"
+}

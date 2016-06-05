@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple", "Soft"],
+  "name": "Old Flute",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ac2c05bb-1487-4865-811d-67aad60c6c46",
+  "vendor": "Arturia"
+}

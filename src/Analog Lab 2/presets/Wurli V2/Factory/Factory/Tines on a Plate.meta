@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Soundtrack"],
+  "name": "Tines on a Plate",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b42e5924-6178-418f-a3f1-f7f770a73ed5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Great morphing around a corrosive sound bass.Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Evolving"],
+  "name": "Bass Morph Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "44bc249c-4511-454e-952a-5f243c4725a3",
+  "vendor": "Arturia"
+}

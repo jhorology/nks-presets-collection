@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "arpeggiated dual-layer percussive notes in non-standard tuning (Octave Ratio1.9). MOD WHEEL-increase Decay which produces an sustained stereo drone field of the original sounds. AFTERTOUCH-hardermore FM leading to more intenseharsher tone in one of t",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Funky", "Hard", "Short"],
+  "name": "AltTuneArp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b3ba6c82-14b3-4a83-bc3f-a92890f35fc6",
+  "vendor": "Arturia"
+}

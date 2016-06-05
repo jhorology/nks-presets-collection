@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex", "Dark", "Funky", "Hard"],
+  "name": "Prefer the Bottom",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7e0f507c-84d5-493d-b0a4-ad63d898e232",
+  "vendor": "Arturia"
+}

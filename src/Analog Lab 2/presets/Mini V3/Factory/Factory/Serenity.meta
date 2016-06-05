@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Serenity",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "38ebc04e-d565-44e7-9e51-14d0a9dbfef9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Eernst",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e18ff270-4e92-4b73-9985-4fcc843fdb42",
+  "vendor": "Arturia"
+}

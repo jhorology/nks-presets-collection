@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Gliding ambient lead with a short delay to create space.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft", "Soundtrack"],
+  "name": "Big Unison",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bd8924ab-e87c-44a5-bccd-a54cdde590f8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Dark", "Long"],
+  "name": "Cathedral Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2508c8e8-be69-4efc-b75f-f7abe4da64d8",
+  "vendor": "Arturia"
+}

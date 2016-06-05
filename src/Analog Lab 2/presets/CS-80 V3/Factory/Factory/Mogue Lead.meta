@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Mogue Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a4e3df84-a09c-4c7e-9d11-b0312ff754fb",
+  "vendor": "Arturia"
+}

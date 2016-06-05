@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very populaer FM piano sound type 4",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky", "Evolving"],
+  "name": "FM Electric Piano IV",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "684509b3-9fde-4619-a07a-42795cf5e716",
+  "vendor": "Arturia"
+}

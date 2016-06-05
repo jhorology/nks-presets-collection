@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Slow Build",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b40dee20-5092-4675-b341-e0bdfabc8b6b",
+  "vendor": "Arturia"
+}

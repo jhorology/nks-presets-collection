@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Bass Synth",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c7fdf496-fee1-4a92-a971-a01df5162aba",
+  "vendor": "Arturia"
+}

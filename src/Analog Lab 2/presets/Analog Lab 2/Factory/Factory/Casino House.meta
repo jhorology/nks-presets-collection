@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Casino House",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7a6a0407-fa9f-4d72-848c-6b8c265419da",
+  "vendor": "Arturia"
+}

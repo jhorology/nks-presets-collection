@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble"],
+  "name": "Allen Scythe",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f80b5656-0b97-4395-ac74-19504cd508df",
+  "vendor": "Arturia"
+}

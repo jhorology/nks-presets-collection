@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard"],
+  "name": "Mini FM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4e3a741f-596e-4d6a-8608-1594f425c802",
+  "vendor": "Arturia"
+}

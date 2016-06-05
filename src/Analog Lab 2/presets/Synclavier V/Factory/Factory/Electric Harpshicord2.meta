@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bright grand electric harpshicord type 2",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple"],
+  "name": "Electric Harpshicord2",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b736c119-3298-4816-aef9-2d96e5159d31",
+  "vendor": "Arturia"
+}

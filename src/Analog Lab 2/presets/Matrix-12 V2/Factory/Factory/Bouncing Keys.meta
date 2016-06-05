@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Bouncing Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7163a807-3ce8-4421-9ddf-ac7dab1508f0",
+  "vendor": "Arturia"
+}

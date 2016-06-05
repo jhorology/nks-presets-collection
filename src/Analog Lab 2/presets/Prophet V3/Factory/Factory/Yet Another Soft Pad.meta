@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Yet Another Soft Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e91c1f24-86c2-477c-8fc1-0fae902bf937",
+  "vendor": "Arturia"
+}

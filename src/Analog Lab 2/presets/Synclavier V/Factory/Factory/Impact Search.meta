@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Punchy Synth sound in a Depeche Mode style with flanger and reverb. Modwheel controlled Vibrato depth & Aftertouch controlled Vibrato rate",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "Impact Search",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f9ccac78-eacb-4c81-987e-6bdbafffc7bf",
+  "vendor": "Arturia"
+}

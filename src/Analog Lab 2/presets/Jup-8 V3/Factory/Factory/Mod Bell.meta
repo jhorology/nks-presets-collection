@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Mod Bell",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d6c41e58-4e08-498b-a83f-284d075ff511",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Bass Cell",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1e52aacf-603b-4a49-ae09-3ce5fa2fbb11",
+  "vendor": "Arturia"
+}

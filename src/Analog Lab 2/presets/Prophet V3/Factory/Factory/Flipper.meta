@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Flipper",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9249bf96-cf6d-4250-a2bd-c465a204231e",
+  "vendor": "Arturia"
+}

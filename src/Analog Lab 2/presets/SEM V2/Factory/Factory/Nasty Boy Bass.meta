@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre"],
+  "name": "Nasty Boy Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e601a8b0-3b59-45b3-bef5-086f9d9cecd4",
+  "vendor": "Arturia"
+}

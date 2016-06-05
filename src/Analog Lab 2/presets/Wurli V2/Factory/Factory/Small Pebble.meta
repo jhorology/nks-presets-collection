@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Small Pebble",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7c0703fe-eac9-4121-8748-6a488cf0151f",
+  "vendor": "Arturia"
+}

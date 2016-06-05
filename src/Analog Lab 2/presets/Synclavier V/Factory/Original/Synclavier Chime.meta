@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Synclavier Chime",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "36b49f8b-987d-41a4-8c3d-9a15e4e8a754",
+  "vendor": "Arturia"
+}

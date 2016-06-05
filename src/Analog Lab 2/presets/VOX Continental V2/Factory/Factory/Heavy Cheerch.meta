@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Heavy Cheerch",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9bc4f5cc-8a9f-406c-bf7f-770b54b71c9a",
+  "vendor": "Arturia"
+}

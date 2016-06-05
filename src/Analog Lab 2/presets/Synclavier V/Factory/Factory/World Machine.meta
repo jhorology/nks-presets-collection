@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "ModWheel controlled Freq Cutoff & metallic overtones & Release - Expression Pedal controlled metallic overtones",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital"],
+  "name": "World Machine",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9a3085a2-7c15-4086-80aa-319d792e1fbe",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Kaleidoscope",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "338fddc3-d6e8-4b45-b605-ddd86c634fd7",
+  "vendor": "Arturia"
+}

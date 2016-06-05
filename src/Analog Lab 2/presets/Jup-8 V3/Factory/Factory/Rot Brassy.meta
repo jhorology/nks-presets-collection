@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Simple"],
+  "name": "Rot Brassy",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "8cb07f7c-f1de-4f70-a027-a2e1c9f446de",
+  "vendor": "Arturia"
+}

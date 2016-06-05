@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Short"],
+  "name": "Modarfisa",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d04e5c3f-a450-49c1-9a11-e269e7664dd3",
+  "vendor": "Arturia"
+}

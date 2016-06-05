@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soft", "Soundtrack"],
+  "name": "Underwater Adventures",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "24d520d5-b8f7-4922-8adc-77a6909aac51",
+  "vendor": "Arturia"
+}

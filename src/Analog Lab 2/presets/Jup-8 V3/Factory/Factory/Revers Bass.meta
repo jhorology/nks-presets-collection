@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Long"],
+  "name": "Revers Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "17b6ad9c-d8a1-419b-b03a-d0d91d7198d3",
+  "vendor": "Arturia"
+}

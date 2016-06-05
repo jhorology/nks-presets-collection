@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Hard"],
+  "name": "Feedlead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "22533048-3614-4745-9460-78a141fd0d48",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Claviphet",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "54df0131-7c9c-4f4f-9027-c25d7ec4b77c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Dry Biter",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bc1733cf-f018-4260-b4a6-a4441b77332a",
+  "vendor": "Arturia"
+}

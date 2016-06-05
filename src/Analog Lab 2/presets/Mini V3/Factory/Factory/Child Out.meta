@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Child Out",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "07a74930-1fd5-484b-9f06-6fc83b0d14e3",
+  "vendor": "Arturia"
+}

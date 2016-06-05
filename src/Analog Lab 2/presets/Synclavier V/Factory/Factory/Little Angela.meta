@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Little Angela is the name of the girl that turns out to be a ghost in the synclavier horror story. You should be gentle - because when you hit her hard she will reveal her true evil self. She gets even more angry when you touch her mod-wheel.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Bright", "Digital", "Soundtrack"],
+  "name": "Little Angela",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c6f38108-c386-408a-b844-74695b88bec0",
+  "vendor": "Arturia"
+}

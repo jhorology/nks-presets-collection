@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soundtrack", "Quiet"],
+  "name": "In The Sphere",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6d345d47-ce66-4496-a8aa-2d466375a714",
+  "vendor": "Arturia"
+}

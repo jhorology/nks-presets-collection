@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Long"],
+  "name": "Celm Pad Low",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "28cc7ea2-4923-4e0c-a0da-7f72cc287a4f",
+  "vendor": "Arturia"
+}

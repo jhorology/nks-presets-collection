@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Classic 90s digital keyboard sound. Blends well with an arpeggiator.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Jordan",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "97014e63-ed2c-44d0-92c2-919301220206",
+  "vendor": "Arturia"
+}

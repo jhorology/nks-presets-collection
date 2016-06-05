@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Bright", "Funky", "Hard"],
+  "name": "Fast N Funky",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1cd4c4d1-85dc-4060-b322-1eb5ea23a85e",
+  "vendor": "Arturia"
+}

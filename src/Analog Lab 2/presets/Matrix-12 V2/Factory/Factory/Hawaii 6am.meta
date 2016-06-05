@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soft", "Soundtrack"],
+  "name": "Hawaii 6am",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "47e042c4-0ff2-4c2e-867b-978c04712e1d",
+  "vendor": "Arturia"
+}

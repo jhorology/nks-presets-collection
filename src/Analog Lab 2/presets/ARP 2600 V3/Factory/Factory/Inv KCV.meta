@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Inv KCV",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "efea0d92-8e5d-4f35-aece-fc1e64f17107",
+  "vendor": "Arturia"
+}

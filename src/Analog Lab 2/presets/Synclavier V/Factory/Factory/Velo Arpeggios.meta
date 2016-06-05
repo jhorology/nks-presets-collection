@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Velo Arpeggios",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bebb60da-6e8c-4ee1-8a1a-cac351053a7c",
+  "vendor": "Arturia"
+}

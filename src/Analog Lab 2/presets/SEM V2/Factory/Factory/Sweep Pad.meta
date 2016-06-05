@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Sweep Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c48f08ea-7d75-4c7c-8971-ef759cd60681",
+  "vendor": "Arturia"
+}

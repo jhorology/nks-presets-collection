@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "P Jazz",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "6ea812bd-b1b2-4d13-9df4-2dd4e0dca5ec",
+  "vendor": "Arturia"
+}

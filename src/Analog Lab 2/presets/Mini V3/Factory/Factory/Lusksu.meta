@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "Lusksu",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e0300cfc-2286-4eb5-b53d-6acc52e111d6",
+  "vendor": "Arturia"
+}

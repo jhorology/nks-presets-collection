@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Like 12 string guitar ensembre",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple"],
+  "name": "Stereo Clean Pluck 2",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "7fd6e6fd-8f0e-41d9-baa7-9791cf860d52",
+  "vendor": "Arturia"
+}

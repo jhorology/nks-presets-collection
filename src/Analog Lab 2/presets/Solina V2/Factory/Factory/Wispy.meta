@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Long"],
+  "name": "Wispy",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5cb324d7-096e-43a9-9e9b-b140cf03fe15",
+  "vendor": "Arturia"
+}

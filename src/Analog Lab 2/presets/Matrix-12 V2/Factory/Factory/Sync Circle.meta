@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Pulsing oscillator sync. LFO modulation of the slave oscillator in the synced pair creates a deep phasing effect.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Long", "Soundtrack"],
+  "name": "Sync Circle",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "00f10d7a-5e8b-44cf-a55c-34c31ef703a1",
+  "vendor": "Arturia"
+}

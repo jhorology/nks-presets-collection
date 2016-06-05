@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Syncro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5006ffc3-bb31-424d-b46e-08c0ac316e85",
+  "vendor": "Arturia"
+}

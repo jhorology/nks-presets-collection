@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "ModWheel controlled Freq Cutoff",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Soundtrack"],
+  "name": "Dizzytal Thoughts",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7a7963a3-8a66-4c76-9d0a-d7a847da0298",
+  "vendor": "Arturia"
+}

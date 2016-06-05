@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Pressed 4 Wobblez",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f25514e0-81ad-4084-9906-f2c1610df531",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Hold one note and trip",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soft", "Soundtrack"],
+  "name": "Trip To Phrygia",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1904e4a9-8799-4e62-a074-4e168f237e9e",
+  "vendor": "Arturia"
+}

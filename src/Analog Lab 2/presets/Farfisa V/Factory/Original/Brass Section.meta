@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft", "Short"],
+  "name": "Brass Section",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "4e36e602-a338-430c-b803-631106189b99",
+  "vendor": "Arturia"
+}

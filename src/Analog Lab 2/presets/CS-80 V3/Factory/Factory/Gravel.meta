@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Gravel",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "51efeeaa-ce10-4e6b-ac24-c8e52ecea1fe",
+  "vendor": "Arturia"
+}

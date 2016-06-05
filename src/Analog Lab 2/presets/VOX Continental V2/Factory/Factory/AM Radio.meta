@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Quiet"],
+  "name": "AM Radio",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "10611c40-5da2-4cb9-906b-b27ba152ad6c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Attackad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ab50c0e5-752f-40a5-a5da-390222a4f4a4",
+  "vendor": "Arturia"
+}

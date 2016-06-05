@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Octave and fourths in this shimmery sequence. Mod wheel adds burble.",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Star Shine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5d01f66c-dd4f-41a4-83fd-b9941406888c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Basic & simple flute",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Breathy Basic",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "1d55a1af-41fa-4d9f-a855-b09d3c66897c",
+  "vendor": "Arturia"
+}

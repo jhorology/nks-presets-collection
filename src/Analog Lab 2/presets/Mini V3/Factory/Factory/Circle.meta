@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long", "Soft", "Soundtrack"],
+  "name": "Circle",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "50e287f7-c639-42d6-a9d8-25ff892d91c9",
+  "vendor": "Arturia"
+}

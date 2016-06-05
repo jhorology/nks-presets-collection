@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bring It Home",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "faa66722-302d-4743-aca2-a64fdd2d38d1",
+  "vendor": "Arturia"
+}

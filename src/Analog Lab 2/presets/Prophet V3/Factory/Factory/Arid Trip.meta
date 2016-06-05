@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Hold a mid high note and play with the mod wheel",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Arid Trip",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "99f2921f-bfdd-4acd-ad05-7dec96c1a060",
+  "vendor": "Arturia"
+}

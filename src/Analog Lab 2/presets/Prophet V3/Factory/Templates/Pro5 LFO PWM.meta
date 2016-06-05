@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Pro5 LFO PWM",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d770034b-b5bc-4b26-98b1-98fb58b6f608",
+  "vendor": "Arturia"
+}

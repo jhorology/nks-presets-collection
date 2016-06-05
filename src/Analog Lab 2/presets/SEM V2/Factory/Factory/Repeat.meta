@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Repeat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "907cd0dc-6e28-4351-98d2-bab4a90ec94f",
+  "vendor": "Arturia"
+}

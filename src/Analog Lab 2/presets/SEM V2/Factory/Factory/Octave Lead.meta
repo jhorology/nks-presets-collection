@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Octave Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "89978ee3-d332-44f9-8827-20c366c041de",
+  "vendor": "Arturia"
+}

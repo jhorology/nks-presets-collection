@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft", "Soundtrack", "Quiet", "Short"],
+  "name": "Music Box",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "792886d0-c9f2-409e-8203-6bf484ef4ac7",
+  "vendor": "Arturia"
+}

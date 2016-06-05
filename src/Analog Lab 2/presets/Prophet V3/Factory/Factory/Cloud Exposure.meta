@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Cloud Exposure",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3dfdf4f1-be87-48de-b36a-7b991ef08ec4",
+  "vendor": "Arturia"
+}

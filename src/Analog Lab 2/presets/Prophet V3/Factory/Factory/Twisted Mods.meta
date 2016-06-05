@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble", "Long"],
+  "name": "Twisted Mods",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2b76fb5b-ab6a-42f7-8f40-184165160469",
+  "vendor": "Arturia"
+}

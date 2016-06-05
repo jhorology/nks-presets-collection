@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bell-pad. Combining the digital Bell sound with a more shizzling pad at the end.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple"],
+  "name": "Back Me Up",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b1a08244-27d8-4c13-bc4d-d5302f46a8cf",
+  "vendor": "Arturia"
+}

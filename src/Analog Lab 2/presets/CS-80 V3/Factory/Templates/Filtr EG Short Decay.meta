@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Filtr EG Short Decay",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6813f901-46b2-4419-abbd-bfaf03f7403a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Gently filtered pad under a simple arpeggiated soft but clicky sound. Mod wheel adds vibrato depth.After touch add FM amount on lower partials.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soundtrack"],
+  "name": "80s Sequences",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1f2cece6-f9d3-4fe6-b452-0d54247cf9c6",
+  "vendor": "Arturia"
+}

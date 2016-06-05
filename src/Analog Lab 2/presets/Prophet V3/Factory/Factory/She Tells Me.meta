@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "She Tells Me",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cd2aa1b2-48ac-4a86-acdf-d3c69b713723",
+  "vendor": "Arturia"
+}

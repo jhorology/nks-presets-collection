@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Reverbo",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "39e35c4e-f9d3-4a05-9176-f668ab8f2bca",
+  "vendor": "Arturia"
+}

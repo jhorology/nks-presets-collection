@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble"],
+  "name": "Royal Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e965dfe8-9569-4261-996e-b2febe292651",
+  "vendor": "Arturia"
+}

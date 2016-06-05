@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Pulsative Lounge",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4f6ceec6-db7f-4df6-9252-6f6c21469d92",
+  "vendor": "Arturia"
+}

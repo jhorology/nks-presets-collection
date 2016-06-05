@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Delay Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "213bda3e-81da-4652-a212-047e7d536042",
+  "vendor": "Arturia"
+}

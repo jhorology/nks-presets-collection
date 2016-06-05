@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Hard"],
+  "name": "Fafx",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f683fed3-72b5-451b-bc91-331b7bf417ca",
+  "vendor": "Arturia"
+}

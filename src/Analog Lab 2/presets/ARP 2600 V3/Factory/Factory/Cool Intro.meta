@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Cool Intro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6aa2465a-8237-4b3d-a5c6-e2647e294fe4",
+  "vendor": "Arturia"
+}

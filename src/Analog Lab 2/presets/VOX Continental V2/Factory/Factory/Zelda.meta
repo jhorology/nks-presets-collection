@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark", "Hard"],
+  "name": "Zelda",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ec5d6fa7-eea9-4174-b02c-5387bb5e540f",
+  "vendor": "Arturia"
+}

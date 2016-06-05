@@ -1,0 +1,13 @@
+{
+  "author": "Ken Flux Pierce",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Soundtrack", "Quiet"],
+  "name": "Times Bastb4",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "09c66923-638b-4f6e-ae85-ab133603789f",
+  "vendor": "Arturia"
+}

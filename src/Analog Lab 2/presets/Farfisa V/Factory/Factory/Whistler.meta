@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Short"],
+  "name": "Whistler",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ebf283a9-4f4b-4199-822a-d0e2c81f105f",
+  "vendor": "Arturia"
+}

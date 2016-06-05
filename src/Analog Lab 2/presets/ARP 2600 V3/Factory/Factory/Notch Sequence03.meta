@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Notch Sequence03",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "988b0dde-2f61-4d95-be52-9ffcd2bf525a",
+  "vendor": "Arturia"
+}

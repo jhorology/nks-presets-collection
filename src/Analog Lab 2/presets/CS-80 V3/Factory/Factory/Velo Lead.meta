@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Velo Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c6b79be3-86fd-4814-999e-c39cecbe0991",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple", "Short"],
+  "name": "Arpeggio allegro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3274165c-09ca-4eff-99ba-5288d51271fb",
+  "vendor": "Arturia"
+}

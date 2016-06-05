@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Quiet"],
+  "name": "Jazz Club",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "738950c5-ba16-45ae-bca0-92c441a0ba60",
+  "vendor": "Arturia"
+}

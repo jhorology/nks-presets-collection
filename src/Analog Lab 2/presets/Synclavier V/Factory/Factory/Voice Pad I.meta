@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "FM human voice pad",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Soft"],
+  "name": "Voice Pad I",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "22bf91e0-30f2-49c2-a5fb-d8779071f827",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Warp Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "10dfff26-f386-4790-8024-fa050c108578",
+  "vendor": "Arturia"
+}

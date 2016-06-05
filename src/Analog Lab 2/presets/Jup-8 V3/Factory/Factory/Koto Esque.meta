@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Koto Esque",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "4e40fa0a-7933-4592-9a99-a64b538e5acc",
+  "vendor": "Arturia"
+}

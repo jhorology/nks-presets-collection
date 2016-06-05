@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Env Retrig",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0d25dcde-a596-449c-97c4-6612f7ed5f30",
+  "vendor": "Arturia"
+}

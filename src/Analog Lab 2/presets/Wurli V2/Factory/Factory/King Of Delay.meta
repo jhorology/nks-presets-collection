@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "King Of Delay",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0346eadd-b256-4454-9fa6-a6fb4f5a9b8b",
+  "vendor": "Arturia"
+}

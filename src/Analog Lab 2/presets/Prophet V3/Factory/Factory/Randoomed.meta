@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Digital"],
+  "name": "Randoomed",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8b789a58-7130-4bb2-ba5c-1a27eea1d77c",
+  "vendor": "Arturia"
+}

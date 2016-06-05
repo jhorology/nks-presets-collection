@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Alarm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8c904a36-0a47-4b6c-83dc-8364a2c33bcb",
+  "vendor": "Arturia"
+}

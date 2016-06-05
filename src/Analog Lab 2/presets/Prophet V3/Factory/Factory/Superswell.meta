@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Superswell",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "60bd14ee-24ab-44b5-85e8-fd29f8530cda",
+  "vendor": "Arturia"
+}

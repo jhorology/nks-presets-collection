@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Pocoder",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2f25200c-5df9-4abb-baf7-c539ea46c776",
+  "vendor": "Arturia"
+}

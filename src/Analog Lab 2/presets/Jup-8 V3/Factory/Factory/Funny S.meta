@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Funny S",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e89ed3f2-80b0-4258-89ec-20a12f39f2a8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Quiet"],
+  "name": "Bass Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "463aeb4f-73d1-4729-a5d4-4ca88c5f09fc",
+  "vendor": "Arturia"
+}

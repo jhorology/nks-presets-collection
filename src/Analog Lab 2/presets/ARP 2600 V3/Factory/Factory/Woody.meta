@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Quiet"],
+  "name": "Woody",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7d2f111f-8268-48aa-87d9-610c66830fdb",
+  "vendor": "Arturia"
+}

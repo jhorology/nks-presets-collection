@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL increases water speed AFTERTOUCH decreases mod amount for a mellower sound",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Simple"],
+  "name": "RandomWater",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "68c074e3-f89a-4a7b-9d3b-85f86cd373f5",
+  "vendor": "Arturia"
+}

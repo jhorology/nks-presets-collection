@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Noisilyd",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "efd4dfc7-6859-44c4-8169-de766ea1b2b3",
+  "vendor": "Arturia"
+}

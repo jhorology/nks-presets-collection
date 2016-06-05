@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft", "Soundtrack"],
+  "name": "Reverse Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f6344b33-500d-45f1-9b55-1c0c3638709c",
+  "vendor": "Arturia"
+}

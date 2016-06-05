@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital"],
+  "name": "4 Mono Synth",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "aa4fc349-a3d6-44c6-9cf7-c8455e526a01",
+  "vendor": "Arturia"
+}

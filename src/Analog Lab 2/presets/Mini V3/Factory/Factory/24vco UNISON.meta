@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "24vco UNISON",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "624f92e7-8ace-47b8-a173-22c4b9d56aeb",
+  "vendor": "Arturia"
+}

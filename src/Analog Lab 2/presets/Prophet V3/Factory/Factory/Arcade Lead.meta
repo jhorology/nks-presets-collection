@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Arcade Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fcce6f74-0f13-4a47-acc4-db04b53fba89",
+  "vendor": "Arturia"
+}

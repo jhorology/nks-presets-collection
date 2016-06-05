@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Light Fantasy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "60e3f219-9bac-4e58-aaa1-be9adedb5a45",
+  "vendor": "Arturia"
+}

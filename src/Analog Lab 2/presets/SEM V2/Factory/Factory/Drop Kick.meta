@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Drop Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3460adf6-28e9-4300-893a-baef55094ea2",
+  "vendor": "Arturia"
+}

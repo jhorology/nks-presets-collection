@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Complex", "Noise"],
+  "name": "Crunch Day",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "45f73217-836d-4140-8883-132a29e0d59f",
+  "vendor": "Arturia"
+}

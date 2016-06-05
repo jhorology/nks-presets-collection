@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Funky", "Hard", "Simple"],
+  "name": "Supermini Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "32da5cdf-856e-45b9-9f98-9ef3cde42b1d",
+  "vendor": "Arturia"
+}

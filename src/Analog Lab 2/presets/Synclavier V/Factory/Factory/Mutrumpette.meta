@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sounds like mute trumpet",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Funky", "Simple", "Soft"],
+  "name": "Mutrumpette",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "826b85f2-7a43-4690-bf29-448409368778",
+  "vendor": "Arturia"
+}

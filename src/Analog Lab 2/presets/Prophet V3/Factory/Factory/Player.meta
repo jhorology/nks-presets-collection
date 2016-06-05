@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Player",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fec44da1-ca24-466f-914f-6a1abdc80d8c",
+  "vendor": "Arturia"
+}

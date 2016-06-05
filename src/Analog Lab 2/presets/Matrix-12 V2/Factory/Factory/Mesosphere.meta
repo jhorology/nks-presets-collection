@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Mesosphere",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cdec9335-ba2b-4c5f-bf5f-7059c53233e8",
+  "vendor": "Arturia"
+}

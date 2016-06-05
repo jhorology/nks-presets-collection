@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Air Leak",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "770008e6-f15b-4836-aa55-0db6c32eade4",
+  "vendor": "Arturia"
+}

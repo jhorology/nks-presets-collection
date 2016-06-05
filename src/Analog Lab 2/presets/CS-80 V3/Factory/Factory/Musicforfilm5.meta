@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Musicforfilm5",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c098434e-f354-4cb8-9778-f69e7e1a436f",
+  "vendor": "Arturia"
+}

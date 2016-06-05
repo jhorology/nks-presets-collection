@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "has a steel drum synth feel and works well with 2 or more notes played at the same time",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Tropical Perc",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a1725bf0-326b-499e-a9e1-1ede1db0d48b",
+  "vendor": "Arturia"
+}

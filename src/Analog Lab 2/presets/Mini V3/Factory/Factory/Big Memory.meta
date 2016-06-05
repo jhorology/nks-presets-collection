@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soundtrack"],
+  "name": "Big Memory",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bfc6965d-3e69-4b3f-82db-67beccebdebe",
+  "vendor": "Arturia"
+}

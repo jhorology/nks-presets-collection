@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Phasey",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4247d7ed-7e4b-47b0-ba1e-bef62d09adf8",
+  "vendor": "Arturia"
+}

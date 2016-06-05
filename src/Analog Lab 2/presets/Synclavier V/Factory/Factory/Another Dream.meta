@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Evolving"],
+  "name": "Another Dream",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8df790fd-3a62-4649-8614-8317c4da49bb",
+  "vendor": "Arturia"
+}

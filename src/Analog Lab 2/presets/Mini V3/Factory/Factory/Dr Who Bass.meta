@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Dr Who Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0d07c9ac-5788-45b5-91ed-faaa12549bdb",
+  "vendor": "Arturia"
+}

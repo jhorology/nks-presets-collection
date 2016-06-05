@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Classic Square",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4a6dbf03-d177-40a7-932e-6b82bc679719",
+  "vendor": "Arturia"
+}

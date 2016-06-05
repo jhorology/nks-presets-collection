@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Piano with sharp transient.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Picky",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1b628110-fcbf-4623-a1c9-60de2ecce699",
+  "vendor": "Arturia"
+}

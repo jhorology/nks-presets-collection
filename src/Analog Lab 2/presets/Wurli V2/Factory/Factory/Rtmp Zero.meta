@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Rtmp Zero",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cb40855b-9a88-454f-a78f-fd42dd61b970",
+  "vendor": "Arturia"
+}

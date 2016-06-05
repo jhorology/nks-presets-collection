@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Warm Organ Pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Long", "Soft"],
+  "name": "Warm Paddy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8ecaae42-e649-4b07-b2fc-8c344f93b087",
+  "vendor": "Arturia"
+}

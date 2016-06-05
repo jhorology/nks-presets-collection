@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Simple", "Short"],
+  "name": "String Ensemble",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "b06cea2d-5137-4215-8d7b-718f4fe7ca07",
+  "vendor": "Arturia"
+}

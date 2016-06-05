@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Piporgan 2",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3535c22b-301a-4eb3-983a-9ce479a2029b",
+  "vendor": "Arturia"
+}

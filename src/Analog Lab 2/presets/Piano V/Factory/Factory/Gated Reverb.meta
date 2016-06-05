@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Intimate piano in a short revreb that seems to be gated.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Gated Reverb",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "853228e8-dfee-4a52-9352-6b4979f7336e",
+  "vendor": "Arturia"
+}

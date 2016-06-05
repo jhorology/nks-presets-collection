@@ -1,0 +1,13 @@
+{
+  "author": "Paul&Peter Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Mod wheel choruses the voices.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Noise", "Soundtrack", "Evolving"],
+  "name": "Hi-Tech Bee",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "88b654d0-c453-4861-b100-9d51169c9d78",
+  "vendor": "Arturia"
+}

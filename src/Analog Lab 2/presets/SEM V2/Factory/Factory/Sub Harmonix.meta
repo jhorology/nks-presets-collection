@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Sub Harmonix",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8f7e69be-b7b7-4201-a18f-3617359c8783",
+  "vendor": "Arturia"
+}

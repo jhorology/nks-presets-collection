@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Long", "Quiet"],
+  "name": "Phase Changer",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f0cf42e1-018a-42ba-a1ed-9cf4d28aca5e",
+  "vendor": "Arturia"
+}

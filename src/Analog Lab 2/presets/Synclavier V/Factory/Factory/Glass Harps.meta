@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sumilated glass harmonica ensembre",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble", "Soft", "Quiet"],
+  "name": "Glass Harps",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ee991c04-bf00-498d-87ee-ea58519f37f8",
+  "vendor": "Arturia"
+}

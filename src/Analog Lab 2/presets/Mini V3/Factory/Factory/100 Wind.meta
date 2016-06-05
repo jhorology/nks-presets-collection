@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark"],
+  "name": "100 Wind",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "46a62136-5629-4538-8db5-bfabaa300ff1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "I cicle Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ac99f862-cf81-46b5-ae25-0280f681cd66",
+  "vendor": "Arturia"
+}

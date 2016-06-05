@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "Champagne",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bbda856a-1bf8-42f8-a6b2-6b88fde5a580",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "NuJazz Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5cf90bdb-d89a-4ed8-b64b-57f9a7ea75b6",
+  "vendor": "Arturia"
+}

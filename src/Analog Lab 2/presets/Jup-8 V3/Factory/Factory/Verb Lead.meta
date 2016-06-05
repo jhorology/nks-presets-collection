@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Verb Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0e0351e0-3a41-480f-b1f9-fb045f470288",
+  "vendor": "Arturia"
+}

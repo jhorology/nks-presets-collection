@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Franky",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "655f0623-54ba-4503-b8df-be9467df85a9",
+  "vendor": "Arturia"
+}

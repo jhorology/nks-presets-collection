@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Dark", "Funky", "Noise", "Simple", "Soundtrack", "Quiet"],
+  "name": "London Beatz",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "320fb7c4-65b1-420b-ae04-7a5733713476",
+  "vendor": "Arturia"
+}

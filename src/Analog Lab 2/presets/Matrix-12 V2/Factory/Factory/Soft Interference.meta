@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long", "Soundtrack"],
+  "name": "Soft Interference",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "409ac086-5e85-4ff9-b81c-552205d1a79a",
+  "vendor": "Arturia"
+}

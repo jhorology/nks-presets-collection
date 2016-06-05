@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Juno Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e9e39a75-8895-4f50-928b-3f8f322c855f",
+  "vendor": "Arturia"
+}

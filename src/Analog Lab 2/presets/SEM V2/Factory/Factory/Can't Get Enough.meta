@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Can't Get Enough",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d5c822b1-6156-4e38-a633-257a71ed7b4f",
+  "vendor": "Arturia"
+}

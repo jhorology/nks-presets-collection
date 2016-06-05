@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Use mod wheel to accelerate",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard", "Soundtrack"],
+  "name": "La Machine I",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3bd22694-23f9-465d-817c-67610842caab",
+  "vendor": "Arturia"
+}

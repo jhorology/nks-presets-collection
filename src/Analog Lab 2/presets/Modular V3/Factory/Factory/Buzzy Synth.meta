@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Buzzy Synth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "03da1ee6-46bb-4ad7-9ab3-a5cd7d5d6f8f",
+  "vendor": "Arturia"
+}

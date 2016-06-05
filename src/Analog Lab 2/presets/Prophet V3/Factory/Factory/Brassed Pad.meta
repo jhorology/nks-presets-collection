@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Brassed Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2b05e520-5df4-485a-a57c-36a066c6610b",
+  "vendor": "Arturia"
+}

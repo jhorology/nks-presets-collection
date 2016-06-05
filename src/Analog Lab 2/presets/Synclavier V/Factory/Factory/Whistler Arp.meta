@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a whistly and glass arpreggiator with a short classic sound in the mix",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Whistler Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "eec22199-59c0-4912-9629-c19e15137b6f",
+  "vendor": "Arturia"
+}

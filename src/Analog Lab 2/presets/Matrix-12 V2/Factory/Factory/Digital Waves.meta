@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Long", "Soundtrack"],
+  "name": "Digital Waves",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "227fb8f1-d39f-46a2-9034-c9238553c83b",
+  "vendor": "Arturia"
+}

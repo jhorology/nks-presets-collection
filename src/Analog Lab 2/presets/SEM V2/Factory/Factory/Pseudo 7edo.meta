@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Pseudo 7edo",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9539ad1f-bc2d-477f-8725-1e884c64702e",
+  "vendor": "Arturia"
+}

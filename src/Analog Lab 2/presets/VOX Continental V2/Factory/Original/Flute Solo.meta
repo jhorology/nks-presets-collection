@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Flute Solo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f9e35083-c718-4188-a773-2ef5b130ea96",
+  "vendor": "Arturia"
+}

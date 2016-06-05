@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving dirty bass with a partials morphing. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Complex", "Dark", "Hard", "Evolving"],
+  "name": "Strange Call",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "be70cc62-fc20-4a2d-9602-2043f732789b",
+  "vendor": "Arturia"
+}

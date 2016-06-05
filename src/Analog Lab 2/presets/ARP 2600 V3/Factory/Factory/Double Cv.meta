@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Double Cv",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ea2f4c99-5359-47a7-84aa-630d30ab344c",
+  "vendor": "Arturia"
+}

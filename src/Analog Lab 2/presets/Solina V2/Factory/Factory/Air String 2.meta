@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Ethereal violins and voices with long release.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Air String 2",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "ce3d3e31-404d-4b83-b7e6-dc75c8f6f0b3",
+  "vendor": "Arturia"
+}

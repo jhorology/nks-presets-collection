@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Drive Combo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "976482f3-b116-4af4-a7fe-18727aba03e6",
+  "vendor": "Arturia"
+}

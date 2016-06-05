@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Tic Toc",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ff279346-ae4b-42e3-a597-5596ece7525e",
+  "vendor": "Arturia"
+}

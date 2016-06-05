@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Flute lead. Very responsive to VELOCITY",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Funky", "Soundtrack"],
+  "name": "Pipe Up",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a14ff67a-a6b3-41ab-8117-1426aa9a3652",
+  "vendor": "Arturia"
+}

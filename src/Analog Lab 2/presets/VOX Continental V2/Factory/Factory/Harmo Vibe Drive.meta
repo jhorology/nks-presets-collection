@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Harmo Vibe Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2c53745b-6cb0-422d-af4b-200621831bae",
+  "vendor": "Arturia"
+}

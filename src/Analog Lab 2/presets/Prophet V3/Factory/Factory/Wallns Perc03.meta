@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Wallns Perc03",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "901e9230-4f56-488b-87a7-f3b6cd407b33",
+  "vendor": "Arturia"
+}

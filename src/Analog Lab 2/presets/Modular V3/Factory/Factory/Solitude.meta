@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Solitude",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "39fbece1-18eb-4c3d-bdda-144e2266de86",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "PWM",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cdaaa63c-13ff-4ff7-bd3f-e70770878961",
+  "vendor": "Arturia"
+}

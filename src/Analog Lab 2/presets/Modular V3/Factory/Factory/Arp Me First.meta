@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Arp Me First",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "18ecaf38-aec3-449e-8f0c-67d3cc0a9646",
+  "vendor": "Arturia"
+}

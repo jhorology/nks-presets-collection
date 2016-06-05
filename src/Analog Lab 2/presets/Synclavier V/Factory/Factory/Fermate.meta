@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A good one for the final chord. Using the time-frames the sound 'lifts up' as it progresses ending with a much more gentle timbre. Use the mod wheel for a more dramatic effect.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Long", "Soft", "Soundtrack"],
+  "name": "Fermate",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "95e7f5ec-efaf-45d9-a3ab-2fafbb805f1d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Saw LF2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e9498551-95f3-4e4b-8bd8-3cbf877d4c31",
+  "vendor": "Arturia"
+}

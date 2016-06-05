@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Noise"],
+  "name": "Nine Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "30f7e7d6-332a-4c55-a144-fdb5745f231a",
+  "vendor": "Arturia"
+}

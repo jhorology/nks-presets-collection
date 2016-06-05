@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient"],
+  "name": "Zafari Land",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "007c01f9-46ca-42a5-9545-bd3806857362",
+  "vendor": "Arturia"
+}

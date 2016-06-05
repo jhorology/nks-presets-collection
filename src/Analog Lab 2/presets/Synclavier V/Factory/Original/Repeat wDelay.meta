@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Repeat wDelay",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ea93eea5-6387-4926-94dd-d952720f0609",
+  "vendor": "Arturia"
+}

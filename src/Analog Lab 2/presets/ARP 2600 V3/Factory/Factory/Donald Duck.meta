@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Donald Duck",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "488d0254-77f4-4825-afbc-49552d84dfb4",
+  "vendor": "Arturia"
+}

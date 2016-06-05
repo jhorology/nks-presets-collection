@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Long", "Soundtrack"],
+  "name": "To the Brim",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3c3673ba-218b-4ab6-bec1-d7d0f5c38717",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Multi-Tone Booster",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "796f7b1b-4b61-4fc5-bc9f-de0217e8de83",
+  "vendor": "Arturia"
+}

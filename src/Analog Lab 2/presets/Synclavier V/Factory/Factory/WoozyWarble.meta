@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Fun with oscillator FM",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital", "Long", "Noise", "Evolving"],
+  "name": "WoozyWarble",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "78353b6e-c452-4652-8eb3-dc891360e40e",
+  "vendor": "Arturia"
+}

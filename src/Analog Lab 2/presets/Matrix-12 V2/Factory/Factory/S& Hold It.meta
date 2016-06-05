@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Long", "Soundtrack"],
+  "name": "S& Hold It",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "03573be1-4cd1-49cf-8d68-d96a2a283d09",
+  "vendor": "Arturia"
+}

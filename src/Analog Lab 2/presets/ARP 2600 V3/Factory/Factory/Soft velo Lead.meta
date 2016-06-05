@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Soft velo Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "54a815be-3386-4b54-90b8-6030dfd2e5f5",
+  "vendor": "Arturia"
+}

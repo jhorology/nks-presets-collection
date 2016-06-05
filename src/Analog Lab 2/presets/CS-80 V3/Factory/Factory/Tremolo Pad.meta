@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "Tremolo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bf20aa18-978d-4240-aae2-2ba530801539",
+  "vendor": "Arturia"
+}

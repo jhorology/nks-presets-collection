@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pro5 18-PercussiveOrgan",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "80696c35-d078-4b80-ac51-353649729b79",
+  "vendor": "Arturia"
+}

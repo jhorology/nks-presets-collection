@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft", "Short"],
+  "name": "Pulsing Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "29b9028e-7a6d-4fcc-a645-06381a547692",
+  "vendor": "Arturia"
+}

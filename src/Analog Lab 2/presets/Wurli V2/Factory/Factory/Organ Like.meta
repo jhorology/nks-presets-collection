@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Organ Like",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c703353c-ff8e-41a1-8a65-9190e790769b",
+  "vendor": "Arturia"
+}

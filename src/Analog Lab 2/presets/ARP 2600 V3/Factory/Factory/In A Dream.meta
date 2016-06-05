@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "In A Dream",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f0a98393-f1e0-44f2-ba2e-5b7cb473a3d7",
+  "vendor": "Arturia"
+}

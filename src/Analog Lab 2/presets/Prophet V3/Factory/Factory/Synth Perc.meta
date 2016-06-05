@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Synth Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c913eebe-c559-41a1-bda1-10d4b972cd17",
+  "vendor": "Arturia"
+}

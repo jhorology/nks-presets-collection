@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Hard"],
+  "name": "Cap'n Crunch",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b24011fd-45b8-428b-81ab-96b7bf03e7eb",
+  "vendor": "Arturia"
+}

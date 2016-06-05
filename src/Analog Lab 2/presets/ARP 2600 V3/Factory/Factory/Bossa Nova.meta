@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Evolving"],
+  "name": "Bossa Nova",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9225ba43-1deb-4aff-8c97-56b6fc86f3e8",
+  "vendor": "Arturia"
+}

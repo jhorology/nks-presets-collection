@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Sync(tm)",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "26ffbd2f-e4c5-4ca5-9df2-f1c470619650",
+  "vendor": "Arturia"
+}

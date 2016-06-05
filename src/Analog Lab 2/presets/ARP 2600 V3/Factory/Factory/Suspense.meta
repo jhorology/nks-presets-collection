@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Suspense",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f3714ef0-d407-4051-9da1-2335da8a8484",
+  "vendor": "Arturia"
+}

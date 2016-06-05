@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "C64 Still Alive",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c45674fc-6083-471f-acd0-0cf9909b1744",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Imnothere",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "657170ef-f202-40c8-92d0-7b1e331c1fbc",
+  "vendor": "Arturia"
+}

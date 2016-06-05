@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Digital Pluck Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "89b9ef66-7793-4816-a705-98ebc70be294",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Mountain Flutes",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "493c3108-314a-4de4-a677-a570b7cfcf6a",
+  "vendor": "Arturia"
+}

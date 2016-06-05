@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Encore Part 3",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "c3fa1aee-4b8e-4b54-a196-531116dd48bb",
+  "vendor": "Arturia"
+}

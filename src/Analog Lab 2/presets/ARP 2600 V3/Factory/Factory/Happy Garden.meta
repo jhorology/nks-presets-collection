@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Happy Garden",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f11463bf-8421-4516-aa99-4dff5b98548c",
+  "vendor": "Arturia"
+}

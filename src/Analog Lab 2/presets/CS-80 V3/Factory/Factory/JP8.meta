@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "JP8",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "e7627fcb-602c-425a-8625-265f9da6592e",
+  "vendor": "Arturia"
+}

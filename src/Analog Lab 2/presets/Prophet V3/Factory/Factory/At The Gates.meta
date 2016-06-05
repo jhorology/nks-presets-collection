@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "At The Gates",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4bb0e07b-c7b8-4ee6-b3fa-673ea06c0eb2",
+  "vendor": "Arturia"
+}

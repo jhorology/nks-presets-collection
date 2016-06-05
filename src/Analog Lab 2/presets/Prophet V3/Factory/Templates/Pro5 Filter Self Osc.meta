@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Pro5 Filter Self Osc",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "50b8d0d3-3018-45a2-acb7-27443d0a0edc",
+  "vendor": "Arturia"
+}

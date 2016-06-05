@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Could Be",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f1ecdc63-6658-4a7b-a66d-fcfb168655e1",
+  "vendor": "Arturia"
+}

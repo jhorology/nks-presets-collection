@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Rave Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "70e440ef-c38d-44b4-a83c-7164fdce6ad6",
+  "vendor": "Arturia"
+}

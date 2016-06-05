@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Funky", "Simple"],
+  "name": "Arpegiat",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "dfafcf8f-e2e9-48cd-be3e-9c656cfe941a",
+  "vendor": "Arturia"
+}

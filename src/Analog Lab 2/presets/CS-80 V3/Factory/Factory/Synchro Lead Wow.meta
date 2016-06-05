@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Synchro Lead Wow",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ba312eb2-6ca9-4ca3-9974-450aed92a5e6",
+  "vendor": "Arturia"
+}

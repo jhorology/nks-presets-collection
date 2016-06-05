@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Organ Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1ffe0452-e2dc-4390-b5b6-8f00b2d76506",
+  "vendor": "Arturia"
+}

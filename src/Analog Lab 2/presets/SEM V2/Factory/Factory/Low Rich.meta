@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Low Rich",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e22d1595-0590-4a15-8846-b4afbd6c97f7",
+  "vendor": "Arturia"
+}

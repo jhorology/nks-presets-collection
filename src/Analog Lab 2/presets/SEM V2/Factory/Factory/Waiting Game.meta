@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Waiting Game",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "efadc029-429a-421f-8505-12f8cb43bd15",
+  "vendor": "Arturia"
+}

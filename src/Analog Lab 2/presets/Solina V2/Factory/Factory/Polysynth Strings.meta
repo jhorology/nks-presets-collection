@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Light but dense and with a light repeat using analog delay.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Simple", "Short"],
+  "name": "Polysynth Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7135c6dd-f2f3-4f16-b672-0306a9b8f4e0",
+  "vendor": "Arturia"
+}

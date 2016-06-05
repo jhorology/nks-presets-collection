@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Chords on lower manual, soft melody on the upper manual",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Two Hands",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ab041a0b-4e6e-4469-b4d9-9dfc9d804eaa",
+  "vendor": "Arturia"
+}

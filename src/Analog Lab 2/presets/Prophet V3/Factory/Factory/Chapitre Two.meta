@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Chapitre Two",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "435a4250-2044-4e64-8d89-d4b5618e5d0e",
+  "vendor": "Arturia"
+}

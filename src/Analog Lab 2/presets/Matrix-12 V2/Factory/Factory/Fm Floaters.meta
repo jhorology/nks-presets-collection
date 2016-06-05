@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital", "Hard"],
+  "name": "Fm Floaters",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fe6b33c9-c5a7-474d-95a1-625401c01585",
+  "vendor": "Arturia"
+}

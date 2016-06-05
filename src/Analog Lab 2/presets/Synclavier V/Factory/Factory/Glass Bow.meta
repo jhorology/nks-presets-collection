@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A somewhat haunting hollow glass sound that works as a pad too.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Glass Bow",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "29b1c294-6061-4d28-8774-8f3a4949b913",
+  "vendor": "Arturia"
+}

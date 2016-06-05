@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "ARPPRA",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f3579dd1-5286-4603-9f67-5fc9e3f33c99",
+  "vendor": "Arturia"
+}

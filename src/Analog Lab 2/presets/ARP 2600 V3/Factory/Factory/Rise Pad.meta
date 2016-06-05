@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rise Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c5ecf616-46dc-4fdd-b8b8-b72b8c1b7ee0",
+  "vendor": "Arturia"
+}

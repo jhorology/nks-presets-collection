@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Harpsick",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a2c654f8-58df-459c-ba37-7aa68476a693",
+  "vendor": "Arturia"
+}

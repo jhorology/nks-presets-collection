@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Deep Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b049b473-2756-4e69-98eb-da0f8f2e14bd",
+  "vendor": "Arturia"
+}

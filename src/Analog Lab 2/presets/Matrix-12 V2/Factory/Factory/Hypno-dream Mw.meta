@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soundtrack"],
+  "name": "Hypno-dream Mw",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "45be8fe2-47e9-40bd-8917-9b5ede90c66d",
+  "vendor": "Arturia"
+}

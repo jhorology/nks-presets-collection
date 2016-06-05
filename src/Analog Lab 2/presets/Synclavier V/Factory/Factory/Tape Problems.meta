@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A sound like a human voice on very fluttery magnetic tape. MOD WHEEL enables voice chorusing",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Digital", "Long", "Noise"],
+  "name": "Tape Problems",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9c9d9af2-cb29-480f-b9ab-dfdb91e322a9",
+  "vendor": "Arturia"
+}

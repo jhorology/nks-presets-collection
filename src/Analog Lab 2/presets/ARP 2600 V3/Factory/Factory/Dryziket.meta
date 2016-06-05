@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Dryziket",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3346ffb4-a1d6-4620-8344-7d9d9ae0e2c5",
+  "vendor": "Arturia"
+}

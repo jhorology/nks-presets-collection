@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple"],
+  "name": "Kinetik",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b2b11136-a268-46c7-9e80-426c85d67635",
+  "vendor": "Arturia"
+}

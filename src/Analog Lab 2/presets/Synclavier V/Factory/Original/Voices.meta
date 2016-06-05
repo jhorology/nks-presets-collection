@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "396f5334-56fa-4f86-8879-bf7ef67fa4ad",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Sin Bells Trig",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "15e28de2-ad59-4c15-ba94-dbcba984da87",
+  "vendor": "Arturia"
+}

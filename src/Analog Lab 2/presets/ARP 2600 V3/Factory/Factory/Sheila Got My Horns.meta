@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital"],
+  "name": "Sheila Got My Horns",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0a83bdd8-23d9-40be-a217-cd51874bf188",
+  "vendor": "Arturia"
+}

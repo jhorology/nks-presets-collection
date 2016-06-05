@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Bright glass piano that sounds like an Fm synth.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Short"],
+  "name": "Glass Fantasy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "de275563-2cfe-4e92-8252-e6bac7b62152",
+  "vendor": "Arturia"
+}

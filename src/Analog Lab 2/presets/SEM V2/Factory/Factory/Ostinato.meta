@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark"],
+  "name": "Ostinato",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "490addd8-e244-4b76-93c9-f014845174c8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Boxx",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3c185075-cbbd-45c1-9786-bf5ec92f4282",
+  "vendor": "Arturia"
+}

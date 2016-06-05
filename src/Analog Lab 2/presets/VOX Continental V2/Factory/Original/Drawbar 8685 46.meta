@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Quiet"],
+  "name": "Drawbar 8685 46",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "104def3a-b463-44f3-8c98-e9b94918cb06",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Broken",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "39ab47ca-8cc9-4df5-8849-b06898df261b",
+  "vendor": "Arturia"
+}

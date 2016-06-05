@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Gummi Dog",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "386a0544-6742-4383-82ed-b13c46e8a731",
+  "vendor": "Arturia"
+}

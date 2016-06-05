@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synclavier V string ensemble like ARP string ensemble.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Transistor Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "8a705235-ff88-45aa-a329-2835fa847878",
+  "vendor": "Arturia"
+}

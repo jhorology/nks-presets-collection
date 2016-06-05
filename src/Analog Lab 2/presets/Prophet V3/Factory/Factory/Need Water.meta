@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Need Water",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "da7213e4-8965-48cd-9370-2124c6902ce1",
+  "vendor": "Arturia"
+}

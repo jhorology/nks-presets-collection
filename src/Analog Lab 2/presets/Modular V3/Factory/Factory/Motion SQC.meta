@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Motion SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2a9fc838-df83-495c-a4bb-fca6639a387b",
+  "vendor": "Arturia"
+}

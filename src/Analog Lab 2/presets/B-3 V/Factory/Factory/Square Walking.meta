@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Rhythmical modulation of lower and upper manual",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soft", "Soundtrack"],
+  "name": "Square Walking",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ef57a9f9-8cbf-4e69-9110-1469b44efd5b",
+  "vendor": "Arturia"
+}

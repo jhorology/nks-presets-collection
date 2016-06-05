@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Fat Unison",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5a64aaed-545d-407d-86d4-101081422f3a",
+  "vendor": "Arturia"
+}

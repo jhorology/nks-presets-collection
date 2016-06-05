@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Heavy duty buzzy bass",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Funky"],
+  "name": "Awesome",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "79e87c99-fe91-4737-a460-b9f5037aa125",
+  "vendor": "Arturia"
+}

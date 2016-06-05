@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Dirtypulse",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ee673311-ff47-46af-82d4-11062f351e08",
+  "vendor": "Arturia"
+}

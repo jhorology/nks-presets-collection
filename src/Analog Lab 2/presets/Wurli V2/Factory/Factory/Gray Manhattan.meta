@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Soft"],
+  "name": "Gray Manhattan",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7e32faac-7fb4-4ee2-92d8-8f689f990cd7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Oct Uni",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5ec62af5-60c5-4f76-821c-5b53a1683a4c",
+  "vendor": "Arturia"
+}

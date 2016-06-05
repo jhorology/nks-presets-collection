@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Detuned Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9fcf520d-cbd8-484a-b558-e6c28872d664",
+  "vendor": "Arturia"
+}

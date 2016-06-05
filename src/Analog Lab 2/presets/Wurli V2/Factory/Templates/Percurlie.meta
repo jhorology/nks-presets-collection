@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Percurlie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9fadfdfd-c2cb-48f8-bf8d-c5eb1844ce23",
+  "vendor": "Arturia"
+}

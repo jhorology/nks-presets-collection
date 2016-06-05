@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Big Daddy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9e2bc79b-f255-47ca-bc75-07091f623c89",
+  "vendor": "Arturia"
+}

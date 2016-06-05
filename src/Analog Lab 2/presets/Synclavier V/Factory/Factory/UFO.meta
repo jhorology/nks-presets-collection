@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "The time-frames are used to create an evolving and complex sound. The mod-wheel will make it even more atonal.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital", "Long", "Soundtrack", "Evolving"],
+  "name": "UFO",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "25221a8c-491c-4ade-8e85-55be4160bf54",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Axis On",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "89981a55-a316-4adb-8b42-633469749ba7",
+  "vendor": "Arturia"
+}

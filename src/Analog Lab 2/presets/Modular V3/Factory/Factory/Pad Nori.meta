@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Soft"],
+  "name": "Pad Nori",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8df15dea-c832-4b46-8208-5a5f9d6d330a",
+  "vendor": "Arturia"
+}

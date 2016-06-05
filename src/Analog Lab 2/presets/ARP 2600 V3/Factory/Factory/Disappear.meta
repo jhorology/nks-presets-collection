@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Disappear",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6ad5b45f-4ad4-41bd-81dd-a8c56cb03ee3",
+  "vendor": "Arturia"
+}

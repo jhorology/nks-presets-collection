@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Twinpulse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c5d0f73f-7d4d-4c15-a876-65d2164a429e",
+  "vendor": "Arturia"
+}

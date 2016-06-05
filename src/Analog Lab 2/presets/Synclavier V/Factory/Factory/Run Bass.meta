@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Dirty bass with repeat mode. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard", "Long"],
+  "name": "Run Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "dd6ede40-6f42-4610-8adf-e6f353e6e190",
+  "vendor": "Arturia"
+}

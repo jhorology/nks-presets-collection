@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "8880000",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f3c817c6-d972-47ca-b28e-9712e7618350",
+  "vendor": "Arturia"
+}

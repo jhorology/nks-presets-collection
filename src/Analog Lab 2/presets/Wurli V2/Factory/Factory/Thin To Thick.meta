@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Thin To Thick",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b09c9006-aa50-4cfc-9ba4-e079c16ddbe5",
+  "vendor": "Arturia"
+}

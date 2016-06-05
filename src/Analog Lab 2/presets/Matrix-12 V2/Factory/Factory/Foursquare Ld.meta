@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Foursquare Ld",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a441b6cc-b91b-40e9-9db5-2b9bc94bd1c2",
+  "vendor": "Arturia"
+}

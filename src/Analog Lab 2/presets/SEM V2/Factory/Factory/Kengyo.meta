@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Kengyo",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "54205e8f-3c4d-44f9-8d27-265b161332a6",
+  "vendor": "Arturia"
+}

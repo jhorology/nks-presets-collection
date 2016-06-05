@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Drone Base",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "11cf4c22-60e4-42d1-bdb9-62c330cc341b",
+  "vendor": "Arturia"
+}

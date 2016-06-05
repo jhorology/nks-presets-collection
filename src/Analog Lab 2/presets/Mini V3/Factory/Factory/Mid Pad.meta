@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Mid Pad",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "936655fc-e431-4d3b-9542-9d4213823b79",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Long", "Quiet"],
+  "name": "Bass Pudding",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8666a30f-9726-4ac5-92ef-bea1381d68c8",
+  "vendor": "Arturia"
+}

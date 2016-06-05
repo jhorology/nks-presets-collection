@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Ensemble", "Long"],
+  "name": "Thin Analog Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "68bd1707-2065-4862-988e-5ba5addc3cf5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Simple, filter opening pad.",
+  "deviceType": "INST",
+  "modes": ["Long", "Soundtrack"],
+  "name": "Endless Lake",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a0d83824-b105-4bc2-a56e-d83d8da7c72c",
+  "vendor": "Arturia"
+}

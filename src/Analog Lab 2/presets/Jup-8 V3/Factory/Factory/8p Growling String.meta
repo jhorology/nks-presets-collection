@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Monophonic bright lead with a modulating resonant filter. Pitch bend covers a whole octave.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Long"],
+  "name": "8p Growling String",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "98f8b8a9-1a56-46b0-aef6-f4c510b2b203",
+  "vendor": "Arturia"
+}

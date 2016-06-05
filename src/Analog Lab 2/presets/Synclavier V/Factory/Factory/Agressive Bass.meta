@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving bass sound like 'sync bass' with a percussive 'knocking' front end. With flanger-like effect. Mod wheel controls vibrato depth on firest partials. After-touch FM amount on lower partials.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Evolving"],
+  "name": "Agressive Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "72598981-7227-4f15-b51b-17537de4a6de",
+  "vendor": "Arturia"
+}

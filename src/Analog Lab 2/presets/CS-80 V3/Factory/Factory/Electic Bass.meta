@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Electic Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "937ae7cf-1c1c-4435-b72f-45d91f28ee7b",
+  "vendor": "Arturia"
+}

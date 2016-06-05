@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Drawbar voices sequenced on both upper and lower manual.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Ensemble", "Soundtrack"],
+  "name": "The New Old Lady",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2d4def4a-d90e-493c-a844-4e09d3babdd0",
+  "vendor": "Arturia"
+}

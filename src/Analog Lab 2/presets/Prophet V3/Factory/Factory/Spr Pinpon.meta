@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Spr Pinpon",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "17479066-86ff-4910-bf4c-200b646cf444",
+  "vendor": "Arturia"
+}

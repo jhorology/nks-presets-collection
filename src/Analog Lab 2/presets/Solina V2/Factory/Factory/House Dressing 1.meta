@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "House Dressing 1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "714b72b9-c275-4e86-9bb8-6943b3049157",
+  "vendor": "Arturia"
+}

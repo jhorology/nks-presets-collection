@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Basstone",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eb38a9a5-4449-4405-a8e7-fd620d464a04",
+  "vendor": "Arturia"
+}

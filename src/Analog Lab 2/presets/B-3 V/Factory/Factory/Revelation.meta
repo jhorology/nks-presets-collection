@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Soundtrack", "Quiet"],
+  "name": "Revelation",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f2ebe0b7-28ac-4d60-a591-5132fc5aadfc",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Pluck Pulse",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c9e28200-d9b8-4406-a986-3c9bad2c9ef4",
+  "vendor": "Arturia"
+}

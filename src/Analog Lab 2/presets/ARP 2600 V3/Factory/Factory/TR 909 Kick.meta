@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "TR 909 Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "89692a0c-9e18-4710-bfe1-d1345c2fc385",
+  "vendor": "Arturia"
+}

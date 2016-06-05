@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soft"],
+  "name": "Omega",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "387d1331-55e5-48a2-80bf-7c95574ea238",
+  "vendor": "Arturia"
+}

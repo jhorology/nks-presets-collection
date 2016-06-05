@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Electro Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9b5a7a40-3242-4104-960c-6fd392b943a0",
+  "vendor": "Arturia"
+}

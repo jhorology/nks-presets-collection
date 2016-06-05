@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long"],
+  "name": "UFO flute",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f07d2a5f-80f0-499d-a61b-63b6efdcd22a",
+  "vendor": "Arturia"
+}

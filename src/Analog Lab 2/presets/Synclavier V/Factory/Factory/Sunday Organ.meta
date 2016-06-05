@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Organ sound made by drawing the overtones in the time-frame window.",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Sunday Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3df1397e-ca0f-4d0d-be56-b98e4d8c2832",
+  "vendor": "Arturia"
+}

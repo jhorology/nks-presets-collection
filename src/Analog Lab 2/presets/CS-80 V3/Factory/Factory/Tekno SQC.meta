@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Tekno SQC",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f70d355a-8752-4bd7-a9e1-c5ff15648163",
+  "vendor": "Arturia"
+}

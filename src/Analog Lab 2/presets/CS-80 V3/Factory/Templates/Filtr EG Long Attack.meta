@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Filtr EG Long Attack",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "12d83cf2-e5db-4c08-a7ba-0ac904987c69",
+  "vendor": "Arturia"
+}

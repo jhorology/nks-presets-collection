@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Slow Dirty Leslie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "614c1307-5171-41fd-acd2-13cbf4e36bc0",
+  "vendor": "Arturia"
+}

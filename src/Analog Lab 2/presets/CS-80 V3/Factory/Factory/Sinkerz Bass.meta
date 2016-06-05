@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Sinkerz Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "53f889dd-c4da-49b2-8c5e-a54972f9b140",
+  "vendor": "Arturia"
+}

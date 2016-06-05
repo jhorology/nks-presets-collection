@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Waver Chord",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "006049c1-76b4-4ca9-b51a-3f7f2eabd7a8",
+  "vendor": "Arturia"
+}

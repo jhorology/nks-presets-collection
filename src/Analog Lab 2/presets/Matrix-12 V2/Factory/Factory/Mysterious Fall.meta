@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soundtrack"],
+  "name": "Mysterious Fall",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "48c160ac-9081-446d-9644-2f1703e84f83",
+  "vendor": "Arturia"
+}

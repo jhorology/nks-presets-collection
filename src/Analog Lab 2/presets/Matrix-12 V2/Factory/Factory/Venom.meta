@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Soft", "Soundtrack"],
+  "name": "Venom",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "15f56c4f-afd6-4819-93d1-3157b23db856",
+  "vendor": "Arturia"
+}

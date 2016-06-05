@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "Thunder",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e1685ec3-ad8f-4253-b2d8-2c399b51d054",
+  "vendor": "Arturia"
+}

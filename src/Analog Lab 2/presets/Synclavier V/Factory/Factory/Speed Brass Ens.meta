@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synth Brass ensembre",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long", "Simple"],
+  "name": "Speed Brass Ens",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "8ca4519f-5ce4-4eac-bb38-0c08b6723152",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Rings",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4bb3f17c-f644-4941-b6c8-bad38ea3488a",
+  "vendor": "Arturia"
+}

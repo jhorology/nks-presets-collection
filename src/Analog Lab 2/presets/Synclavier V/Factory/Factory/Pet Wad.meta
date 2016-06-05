@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hold long chords",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Pet Wad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "56faa030-f7f2-4273-b7aa-e5286a9a0dc8",
+  "vendor": "Arturia"
+}

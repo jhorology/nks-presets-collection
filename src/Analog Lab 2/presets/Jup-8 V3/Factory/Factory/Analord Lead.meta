@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet", "Short"],
+  "name": "Analord Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "abd4f311-ede4-4d13-8a34-3c418d4e4344",
+  "vendor": "Arturia"
+}

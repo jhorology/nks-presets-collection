@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soft"],
+  "name": "Hollow Gold",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "87c54c8e-8695-4627-8e42-097c5a2facf0",
+  "vendor": "Arturia"
+}

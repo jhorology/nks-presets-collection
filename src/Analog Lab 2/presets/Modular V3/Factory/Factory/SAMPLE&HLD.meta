@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "SAMPLE&HLD",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd1aa961-dcf0-4ba7-a926-12677861154b",
+  "vendor": "Arturia"
+}

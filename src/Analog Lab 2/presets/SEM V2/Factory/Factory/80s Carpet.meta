@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "80s Carpet",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5de8c2b7-0b7c-4a7d-a212-dd2132c78b8d",
+  "vendor": "Arturia"
+}

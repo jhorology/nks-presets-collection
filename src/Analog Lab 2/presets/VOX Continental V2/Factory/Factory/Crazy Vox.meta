@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Hard"],
+  "name": "Crazy Vox",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c7f74b11-e18f-43c7-8c4b-1c22fa6402f5",
+  "vendor": "Arturia"
+}

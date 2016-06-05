@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Cheapin",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5e7e359d-fe3e-4827-a17f-374595187aab",
+  "vendor": "Arturia"
+}

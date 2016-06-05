@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Lower manual arpeggiates a major chord upper manual for soft theme",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Hot Dog",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c8a9b829-1c07-458b-9837-992cd0caf0cc",
+  "vendor": "Arturia"
+}

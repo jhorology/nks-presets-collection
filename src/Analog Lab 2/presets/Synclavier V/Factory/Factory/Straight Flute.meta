@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Recorder-like flutes very responsive to VELOCITY (harder attack and brighter sound) MOD WHEEL increases tremolo and vibrato AFTERTOUCH adds higher harmonics",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Simple", "Soundtrack", "Short"],
+  "name": "Straight Flute",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c4a9f474-d64a-466c-bba4-03699a6aa523",
+  "vendor": "Arturia"
+}

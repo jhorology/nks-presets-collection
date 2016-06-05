@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Tapestry",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dc1386d6-fb66-4d66-9139-dafa55ac645c",
+  "vendor": "Arturia"
+}

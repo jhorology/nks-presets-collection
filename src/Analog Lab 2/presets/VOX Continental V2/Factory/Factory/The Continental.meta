@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "The Continental",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "574aab2c-8d52-4d1a-8f6e-64b61fcef207",
+  "vendor": "Arturia"
+}

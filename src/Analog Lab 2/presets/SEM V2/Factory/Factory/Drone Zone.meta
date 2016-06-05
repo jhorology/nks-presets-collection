@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Drone Zone",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9e17be40-aeb1-48b2-848b-f8aa544cac4e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soft", "Soundtrack"],
+  "name": "Night Signals",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "24b96411-7921-4225-b8f7-f3ca0cf38816",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Mechanical Mind",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bb486b5c-59c5-4154-8c4b-6820665bc0ab",
+  "vendor": "Arturia"
+}

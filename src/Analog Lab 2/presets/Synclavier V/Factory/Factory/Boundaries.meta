@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A slow effect with both bright and muffled elements which also works good as a pad.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital", "Soundtrack"],
+  "name": "Boundaries",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1db152dc-e934-424d-b4ad-408182443f55",
+  "vendor": "Arturia"
+}

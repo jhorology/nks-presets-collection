@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Talk Vox",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d5689454-8c47-44b7-9eb9-a6e3b57b091f",
+  "vendor": "Arturia"
+}

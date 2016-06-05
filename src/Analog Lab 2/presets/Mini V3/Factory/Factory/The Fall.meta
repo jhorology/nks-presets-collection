@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "The Fall",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d6e72d01-6a82-4deb-b852-3e3b60aafc90",
+  "vendor": "Arturia"
+}

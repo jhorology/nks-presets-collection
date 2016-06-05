@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple", "Soft"],
+  "name": "Old Dirt",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6064d07f-7bb8-4d9a-8739-1957040a889c",
+  "vendor": "Arturia"
+}

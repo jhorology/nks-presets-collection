@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soundtrack"],
+  "name": "Xpressive",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a4fa8d44-2200-4002-b3f9-959fbc73b1f3",
+  "vendor": "Arturia"
+}

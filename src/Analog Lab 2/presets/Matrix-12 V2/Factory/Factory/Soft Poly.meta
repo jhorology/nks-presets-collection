@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Soft Poly",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cf454a77-662d-4c1d-88ee-ed03ac72669e",
+  "vendor": "Arturia"
+}

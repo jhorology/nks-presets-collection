@@ -1,0 +1,13 @@
+{
+  "author": "Takashi Odanaka",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple"],
+  "name": "Outer Space",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "72d286fa-dc4c-47c9-b56e-0b33d90375d7",
+  "vendor": "Arturia"
+}

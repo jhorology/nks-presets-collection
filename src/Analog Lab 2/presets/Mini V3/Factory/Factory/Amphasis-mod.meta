@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark", "Digital"],
+  "name": "Amphasis-mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2e34395c-992a-46d3-9e86-4482e54f2357",
+  "vendor": "Arturia"
+}

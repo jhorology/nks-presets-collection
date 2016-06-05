@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "75 Lead Highnoise",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c4c8905a-0724-4c3e-998d-e7d6908f5f89",
+  "vendor": "Arturia"
+}

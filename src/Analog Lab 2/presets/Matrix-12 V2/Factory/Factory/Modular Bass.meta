@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Funky", "Hard"],
+  "name": "Modular Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "99a81f92-aba5-4878-b6bb-551053ad5e39",
+  "vendor": "Arturia"
+}

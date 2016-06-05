@@ -1,0 +1,13 @@
+{
+  "author": "Clement Chaumeil",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Funky", "Soft"],
+  "name": "Thight Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7b434d9d-0b27-41c1-8ef8-a7e3c3fd1612",
+  "vendor": "Arturia"
+}

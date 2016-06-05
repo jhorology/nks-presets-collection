@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Use The Mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "975a3136-ef45-4e8b-84be-9f194b4d2934",
+  "vendor": "Arturia"
+}

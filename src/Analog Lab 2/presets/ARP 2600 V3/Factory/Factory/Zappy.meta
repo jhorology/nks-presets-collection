@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre"],
+  "name": "Zappy",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7cd2a80d-b252-4278-8f59-ca3d2114d0b8",
+  "vendor": "Arturia"
+}

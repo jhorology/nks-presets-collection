@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Liquid Interface",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "14bf0571-cb69-4478-827c-3ce0e9e303c0",
+  "vendor": "Arturia"
+}

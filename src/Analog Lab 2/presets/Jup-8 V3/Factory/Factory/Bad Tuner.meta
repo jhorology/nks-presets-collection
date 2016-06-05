@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Bad Tuner",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2946a0b3-e9af-45e5-a6ac-4ab07c47aa62",
+  "vendor": "Arturia"
+}

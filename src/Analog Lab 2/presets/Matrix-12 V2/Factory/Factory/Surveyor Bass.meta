@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Surveyor Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3bfcb56e-dec1-4c20-a577-1f9507995ae7",
+  "vendor": "Arturia"
+}

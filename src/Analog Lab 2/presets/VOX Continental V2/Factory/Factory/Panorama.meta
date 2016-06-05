@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Quiet"],
+  "name": "Panorama",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f3263e36-a36a-44d8-bada-762b88f2c201",
+  "vendor": "Arturia"
+}

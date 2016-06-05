@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Bass seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e165bb52-3a36-4910-9ae0-34a4db43f23c",
+  "vendor": "Arturia"
+}

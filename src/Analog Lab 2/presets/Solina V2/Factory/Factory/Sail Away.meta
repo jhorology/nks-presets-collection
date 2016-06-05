@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble"],
+  "name": "Sail Away",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "e21c6baf-fc2b-4e4c-bc39-ad7f7493c268",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Soundtrack"],
+  "name": "Singing Trix",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cf07418c-0acd-40cd-b7eb-0234823945b6",
+  "vendor": "Arturia"
+}

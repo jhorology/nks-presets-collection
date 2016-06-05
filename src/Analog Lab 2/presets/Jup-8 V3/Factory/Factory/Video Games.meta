@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Long"],
+  "name": "Video Games",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4fa9993a-402a-48b0-b41b-4a122690926e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "PolyMogue Soft",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "202bb505-ce97-4b2a-93ad-35456b59a5eb",
+  "vendor": "Arturia"
+}

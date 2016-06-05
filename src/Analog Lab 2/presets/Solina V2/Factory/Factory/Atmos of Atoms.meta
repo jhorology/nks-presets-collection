@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long", "Simple"],
+  "name": "Atmos of Atoms",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "f54d1a99-e954-4f71-afcb-ff97b4ea5170",
+  "vendor": "Arturia"
+}

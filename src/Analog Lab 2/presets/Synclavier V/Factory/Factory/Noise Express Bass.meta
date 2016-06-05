@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big dirty synth with repeat arpeggio mode. Modwheel controlled repeat arpegiate & aftertouch conttroled FM ratio",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard"],
+  "name": "Noise Express Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d0bfe4f0-a424-4ad8-a957-7b53a2df507e",
+  "vendor": "Arturia"
+}

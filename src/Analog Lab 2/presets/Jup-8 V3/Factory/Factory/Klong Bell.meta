@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Klong Bell",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "cee28ff0-fb63-49d0-bdeb-fba21dcbd2be",
+  "vendor": "Arturia"
+}

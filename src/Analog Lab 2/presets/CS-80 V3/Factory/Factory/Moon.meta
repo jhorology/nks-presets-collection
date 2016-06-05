@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Moon",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a9ec79cc-a9d7-4cad-a0ee-7819b0e0a61b",
+  "vendor": "Arturia"
+}

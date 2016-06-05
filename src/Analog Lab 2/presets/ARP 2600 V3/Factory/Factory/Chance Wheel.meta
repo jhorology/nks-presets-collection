@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Quiet"],
+  "name": "Chance Wheel",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e0661d8a-1efa-4c96-91ac-b71e7d36099f",
+  "vendor": "Arturia"
+}

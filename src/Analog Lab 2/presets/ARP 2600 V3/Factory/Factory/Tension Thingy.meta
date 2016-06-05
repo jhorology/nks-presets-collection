@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Evolving"],
+  "name": "Tension Thingy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0671875c-9704-4ec4-b493-534003f5c83f",
+  "vendor": "Arturia"
+}

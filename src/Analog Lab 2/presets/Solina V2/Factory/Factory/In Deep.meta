@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple"],
+  "name": "In Deep",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d80c0e20-d240-4705-b06a-30ff24413021",
+  "vendor": "Arturia"
+}

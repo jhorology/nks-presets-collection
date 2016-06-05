@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Dirty Taurus",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4b8e7198-99bf-44b6-9e6b-963d88ed8540",
+  "vendor": "Arturia"
+}

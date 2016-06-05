@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "A Little Something",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "da74a91f-0ad6-42c2-b0c3-2502e28e762a",
+  "vendor": "Arturia"
+}

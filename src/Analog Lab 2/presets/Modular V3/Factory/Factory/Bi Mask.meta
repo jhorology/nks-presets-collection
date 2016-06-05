@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Bi Mask",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "79bae980-f2cb-43ec-900f-da47a0e2622f",
+  "vendor": "Arturia"
+}

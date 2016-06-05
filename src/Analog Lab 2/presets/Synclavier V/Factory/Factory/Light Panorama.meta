@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very nice soundtrack pad with repeat arpeggio mode and Dubdelay-Reverb. Modwheel controlled Pitch Chorus.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack", "Quiet"],
+  "name": "Light Panorama",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "29a3ddf8-a777-42db-8bae-4fdb7e033f7e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Noise"],
+  "name": "Tek SQC",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9cd83a80-ac71-4a00-a6f8-9ae11262b981",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex"],
+  "name": "Maul",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4852a12b-a0d4-4bc2-80bf-cb16ea89c894",
+  "vendor": "Arturia"
+}

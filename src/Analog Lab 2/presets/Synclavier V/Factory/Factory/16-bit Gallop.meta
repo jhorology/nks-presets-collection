@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "galloping horse sound  low-frequency  low-ratio FM. MOD WHEEL doubles the number of horses (via Synclavier's Chorus feature).",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard", "Long", "Noise", "Soundtrack"],
+  "name": "16-bit Gallop",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "dac92d4d-7287-456b-8dfd-d8da95a98950",
+  "vendor": "Arturia"
+}

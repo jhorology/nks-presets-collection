@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Quiet"],
+  "name": "Up Resonant",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "58baee85-3685-44bb-9612-236c1839a120",
+  "vendor": "Arturia"
+}

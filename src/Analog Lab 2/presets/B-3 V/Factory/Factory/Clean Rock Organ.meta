@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Yes. As the patch name.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Evolving"],
+  "name": "Clean Rock Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "920d3026-dc67-4833-973e-d7b40c45ffeb",
+  "vendor": "Arturia"
+}

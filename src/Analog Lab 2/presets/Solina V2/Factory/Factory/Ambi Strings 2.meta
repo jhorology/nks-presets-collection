@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Ambi Strings 2",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "69a9b9fb-8bd4-4f75-9100-5c1f7794ace9",
+  "vendor": "Arturia"
+}

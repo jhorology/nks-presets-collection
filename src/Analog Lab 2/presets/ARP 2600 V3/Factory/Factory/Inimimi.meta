@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Inimimi",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "feba0859-a0da-41fe-960e-b14fbe3061b7",
+  "vendor": "Arturia"
+}

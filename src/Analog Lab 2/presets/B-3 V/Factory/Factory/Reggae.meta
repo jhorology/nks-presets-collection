@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soft", "Soundtrack", "Quiet"],
+  "name": "Reggae",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e45d0697-f2b1-4509-b5a7-514508727d54",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Modular Rhodes",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "86c6d988-35a8-4c15-84d2-45adf2ea0f47",
+  "vendor": "Arturia"
+}

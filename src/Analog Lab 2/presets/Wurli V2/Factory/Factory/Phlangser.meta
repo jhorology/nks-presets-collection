@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Phlangser",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "09de00e7-dbcc-4b07-9dc2-c1c5e3f05ba6",
+  "vendor": "Arturia"
+}

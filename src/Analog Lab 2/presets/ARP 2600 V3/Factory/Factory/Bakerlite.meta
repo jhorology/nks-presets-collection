@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Bakerlite",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d077b095-4d0e-4002-8d4c-2e3ebadbce4a",
+  "vendor": "Arturia"
+}

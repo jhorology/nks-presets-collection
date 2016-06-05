@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Soft"],
+  "name": "Worm Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "148a62d2-d089-4027-bc08-7a89ae0be4ce",
+  "vendor": "Arturia"
+}

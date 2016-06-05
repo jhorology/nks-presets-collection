@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Almost Mellotron-like. Bass notes have a little release but the sound overall is dry, i.e. no reverb.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Simple", "Short"],
+  "name": "Wilde Touch",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "b5bc2b36-664f-4528-a20f-9bb9169752f2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Simple", "Short"],
+  "name": "Double Shot",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7bcddcc7-b642-4d0d-a168-15535734031b",
+  "vendor": "Arturia"
+}

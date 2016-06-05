@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Saw Whit",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9a9dd005-6283-4c98-a213-c7e7fd87096f",
+  "vendor": "Arturia"
+}

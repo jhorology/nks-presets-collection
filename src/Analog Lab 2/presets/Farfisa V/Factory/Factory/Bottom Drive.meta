@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple", "Short"],
+  "name": "Bottom Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "693124d7-f3dc-43c3-96da-2e3c4b72e2c7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Long", "Soft", "Soundtrack"],
+  "name": "Martian Echo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "63a2af7f-cb45-4ba7-8c45-3d2ebdf7ad5d",
+  "vendor": "Arturia"
+}

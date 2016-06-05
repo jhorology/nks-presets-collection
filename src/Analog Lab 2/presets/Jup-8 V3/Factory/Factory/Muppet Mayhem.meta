@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Slightly dirty detuned unison sound. Somewhere between a pad and a lead.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Muppet Mayhem",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5c803659-8696-4e24-862a-0bdc0f437f2b",
+  "vendor": "Arturia"
+}

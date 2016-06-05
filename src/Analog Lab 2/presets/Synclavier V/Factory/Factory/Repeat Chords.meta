@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Repeat Chords",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e0d9371f-855d-430b-92b5-c0c1f65c8d7e",
+  "vendor": "Arturia"
+}

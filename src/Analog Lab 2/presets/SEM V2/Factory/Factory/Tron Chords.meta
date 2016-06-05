@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Tron Chords",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e08727d6-7db1-4d65-9f69-13d1802d224f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long"],
+  "name": "Psychedelic Break Vox",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "612dabd7-d94f-4309-b491-c5f4e98d5547",
+  "vendor": "Arturia"
+}

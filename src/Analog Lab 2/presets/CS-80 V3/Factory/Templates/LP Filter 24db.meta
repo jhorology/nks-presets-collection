@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "LP Filter 24db",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b4ade473-67ad-4667-b9b5-ee0ac344956e",
+  "vendor": "Arturia"
+}

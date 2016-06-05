@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Minor Seven",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "0460f462-ace2-48a0-917d-f1d18f44f8e4",
+  "vendor": "Arturia"
+}

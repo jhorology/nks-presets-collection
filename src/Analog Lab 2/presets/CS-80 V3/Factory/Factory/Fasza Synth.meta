@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Fasza Synth",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8ba1e0af-d717-43b4-82d3-b8bc6c318c21",
+  "vendor": "Arturia"
+}

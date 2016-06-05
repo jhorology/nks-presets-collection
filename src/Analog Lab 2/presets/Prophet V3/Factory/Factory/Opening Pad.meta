@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Sweeping resonant filter opening a soft pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Opening Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "86851a45-ed02-489f-9577-0936d1cb2345",
+  "vendor": "Arturia"
+}

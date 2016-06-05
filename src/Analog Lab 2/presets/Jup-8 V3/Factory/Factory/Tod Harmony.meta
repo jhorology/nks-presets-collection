@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Tod Harmony",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c82c07ad-d6e0-4c3e-89df-71f26c2cfde9",
+  "vendor": "Arturia"
+}

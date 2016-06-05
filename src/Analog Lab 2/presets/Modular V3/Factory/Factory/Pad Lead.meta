@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soundtrack", "Quiet"],
+  "name": "Pad Lead",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eb53f010-2bb9-4a32-bdb5-b8b978be87ee",
+  "vendor": "Arturia"
+}

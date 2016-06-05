@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Digital and rich evolving sounding pad. Makes use of the mixer envelopes.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Wavesalad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fbbc6d5a-915c-4097-80a8-937560613673",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Hard Kick",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d059ecfa-0b48-4296-8d63-e4b6a581f881",
+  "vendor": "Arturia"
+}

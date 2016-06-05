@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Applied",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "deedb067-e88d-43da-b289-685afa116af5",
+  "vendor": "Arturia"
+}

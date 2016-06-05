@@ -1,0 +1,13 @@
+{
+  "author": "Matrix12",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soundtrack", "Quiet", "Short"],
+  "name": "Calliope",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "22ac17b4-85d8-43d0-ad12-e331313feb1a",
+  "vendor": "Arturia"
+}

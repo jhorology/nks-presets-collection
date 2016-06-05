@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Thin and chirpy, with plenty of key noise. Works well on both chords and single notes.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex"],
+  "name": "Broman",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a531e0d2-ce54-4561-a23a-c73a34f5a616",
+  "vendor": "Arturia"
+}

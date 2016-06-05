@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack", "Quiet"],
+  "name": "Drops",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1a746534-c860-492b-8dc8-f5e88b2ac7c2",
+  "vendor": "Arturia"
+}

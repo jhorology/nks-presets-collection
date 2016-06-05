@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atmospheric pad with stereo effect and a long release.Take note because the sound plays louder. Modwheel controlled FM Amount & Aftertouch controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Cycling Pan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a5cf4cc9-9b06-4952-889b-8f7e497d805e",
+  "vendor": "Arturia"
+}

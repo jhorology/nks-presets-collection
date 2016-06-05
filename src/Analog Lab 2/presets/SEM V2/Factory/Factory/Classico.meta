@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Classico",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1dd8613c-ddcc-4610-8ab2-63a8ff645e4f",
+  "vendor": "Arturia"
+}

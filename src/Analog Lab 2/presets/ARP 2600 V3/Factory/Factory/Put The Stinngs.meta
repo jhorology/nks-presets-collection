@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Put The Stinngs",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "10e05267-e710-4d5d-97c7-875467c11739",
+  "vendor": "Arturia"
+}

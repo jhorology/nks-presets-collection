@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bright and digital pad with reverb. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Dark", "Digital", "Soundtrack"],
+  "name": "Magnetic Exposure",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "985cd4dd-532f-41ec-80d7-58cacc40ed5e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "John Cage influenced sound. Emulates a prepared piano.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple", "Short"],
+  "name": "Plucked Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "54b7e558-fdee-40d6-9eb1-ec3ceef45c48",
+  "vendor": "Arturia"
+}

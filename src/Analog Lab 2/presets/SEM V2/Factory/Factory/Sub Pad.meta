@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Soundtrack"],
+  "name": "Sub Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "68cd415d-d1e8-4efe-9793-600c65606bf0",
+  "vendor": "Arturia"
+}

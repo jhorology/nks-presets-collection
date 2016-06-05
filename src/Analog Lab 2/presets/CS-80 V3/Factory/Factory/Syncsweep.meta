@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Slow-moving  sync effect that adds machine-gun like chatter with mod wheel or after-touch. Best played using single notes.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Syncsweep",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "79931544-5336-4a51-bb39-0d677c8cafdb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Quiet"],
+  "name": "Full Harmo",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "098ea8f7-65e4-4ea0-bffd-5cc1aa7cac88",
+  "vendor": "Arturia"
+}

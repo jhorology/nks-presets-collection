@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Funky", "Hard", "Short"],
+  "name": "Mono Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1a709a7c-665f-4889-bc88-e5377e513dc9",
+  "vendor": "Arturia"
+}

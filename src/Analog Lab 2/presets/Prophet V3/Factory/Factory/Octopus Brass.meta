@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Octopus Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "536e79b6-2961-41fa-a51f-e5d776e06f05",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Big Unison 2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0f9c61f3-b05f-4cca-ae37-ee8dbe7e6968",
+  "vendor": "Arturia"
+}

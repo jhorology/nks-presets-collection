@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Church Organ 1",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "93f26467-3877-4bfe-a8b5-0449957b8864",
+  "vendor": "Arturia"
+}

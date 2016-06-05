@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Hollow Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2f37b927-3862-4b85-8815-f1887fdd5c83",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Morph",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "dc121ad4-4f76-4695-8028-5e7d39980e37",
+  "vendor": "Arturia"
+}

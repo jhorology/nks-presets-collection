@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Flood",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eedad4f2-3815-4fa8-8792-a8782052cbab",
+  "vendor": "Arturia"
+}

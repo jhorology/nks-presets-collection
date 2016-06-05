@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Phase Bytes",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "51a3ea7a-7f2b-4089-9587-88de1eea95b5",
+  "vendor": "Arturia"
+}

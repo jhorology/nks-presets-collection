@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Long", "Noise"],
+  "name": "Ghost Rider",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b5a1b893-8540-4bc8-bda7-03c6af2511d6",
+  "vendor": "Arturia"
+}

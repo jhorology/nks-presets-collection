@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Callous",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1344b030-7935-4f52-8a48-b6871abfc99b",
+  "vendor": "Arturia"
+}

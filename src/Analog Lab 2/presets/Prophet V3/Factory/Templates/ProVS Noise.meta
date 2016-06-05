@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "ProVS Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4113a85d-8be6-4a25-95ea-a38d0deb9620",
+  "vendor": "Arturia"
+}

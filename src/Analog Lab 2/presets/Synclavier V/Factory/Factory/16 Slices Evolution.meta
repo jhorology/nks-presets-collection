@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Evolving"],
+  "name": "16 Slices Evolution",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c219fd79-f912-41eb-bcfe-39ec581c4eb8",
+  "vendor": "Arturia"
+}

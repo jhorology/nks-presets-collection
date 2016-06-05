@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft"],
+  "name": "Seq Rythm",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dd663fa4-7304-46e6-a8ac-141a5f314970",
+  "vendor": "Arturia"
+}

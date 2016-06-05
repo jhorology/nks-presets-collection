@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Old clone style fake leslie on upper manual lower manual for normal walking bass",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Fake Leslie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "712efe20-76f3-4704-bf3b-02760f367b2d",
+  "vendor": "Arturia"
+}

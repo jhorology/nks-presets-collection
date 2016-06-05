@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Tribal Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "13c9b42e-a994-4dfe-95fc-886e958bcdf5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Pulse Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b3373b59-ada6-494c-b601-a5bda403eb87",
+  "vendor": "Arturia"
+}

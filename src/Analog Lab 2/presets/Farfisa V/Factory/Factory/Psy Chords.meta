@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long"],
+  "name": "Psy Chords",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "92ba1c0b-0f7b-4cb9-84b4-bc71d81d9f7a",
+  "vendor": "Arturia"
+}

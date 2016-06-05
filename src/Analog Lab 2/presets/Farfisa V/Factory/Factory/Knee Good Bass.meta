@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Thick and warm bass with a short analog delay repeat. The knee-operated multi-tone booster adds fizz and sparkle and is governed by the pitch controls rather than mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Knee Good Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "94aadf59-10d5-48f4-916f-c552490da81a",
+  "vendor": "Arturia"
+}

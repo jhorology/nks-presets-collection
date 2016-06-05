@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Mini Square",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "de11b265-c0fc-402c-9e3e-acbcb9bfde0f",
+  "vendor": "Arturia"
+}

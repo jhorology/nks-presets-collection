@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "VCA EG Short Release",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4f961c9b-36a2-458f-9e4d-4899d193a817",
+  "vendor": "Arturia"
+}

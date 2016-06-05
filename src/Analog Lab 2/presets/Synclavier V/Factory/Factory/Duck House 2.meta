@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sidechained-type jazzy chord for all your deep house needs",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Quiet"],
+  "name": "Duck House 2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fc44ac03-9ef4-49fb-be96-55e9254432b1",
+  "vendor": "Arturia"
+}

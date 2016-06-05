@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Digital soft keyboard sound.  Mod wheel controls the filter cutoff.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "KeyFM Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9a8ea1b8-8c74-481d-9999-d1cbcefcc8e8",
+  "vendor": "Arturia"
+}

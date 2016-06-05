@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital"],
+  "name": "Chord Animate",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d0457cc3-dbd2-4cd1-9193-0e8af35e8783",
+  "vendor": "Arturia"
+}

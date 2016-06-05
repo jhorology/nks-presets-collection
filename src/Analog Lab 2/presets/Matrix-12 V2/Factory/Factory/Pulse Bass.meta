@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Pulse Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "74c80ffb-9a1b-48de-b09a-54184ed86d0b",
+  "vendor": "Arturia"
+}

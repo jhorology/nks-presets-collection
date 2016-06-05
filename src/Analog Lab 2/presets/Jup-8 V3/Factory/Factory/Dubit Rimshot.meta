@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Resonance-heavy, short, percussive noise. Its long delay helps create complex rhythm patterns.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Noise"],
+  "name": "Dubit Rimshot",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e7dc18b7-b453-48c4-854d-28538507557f",
+  "vendor": "Arturia"
+}

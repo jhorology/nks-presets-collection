@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Polyriiim",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5bede792-5f3e-4858-a76d-95b3daa8eaaf",
+  "vendor": "Arturia"
+}

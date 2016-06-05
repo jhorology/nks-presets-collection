@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Funk punk",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bc555d24-a3e7-437c-8f42-65c16464fb10",
+  "vendor": "Arturia"
+}

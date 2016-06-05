@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Long"],
+  "name": "Ambiant Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8f35d420-ac36-4165-aea6-647cbc7c6163",
+  "vendor": "Arturia"
+}

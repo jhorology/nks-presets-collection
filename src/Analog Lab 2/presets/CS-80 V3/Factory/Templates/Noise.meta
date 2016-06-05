@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1a175216-b3a2-446c-b1d4-e4bad6ffe240",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Brendan Perry",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Caspian",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "55e9806c-9ef8-4f4e-b374-2a63b4eb37c3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble"],
+  "name": "Bass Arpegiatta",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a8556665-5b10-45d0-8da3-a656474e12f7",
+  "vendor": "Arturia"
+}

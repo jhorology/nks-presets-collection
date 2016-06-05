@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Hypothetical",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5c98c611-1f33-4544-af0e-da1ec4e9fc73",
+  "vendor": "Arturia"
+}

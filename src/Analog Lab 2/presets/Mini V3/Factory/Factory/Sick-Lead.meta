@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Sick-Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4de35e08-4f36-47ce-91e1-470b9b752791",
+  "vendor": "Arturia"
+}

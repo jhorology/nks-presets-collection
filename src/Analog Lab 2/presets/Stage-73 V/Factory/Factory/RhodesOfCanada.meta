@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "RhodesOfCanada",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bb999057-3ed3-4ee9-9f17-43ca174b35c4",
+  "vendor": "Arturia"
+}

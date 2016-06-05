@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Rope",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7c486e7a-40e8-4a61-a7a7-43ab843432d4",
+  "vendor": "Arturia"
+}

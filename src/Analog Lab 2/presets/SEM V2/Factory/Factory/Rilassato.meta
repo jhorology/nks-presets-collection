@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Rilassato",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "06bf98c4-96bd-44a3-aa0f-fb4ee6e5d7bc",
+  "vendor": "Arturia"
+}

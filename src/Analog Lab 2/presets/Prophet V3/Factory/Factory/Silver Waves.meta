@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Bright Pad which to be distant.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "Silver Waves",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "58127374-918b-4f08-88d6-c20dbedbc20f",
+  "vendor": "Arturia"
+}

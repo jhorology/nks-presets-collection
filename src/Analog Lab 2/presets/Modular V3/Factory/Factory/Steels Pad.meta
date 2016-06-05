@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Steels Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c1907f86-929a-444f-96e9-8c7051520a60",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Simple", "Soundtrack", "Quiet"],
+  "name": "OMG Choir",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d98befa4-0a4c-46a4-9540-fa1b40f6524b",
+  "vendor": "Arturia"
+}

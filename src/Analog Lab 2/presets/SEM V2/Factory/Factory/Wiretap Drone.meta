@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack"],
+  "name": "Wiretap Drone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "52dca9ec-9090-4bd6-80b7-02218d4ca247",
+  "vendor": "Arturia"
+}

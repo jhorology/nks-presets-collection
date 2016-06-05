@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "Noise Hit",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "01ae6592-d79b-4786-97ec-ae236597f4ca",
+  "vendor": "Arturia"
+}

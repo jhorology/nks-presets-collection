@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Noise"],
+  "name": "Train 2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "63eb9606-6a45-46fa-8b10-2596b5a98736",
+  "vendor": "Arturia"
+}

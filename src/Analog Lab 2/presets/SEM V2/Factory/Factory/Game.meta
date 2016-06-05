@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Game",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "06cd858f-1a8a-4fab-8dd0-7e5cb4db103a",
+  "vendor": "Arturia"
+}

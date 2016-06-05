@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Syn Toms",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "2e1c6e31-7b7e-4247-9616-c4bfb56e4408",
+  "vendor": "Arturia"
+}

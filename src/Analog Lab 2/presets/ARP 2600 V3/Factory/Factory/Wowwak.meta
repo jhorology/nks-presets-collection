@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Evolving"],
+  "name": "Wowwak",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "46f728cb-5c43-401a-82af-b90eb9b67cff",
+  "vendor": "Arturia"
+}

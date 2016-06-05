@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble", "Simple"],
+  "name": "Jeanne d'Arc",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "52907084-d385-4e40-bb3b-dfb28b379a5a",
+  "vendor": "Arturia"
+}

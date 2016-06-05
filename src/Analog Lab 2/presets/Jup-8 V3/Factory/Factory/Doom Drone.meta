@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Quiet"],
+  "name": "Doom Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ccaa4f03-69dd-4512-b35f-9b954f0641d8",
+  "vendor": "Arturia"
+}

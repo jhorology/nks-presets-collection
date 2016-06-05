@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Hard"],
+  "name": "Elektro Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "21aa0ed7-1de6-42fa-ac96-b4f92f3aeffb",
+  "vendor": "Arturia"
+}

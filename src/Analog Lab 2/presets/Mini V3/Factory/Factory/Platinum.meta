@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Platinum",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c8619915-6de7-43f1-8ccf-839c3f8d8098",
+  "vendor": "Arturia"
+}

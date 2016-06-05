@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Luck",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fc85da51-c00b-46e0-a3a0-b38e33d44833",
+  "vendor": "Arturia"
+}

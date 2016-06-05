@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Digital plucked sound showcasing Prophet's wavetable abilities.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital"],
+  "name": "Fact93",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "45bc68c8-e7bc-4f0d-ad07-58ae784aeeeb",
+  "vendor": "Arturia"
+}

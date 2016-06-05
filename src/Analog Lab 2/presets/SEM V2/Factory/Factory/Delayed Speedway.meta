@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Soundtrack"],
+  "name": "Delayed Speedway",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "65417e0c-e1d7-4510-9203-614f2b55a3c3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Hard", "Short"],
+  "name": "XyloConga",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "70c9ad28-7087-431d-9f0d-e84e7a3cdcbe",
+  "vendor": "Arturia"
+}

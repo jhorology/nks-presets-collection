@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Clean This Dirt",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "22e4637b-190a-41e4-addb-0755aba37b7d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Dramatic heavy saw wave pad with a singing sine tone from a resonant ladder filter sweeping downward in pitch octaves above the base frequency.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Underwalli",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9910cca7-8747-4a04-afdc-6639f464d156",
+  "vendor": "Arturia"
+}

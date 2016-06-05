@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "In Big",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "32e02122-7e7c-4860-80e3-f5dccdd5dc7e",
+  "vendor": "Arturia"
+}

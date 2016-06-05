@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hollow pad sound with a shimmer in the middle. The velocity modulates the timbre as well as the envelope attack to make it more dynamic.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Hollow Body",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a3253837-052d-40a9-afa2-5be7a9bdc3e8",
+  "vendor": "Arturia"
+}

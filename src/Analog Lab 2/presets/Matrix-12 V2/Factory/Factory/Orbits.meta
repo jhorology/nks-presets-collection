@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Percussive, delay based stabs with noise ricocheting in via the reverb.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Orbits",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "43ea4e57-9a87-43de-a198-1d0f16457e56",
+  "vendor": "Arturia"
+}

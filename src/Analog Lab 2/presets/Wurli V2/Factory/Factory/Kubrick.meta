@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Bright", "Soundtrack"],
+  "name": "Kubrick",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9ab7d5f8-8aa4-499d-a1a4-85f66a16c50e",
+  "vendor": "Arturia"
+}

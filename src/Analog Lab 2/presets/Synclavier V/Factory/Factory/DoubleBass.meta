@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "based loosely on upright acoustic bass. MOD WHEEL-decrease FM amount for a simpler bass sound AFTERTOUCH-vibrato",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky"],
+  "name": "DoubleBass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1ffde2f8-8e93-443b-8019-dff1e7d7121b",
+  "vendor": "Arturia"
+}

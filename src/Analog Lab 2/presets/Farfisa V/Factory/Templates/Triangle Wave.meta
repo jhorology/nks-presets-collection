@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Triangle Wave",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0dbc6eb4-aa80-4f39-80aa-0dc0a8f4515c",
+  "vendor": "Arturia"
+}

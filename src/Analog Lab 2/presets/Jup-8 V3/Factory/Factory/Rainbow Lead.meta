@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Hard"],
+  "name": "Rainbow Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "78541f02-f89f-4333-8914-474d7c27aab7",
+  "vendor": "Arturia"
+}

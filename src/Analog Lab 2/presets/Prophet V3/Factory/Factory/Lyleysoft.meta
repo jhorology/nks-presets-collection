@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Lyleysoft",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1ac05cc4-9cd2-454d-9546-cbac205ea488",
+  "vendor": "Arturia"
+}

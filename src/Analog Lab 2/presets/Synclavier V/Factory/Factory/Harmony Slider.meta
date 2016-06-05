@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a sort of soft metalic syn hit that rises in pitch when held",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Harmony Slider",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a7d1fb0e-19ca-40df-9550-e2a87cebaa36",
+  "vendor": "Arturia"
+}

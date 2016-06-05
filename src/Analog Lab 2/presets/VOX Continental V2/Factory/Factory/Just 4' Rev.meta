@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Just 4' Rev",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "4be3f4cc-5fcd-4199-a2a0-5ca395295ddc",
+  "vendor": "Arturia"
+}

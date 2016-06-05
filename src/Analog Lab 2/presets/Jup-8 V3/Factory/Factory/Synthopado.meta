@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Synthopado",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b843ab87-14e8-4ed6-975a-fc7de4fc7e98",
+  "vendor": "Arturia"
+}

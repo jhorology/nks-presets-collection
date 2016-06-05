@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Franged HH",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "239dd399-ed1c-4041-98c3-3e016fb96291",
+  "vendor": "Arturia"
+}

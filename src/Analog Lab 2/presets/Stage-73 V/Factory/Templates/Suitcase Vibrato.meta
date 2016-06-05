@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Templates"],
+  "comment": "Fast vibrato on this suitcase (with its own amplification system) version.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Suitcase Vibrato",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ca1dcca4-7ba6-4630-b970-92969adc9ef2",
+  "vendor": "Arturia"
+}

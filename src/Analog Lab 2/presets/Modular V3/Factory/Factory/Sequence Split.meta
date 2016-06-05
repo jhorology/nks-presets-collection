@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Sequence Split",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cd19548b-34e4-4fd0-a904-a75fe591b9b4",
+  "vendor": "Arturia"
+}

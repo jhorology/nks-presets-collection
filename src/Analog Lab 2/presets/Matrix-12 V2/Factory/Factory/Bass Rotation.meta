@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Bass Rotation",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d1804dae-c0cb-42bb-a8b2-9d3f04d9fa07",
+  "vendor": "Arturia"
+}

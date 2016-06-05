@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Pro5 46-RandomArpegg",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dc327ab3-5b00-40cc-be3b-2d6821758636",
+  "vendor": "Arturia"
+}

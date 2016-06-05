@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Three octave stacked square waves with some gentle LFO modulation. Rich timbre, almost oscillator sync. Very playable.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Oxegen",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "47b39c62-e752-4bab-a744-cb61df91dd62",
+  "vendor": "Arturia"
+}

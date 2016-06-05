@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "TD-Able",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "e2e551a0-6140-446b-ae61-51fbe1ae1560",
+  "vendor": "Arturia"
+}

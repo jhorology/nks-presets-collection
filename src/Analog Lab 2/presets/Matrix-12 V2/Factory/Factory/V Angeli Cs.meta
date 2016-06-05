@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "V Angeli Cs",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "e89beb64-b99b-4fc2-b9d7-947b06f4c714",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Quiet"],
+  "name": "Taullaby",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "067fa1b0-cea5-49d5-9eb5-22a733c26949",
+  "vendor": "Arturia"
+}

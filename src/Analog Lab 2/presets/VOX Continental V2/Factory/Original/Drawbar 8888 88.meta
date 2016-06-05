@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "Classic VOX tone with all the drawbar activated.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Drawbar 8888 88",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ccd37ca5-89f4-4bad-9809-ac81fa9ed606",
+  "vendor": "Arturia"
+}

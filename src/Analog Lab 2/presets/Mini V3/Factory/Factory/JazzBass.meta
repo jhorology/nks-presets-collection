@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "JazzBass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e10efff9-c730-48da-884f-272b8f9c95e7",
+  "vendor": "Arturia"
+}

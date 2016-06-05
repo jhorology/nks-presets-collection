@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soundtrack"],
+  "name": "Phaser Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "47d54c0f-c7d4-4ec7-a74f-2e2c2e285a49",
+  "vendor": "Arturia"
+}

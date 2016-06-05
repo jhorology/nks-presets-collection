@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "80's Trip",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d242e65f-261e-4c39-b6c9-f3efa5a9c72d",
+  "vendor": "Arturia"
+}

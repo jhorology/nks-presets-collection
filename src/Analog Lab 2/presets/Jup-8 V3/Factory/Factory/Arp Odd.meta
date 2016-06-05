@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Arpeggiated octave. Sounds slightly off when played in the lower register.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Arp Odd",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ef8690b2-025c-4ef8-badf-8dd15d7fa429",
+  "vendor": "Arturia"
+}

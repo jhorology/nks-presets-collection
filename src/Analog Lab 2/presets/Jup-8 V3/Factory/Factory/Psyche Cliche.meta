@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard"],
+  "name": "Psyche Cliche",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2344d763-3c49-426d-b5d8-e5650e190f0c",
+  "vendor": "Arturia"
+}

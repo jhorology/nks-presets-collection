@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Dual Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "08b8b3f6-b90a-4c59-97d9-e8d7eebc4f7f",
+  "vendor": "Arturia"
+}

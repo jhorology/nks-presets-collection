@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a bright phasing sound with a layered lfo harmony",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Red Runner",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b939b8a7-027e-489f-bd33-92d6b6260728",
+  "vendor": "Arturia"
+}

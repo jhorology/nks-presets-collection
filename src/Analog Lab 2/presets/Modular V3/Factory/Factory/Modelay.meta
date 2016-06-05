@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Modelay",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9e4e9048-7c9c-4cde-8ef2-048b235010d2",
+  "vendor": "Arturia"
+}

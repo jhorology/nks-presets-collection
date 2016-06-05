@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Underwater burbling ambience made by filtering white noise and complex waveforms.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Evolving"],
+  "name": "Deep Down",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d2194bef-0db3-41a5-8426-b8e222ec90b1",
+  "vendor": "Arturia"
+}

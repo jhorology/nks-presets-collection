@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Low Wow",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a809ee48-9cd2-4785-8925-b59fdd8c40e7",
+  "vendor": "Arturia"
+}

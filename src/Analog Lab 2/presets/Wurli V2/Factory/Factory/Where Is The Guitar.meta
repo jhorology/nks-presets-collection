@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Soundtrack"],
+  "name": "Where Is The Guitar",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b5ab19e7-0442-4640-94c8-6f7cad2072dd",
+  "vendor": "Arturia"
+}

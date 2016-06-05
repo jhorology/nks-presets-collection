@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Apocalypse",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0bbff24c-bc4a-40f1-bf8e-3890472f167a",
+  "vendor": "Arturia"
+}

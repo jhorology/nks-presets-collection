@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soundtrack", "Quiet"],
+  "name": "Tasper",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "00e0507b-21b9-49c6-8816-4db38738668e",
+  "vendor": "Arturia"
+}

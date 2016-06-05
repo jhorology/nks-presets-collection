@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Destructiv",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "bd81ba33-8b44-4048-af4a-50d5c8760f27",
+  "vendor": "Arturia"
+}

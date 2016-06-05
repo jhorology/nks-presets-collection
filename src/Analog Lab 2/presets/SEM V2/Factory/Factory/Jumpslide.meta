@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Jumpslide",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b5034600-4f61-4873-a8d5-e768aedbc6e0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Liquid Bounce",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6d06c32f-5dff-44da-8516-bcf7a5894ffb",
+  "vendor": "Arturia"
+}

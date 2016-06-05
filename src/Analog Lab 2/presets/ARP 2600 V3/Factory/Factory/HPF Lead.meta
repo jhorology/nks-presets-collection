@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "HPF Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "80e97811-fac5-4702-9714-b1ea50e47c2b",
+  "vendor": "Arturia"
+}

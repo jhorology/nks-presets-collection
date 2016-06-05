@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Short"],
+  "name": "Resinator",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ee2643a8-7249-47cf-b7f4-2a709f17b544",
+  "vendor": "Arturia"
+}

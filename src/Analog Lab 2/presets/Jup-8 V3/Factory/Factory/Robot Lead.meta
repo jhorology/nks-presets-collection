@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky"],
+  "name": "Robot Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9ab57b9d-36d5-40b5-b807-72e34f14cf70",
+  "vendor": "Arturia"
+}

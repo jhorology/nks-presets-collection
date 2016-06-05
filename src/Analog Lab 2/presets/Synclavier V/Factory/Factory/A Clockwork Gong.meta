@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' M..g modular gong sound in A Clockwork Orange title music. MOD WHEEL - very wide range of bell and gong timbres via FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Noise", "Evolving"],
+  "name": "A Clockwork Gong",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "166c610d-9de6-4c5e-ac88-4e257edd4c92",
+  "vendor": "Arturia"
+}

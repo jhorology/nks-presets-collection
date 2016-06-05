@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Distortorganic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2d5deb76-fe11-45c4-8b86-4fc04524a8b4",
+  "vendor": "Arturia"
+}

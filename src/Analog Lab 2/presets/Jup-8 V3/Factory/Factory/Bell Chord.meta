@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Deep and soft ambient pad sound. Aftertouch modulates the filter.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Quiet"],
+  "name": "Bell Chord",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2a232bdf-6cad-43a6-92e5-dfa48f229926",
+  "vendor": "Arturia"
+}

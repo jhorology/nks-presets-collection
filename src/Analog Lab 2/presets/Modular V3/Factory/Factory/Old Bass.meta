@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Old Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f9a8aa34-0d70-4c1f-845f-54a0be458e3b",
+  "vendor": "Arturia"
+}

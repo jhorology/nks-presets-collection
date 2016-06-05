@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice 80's keys in a new wave style with modulation and reverb-delay. Modwheel controlled chorus.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Simple"],
+  "name": "Sweet Syncdelay",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "45fe01c7-0fb4-4755-a8dd-f1aa87fcd3ee",
+  "vendor": "Arturia"
+}

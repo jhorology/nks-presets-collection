@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Ambienone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a2dd21f4-ba9f-42fe-a6ff-3924835f1345",
+  "vendor": "Arturia"
+}

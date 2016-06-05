@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "80s Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ea6b9caa-b33b-477e-83dc-ae5c780ca670",
+  "vendor": "Arturia"
+}

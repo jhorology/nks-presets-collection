@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Sulphuric Acid",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "af4c19fd-b114-46be-b205-01bc8bfad554",
+  "vendor": "Arturia"
+}

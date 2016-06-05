@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Huge metallic synth bass with a hard sync timbre.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Metalsync Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ea3c12a3-5749-47ab-a1be-3d04d1a5a52b",
+  "vendor": "Arturia"
+}

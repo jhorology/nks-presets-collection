@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Short"],
+  "name": "Noisy Mooving bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9dd09fba-68e4-484b-b8b9-42f4a29328be",
+  "vendor": "Arturia"
+}

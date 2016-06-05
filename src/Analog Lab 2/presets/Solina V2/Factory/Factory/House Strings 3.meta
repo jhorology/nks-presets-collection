@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble", "Short"],
+  "name": "House Strings 3",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "ba163a76-4615-4fcd-9a57-d7f931c58aa4",
+  "vendor": "Arturia"
+}

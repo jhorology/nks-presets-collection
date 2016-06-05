@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big Sequence with Strange Kick and many dirty sound. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Complex", "Dark"],
+  "name": "Cycling Rotation",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "49ad6ea2-6d9b-4cfb-815c-08fde5ffc6f6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Pads Aveiro",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3b4042fa-72ea-4ce8-bb2f-66332a0fa278",
+  "vendor": "Arturia"
+}

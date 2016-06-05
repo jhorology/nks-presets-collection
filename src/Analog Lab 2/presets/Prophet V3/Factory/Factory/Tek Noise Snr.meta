@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Tek Noise Snr",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0f74ff4b-f6b6-41ca-ba1b-fd780d10eb52",
+  "vendor": "Arturia"
+}

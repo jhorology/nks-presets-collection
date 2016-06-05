@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Clean grand piano in my home studio",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Intimate D",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b78679b2-fa78-4313-80f5-e71d6421af2f",
+  "vendor": "Arturia"
+}

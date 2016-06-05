@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack", "Quiet"],
+  "name": "Underwater",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "63980903-9feb-46a2-8c6e-36da2f9b9519",
+  "vendor": "Arturia"
+}

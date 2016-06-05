@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Roads Tremolo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6a1dc543-7528-4e3c-b6db-d8afbbf8e537",
+  "vendor": "Arturia"
+}

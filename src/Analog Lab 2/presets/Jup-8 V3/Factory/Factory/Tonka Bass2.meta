@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard"],
+  "name": "Tonka Bass2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "755472a6-fea9-4061-8340-8b211efb065b",
+  "vendor": "Arturia"
+}

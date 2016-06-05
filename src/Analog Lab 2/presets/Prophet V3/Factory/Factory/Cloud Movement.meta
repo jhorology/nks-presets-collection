@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Disturbing mono pad that sounds dry and leave some space to the wavetable sound.",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Cloud Movement",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d714b571-7750-4053-8e24-60fb4ca39e80",
+  "vendor": "Arturia"
+}

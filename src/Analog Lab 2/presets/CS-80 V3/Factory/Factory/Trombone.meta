@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Trombone",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "ecf4cb66-11f8-40e5-9184-90a68bc74b36",
+  "vendor": "Arturia"
+}

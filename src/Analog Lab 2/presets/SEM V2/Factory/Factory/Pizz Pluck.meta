@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Pizz Pluck",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "f90c537c-b6a8-4865-8675-68fe14746676",
+  "vendor": "Arturia"
+}

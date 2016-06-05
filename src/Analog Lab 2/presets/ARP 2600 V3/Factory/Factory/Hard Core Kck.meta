@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Hard Core Kck",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "4df13af0-807e-4260-9798-76a42d204dc7",
+  "vendor": "Arturia"
+}

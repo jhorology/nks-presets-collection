@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Punky",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "209d070c-b6fa-4738-9c31-5b4b27504f01",
+  "vendor": "Arturia"
+}

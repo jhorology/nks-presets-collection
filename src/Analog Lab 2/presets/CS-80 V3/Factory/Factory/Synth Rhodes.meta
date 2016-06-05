@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Synth Rhodes",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e2eeaaa2-0cd0-4bcb-92ef-57b234ce68be",
+  "vendor": "Arturia"
+}

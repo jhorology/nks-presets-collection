@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Octone Ghost",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4fafbbf1-0352-44b7-900c-08bc67c05fc4",
+  "vendor": "Arturia"
+}

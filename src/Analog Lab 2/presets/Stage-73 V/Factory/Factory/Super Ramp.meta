@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Super Ramp",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "49b21ff4-dd23-4ff1-b434-fe8eeb9edf89",
+  "vendor": "Arturia"
+}

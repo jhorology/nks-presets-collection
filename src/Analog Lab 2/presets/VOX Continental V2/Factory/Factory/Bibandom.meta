@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Short"],
+  "name": "Bibandom",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f992b9f5-9921-4827-95bb-b28de5d0741a",
+  "vendor": "Arturia"
+}

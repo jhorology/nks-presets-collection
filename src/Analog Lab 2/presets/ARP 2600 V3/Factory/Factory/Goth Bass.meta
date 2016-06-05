@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Goth Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1580c7ab-7c91-4dce-a4e8-b86633919eb0",
+  "vendor": "Arturia"
+}

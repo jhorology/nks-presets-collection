@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Trunkit",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c0826f02-da70-4b36-80ed-f7669a16941c",
+  "vendor": "Arturia"
+}

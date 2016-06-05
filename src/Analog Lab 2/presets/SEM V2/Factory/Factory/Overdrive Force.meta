@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Soundtrack"],
+  "name": "Overdrive Force",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "32c251e5-01d1-46a6-a1ee-c6e430c4b74a",
+  "vendor": "Arturia"
+}

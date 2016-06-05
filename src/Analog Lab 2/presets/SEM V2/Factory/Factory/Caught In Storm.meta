@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Noise"],
+  "name": "Caught In Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "73ccfbaa-67ea-4def-b37a-e4abd54c2db1",
+  "vendor": "Arturia"
+}

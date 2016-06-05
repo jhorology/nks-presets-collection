@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Vintage74",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "41776fe6-4a35-4d4a-b584-33410ae95aa4",
+  "vendor": "Arturia"
+}

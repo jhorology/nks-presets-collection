@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Cheap Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0130f945-1096-42f7-9189-e5593d1c464c",
+  "vendor": "Arturia"
+}

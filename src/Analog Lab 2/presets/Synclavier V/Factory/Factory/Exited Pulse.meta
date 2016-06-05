@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big Sequence with Loud Kick and dirty bass. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Complex"],
+  "name": "Exited Pulse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8908c499-9a4f-444f-a264-61f9e2d4bd59",
+  "vendor": "Arturia"
+}

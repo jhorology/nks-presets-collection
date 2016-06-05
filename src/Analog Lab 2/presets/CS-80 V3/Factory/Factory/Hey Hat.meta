@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Hey Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e07693f9-ff22-45a3-a07c-026d525e3434",
+  "vendor": "Arturia"
+}

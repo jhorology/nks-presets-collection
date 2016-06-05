@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Noise"],
+  "name": "Seaish",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "10f42c11-b58d-4a87-8092-531c13dbb5ab",
+  "vendor": "Arturia"
+}

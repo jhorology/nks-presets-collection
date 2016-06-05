@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Agressive FM synth with repeat arpeggio mode. Modwheel controlled Harmonic envelope & Aftertouch controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Short"],
+  "name": "Mod Rotation",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3f06f9eb-7fa9-4e08-a3bb-ba8f90918636",
+  "vendor": "Arturia"
+}

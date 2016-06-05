@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Same 16-bit Gallop but wetter.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital", "Hard", "Long", "Noise", "Soundtrack"],
+  "name": "Wet Gallop",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cb8b4a94-662a-46af-a51f-efbf55aa692e",
+  "vendor": "Arturia"
+}

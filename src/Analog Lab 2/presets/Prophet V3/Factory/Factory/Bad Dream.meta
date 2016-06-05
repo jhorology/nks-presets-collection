@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Bad Dream",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "df9e0389-68c7-4c73-a830-26fec5078df6",
+  "vendor": "Arturia"
+}

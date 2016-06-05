@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright"],
+  "name": "Sync Wheel Velo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e274abc9-70ce-4b94-b185-2d2b2bc6d302",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Funky"],
+  "name": "Fusion lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ec75270c-9121-4f5e-aab5-1fd556f757c4",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Strange Colors",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2fef50ee-09ba-4b69-8471-e958d98af9e4",
+  "vendor": "Arturia"
+}

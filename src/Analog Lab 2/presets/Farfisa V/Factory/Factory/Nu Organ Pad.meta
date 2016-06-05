@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Nu Organ Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cd4e34f4-845a-44e2-a85a-49ba4a1c46b3",
+  "vendor": "Arturia"
+}

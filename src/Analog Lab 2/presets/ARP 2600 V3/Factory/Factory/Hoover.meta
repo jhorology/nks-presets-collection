@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Hoover",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bfafc2b6-4da3-448f-9b13-736a64a4e459",
+  "vendor": "Arturia"
+}

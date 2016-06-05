@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Rhodes",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5f36aa1e-5410-4aad-8446-b5239e099e9b",
+  "vendor": "Arturia"
+}

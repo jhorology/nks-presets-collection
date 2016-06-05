@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a not so in your face organ that works well for background melodies",
+  "deviceType": "INST",
+  "modes": [],
+  "name": "Organ Bright",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8121d5cb-e9b0-4ba1-a67a-2246d56b0c97",
+  "vendor": "Arturia"
+}

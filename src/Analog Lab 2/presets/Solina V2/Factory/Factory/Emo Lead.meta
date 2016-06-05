@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Simple", "Soft", "Short"],
+  "name": "Emo Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8d011d07-d1f2-4977-8ea9-b5f483da4abb",
+  "vendor": "Arturia"
+}

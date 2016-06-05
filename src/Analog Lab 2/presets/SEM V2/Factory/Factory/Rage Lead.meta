@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Rage Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "613af650-1368-42a0-8572-65717de52951",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Soundtrack", "Quiet"],
+  "name": "Kool G",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ffdf085d-ff85-4f7f-949a-2e08da676cb3",
+  "vendor": "Arturia"
+}

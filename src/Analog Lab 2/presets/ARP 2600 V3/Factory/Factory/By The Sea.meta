@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "By The Sea",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "22f356d8-216e-4963-a87f-2c2a91ec50d7",
+  "vendor": "Arturia"
+}

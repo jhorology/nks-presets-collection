@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Front end like a knocking sound with deep resonant 'wow' envelope. Mod wheel adds brightness and vibrato.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark"],
+  "name": "Go To Sub Freq",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "721f7064-d60a-4a14-affa-9080c9d5e8ec",
+  "vendor": "Arturia"
+}

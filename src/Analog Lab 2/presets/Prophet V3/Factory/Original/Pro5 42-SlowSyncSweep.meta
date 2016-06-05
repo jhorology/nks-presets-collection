@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Pro5 42-SlowSyncSweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "63eb6ef2-a530-4650-86ef-304be8a905b6",
+  "vendor": "Arturia"
+}

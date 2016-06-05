@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Basso",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "aef67624-2609-49da-8752-f1a7658dd192",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Rave Screamer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "922c1645-ac4f-4c0c-9ac8-a279c6a19bc2",
+  "vendor": "Arturia"
+}

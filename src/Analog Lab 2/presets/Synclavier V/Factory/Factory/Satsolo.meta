@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "basic yet useful all around phased synth sound",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Simple", "Short"],
+  "name": "Satsolo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "587fb592-a4c5-433f-9281-38a0f46cb3ee",
+  "vendor": "Arturia"
+}

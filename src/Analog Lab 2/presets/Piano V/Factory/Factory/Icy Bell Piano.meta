@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Ice piano straight from the 80s",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Icy Bell Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "33d0d75a-61f8-46fa-9e11-1f0bb850b9eb",
+  "vendor": "Arturia"
+}

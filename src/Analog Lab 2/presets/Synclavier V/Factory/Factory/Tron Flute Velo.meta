@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Wendy Carlos' legendary Tron soundtrack from 1982. She used  DK Synergy systems which share a lot in common with Synclavier's FM synthesis. This Tron flute patch is very responsive to VELOCITY. AFTERTOUCH - tremolo MOD WHEEL - detune.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Soft", "Soundtrack"],
+  "name": "Tron Flute Velo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e481a566-2be7-44f7-97f7-58a63977fa10",
+  "vendor": "Arturia"
+}

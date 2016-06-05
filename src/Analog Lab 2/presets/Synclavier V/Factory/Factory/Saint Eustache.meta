@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very huge church organ",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble", "Simple"],
+  "name": "Saint Eustache",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "b565efa4-dd34-4ee0-b60f-843161cc7f19",
+  "vendor": "Arturia"
+}

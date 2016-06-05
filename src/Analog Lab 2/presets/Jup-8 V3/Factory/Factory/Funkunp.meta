@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Funkunp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ed7d80ad-6b50-4118-a084-ebe040d3e211",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Compu SEQ",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b825d304-f117-4512-97a4-c926723a9250",
+  "vendor": "Arturia"
+}

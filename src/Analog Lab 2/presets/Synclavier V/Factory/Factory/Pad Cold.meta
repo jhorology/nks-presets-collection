@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice soundtrack pad with flanger and reverb. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Pad Cold",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4280ea4e-aebf-4577-ac9e-df003daf677a",
+  "vendor": "Arturia"
+}

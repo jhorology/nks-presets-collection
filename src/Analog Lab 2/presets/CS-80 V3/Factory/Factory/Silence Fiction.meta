@@ -1,0 +1,13 @@
+{
+  "author": "Anthony Gonzales",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long"],
+  "name": "Silence Fiction",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f5e718f6-cb9f-441e-985f-62ec9ca9d4ae",
+  "vendor": "Arturia"
+}

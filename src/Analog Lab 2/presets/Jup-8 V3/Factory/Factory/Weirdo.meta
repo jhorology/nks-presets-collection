@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex"],
+  "name": "Weirdo",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bbec0578-6ac0-4a0c-858a-92053767bcc5",
+  "vendor": "Arturia"
+}

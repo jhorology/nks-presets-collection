@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Keys sound with many harmonics and vibrato.Modwheel controlled FM Ratio & Aftertouch controlled Chorus.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Ensemble"],
+  "name": "Massive Harmo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "84c6c137-4fbd-4431-bdb8-ac2265c12ba0",
+  "vendor": "Arturia"
+}

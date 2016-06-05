@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Accsolaris",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6f32bada-7490-49d7-b212-4d9adec7c6ed",
+  "vendor": "Arturia"
+}

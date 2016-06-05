@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Attacks Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e9a98280-4305-4c89-b52a-50fe9d334a8b",
+  "vendor": "Arturia"
+}

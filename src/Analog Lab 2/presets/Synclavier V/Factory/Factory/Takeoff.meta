@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "FM SFX Noise patch VELOCITY speeds up the takeoff MOD WHEEL increases FM Ratio making the sound noisier.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Digital", "Noise", "Soundtrack", "Evolving"],
+  "name": "Takeoff",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7020b770-fa83-47e9-b1af-ff1e47ec3572",
+  "vendor": "Arturia"
+}

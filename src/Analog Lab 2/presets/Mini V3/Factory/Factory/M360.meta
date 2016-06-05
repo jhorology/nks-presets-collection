@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "M360",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bea1e510-6c52-4eb9-a804-8f54df12e20d",
+  "vendor": "Arturia"
+}

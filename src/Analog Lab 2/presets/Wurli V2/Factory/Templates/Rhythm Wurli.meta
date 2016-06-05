@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Rhythm Wurli",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d1712951-52ca-4ff5-b575-524d434c5b8a",
+  "vendor": "Arturia"
+}

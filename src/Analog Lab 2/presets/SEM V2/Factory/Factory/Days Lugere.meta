@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Days Lugere",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "05fb2018-9f9a-4db8-a3ef-c36d190517f9",
+  "vendor": "Arturia"
+}

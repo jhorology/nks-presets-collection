@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Ensemble", "Soft", "Soundtrack"],
+  "name": "Ambient Drone",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bf557f02-badf-4d66-88d8-f334e9965470",
+  "vendor": "Arturia"
+}

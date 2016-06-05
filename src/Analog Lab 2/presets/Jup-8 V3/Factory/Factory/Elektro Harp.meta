@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Elektro Harp",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e3254351-18e9-4c42-9732-6a92989e7ccd",
+  "vendor": "Arturia"
+}

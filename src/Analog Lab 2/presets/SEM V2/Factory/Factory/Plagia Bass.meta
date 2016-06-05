@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Plagia Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0db52a16-c788-4412-819f-e705a6beff56",
+  "vendor": "Arturia"
+}

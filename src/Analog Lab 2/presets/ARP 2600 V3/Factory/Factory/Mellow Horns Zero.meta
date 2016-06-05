@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Mellow Horns Zero",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "710b1431-1e5d-46fb-9860-0b91a10f806a",
+  "vendor": "Arturia"
+}

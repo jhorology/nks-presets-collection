@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Pulse Echo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "07aedba2-0248-40e2-8122-df857d51d652",
+  "vendor": "Arturia"
+}

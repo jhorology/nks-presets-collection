@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble", "Simple", "Soft", "Short"],
+  "name": "Bubble Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f830c0f5-af6a-446f-bf64-fcd9c9d1e351",
+  "vendor": "Arturia"
+}

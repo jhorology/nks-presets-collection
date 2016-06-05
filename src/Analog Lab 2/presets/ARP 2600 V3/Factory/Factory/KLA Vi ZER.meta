@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "KLA Vi ZER",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9fee6d88-8190-4518-8821-0a64acf59ef6",
+  "vendor": "Arturia"
+}

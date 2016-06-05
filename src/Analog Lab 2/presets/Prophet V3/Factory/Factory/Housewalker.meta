@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "Housewalker",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0fa98944-0c88-4045-abff-df486e97987c",
+  "vendor": "Arturia"
+}

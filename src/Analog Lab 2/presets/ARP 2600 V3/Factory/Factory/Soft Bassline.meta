@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Soft Bassline",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "498cd443-684d-4576-9ce7-df14dfb58fca",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Tide Pad2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "57f5e951-df5d-4589-bb9e-f58bba9384ee",
+  "vendor": "Arturia"
+}

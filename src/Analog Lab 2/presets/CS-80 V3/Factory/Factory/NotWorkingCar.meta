@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft"],
+  "name": "NotWorkingCar",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f1698285-29c1-492b-adca-e7f3a7451a3d",
+  "vendor": "Arturia"
+}

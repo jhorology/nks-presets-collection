@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Violonisation",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a8382bbf-8253-4a72-9e48-d3786803d780",
+  "vendor": "Arturia"
+}

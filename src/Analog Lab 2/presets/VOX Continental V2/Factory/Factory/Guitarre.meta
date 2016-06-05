@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Hard"],
+  "name": "Guitarre",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7d083173-cac5-417a-89d1-e4871700b81b",
+  "vendor": "Arturia"
+}

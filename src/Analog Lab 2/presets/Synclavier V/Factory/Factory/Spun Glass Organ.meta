@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Glassy FM digital organ",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Spun Glass Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "0f7760db-8408-4b0b-92de-4ab4058248d9",
+  "vendor": "Arturia"
+}

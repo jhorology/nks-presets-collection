@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Sound texture made by using complex mixer and pitch modulations.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Sub Machine",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bc246dc3-31ee-46d5-b57e-cf4b4b3363b9",
+  "vendor": "Arturia"
+}

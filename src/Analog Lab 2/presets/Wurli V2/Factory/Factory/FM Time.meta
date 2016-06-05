@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "FM Time",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bc0679ed-c09e-4f44-957b-a98b789e7469",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark"],
+  "name": "Rodin",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2d6f5551-fbff-43a4-a767-c975c049e88f",
+  "vendor": "Arturia"
+}

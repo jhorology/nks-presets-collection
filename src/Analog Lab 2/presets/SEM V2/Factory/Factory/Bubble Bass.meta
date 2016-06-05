@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Bubble Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4ace1c99-ecd3-4fed-b109-8eb12cbbab92",
+  "vendor": "Arturia"
+}

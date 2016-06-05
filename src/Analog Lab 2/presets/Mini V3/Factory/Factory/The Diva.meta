@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "The Diva",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "70199c28-3889-4743-8113-53877d18e943",
+  "vendor": "Arturia"
+}

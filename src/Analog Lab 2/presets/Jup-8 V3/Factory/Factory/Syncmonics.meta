@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Syncmonics",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9dded058-e9f6-497b-8faf-24b09039841f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Ambient Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "95124443-be61-4efe-821d-f6a920d56674",
+  "vendor": "Arturia"
+}

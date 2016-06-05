@@ -1,0 +1,13 @@
+{
+  "author": "Geoff Downes",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Lead Fast",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1893de88-3211-421f-a3bd-9a69c906d5d7",
+  "vendor": "Arturia"
+}

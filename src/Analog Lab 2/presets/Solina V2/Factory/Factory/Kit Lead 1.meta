@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Funky", "Simple", "Soft", "Short"],
+  "name": "Kit Lead 1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "62b8c3c4-699a-4462-8e8c-36cadf78bf97",
+  "vendor": "Arturia"
+}

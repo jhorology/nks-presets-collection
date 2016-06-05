@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Lunar Strings",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "812185ee-92e9-4491-8a2d-29f88cb7ac3a",
+  "vendor": "Arturia"
+}

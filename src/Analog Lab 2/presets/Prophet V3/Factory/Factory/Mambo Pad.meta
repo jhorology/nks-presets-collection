@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Mambo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "14b67a43-87de-44e9-8398-ebbe05fb022f",
+  "vendor": "Arturia"
+}

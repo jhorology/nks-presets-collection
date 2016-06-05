@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short"],
+  "name": "Dome Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6b27f4b5-bb7c-48b7-bf28-299e968e77af",
+  "vendor": "Arturia"
+}

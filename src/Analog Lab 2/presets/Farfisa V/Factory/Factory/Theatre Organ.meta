@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Theatre Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "1ede97ea-a72a-4a60-9225-d1c8afd9e843",
+  "vendor": "Arturia"
+}

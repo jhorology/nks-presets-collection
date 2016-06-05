@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Hard"],
+  "name": "Fifths",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "e0149b54-91e9-4530-89aa-5724ab0760db",
+  "vendor": "Arturia"
+}

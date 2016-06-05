@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft", "Soundtrack"],
+  "name": "Cellophane Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6eab4a7b-e18d-4242-9509-7e6beec6d8e0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Evolving"],
+  "name": "Vibro Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cac4c29f-f5c7-4e58-83a9-f77be758c634",
+  "vendor": "Arturia"
+}

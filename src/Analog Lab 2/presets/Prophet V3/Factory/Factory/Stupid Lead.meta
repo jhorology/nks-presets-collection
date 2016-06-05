@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Stupid Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fa932222-1e41-4bab-89f0-6556cd212994",
+  "vendor": "Arturia"
+}

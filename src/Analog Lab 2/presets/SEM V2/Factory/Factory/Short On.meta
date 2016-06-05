@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Short On",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "622c86c9-d26f-4e02-8b59-a33b0d095bb0",
+  "vendor": "Arturia"
+}

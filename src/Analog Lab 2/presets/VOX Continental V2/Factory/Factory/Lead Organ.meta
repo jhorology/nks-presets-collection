@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Funky", "Short"],
+  "name": "Lead Organ",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3a574399-9bac-457a-9539-7c5873d43d34",
+  "vendor": "Arturia"
+}

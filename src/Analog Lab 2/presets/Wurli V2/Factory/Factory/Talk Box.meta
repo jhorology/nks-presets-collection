@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Funky, with vocal flitering that edges towards full wah-wah pedal. You can hear the 'vocal effect' best on bass notes when it almost becomes a didgeridoo.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Funky"],
+  "name": "Talk Box",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "995a39b1-3d30-43ce-bb10-2075b10e8b58",
+  "vendor": "Arturia"
+}

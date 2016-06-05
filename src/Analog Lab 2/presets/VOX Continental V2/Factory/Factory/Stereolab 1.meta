@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Blaring and lively, a real 'statement' organ when you want the instrument to take center stage. A watery reverb adds to the overall vibe.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex"],
+  "name": "Stereolab 1",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "46d1aa2f-d8df-4a9d-bcad-0897228f9421",
+  "vendor": "Arturia"
+}

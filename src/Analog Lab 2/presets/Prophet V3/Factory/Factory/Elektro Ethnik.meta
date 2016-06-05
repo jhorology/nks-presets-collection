@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Elektro Ethnik",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "89c84e7f-e3ee-4f0a-9d7a-15aaa2f4a89c",
+  "vendor": "Arturia"
+}

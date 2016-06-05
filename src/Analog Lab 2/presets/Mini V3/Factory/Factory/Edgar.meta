@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Edgar",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2f29ed6b-690b-4539-8bf3-3c6e8e3d0651",
+  "vendor": "Arturia"
+}

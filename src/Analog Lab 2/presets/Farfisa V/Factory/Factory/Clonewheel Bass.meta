@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Short"],
+  "name": "Clonewheel Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fd369712-a9a3-4f0f-b7fe-7c9540038ab3",
+  "vendor": "Arturia"
+}

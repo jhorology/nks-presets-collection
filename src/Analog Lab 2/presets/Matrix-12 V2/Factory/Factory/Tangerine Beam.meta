@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Tangerine Beam",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e0decfe8-1271-4ebd-a316-a7d71d6735fd",
+  "vendor": "Arturia"
+}

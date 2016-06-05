@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL - vibrato and stereo tremollo AFTERTOUCH FM amount.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Digital", "Funky", "Hard", "Evolving"],
+  "name": "Leading Edge",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ba69df50-2021-4f1b-b64c-3fc7ba868261",
+  "vendor": "Arturia"
+}

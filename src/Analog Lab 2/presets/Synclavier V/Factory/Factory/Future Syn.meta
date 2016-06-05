@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Lead sound suited to modern house productions. The different partials create a chord like sound within a note. Use the mod-wheel to make it talk a little more.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Bright", "Digital", "Funky", "Hard"],
+  "name": "Future Syn",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "57c4ad24-9a56-41c8-a3a7-e407b1c7fa47",
+  "vendor": "Arturia"
+}

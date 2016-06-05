@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Hard", "Noise"],
+  "name": "Metalhit",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1693e022-5f4b-44dd-97fa-92e3e6cc169b",
+  "vendor": "Arturia"
+}

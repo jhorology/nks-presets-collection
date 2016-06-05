@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Dual Sequences",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2ad2712a-0fdb-49bb-97f7-5054ee0b562d",
+  "vendor": "Arturia"
+}

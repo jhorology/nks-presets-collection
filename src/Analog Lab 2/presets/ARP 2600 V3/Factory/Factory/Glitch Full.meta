@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Glitch Full",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9c67d2ce-1065-4460-a1b7-8b8113c6674a",
+  "vendor": "Arturia"
+}

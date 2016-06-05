@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice bright keys in a new wave-synth pop style with chorus FX. Modwheel controlled chorus pitch.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble"],
+  "name": "Synkeys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "023bd158-bb7a-4558-98f1-f4ac535c708f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Back to Basic",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "82a865ae-2107-41d3-9b01-ade5ddaa9b9a",
+  "vendor": "Arturia"
+}

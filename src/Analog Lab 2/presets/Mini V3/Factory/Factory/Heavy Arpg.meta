@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soundtrack"],
+  "name": "Heavy Arpg",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2678bf04-c073-463e-b63f-d45b8e1bc12a",
+  "vendor": "Arturia"
+}

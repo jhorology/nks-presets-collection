@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Horizon",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ffb23fa5-c389-405e-a323-b11ef4171e94",
+  "vendor": "Arturia"
+}

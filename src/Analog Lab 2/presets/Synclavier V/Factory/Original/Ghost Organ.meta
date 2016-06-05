@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Ghost Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "162ea629-5e1f-44f5-af69-f48d0fce74bd",
+  "vendor": "Arturia"
+}

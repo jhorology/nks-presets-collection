@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Motorbike",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "daf4ecdc-b1c2-48d1-a203-6e1cfb1f46dd",
+  "vendor": "Arturia"
+}

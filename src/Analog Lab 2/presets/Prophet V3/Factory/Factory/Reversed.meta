@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Sweeping filter that stops abruptly with a ping-pong delay on it. The PW is modulated by a triangular LFO when mod wheel is used.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Reversed",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3073d642-415e-4fa2-ac9c-8d36f11bf962",
+  "vendor": "Arturia"
+}

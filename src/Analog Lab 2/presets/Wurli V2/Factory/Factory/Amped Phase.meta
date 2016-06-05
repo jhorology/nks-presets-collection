@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Amped Phase",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f832c722-7bae-42cf-a400-9675300945b2",
+  "vendor": "Arturia"
+}

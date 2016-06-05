@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Filter-sweeping pink noise lies at the heart of this very realistic' jets-flying-overhead' sound (complete with jet engine whine). Mod wheel turns them into helicopters!",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Airport Scene",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e15717f9-110a-435d-94ac-36eee2661ffc",
+  "vendor": "Arturia"
+}

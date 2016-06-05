@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Evolving"],
+  "name": "Objet",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "18af9eb2-234b-4572-9320-cfc542edc943",
+  "vendor": "Arturia"
+}

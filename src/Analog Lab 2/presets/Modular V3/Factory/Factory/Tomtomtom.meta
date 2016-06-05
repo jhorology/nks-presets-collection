@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Tomtomtom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "487814ca-2962-4cde-ae87-73597f226253",
+  "vendor": "Arturia"
+}

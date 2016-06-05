@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hitting sound of the metal thing",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Hard", "Soundtrack"],
+  "name": "Steel frame",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a09502e0-6382-43a2-80e4-ac17a0515148",
+  "vendor": "Arturia"
+}

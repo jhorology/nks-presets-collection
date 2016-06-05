@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard"],
+  "name": "Bass Koln",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "45ea31aa-2e66-451e-9270-8dc42122aadd",
+  "vendor": "Arturia"
+}

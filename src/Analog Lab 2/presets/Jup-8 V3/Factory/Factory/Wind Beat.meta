@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Quiet"],
+  "name": "Wind Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6dffc3e8-edf2-4036-a707-7792079fe79d",
+  "vendor": "Arturia"
+}

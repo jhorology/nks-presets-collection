@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long", "Soft"],
+  "name": "Lost in the Tuning",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "55f501ee-e45b-46d6-95d3-3adab8e9b950",
+  "vendor": "Arturia"
+}

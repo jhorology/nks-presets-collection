@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Big Sub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "89311ba3-a67f-46f1-bc8d-134d4f3d7b38",
+  "vendor": "Arturia"
+}

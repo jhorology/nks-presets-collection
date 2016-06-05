@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Play a B note",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Ensemble"],
+  "name": "Four AM",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "44c6584f-79a8-4d07-9064-fd35f20d17d2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Slow Viola",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3882af67-4cef-453d-8acd-072baea77675",
+  "vendor": "Arturia"
+}

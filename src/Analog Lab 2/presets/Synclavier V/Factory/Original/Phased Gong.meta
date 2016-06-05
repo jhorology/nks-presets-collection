@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "Phased Gong",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e3ca0c1b-b0a9-4d24-901b-ec65e5f15050",
+  "vendor": "Arturia"
+}

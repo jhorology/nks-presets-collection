@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Seq Stuff",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5a1c4f22-edb2-4af2-ab2c-7d7e32a27fb1",
+  "vendor": "Arturia"
+}

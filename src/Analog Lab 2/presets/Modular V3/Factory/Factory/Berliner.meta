@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Gentle percolating sequence with stacked saw waves and warm low pass filter sweep on the Mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Funky"],
+  "name": "Berliner",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "ebeac426-b27d-4d25-8c3f-2de48aead62a",
+  "vendor": "Arturia"
+}

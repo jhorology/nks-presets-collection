@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Mildbrass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "827955c5-4dcf-4cd0-b847-0d40d1a9af20",
+  "vendor": "Arturia"
+}

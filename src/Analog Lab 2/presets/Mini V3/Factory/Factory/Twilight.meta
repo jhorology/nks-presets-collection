@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Twilight",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ab0845f6-7ac8-4ffb-9e5e-800fcbae55f1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Winter Solstice",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ad70fcab-bc40-4701-8165-e0c48550df5b",
+  "vendor": "Arturia"
+}

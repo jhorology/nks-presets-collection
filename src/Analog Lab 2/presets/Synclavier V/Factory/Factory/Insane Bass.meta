@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very evil and vivious bass. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Hard", "Long"],
+  "name": "Insane Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6caf283c-0242-4afb-840f-4eb65b4a1e16",
+  "vendor": "Arturia"
+}

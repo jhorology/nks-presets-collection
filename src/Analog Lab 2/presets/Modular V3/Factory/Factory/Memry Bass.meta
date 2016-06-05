@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Growling and brassy bass sound. Subtle pitch modulation via LFO as well as a dramatic pitch bend of one oscillator from the Mod wheel provide expression.",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Memry Bass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "1dd6549a-9cdf-4679-975d-dea466098dad",
+  "vendor": "Arturia"
+}

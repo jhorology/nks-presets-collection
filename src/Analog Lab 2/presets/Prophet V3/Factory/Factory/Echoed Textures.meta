@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Echoed Textures",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7c4be1f0-7c60-4835-a5e4-23ce8b183278",
+  "vendor": "Arturia"
+}

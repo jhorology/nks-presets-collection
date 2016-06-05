@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Brass Section",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "e0bbe52a-340f-450f-9bda-2144613a837e",
+  "vendor": "Arturia"
+}

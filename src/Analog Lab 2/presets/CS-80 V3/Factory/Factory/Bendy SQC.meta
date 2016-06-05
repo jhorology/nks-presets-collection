@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Bendy SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "088275c7-9e28-4feb-a09f-d89dbfd507fc",
+  "vendor": "Arturia"
+}

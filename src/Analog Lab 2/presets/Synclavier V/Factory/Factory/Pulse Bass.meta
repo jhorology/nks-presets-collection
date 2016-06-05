@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big dirty bass with repeat arpeggio mode. Modwheel controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Pulse Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3c08e68a-ca97-4724-808b-eb452dd22fde",
+  "vendor": "Arturia"
+}

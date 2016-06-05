@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Soft Velo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b28bc4dc-e7ca-45f3-b45b-c609f85bbae7",
+  "vendor": "Arturia"
+}

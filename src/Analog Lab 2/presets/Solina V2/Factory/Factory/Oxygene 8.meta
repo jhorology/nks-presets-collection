@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Wide phasing and stereo delay on this thick string pad.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Long", "Soundtrack"],
+  "name": "Oxygene 8",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "66d73ee7-3c1d-4457-9771-21a3711e210c",
+  "vendor": "Arturia"
+}

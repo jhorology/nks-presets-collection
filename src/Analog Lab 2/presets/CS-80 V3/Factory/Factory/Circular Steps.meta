@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Circular Steps",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "7578ea04-1027-4b97-bc97-74dc8907809d",
+  "vendor": "Arturia"
+}

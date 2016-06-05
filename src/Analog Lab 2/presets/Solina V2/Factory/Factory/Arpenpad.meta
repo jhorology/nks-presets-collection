@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Heroic horns with some interesting wobble / delay that turns into full arpeggiation on held chords.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Arpenpad",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1dffe956-d8ce-4f7a-9a02-6fd5ae6df523",
+  "vendor": "Arturia"
+}

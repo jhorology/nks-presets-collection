@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Long"],
+  "name": "Randarise",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ed1a23c9-4279-4292-959e-e84747f0095a",
+  "vendor": "Arturia"
+}

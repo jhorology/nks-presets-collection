@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Thin and light with a skipping multiple delay.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Short"],
+  "name": "Cycling Vib",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "37ae0d25-9eda-4d46-97d4-f83fafad796c",
+  "vendor": "Arturia"
+}

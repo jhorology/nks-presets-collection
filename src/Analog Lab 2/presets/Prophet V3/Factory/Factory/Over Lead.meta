@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Over Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e17b8adb-e07f-49f0-9a67-fb4b74c2ed28",
+  "vendor": "Arturia"
+}

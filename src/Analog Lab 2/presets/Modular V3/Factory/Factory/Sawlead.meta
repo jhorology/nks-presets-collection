@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Soft"],
+  "name": "Sawlead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8e390b93-765f-4bdb-b565-5d248d65ccdf",
+  "vendor": "Arturia"
+}

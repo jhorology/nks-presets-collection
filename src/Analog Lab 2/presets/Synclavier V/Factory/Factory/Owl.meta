@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise", "Simple"],
+  "name": "Owl",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9f02d139-ef21-41b5-b593-0770a335eb92",
+  "vendor": "Arturia"
+}

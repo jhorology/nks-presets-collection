@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "When A Man",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "dd477608-27d9-415b-8eb2-64af3679bfad",
+  "vendor": "Arturia"
+}

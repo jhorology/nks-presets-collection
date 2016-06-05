@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Clouds",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1cd4007d-e6fe-40a5-8364-15e3dbde2b25",
+  "vendor": "Arturia"
+}

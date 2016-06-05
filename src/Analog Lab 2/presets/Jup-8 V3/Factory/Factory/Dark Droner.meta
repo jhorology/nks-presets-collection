@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Ambient evolving space pad. Makes a very nice dark drone when a cluster is played in the lower register.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Evolving"],
+  "name": "Dark Droner",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6de1b6a2-b0b2-4089-8160-00960aa5dc6d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Running Chick",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fad6cf79-8fb7-4dae-b899-ef99fec23155",
+  "vendor": "Arturia"
+}

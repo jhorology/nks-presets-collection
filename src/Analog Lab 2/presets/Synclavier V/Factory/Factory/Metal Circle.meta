@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Metallic percussive FM with repeat arpeggio mode and dubdelay. Modwheel controlled Tuning & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Metal Circle",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "98a1972e-5abc-4310-93cd-8edf627887fd",
+  "vendor": "Arturia"
+}

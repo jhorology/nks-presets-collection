@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Fast Leslie",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "20f969a1-a20a-439c-98c5-9b01db221ec8",
+  "vendor": "Arturia"
+}

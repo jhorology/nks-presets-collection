@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Hold the keys",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Simple", "Soft", "Soundtrack", "Quiet"],
+  "name": "Bounce",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6acc8b15-90b3-4fdb-b393-dd0db639250b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "Velo Filter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a2238482-2db0-4f86-bf88-8f6c83299765",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble"],
+  "name": "Aquatic Daylight",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dc7a1076-9248-475a-aac1-00b7dcd592c0",
+  "vendor": "Arturia"
+}

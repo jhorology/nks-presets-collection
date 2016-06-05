@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Polyphonic standard sawtooth, with detune. Fairly static synth strings sound.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long"],
+  "name": "OBX Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c2db1e87-679f-492e-8ebb-2cef7a85137f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Creeping Man",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "987129c4-5ea4-4a6e-a917-d80e7011f4a0",
+  "vendor": "Arturia"
+}

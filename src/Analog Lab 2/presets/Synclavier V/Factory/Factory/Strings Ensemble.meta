@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A plenty of rosin on the bows",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Ensemble", "Long", "Soundtrack"],
+  "name": "Strings Ensemble",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "273ad24e-ad26-421f-9760-ac5cb9e82c40",
+  "vendor": "Arturia"
+}

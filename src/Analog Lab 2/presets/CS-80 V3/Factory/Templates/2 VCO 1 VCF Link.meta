@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "2 VCO 1 VCF Link",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b2dfe20d-782a-4dff-ab32-9ffb968fd7f9",
+  "vendor": "Arturia"
+}

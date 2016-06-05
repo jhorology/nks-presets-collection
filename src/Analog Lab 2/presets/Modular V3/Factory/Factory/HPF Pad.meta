@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "HPF Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8fb176a8-4907-4e8f-97e3-a884fdc0f1dd",
+  "vendor": "Arturia"
+}

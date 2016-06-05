@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Trumpet-like pad sound. Mod wheel controls filter modulation amount.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Gentle Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3085908b-4b30-4ce2-95e1-906db14e0026",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Old Scool Tek",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "02ea4577-2bff-4725-ab42-4f839f64bc35",
+  "vendor": "Arturia"
+}

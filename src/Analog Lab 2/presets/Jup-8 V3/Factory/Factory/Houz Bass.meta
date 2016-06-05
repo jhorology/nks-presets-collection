@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Short"],
+  "name": "Houz Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a70b8c44-d60f-45b2-99f6-3df3cec57982",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Space Casino",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ff98e399-e2f3-487c-9b3a-274d2cff8189",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Supersew",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3ceaa217-50ee-440d-a361-3a8cab20e916",
+  "vendor": "Arturia"
+}

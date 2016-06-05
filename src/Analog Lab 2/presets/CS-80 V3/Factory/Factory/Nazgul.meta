@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Nazgul",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b22784c1-29ad-4548-9391-96aa4108185a",
+  "vendor": "Arturia"
+}

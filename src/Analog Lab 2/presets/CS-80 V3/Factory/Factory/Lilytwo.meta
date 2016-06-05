@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Lilytwo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "36d25b87-52ef-477e-8cfd-f96f25169b4c",
+  "vendor": "Arturia"
+}

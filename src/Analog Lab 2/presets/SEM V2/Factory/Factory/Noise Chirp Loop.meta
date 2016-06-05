@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Noise Chirp Loop",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d1a765d5-d3c7-4b97-aa55-910e056480f2",
+  "vendor": "Arturia"
+}

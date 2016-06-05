@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Syn Clavi",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "00167af9-1e5f-4437-8ad9-e6db5d41137a",
+  "vendor": "Arturia"
+}

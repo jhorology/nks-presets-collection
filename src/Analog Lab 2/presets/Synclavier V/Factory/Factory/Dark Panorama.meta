@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atmospheric pad with open filter effect. Modwheel controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark", "Digital", "Ensemble", "Hard", "Soundtrack"],
+  "name": "Dark Panorama",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "49123319-b16f-48f7-97f2-26e9faecb546",
+  "vendor": "Arturia"
+}

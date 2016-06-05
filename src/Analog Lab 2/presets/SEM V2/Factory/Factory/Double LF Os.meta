@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Double LF Os",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "de6bae82-7c3d-4bd3-807f-cee214f563bc",
+  "vendor": "Arturia"
+}

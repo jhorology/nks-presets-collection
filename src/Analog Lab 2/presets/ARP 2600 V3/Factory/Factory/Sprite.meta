@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Sprite",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9725f56c-e86f-438b-aff1-c30e5ccb58df",
+  "vendor": "Arturia"
+}

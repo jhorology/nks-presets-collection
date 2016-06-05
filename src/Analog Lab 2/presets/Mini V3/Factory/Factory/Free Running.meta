@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Long"],
+  "name": "Free Running",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5215d70b-48e1-4739-9ecd-e0615bf97283",
+  "vendor": "Arturia"
+}

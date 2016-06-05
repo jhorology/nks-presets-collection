@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky", "Noise"],
+  "name": "Pressure Release",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8af548ec-7297-4f5a-8bcd-b3415d9d9b7d",
+  "vendor": "Arturia"
+}

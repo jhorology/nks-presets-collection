@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Waiting 4 Girl",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "60a77fe7-01c1-4c1e-98e0-a17cb6345d9c",
+  "vendor": "Arturia"
+}

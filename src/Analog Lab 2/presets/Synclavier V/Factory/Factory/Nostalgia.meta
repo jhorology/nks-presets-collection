@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Combines the lush side of synclavier with the FM-side for a easy-going bell pad. The bell-side is more velocity sensitive that the pad - and the mod-wheel will spice things up a little.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Long", "Simple", "Soft"],
+  "name": "Nostalgia",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "928d9e7e-5e9e-4270-a3a2-d420fc6514fb",
+  "vendor": "Arturia"
+}

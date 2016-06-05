@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Deep and moody. An intimate tone that will work well for solo performances or songs based around a Wurli sound. Minimal vibrato.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft", "Quiet"],
+  "name": "DarkBallad",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ce27e91c-ec7d-4e15-aacf-fa5b22b065f8",
+  "vendor": "Arturia"
+}

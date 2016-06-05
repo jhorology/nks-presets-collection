@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Organ Resonator",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f776aa60-4918-4a82-8d24-9ccb0c8e5c75",
+  "vendor": "Arturia"
+}

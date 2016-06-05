@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise", "Quiet"],
+  "name": "Bovine",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "19f5fa1d-d349-406a-ab01-e983c8082892",
+  "vendor": "Arturia"
+}

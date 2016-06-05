@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Dense pulse wave string patch with just a hint of reverb. A good prog rock voice.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Pulstrings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7f508931-97d7-4b6a-81a7-767296c2ae45",
+  "vendor": "Arturia"
+}

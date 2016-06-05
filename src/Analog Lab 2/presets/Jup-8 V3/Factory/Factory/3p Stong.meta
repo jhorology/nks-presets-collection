@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Soundtrack"],
+  "name": "3p Stong",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a705b27f-28aa-4f26-9d5e-06b1aa71b409",
+  "vendor": "Arturia"
+}

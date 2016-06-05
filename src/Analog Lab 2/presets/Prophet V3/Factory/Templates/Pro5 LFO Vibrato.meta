@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Pro5 LFO Vibrato",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3d893473-9393-404c-ba9e-2f90a725bc67",
+  "vendor": "Arturia"
+}

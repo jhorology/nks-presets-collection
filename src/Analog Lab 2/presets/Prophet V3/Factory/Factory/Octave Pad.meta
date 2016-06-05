@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Octave Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3f29140c-93c9-4b46-8e5f-9bf72575b9c9",
+  "vendor": "Arturia"
+}

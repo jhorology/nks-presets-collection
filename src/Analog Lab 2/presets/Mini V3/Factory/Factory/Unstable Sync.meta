@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Unstable Sync",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c6c5bd3d-5807-4159-9634-d276d27d14ed",
+  "vendor": "Arturia"
+}

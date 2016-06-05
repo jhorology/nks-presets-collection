@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Whaw Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dcf396fd-9b1f-43fa-ae55-e54016d80efc",
+  "vendor": "Arturia"
+}

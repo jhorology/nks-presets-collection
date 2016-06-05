@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Wave Morph",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3ce0ad68-2bab-4457-b827-d3c10d272335",
+  "vendor": "Arturia"
+}

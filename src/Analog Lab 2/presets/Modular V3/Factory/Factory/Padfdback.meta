@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Padfdback",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ed21a655-8714-4a5c-b3d1-fd0cc7d0f0ab",
+  "vendor": "Arturia"
+}

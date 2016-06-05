@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bell Air",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b5987d66-347c-45f4-9127-e9f562c57597",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble", "Short"],
+  "name": "Auto Accomp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "89cf8960-f598-462b-8364-d1b9e4785e8a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "S&H Treble",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "21129c6f-e203-4016-9bc8-5db480c4b520",
+  "vendor": "Arturia"
+}

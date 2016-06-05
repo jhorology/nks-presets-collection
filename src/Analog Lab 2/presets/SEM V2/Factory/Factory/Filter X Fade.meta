@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Soundtrack"],
+  "name": "Filter X Fade",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b5c9d55f-8cc5-4563-8b6b-b12f071167ee",
+  "vendor": "Arturia"
+}

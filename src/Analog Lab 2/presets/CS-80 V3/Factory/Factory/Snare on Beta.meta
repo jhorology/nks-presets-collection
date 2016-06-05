@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Snare on Beta",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "39902bac-97a9-48f1-9f60-a9c0e05c85d7",
+  "vendor": "Arturia"
+}

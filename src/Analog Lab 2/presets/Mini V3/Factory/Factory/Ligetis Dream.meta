@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soft"],
+  "name": "Ligetis Dream",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "11e7eb7c-e23c-4426-adf5-6051107d38ef",
+  "vendor": "Arturia"
+}

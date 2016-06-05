@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft"],
+  "name": "Dot",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c0c503f1-aae1-431b-81df-0ae4a53fbb06",
+  "vendor": "Arturia"
+}

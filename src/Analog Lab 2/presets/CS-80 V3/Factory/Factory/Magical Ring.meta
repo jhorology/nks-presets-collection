@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Magical Ring",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1ea48f1e-9dd5-4548-9a01-42abb1ee2985",
+  "vendor": "Arturia"
+}

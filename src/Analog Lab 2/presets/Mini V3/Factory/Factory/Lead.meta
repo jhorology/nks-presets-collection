@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a8cc7f43-a5c7-4648-8b0a-599278c87d20",
+  "vendor": "Arturia"
+}

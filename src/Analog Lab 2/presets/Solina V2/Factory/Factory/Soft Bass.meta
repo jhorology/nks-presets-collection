@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Quiet", "Short"],
+  "name": "Soft Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "86a377f0-ee26-4ce9-b475-247c73ce3ee0",
+  "vendor": "Arturia"
+}

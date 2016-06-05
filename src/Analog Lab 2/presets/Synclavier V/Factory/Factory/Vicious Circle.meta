@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving dirty timbre with a partials morphing. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Hard", "Evolving"],
+  "name": "Vicious Circle",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b81852a7-3934-4cde-927b-dd78ad5f053b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Bassy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5cfcf127-ac5d-4b88-9b45-282f52cff6b5",
+  "vendor": "Arturia"
+}

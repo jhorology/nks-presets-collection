@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble"],
+  "name": "Gloomy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a0e8d8fc-ac7f-4c4c-b5c8-c70c01cd8839",
+  "vendor": "Arturia"
+}

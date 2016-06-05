@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Chords",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c5586398-5ba3-4362-a69a-731e35b6e6e3",
+  "vendor": "Arturia"
+}

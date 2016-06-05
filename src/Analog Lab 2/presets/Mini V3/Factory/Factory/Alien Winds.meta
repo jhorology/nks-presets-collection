@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Alien Winds",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f458fb0e-13fd-477c-93c3-f526546e0eb9",
+  "vendor": "Arturia"
+}

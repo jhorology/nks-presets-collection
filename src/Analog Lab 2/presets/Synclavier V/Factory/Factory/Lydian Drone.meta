@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Best experienced by holding a note in the low-medium register. Mod wheel controls speed",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack", "Quiet"],
+  "name": "Lydian Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2d632a3a-a2e5-4198-a43f-28b9a2c3cf30",
+  "vendor": "Arturia"
+}

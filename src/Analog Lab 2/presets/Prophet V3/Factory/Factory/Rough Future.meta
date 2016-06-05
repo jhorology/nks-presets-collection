@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Rough Future",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "88a41b15-8539-4a56-bf3a-c87a063376bc",
+  "vendor": "Arturia"
+}

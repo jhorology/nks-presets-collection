@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Satelit",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5d2a0255-ddd1-4e16-add9-036c3343a1af",
+  "vendor": "Arturia"
+}

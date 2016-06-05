@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Long"],
+  "name": "Metal Plan Bell",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5ba18656-8366-4253-9f11-784949f315d9",
+  "vendor": "Arturia"
+}

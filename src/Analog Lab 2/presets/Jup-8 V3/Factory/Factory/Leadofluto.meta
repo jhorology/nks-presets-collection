@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Leadofluto",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6aeb7e7c-34f5-4fa1-b4d5-a83d89f3e0bf",
+  "vendor": "Arturia"
+}

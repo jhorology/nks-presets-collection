@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "In The Heat",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7466c584-2946-4b29-8196-8971ed915709",
+  "vendor": "Arturia"
+}

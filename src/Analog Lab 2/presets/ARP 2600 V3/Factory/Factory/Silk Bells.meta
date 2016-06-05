@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Silk Bells",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "88fc098b-3622-45e4-babd-926d55605464",
+  "vendor": "Arturia"
+}

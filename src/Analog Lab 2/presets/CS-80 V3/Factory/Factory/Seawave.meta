@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Noise"],
+  "name": "Seawave",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "862c5bd5-e19a-463c-9345-60fa59743bb0",
+  "vendor": "Arturia"
+}

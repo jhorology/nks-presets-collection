@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Science 2",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0904851d-2b36-42ed-853c-d242f8c6f43e",
+  "vendor": "Arturia"
+}

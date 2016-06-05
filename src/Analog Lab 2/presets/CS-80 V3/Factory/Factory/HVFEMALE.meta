@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "HVFEMALE",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7a02ee2d-5b77-4447-b97e-13b12a734fae",
+  "vendor": "Arturia"
+}

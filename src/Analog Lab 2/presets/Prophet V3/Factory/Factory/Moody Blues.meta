@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft"],
+  "name": "Moody Blues",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "839101df-9f4a-498c-802e-080e22e937b5",
+  "vendor": "Arturia"
+}

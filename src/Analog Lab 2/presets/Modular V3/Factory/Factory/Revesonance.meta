@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Revesonance",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9b0d43e9-4296-428d-b747-43e5ebcc376d",
+  "vendor": "Arturia"
+}

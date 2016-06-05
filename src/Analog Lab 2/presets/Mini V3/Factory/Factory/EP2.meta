@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soft"],
+  "name": "EP2",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "adfabbb0-6562-49ee-a252-91e0ff056d5e",
+  "vendor": "Arturia"
+}

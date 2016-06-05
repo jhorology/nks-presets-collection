@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Sequence3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "88bad55c-c755-472d-8658-9199e1ae947c",
+  "vendor": "Arturia"
+}

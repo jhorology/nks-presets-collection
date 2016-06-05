@@ -1,0 +1,13 @@
+{
+  "author": "Kurt Kurazaki",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "E Sin",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ec19bd2e-cb05-4baf-9dc8-fd745bd087e0",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet"],
+  "name": "Long Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "09713221-d5a2-4820-85fc-b2b1fa1f8074",
+  "vendor": "Arturia"
+}

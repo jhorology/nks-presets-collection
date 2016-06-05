@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "Screamsync Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "eda26303-8dc2-415c-86c3-16560d654332",
+  "vendor": "Arturia"
+}

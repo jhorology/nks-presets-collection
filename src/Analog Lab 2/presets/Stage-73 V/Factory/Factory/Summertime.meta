@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Summertime",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "99e134d1-04dd-409f-b6eb-3dc31809ceb8",
+  "vendor": "Arturia"
+}

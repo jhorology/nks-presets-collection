@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Polyphonic pad that calls to mind a beautiful church organ. Light vibrato and an expressive filter sweep provided by the Mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Solemn Oath",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8ae76745-1b41-42da-a8fe-524546c72ce1",
+  "vendor": "Arturia"
+}

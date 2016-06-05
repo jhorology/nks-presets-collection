@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Slightly distorted guitafr like sound.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Funky", "Hard", "Simple"],
+  "name": "Electric Pluck",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "82706bd5-abbb-4ba1-9456-a4a1cedbd971",
+  "vendor": "Arturia"
+}

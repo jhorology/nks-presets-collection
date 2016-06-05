@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "En route",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6ed98545-5d7a-4647-9860-283273bd6d5f",
+  "vendor": "Arturia"
+}

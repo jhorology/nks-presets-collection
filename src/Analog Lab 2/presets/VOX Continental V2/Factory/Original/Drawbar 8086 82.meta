@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "Classic dry VOX tone.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Drawbar 8086 82",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9d2c9385-05c8-45d1-8170-d4141ce2ee58",
+  "vendor": "Arturia"
+}

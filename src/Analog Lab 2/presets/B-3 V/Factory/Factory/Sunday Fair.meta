@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Arpeggiated lower manual to be played with single notes upper manual for theme",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Ensemble"],
+  "name": "Sunday Fair",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e7fb3dad-cbe7-46a1-b55c-572fe11d2327",
+  "vendor": "Arturia"
+}

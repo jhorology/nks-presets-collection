@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "5th Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0d3fb4bd-9308-43c6-90c9-c5bf80fc07d5",
+  "vendor": "Arturia"
+}

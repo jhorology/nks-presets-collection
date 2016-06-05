@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Synchro Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "93d806ed-1f7b-4822-b295-43916cc50af2",
+  "vendor": "Arturia"
+}

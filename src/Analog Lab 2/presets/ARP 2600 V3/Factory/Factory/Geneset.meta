@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Geneset",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "38dd67c7-fb4b-472d-bdc5-16c23aee71bf",
+  "vendor": "Arturia"
+}

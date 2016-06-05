@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Arp Classic",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c5070867-1990-4798-a06b-7cca0e2914d5",
+  "vendor": "Arturia"
+}

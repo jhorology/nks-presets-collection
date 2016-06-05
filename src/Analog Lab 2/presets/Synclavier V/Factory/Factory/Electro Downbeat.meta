@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big Sequence with Kick and many dirty and modulate sounds. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark"],
+  "name": "Electro Downbeat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3b6294d7-dd43-4a12-9aeb-c30f37dfa9bf",
+  "vendor": "Arturia"
+}

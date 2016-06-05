@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble"],
+  "name": "Big Hybrid",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "55ea9522-6565-419b-98d9-f1e474a7fe3d",
+  "vendor": "Arturia"
+}

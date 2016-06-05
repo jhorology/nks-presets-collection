@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "1945 Bass",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b506055a-0bc6-430c-95da-87245774a270",
+  "vendor": "Arturia"
+}

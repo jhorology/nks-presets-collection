@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Just Can't Get Amuff",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e8aafc6f-d759-4d8b-b9fc-10554ec7f1bd",
+  "vendor": "Arturia"
+}

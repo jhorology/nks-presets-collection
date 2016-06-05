@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Soft"],
+  "name": "Obie Mello",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "584b5f21-8730-417f-81ea-38ac31ccd5ec",
+  "vendor": "Arturia"
+}

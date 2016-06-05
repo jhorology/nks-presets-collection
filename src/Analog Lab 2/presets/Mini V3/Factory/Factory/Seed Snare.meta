@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Seed Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "2c28928a-4677-4dc2-a6af-9506b1f1a0ea",
+  "vendor": "Arturia"
+}

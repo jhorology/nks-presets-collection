@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Strange Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bf088946-cdef-4758-92ab-cd31f8120480",
+  "vendor": "Arturia"
+}

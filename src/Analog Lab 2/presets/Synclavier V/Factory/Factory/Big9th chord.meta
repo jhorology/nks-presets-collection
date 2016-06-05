@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "big pad that is tuned to a ninth chord.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Ensemble"],
+  "name": "Big9th chord",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b449c4ca-6694-498e-bdf6-d388779e4153",
+  "vendor": "Arturia"
+}

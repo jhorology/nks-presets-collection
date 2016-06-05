@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble", "Long"],
+  "name": "Foggy Marathon",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fe3c08ed-b179-48c3-b742-c28b63efa967",
+  "vendor": "Arturia"
+}

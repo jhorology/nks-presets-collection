@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Square Land",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c08052ad-2921-48f8-851d-d5b209889f0c",
+  "vendor": "Arturia"
+}

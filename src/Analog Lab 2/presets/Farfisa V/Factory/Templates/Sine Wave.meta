@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Sine Wave",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "73c8fc42-3e6c-430d-9b28-182b086e1b69",
+  "vendor": "Arturia"
+}

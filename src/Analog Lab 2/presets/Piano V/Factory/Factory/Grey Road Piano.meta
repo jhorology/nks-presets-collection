@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Max Richter - Nils Frahm influenced reverb piano sound",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soundtrack"],
+  "name": "Grey Road Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8f0309cd-08a9-4876-9df3-d1fde5d6adc1",
+  "vendor": "Arturia"
+}

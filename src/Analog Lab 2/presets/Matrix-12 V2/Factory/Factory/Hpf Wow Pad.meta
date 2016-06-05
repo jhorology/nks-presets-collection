@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Bizarre", "Bright", "Complex", "Funky"],
+  "name": "Hpf Wow Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "daf1ff8f-3984-46cd-bb25-a4d771256d2a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "Tomita-Sanas",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b287dac9-7a83-45fe-8d01-ff3b5207da6b",
+  "vendor": "Arturia"
+}

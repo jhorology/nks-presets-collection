@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Air Pno2",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e8726d2a-f97d-4b78-bed7-d8e5774cf9d6",
+  "vendor": "Arturia"
+}

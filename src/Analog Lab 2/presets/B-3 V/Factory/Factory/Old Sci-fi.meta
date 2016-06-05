@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Sound effects for Old Sci-Fi film",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Soundtrack"],
+  "name": "Old Sci-fi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b75e1866-f812-4e59-89a8-6c7c4d9f393b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "A lot of sonic activity here on this multi-repeat reverb-laden and distant organ.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple", "Short"],
+  "name": "Additive Color",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "17b4f1d5-53bd-40c2-a850-e21f776de76e",
+  "vendor": "Arturia"
+}

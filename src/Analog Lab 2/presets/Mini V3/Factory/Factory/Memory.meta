@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Quiet"],
+  "name": "Memory",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a6963ec4-69d1-465e-a444-dab753c90e48",
+  "vendor": "Arturia"
+}

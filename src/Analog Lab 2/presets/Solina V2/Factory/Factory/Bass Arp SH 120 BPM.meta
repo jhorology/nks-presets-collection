@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Bass Arp SH 120 BPM",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e6eaf5a8-30ed-441c-8efb-29ceae61aae8",
+  "vendor": "Arturia"
+}

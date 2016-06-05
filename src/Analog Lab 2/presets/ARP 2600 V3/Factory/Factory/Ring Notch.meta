@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Ring Notch",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "06c85e74-d849-4892-a2f6-f7aaad45ae8e",
+  "vendor": "Arturia"
+}

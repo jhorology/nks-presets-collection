@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Saturn Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "33c2461c-4247-45ad-8960-d72f6a6fd553",
+  "vendor": "Arturia"
+}

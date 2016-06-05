@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Super groovy and weird acid sequence with a complex filter modulation.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre", "Digital"],
+  "name": "Soft Floor1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3f417a27-89d6-464c-8036-48c8698c9690",
+  "vendor": "Arturia"
+}

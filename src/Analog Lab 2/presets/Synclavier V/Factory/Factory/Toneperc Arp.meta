@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a percussionish arpreggiator sound that is still melodic and works best with the delay at 130bpm",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "Toneperc Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5b60557e-6745-4425-b1f1-3723abdf729a",
+  "vendor": "Arturia"
+}

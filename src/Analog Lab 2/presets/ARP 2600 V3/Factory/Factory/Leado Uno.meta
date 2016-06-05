@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Leado Uno",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5e0b624e-ba87-4bfb-a3ce-352b0d22cc28",
+  "vendor": "Arturia"
+}

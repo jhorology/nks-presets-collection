@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Oozing, fizzy pad that loses its fizz when you apply mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Green Mist",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "78915799-977a-4ed0-8ade-e2ebef65d094",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Quiet"],
+  "name": "Filter Lead 1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "05683f6a-a03b-4193-8e50-0ee5597f79dd",
+  "vendor": "Arturia"
+}

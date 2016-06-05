@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Filtered pad. Deep, moody, eerie. Mod wheel introduces rapid filter movement like a pack of scampering gerbils.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Long Way",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3c129329-19cc-48d6-baf2-2859dbf8d530",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Simple"],
+  "name": "Blue Monday",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6e2ca602-eaed-4d41-9e66-c39071ab9e0d",
+  "vendor": "Arturia"
+}

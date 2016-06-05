@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Short"],
+  "name": "Unison",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d6021ce7-0ed5-41b7-b182-d2ae50cb1075",
+  "vendor": "Arturia"
+}

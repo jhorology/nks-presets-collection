@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Electric Pulse",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2d2a5cd7-cfc0-425c-969c-e0018f40cf88",
+  "vendor": "Arturia"
+}

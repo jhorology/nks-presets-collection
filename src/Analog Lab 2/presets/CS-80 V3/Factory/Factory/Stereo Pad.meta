@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Stereo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "396548ba-8932-4f62-a526-d65e3edc194c",
+  "vendor": "Arturia"
+}

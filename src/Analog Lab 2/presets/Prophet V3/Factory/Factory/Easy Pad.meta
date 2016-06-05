@@ -1,0 +1,13 @@
+{
+  "author": "Silicon Sound",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Simple", "Soft"],
+  "name": "Easy Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "20de4dfa-64f5-4741-8466-88cd2eddd527",
+  "vendor": "Arturia"
+}

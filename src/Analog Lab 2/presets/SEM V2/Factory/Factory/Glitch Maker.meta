@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Short"],
+  "name": "Glitch Maker",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9ca14c86-34c5-483f-87c6-dd603ab62651",
+  "vendor": "Arturia"
+}

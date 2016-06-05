@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Phase Dance",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8295e40d-273c-4c6c-85b4-575d56b33366",
+  "vendor": "Arturia"
+}

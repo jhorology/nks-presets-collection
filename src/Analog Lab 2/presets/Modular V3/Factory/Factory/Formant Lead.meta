@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "High resonance formant filtered saw wave lead. Nice overtone emphasis when played in upper ranges.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Formant Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5c51e38f-fc5d-4c7f-8a57-6d228994b54a",
+  "vendor": "Arturia"
+}

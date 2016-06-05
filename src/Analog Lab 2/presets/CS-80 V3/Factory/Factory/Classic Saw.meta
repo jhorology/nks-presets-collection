@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Classic Saw",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "927a8c1b-8012-4086-9850-9a6b7b78825a",
+  "vendor": "Arturia"
+}

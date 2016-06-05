@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving timbre with a partials morphing.More saturate with the modulation wheel",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Evolving"],
+  "name": "12 Evolve Partials",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8223f5d8-0121-46e6-b06a-4483ef7cfc8f",
+  "vendor": "Arturia"
+}

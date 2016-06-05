@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Soft but with a fast-decaying bell-like front edge to it. Intimate.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft", "Soundtrack"],
+  "name": "Umbrella Drinks",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "84ce3720-039e-4097-9fa2-4614572451e2",
+  "vendor": "Arturia"
+}

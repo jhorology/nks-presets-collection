@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Fantazoom",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2cbb46ea-b66c-475c-9139-91a65c96d78c",
+  "vendor": "Arturia"
+}

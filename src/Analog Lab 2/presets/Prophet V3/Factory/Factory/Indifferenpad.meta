@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Indifferenpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "52af972d-22fd-421b-88c9-7a76da95a6de",
+  "vendor": "Arturia"
+}

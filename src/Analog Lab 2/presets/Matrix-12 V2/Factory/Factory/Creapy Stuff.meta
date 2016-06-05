@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Soundtrack"],
+  "name": "Creapy Stuff",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "be1f9741-8cd7-4c84-9678-05589c03f06e",
+  "vendor": "Arturia"
+}

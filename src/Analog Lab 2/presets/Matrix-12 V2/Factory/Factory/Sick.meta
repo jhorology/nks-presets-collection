@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Sick",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5da0eddb-7193-4df3-9d11-f219c17c877f",
+  "vendor": "Arturia"
+}

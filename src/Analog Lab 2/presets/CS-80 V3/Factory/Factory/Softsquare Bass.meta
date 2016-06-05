@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Softsquare Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "491cc207-a573-4f27-bf6d-5b59cb181b1e",
+  "vendor": "Arturia"
+}

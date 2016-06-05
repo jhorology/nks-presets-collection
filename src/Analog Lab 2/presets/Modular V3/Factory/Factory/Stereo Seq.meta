@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Stereo Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "cd5a5888-9739-4861-8a15-cfcb9ce7e7eb",
+  "vendor": "Arturia"
+}

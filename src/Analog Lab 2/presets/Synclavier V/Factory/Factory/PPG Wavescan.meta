@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "PPG-like vowel-morphing between timbre frames. MOD WHEEL increases morphing speed.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Evolving"],
+  "name": "PPG Wavescan",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "52d0ef23-b381-4ed7-84ae-d6340ede6bf0",
+  "vendor": "Arturia"
+}

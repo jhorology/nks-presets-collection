@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Hard"],
+  "name": "Hard Machine",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f4faa2d5-857a-42de-8f8b-b4532f08c025",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "One Octave Down Please",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0017438f-0b09-4c45-b25f-f191e624a6f6",
+  "vendor": "Arturia"
+}

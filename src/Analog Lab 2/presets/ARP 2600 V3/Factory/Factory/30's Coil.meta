@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "30's Coil",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fa9b850c-f00a-466d-9706-3fbec2970c7e",
+  "vendor": "Arturia"
+}

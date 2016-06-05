@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Sweeping soft sine tones from self resonating low pass filters mix with a long dual delay for texture.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Artic",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "490549f2-b86c-4be7-ad63-6d4a41d942d9",
+  "vendor": "Arturia"
+}

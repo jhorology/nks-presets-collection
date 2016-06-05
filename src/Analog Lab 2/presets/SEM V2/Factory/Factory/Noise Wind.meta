@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Noise"],
+  "name": "Noise Wind",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1fb1938b-d00f-42e1-832e-6e8770c66951",
+  "vendor": "Arturia"
+}

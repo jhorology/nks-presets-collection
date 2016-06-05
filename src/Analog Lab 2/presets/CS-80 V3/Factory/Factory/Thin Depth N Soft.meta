@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Thin Depth N Soft",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "69b28c9d-5d1d-4380-b2ba-8fad0c952577",
+  "vendor": "Arturia"
+}

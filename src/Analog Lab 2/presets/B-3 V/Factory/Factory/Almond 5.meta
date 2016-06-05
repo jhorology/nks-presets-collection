@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Soundtrack", "Quiet"],
+  "name": "Almond 5",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "81349a64-1534-4cf4-9992-8249fa2dbd08",
+  "vendor": "Arturia"
+}

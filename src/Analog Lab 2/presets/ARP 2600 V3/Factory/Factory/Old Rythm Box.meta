@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Old Rythm Box",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2c2132b3-ab11-49e0-9a50-b91249d4c462",
+  "vendor": "Arturia"
+}

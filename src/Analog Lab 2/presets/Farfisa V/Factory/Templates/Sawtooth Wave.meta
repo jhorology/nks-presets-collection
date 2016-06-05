@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Sawtooth Wave",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "a672f683-8c68-4504-ba26-10638b7ff2e2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Short"],
+  "name": "Electronic Piano1",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "05ae4253-4664-46a9-90a4-7c4a48925939",
+  "vendor": "Arturia"
+}

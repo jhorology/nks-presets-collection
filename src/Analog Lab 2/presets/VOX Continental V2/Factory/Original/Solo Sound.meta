@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Solo Sound",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8254e089-ce09-4933-9fcc-b4edb59db7b7",
+  "vendor": "Arturia"
+}

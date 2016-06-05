@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Play and hold any keys",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Soft", "Quiet"],
+  "name": "Water Drops",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c2f7e8c7-8eb4-4d1a-9fb0-8f6719e948db",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": [],
+  "name": "Vocoder Like",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7d1c3e7a-1b3b-4f06-8beb-a415ea090b0b",
+  "vendor": "Arturia"
+}

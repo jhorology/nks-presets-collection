@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Snare Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7f57a4b0-1333-438e-996b-9cc4d45a4496",
+  "vendor": "Arturia"
+}

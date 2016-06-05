@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a bright and open chord good for accents",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Sunset Chord",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "10baf40e-f5ae-4b40-b4cb-e62801b2ffde",
+  "vendor": "Arturia"
+}

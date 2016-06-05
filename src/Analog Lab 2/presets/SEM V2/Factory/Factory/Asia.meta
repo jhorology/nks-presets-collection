@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Asia",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3277ed67-1236-4064-a421-1d1b14d09f85",
+  "vendor": "Arturia"
+}

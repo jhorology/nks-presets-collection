@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Digital"],
+  "name": "Big Room",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b93cd637-dc0b-4642-94b5-3c331c475a76",
+  "vendor": "Arturia"
+}

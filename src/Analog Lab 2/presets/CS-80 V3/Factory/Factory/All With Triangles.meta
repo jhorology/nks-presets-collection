@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "All With Triangles",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fbbe3c86-88fa-462d-bd6f-cc04daf8913f",
+  "vendor": "Arturia"
+}

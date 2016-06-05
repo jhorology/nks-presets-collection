@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "Hard, with seven distinct repeats.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Soundtrack"],
+  "name": "Fx Trax",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a7a448c9-b780-4fab-b1d5-d15de0f3812d",
+  "vendor": "Arturia"
+}

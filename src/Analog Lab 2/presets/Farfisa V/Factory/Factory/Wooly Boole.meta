@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Wooly Boole",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c6b0849e-a322-49a6-837b-5e14e7d9103a",
+  "vendor": "Arturia"
+}

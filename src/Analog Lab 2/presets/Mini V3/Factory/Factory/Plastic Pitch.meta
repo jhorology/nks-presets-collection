@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Plastic Pitch",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "02af3ac9-fc4c-41a9-8a7e-6a5d605e1695",
+  "vendor": "Arturia"
+}

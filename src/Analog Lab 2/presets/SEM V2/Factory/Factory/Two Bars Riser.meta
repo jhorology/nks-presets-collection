@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long"],
+  "name": "Two Bars Riser",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e0dae524-8a35-4501-9a18-56c4b94a4e75",
+  "vendor": "Arturia"
+}

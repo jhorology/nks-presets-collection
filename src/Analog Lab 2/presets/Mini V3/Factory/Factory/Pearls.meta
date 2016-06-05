@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Pearls",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "76f8f6c8-1a38-4942-9f29-21cdfa58a227",
+  "vendor": "Arturia"
+}

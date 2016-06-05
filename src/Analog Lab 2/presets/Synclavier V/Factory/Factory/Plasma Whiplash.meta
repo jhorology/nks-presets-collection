@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Swirling heavily modulated whooshing SciFi effect sound.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long", "Noise"],
+  "name": "Plasma Whiplash",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6286ff89-a109-461e-ab0f-207e652a8dd0",
+  "vendor": "Arturia"
+}

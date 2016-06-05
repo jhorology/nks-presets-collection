@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Stereo Bss",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0e3d6b1d-88ae-455e-913d-ad5dff7adefd",
+  "vendor": "Arturia"
+}

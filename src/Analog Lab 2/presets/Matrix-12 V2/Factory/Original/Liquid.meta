@@ -1,0 +1,13 @@
+{
+  "author": "Matrix12",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "Liquid",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "daa9c274-660f-4514-98b8-6326c90f7e3b",
+  "vendor": "Arturia"
+}

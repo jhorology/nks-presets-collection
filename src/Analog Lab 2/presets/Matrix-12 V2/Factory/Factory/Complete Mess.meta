@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark", "Digital"],
+  "name": "Complete Mess",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "04e62662-c982-492b-bd0b-09a39c57aa92",
+  "vendor": "Arturia"
+}

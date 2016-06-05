@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Repeat Ring Mod",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "fadf71d7-81e6-4c1c-8b06-d89b58da9fd3",
+  "vendor": "Arturia"
+}

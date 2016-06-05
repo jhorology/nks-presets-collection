@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Fast arpeggiator with short synth sound and delay FX. Modwheel controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Short Repeat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "29dbd73e-ab0c-4987-9915-88fe3ac334a8",
+  "vendor": "Arturia"
+}

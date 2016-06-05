@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big dirty synth with repeat arpeggio mode. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Digital", "Hard"],
+  "name": "Metal Run",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bed7e5fc-0906-47fd-9473-f2d260c58798",
+  "vendor": "Arturia"
+}

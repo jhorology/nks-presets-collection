@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise"],
+  "name": "Movement",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ac17ded3-3086-4127-8607-09ebc8fc7b26",
+  "vendor": "Arturia"
+}

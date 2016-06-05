@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Bassgirls",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d696bd37-47f2-4ca9-b6a9-29959afb15ff",
+  "vendor": "Arturia"
+}

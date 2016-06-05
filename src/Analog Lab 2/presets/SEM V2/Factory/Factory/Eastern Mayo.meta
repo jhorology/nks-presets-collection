@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Eastern Mayo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f25a29cf-2b77-4fba-98a2-7d32eec6c71f",
+  "vendor": "Arturia"
+}

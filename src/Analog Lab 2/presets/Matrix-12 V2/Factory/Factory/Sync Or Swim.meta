@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Digital"],
+  "name": "Sync Or Swim",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "db42c1dc-7ae4-4820-8e0a-4bb18ab3f651",
+  "vendor": "Arturia"
+}

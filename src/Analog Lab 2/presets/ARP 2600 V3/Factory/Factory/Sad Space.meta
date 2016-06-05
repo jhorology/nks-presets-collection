@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Evolving"],
+  "name": "Sad Space",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d541bf8a-b141-4cda-8b4b-f1cc976a5a42",
+  "vendor": "Arturia"
+}

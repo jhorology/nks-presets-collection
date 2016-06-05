@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Atmospheric FX modulating each filter of the two sound engine.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Eniac",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9b18a196-dd1a-4726-87c7-8be371e232df",
+  "vendor": "Arturia"
+}

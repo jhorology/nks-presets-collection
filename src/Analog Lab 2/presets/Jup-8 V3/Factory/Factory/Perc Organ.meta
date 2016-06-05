@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Perc Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d0677af5-dcc2-4935-9d1a-b610f9ec333d",
+  "vendor": "Arturia"
+}

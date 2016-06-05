@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hold down the keys for about 4 seconds for the complete 4 stage time warp. Letting go in the middle produces interesting sustained jet turbine like sounds. MOD WHEEL increases FM Ratio for higher harmonics and pitches AFTERTOUCH increases FM amount",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Digital", "Long", "Noise", "Soundtrack", "Evolving"],
+  "name": "TimeWarp (Hold)",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6c02f1c7-3130-4ea8-99c6-414d47f3c357",
+  "vendor": "Arturia"
+}

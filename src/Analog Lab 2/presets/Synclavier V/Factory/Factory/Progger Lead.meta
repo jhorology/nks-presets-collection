@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Minim..g style lead for prog music.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Progger Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4e46fe53-a0ba-488e-a8ef-396d7a691139",
+  "vendor": "Arturia"
+}

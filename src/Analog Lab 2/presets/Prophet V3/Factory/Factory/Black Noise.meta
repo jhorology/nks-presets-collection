@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Black Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "50cde2d0-dcd8-4970-9a8e-da2d59ccf3ac",
+  "vendor": "Arturia"
+}

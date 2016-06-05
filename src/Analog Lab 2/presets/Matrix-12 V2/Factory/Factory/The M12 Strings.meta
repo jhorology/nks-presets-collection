@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "The M12 Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "e87a0b45-fd26-4967-8431-f338a254d91e",
+  "vendor": "Arturia"
+}

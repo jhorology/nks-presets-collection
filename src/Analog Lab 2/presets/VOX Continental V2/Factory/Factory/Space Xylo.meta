@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Bright", "Complex", "Hard", "Long"],
+  "name": "Space Xylo",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "040b5436-56ad-4709-b78f-b89deed02336",
+  "vendor": "Arturia"
+}

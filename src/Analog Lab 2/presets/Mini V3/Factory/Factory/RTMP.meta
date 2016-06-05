@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Dark"],
+  "name": "RTMP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc719811-277c-412d-b61c-b6199ad20ab5",
+  "vendor": "Arturia"
+}

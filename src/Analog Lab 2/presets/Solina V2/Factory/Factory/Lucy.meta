@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lucy",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "05a8d1c6-7347-43d3-a961-ed69c3f6491a",
+  "vendor": "Arturia"
+}

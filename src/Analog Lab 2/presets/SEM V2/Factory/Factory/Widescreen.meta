@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Widescreen",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9e077e5f-6332-42c1-a1c9-1923b81b644a",
+  "vendor": "Arturia"
+}

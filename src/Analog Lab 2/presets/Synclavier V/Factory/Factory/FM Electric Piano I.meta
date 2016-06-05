@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Very populaer FM piano sound type 1",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Funky", "Soft", "Evolving"],
+  "name": "FM Electric Piano I",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f1b30bae-7e83-4e0b-8d53-256dda6fb953",
+  "vendor": "Arturia"
+}

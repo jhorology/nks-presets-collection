@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long"],
+  "name": "Talking Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6a2598fe-a22b-4a7d-8a3c-22e027877c42",
+  "vendor": "Arturia"
+}

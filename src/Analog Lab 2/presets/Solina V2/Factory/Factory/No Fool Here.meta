@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Square wave LFO tremolo provides the repeats on this light brassy tone.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Quiet", "Short"],
+  "name": "No Fool Here",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7412be3b-5b8a-435c-972d-930117417a01",
+  "vendor": "Arturia"
+}

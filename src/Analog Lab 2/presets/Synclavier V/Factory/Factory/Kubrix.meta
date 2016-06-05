@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Dusty circuit bent organ sound",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Kubrix",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f1cf5edb-e3e4-4344-b2ae-58da1f210f57",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Steelwire",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "30a0a181-e13d-4e02-aabe-941d061c5914",
+  "vendor": "Arturia"
+}

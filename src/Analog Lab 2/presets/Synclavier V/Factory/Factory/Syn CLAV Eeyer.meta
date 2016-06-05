@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synclkavier FM Clav",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Syn CLAV Eeyer",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c5dbd8e5-0b7a-42d6-9d5c-7d33b70e6876",
+  "vendor": "Arturia"
+}

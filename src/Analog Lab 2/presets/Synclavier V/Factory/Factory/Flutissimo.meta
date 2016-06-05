@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Flutish timbre synth lead",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Flutissimo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "09ef486b-d333-4722-b188-34dde916bd0d",
+  "vendor": "Arturia"
+}

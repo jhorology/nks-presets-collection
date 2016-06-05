@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Nasaly horns. Thick and useful.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Ensemble", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Ambi Horns",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "30ead742-4de3-4cf4-98c8-d2b03a4617f9",
+  "vendor": "Arturia"
+}

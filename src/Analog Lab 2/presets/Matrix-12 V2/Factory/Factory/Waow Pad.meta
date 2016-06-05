@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Soundtrack"],
+  "name": "Waow Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ace0c938-d0f2-44e5-a344-51a4719601dc",
+  "vendor": "Arturia"
+}

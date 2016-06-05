@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Broken Computer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "88e668a1-6151-4591-9b34-191d1e49cb92",
+  "vendor": "Arturia"
+}

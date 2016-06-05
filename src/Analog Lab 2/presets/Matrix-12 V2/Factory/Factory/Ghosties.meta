@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Ghosties",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c4bd0b6a-f777-4b3e-a16c-fc039acb9733",
+  "vendor": "Arturia"
+}

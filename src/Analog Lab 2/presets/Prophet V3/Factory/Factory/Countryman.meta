@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Countryman",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "dedbc170-def8-4b44-9817-3af7bd2f56e8",
+  "vendor": "Arturia"
+}

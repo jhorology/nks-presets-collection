@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soft"],
+  "name": "Ghosts",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9096bd13-fa3d-4c5b-a5ca-86724caf9bdc",
+  "vendor": "Arturia"
+}

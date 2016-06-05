@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Soundtrack"],
+  "name": "Psych Ambient",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "07863f7c-8f80-46b4-8533-100ca95d188d",
+  "vendor": "Arturia"
+}

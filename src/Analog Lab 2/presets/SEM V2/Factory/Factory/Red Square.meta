@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Red Square",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2300a4c8-09e9-4f88-92a7-201ed98921ba",
+  "vendor": "Arturia"
+}

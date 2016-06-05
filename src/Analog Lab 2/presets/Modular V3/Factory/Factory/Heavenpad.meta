@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Heavenpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "194f96c4-384f-435e-b9a0-98a943e789eb",
+  "vendor": "Arturia"
+}

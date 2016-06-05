@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Inspired by Thomas Dolby's Flying North pad sound. MOD WHEEL-stereo tremolo",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Dolby Flying North",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b9e71b56-4cfb-4849-bf8b-1df47e41154b",
+  "vendor": "Arturia"
+}

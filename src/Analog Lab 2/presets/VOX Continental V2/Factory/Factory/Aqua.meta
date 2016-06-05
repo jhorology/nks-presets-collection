@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Aqua",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3e0a049b-b0b6-4282-a7b9-b60f55bacff2",
+  "vendor": "Arturia"
+}

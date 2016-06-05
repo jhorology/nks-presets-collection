@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Long"],
+  "name": "Marchand Sable",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "2938a6b2-f157-4c45-ab46-d8b65403200e",
+  "vendor": "Arturia"
+}

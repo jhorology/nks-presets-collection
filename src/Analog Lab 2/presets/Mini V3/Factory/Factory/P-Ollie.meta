@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack"],
+  "name": "P-Ollie",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4acf6136-cc3f-4f9d-bedb-c91d651f71f5",
+  "vendor": "Arturia"
+}

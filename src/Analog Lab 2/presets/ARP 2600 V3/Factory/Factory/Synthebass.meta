@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Synthebass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c6da5667-4831-49a8-a25c-4e3315b84fbd",
+  "vendor": "Arturia"
+}

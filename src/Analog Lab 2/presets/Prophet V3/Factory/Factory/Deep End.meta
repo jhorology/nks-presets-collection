@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Deep End",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f045b29d-3d40-4016-b95f-816839faf976",
+  "vendor": "Arturia"
+}

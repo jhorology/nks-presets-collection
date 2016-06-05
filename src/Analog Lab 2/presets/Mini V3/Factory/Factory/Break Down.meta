@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre", "Complex"],
+  "name": "Break Down",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "eb36f90f-c70e-410a-9554-5ac3fc66b8aa",
+  "vendor": "Arturia"
+}

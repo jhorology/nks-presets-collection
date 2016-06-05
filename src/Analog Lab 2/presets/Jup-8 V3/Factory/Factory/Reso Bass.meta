@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Reso Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fd91427a-0fb0-4faa-bbf3-ca35f835769c",
+  "vendor": "Arturia"
+}

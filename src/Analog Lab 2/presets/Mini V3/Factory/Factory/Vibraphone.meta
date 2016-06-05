@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Vibraphone",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a1876d7f-e097-4397-95db-5c7ac0f9e1bf",
+  "vendor": "Arturia"
+}

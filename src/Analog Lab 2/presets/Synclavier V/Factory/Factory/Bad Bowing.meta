@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hysteric harmonics at the beginning. He must practice hard to control the bow.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Long"],
+  "name": "Bad Bowing",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "7a9ff4fa-9a10-4e43-ba87-004398dd2c9a",
+  "vendor": "Arturia"
+}

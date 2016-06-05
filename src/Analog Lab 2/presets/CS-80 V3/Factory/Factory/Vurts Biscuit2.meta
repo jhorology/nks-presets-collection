@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Vurts Biscuit2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fb434239-3697-4e66-b987-303630af55c6",
+  "vendor": "Arturia"
+}

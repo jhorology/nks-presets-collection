@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Funky"],
+  "name": "Vibro Wah",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aea56eb4-40f9-45d9-bc69-f220e822ff46",
+  "vendor": "Arturia"
+}

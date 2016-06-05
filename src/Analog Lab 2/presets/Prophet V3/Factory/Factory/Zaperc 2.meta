@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Quiet"],
+  "name": "Zaperc 2",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6c22d95d-2555-46ab-b43c-31e0a8cf69c4",
+  "vendor": "Arturia"
+}

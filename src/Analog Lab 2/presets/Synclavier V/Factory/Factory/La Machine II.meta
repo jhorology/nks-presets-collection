@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Use wheel to mucfinction the machine",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital", "Ensemble", "Hard", "Noise", "Soundtrack"],
+  "name": "La Machine II",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "efa2e7c5-caeb-47c6-9816-810f4e6713f7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Slow and bright string pad. Very analog sound with use of both low pass and bandpass filtering of a combination of saw and sine wave oscillators",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Hyper Ensemble",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1b7b41ac-65ee-4333-8dc6-0b4d78c64a67",
+  "vendor": "Arturia"
+}

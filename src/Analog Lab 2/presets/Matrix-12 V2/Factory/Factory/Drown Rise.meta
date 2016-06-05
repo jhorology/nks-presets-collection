@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Long"],
+  "name": "Drown Rise",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a2789711-3fc6-4c0f-bcd6-94ee0015e7d7",
+  "vendor": "Arturia"
+}

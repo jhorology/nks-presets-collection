@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Quiet"],
+  "name": "Crystal Ball",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "14068045-b7f0-4db1-9903-bfb97bdeb356",
+  "vendor": "Arturia"
+}

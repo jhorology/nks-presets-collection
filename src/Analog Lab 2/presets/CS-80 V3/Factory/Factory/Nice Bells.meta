@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Nice Bells",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "dd8180f9-f624-4c50-9bc4-8531b4c546a6",
+  "vendor": "Arturia"
+}

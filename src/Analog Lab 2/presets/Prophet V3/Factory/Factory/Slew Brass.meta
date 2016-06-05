@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Slew Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "03f7ddab-0b33-4e01-8aae-1f82267d70dc",
+  "vendor": "Arturia"
+}

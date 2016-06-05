@@ -1,0 +1,13 @@
+{
+  "author": "Factory",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "MIDI Sync Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "46dd52d5-f419-4afa-ba33-c5e23b1f5e31",
+  "vendor": "Arturia"
+}

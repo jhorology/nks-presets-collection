@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble"],
+  "name": "Jean Michel Syn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9f18e7e9-9883-47f9-a5b6-98ee02b7e74a",
+  "vendor": "Arturia"
+}

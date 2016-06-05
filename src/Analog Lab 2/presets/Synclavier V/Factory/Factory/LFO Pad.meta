@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Evolving"],
+  "name": "LFO Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "581bb4f8-9764-4b63-8047-9f25d6d4bf0e",
+  "vendor": "Arturia"
+}

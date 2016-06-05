@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Dark", "Short"],
+  "name": "Farandole",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "abdb1f84-3589-40cd-96cd-01ac102200bf",
+  "vendor": "Arturia"
+}

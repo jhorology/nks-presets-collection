@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Power Key",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "840cb44f-4888-4e79-997b-1c537f120437",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Unwieldy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "87686b97-0550-4e02-8700-aa96ffa29426",
+  "vendor": "Arturia"
+}

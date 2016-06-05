@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Tom",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0fa6e3fe-d13c-4df2-aa62-15bdeaa89620",
+  "vendor": "Arturia"
+}

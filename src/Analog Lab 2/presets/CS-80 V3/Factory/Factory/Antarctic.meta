@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "Antarctic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5543e597-9cb9-4bf0-84ec-5387f1dfe3f9",
+  "vendor": "Arturia"
+}

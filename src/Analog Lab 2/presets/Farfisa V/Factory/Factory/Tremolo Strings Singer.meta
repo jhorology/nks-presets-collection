@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Tremolo Strings Singer",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b7f609f8-a4f2-4f07-8683-01196ad7f512",
+  "vendor": "Arturia"
+}

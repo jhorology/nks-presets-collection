@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Soundtrack"],
+  "name": "Not Broken",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b81f0db2-1bd3-4b9a-86f1-ec8006b5f216",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big Super Saw pad",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Long", "Evolving"],
+  "name": "Saw Big",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7f6dfd91-e0c3-4269-9606-3115f3289999",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Noise"],
+  "name": "Drum Delay",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e5e8f269-d964-4c4e-9a40-55a57d6fdf5b",
+  "vendor": "Arturia"
+}

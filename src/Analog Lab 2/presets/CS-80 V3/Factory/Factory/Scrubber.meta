@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "Scrubber",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "07fb2524-e7ba-408c-bafc-c5b385ba1eaf",
+  "vendor": "Arturia"
+}

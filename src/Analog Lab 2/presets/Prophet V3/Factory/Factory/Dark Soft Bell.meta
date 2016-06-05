@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Dark Soft Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8b1effab-38ea-4311-81a6-99ea0e1a9ce2",
+  "vendor": "Arturia"
+}

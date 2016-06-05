@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Very Bright",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "21c1c5fe-dba6-49c4-b3e3-fa8aca8b4f28",
+  "vendor": "Arturia"
+}

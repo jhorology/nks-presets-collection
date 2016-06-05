@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Clear Sound",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7034fe38-4305-465b-8152-4895c9153eb6",
+  "vendor": "Arturia"
+}

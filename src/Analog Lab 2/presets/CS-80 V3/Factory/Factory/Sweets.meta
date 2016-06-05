@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Sweets",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "70c448e6-d8ba-4f87-9ebd-82ada6ba7aba",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Filter Sing",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "403ef850-ad91-4fd0-9788-00e8f1e4d940",
+  "vendor": "Arturia"
+}

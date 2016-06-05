@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Resodrone",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "096d2a08-8002-40be-bd6a-095655ba1349",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Soft"],
+  "name": "Funky Cat",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "177a710b-1f0d-4aac-8114-6022efe1a22b",
+  "vendor": "Arturia"
+}

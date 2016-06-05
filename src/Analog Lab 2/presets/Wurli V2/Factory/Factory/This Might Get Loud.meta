@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Hard"],
+  "name": "This Might Get Loud",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1993603c-7b77-4c5d-aa36-e2dbf3e532c9",
+  "vendor": "Arturia"
+}

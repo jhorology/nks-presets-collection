@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Very digitial with a slow filter sweep. Uses 1-pole low pass filter, hence its interesting 'hollow' effect. Mod wheel pitch shifts one of the oscillators.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long", "Soundtrack"],
+  "name": "Intersteller",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ab184e70-c8e9-4479-95db-0f5651fcfaed",
+  "vendor": "Arturia"
+}

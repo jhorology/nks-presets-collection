@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Long"],
+  "name": "Long Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "76eeb81a-f388-4925-b71e-7d77e031feb1",
+  "vendor": "Arturia"
+}

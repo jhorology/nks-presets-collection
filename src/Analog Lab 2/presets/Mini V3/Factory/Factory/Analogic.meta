@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Analogic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "264502bb-c260-491d-8d0d-81174782011c",
+  "vendor": "Arturia"
+}

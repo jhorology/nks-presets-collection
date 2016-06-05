@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Digital", "Long"],
+  "name": "System Start",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "251e054f-73b3-4837-9525-f3be97dc3e9f",
+  "vendor": "Arturia"
+}

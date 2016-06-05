@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Octave Over Drive",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "8a2c2a32-331d-4fb6-87c7-c222c830ddb1",
+  "vendor": "Arturia"
+}

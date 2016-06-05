@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft"],
+  "name": "Flute 8'",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ded87fab-ff5b-494d-a193-e533fbbdad37",
+  "vendor": "Arturia"
+}

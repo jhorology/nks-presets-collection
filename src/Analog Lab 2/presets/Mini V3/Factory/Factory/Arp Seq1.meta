@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Arp Seq1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6a549590-15cb-4cf8-905a-3ef3ff28c04c",
+  "vendor": "Arturia"
+}

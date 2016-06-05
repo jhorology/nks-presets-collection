@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soundtrack"],
+  "name": "Simple Upright Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "609c7741-986f-4b6b-91b2-790de079a54f",
+  "vendor": "Arturia"
+}

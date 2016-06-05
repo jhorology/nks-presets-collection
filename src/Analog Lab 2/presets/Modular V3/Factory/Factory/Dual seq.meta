@@ -1,0 +1,13 @@
+{
+  "author": "Ted Perlman",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex"],
+  "name": "Dual seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6ed2df05-1100-4e94-a25e-a370a0da6bc3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "A lot of seemingly random panning in this soft, multi-layered burbling sound. Mod wheel raises the pitch a half-step.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Complex", "Digital"],
+  "name": "Fading Memories",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2bf947a2-8378-467d-b852-8309f47b9cb4",
+  "vendor": "Arturia"
+}

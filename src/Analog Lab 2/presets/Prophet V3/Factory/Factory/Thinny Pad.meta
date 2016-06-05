@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Thinny Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d43cd0db-2769-4c45-a171-831a4d8a4e20",
+  "vendor": "Arturia"
+}

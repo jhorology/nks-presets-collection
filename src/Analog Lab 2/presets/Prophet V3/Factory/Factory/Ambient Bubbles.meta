@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Ambient Bubbles",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "da10994e-4cea-431d-940e-a97855c6e20c",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Special Agent",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c60e135-f176-4a57-9532-524625cba0bd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soundtrack", "Evolving"],
+  "name": "Tranquility",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "00b3aff6-ea9e-44dc-bde3-df2d61c37179",
+  "vendor": "Arturia"
+}

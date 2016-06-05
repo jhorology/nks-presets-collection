@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Noisy, squeaky and transistory.",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Dirt Road",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7b1dfb57-377d-45be-ad5a-1a805cf7dca4",
+  "vendor": "Arturia"
+}

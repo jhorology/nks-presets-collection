@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Just play 2 to 4 octave unison is recommended.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Ensemble", "Long", "Soft", "Soundtrack", "Quiet"],
+  "name": "Diamond Ensemble",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "eb859113-b068-42ad-aabf-c14ef407333a",
+  "vendor": "Arturia"
+}

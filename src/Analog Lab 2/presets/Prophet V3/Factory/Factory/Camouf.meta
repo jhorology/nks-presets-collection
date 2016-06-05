@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Camouf",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9cb58d4a-c620-4fd1-915e-e2d18c2ef02a",
+  "vendor": "Arturia"
+}

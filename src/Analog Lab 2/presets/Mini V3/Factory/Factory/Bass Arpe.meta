@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Bass Arpe",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "95bc6328-d2ac-4963-a329-7dbacff41b87",
+  "vendor": "Arturia"
+}

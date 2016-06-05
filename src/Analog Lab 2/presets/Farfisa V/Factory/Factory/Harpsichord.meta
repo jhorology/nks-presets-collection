@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Bone dry and with a short, clipped attack. The tone has a thin organ type of sustain. Mod wheel adds vibrato.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Harpsichord",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a9f501a6-b3a1-4d16-bc17-a06f4143422b",
+  "vendor": "Arturia"
+}

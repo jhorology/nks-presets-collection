@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Quiet"],
+  "name": "Flutes Pipes",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5d9bbd7f-ab7c-4fbe-91d3-8c78d7fc15ae",
+  "vendor": "Arturia"
+}

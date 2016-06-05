@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Inquisition",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6333e9c0-dcdd-4fab-a49b-8c2fbf4bedd9",
+  "vendor": "Arturia"
+}

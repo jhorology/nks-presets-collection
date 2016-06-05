@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "more of a toned sound than actual percussion that works well with chords of 3 or more notes held",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise", "Short"],
+  "name": "Toned Percussion",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "626bbe04-0a33-4a34-b930-1f4d2dbf6dea",
+  "vendor": "Arturia"
+}

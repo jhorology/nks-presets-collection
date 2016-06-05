@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "PsyFi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f748d0cb-da12-47bb-ac90-2fae664bcafe",
+  "vendor": "Arturia"
+}

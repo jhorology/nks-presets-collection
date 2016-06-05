@@ -1,0 +1,13 @@
+{
+  "author": "Lotuzia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soft"],
+  "name": "Spacious Key Pad",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0c2dd379-f27b-43f8-acab-ccf2da13c69c",
+  "vendor": "Arturia"
+}

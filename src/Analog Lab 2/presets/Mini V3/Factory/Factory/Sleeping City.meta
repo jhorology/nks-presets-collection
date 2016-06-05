@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Sleeping City",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3650ef54-a681-48da-ae57-fa61cfafbee8",
+  "vendor": "Arturia"
+}

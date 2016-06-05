@@ -1,0 +1,13 @@
+{
+  "author": "Takashi Odanaka",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Low Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "cc980a57-bb4d-4fd2-8c43-c432777b2a56",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Notch Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "641fcb12-0774-44ed-b1b4-a0ff107c2bb8",
+  "vendor": "Arturia"
+}

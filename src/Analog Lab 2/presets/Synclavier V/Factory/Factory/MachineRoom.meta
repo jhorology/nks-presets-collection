@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL increases machine intensity",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Digital", "Noise", "Soft", "Soundtrack"],
+  "name": "MachineRoom",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "44cb2a03-0b26-4b20-a798-d014f42b8013",
+  "vendor": "Arturia"
+}

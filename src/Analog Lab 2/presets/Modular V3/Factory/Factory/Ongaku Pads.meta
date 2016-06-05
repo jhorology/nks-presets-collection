@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ongaku Pads",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5651b0d9-3481-444a-a832-7d74896c2658",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Mod Me Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "db7caf10-41a3-4100-8e9c-b489d81925a5",
+  "vendor": "Arturia"
+}

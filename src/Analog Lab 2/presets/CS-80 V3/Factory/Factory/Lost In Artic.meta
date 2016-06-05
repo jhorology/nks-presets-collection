@@ -1,0 +1,13 @@
+{
+  "author": "Anthony Gonzales",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Lost In Artic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bfe510f2-ce7f-4ec2-b3db-d14c6d117821",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hard bass with repeat arpeggio mode and panoramic FX.Modwheel controlled FM Ratio & Aftertouch controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Digital", "Hard"],
+  "name": "Sequence Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "99f5e3bb-e2d2-4db3-98f3-1044334d1a50",
+  "vendor": "Arturia"
+}

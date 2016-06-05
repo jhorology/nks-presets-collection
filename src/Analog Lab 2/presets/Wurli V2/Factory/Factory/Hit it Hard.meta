@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Hit it Hard",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bab39245-cb96-4fbd-a332-61040d61b9b1",
+  "vendor": "Arturia"
+}

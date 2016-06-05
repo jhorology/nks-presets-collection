@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft", "Soundtrack"],
+  "name": "Strgpad 2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2508ae64-d0ff-42c4-8442-a0c5bec96b2e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Falls",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "02b7a2e9-e595-4bf1-9782-4f0c269aaf34",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Padaloue",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "16b73e72-1722-4951-b47b-b1d6c550aa08",
+  "vendor": "Arturia"
+}

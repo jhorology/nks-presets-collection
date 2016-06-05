@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Saw Res",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0c35275a-561b-490f-97b2-facc26fd9149",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Long"],
+  "name": "Sync Seq",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "5b2f03b0-b21d-4790-95f5-e9ba7ed7f16d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Simple", "Soundtrack"],
+  "name": "Swell Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "353b98a5-b6c9-4d21-831e-b120b0685ff3",
+  "vendor": "Arturia"
+}

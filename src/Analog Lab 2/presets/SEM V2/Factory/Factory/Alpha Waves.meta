@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Ensemble"],
+  "name": "Alpha Waves",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "01d00a4d-9644-4839-96b9-7425313faa93",
+  "vendor": "Arturia"
+}

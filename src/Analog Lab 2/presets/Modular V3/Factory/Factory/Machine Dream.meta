@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Machine Dream",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "51fcd0dc-5a7d-4661-8a7a-e72950782bd8",
+  "vendor": "Arturia"
+}

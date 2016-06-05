@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Short"],
+  "name": "Noisy Attack",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "21b4af52-f065-493f-9391-9610b656d1ff",
+  "vendor": "Arturia"
+}

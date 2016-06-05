@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Flying Pulse",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a953f37e-445f-48b4-98dc-27fbe7701b80",
+  "vendor": "Arturia"
+}

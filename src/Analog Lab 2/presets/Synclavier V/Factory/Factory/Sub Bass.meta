@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Warm chorused sub bass",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Sub Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "28b6fc1f-cb12-41fe-87b4-c13989451d51",
+  "vendor": "Arturia"
+}

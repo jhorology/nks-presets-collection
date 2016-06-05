@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice soundtrack keys with dubdelay and reverb. Modwheel controlled pitch chorus.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft", "Soundtrack"],
+  "name": "Mysterious Light",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1257e1b0-5b1a-47b5-a505-e586057c3d47",
+  "vendor": "Arturia"
+}

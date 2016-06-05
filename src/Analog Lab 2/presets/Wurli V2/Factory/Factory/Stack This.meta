@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Stack This",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "fa62c0c0-fbbc-4fce-952b-a9851b194975",
+  "vendor": "Arturia"
+}

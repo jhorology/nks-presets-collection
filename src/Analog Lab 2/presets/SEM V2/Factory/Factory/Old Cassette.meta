@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long"],
+  "name": "Old Cassette",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "f69cf574-8fcc-4ba8-90f8-798bc4ef8252",
+  "vendor": "Arturia"
+}

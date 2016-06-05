@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Mod Wheel 5th",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f41808ea-5abf-4afd-952c-b5af14120015",
+  "vendor": "Arturia"
+}

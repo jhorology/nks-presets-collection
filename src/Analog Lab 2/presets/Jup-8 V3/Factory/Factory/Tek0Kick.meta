@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Tek0Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9827bea5-d901-4687-b475-2e5db1bda1cc",
+  "vendor": "Arturia"
+}

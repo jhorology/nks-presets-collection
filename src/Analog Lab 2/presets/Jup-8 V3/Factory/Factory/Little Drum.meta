@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet", "Short"],
+  "name": "Little Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f6408d33-dd1b-45a5-8f38-f84f7e45bea4",
+  "vendor": "Arturia"
+}

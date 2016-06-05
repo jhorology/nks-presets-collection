@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Minor Runner",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "84ec6dae-00f1-482e-9f97-1f725619ede5",
+  "vendor": "Arturia"
+}

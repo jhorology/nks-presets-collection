@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Shim Spark",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "25f55bf2-c294-4e53-96c7-bbb27971749a",
+  "vendor": "Arturia"
+}

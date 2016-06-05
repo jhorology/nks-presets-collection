@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Templates"],
+  "comment": "All stop out on the lower manual only. Dry, no reverb nor other FX.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Single Manual",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "645a3542-6a61-40f6-8a64-8727b8b1b54b",
+  "vendor": "Arturia"
+}

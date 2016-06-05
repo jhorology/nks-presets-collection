@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Groovy arpeggiato using a rich mix of saw and pulse waves. Add screeching insanity from the mod wheel with frequency modulation on VCO2 and filter opening on VCO1.",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex"],
+  "name": "Acid Binge",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1b5c8991-e92d-4208-b304-a2c09ea92325",
+  "vendor": "Arturia"
+}

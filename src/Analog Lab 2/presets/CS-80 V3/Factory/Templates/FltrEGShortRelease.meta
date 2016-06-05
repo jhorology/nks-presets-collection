@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "FltrEGShortRelease",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "53aec705-c535-43c6-947e-de0d656b1653",
+  "vendor": "Arturia"
+}

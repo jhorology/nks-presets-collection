@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atmospheric pad with FM harmonics. Perfect for soundtrack. Modwheel controlled Pitch Chorus.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Partial Beauty",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "35c06e23-6095-4132-85aa-cc15972e35b0",
+  "vendor": "Arturia"
+}

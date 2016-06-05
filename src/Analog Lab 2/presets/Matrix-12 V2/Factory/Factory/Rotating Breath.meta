@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Rotating Breath",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c3505b54-8048-427d-8d18-c824a1981df2",
+  "vendor": "Arturia"
+}

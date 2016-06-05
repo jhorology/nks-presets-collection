@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "HPF Synch",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5be8df2f-c7a0-4879-b7fb-ed05b0ee26c5",
+  "vendor": "Arturia"
+}

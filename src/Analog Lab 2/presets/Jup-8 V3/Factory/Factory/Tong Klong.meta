@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Quiet"],
+  "name": "Tong Klong",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3689dc4d-d95f-4732-915a-85234d574824",
+  "vendor": "Arturia"
+}

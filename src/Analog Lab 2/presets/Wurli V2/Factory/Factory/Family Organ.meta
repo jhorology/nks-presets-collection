@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Soft"],
+  "name": "Family Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e18083da-564c-4195-a87f-e693e388f099",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Ensemble", "Long", "Soundtrack"],
+  "name": "Whisper Chord",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "05de29cc-eac9-463e-b76e-f3ae95489245",
+  "vendor": "Arturia"
+}

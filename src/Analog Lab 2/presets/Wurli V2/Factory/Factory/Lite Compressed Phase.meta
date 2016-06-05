@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky", "Hard"],
+  "name": "Lite Compressed Phase",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "994abd7b-66f8-4ba5-bb36-50f0a54f8623",
+  "vendor": "Arturia"
+}

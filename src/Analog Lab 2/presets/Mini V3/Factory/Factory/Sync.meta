@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Sync",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f9f81bc8-ae75-4ca6-9f15-6f96c0d994f0",
+  "vendor": "Arturia"
+}

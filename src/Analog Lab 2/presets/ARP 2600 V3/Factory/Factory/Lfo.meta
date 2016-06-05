@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lfo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4249e2c8-045f-4d8a-94fc-d4804bc0e447",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Sofitel",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "818e7962-a062-4358-9a63-93aa1d2cc34a",
+  "vendor": "Arturia"
+}

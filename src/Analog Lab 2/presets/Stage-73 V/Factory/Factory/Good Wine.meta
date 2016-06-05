@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Good Wine",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "acb43bd8-76e1-4555-a8db-8a57e2700419",
+  "vendor": "Arturia"
+}

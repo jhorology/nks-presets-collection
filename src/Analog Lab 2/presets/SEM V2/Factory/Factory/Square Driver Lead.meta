@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Square Driver Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ce3ba0a9-5747-465b-9ba3-89b74051a4a3",
+  "vendor": "Arturia"
+}

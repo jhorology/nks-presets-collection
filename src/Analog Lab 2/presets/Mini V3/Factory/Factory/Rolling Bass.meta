@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Rolling Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5c71e7ec-f6aa-4593-ab75-8e0dc7e863f5",
+  "vendor": "Arturia"
+}

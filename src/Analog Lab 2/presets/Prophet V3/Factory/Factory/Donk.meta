@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Donk",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bb13d6bf-ded3-46d4-ab97-1aae6c9af5bb",
+  "vendor": "Arturia"
+}

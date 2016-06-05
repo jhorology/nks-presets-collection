@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Sweep Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "168664e1-bb43-41be-b327-ec7e35b7a86e",
+  "vendor": "Arturia"
+}

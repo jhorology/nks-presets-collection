@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "TR-Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "923dc502-c042-49dd-b5d6-11e066265f9a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Arcade Solo",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b1a3e8a0-1615-46f5-b3e3-6042a31760b5",
+  "vendor": "Arturia"
+}

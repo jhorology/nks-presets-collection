@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Noise", "Simple", "Soundtrack", "Quiet"],
+  "name": "The Great",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9239e379-e890-4e17-afe4-36058b25ca37",
+  "vendor": "Arturia"
+}

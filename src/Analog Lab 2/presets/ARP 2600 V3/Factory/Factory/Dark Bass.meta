@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Dark Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8401aaf4-7dfe-4777-bc07-c5de84f715a8",
+  "vendor": "Arturia"
+}

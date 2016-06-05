@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Caveet",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "243398e9-601f-4a26-b29d-100a0c48ea7a",
+  "vendor": "Arturia"
+}

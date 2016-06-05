@@ -1,0 +1,13 @@
+{
+  "author": "Gingold",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Bass Man",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5274318e-0f4f-4b63-aa1d-829a69661ddb",
+  "vendor": "Arturia"
+}

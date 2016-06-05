@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Wide Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f18a2f23-4293-4007-92d8-f2a367c72405",
+  "vendor": "Arturia"
+}

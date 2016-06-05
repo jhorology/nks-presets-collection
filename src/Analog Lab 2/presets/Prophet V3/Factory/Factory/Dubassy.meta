@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Dubassy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4a8622dd-bcdc-46b8-b523-0140fdfd2c98",
+  "vendor": "Arturia"
+}

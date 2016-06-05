@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Funky"],
+  "name": "Sync Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b01cb2dc-774a-48f3-a6af-ab1dc203161b",
+  "vendor": "Arturia"
+}

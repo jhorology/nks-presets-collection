@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Bread and butter Wurli.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Sour Dough Bread",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0f6dda4c-7f7e-427c-9af6-00f1287eb935",
+  "vendor": "Arturia"
+}

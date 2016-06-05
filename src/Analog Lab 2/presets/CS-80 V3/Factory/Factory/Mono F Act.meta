@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Mono F Act",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2c01f296-e6ff-459c-9c5d-6c292fd349c1",
+  "vendor": "Arturia"
+}

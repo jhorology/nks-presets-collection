@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Glider",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6addc033-d3bc-48f4-9961-e48699f127e8",
+  "vendor": "Arturia"
+}

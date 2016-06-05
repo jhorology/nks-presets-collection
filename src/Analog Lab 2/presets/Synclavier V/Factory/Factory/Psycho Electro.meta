@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big Sequence with  Kick and many dirty sound. Modwheel controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark"],
+  "name": "Psycho Electro",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5fc61dfc-31c6-421c-8eda-6792a148e5c1",
+  "vendor": "Arturia"
+}

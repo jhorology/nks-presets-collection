@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Broken Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f5794a7d-ff80-4d0f-ac89-82f97636a7c5",
+  "vendor": "Arturia"
+}

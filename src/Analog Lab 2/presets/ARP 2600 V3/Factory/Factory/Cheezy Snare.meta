@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Cheezy Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "37a47728-543e-4c91-8ca4-603665791702",
+  "vendor": "Arturia"
+}

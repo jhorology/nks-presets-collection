@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Ringing Fm",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f80ffb2d-2e7d-4a53-9d7b-90bec8f93c7d",
+  "vendor": "Arturia"
+}

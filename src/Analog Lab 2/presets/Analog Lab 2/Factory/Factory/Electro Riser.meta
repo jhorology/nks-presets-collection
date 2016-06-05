@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Long"],
+  "name": "Electro Riser",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e2b4370d-299d-4d95-992e-47869e10282c",
+  "vendor": "Arturia"
+}

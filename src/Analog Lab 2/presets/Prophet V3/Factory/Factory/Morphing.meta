@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Morphing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "72fd1f6b-0e0f-4c04-bf5f-57df3cc1c2fe",
+  "vendor": "Arturia"
+}

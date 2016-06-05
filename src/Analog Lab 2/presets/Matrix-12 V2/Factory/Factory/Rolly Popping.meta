@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Rolly Popping",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "701b2545-7d81-40f4-aeb0-0adb2fec6bb6",
+  "vendor": "Arturia"
+}

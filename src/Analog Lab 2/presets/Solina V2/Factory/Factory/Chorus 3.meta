@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ensemble", "Short"],
+  "name": "Chorus 3",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2c805388-b620-4334-b132-4c9538293402",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Sweep Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a980fcf6-f60e-497a-8756-d72b145f2744",
+  "vendor": "Arturia"
+}

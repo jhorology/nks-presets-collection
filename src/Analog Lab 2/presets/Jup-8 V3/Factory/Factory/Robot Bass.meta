@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Robot Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "743bbb3a-b33d-4bb9-972c-8bd65960a0f0",
+  "vendor": "Arturia"
+}

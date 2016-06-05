@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex"],
+  "name": "Tension",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f8888f88-5356-423a-9d01-64d71f794806",
+  "vendor": "Arturia"
+}

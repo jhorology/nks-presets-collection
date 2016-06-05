@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Soft Horn",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "4dc444e1-a3cf-4d41-b8a5-6becf562b5bd",
+  "vendor": "Arturia"
+}

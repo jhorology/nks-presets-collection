@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Bright", "Complex", "Long", "Quiet"],
+  "name": "Wind Chimes",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "270389a6-24d5-4dea-9453-4a30b916379e",
+  "vendor": "Arturia"
+}

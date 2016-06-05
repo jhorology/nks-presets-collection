@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Percussive sequence with delay effect. Modwheel controlled FM Amount & Aftertouch controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Circle Delay",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4473329c-7e10-4ab8-ba0e-4d342f7a9e72",
+  "vendor": "Arturia"
+}

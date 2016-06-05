@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Skull",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ea022064-f4ea-4525-b1f0-18a483416e29",
+  "vendor": "Arturia"
+}

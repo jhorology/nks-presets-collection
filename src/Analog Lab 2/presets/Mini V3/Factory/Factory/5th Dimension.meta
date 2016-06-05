@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Raspy sawtooth waves in fifths. Mod wheel adds vibrato.",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "5th Dimension",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4ee629d6-ef01-43ee-a5a7-d7507aeea96d",
+  "vendor": "Arturia"
+}

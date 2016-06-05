@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Evil Whisp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "61119c86-a334-4176-99c7-fbb873cdf5e2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Sea Reflection",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "90ef5aac-da74-496d-860a-c46f9f080337",
+  "vendor": "Arturia"
+}

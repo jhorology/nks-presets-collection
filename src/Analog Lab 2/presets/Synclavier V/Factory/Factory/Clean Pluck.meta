@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Non specofied pluck string instrument",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Simple"],
+  "name": "Clean Pluck",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "05f3dfa6-b2a0-46f2-b88d-17575e429995",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Simple"],
+  "name": "Sad Color",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "faa6b73a-47a7-4b03-9754-5d90609d046a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Commander 64 2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fc78c531-0be5-42e0-850b-851a16e94b90",
+  "vendor": "Arturia"
+}

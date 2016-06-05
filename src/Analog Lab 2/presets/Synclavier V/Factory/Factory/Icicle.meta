@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a somewhat soft yet bright and harmonically morphing fm sound with delay",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex", "Digital"],
+  "name": "Icicle",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "d54fb808-46b7-4c26-bf26-9bfee1853b1d",
+  "vendor": "Arturia"
+}

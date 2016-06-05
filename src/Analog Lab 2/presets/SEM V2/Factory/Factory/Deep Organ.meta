@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Deep Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "3b076bf1-6a8f-4ce2-8600-7ab0d92ff024",
+  "vendor": "Arturia"
+}

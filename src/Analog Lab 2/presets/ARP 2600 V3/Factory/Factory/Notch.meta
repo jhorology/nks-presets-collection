@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Notch",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cffc16a7-39eb-4232-b8c9-00740ac2a407",
+  "vendor": "Arturia"
+}

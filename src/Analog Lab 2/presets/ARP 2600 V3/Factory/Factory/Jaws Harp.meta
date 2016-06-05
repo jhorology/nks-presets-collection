@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Jaws Harp",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "626e893d-e694-42fc-9a72-c3bf2fc7e6b8",
+  "vendor": "Arturia"
+}

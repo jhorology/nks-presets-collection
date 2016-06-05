@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Short"],
+  "name": "Tricorder",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "68c871c0-0977-485e-ba17-d034f5672134",
+  "vendor": "Arturia"
+}

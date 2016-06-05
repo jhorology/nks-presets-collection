@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Rainy Day",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "36556672-8cfa-4a4f-b284-b7075bb575f1",
+  "vendor": "Arturia"
+}

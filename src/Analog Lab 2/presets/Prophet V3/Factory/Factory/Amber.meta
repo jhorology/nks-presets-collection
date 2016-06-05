@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Amber",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "81ec14b0-1f40-4909-b0b7-4889a9b928a5",
+  "vendor": "Arturia"
+}

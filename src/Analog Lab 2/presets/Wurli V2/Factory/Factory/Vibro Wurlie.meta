@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple", "Soft"],
+  "name": "Vibro Wurlie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9415c481-fbb2-4add-b401-12c048ea6341",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Medium weight square waves.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Square Fat",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c7301b41-71ef-44d7-acc2-bf62fef5bd72",
+  "vendor": "Arturia"
+}

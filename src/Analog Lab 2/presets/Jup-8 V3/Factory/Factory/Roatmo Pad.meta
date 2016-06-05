@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Quiet"],
+  "name": "Roatmo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc912a30-5108-4790-a655-54d502d6492e",
+  "vendor": "Arturia"
+}

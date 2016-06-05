@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Digital"],
+  "name": "Alien Scanner",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bace8547-c54e-42d5-b88c-51d4f107ca1b",
+  "vendor": "Arturia"
+}

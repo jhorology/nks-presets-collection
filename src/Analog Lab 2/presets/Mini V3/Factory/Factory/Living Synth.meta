@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Living Synth",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b5fa1962-a073-4c3c-924a-1ae4029afee0",
+  "vendor": "Arturia"
+}

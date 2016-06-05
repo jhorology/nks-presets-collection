@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Long"],
+  "name": "Syncpad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fe89747c-c9c8-4b33-8f8b-de2dfe79c955",
+  "vendor": "Arturia"
+}

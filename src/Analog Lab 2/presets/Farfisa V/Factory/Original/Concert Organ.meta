@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Concert Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "71794ca2-e55b-4e71-aacd-b117703d2448",
+  "vendor": "Arturia"
+}

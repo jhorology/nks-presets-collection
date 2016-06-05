@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Short"],
+  "name": "Fat in the Middle",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "a389bb96-da42-4a5e-afae-3eeae149e56e",
+  "vendor": "Arturia"
+}

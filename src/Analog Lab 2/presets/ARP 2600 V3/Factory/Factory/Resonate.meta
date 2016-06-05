@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Evolving"],
+  "name": "Resonate",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "69795a51-e5b9-4104-943f-7a0d519588e3",
+  "vendor": "Arturia"
+}

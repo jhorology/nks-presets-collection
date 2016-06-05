@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ensemble"],
+  "name": "Pads Montreal",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5e9d5a08-2e68-4bcc-b94c-05c462b384be",
+  "vendor": "Arturia"
+}

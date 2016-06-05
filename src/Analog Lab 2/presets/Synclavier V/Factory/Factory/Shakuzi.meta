@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synthesized shakuhachi flute type sound.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Shakuzi",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "578593fb-ef61-4b51-9550-aafab1a8aae3",
+  "vendor": "Arturia"
+}

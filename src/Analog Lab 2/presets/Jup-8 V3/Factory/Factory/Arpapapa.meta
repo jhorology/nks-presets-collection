@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex"],
+  "name": "Arpapapa",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "600240a7-ec5d-4c97-938c-ab1004f516c4",
+  "vendor": "Arturia"
+}

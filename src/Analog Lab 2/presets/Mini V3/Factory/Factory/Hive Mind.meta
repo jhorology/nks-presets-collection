@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Hive Mind",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c49eb041-b224-4a00-a5a3-c6cb988e45ff",
+  "vendor": "Arturia"
+}

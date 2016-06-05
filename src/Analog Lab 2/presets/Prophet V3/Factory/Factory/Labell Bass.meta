@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Labell Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3a5f4bf6-d4f9-40ae-8dc4-d741bb562a38",
+  "vendor": "Arturia"
+}

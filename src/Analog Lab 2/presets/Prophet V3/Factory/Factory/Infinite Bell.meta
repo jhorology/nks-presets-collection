@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Infinite Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d38ee351-8bce-4c7b-bfcd-caa692074bf0",
+  "vendor": "Arturia"
+}

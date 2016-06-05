@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Use aftertouch and mod wheel to change timbre.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Soft", "Quiet", "Short"],
+  "name": "LogArp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b27db783-2ad4-4ca0-b3d7-2d408facd43a",
+  "vendor": "Arturia"
+}

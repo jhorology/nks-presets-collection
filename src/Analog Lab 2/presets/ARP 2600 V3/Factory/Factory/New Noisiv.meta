@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "New Noisiv",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c8cf4da3-e55f-456a-a64c-feee326544b9",
+  "vendor": "Arturia"
+}

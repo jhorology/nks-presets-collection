@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Quiet"],
+  "name": "DX 1965",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "4a7c42dc-ba62-4f5e-9061-84d24d1be488",
+  "vendor": "Arturia"
+}

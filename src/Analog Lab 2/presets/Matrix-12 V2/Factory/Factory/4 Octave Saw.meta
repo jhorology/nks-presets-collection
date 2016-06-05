@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "4 Octave Saw",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7f8ccd25-23a0-4824-8539-e88db22fc7e5",
+  "vendor": "Arturia"
+}

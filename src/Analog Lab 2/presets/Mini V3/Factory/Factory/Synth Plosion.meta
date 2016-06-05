@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Synth Plosion",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "21a0b94b-9b91-4983-a9e3-a96505f33fc4",
+  "vendor": "Arturia"
+}

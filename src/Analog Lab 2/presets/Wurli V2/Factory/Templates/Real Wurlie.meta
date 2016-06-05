@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Real Wurlie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "672956a3-0cdf-4a07-9ab3-e94c4f12e67d",
+  "vendor": "Arturia"
+}

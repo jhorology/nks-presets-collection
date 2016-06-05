@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "B Ig Decay",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "399a1fc1-a430-41a4-8bdd-431f82335a3e",
+  "vendor": "Arturia"
+}

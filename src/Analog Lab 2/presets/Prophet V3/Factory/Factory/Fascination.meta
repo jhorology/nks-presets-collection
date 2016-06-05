@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Clear and bright pad using noise and delay.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Fascination",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9abcad81-d96b-4d7a-bcd3-bfcbf3cee563",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bass sound emulating a picked bass guitar.",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Picked SynBass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f804bb79-13a8-4079-bd4b-f5ccfcffcf38",
+  "vendor": "Arturia"
+}

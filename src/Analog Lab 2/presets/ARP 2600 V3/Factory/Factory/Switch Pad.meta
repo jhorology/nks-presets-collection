@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Switch Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "22f9dd6d-67a7-4446-ab46-9ca1254cacd2",
+  "vendor": "Arturia"
+}

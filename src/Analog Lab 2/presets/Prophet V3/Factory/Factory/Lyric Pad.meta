@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lyric Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3cfd2529-87aa-4468-ba29-0e2b6d5dfdb3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Valley Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "64cb38f3-4a1f-46ea-b87d-485c37d371d8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple"],
+  "name": "Grimy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0cf9580d-547a-4db7-a4d2-5eb31bce5e0b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Gentle, churchy tone with long reverb.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple", "Quiet"],
+  "name": "Low and High",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "50ddcad0-3947-4f25-94db-e1cccd5e36bd",
+  "vendor": "Arturia"
+}

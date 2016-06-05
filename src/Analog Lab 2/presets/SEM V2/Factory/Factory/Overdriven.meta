@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Overdriven",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "41424a00-3d7b-426f-ba82-26751c1a80a2",
+  "vendor": "Arturia"
+}

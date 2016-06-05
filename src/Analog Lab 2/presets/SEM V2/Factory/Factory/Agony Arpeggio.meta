@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Agony Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "fcbfe8db-da9a-4b30-95b3-a6388d718ed6",
+  "vendor": "Arturia"
+}

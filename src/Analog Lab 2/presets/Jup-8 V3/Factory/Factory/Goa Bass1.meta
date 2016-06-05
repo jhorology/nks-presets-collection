@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple"],
+  "name": "Goa Bass1",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6c7c65d4-1d3a-4d91-a469-cbcf0ff98172",
+  "vendor": "Arturia"
+}

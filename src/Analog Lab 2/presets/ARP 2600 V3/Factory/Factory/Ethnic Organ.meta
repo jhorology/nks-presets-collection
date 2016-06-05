@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Ethnic Organ",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "98134ed3-66fa-4ac3-a7df-794a9630511d",
+  "vendor": "Arturia"
+}

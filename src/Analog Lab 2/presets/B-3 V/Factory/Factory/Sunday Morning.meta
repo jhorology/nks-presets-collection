@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple", "Soundtrack", "Quiet"],
+  "name": "Sunday Morning",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "756c07b1-d11c-409b-a0ca-0c46f51a4ba4",
+  "vendor": "Arturia"
+}

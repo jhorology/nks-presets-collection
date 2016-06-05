@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Didgeri Synth",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3c11e64b-f276-43c5-a29a-8e575ab02205",
+  "vendor": "Arturia"
+}

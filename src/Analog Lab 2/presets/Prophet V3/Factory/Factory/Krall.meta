@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Krall",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9b4f08aa-d79e-492a-b915-1f982e4e3b22",
+  "vendor": "Arturia"
+}

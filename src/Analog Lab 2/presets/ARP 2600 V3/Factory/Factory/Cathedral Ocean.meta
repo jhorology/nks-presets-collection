@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft"],
+  "name": "Cathedral Ocean",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7a9dbad9-b2af-4d04-9a11-979c65805f0a",
+  "vendor": "Arturia"
+}

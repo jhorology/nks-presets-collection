@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ymo Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "93ecf97c-254b-4c0f-9f52-11adf9743b19",
+  "vendor": "Arturia"
+}

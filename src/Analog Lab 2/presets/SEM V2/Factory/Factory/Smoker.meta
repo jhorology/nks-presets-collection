@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Short and clipped attack leading to a buzzing organ tone. Mod wheel opens up the filter for more 'wow'.",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Smoker",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "215ff9d6-ee72-4f88-81ee-0629c84bb693",
+  "vendor": "Arturia"
+}

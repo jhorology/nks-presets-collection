@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright"],
+  "name": "Cord Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bfec57a8-d047-441d-a054-3ea368fd3a65",
+  "vendor": "Arturia"
+}

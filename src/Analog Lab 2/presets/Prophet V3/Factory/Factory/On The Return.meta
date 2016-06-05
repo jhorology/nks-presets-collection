@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "On The Return",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6a2757fe-f47f-4e6e-afa8-b1ff55a8b44e",
+  "vendor": "Arturia"
+}

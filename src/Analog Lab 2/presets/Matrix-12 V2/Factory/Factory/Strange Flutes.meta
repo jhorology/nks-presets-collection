@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Strange Flutes",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "25071976-2f57-4623-9845-3fcd2414e130",
+  "vendor": "Arturia"
+}

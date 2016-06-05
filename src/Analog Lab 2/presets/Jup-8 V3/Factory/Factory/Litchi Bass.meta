@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Litchi Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ed27a974-01d4-40ae-a8b8-78b010419158",
+  "vendor": "Arturia"
+}

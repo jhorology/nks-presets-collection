@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Bs Dr Quiet",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c1d7f10a-48a7-4fbb-92cc-16b3fae71740",
+  "vendor": "Arturia"
+}

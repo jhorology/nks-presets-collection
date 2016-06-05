@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "1601 BASS",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9206bda8-7190-46bf-a27f-acaee068015f",
+  "vendor": "Arturia"
+}

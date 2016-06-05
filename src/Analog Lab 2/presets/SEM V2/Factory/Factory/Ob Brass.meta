@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ob Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "a552760c-95d1-493c-b183-d020a05c8c9f",
+  "vendor": "Arturia"
+}

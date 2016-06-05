@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Hard"],
+  "name": "Obey The Computer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b312415f-7fd6-422e-9baf-1ba0f7c80b49",
+  "vendor": "Arturia"
+}

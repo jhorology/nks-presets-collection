@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "The Bomb",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ab663af8-c515-481d-9283-8d784b4a4a8d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Noisy Hh",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "462484e8-4ddc-456c-8a1e-a2568dc6aea3",
+  "vendor": "Arturia"
+}

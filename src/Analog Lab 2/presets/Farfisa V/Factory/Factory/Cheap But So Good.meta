@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Architypal Farfisa organ complete with fast vibrato. No effects.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cheap But So Good",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ad7f5916-e15a-4756-968a-6ce238226653",
+  "vendor": "Arturia"
+}

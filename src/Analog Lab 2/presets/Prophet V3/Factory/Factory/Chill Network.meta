@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Chill Network",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f8820f4d-a089-49e1-8907-427432153fb2",
+  "vendor": "Arturia"
+}

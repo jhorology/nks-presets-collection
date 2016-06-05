@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Spotting",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "582ade17-7a7b-4687-b7a7-5ec568df9731",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Elctr Birds",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9b4d07ad-d1f9-4b33-adeb-ca50cf2a881e",
+  "vendor": "Arturia"
+}

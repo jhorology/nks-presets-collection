@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Dentist",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bb273aea-a29b-4b33-a0db-08a10e10399d",
+  "vendor": "Arturia"
+}

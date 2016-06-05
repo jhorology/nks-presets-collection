@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Gentle symth strings",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Simple", "Soft", "Soundtrack", "Quiet"],
+  "name": "Milkyway Queen",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "35a3cfe0-3cf9-48ac-bfee-3c6a6039fdb3",
+  "vendor": "Arturia"
+}

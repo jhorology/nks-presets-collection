@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Upper manual for long chords, lower for bass. Deep phaser, reverb and delay effects",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft", "Soundtrack"],
+  "name": "City Of Rome",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a96e1a8c-8548-486d-87cf-085f6d43465f",
+  "vendor": "Arturia"
+}

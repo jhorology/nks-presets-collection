@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Shortsaw",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1bdc57c8-642f-411b-ab70-e6dc829a7ffb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soundtrack"],
+  "name": "Zone Bed",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "669b7c81-c453-4e0b-82ac-5b278459f5e1",
+  "vendor": "Arturia"
+}

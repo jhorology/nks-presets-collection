@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Long", "Soundtrack"],
+  "name": "F Mtoxic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8a9a2046-11d7-489e-8516-1f2e1e23de5f",
+  "vendor": "Arturia"
+}

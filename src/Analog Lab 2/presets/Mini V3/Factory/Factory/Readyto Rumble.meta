@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Readyto Rumble",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e08e8f5e-6e3c-439a-bcc1-e37d92e4a8f3",
+  "vendor": "Arturia"
+}

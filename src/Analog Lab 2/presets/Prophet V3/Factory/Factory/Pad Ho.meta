@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pad Ho",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7a94da96-f2e9-4f44-b0b2-7d16a7e93d86",
+  "vendor": "Arturia"
+}

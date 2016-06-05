@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Seq Basselec",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "594d3dac-cf49-483c-8ea3-f6da7dd9df63",
+  "vendor": "Arturia"
+}

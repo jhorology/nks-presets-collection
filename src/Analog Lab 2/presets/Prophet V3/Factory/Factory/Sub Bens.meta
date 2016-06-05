@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Sub Bens",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0b0cee17-a0c0-4233-86f5-c67907936935",
+  "vendor": "Arturia"
+}

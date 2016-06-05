@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Reso Sequence",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e38f2232-bb07-4eaa-8611-f8c46a51493f",
+  "vendor": "Arturia"
+}

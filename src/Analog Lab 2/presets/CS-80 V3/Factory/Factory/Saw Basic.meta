@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Saw Basic",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a1f6d9cb-acb6-4619-9a4f-1d23260dde14",
+  "vendor": "Arturia"
+}

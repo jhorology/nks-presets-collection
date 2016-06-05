@@ -1,0 +1,13 @@
+{
+  "author": "Brendan Perry",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Ball Wintersun",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "33ba055f-aa13-46a8-8647-e683fa974b27",
+  "vendor": "Arturia"
+}

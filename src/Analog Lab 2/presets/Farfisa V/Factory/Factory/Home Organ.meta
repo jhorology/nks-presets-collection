@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Medium tone  8' stop flute. Nothing too dramatic in terms of modulation or effects. A solid tone for general chord work.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Home Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "aaba54ad-926c-472d-b609-1d6f8aa7eb70",
+  "vendor": "Arturia"
+}

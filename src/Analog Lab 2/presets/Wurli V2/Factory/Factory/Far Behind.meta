@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soft"],
+  "name": "Far Behind",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9b1343dd-3d9d-4c41-a77d-81785c5fa5a3",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard"],
+  "name": "Jup Bass2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4a00795f-d297-429a-b264-a429e8f83323",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sometimes you just need a nice and simple bass. Here it is - and if it's too simple you can spice it up using the mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Simple"],
+  "name": "Log Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1f782a0b-ccfc-40b5-9461-3a84b7355266",
+  "vendor": "Arturia"
+}

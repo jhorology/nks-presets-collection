@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple", "Soundtrack"],
+  "name": "Fx On",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "5e8f42cd-b574-4fb3-9503-50b1f6f02371",
+  "vendor": "Arturia"
+}

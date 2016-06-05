@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Rev Noise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "92039faa-391f-40f5-9249-f9b4eaab15c3",
+  "vendor": "Arturia"
+}

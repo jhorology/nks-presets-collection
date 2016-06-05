@@ -1,0 +1,13 @@
+{
+  "author": "Synclavier",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "FM String Pad",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "58bcb2d1-40bf-4a78-a84a-3915dcb82032",
+  "vendor": "Arturia"
+}

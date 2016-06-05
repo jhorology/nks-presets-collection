@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Leadael",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "543da520-b8b4-4b07-9ce0-c734c5dada11",
+  "vendor": "Arturia"
+}

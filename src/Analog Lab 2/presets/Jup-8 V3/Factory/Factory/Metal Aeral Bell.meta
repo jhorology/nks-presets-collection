@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Ambient bell-like digital pad. Sounds good when arpeggiated at a slow rate.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Quiet"],
+  "name": "Metal Aeral Bell",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "17990f0f-d40f-45ea-9e72-ea3f964fdf3f",
+  "vendor": "Arturia"
+}

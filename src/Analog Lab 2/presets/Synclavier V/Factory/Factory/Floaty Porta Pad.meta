@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Ethereal pad using Synclavier's classic built-in voice chorusing and morphing between timbre frames. MOD WHEEL decreases the chorusing amount",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long", "Soft", "Soundtrack", "Evolving"],
+  "name": "Floaty Porta Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "99deeacc-fa8f-422c-9935-4d7811bd9298",
+  "vendor": "Arturia"
+}

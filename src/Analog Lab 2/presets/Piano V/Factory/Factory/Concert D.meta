@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "All grand piano in a nice concert hall",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Concert D",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "13dc30a3-999c-495f-9ff5-266e1f415e61",
+  "vendor": "Arturia"
+}

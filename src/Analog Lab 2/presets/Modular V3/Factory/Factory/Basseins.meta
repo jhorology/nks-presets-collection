@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Basseins",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4f6a9ac2-fdf4-4bdb-88c6-db869fa67be8",
+  "vendor": "Arturia"
+}

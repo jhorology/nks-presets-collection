@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Soundtrack"],
+  "name": "Wind Magnetic",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8ca33e9e-bd58-458e-a85c-7db7fe9b3b47",
+  "vendor": "Arturia"
+}

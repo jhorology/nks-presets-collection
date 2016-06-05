@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Deep And Sweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e6cd097e-1cd1-4cbc-b3d4-eda41fee4bfa",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Simulated OSC sync synth lead",
+  "deviceType": "INST",
+  "modes": [],
+  "name": "Like a Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "16cda921-64b0-4c2b-b590-f5a115ab2308",
+  "vendor": "Arturia"
+}

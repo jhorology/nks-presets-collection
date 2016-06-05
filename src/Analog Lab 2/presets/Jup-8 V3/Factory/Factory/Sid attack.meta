@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Sharp and percussive. Makes very interesting artifacts when high notes are played. Also makes a good bass.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Short"],
+  "name": "Sid attack",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "95ca1eb4-464c-43ab-959b-69a62a14943c",
+  "vendor": "Arturia"
+}

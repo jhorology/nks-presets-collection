@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Starts out as a bright lush pad and then morphs into an organ type of sound. The time-frames are ideal for these types of morphing sounds. The mod-wheel is assigned to voice detune.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Ensemble", "Soft", "Evolving"],
+  "name": "Lush",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e23509e2-6912-403d-9699-0d383e251a64",
+  "vendor": "Arturia"
+}

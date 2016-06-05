@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre"],
+  "name": "Dist 2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c8418ff3-4f07-4239-9fdb-5fa7849b39de",
+  "vendor": "Arturia"
+}

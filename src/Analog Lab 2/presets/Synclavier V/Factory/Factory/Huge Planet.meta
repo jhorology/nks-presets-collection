@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Huge atmospheric dramatic pad for ambient or soundtracks.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Huge Planet",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dce71c31-c4d1-4e42-8ca4-9673e95bfff0",
+  "vendor": "Arturia"
+}

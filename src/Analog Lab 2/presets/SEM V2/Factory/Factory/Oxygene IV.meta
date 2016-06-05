@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft", "Short"],
+  "name": "Oxygene IV",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "d0f7ab07-3ae8-49f7-b4e1-cfe40009cea8",
+  "vendor": "Arturia"
+}

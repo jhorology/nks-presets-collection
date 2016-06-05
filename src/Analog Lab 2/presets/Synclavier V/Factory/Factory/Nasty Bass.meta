@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Punchy bass with repeat alternate arpeggio mode. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Hard", "Short"],
+  "name": "Nasty Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2caca405-195c-4530-85e0-2bf276af4a5b",
+  "vendor": "Arturia"
+}

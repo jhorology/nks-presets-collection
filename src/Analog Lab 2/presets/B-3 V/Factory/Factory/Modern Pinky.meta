@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Envelope modulated upper manual drawbars, lower manual for bass",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Modern Pinky",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d080460b-bf23-4ecc-88f3-f16404e8ffda",
+  "vendor": "Arturia"
+}

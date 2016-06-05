@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard"],
+  "name": "Fleshy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "fabdbce3-a695-4a42-81fa-68acc10c60e2",
+  "vendor": "Arturia"
+}

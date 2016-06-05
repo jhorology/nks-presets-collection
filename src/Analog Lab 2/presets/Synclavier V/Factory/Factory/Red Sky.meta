@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Slowly evolving FM texture. Space / aliens with an interesting release. Mod wheel controls vibrato depth .Aftertouch controls FM amount, adding more depth to the sound.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Soundtrack", "Evolving"],
+  "name": "Red Sky",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9810060b-b8d7-47c6-b37d-4453e1f87660",
+  "vendor": "Arturia"
+}

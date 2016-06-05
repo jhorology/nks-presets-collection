@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long", "Short"],
+  "name": "Pittip",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "870fb651-40cd-4508-82fc-a6257944aa75",
+  "vendor": "Arturia"
+}

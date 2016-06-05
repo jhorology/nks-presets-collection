@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Thin detune pad with burbley attack.",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "East Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "29a102aa-ddf9-4a68-8bc3-1f701addc157",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Doublesweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ddfbb2a0-e1cb-464d-b83c-b6f4780ea428",
+  "vendor": "Arturia"
+}

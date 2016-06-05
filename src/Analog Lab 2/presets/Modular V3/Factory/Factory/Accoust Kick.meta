@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Accoust Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "904751e0-e89d-4ddd-bc48-a520fba0e802",
+  "vendor": "Arturia"
+}

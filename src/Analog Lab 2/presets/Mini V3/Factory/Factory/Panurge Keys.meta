@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Panurge Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ea1ae88b-b60e-41ed-a35c-af27f1c9fc90",
+  "vendor": "Arturia"
+}

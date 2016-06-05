@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Arktik Storm",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "37bc858d-d69d-484f-a769-b78008bc3828",
+  "vendor": "Arturia"
+}

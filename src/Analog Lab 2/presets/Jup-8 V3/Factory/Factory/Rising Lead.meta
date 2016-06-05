@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Complex"],
+  "name": "Rising Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c48c6392-941e-42df-8893-4e3ba9ff5dd4",
+  "vendor": "Arturia"
+}

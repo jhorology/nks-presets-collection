@@ -1,0 +1,13 @@
+{
+  "author": "Kurt Kurazaki",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Ran3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "15c40703-7c1b-4e9b-943c-296385c843e8",
+  "vendor": "Arturia"
+}

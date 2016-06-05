@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "Movement Bright",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e6e8f1de-aee5-4c8e-be83-8109fefd6fa3",
+  "vendor": "Arturia"
+}

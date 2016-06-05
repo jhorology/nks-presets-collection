@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Sunshine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b04dc098-88a6-4cf9-b757-b2246d2d3b57",
+  "vendor": "Arturia"
+}

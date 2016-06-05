@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Short little arpeggiated bleeps and bloops with some delay and chorus added. Interesting effect on the mod wheel, where the attack is softened.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky", "Short"],
+  "name": "Bitpop",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "85565cca-2bdf-4cf8-96c2-a6f8466468bb",
+  "vendor": "Arturia"
+}

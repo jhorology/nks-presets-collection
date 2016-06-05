@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Hi",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bd89eff2-e290-4534-bcbf-db7482a3975e",
+  "vendor": "Arturia"
+}

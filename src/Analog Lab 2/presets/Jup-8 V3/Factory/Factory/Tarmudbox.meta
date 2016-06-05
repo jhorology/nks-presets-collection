@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Soft"],
+  "name": "Tarmudbox",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1c69ef8f-d524-4f17-949b-00b49d65b8d6",
+  "vendor": "Arturia"
+}

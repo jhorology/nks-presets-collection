@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Rich and complex slowly building pad sound with analog character. MOD WHEEL- slow stereo panning  AFTERTOUCH-speeds up stereo pan",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soft", "Soundtrack", "Evolving"],
+  "name": "Smooov Swell",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0b6eea31-8215-422c-acf4-c34b7384ef3c",
+  "vendor": "Arturia"
+}

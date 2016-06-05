@@ -1,0 +1,13 @@
+{
+  "author": "Anthony Gonzales",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "hills",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7e0bb00c-c54b-438c-9e30-6ed4b81af885",
+  "vendor": "Arturia"
+}

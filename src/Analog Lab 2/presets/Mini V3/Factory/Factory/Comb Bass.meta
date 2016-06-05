@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Comb Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f8331551-60bd-41e6-98c8-96692e73208b",
+  "vendor": "Arturia"
+}

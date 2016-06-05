@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark"],
+  "name": "Not Totally Dead",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "eaaaf1ef-918c-4c9a-8ed7-63555b9c9886",
+  "vendor": "Arturia"
+}

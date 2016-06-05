@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Mod Me Square",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8fb5ee63-06ee-47b5-b3d4-7b469aeebc5a",
+  "vendor": "Arturia"
+}

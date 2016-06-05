@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Long", "Soundtrack"],
+  "name": "Cyborg Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "931ca2a6-c1c7-4fc9-9ff5-4ae81a500e53",
+  "vendor": "Arturia"
+}

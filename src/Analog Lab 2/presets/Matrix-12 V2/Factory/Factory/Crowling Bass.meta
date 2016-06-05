@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Simple"],
+  "name": "Crowling Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c02036f6-94bc-4202-958f-d94f73fe7578",
+  "vendor": "Arturia"
+}

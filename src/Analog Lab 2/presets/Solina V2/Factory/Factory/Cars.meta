@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Thick, detuned, wobbly synth string,  reminiscent of song of the same name.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple"],
+  "name": "Cars",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7763c50a-63e5-4f68-8f0d-fba1275c7666",
+  "vendor": "Arturia"
+}

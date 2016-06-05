@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Splash",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "63f83afe-33f3-4f09-9e00-2c08be91b12f",
+  "vendor": "Arturia"
+}

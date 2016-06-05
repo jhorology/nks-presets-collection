@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Layered and morphing pad in non-standard tuning (Octave Ratio2.0) producing interesting chords. MOD WHEEL-tremolo depth.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Soft", "Soundtrack", "Evolving"],
+  "name": "AltTunePad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2c1883a5-755d-4f04-84eb-a2ee6e9ad7f5",
+  "vendor": "Arturia"
+}

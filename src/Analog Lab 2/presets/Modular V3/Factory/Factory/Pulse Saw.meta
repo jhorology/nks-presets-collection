@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Pulse Saw",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "828efbcc-3e15-4e36-9685-71aee15edd54",
+  "vendor": "Arturia"
+}

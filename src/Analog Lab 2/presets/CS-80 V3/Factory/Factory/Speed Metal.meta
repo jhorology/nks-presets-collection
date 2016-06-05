@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Speed Metal",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "64019d4c-80d0-44e9-b914-3780078edabe",
+  "vendor": "Arturia"
+}

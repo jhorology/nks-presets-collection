@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Digital"],
+  "name": "Big Portalead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "17e6234e-87b7-4e4d-948b-d85cd09a82b1",
+  "vendor": "Arturia"
+}

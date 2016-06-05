@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Stretchy Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "fec04e86-6226-4116-8065-18936e1895fa",
+  "vendor": "Arturia"
+}

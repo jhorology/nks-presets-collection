@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Ether Up There",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6ac0d597-0b8a-458a-8237-0e0ddbdc1c5b",
+  "vendor": "Arturia"
+}

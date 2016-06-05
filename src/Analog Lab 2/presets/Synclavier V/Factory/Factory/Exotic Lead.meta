@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Long"],
+  "name": "Exotic Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8b10d667-83fa-4cfa-ba18-e28b60dd6fb3",
+  "vendor": "Arturia"
+}

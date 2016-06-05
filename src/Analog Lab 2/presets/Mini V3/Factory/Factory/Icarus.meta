@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Icarus",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fd8c3f03-93e9-41d6-8d86-a7af608692c1",
+  "vendor": "Arturia"
+}

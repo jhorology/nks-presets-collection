@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Polo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d09663c6-447c-4797-a17f-4f774c481355",
+  "vendor": "Arturia"
+}

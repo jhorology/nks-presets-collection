@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long", "Soundtrack"],
+  "name": "Low Shimmer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4b9ea8e4-abbd-4a1e-9604-3f19b6a974ae",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Control Horns",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "a432eb2b-ff81-4223-836f-06ea7b01f012",
+  "vendor": "Arturia"
+}

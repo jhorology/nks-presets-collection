@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "In Peace",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "03dc537f-a2ad-405a-b6bc-25c8828b09eb",
+  "vendor": "Arturia"
+}

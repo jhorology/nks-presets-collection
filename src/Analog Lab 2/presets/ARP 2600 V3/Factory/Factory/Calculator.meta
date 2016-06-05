@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "Calculator",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bd6b2999-9766-47f6-936a-85af9ca83373",
+  "vendor": "Arturia"
+}

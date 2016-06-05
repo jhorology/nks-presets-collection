@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Roto Staccato",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "6ce4652c-11a1-4e1e-8bc3-b5165fbc8726",
+  "vendor": "Arturia"
+}

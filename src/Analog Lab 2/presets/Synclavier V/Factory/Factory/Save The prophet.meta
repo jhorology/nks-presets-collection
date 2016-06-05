@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Save The prophet",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "bac79689-cc50-4f24-8f26-e5fccc442662",
+  "vendor": "Arturia"
+}

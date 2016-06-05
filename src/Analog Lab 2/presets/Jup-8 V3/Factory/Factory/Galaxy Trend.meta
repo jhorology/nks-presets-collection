@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard"],
+  "name": "Galaxy Trend",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4ef14bc9-9dc0-4594-8b0f-bc35bf6582f2",
+  "vendor": "Arturia"
+}

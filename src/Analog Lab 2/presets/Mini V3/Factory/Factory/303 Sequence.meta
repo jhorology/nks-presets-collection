@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "303 Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "79a9a272-06d1-4f14-8011-b32a4aa8be32",
+  "vendor": "Arturia"
+}

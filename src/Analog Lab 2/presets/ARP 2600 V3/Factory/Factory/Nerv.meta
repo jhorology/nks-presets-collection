@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Nerv",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e0668373-36d3-44ad-bc66-a50366b46b71",
+  "vendor": "Arturia"
+}

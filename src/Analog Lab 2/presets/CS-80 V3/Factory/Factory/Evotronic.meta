@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre"],
+  "name": "Evotronic",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "38a818dd-5202-4a20-9043-942dc9d7f96a",
+  "vendor": "Arturia"
+}

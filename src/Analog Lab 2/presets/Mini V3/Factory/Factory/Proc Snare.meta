@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Noise"],
+  "name": "Proc Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3275002e-1b7a-476a-86c9-806b12d0cf3c",
+  "vendor": "Arturia"
+}

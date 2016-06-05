@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Matrixperimenta",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ce75d9d6-2a95-405a-a301-e286393e52de",
+  "vendor": "Arturia"
+}

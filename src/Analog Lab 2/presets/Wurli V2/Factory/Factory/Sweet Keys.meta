@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Soft"],
+  "name": "Sweet Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "036157ac-2deb-4135-9039-267c55ea868f",
+  "vendor": "Arturia"
+}

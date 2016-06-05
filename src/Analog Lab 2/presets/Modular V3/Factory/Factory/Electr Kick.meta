@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Wait for the self-oscillation to load and discover a zappy kick.",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Electr Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "87211cc0-a988-4c38-9c72-8f0f287f0c09",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Gate SNARE",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "fda344a2-8665-4382-b195-adb827cd2844",
+  "vendor": "Arturia"
+}

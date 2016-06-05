@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "909 Revers",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "07d4c2aa-eaed-4047-b8dc-b00c41b79048",
+  "vendor": "Arturia"
+}

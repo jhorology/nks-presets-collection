@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Pipepipe",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "394021af-3419-4bf0-b0c3-fbb290751df1",
+  "vendor": "Arturia"
+}

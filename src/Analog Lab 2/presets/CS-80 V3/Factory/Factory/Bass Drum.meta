@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Bass Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f03a6fd5-fdad-487e-a2ec-ca79feaca5ee",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Pluck Keybad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7234b1b0-0086-4752-a774-4b5dcdfc7760",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "7th Tone",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "24ce73d1-6e27-4769-b682-40c4e58d0b50",
+  "vendor": "Arturia"
+}

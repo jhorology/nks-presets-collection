@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Sextant Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bf93cab1-d837-412c-ba0d-a69611bd7878",
+  "vendor": "Arturia"
+}

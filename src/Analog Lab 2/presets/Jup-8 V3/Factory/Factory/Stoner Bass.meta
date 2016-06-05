@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Stoner Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "388a6841-e088-4932-bd70-ed4303f09c1a",
+  "vendor": "Arturia"
+}

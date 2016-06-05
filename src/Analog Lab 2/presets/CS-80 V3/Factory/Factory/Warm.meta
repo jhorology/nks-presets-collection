@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Warm",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "9ea1efe5-1b7e-4dfb-9a4e-a54b943321ae",
+  "vendor": "Arturia"
+}

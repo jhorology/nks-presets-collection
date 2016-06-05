@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Bouncing Sub",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7cb72679-951f-4c4c-9ac0-93d754ef07a6",
+  "vendor": "Arturia"
+}

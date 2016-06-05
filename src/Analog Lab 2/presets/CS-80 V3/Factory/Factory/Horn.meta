@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Horn",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "5f1c0140-f61b-40b0-8ddd-2b9cfa84ccdb",
+  "vendor": "Arturia"
+}

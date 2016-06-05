@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Strange and intriguing sound inspired by the horror movie soundtracks of John Carpenter",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Carpenter",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "98342caa-9169-490b-8848-21c4f6b55466",
+  "vendor": "Arturia"
+}

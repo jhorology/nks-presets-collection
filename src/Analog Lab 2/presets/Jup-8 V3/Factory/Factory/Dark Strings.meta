@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple"],
+  "name": "Dark Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "34e98c92-9058-4e49-bc7b-429572bbc9cb",
+  "vendor": "Arturia"
+}

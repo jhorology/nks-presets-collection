@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Solo Brass",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "91490d84-2ceb-48b0-96a7-d0fff7cba1f8",
+  "vendor": "Arturia"
+}

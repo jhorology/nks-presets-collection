@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Ach Steel",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "878f790d-aee1-4216-b122-4a0e8f3061eb",
+  "vendor": "Arturia"
+}

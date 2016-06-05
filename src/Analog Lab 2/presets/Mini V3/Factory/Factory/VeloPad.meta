@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "VeloPad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ba29a000-1b98-4be2-a1e0-54f7575239c5",
+  "vendor": "Arturia"
+}

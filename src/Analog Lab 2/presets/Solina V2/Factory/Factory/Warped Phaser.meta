@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Long"],
+  "name": "Warped Phaser",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d2488b0a-45fa-4b8e-b549-1955990828ea",
+  "vendor": "Arturia"
+}

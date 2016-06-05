@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a harmonic morphing pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Frame Play",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7e221c25-63ed-4aba-bdde-fb46b3b49207",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Timpani",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "34ca73f9-f4e9-482f-8df5-d166ef26f7a1",
+  "vendor": "Arturia"
+}

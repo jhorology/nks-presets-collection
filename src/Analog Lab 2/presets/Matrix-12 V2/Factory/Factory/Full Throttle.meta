@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble", "Soundtrack"],
+  "name": "Full Throttle",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4dc953f1-b701-44fe-ab73-b2c19e325e75",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "In Steps",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "18858d0d-7931-4f93-9c0f-35f9b889e192",
+  "vendor": "Arturia"
+}

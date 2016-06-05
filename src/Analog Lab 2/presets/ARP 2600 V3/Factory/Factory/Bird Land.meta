@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Bird Land",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e9f8d315-b835-41d5-bc0b-5fc8b6b1e1d3",
+  "vendor": "Arturia"
+}

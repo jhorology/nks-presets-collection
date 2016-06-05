@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Lichord",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c372b396-5e0c-4a77-bedf-fa599ee2c88c",
+  "vendor": "Arturia"
+}

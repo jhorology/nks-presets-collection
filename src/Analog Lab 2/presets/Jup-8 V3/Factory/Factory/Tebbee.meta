@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Simple"],
+  "name": "Tebbee",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "14f5febc-eead-47a2-8544-7940e412dc8a",
+  "vendor": "Arturia"
+}

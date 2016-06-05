@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Stretch Stress",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d798d338-4b5f-44ab-bb2e-1aee8972b964",
+  "vendor": "Arturia"
+}

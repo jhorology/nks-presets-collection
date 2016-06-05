@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Multi-stage filtery digital bass. Mod wheel affects FM amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard"],
+  "name": "Dinobass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "04f4baa1-9c4b-4892-a6b7-9ae2f5f79c5d",
+  "vendor": "Arturia"
+}

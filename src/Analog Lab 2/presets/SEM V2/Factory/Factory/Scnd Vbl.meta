@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Noise"],
+  "name": "Scnd Vbl",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "68f67e2a-5b2f-47d1-80e7-f07f5e1ccee7",
+  "vendor": "Arturia"
+}

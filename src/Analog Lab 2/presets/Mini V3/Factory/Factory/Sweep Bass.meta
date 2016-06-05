@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Sweep Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "50d7ff6d-6c21-478b-a919-0da08a01feab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Saw",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "62f1631e-1049-4306-8614-382e91804102",
+  "vendor": "Arturia"
+}

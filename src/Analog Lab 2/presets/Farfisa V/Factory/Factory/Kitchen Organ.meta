@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Thick organ pad with overdrive and chorus.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Kitchen Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "134dc60e-b0ce-451e-af1b-0d00a56e8f95",
+  "vendor": "Arturia"
+}

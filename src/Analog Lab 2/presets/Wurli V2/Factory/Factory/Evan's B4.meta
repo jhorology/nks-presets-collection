@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Simple"],
+  "name": "Evan's B4",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9fd37e5b-2ce7-4aad-87fa-7f828930c659",
+  "vendor": "Arturia"
+}

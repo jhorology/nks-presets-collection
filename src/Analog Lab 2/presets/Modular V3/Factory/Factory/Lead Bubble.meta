@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Lead Bubble",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5d2d8b2e-9ff8-47b6-b0cd-7b17d7a4b019",
+  "vendor": "Arturia"
+}

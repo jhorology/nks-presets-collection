@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Lyricon",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d48fc332-1efb-4c8d-80c6-b7c77749b553",
+  "vendor": "Arturia"
+}

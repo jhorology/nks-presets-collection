@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Analog Rhodes01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ffecbc72-cb3a-44d0-ba55-313f5f77db12",
+  "vendor": "Arturia"
+}

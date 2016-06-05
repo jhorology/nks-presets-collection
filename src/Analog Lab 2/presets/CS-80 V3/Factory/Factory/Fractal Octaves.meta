@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Fractal Octaves",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "32442d5b-13b6-491e-a457-bcc47aadc95d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Templates"],
+  "comment": "Muted tone underneath but with a chiffy, breathy front end.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Stage Dark",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "64cff3d6-c53d-47bd-a2b3-228d20857e68",
+  "vendor": "Arturia"
+}

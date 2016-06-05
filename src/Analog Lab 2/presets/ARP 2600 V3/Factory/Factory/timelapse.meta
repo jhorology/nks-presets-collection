@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple"],
+  "name": "timelapse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3fa4ad1a-d4af-4cdf-ad7f-ecacce3d2ad5",
+  "vendor": "Arturia"
+}

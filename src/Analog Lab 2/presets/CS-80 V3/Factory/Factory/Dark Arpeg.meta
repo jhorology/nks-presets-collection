@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Dark Arpeg",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9aa257be-b1b0-4012-8ee3-2752eb630132",
+  "vendor": "Arturia"
+}

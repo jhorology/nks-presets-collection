@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Short"],
+  "name": "Hard Job",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b5d30074-5752-4901-87ff-777099a23f49",
+  "vendor": "Arturia"
+}

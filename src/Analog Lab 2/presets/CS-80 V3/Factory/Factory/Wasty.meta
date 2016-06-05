@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Wasty",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "973efe7e-f9c0-4848-b54b-ecd5804b8910",
+  "vendor": "Arturia"
+}

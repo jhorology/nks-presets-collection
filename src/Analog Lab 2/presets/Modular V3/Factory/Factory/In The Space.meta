@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "In The Space",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e5535f9f-0031-4fc5-8150-3163900fcca6",
+  "vendor": "Arturia"
+}

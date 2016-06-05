@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Elektrik Rhythm",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "f80924dd-dedd-4f34-a7ae-2dd6b3b19d4b",
+  "vendor": "Arturia"
+}

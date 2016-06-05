@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Baujolpif",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bcf6502f-0aa2-4a5f-8647-6eb1d4c72f99",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Noise"],
+  "name": "Take a Drink",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "20f5ca9d-e5d1-4af3-8739-aa7e90087c53",
+  "vendor": "Arturia"
+}

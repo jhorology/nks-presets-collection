@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice 80's keys with modulation and reverb-Dubdelay. Modwheel controlled tuning.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Funky", "Simple"],
+  "name": "Sweet Exposure",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1d25ffe7-fc19-491e-9736-3eddd6b66a77",
+  "vendor": "Arturia"
+}

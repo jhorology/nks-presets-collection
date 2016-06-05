@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Complex", "Evolving"],
+  "name": "Up Spiral",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "796f430b-2c9a-4636-ad5d-7ee6759c1cc6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Funky", "Simple"],
+  "name": "Chorus",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "809f9dea-b026-4c1a-95b8-ea0c4cbfb1e7",
+  "vendor": "Arturia"
+}

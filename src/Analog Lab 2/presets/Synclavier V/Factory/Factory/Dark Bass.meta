@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "FM dark Bass sound. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Dark Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a3135afe-798c-4419-8fe9-e76b5fc9ca5e",
+  "vendor": "Arturia"
+}

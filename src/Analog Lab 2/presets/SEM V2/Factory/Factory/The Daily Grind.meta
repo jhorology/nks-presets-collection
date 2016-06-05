@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "The Daily Grind",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "17dbfb27-12c2-4ddc-8029-671775bd3d7b",
+  "vendor": "Arturia"
+}

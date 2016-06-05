@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Funky", "Soft"],
+  "name": "Brody Time",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9793e46c-d161-461d-bb38-f90b81d09991",
+  "vendor": "Arturia"
+}

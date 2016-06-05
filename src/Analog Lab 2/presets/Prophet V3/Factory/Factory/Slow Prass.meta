@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Slow Prass",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "edd8bada-baf4-4329-9d5e-fd6a529ff11a",
+  "vendor": "Arturia"
+}

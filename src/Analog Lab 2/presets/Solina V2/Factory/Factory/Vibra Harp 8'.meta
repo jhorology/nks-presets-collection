@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long", "Simple", "Soft"],
+  "name": "Vibra Harp 8'",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "da08880b-f404-41a4-ad31-41a0e927debf",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soft", "Soundtrack"],
+  "name": "Tremolad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "18994573-f327-4853-bdd7-3e34dd665459",
+  "vendor": "Arturia"
+}

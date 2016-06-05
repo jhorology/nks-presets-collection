@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple"],
+  "name": "Simple Ole",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a518ba9a-f4dd-4638-a6d0-90d3e0dcaac2",
+  "vendor": "Arturia"
+}

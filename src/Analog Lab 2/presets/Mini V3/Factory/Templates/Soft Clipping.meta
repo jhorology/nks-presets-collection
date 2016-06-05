@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Soft Clipping",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0c18f3eb-f2aa-4a1c-bac8-b402f0fb49bc",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soft"],
+  "name": "String Set 2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "25b17daf-4895-4fd2-a9eb-a6e2046287ee",
+  "vendor": "Arturia"
+}

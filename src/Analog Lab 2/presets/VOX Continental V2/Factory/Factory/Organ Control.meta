@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Rich and full tone with vibrato and a modest amount of amp overdrive. The default is 'with vibrato' but you can use mod wheel to turn it off and back on again too.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Simple", "Soft"],
+  "name": "Organ Control",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "84bb8538-6bf6-44bf-85b2-09726e10b24b",
+  "vendor": "Arturia"
+}

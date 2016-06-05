@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Wannabe B3",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3784568f-92e7-47d8-92dc-71d9ae65e5de",
+  "vendor": "Arturia"
+}

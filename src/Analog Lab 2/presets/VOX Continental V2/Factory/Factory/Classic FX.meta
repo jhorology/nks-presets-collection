@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Clangy repeats courtesy of an analog delay pedal.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long", "Quiet", "Short"],
+  "name": "Classic FX",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "90db6c64-d395-43be-aad2-e7acebc62dfb",
+  "vendor": "Arturia"
+}

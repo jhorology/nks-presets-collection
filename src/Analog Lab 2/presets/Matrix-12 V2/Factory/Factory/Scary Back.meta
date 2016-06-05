@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark"],
+  "name": "Scary Back",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "86b77329-128a-4ae1-a82b-ddc7df1a6c0b",
+  "vendor": "Arturia"
+}

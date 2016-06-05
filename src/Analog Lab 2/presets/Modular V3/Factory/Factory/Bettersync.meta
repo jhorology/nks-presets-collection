@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Bettersync",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "95e71ef8-7a26-4a32-91d5-9ae9671eabbe",
+  "vendor": "Arturia"
+}

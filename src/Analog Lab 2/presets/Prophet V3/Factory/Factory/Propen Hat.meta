@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple", "Short"],
+  "name": "Propen Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "4dfdc0a9-1519-4d9d-b170-c92d33b13edd",
+  "vendor": "Arturia"
+}

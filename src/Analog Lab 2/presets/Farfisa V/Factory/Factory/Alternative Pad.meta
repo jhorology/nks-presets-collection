@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Slow attack churchy organ and strings and pad with analog delay.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Simple", "Soft", "Short"],
+  "name": "Alternative Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ae29f554-0979-40ba-9cc2-ca371301b5fe",
+  "vendor": "Arturia"
+}

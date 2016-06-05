@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Rusty Toy Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8d8c4917-b652-4534-b07c-cefeaf426964",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Human voice pad by additive and FM synthesis type 2",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble", "Soft", "Soundtrack"],
+  "name": "Voice Pad III",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "42eda6a8-9623-4d0b-914a-d85c7502eb0e",
+  "vendor": "Arturia"
+}

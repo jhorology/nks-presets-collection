@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Water Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f7529bf4-58c6-4d8c-9f0a-2696f4c204b9",
+  "vendor": "Arturia"
+}

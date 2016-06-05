@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Hihat Beat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ff449414-e968-451f-865c-28eaa9c268e5",
+  "vendor": "Arturia"
+}

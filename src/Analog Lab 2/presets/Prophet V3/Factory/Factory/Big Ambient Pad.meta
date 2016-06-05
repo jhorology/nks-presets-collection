@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Big Ambient Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7ed5c3ca-8d99-4c98-82e2-020cff4c7dd4",
+  "vendor": "Arturia"
+}

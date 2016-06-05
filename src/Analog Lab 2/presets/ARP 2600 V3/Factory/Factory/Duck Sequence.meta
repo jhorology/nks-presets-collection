@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Duck Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "aae1b5d4-e71d-4a1d-8ec5-280f7d996d6b",
+  "vendor": "Arturia"
+}

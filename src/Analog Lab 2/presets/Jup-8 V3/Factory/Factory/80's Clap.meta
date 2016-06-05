@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soundtrack", "Short"],
+  "name": "80's Clap",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "99197a04-7b51-4cc4-a2c1-5207187c226e",
+  "vendor": "Arturia"
+}

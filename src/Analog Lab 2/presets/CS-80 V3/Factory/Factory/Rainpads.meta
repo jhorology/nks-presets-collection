@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Rainpads",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "05fc2e2a-afc6-4d1f-bb1d-7e6a982397bd",
+  "vendor": "Arturia"
+}

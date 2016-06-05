@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Filters Modes Up",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3b381828-a31e-46bd-8b3f-410fb74e192e",
+  "vendor": "Arturia"
+}

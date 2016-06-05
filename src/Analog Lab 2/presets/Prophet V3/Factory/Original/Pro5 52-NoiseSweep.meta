@@ -1,0 +1,13 @@
+{
+  "author": "Fact_Pro5",
+  "bankchain": ["Analog Lab 2", "Prophet", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Pro5 52-NoiseSweep",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "300e43bf-e784-4125-874e-5613e2a9070a",
+  "vendor": "Arturia"
+}

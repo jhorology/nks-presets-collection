@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Saw Width",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f4978eab-a19f-4bac-88a7-b3a4ef2924d3",
+  "vendor": "Arturia"
+}

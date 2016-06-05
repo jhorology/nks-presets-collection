@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Sharp Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c9fe8f5e-4e77-4092-a266-b036825741a2",
+  "vendor": "Arturia"
+}

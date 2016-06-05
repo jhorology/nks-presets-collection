@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Sound Chaser",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "5d9d69b3-6853-4dea-8de0-d7d19f02b270",
+  "vendor": "Arturia"
+}

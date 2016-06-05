@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Sam 4 LIfe",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "27f3146e-e515-4fc4-aefd-6374a894751a",
+  "vendor": "Arturia"
+}

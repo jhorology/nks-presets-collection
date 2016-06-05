@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Tromp Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ac61096e-867c-4420-b65f-7e0423be80d1",
+  "vendor": "Arturia"
+}

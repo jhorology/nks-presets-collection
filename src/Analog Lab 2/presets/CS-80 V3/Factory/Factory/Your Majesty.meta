@@ -1,0 +1,13 @@
+{
+  "author": "Chris Laurence",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Your Majesty",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "058cedda-5303-4a9f-a433-7a58ff2cb05c",
+  "vendor": "Arturia"
+}

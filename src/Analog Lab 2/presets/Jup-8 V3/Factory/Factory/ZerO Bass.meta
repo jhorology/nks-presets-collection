@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "ZerO Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c0cb9f37-3e24-464d-a5db-38d0e91645d2",
+  "vendor": "Arturia"
+}

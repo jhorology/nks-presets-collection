@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Heroic Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "254ef3a4-a27d-4fe2-871b-4b6afad09d1c",
+  "vendor": "Arturia"
+}

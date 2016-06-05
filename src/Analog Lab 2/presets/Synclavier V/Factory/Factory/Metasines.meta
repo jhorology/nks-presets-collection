@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Lots of frequencies sweeping. Fun to play chords. Mod wheel conrols speed of the sweep",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long", "Evolving"],
+  "name": "Metasines",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9058908e-5a32-4402-95f4-6cdf2f464055",
+  "vendor": "Arturia"
+}

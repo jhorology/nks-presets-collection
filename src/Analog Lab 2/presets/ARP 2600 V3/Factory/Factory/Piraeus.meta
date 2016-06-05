@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise"],
+  "name": "Piraeus",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b8352134-0822-4d47-abe5-0d6a834315a4",
+  "vendor": "Arturia"
+}

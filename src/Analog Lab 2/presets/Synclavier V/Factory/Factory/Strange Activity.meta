@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Heavy Modulation Sound Effect. Modwheel controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Strange Activity",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5e8ee5d1-86f3-47b7-8a03-4ca134c2c971",
+  "vendor": "Arturia"
+}

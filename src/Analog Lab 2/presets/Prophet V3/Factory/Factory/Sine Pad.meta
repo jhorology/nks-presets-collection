@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Sine Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "89cdfb0d-d2d1-41eb-a654-7a7e277fd2d3",
+  "vendor": "Arturia"
+}

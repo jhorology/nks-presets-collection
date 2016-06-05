@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Jammin'on Staccato Chords",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "63e71f7a-ce1e-41b0-ae86-58e24820d699",
+  "vendor": "Arturia"
+}

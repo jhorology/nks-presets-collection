@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Pan Travel",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f979eaf9-2361-41b3-93b7-e90fc6b411e3",
+  "vendor": "Arturia"
+}

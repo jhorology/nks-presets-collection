@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "Too Acid",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4969cb3d-6a6c-4e31-9c23-74ac3d08e308",
+  "vendor": "Arturia"
+}

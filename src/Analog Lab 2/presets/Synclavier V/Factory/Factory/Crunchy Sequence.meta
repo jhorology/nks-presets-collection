@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Thin, buzzing, wavetably, sequence-based sound. Mod wheel dirties it up nicely with Frequency Modulation amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Hard", "Evolving"],
+  "name": "Crunchy Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "32170616-ca69-42e9-934c-0eec03c6f069",
+  "vendor": "Arturia"
+}

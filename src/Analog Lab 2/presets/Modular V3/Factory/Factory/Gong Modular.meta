@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Gong Modular",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "72f66b0b-d16a-46fe-b35a-2f87615f4691",
+  "vendor": "Arturia"
+}

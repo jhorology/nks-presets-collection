@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Big Presence",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "41e2707b-2905-48a2-b102-e73672c6dec7",
+  "vendor": "Arturia"
+}

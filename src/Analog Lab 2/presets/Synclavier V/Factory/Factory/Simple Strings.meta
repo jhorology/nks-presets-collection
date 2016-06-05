@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Simple Analog like strings ensemble",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Simple Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "0f40d0d0-3b3b-44fe-9ebb-fba4b265154f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Eprum",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f2c39209-ac68-428f-bcc2-096058ae581a",
+  "vendor": "Arturia"
+}

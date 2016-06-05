@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Phazed Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6dff2a3c-3351-487d-9abc-f92c4b0fa3ab",
+  "vendor": "Arturia"
+}

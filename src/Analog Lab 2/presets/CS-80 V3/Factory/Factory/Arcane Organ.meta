@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Arcane Organ",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "911d6703-0859-4f40-9180-b4510a08627f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Hi Hat Snappy",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0cce99c0-d1a3-436f-ab34-569e544215b3",
+  "vendor": "Arturia"
+}

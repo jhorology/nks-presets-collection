@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Accordeon",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a7b06dcb-ad7c-4ad4-95b2-3c89b505fdbe",
+  "vendor": "Arturia"
+}

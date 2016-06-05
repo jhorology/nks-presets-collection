@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "La Subass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2256256a-ddad-46af-9656-bc04335b2553",
+  "vendor": "Arturia"
+}

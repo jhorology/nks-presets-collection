@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Thick and reverberant repeating strings with phasing and delay.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Long"],
+  "name": "Tremolina",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "fcf554f5-b9b7-4568-83c5-8972306f1f7e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Noise Acid",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b11d787e-91bb-477e-b8c6-322bf4d97a37",
+  "vendor": "Arturia"
+}

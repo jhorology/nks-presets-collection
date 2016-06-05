@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Noise"],
+  "name": "Snail Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a2d6a884-755e-4636-b826-86fad90d865b",
+  "vendor": "Arturia"
+}

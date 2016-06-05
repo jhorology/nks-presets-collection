@@ -1,0 +1,13 @@
+{
+  "author": "Silicon Sound",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Pitch Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a996d5d2-e71c-415c-acab-6909aa3b53b9",
+  "vendor": "Arturia"
+}

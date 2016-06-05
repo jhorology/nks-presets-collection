@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Endless Sea Solo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "feae0e56-efcd-462d-bfda-29b6d3cde0fb",
+  "vendor": "Arturia"
+}

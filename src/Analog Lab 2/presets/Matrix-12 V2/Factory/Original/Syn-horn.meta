@@ -1,0 +1,13 @@
+{
+  "author": "Matrix12",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Simple"],
+  "name": "Syn-horn",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4bbe4dcf-6808-44fd-b7d2-0bbedc93bd54",
+  "vendor": "Arturia"
+}

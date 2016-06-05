@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Light Panel 2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "746196ef-0c9f-4df8-a3f5-29c00e394c54",
+  "vendor": "Arturia"
+}

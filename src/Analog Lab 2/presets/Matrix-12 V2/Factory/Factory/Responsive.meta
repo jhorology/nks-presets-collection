@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Ensemble"],
+  "name": "Responsive",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5da246ed-9b3e-42aa-bd6a-a056552e51ef",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Cheezy Hat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a9bdfb22-a4ba-4a31-9e7f-3d4d1a16ab50",
+  "vendor": "Arturia"
+}

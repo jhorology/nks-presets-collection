@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "almost atonal patch with lots of FM modulation and non-standard scale (Octave ratio 3.0) MOD WHEEL increases FM Ratio drastically changing the sound",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Ensemble", "Hard", "Long", "Soundtrack"],
+  "name": "Severe Clavier",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "64af6ec4-0a7a-47dd-a0e3-3c7601dbd7e6",
+  "vendor": "Arturia"
+}

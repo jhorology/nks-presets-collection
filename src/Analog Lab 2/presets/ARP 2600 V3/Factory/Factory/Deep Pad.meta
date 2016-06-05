@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Deep Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "26a74f61-0667-4c17-92f2-1e863fa6e8e1",
+  "vendor": "Arturia"
+}

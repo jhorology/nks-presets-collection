@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Analog-ish 5th interval synth lead",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Digital", "Ensemble", "Funky"],
+  "name": "Fource Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0e6c4b0c-9357-4790-8644-c36a1919f69a",
+  "vendor": "Arturia"
+}

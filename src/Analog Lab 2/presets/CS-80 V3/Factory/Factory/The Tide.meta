@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long"],
+  "name": "The Tide",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "062ac0b4-4f59-4825-a792-db4c75c67284",
+  "vendor": "Arturia"
+}

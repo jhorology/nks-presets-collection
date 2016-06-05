@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple", "Short"],
+  "name": "Hi Hat Simple Noise",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9396f936-4f0d-4c1e-a6a3-58325bf2af64",
+  "vendor": "Arturia"
+}

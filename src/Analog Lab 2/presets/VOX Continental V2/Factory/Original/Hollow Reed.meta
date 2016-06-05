@@ -1,0 +1,13 @@
+{
+  "author": "VOX Factory",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Quiet"],
+  "name": "Hollow Reed",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c6347c58-28e2-4400-8e06-8422d6ba1a01",
+  "vendor": "Arturia"
+}

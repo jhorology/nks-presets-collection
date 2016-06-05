@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark"],
+  "name": "Db Siren",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8e6c4511-5c28-4c9a-aa67-e3736b2eda40",
+  "vendor": "Arturia"
+}

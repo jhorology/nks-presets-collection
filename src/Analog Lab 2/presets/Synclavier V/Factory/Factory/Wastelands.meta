@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "low notes work well to help describe a scene while higher notes can be used for a melody",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Dark", "Digital", "Noise"],
+  "name": "Wastelands",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "009ba899-2db0-4bd6-9a40-f020287154fc",
+  "vendor": "Arturia"
+}

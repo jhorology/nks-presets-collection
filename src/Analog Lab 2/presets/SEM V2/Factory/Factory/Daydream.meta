@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Daydream",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "f734b361-a009-4eda-bb32-c0cd2a1e4b86",
+  "vendor": "Arturia"
+}

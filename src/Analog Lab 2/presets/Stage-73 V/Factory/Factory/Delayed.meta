@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "Quite digital sounding, with multiple repeats.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Funky", "Simple", "Soft", "Soundtrack"],
+  "name": "Delayed",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0d8a8712-ac15-4af6-8efd-89b0b8de936b",
+  "vendor": "Arturia"
+}

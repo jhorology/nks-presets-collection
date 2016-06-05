@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Jazz Organ 1",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "8ed0c901-227e-4834-a233-7afce411f72d",
+  "vendor": "Arturia"
+}

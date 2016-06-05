@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark", "Long", "Simple", "Short"],
+  "name": "Space DI",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "33e2c7d9-c31d-4f60-acf4-f3b1b2e1a8cd",
+  "vendor": "Arturia"
+}

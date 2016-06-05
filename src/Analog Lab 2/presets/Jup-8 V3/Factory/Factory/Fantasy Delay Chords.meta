@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Fantasy Delay Chords",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bad59a97-d481-4e2b-ba99-17180cec352a",
+  "vendor": "Arturia"
+}

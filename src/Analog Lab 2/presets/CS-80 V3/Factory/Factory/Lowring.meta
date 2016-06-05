@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Lowring",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "bcf64368-a0a0-4994-8be2-84c20dfed0d5",
+  "vendor": "Arturia"
+}

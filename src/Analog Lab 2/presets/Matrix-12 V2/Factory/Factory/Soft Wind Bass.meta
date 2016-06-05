@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Soft Wind Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a4a62583-3331-434b-b4ef-264580807ef4",
+  "vendor": "Arturia"
+}

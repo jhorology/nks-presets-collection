@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Long", "Simple", "Soundtrack"],
+  "name": "Airharm",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1b0b7bd1-11b3-4d42-8b49-407de1670656",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Alien Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8f71dbc6-dc95-419b-8d9d-7fa02e3e1931",
+  "vendor": "Arturia"
+}

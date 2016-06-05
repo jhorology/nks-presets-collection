@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Mike Solinafield",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "951a5f86-93dd-4ad8-b48b-1945fc4d6474",
+  "vendor": "Arturia"
+}

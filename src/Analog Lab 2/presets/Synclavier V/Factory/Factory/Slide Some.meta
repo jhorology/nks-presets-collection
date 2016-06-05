@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a harmonized lead sound",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Noise"],
+  "name": "Slide Some",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d167ab69-0ea9-4d60-85ea-d27ca8524aa4",
+  "vendor": "Arturia"
+}

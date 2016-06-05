@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a chord sound which works well when playing octaves",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble"],
+  "name": "Blue Chord",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2c86ad8d-fb38-4260-8d97-5ff76f4390fd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Super Wet Comper",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "013001ac-64bc-4846-8089-522c0cdef72d",
+  "vendor": "Arturia"
+}

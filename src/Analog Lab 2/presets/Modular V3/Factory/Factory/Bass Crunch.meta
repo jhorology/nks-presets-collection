@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Bass Crunch",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "697d00c1-5f58-4138-8310-3b42305442a5",
+  "vendor": "Arturia"
+}

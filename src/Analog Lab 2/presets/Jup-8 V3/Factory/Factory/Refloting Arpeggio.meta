@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Bright"],
+  "name": "Refloting Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c58015e2-dd15-444b-a87f-dd62e2ed96b7",
+  "vendor": "Arturia"
+}

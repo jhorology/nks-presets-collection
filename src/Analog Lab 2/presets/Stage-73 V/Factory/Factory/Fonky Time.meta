@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft", "Soundtrack"],
+  "name": "Fonky Time",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b43d086e-582f-4f40-98d8-7ba305834405",
+  "vendor": "Arturia"
+}

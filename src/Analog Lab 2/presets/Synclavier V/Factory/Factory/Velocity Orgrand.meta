@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Velocity controlable huge church organ",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Dark", "Ensemble"],
+  "name": "Velocity Orgrand",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "000f494e-50ba-4d02-9c82-10f002615119",
+  "vendor": "Arturia"
+}

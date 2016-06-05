@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice 80's keys with reverb. Modwheel controlled tuning.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Soft"],
+  "name": "Sweet Fantasy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "7d41efc9-93c6-49f3-9363-62ae5af1f1ab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Tribal Telephone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4991ceb4-1b62-43b4-a0ec-88bf1bc34468",
+  "vendor": "Arturia"
+}

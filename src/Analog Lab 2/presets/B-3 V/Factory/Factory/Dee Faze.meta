@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Funky", "Long", "Simple", "Soft"],
+  "name": "Dee Faze",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "aef36079-a41d-4a57-91af-5b5300077524",
+  "vendor": "Arturia"
+}

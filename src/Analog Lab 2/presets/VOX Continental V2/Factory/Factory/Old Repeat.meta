@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "Distant and echoey and decidedly analog.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Old Repeat",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "0deda637-4a24-4791-a023-5638e8c0e1d0",
+  "vendor": "Arturia"
+}

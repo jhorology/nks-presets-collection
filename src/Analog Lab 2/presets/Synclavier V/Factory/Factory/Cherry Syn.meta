@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "an 80s type all around sound",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Cherry Syn",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "b067425b-d1ca-4e1d-896a-7c0d92d5a09a",
+  "vendor": "Arturia"
+}

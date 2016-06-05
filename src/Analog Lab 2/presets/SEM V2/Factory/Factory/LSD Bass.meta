@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "LSD Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "932c080e-666d-46dc-bf72-3a29a34b02c9",
+  "vendor": "Arturia"
+}

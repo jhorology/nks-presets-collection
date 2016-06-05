@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Medium body low (viola and cello) synth strings with medium swirl.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Blue Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3d7a7630-e281-42ab-8664-901810cb3d2e",
+  "vendor": "Arturia"
+}

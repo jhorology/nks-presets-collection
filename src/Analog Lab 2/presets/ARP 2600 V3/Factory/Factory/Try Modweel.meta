@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Try Modweel",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6898191d-9f07-443d-8312-bf434086a438",
+  "vendor": "Arturia"
+}

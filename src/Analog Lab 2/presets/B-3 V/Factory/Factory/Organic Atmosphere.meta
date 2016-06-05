@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Modulated upper manual, lower manual for bass. With effects. Leslie in stop position, go from stop to fast.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Soundtrack"],
+  "name": "Organic Atmosphere",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8a82ec31-64db-43f7-a9ec-32f73e72bcb5",
+  "vendor": "Arturia"
+}

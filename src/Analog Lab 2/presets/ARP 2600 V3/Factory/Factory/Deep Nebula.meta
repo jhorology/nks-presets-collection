@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Deep Nebula",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "642adcae-e8a3-4327-a305-ec90c3987ea0",
+  "vendor": "Arturia"
+}

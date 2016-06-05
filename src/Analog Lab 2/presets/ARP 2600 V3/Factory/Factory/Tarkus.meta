@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Tarkus",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "782a8300-6942-4f0d-b8c6-3933f17565f1",
+  "vendor": "Arturia"
+}

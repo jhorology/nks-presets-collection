@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark"],
+  "name": "Quiet Ocean",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "588192ba-89d0-4d5b-94b9-ed2fe0a3f6db",
+  "vendor": "Arturia"
+}

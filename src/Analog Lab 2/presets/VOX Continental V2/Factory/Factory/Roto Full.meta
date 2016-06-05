@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Roto Full",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "25f5d793-1a24-4a4d-9687-1f140c688332",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Thebell",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d10e827d-a639-4bec-9c5a-031f41a59d60",
+  "vendor": "Arturia"
+}

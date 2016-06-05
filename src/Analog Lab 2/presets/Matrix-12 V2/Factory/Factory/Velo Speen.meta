@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Velo Speen",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a989f6ad-c281-4a16-b4f1-dd7e4f73541c",
+  "vendor": "Arturia"
+}

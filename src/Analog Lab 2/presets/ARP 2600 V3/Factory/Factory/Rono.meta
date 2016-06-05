@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Rono",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1533b514-9be2-4b7a-9d5f-f70808e2e799",
+  "vendor": "Arturia"
+}

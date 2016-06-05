@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Sweet Seq",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "48a70ee9-1936-4f43-bb3d-28ee46c489d7",
+  "vendor": "Arturia"
+}

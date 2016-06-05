@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Play the lower keys.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Noise"],
+  "name": "Satudrone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "799fe678-9c4f-42d5-8e41-150ba2246de8",
+  "vendor": "Arturia"
+}

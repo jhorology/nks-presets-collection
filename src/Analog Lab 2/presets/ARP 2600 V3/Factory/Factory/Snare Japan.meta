@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft", "Short"],
+  "name": "Snare Japan",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d893255d-6ff3-48aa-b6df-079b95add5c4",
+  "vendor": "Arturia"
+}

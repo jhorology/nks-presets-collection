@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Harowld",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3a786146-51c9-4b1e-a135-a91e36f7bbd1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex"],
+  "name": "Computing",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "554f2397-33fe-4601-8174-981c365fe12b",
+  "vendor": "Arturia"
+}

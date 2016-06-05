@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Contranoise",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c06ffce9-79dc-4c67-9b5f-b20b57883296",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synth sound with a lot of pitch modulation and  repeat arpeggio mode. Modwheel controlled vibrato rate & Aftertouch controlled Vibrato Depth.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Mod Inverted Ramp",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "da480ba1-3aef-4126-ae70-e7cd0263d88c",
+  "vendor": "Arturia"
+}

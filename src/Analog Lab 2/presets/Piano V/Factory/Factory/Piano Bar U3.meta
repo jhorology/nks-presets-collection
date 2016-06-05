@@ -1,0 +1,13 @@
+{
+  "author": "Pierre Pfister",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Vintage but quite well tuned piano in a cheap restaurant",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard", "Simple"],
+  "name": "Piano Bar U3",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cf9fd499-f9dd-4f87-8704-290fe2d03e07",
+  "vendor": "Arturia"
+}

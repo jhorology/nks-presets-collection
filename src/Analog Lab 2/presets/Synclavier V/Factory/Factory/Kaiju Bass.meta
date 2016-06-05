@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Here coms the Kaiju.Use wheel or after touch",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Dark", "Digital", "Funky", "Hard", "Long"],
+  "name": "Kaiju Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "be5607af-52fe-4d76-92d1-39180cbc1205",
+  "vendor": "Arturia"
+}

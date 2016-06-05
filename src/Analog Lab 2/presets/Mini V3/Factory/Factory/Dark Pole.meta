@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Dark Pole",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "e0c8b3f4-e076-4717-a9fb-63c82aad9105",
+  "vendor": "Arturia"
+}

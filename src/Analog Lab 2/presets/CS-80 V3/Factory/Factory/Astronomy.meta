@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Astronomy",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "096e7747-17b2-49d6-ae02-84425c529e8b",
+  "vendor": "Arturia"
+}

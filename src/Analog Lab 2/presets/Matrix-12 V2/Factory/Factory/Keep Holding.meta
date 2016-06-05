@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Motivating sequence made using several synced LFOs controlling the pitch.",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Keep Holding",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e19c2486-f94f-402c-a2f4-bef27f7561f6",
+  "vendor": "Arturia"
+}

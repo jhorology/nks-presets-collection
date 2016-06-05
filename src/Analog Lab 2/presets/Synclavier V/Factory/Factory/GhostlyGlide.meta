@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL slows down glide for an eerie effect.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Long", "Soundtrack", "Evolving"],
+  "name": "GhostlyGlide",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5cd6edbf-e16a-481e-8ea6-cfb932e7023f",
+  "vendor": "Arturia"
+}

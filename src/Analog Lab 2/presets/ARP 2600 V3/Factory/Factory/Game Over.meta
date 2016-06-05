@@ -1,0 +1,13 @@
+{
+  "author": "Darrell Diaz",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Game Over",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "954748e0-1954-4677-8f1a-f7b64eeb01ac",
+  "vendor": "Arturia"
+}

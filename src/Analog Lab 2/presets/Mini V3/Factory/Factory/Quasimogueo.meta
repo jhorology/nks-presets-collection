@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Doorbell on a spaceship! Atonal FM octave sequence.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital"],
+  "name": "Quasimogueo",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "3593dad4-60a5-47c8-804f-3285ac3889ad",
+  "vendor": "Arturia"
+}

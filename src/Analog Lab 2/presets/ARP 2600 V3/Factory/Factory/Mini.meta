@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Quiet"],
+  "name": "Mini",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "59187ea2-3c0a-48c4-a7a6-1b4095a53d69",
+  "vendor": "Arturia"
+}

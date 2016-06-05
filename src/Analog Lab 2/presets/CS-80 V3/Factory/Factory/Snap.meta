@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Snap",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c0840ee5-907d-4fb3-b5cf-e69ef04f1445",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Vaporous",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "462cdeed-0fde-44fd-b35b-23ef9f86a753",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft", "Quiet"],
+  "name": "DX Serie",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "252abcce-327d-4051-8d45-3167874d3a46",
+  "vendor": "Arturia"
+}

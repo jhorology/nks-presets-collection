@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Spacey",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c6e434b9-0997-44c9-be2c-1fc6697ca464",
+  "vendor": "Arturia"
+}

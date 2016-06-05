@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Voltard",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "93cc46ef-fcb8-4da1-9239-2ad158d35f7e",
+  "vendor": "Arturia"
+}

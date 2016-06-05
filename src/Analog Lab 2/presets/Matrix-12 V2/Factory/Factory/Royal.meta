@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Royal",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1cbbaf54-1479-4047-9cc2-0a53eb7feed5",
+  "vendor": "Arturia"
+}

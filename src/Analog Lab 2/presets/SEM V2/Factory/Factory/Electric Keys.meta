@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Electric Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f9d0973e-dcca-4f61-940e-e0afb4c87cf2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Hard"],
+  "name": "WomanTone",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2d790ff8-3134-4144-a573-7de21b505dd4",
+  "vendor": "Arturia"
+}

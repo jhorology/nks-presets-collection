@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Hi Pass Wave Pool",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1426d778-b1ca-4f9c-9cf6-6b43385d6ce7",
+  "vendor": "Arturia"
+}

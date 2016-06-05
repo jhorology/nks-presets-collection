@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Short"],
+  "name": "Boombass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cb682d62-f629-4c08-b6cf-2b4654b2ea3a",
+  "vendor": "Arturia"
+}

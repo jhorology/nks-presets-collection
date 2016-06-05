@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise", "Simple", "Short"],
+  "name": "Thin Clap",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a682d645-147d-4790-ae99-9a39e4cfe8d6",
+  "vendor": "Arturia"
+}

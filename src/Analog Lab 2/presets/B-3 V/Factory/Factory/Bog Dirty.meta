@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Theater type dirty organ (Bad condition)",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Simple"],
+  "name": "Bog Dirty",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9000031c-5219-4ef5-b2d2-e64aa4f254c5",
+  "vendor": "Arturia"
+}

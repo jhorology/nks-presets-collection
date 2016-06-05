@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Simple"],
+  "name": "Squeak Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8c530cdd-57be-415f-93e5-16586a5d2dfa",
+  "vendor": "Arturia"
+}

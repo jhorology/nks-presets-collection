@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft", "Soundtrack"],
+  "name": "Traveler",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ec8eb821-df84-430c-b509-8ab325b3b179",
+  "vendor": "Arturia"
+}

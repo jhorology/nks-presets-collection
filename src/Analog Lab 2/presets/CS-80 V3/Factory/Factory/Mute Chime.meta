@@ -1,0 +1,13 @@
+{
+  "author": "Jamie Muhoberac",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Mute Chime",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "dc27d945-7d61-4781-aa4c-d522141a8d9c",
+  "vendor": "Arturia"
+}

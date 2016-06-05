@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "JP Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a3ae9b7b-a5ee-45ea-85f3-24c9291e1121",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Hard", "Long"],
+  "name": "Stacked",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "90228eb1-1295-418b-b688-3818b37f07aa",
+  "vendor": "Arturia"
+}

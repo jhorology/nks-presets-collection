@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Bassdrum Prohet",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "df1f92fe-40a0-44f1-8927-9c2fed689455",
+  "vendor": "Arturia"
+}

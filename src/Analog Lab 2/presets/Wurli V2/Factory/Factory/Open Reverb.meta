@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Ensemble", "Long"],
+  "name": "Open Reverb",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "49ed1b25-e4fc-49a4-81c2-ec1329575b99",
+  "vendor": "Arturia"
+}

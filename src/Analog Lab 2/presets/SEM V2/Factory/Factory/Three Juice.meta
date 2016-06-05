@@ -1,0 +1,13 @@
+{
+  "author": "JaseFOS",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Three Juice",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "054f5528-9f9d-4fe9-a8e5-059a46d8d5f2",
+  "vendor": "Arturia"
+}

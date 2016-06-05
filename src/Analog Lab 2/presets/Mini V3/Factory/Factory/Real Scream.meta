@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Long"],
+  "name": "Real Scream",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9527f7ad-6714-40ec-b5a0-82b8e0eb59bf",
+  "vendor": "Arturia"
+}

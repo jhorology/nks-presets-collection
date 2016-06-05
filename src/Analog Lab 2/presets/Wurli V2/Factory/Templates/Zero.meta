@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Zero",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1424d933-2dad-4d01-b78f-50caf8676060",
+  "vendor": "Arturia"
+}

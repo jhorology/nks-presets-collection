@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Ronans Red",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "98043e13-99be-4318-81cd-32ebdde66fe6",
+  "vendor": "Arturia"
+}

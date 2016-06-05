@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Velocity timbre controlable church organ",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital", "Ensemble"],
+  "name": "Velocity Church",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "edb4778c-d73a-4464-adaf-0bcc4c7caa02",
+  "vendor": "Arturia"
+}

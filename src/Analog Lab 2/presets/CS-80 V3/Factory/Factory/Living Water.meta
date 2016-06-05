@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Living Water",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1d86244a-919a-4dc1-8cdc-86fa0793dd79",
+  "vendor": "Arturia"
+}

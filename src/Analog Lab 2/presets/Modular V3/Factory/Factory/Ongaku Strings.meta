@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Stereo square wave pad. Quick envelope makes it light on it's feet. Mod wheel gives vibrato that becomes extremely wide past %25.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ongaku Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "6c0f243c-f4d8-4bdf-bcd8-5fb58b42abc0",
+  "vendor": "Arturia"
+}

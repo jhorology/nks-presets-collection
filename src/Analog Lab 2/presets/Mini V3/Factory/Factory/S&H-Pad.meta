@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long"],
+  "name": "S&H-Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "26ab26e4-d86e-482c-86b3-7f612c847028",
+  "vendor": "Arturia"
+}

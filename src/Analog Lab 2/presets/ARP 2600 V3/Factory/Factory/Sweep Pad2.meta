@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Sweep Pad2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d6347d38-a2cb-410a-ab25-c1b49228675e",
+  "vendor": "Arturia"
+}

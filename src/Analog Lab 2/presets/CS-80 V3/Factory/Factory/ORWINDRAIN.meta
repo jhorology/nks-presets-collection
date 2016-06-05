@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Noise"],
+  "name": "ORWINDRAIN",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a925299e-0b53-4a24-98f7-cf7d1d5ff891",
+  "vendor": "Arturia"
+}

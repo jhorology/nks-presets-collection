@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Surf Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "b226ff3c-8214-4d66-b933-7a3051e7f202",
+  "vendor": "Arturia"
+}

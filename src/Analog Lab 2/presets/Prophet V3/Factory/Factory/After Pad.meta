@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "After Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1ee693a1-1d00-46b5-a521-2f5a31b1aa10",
+  "vendor": "Arturia"
+}

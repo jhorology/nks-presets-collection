@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Boomerang",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ea5ffb8d-dff3-4d28-b90f-2aa42303a1ca",
+  "vendor": "Arturia"
+}

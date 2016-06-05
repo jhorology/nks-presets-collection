@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Jumpin",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "51c268b6-41fa-4ab1-93c8-e0e75100e5c6",
+  "vendor": "Arturia"
+}

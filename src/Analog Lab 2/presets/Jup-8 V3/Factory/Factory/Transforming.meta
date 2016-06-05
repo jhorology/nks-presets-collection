@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex"],
+  "name": "Transforming",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "67c7140b-edaa-4826-91c0-5dd1277e4285",
+  "vendor": "Arturia"
+}

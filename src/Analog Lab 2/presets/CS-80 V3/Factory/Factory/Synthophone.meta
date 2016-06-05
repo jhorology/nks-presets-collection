@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Synthophone",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "50e35605-691f-478a-ba7f-1d88d9a2761d",
+  "vendor": "Arturia"
+}

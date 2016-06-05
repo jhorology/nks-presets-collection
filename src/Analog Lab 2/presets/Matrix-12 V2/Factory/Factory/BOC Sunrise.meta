@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Lush multi-stage sequence with reverb. Mod wheel initiates slow pitch modulation, adding even more dimensions to this evocative and infectious sound.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack", "Quiet"],
+  "name": "BOC Sunrise",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5cc111ca-3ab6-4574-8160-b75138530cf3",
+  "vendor": "Arturia"
+}

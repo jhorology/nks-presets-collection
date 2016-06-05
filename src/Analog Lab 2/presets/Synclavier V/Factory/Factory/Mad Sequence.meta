@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Veru aggressive sound with panoramic modulation. Modwheel controlled FM Ratio",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Bright", "Complex", "Hard", "Evolving"],
+  "name": "Mad Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d862d255-affa-48d3-9f05-217a936a0987",
+  "vendor": "Arturia"
+}

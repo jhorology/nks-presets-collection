@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Noise", "Soundtrack"],
+  "name": "Sweet Noise",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bcce63bf-c319-4684-84f7-07e13be29ceb",
+  "vendor": "Arturia"
+}

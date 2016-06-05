@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Punchy bass with panoramic modulations and repeat arpeggio mode. Modwheel controlled Vibrato Rate & Aftertouch controlled Vibrato Depth.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Harmo Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "79a2fb89-81fd-492f-bf33-b8f7888ec8b9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Release Me",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "778c5d7b-600c-4efb-bace-86ef47329678",
+  "vendor": "Arturia"
+}

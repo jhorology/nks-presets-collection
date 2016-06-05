@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble", "Soundtrack"],
+  "name": "Eclipse Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cfe6e4cb-e2ae-45d0-b376-98ec21616d73",
+  "vendor": "Arturia"
+}

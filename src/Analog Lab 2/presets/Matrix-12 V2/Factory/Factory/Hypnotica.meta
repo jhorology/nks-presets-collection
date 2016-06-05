@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark"],
+  "name": "Hypnotica",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3f3dc5d6-f42a-4b85-bf74-a17d1a384711",
+  "vendor": "Arturia"
+}

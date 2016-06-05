@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Short"],
+  "name": "Jimby The Flow",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "6037a2f2-b07a-4950-9215-d08c47f6d30a",
+  "vendor": "Arturia"
+}

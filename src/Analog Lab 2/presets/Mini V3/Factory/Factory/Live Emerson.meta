@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive"],
+  "name": "Live Emerson",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b4946695-a9ce-4070-9bae-7dc30366d928",
+  "vendor": "Arturia"
+}

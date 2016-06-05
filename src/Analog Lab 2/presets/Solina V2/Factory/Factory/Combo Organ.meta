@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet", "Short"],
+  "name": "Combo Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9cf2237d-94fb-4275-a18f-b94d438e67fd",
+  "vendor": "Arturia"
+}

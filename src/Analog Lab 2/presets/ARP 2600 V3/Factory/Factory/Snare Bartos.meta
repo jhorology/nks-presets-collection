@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Snare Bartos",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "edc11add-b1e2-47c6-89cd-6ae451cb5137",
+  "vendor": "Arturia"
+}

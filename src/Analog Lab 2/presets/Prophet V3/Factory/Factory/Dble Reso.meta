@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Long"],
+  "name": "Dble Reso",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2a24316b-d92b-4022-9b44-7700f8dc12bc",
+  "vendor": "Arturia"
+}

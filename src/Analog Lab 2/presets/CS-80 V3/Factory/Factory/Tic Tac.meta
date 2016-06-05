@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple"],
+  "name": "Tic Tac",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "401537fc-0e9e-46e5-946f-a8bfaed5322e",
+  "vendor": "Arturia"
+}

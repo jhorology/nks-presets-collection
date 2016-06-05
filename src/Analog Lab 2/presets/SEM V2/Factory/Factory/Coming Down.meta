@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Coming Down",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "14902e89-e71c-48b3-89f7-0f25242494d5",
+  "vendor": "Arturia"
+}

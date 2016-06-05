@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Long"],
+  "name": "Rehana",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "488046a2-65a5-4220-83aa-1160623a0bda",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Simple"],
+  "name": "Organic",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "44cad35c-3987-4c11-9856-78e03421127b",
+  "vendor": "Arturia"
+}

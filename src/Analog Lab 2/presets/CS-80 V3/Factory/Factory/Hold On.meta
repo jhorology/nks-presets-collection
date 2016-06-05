@@ -1,0 +1,13 @@
+{
+  "author": "Sylvere Letellier",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long"],
+  "name": "Hold On",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "94bf4d5e-c4bb-484e-a1ae-b51a82838896",
+  "vendor": "Arturia"
+}

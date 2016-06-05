@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Minim..g style lead with whistling overtone.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Mini Whistle Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4b13b9c4-af0c-4f76-9ba9-4954e5d6f7a6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Second percussion based sound, kind of toy piano feeling",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Soft"],
+  "name": "Singing Second",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "ef58a6cd-d424-480b-bc34-ef2df885cefd",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple", "Short"],
+  "name": "Lush Life",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5336efe6-2f8b-4def-b7f1-48c491e18b4e",
+  "vendor": "Arturia"
+}

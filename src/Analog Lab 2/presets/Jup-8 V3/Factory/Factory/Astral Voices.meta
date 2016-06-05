@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Slowly modulating and evolving pad with a healthy dose of delay. Creates a very large space.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark", "Soft"],
+  "name": "Astral Voices",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "466f6543-8e37-4cb1-8a7f-93eec22c09a6",
+  "vendor": "Arturia"
+}

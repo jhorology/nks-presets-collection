@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sync Atmos Sphere",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d7f9358e-ffff-4fd7-97f9-1dc74ae50d3a",
+  "vendor": "Arturia"
+}

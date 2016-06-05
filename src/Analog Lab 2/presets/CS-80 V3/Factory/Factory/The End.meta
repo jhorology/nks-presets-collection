@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "The End",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5c363176-b0cd-4d68-ab21-dc4f26b4d760",
+  "vendor": "Arturia"
+}

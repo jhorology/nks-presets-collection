@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Filtr Osc",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "67adf5d5-eed1-4657-9437-de3d8dc700c1",
+  "vendor": "Arturia"
+}

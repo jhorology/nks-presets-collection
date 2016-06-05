@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Complex", "Digital"],
+  "name": "Bender Brother",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "65b6a2d7-e362-40eb-9055-2b1f648f24a4",
+  "vendor": "Arturia"
+}

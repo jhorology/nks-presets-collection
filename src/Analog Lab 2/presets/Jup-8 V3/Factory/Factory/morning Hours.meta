@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Complex"],
+  "name": "morning Hours",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "57c26ead-0a6d-4b80-af13-5f2be38d133c",
+  "vendor": "Arturia"
+}

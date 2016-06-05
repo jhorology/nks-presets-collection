@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Tubular, sync-style with low pass and notch filter. Phaser in tow.",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Snail Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e3bbba2d-e522-454d-8ab3-79a628c1197a",
+  "vendor": "Arturia"
+}

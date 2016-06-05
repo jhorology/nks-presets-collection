@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Digital pad with reverb. Modwheel controlled FM Amount. Modwheel controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark", "Digital", "Ensemble", "Soundtrack"],
+  "name": "Ghost Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "468567d5-17ca-4a52-87c5-767e5fb2c954",
+  "vendor": "Arturia"
+}

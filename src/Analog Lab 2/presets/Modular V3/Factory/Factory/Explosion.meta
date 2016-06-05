@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Explosion",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a002df1a-6079-4b9a-8a9b-3c78a548885d",
+  "vendor": "Arturia"
+}

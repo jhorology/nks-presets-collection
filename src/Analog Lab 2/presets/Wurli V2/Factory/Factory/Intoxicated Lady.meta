@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Noise"],
+  "name": "Intoxicated Lady",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "77d50f51-159a-48a6-a146-f70cf767fe52",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Oboe",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ae41c281-0735-4e88-8076-38c35d7b2d14",
+  "vendor": "Arturia"
+}

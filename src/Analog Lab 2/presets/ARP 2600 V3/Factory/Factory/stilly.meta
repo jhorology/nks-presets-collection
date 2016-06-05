@@ -1,0 +1,13 @@
+{
+  "author": "Takashi Odanaka",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Noise"],
+  "name": "stilly",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "9248bd4a-c1f4-4a11-811d-4b542a7cd6c3",
+  "vendor": "Arturia"
+}

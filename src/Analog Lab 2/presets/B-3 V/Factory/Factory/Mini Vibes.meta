@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Mini Vibes",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7b74f975-89f3-4edf-b120-223c3b5b5576",
+  "vendor": "Arturia"
+}

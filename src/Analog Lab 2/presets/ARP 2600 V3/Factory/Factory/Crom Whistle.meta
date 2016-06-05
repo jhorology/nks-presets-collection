@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Crom Whistle",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "69eb9a76-e66a-448e-ac51-a99cc4f4257e",
+  "vendor": "Arturia"
+}

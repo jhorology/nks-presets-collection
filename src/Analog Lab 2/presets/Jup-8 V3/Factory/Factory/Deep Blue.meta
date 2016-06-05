@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Dark"],
+  "name": "Deep Blue",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2be896ca-9b2e-49c6-8467-c67e580676dd",
+  "vendor": "Arturia"
+}

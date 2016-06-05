@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Filter sweeping digital pad. After touch controls vibrato depth. Mod wheel also conrols vibrato depth and rate,  but on different partials.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital"],
+  "name": "Soft Phase",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "925d80d3-483a-4343-ab66-0d0cb18edff3",
+  "vendor": "Arturia"
+}

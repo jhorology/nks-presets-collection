@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Long"],
+  "name": "Patina",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c658d02f-b7e7-4265-b594-7139093c8079",
+  "vendor": "Arturia"
+}

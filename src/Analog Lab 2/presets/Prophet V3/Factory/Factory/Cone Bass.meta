@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Cone Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "90f4c9ec-4218-4685-ae6b-d12561741c62",
+  "vendor": "Arturia"
+}

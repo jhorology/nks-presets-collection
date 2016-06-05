@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "DX",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e8ca1141-9f45-4852-95a0-4903e106c369",
+  "vendor": "Arturia"
+}

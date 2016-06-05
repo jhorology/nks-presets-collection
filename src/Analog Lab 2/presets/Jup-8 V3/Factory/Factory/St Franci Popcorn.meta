@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "St Franci Popcorn",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "af9dde1d-da9d-4979-a155-aa4bd1fb39a1",
+  "vendor": "Arturia"
+}

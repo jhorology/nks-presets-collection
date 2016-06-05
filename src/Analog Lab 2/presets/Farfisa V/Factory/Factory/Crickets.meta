@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Or, if played in the lower registers, droplets of water in a large, empty, tiled shower room.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Short"],
+  "name": "Crickets",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "81c6d693-ee07-4014-99a0-b96687b268ca",
+  "vendor": "Arturia"
+}

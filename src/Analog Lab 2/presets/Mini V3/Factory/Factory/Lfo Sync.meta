@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Funky"],
+  "name": "Lfo Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8eca4d10-7966-4c7f-97c5-c3aa4d679210",
+  "vendor": "Arturia"
+}

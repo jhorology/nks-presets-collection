@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Classic Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "23f64343-2bb8-4825-896e-3f2ce417cf69",
+  "vendor": "Arturia"
+}

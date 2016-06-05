@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Hard"],
+  "name": "EBM Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "33bb1acb-4d7b-4922-a44b-68e14cf8bd3b",
+  "vendor": "Arturia"
+}

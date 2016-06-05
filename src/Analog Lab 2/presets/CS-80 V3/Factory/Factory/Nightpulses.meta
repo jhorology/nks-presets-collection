@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Nightpulses",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "34e6dbc4-5ebc-4772-94ca-0cffb00d5d6f",
+  "vendor": "Arturia"
+}

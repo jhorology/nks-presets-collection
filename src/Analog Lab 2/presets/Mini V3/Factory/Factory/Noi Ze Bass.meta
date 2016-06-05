@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft"],
+  "name": "Noi Ze Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "093b7708-0d5a-42da-ba8a-df08a322aff3",
+  "vendor": "Arturia"
+}

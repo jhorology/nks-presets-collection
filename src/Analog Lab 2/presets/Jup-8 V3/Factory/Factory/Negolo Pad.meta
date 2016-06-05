@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack", "Quiet"],
+  "name": "Negolo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc9a657c-7b90-4e6d-94d6-c8504471dc9b",
+  "vendor": "Arturia"
+}

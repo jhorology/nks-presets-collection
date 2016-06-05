@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Barokk",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9ff5e24c-14f5-4515-b034-22f215448893",
+  "vendor": "Arturia"
+}

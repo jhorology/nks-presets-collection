@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft", "Soundtrack"],
+  "name": "Elektro Bliss",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e5d8b10c-3edc-4369-9426-dadc4ee842bf",
+  "vendor": "Arturia"
+}

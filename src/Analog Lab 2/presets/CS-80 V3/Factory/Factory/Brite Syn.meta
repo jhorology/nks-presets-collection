@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brite Syn",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "b51ff263-470c-41ee-a901-2433e96204f7",
+  "vendor": "Arturia"
+}

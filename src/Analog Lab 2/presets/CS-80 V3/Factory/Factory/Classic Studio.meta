@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Classic Studio",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0cf485e5-4d81-401b-bd56-a901d26bc28b",
+  "vendor": "Arturia"
+}

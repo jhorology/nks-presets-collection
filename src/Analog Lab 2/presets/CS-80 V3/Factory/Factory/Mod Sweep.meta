@@ -1,0 +1,13 @@
+{
+  "author": "Sylvere Letellier",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Mod Sweep",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ec0b1140-d046-4d51-a9bc-28a8b6b56425",
+  "vendor": "Arturia"
+}

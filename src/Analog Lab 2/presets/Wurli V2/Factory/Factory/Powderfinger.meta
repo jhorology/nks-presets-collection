@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Amplification gives this sound a bit more grit than the DI but it's still on the gentle side. Medium to strong vibrato.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Powderfinger",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "b5f48118-0da3-4fa4-bb0b-38c23a90e27f",
+  "vendor": "Arturia"
+}

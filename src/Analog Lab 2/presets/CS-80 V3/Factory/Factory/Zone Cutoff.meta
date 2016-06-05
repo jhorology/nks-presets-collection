@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Zone Cutoff",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "642f55f3-b88e-4377-9673-eb116743a49e",
+  "vendor": "Arturia"
+}

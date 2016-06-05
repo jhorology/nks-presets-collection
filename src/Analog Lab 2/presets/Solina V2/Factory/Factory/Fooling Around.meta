@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Simple", "Short"],
+  "name": "Fooling Around",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "faa6d729-ea34-466b-8cd4-f7e35fe8c12a",
+  "vendor": "Arturia"
+}

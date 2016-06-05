@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Liquid Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "a5bf896b-ddd7-47ed-8044-11c17564c729",
+  "vendor": "Arturia"
+}

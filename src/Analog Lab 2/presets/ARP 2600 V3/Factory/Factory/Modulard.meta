@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "Modulard",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "57c1c1d5-b547-4b8e-a283-7e5343277997",
+  "vendor": "Arturia"
+}

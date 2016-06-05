@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple", "Short"],
+  "name": "Soft Organ Keys",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "dbea35d7-56b4-4e30-ae5e-561acbd12197",
+  "vendor": "Arturia"
+}

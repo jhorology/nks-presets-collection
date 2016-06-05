@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft"],
+  "name": "Slow Shift",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fe8feae3-2ccb-43de-9826-7278b4b471b1",
+  "vendor": "Arturia"
+}

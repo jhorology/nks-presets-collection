@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Energy Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "99e384bd-11b6-4576-8d06-e0432a3aa252",
+  "vendor": "Arturia"
+}

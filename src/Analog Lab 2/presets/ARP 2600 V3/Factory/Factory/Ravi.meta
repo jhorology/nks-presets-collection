@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ravi",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "794ede21-9965-495c-8914-bbef52fc5715",
+  "vendor": "Arturia"
+}

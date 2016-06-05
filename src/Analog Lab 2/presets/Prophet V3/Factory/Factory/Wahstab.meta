@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Wahstab",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f6dd0bd4-4599-4c0b-a0a9-782c9a7aac85",
+  "vendor": "Arturia"
+}

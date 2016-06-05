@@ -1,0 +1,13 @@
+{
+  "author": "Kurt Kurazaki",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Res Filte",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9d529d12-dfcf-44a1-8a15-e708390b21b6",
+  "vendor": "Arturia"
+}

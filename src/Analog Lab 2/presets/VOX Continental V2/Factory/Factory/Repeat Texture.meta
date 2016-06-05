@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Quiet"],
+  "name": "Repeat Texture",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "695cd79b-1cc5-4bd0-9d53-46f3ea6b22b8",
+  "vendor": "Arturia"
+}

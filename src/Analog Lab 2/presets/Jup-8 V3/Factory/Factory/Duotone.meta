@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Hard"],
+  "name": "Duotone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0271d95c-05ee-49a5-b69c-b903efde3457",
+  "vendor": "Arturia"
+}

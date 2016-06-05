@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Soft attack piano in a large reverb.",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft"],
+  "name": "Soft And Large",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9c5178c5-44be-47c7-a213-3822e7ad1a10",
+  "vendor": "Arturia"
+}

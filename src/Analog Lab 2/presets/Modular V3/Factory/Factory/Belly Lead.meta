@@ -1,0 +1,13 @@
+{
+  "author": "Michel Geiss",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Belly Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "672c948d-443b-413e-ad93-6060dffce1c0",
+  "vendor": "Arturia"
+}

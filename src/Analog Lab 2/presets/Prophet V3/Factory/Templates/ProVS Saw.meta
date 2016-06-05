@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "ProVS Saw",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c9c1d4a2-f226-4605-bda0-67bf323c51a4",
+  "vendor": "Arturia"
+}

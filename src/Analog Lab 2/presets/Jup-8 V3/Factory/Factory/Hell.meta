@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise", "Soundtrack"],
+  "name": "Hell",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "83ee24f6-16da-4a8c-af85-2f93109d2831",
+  "vendor": "Arturia"
+}

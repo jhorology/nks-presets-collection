@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Telephone",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "61d7861a-2952-40a8-8da5-5fd66ca2a886",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Plughugger",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Three octaves worth of square wavey clipped arpeggiation. Mods wheel increases VCO2 mix over VCO1 which has the effect of boosting resonance.",
+  "deviceType": "INST",
+  "modes": ["Soundtrack", "Short"],
+  "name": "Classic Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c94d553a-ead5-4b5b-863f-e031a05debf5",
+  "vendor": "Arturia"
+}

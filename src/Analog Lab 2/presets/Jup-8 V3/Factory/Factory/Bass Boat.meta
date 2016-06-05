@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Hard"],
+  "name": "Bass Boat",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "108e6687-3b2f-4e9a-9c0a-35fe7530e938",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a short somewhat glassy sound good for sporadic melodies",
+  "deviceType": "INST",
+  "modes": ["Digital", "Short"],
+  "name": "Short Solo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2373a060-2174-4aa2-b6c7-94542779117c",
+  "vendor": "Arturia"
+}

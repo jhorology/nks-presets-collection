@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Fat Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "45d68ac9-cf45-4d87-9594-c8e3cd1c3985",
+  "vendor": "Arturia"
+}

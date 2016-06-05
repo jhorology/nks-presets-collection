@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "Oort Cloud",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fc3a7407-1378-479e-9925-5129855d8988",
+  "vendor": "Arturia"
+}

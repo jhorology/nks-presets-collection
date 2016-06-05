@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Hold one note and enjoy the glitchy goodness",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Raster",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d2612315-7d9f-403f-90bc-9619c456f555",
+  "vendor": "Arturia"
+}

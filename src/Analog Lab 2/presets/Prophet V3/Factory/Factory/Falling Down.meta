@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Noise"],
+  "name": "Falling Down",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "62895761-889c-4e9f-9fc1-2bd38fdea2d4",
+  "vendor": "Arturia"
+}

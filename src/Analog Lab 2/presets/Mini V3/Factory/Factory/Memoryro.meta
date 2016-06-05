@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Memoryro",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2d8e6afb-d80b-4178-a6cb-b7e5a715ed8a",
+  "vendor": "Arturia"
+}

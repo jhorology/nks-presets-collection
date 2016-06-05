@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Floydian",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4f15b8f1-71ba-425c-b3fa-f4c53382df14",
+  "vendor": "Arturia"
+}

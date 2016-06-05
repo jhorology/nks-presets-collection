@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "an upbeat arpreggiator sound with a sort of glassy attack",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Short"],
+  "name": "Glasswaves",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "503f0a46-1cbf-4a26-a3cf-0dcc3a916263",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Noise"],
+  "name": "Phase Ghost",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "aee84d95-c3e1-470b-8fdd-e8f3da6c62b9",
+  "vendor": "Arturia"
+}

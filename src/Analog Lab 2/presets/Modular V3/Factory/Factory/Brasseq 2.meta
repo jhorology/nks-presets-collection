@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brasseq 2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "8ac0ae84-76d1-41af-a9e3-c88f7d6fd9dc",
+  "vendor": "Arturia"
+}

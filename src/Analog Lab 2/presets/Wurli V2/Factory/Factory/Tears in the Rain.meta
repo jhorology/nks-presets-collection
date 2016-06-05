@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Tears in the Rain",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "67b4a037-ab80-4a97-ac3c-9388f7e3e19a",
+  "vendor": "Arturia"
+}

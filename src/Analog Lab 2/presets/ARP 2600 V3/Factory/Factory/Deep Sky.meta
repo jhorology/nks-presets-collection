@@ -1,0 +1,13 @@
+{
+  "author": "Tim Conrardy",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Evolving"],
+  "name": "Deep Sky",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b352b38d-f5c1-43fc-80f0-40a0623919f5",
+  "vendor": "Arturia"
+}

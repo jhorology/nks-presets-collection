@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long"],
+  "name": "Fat Sawlead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7b99a952-1567-4a1d-aaef-4421f830de7c",
+  "vendor": "Arturia"
+}

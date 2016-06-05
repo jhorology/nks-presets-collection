@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Short"],
+  "name": "syn kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c5db2155-2d35-4cb6-b8cc-273c8bb93add",
+  "vendor": "Arturia"
+}

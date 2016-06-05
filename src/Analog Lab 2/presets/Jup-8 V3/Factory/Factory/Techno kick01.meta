@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Short"],
+  "name": "Techno kick01",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0b83ed4a-954c-48e0-a651-e4f7ec4fc4c4",
+  "vendor": "Arturia"
+}

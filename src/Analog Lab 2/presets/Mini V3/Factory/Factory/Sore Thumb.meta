@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Short"],
+  "name": "Sore Thumb",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "60bd7ecc-00a6-4f30-b7ea-11e649953436",
+  "vendor": "Arturia"
+}

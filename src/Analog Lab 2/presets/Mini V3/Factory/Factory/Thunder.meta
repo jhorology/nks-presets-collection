@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Filtered white noise and very realistic!",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Noise", "Soundtrack"],
+  "name": "Thunder",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "30baaa4c-1d7d-412a-9170-b3805b420e44",
+  "vendor": "Arturia"
+}

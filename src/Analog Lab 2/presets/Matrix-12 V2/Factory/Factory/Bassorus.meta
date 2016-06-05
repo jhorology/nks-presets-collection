@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard"],
+  "name": "Bassorus",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5a7a4a74-cab7-4c05-beaa-f366fed673ad",
+  "vendor": "Arturia"
+}

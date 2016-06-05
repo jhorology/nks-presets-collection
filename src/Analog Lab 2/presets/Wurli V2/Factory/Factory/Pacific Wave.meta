@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pacific Wave",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2f800acd-2def-4e20-98cd-a4b178ca7abe",
+  "vendor": "Arturia"
+}

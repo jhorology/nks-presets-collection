@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Multi Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5cd710ee-ed42-449b-8c06-12036a1d6a55",
+  "vendor": "Arturia"
+}

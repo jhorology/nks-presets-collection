@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Simple", "Short"],
+  "name": "Gargle",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ac4b1ec6-7782-4272-bd81-b7ad44d039e3",
+  "vendor": "Arturia"
+}

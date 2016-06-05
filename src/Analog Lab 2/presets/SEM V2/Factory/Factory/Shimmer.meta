@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Shimmer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5fddcd65-6933-48b7-a10f-2a499d31c54a",
+  "vendor": "Arturia"
+}

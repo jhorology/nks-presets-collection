@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Harminaco",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9cc04560-acc9-4b35-a9c1-f489e066e58a",
+  "vendor": "Arturia"
+}

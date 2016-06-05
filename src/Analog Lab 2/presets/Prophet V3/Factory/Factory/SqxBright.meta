@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "SqxBright",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4e511e94-3e13-41c1-8f94-70c581983b44",
+  "vendor": "Arturia"
+}

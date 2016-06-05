@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Bird",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d48797ff-e419-4a76-9742-9db4fa7bcefd",
+  "vendor": "Arturia"
+}

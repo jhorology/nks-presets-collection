@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Basse Line 2",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e95c4529-f0d1-43da-a549-a1086e971f2e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Vseq2",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "06939d1e-5763-426c-b649-91547481724e",
+  "vendor": "Arturia"
+}

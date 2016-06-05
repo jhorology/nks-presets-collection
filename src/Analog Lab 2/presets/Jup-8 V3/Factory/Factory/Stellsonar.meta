@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Long", "Quiet"],
+  "name": "Stellsonar",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8a44b6dc-d3e5-4429-ad93-2c6383a8496e",
+  "vendor": "Arturia"
+}

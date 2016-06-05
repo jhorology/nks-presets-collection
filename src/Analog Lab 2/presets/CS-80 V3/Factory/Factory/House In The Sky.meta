@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "A sound that works equally well as a synth strinug pad or a slow fading-in bass. Mod wheel opens up the filter.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "House In The Sky",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2037b175-238f-45f7-bff6-92861d4323cb",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "ModWheel controlled Freq. Cutoff - Expression pedal controlled delayed overtones - Velocity triggered portamento (useful when played legato)",
+  "deviceType": "INST",
+  "modes": ["Dark", "Soft", "Soundtrack"],
+  "name": "Orange Aurora",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4edc0fbc-95ba-4799-a934-6265c7ab6956",
+  "vendor": "Arturia"
+}

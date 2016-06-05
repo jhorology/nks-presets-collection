@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Finger",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "5d55bb0e-206b-42d5-9099-68554bd27348",
+  "vendor": "Arturia"
+}

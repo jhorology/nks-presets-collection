@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Bonnaventure",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "92d285d1-8d4c-4390-9ac6-fb3d2d332efd",
+  "vendor": "Arturia"
+}

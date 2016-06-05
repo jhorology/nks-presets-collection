@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Bonapart",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8f459588-fc03-4c5a-9679-a09c0ee87c02",
+  "vendor": "Arturia"
+}

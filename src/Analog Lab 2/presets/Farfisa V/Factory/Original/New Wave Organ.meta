@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "New Wave Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "7cf7af42-5e66-4d49-8211-f2bb214f3588",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Paolo Apollo Negri",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Moving drawbars sound with effects",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Psychedelic Shack",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "41d2c38b-2428-459f-a706-2b8a495820db",
+  "vendor": "Arturia"
+}

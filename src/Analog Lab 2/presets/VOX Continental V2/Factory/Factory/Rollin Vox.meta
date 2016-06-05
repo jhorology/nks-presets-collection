@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Quiet"],
+  "name": "Rollin Vox",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e38025e3-a605-4296-85c9-135a012d810b",
+  "vendor": "Arturia"
+}

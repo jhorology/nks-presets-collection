@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a gentle mix of keys and pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft"],
+  "name": "Breathing Life",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "300ae59c-ae47-4882-ba9b-d28b16d6472a",
+  "vendor": "Arturia"
+}

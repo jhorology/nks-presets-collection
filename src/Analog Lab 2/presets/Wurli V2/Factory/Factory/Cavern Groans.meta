@@ -1,0 +1,13 @@
+{
+  "author": "Charles Capsis IV",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Digital", "Soft"],
+  "name": "Cavern Groans",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "04c02a6e-cc54-4b0e-b9e0-e8be79417c4c",
+  "vendor": "Arturia"
+}

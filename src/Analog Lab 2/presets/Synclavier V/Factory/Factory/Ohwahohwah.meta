@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Bass with harmonic sweep. Modwheel will brighten sound. Aftertouch will too. Use FRAME RATE on partials 1&2 to speed up or slow down harmonic sweep.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Evolving"],
+  "name": "Ohwahohwah",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "651da689-025e-464d-bcd7-465da3290c1e",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Tr Bass Drum",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "39d5a6b8-da31-4be8-b035-4f4a8ed209f2",
+  "vendor": "Arturia"
+}

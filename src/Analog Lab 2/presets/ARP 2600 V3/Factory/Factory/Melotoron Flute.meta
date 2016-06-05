@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Melotoron Flute",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "c97791ed-5a23-4610-9b4e-17665d59853a",
+  "vendor": "Arturia"
+}

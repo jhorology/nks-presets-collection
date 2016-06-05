@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard", "Noise", "Simple", "Short"],
+  "name": "Broken Drive",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8094d8e6-43be-41ac-b124-348320fa8684",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Funky", "Hard"],
+  "name": "Oregano",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "99f4c7c5-c3af-40fc-9a47-e6746b5aa6f0",
+  "vendor": "Arturia"
+}

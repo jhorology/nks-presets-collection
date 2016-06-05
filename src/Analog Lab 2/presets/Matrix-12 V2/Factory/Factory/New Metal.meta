@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack"],
+  "name": "New Metal",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8e67e28d-b13a-411b-a904-7964376e69a5",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Two Tri Autopan",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2a64f6f2-042e-4a4d-afff-27c1ed680696",
+  "vendor": "Arturia"
+}

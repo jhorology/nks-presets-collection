@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Soundtrack"],
+  "name": "Digital Myst",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7bfc4b34-8829-45ad-addd-6ab1a920ff7b",
+  "vendor": "Arturia"
+}

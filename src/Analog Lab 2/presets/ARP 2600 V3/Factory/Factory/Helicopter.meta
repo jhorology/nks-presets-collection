@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Helicopter",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5257722a-25e5-4e04-9fd8-3d2d96808915",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "VoicesInTheAir",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "771b45a4-2ac5-4d44-acff-d097afe43ce1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Word Clock",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "effe86f7-746f-442c-8a39-dd40856dcf85",
+  "vendor": "Arturia"
+}

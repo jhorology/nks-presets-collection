@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long", "Soundtrack"],
+  "name": "Strange Depths",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ece32a49-7814-44c0-87dc-5e6fd2301de2",
+  "vendor": "Arturia"
+}

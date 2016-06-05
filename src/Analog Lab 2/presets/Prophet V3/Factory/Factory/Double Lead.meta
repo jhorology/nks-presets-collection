@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Double Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "d08c86dd-09f7-4b52-a5e0-6f60fcc55a9f",
+  "vendor": "Arturia"
+}

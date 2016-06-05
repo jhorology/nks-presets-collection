@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "HPF Mod",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e4166e64-9624-4b6c-94a6-65362f5c9188",
+  "vendor": "Arturia"
+}

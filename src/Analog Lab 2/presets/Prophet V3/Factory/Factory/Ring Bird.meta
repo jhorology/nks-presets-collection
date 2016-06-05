@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Ring Bird",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8ee717c9-47e2-4862-b780-9a6f5c4db013",
+  "vendor": "Arturia"
+}

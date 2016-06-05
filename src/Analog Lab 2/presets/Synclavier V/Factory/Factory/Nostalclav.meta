@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Nice Synth sound in a 80's Depeche Mode style . Modwheel controlled Stereo Rate.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Simple", "Soft"],
+  "name": "Nostalclav",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "40f7692b-8247-424b-9d43-03b9435b2147",
+  "vendor": "Arturia"
+}

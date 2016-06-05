@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Tok",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "747e2972-faec-47d7-8c95-819cbc83bc7b",
+  "vendor": "Arturia"
+}

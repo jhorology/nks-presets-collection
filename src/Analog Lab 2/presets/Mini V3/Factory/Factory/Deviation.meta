@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Deviation",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "65738da4-79b5-4cf4-a5a2-4af3c7d42bed",
+  "vendor": "Arturia"
+}

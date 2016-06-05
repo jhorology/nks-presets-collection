@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "MULTI", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Soundtrack"],
+  "name": "Odd Ambience",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1d0a6415-7ed0-4377-bfb4-5e34fc5f16d1",
+  "vendor": "Arturia"
+}

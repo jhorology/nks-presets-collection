@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Classic Stings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1ef9cc68-00bb-4590-8107-a32bc6841451",
+  "vendor": "Arturia"
+}

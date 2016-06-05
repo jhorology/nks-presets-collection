@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Buzzy",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8f6343a2-ee6e-4881-8f08-4c5b879f99a6",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Portent Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "4fe65718-ffa2-4fd8-907d-abcb8aae19ee",
+  "vendor": "Arturia"
+}

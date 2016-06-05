@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Passenger Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "29393db5-00b6-40ce-a6f5-261612e77d95",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Turbulence",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3ad9b538-a391-49da-9add-9c448f522eb2",
+  "vendor": "Arturia"
+}

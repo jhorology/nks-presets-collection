@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Big Comp",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "08c81a5c-5979-4f34-ba8e-d58d7ea338ea",
+  "vendor": "Arturia"
+}

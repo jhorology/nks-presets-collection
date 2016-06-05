@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cream'n Coffee",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "154a7ff2-60bc-4ba5-8596-e39eea5f1ce9",
+  "vendor": "Arturia"
+}

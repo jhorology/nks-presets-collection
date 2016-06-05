@@ -1,0 +1,13 @@
+{
+  "author": "Roget Lyons",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Sustain Fx",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "468df61e-d861-45e1-aa2e-c39a53fe26dc",
+  "vendor": "Arturia"
+}

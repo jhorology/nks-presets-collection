@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Complex"],
+  "name": "Vibra Ltd",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "1af2927b-2413-460e-800d-3951cf337051",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Oh Bee Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b673d94a-6c9e-4b4b-9f7b-bc7d1157f775",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Long"],
+  "name": "Jelly Chord",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1bc7ed4b-0671-4f01-901d-105e09032b7c",
+  "vendor": "Arturia"
+}

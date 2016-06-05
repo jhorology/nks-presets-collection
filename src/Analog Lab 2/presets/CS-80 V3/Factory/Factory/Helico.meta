@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Helico",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "080f7c33-1286-4934-a8cc-102d0fd1e019",
+  "vendor": "Arturia"
+}

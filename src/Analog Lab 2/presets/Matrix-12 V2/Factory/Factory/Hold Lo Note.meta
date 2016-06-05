@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "As the title says, hold it and experience this decelerating LFO blend of noise and panning. Mod wheel initiates wide vibrato.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Bizarre", "Complex", "Long", "Noise", "Soundtrack"],
+  "name": "Hold Lo Note",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e552415a-ef8d-461a-a8fe-d0ab4322dd80",
+  "vendor": "Arturia"
+}

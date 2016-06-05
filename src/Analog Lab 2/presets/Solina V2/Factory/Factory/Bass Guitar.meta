@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft", "Short"],
+  "name": "Bass Guitar",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a04dfac8-579e-43f8-9093-27dcf04d9a7d",
+  "vendor": "Arturia"
+}

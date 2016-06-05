@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Soft", "Soundtrack"],
+  "name": "Miles Away",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "40a3ed18-71b6-45c8-9644-b095441ca7dd",
+  "vendor": "Arturia"
+}

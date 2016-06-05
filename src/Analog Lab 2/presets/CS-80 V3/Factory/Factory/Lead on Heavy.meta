@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Lead on Heavy",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "59f26ea2-9bba-4c8d-907c-f0fd389d078b",
+  "vendor": "Arturia"
+}

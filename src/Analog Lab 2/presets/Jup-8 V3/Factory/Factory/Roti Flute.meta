@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Long", "Soft"],
+  "name": "Roti Flute",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "484f66d0-e8ab-4d32-ad40-17cfbf330a7e",
+  "vendor": "Arturia"
+}

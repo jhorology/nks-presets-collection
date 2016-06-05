@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Soft"],
+  "name": "Sandpapper",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d577324b-fce9-4eb9-8cc0-c0483644602a",
+  "vendor": "Arturia"
+}

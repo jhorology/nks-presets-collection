@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Hammer knocking bass",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Digital", "Funky", "Hard"],
+  "name": "BassBeast 2",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ee07ba2d-f47f-4913-8e1f-237766a071f8",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Crunchy Drive",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "560b3cae-0cef-4e90-bf5d-c4bb7a9e3377",
+  "vendor": "Arturia"
+}

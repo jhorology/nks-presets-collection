@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard"],
+  "name": "Track ID",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d60f10b3-5de2-4924-b144-f5f07ced4b66",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Quiet"],
+  "name": "Sad Whistle",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c1b0b129-0bf4-437d-88e2-39db22ae6e2c",
+  "vendor": "Arturia"
+}

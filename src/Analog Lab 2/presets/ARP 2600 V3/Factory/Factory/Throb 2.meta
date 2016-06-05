@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Evolving"],
+  "name": "Throb 2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d3f2b6ae-b71e-435d-b3d6-d282a4b0779b",
+  "vendor": "Arturia"
+}

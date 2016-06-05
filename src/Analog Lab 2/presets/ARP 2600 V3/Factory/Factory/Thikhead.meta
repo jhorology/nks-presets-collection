@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Thikhead",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e89cd1eb-68e5-4390-a53d-e90b823ae2bf",
+  "vendor": "Arturia"
+}

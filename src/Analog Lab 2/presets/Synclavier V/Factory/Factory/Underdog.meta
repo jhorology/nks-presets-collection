@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "A sort of bell-pad with a slight attack to create a softer sound. In evolves into a really gentle addivitive sound at the end. The mod-wheel adds some low end.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Ensemble", "Long", "Soundtrack", "Evolving"],
+  "name": "Underdog",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0bcb0241-3e76-4337-a2c4-2a09ba7ac77d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Claviny",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f48f5617-ae20-4cfe-98e0-8f027e7227a2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Hard"],
+  "name": "Rave Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "27e5adf7-6424-4feb-9dfe-7e7c0adb1be0",
+  "vendor": "Arturia"
+}

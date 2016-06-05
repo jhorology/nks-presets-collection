@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "FM electric acoustic piano",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital"],
+  "name": "Synpianoforte",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9a50eb00-1013-4065-817f-bb96af5e2dca",
+  "vendor": "Arturia"
+}

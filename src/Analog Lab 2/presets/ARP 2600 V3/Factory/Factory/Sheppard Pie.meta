@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Sheppard Pie",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "169c7cba-9ad0-40d0-a332-d54afce5f170",
+  "vendor": "Arturia"
+}

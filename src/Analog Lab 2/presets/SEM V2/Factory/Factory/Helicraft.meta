@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Helicraft",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "729fc6a3-5ef8-46b1-8d89-6862fe2beb88",
+  "vendor": "Arturia"
+}

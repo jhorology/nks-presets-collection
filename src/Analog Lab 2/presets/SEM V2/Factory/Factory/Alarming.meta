@@ -1,0 +1,13 @@
+{
+  "author": "Ian Boddy",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long", "Noise", "Soundtrack"],
+  "name": "Alarming",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b76fe602-972c-49fb-b193-823356074eb4",
+  "vendor": "Arturia"
+}

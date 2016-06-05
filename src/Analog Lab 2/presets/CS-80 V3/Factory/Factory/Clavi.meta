@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Clavi",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "c6ba18dd-f761-486c-8904-669140885cf0",
+  "vendor": "Arturia"
+}

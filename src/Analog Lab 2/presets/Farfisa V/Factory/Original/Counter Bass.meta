@@ -1,0 +1,13 @@
+{
+  "author": "Farfisa",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple", "Soft", "Short"],
+  "name": "Counter Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4b49e754-4ba9-4507-aae7-2994e2571ec9",
+  "vendor": "Arturia"
+}

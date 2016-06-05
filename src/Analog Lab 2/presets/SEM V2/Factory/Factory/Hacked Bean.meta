@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Arpeggio sequence with picky sound.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Hacked Bean",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6c46b3f7-6077-486f-b56e-a28337709926",
+  "vendor": "Arturia"
+}

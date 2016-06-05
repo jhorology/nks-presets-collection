@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Simple"],
+  "name": "Electronix",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b9a3d351-1d11-49a4-88d1-77cded6085fe",
+  "vendor": "Arturia"
+}

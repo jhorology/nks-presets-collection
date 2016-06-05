@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "Sweeper",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1d9cbdf3-61d9-484b-9195-f47b17f410c1",
+  "vendor": "Arturia"
+}

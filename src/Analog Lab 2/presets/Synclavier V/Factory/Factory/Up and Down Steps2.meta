@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Better to play chord. hold the key some while. Speed can be accelerated by the wheel",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Funky", "Soundtrack"],
+  "name": "Up and Down Steps2",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "4af3169b-095d-4727-8337-a9871c20815f",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex", "Evolving"],
+  "name": "Diving",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8c42f041-5dd0-4e69-8451-c1e8bb27bbce",
+  "vendor": "Arturia"
+}

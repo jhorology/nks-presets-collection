@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard", "Short"],
+  "name": "Twine",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "d4e4a7dc-9c71-40f6-b839-0f431efdaa93",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Gentle Giant",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6b1db266-a1a3-4fd5-ba08-ecc0775a4005",
+  "vendor": "Arturia"
+}

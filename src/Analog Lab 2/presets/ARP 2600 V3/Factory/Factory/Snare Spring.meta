@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Snare Spring",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "8f5aeb3f-e11f-4b16-a363-278242b25e0b",
+  "vendor": "Arturia"
+}

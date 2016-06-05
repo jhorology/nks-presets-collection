@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving timbre with a partials morphing like a sequence. Modwheel controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Strange Pulse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "e097bc06-a909-4a93-b869-9aed2221bd2d",
+  "vendor": "Arturia"
+}

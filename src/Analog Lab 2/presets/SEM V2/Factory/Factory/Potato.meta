@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "Stepping through each of the eight virtual modules to produce this twangy and groovy sequence.",
+  "deviceType": "INST",
+  "modes": ["Soft", "Short"],
+  "name": "Potato",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1e707e2a-0ad8-4469-9e56-0c7b07c1c8f4",
+  "vendor": "Arturia"
+}

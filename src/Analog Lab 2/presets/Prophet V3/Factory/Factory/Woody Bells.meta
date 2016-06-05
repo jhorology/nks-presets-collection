@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "Very short and soft bell sound.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Woody Bells",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0653b7ad-0ef0-4003-adf8-9e280b25f254",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cue Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b835a63d-b5e3-4bf2-bbaa-8e87000e3551",
+  "vendor": "Arturia"
+}

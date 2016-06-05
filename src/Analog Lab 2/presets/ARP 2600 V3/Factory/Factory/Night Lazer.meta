@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Night Lazer",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5c643175-f6c1-4c23-ba5e-76964f70ad2a",
+  "vendor": "Arturia"
+}

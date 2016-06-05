@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital"],
+  "name": "Scanner",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "93d3896d-431a-46f3-9ef8-6e863e217f3e",
+  "vendor": "Arturia"
+}

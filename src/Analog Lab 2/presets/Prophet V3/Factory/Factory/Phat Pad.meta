@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bright", "Simple"],
+  "name": "Phat Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "67ca8e26-4197-4a6f-baff-56962dbc5a96",
+  "vendor": "Arturia"
+}

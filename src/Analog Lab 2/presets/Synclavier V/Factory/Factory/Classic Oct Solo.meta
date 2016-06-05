@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a classic octaved sound useful for bass and leads",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "Classic Oct Solo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "98115854-d97b-43c6-af98-54e0a65ad867",
+  "vendor": "Arturia"
+}

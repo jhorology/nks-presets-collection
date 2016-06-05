@@ -1,0 +1,13 @@
+{
+  "author": "Greg Savage",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Funky Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "40d4aff2-ef5a-4c3d-b63b-081610335d96",
+  "vendor": "Arturia"
+}

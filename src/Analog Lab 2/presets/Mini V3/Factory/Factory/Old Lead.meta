@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Octave square waves with after touch control over frequency cutoff. Mod wheel adds panned vibrato from Osc 3.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Old Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "873dad96-b345-434f-bee3-ac5572bcd594",
+  "vendor": "Arturia"
+}

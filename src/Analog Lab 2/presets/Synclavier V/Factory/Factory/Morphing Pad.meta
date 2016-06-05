@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "Morphing Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "618622a3-fce3-4d59-8780-d4049f14e3f4",
+  "vendor": "Arturia"
+}

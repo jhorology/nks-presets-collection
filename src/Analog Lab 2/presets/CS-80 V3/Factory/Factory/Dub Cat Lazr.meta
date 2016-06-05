@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Dub Cat Lazr",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bff9ddcf-b77a-4171-abde-2185c0c471ca",
+  "vendor": "Arturia"
+}

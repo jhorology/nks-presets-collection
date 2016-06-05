@@ -1,0 +1,13 @@
+{
+  "author": "Teknotanz",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark"],
+  "name": "Enter",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "01c7c2ea-d383-4dd9-9c94-fd845e4e1876",
+  "vendor": "Arturia"
+}

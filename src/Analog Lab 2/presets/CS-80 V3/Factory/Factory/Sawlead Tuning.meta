@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Sawlead Tuning",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7e03b518-461c-4b71-adab-adc71dd50c15",
+  "vendor": "Arturia"
+}

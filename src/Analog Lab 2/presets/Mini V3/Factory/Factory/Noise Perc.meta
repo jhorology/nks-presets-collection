@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Noise"],
+  "name": "Noise Perc",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "38ba920a-9bb5-48ec-9028-86df8c319851",
+  "vendor": "Arturia"
+}

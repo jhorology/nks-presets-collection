@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Cristal2",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e714c3f9-9189-4334-80a3-c358d1896f94",
+  "vendor": "Arturia"
+}

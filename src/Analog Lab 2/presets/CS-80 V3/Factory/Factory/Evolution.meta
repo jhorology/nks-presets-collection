@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Evolution",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "69ab57b4-44af-4d2a-8aec-f429ade22b7d",
+  "vendor": "Arturia"
+}

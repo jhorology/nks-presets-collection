@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Play Mono",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a96b5007-08d0-4405-949d-c95321095249",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Frank Greiner",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Preparing For",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "bf1b81af-b37f-43f5-a0a2-51b772b78806",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Grizzly",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "624af14f-a23c-48cf-b48a-62cde9ae77ef",
+  "vendor": "Arturia"
+}

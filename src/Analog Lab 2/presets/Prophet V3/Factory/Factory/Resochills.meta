@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Resochills",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "105b8111-d662-4e3d-9b11-15ae2b7e150a",
+  "vendor": "Arturia"
+}

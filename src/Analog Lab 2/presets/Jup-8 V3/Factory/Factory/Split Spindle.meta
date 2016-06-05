@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Short"],
+  "name": "Split Spindle",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4c1107a7-2ebb-4891-8b9a-25ecb6a2e5f3",
+  "vendor": "Arturia"
+}

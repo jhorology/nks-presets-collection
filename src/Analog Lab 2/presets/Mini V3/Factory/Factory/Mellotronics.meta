@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft", "Quiet"],
+  "name": "Mellotronics",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "cac75f82-c422-4681-a9b8-48d0e60d5e12",
+  "vendor": "Arturia"
+}

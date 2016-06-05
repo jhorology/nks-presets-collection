@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Longhorn",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "a2ca9218-15a0-4ae7-8f7a-417e2b2e41c9",
+  "vendor": "Arturia"
+}

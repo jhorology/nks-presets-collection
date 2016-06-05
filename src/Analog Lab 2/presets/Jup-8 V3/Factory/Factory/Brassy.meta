@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "Classic mono lead sound. Delay makes it interesting when fast notes are played.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Brassy",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "3b5ef702-b99b-4e28-bc02-4fc086d80e3e",
+  "vendor": "Arturia"
+}

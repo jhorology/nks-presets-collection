@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Ballad",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "2d3cfcde-7f67-48e0-a0ce-1429e4c39866",
+  "vendor": "Arturia"
+}

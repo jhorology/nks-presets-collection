@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Nu Dub Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "44a0021f-07eb-4290-9859-827e96feadd0",
+  "vendor": "Arturia"
+}

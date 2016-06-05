@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "African Ronor",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a33e05e5-2b4c-4e0e-afba-3efe98a2b9a9",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Quiet"],
+  "name": "Bellupo 2",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7bf0d192-b42f-46d5-b18c-b2bd5494c158",
+  "vendor": "Arturia"
+}

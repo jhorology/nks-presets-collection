@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky"],
+  "name": "Groove Thing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3ca3b1c3-af58-40b6-b423-1c23f3b85cb4",
+  "vendor": "Arturia"
+}

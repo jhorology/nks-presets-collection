@@ -1,0 +1,13 @@
+{
+  "author": "Stephan Muesh",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Rete Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e9334cc0-0a53-4bd9-bfae-bfa5981251a3",
+  "vendor": "Arturia"
+}

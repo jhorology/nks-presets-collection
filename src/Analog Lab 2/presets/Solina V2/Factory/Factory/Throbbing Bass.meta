@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Throbbing Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a9e43570-a2ed-4528-8b7e-5cdb1c590343",
+  "vendor": "Arturia"
+}

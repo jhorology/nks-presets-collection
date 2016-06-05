@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "A gentle, steely, stringy pad with delays providing movement and stereo effect.",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple", "Soundtrack"],
+  "name": "Wide Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "6211aa33-756a-4cfb-ac6d-7f7f67befebb",
+  "vendor": "Arturia"
+}

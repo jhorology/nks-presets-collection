@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Simple"],
+  "name": "Velo Octav",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c82a22a1-b57c-4ed9-9040-f025f63ce170",
+  "vendor": "Arturia"
+}

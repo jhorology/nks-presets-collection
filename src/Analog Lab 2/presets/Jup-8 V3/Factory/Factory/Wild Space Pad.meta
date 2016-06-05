@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Ensemble"],
+  "name": "Wild Space Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "50712815-8268-49bf-ab74-1d194accdfa8",
+  "vendor": "Arturia"
+}

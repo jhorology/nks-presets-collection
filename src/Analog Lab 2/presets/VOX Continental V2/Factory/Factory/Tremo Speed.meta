@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Dark"],
+  "name": "Tremo Speed",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c48edb8e-c7bd-499a-89ef-e6e6b0de9a43",
+  "vendor": "Arturia"
+}

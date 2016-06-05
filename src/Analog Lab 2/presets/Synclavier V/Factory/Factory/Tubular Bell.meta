@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Tubular bell sound.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Short"],
+  "name": "Tubular Bell",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "55749025-cbc2-43cc-87c9-7d668a1ba484",
+  "vendor": "Arturia"
+}

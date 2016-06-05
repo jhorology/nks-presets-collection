@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a smooth pad with an arpreggiated bell type sound",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Noise", "Soundtrack"],
+  "name": "Air Bell",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d449d652-e42d-4715-b586-d881dd6f5b80",
+  "vendor": "Arturia"
+}

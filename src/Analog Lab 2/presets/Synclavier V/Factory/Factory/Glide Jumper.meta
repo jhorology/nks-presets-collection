@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a wacky effect that could also add character used as a lead",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bizarre", "Digital"],
+  "name": "Glide Jumper",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "1c4f31ad-b19f-4063-9ee8-a03f03f57487",
+  "vendor": "Arturia"
+}

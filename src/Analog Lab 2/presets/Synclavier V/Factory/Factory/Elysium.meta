@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Super long and ambient pad - makes awesome soundscapes if you play clusters in the lower register",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Elysium",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f5eb0b29-5f4c-4b5f-8f1a-50eba65c30c2",
+  "vendor": "Arturia"
+}

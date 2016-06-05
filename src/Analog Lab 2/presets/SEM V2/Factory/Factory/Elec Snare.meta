@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Short"],
+  "name": "Elec Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "016198dd-7116-47aa-9ac4-20cf5990dd6c",
+  "vendor": "Arturia"
+}

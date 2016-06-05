@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soft", "Soundtrack"],
+  "name": "Shimmering Delight",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "02d64e42-306a-4aae-899f-de118027f1ef",
+  "vendor": "Arturia"
+}

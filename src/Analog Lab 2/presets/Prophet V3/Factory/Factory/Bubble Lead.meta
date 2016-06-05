@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Bubble Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "e60cb691-4bf9-449c-a45c-e75b483c4b70",
+  "vendor": "Arturia"
+}

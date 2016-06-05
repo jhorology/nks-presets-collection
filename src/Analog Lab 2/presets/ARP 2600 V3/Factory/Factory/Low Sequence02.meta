@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Low Sequence02",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4a90c220-a263-42c0-aaf2-63d801622fdb",
+  "vendor": "Arturia"
+}

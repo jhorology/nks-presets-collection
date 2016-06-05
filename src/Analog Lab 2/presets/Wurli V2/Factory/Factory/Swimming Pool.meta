@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "Under water' sound with swimmy phasing, chorussing and reverb.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soft"],
+  "name": "Swimming Pool",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b2c22430-6d52-49b4-b480-f79d94755d3c",
+  "vendor": "Arturia"
+}

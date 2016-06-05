@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital", "Soundtrack"],
+  "name": "Planet Nine",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "552f8f5b-768a-4fc6-8121-fd0ad6eee55e",
+  "vendor": "Arturia"
+}

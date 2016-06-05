@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lion Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "69c07219-dbe5-45b6-a082-464bb086bb52",
+  "vendor": "Arturia"
+}

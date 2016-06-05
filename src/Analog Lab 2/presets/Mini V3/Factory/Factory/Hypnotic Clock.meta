@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Hypnotic Clock",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8a7b8513-8f8f-46a4-a72e-922b63fd054e",
+  "vendor": "Arturia"
+}

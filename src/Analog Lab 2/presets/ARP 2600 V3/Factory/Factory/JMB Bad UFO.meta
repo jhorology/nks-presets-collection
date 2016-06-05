@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "JMB Bad UFO",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "22cbd906-f5e9-4552-93ba-29e949c8580e",
+  "vendor": "Arturia"
+}

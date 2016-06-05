@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pat",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6726c453-0f07-471b-bbcf-294d0e4fb762",
+  "vendor": "Arturia"
+}

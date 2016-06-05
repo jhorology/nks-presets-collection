@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Noise"],
+  "name": "Alien",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "383bc5b5-c847-462f-9515-e2f5c2ddfe01",
+  "vendor": "Arturia"
+}

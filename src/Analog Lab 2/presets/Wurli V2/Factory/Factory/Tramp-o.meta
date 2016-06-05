@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft", "Quiet"],
+  "name": "Tramp-o",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3b6de78b-d58f-4508-9277-b2d4fec9824c",
+  "vendor": "Arturia"
+}

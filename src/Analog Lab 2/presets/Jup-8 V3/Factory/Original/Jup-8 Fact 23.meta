@@ -1,0 +1,13 @@
+{
+  "author": "Jupiter-8 Factory",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Quiet"],
+  "name": "Jup-8 Fact 23",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "cefc7ca2-684a-4e6b-8e03-9c13f4059c6e",
+  "vendor": "Arturia"
+}

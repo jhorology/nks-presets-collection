@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Subtle Waves",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7ed15462-d7b1-4047-a6aa-344b99dbfcfc",
+  "vendor": "Arturia"
+}

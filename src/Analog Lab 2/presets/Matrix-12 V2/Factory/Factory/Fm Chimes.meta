@@ -1,0 +1,13 @@
+{
+  "author": "Richard Devine",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Ping pong delay defines this atonal rubbery set of chimes. Mod wheel increases the atonality.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital"],
+  "name": "Fm Chimes",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "8f55460d-f83f-44df-afb5-47e94a228395",
+  "vendor": "Arturia"
+}

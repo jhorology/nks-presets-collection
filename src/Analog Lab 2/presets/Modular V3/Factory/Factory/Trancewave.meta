@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Notch filtered saw waves combine with a sweet sine tone for a rich trance sequence with a warm second layer.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Trancewave",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "bcbf444d-c05f-42e6-a465-f9e8632b68e4",
+  "vendor": "Arturia"
+}

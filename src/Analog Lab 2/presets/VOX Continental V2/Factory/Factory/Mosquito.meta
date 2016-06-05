@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Ambient", "Bizarre", "Complex"],
+  "name": "Mosquito",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5ed09e26-c9dc-462c-8997-9e7fcfa3a036",
+  "vendor": "Arturia"
+}

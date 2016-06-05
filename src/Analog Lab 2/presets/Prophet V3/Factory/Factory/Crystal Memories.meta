@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Long"],
+  "name": "Crystal Memories",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c24e73e-01cf-463c-a35f-8171c7fbfa9c",
+  "vendor": "Arturia"
+}

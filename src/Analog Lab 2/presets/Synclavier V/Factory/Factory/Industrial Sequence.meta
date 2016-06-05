@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Industrial and metallic synth sound with repeat arpegio mode. Modwheel controlled vibrato depth & Aftertouch controlled FM ratio.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Dark", "Digital", "Hard"],
+  "name": "Industrial Sequence",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "606ed25e-1ddc-43b0-ac5b-60f1553a2c47",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Simple", "Quiet"],
+  "name": "Air String 3",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5cd640ff-b7ca-4865-b2df-aa7d60ca5e84",
+  "vendor": "Arturia"
+}

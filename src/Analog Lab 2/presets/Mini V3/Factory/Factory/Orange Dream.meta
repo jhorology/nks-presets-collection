@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Digital"],
+  "name": "Orange Dream",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5f7585f0-8e45-4d63-a75e-878490ac24a3",
+  "vendor": "Arturia"
+}

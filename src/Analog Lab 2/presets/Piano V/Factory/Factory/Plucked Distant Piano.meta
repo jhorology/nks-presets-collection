@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Heavily reverbed soft plucked instrument.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Plucked Distant Piano",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "abcdd23c-33b2-45f3-a6c5-ef3b575921ea",
+  "vendor": "Arturia"
+}

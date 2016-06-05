@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Tomita Ring",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "b073a3f4-2d8d-458b-b1f4-7eb534a2ab20",
+  "vendor": "Arturia"
+}

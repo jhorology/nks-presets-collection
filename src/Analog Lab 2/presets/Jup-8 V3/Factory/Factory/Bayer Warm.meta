@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Quiet"],
+  "name": "Bayer Warm",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "14c21ff6-93e1-42f0-9b4a-38312a8ab8ed",
+  "vendor": "Arturia"
+}

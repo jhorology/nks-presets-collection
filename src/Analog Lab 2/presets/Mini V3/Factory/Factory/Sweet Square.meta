@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Long"],
+  "name": "Sweet Square",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "4c47c540-c356-4416-bed2-178e4f253533",
+  "vendor": "Arturia"
+}

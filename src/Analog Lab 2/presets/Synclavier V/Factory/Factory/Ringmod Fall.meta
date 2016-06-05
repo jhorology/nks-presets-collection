@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Ringmod effect with repeating descending pitch envelope.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Long"],
+  "name": "Ringmod Fall",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3c6efac2-d091-4da2-b3ad-5edbd3ec92db",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Long"],
+  "name": "Bizarre Circus",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e01026b7-6a40-42ca-a3d2-7323098c8a7d",
+  "vendor": "Arturia"
+}

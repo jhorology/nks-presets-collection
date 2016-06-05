@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Assless Synth",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "90a8c784-8c8d-47f4-bcf3-4448339106e4",
+  "vendor": "Arturia"
+}

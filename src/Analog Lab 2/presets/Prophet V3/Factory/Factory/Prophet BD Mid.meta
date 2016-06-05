@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Prophet BD Mid",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3bb4b043-5883-4a63-b8b7-c77886349985",
+  "vendor": "Arturia"
+}

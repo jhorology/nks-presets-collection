@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Dust And Flute",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ca5fbe75-b933-497f-83f0-81d2b225e266",
+  "vendor": "Arturia"
+}

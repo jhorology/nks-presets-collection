@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Short"],
+  "name": "Rotation Keys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8d67f3b6-940c-4cbf-99ee-ea9b5af24c0f",
+  "vendor": "Arturia"
+}

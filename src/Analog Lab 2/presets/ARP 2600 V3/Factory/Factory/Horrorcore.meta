@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Horrorcore",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1a510089-d628-4d53-8e8e-ead377e8a167",
+  "vendor": "Arturia"
+}

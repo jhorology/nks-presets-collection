@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Ensemble"],
+  "name": "8 V Strings",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "dbc141ae-e6bb-4496-acd8-fca738ddcada",
+  "vendor": "Arturia"
+}

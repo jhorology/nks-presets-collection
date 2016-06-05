@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long"],
+  "name": "Another Synth",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "36032bdd-681e-4478-b349-d193ea0488ac",
+  "vendor": "Arturia"
+}

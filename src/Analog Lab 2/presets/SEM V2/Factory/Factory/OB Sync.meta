@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "You can hear the effect of syncing the two oscillators by switching sync 'off'. VCO1 and VCO2  are at very different pitches and sync forces them together, creating this powerful sonic attribute.",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "OB Sync",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9c0acc5f-623d-4516-bb88-b837238afcf5",
+  "vendor": "Arturia"
+}

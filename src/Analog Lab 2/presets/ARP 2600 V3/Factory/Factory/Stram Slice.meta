@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Stram Slice",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c954fe44-4f74-4e64-b8ef-9eef4620779d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "JP-ARP",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3568d5da-521f-4449-a7b2-263ce5152584",
+  "vendor": "Arturia"
+}

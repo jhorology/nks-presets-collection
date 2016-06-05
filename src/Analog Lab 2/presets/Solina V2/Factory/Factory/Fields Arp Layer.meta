@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long"],
+  "name": "Fields Arp Layer",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "48794e8c-9653-44f1-86c4-0618b848b939",
+  "vendor": "Arturia"
+}

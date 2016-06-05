@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Aggressive", "Complex"],
+  "name": "Clickn Cut",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5d3cb43e-52f5-4b60-85a0-43b0f917443b",
+  "vendor": "Arturia"
+}

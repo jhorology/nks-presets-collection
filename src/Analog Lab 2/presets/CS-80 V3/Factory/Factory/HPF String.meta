@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "HPF String",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3a485717-2076-417b-9880-d2481f7b6ad7",
+  "vendor": "Arturia"
+}

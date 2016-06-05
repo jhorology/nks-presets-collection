@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble"],
+  "name": "Faux Ensemble",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0fb6149d-3dbd-4018-9fc4-02728ea84981",
+  "vendor": "Arturia"
+}

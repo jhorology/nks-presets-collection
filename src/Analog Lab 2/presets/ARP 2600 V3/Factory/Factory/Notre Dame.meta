@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Notre Dame",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "048fff64-a3ea-4ab0-95aa-938033b86cc9",
+  "vendor": "Arturia"
+}

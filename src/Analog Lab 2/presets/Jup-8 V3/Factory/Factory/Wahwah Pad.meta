@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Ensemble", "Simple", "Soft"],
+  "name": "Wahwah Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ec31a808-72a9-4f0f-90bd-d69966c6fe94",
+  "vendor": "Arturia"
+}

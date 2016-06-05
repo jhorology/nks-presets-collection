@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Sequence Gated",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5a17b1b4-30c5-478d-b244-8ac03704c716",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Sing Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "027a0866-bc95-4a23-82d8-84dcea0d0e5b",
+  "vendor": "Arturia"
+}

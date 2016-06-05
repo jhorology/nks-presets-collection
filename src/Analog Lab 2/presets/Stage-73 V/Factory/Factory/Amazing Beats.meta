@@ -1,0 +1,13 @@
+{
+  "author": "Laffitte Christian",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft", "Quiet"],
+  "name": "Amazing Beats",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f5183c7d-28a7-4513-a273-049da20ed5df",
+  "vendor": "Arturia"
+}

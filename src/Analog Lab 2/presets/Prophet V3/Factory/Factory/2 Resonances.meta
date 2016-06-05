@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Soft"],
+  "name": "2 Resonances",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "cbcec62b-c272-4450-8a86-0c0b41cd0769",
+  "vendor": "Arturia"
+}

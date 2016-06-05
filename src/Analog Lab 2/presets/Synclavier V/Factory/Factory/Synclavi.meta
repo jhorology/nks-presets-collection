@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "EP with a very heavy 'tine' in the attack. Really dynamic - and the mod-wheel creates a stereo effect on top of the vibrato.",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Simple"],
+  "name": "Synclavi",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "ff6a36c8-ac75-4130-9d23-9fe016d49a8b",
+  "vendor": "Arturia"
+}

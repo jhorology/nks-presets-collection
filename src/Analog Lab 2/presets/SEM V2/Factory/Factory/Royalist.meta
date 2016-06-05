@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Royalist",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1c0a7569-91bf-40c3-b6b1-4eb85f7ff682",
+  "vendor": "Arturia"
+}

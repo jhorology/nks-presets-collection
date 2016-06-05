@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Bassman",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "852209dd-a114-4030-9ca6-46aad6b8a8d5",
+  "vendor": "Arturia"
+}

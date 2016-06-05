@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Fluttery Loop",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3a26922c-7ea3-45d5-9a55-d0eb5546dc33",
+  "vendor": "Arturia"
+}

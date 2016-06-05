@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "High Cycling",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9b1631d5-ae5e-4349-9b86-530515c880a2",
+  "vendor": "Arturia"
+}

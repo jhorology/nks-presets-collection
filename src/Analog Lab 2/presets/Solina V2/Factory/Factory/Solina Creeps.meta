@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Ensemble", "Long"],
+  "name": "Solina Creeps",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d79da0ea-4159-4a7e-9559-479ff4c4b235",
+  "vendor": "Arturia"
+}

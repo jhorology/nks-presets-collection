@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Tagada",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1e9e3f41-0a9a-427b-a4e7-29801fb6c066",
+  "vendor": "Arturia"
+}

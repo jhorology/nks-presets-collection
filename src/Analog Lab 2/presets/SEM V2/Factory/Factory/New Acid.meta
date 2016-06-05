@@ -1,0 +1,13 @@
+{
+  "author": "JMB",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex"],
+  "name": "New Acid",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4cc37b08-9eef-436b-a8d2-b441e1b0cfb5",
+  "vendor": "Arturia"
+}

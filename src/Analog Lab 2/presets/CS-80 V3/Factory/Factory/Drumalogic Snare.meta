@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Simple"],
+  "name": "Drumalogic Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "b2d83060-afbb-4412-96fe-f2bfe130c6d9",
+  "vendor": "Arturia"
+}

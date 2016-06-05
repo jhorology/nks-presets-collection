@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Digital", "Hard"],
+  "name": "Tini Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1413b23d-ba33-4908-a86f-871d7e234f0a",
+  "vendor": "Arturia"
+}

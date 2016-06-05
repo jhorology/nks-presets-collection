@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard"],
+  "name": "Pitbull",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9a0d6a1d-ca3f-48d2-8acc-b674e5e52f98",
+  "vendor": "Arturia"
+}

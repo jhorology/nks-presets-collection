@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Floydian sequence of disassociated percussive clangs and whooshes. Mod wheel introduces even more chaos.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Evolving"],
+  "name": "Hypno Beat",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "19519e35-be2c-4690-ba81-5930358b2d7c",
+  "vendor": "Arturia"
+}

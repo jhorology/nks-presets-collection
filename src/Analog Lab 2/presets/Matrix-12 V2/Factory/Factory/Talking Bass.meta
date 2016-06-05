@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Hard"],
+  "name": "Talking Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8a362002-7038-4622-ae87-90dc48533b0b",
+  "vendor": "Arturia"
+}

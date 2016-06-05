@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soundtrack"],
+  "name": "Satin03",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "ff9b4b03-0568-4b78-9ad7-813eb6fa3817",
+  "vendor": "Arturia"
+}

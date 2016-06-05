@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Mod Up",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2e849fa3-688e-46ed-bf84-0d67a16e16a1",
+  "vendor": "Arturia"
+}

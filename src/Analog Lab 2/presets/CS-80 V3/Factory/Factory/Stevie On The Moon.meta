@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Simple"],
+  "name": "Stevie On The Moon",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "348ecc45-44c6-4ab2-aa0b-0a4b441b11b3",
+  "vendor": "Arturia"
+}

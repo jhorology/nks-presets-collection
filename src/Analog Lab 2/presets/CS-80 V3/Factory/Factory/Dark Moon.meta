@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Dark Moon",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fe380c3e-a643-4331-8b8e-6d9684455c4b",
+  "vendor": "Arturia"
+}

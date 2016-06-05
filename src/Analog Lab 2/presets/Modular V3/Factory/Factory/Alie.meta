@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Alie",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7a2957c0-7c3b-497a-a6bf-a077b88fb11a",
+  "vendor": "Arturia"
+}

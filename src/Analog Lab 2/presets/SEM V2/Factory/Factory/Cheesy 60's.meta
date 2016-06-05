@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cheesy 60's",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "c4b1dc80-c3f1-434a-98f4-bbc24eb9f4e7",
+  "vendor": "Arturia"
+}

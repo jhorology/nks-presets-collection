@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soundtrack", "Short"],
+  "name": "Dotcom",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "627c90bf-fb13-419d-919f-cea543c2253b",
+  "vendor": "Arturia"
+}

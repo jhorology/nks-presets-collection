@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple", "Soft"],
+  "name": "T Bish",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "420526b0-cc14-4fe6-843c-dec397a5af95",
+  "vendor": "Arturia"
+}

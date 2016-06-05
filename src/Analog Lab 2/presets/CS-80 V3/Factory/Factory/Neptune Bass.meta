@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Simple"],
+  "name": "Neptune Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6d3c51dd-bdb2-43dd-a6f9-a697a3b4ce1b",
+  "vendor": "Arturia"
+}

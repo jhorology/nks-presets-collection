@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Evolving"],
+  "name": "Very Psychedelic",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "21d3a8bb-0874-4a96-8f3c-da989411346b",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soundtrack", "Quiet"],
+  "name": "Flashback",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "78f6849e-7d8e-43cb-99db-c3a1a77b020f",
+  "vendor": "Arturia"
+}

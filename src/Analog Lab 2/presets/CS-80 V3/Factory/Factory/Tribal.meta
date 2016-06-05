@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "Tribal",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "43627091-c3d9-448b-860c-25f6d57053fb",
+  "vendor": "Arturia"
+}

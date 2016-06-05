@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Square Wave",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "378265dc-11b8-4e9a-853e-39f3ea016048",
+  "vendor": "Arturia"
+}

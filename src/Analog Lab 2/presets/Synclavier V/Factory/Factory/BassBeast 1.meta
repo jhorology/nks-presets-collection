@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Clean FM plucking Bass plus buzz.Use mod. wheal to control the bnalance.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Digital", "Funky"],
+  "name": "BassBeast 1",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "bd3b0c06-d847-473a-99c5-8b9d15a78024",
+  "vendor": "Arturia"
+}

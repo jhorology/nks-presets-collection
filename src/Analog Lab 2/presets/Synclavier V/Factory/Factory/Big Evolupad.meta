@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atmospheric FM pad . Perfect for soundtrack. Modwheel controlled FM Amount",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Ensemble", "Long", "Soundtrack"],
+  "name": "Big Evolupad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fccda299-a91e-49be-92e2-8a23b723e3aa",
+  "vendor": "Arturia"
+}

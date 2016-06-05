@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Schulze",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Bss Wheel",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b75f5f01-f45c-41e8-9838-ada615f8faab",
+  "vendor": "Arturia"
+}

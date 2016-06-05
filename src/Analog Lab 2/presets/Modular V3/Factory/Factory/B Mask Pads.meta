@@ -1,0 +1,13 @@
+{
+  "author": "Matsutake",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "B Mask Pads",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "525ce7ec-bb2d-40f3-b46a-3a255d61e613",
+  "vendor": "Arturia"
+}

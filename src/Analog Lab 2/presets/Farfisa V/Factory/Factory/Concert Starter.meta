@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "\"In the low registersm low and rumbling",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Concert Starter",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f1ff6c89-74c1-46bd-bf1d-b6dc7567b0e5",
+  "vendor": "Arturia"
+}

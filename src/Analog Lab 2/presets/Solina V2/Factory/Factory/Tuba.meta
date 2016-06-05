@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Tuba",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0c0ede1c-fc36-4d56-bcd0-ec9fd23e4892",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Bright", "Long"],
+  "name": "Padyswee",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b8f56ba0-142b-4ee6-88e2-636d1e7711ef",
+  "vendor": "Arturia"
+}

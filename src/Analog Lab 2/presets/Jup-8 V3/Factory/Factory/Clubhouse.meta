@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Bizarre", "Bright"],
+  "name": "Clubhouse",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2725bb83-7922-4b7a-892d-5e1e87a2df83",
+  "vendor": "Arturia"
+}

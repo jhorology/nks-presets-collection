@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Retro Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "85496e86-d9f2-4634-bd80-79a9d0e76faf",
+  "vendor": "Arturia"
+}

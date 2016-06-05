@@ -1,0 +1,13 @@
+{
+  "author": "Sota Fujimori",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Ambient Bell Mod",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a76edccf-b0d8-4c01-b08a-a555c8998d24",
+  "vendor": "Arturia"
+}

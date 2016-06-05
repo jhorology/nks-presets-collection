@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky"],
+  "name": "Clockwise",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9738614c-a413-4bb2-bee5-515b1a85caf1",
+  "vendor": "Arturia"
+}

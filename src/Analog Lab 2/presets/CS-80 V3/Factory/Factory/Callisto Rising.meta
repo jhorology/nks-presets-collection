@@ -1,0 +1,13 @@
+{
+  "author": "Sonar_Traffic",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long", "Soft"],
+  "name": "Callisto Rising",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "9d18325e-9822-4a9f-95a4-bb1b6f26f054",
+  "vendor": "Arturia"
+}

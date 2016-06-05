@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Dark", "Hard"],
+  "name": "Classic Dist",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "19d6934c-5fc5-45ac-8577-e9ad7054d393",
+  "vendor": "Arturia"
+}

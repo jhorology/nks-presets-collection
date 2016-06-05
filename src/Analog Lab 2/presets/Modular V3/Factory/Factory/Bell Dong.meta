@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Quiet"],
+  "name": "Bell Dong",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "66801b9c-ee84-46e2-9135-6209940db13f",
+  "vendor": "Arturia"
+}

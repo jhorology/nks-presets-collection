@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Hooligan",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3658ae1a-c88d-4537-a614-77a5ce7f7ca5",
+  "vendor": "Arturia"
+}

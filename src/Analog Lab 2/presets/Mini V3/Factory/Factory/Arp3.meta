@@ -1,0 +1,13 @@
+{
+  "author": "Geoff Downes",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Arp3",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d464918b-6d8b-4ce8-8d35-406091bb9923",
+  "vendor": "Arturia"
+}

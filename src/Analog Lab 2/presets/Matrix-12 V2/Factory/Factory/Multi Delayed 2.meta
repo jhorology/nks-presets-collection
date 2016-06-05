@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Soundtrack"],
+  "name": "Multi Delayed 2",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "82dafb3b-53ab-48c6-9ae7-5f93e5e4d8ff",
+  "vendor": "Arturia"
+}

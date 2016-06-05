@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Templates"],
+  "comment": "Hard, quite thin tone on upper velocity levels.",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Stage Amp",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "860085a9-e059-4400-a0c5-851df8b682b9",
+  "vendor": "Arturia"
+}

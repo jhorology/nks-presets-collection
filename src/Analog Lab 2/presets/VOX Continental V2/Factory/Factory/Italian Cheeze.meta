@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Italian Cheeze",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3feee524-b541-4ea7-80ba-a9c83f157207",
+  "vendor": "Arturia"
+}

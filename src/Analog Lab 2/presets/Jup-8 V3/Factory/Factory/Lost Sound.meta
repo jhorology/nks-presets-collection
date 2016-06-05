@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Evolving"],
+  "name": "Lost Sound",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "16e3987b-57f0-40d6-b87b-ef73723352ba",
+  "vendor": "Arturia"
+}

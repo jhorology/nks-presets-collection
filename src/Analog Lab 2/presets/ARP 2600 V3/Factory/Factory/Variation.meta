@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soft"],
+  "name": "Variation",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "018e0b3d-bd46-4948-ab62-7c4532652488",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "BP Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1fa9b328-4d74-4df5-a37f-fb0c213d542d",
+  "vendor": "Arturia"
+}

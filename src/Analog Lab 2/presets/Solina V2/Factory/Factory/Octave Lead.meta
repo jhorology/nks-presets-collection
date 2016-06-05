@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Short"],
+  "name": "Octave Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "dca82517-ae07-4317-aa00-48d428b86c69",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Laurent Collat",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Weirdo Sit",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "ae06d943-0d3b-4623-952b-b4bcf9491cbc",
+  "vendor": "Arturia"
+}

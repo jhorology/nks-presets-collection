@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Soft"],
+  "name": "Cybernetic Modules",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2dff3092-f691-4519-ad5f-aabb996a6ad4",
+  "vendor": "Arturia"
+}

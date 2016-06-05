@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "R2D3",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "3f9abcaa-76bd-47b7-993a-815b734f155f",
+  "vendor": "Arturia"
+}

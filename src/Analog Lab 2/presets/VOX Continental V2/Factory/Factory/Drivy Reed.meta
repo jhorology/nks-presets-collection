@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Simple"],
+  "name": "Drivy Reed",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "4aed5d57-255e-471c-9d11-348ee83bf6b9",
+  "vendor": "Arturia"
+}

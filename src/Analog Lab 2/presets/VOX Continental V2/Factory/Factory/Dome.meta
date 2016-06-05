@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Short"],
+  "name": "Dome",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f18dd021-c902-4dae-82c0-2dabbcc4a17a",
+  "vendor": "Arturia"
+}

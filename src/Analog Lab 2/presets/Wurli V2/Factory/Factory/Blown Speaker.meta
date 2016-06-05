@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Hard"],
+  "name": "Blown Speaker",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e030edd2-d56a-4fb1-83ed-2fdb6496631d",
+  "vendor": "Arturia"
+}

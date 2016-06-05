@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Vintage honky tonk classic piano sound",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Honky Bar",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2d8a7fdc-9bb9-4ef3-883c-1434e5ee0e1a",
+  "vendor": "Arturia"
+}

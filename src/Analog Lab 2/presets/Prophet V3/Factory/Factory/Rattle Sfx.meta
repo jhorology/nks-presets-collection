@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Rattle Sfx",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "a975222d-bd32-49f2-9e3a-ffc729428b8a",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Agressive Sky",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "bf6c62c4-7a6b-4b28-9d47-030313094bb0",
+  "vendor": "Arturia"
+}

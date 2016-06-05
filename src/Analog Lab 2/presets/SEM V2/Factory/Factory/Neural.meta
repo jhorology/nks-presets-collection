@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Simple"],
+  "name": "Neural",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4898258b-6a6e-4da0-be1d-a0d93f9f8a43",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Matrix12",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Original"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise", "Simple"],
+  "name": "Noisench",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "30174677-f4e6-4eb3-89f7-2a875daf2a0b",
+  "vendor": "Arturia"
+}

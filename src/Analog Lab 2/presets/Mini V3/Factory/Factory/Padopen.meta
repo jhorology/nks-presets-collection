@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Padopen",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3b80df1f-bccd-4261-ac56-d4a218ba1e01",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Noise"],
+  "name": "Brite Dirty Phaser",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "66f31d61-e80c-4693-80fe-0ecad5f7c925",
+  "vendor": "Arturia"
+}

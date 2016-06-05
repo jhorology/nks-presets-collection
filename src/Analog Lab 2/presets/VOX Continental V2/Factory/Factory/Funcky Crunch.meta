@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Hard", "Simple"],
+  "name": "Funcky Crunch",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "bc53f0bf-969f-462f-831c-8ffa138b682e",
+  "vendor": "Arturia"
+}

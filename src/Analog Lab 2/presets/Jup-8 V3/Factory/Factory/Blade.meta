@@ -1,0 +1,13 @@
+{
+  "author": "Richard James",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Dark", "Long", "Soft"],
+  "name": "Blade",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "f4d9e83f-fa8a-4111-bf52-5a650cc4ef11",
+  "vendor": "Arturia"
+}

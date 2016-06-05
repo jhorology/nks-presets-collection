@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soundtrack"],
+  "name": "Ballerina",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8fdb8144-1bfc-4608-9e1b-35cd87b92af1",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "Energy Sync",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0e2f11d1-b408-44e9-a165-53c56a05043d",
+  "vendor": "Arturia"
+}

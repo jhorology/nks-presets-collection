@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Long evolving pad starts off bright. A bit of a PPG wavetable sound. Digitals flies comein to annoy you after a few seconds in Partials 6, 7, 8     Hold the key for 10 seconds to get the effect.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital", "Long", "Soundtrack", "Evolving"],
+  "name": "Quote of the day",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a419deb0-278a-4633-81e6-8364a05cdd0d",
+  "vendor": "Arturia"
+}

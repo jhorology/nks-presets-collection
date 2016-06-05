@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "Sinus",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "537debe2-fc2f-42a6-94ed-cae317c86730",
+  "vendor": "Arturia"
+}

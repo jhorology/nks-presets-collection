@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Digital", "Long"],
+  "name": "Thermosphere",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "62e6d739-1370-478c-a859-23d1b1c9a967",
+  "vendor": "Arturia"
+}

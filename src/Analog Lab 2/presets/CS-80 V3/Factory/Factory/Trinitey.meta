@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Trinitey",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c4870abd-386b-4744-a1f3-bed0f9e948d0",
+  "vendor": "Arturia"
+}

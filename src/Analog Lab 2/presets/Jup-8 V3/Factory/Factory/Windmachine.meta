@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Noise", "Soundtrack"],
+  "name": "Windmachine",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b0706cae-2fd9-4d61-b41d-25fff2dc8b96",
+  "vendor": "Arturia"
+}

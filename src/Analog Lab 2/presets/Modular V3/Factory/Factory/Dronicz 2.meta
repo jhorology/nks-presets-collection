@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft"],
+  "name": "Dronicz 2",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a3dd505f-dd81-4bbe-be97-483e8a667967",
+  "vendor": "Arturia"
+}

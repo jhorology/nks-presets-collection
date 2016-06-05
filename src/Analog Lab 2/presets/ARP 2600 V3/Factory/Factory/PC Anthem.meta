@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard"],
+  "name": "PC Anthem",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "78987ff7-593f-468a-987d-89e835cb73ed",
+  "vendor": "Arturia"
+}

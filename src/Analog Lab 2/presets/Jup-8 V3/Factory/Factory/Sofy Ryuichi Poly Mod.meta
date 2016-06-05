@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Hard", "Long"],
+  "name": "Sofy Ryuichi Poly Mod",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "2ad9c51e-222a-4de7-8439-4c77273c0f6a",
+  "vendor": "Arturia"
+}

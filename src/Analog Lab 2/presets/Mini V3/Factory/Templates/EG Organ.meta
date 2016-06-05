@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "EG Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "448aea48-e563-473c-beab-d7f55d527815",
+  "vendor": "Arturia"
+}

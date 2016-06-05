@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soundtrack"],
+  "name": "Stella",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "f409d55b-6969-4563-9b42-09ef9503090f",
+  "vendor": "Arturia"
+}

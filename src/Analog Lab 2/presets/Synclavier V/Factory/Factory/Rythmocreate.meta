@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving timbre with a partials morphing. Modwheel controlled tuning",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital"],
+  "name": "Rythmocreate",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "84caf03e-be76-42ef-a720-7558c6a10565",
+  "vendor": "Arturia"
+}

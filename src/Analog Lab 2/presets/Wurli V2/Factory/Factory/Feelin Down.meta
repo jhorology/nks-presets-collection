@@ -1,0 +1,13 @@
+{
+  "author": "Steve Ferlazzo",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Feelin Down",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8f1fb522-18f9-4f58-b7eb-c6e7c051e344",
+  "vendor": "Arturia"
+}

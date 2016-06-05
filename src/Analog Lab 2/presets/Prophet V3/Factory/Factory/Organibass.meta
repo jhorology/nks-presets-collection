@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Organibass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d5304316-626c-44c7-b91d-d310c4e0d15d",
+  "vendor": "Arturia"
+}

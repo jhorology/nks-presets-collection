@@ -1,0 +1,13 @@
+{
+  "author": "Klaus Peter Rausch",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Steel Drums",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3ed413c3-e721-4886-96b3-ac0d0a7494e8",
+  "vendor": "Arturia"
+}

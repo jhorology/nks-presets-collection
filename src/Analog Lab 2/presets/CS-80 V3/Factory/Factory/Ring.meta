@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Ring",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "82f53de3-beae-490a-92cd-9fefa75985fb",
+  "vendor": "Arturia"
+}

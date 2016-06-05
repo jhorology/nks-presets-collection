@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Acoustico",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "6dbdcad6-9116-49b7-951f-bda0f1c01fb7",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise"],
+  "name": "Percussion on Wheel",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2e79038c-02fc-4359-a3a9-ce7bee436a90",
+  "vendor": "Arturia"
+}

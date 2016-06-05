@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Short"],
+  "name": "Daysoff",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "2c35e2c1-8d9b-4811-bdd0-cf36bc92bfcc",
+  "vendor": "Arturia"
+}

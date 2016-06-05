@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Digital", "Soft"],
+  "name": "Guitar Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cc27c4e2-3bd7-48b2-bb86-5fe4568c4089",
+  "vendor": "Arturia"
+}

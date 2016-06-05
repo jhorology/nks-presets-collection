@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "bellish keys with sustain",
+  "deviceType": "INST",
+  "modes": ["Digital"],
+  "name": "Bellkey Sustain",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "39f851c4-fd69-459e-929b-4ccf5478bc17",
+  "vendor": "Arturia"
+}

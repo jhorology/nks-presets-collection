@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Noise Attack Bs",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "06862abb-7a06-405b-bf9e-2aeb1d8b80a3",
+  "vendor": "Arturia"
+}

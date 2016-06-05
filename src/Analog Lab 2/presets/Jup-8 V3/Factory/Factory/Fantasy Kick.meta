@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Fantasy Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "93ecb8da-f6e5-4ab9-94da-bb1c1ecab445",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Chiptune Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "167288e2-a157-4218-b729-946dc9b6b81b",
+  "vendor": "Arturia"
+}

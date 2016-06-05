@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "Iwik",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "5b2f25ca-cbe9-4202-a141-f2371da197d0",
+  "vendor": "Arturia"
+}

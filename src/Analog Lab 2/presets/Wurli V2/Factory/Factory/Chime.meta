@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Funky", "Simple"],
+  "name": "Chime",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "ab0473ff-fddf-41f8-9765-621c865ba2f4",
+  "vendor": "Arturia"
+}

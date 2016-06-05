@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark"],
+  "name": "Dark Matrix",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "583e9728-0f77-4606-ad7a-9b2428d629b6",
+  "vendor": "Arturia"
+}

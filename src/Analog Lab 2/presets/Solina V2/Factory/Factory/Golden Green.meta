@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Golden Green",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9c4516dd-3448-41ff-b00c-eae74e0ba117",
+  "vendor": "Arturia"
+}

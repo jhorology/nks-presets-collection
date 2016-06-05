@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Soft"],
+  "name": "Double Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3fb57683-ae8b-41dc-855e-fd9c076b7a09",
+  "vendor": "Arturia"
+}

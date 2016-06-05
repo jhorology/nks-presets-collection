@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "SQ Bass",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c42d6dd1-8980-4b7c-a020-e8171cecee50",
+  "vendor": "Arturia"
+}

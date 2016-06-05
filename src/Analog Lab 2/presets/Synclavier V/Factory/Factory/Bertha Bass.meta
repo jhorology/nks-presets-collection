@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Velocity makes it brighter. Mod wheel add modulation. Hard and harsh sound with big sub-bass sines.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Complex", "Digital", "Short"],
+  "name": "Bertha Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "ce9beb63-246c-41c4-92f9-6745e58a1b48",
+  "vendor": "Arturia"
+}

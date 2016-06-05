@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Magic Light",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b7a43133-04fc-4186-8f0d-2504f767fbb2",
+  "vendor": "Arturia"
+}

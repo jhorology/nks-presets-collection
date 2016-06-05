@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Tuba Semimolaire",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "dfc74c62-5431-4bcc-b5f6-50299ee426fd",
+  "vendor": "Arturia"
+}

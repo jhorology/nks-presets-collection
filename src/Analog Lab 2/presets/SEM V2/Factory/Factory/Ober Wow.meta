@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Ober Wow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "f12c205c-376e-469c-b00e-83cc8a204507",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Metallic digital orchestral stab with interesting evolving tiumbre modulation as you hold down the keys.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Additive Hit",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "aa77fe50-a317-4244-86fe-59df41e43e44",
+  "vendor": "Arturia"
+}

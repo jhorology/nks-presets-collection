@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Soft", "Soundtrack"],
+  "name": "Inside The Phase",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "952a3614-fb2f-4449-b60a-b1aaa1b094e1",
+  "vendor": "Arturia"
+}

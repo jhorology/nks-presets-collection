@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Simple", "Short"],
+  "name": "Aswad",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c6197f84-ed09-4604-8f30-54002e64245f",
+  "vendor": "Arturia"
+}

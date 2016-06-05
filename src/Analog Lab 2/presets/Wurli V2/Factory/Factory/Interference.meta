@@ -1,0 +1,13 @@
+{
+  "author": "Paul Steinway",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Hard"],
+  "name": "Interference",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3d6ba30e-a5a3-4608-b62e-122676418eea",
+  "vendor": "Arturia"
+}

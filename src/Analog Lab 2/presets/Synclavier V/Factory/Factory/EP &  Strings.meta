@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Combination of FM electric piano and strings. Use after touch or wheel",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Ensemble", "Funky"],
+  "name": "EP &  Strings",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "12c91747-a848-4eee-937a-8ff756f9ae4f",
+  "vendor": "Arturia"
+}

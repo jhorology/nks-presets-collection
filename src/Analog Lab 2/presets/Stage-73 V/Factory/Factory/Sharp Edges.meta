@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "Aggressive tone, with overdrive, chorus and analog delay added.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sharp Edges",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "2d8d5ed3-0956-41b7-941b-c7c2731dc929",
+  "vendor": "Arturia"
+}

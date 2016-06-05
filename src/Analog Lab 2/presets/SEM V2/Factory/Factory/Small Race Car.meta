@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Long"],
+  "name": "Small Race Car",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "28220bdd-5973-419d-9233-66fb19c6b877",
+  "vendor": "Arturia"
+}

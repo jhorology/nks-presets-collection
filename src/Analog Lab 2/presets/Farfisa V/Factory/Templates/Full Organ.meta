@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple", "Short"],
+  "name": "Full Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c0bcc0cb-8a7d-484a-a976-94545a132693",
+  "vendor": "Arturia"
+}

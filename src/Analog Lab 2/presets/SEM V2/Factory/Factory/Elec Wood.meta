@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Elec Wood",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "12cfe689-f72d-44b3-8667-af7c29a32067",
+  "vendor": "Arturia"
+}

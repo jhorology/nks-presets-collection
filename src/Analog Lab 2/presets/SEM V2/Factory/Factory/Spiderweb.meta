@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Funky", "Short"],
+  "name": "Spiderweb",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "b5b1c856-000c-455d-8d96-dc3921e4edbe",
+  "vendor": "Arturia"
+}

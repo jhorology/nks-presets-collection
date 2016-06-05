@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Seq Bass Classik",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0f7492d7-1442-4d1d-b163-ee0471cc9748",
+  "vendor": "Arturia"
+}

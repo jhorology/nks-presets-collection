@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Notch Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d8b19095-2068-4558-b2fb-ed10e4e23d0e",
+  "vendor": "Arturia"
+}

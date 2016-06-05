@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Noise"],
+  "name": "NZ",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "46dcd7a7-0c4f-46fc-9f0f-b7056b5fd4ba",
+  "vendor": "Arturia"
+}

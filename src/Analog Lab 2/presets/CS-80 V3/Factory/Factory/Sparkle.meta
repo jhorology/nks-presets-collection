@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Soft"],
+  "name": "Sparkle",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "6fbc543d-2b7c-4309-acf8-f5294e25be6b",
+  "vendor": "Arturia"
+}

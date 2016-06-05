@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright"],
+  "name": "NY Police",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "09f04c7d-2214-42f8-87af-f29f2702220a",
+  "vendor": "Arturia"
+}

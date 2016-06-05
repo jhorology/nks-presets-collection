@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Long pitch sweepy siren sound with a 'ding' on the end, which you can lose by lifting fingers off the keys after just a few seconds.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital", "Ensemble", "Evolving"],
+  "name": "Crystal Bells",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8f32c7f9-1bc5-42ac-ae01-57ddff8d6a48",
+  "vendor": "Arturia"
+}

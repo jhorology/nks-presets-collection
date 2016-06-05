@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Ensemble", "Simple", "Short"],
+  "name": "Agile Marcato",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "9cac0569-8ba2-482a-8aa7-f7e2bf0943dc",
+  "vendor": "Arturia"
+}

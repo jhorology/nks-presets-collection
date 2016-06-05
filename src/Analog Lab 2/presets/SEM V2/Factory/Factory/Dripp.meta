@@ -1,0 +1,13 @@
+{
+  "author": "Drew Anderson",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Noise", "Soundtrack"],
+  "name": "Dripp",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "cc9614e6-560c-413b-b3d5-ec5fab732a5f",
+  "vendor": "Arturia"
+}

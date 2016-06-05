@@ -1,0 +1,13 @@
+{
+  "author": "The Circuit Symphony",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Short"],
+  "name": "3p Arpstrong",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a6e889df-cf56-4dd8-bda2-a64e1f0725b5",
+  "vendor": "Arturia"
+}

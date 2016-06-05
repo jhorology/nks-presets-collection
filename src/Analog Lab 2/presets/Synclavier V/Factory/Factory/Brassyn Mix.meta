@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a distant syn brass type sound that works well with chords",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Short"],
+  "name": "Brassyn Mix",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "9796644b-da18-4acd-8550-c5e87ac67d04",
+  "vendor": "Arturia"
+}

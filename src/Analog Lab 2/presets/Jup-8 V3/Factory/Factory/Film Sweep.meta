@@ -1,0 +1,13 @@
+{
+  "author": "Sato Fujimori",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Acid", "Complex", "Long"],
+  "name": "Film Sweep",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "146b48ae-fb4e-4268-87b2-2dc11ed45418",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soft", "Soundtrack", "Quiet"],
+  "name": "Underwater Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b6f1680a-96b3-4a6a-bc28-67b23d832493",
+  "vendor": "Arturia"
+}

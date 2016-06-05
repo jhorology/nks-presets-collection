@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a sound with piano qualities in the mid range with a slow wavering pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Digital"],
+  "name": "Electrikeys",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "0f5ef420-eb82-4024-ab66-d70ae42ae58f",
+  "vendor": "Arturia"
+}

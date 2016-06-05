@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Ether Bunny",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "9d97c755-20f5-47b1-b025-52dbc1b1d0db",
+  "vendor": "Arturia"
+}

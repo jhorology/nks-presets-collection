@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Drawbar Solo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b9ef3067-985c-4837-ba4d-93f5749b4bdb",
+  "vendor": "Arturia"
+}

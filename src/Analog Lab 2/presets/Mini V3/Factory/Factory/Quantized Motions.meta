@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "Oscillator sync, sample-and-hold style with infinite sustain. A lot of crazy movement here.",
+  "deviceType": "INST",
+  "modes": ["Complex"],
+  "name": "Quantized Motions",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "c8da6877-ba7c-40fe-b264-b2079b290952",
+  "vendor": "Arturia"
+}

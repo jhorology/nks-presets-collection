@@ -1,0 +1,13 @@
+{
+  "author": "Jaime Newman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "Bubbling, rolling triangle and pulse waves that brighten with after-touch or mod wheel.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Soundtrack"],
+  "name": "Hifi",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "eaa31f97-da75-4631-a57f-c3ca3bbde3b7",
+  "vendor": "Arturia"
+}

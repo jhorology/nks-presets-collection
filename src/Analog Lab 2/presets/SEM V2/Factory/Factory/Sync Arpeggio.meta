@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soundtrack"],
+  "name": "Sync Arpeggio",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d4dd6498-d191-45f2-8196-cdac44df6288",
+  "vendor": "Arturia"
+}

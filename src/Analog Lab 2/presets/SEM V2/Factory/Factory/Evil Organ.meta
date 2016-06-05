@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Short"],
+  "name": "Evil Organ",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "8d679a77-245c-4032-8d71-da06a51e61a9",
+  "vendor": "Arturia"
+}

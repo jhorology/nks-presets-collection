@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Long"],
+  "name": "Trapped Inside",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "bc6d027c-8a4d-4dcf-ad2a-5f9112ea514e",
+  "vendor": "Arturia"
+}

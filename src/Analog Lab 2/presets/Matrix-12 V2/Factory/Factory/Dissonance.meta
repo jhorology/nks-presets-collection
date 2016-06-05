@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Dark", "Soundtrack"],
+  "name": "Dissonance",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b1634468-dddd-4149-b8e7-2aea5bf7f795",
+  "vendor": "Arturia"
+}

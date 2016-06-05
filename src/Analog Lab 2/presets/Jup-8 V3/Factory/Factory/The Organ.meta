@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "The Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "e70d7bb3-2068-4809-bb8e-c0055cc02f86",
+  "vendor": "Arturia"
+}

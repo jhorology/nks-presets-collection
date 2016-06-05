@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Count Down",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b658b71b-16ef-4cb4-a671-2a41e78cdd11",
+  "vendor": "Arturia"
+}

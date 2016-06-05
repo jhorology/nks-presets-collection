@@ -1,0 +1,13 @@
+{
+  "author": "Clement Chaumeil",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Soundtrack"],
+  "name": "Discovery",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "198596d8-cce1-4192-a95b-3a97528e10df",
+  "vendor": "Arturia"
+}

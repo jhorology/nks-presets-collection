@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "Searing lead tone with stacked saw and pulse oscillators tuned in a rich perfect fourth harmony. Mod wheel adjusts the blend between the oscillators.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Biglead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "174a7bfb-5d13-40e4-9a0c-ce5ace6d1bb9",
+  "vendor": "Arturia"
+}

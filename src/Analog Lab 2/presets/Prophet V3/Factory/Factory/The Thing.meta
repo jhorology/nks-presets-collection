@@ -1,0 +1,13 @@
+{
+  "author": "Silicon Sound",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Quiet"],
+  "name": "The Thing",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "665c9372-dce0-4a4e-a40b-9e8358dafc07",
+  "vendor": "Arturia"
+}

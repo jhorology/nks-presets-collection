@@ -1,0 +1,13 @@
+{
+  "author": "Randy Lee",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Classic light synth strings wqith a little double attack when you release the keys.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Air String 1",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "42bfec80-0f89-447e-9fbe-988cb05b8d71",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dark", "Soft"],
+  "name": "Space Clean pad01",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "48d78fd2-72d9-4c6d-a2da-004bb5d5c1ee",
+  "vendor": "Arturia"
+}

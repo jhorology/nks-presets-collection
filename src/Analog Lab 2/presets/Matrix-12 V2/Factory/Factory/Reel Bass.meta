@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Reel Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d2034b10-eeff-425a-9953-3657dadfdd5b",
+  "vendor": "Arturia"
+}

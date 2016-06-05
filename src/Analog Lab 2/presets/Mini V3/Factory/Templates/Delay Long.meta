@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Delay Long",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c08aa383-35f3-4901-9f76-8a0454bf2b43",
+  "vendor": "Arturia"
+}

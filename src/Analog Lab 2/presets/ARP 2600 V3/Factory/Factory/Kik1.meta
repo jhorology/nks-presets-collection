@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Kik1",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "619c2fc3-f5f1-4a30-9110-f7781c80ec97",
+  "vendor": "Arturia"
+}

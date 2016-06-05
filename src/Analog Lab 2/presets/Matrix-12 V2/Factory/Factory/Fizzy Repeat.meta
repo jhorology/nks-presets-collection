@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright"],
+  "name": "Fizzy Repeat",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1924da9f-cec9-4072-ae07-2e2526b188fc",
+  "vendor": "Arturia"
+}

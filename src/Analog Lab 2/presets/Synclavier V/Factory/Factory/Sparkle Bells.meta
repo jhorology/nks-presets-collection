@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Sparkling bell sound.",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Sparkle Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "c7ac0f65-cd9f-4a8f-ad7a-1d3ca7c43248",
+  "vendor": "Arturia"
+}

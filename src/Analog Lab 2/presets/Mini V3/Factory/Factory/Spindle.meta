@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Spindle",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "2afca1ef-3bb4-4285-98fd-e4e101360c97",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Ensemble", "Soft"],
+  "name": "The Gimmick",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cdd00e00-b91d-46a1-bbfc-d7dee3f64adf",
+  "vendor": "Arturia"
+}

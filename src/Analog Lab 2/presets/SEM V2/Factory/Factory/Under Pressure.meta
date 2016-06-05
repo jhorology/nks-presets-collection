@@ -1,0 +1,13 @@
+{
+  "author": "Reek Havok",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Under Pressure",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "76bfb0dc-128e-4617-87a0-0101953b64c4",
+  "vendor": "Arturia"
+}

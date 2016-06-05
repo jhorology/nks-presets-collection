@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Digital", "Long", "Soundtrack"],
+  "name": "Saturne",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cad5b285-5220-4743-ba24-c71e4a04d4e0",
+  "vendor": "Arturia"
+}

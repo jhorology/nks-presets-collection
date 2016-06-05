@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Swing",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d3470b20-aa49-4457-85f4-5be67404b845",
+  "vendor": "Arturia"
+}

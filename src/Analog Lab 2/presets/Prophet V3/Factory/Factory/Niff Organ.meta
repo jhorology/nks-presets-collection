@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Niff Organ",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "4e100e61-5bf3-4841-a7cf-f6610790746a",
+  "vendor": "Arturia"
+}

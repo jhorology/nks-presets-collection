@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Space Worm",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "0a33ca8d-166c-494f-a256-66cc05aaa9cf",
+  "vendor": "Arturia"
+}

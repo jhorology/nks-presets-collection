@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble", "Long"],
+  "name": "Heartbreak Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "3d73dc6d-13f4-4e5a-891d-f49e8b428c94",
+  "vendor": "Arturia"
+}

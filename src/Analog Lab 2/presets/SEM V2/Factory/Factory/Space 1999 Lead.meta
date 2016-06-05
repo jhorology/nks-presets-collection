@@ -1,0 +1,13 @@
+{
+  "author": "Erik Norlander",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Space 1999 Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "7ba68828-2f7b-44e3-8508-0969971363b1",
+  "vendor": "Arturia"
+}

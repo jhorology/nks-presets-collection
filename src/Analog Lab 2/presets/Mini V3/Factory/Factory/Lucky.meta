@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Lucky",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "36b79531-fa2b-4769-8e96-aa85b85deaa4",
+  "vendor": "Arturia"
+}

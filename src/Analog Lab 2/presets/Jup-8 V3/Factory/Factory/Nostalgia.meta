@@ -1,0 +1,13 @@
+{
+  "author": "Ruff & Jam",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soft"],
+  "name": "Nostalgia",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "c9ee30ff-f64d-42b3-b68b-c0a8b80a96ab",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital"],
+  "name": "Broken Syntex",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "6ab5654a-8cde-49a1-900e-0bc2857f5801",
+  "vendor": "Arturia"
+}

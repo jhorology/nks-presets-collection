@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Ensemble", "Evolving"],
+  "name": "Flanger Pad",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "03cbbc41-69f7-4011-8b62-9578ef0ee372",
+  "vendor": "Arturia"
+}

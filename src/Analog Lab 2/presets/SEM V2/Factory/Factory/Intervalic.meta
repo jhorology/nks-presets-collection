@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Schroeder",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Soft"],
+  "name": "Intervalic",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "832a33b3-a863-495a-ba98-97cfe83725e4",
+  "vendor": "Arturia"
+}

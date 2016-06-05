@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Drive Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e9536c8c-aa40-476b-903c-bc102471ecd8",
+  "vendor": "Arturia"
+}

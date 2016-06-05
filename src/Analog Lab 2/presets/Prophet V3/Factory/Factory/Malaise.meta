@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre"],
+  "name": "Malaise",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9f33258d-2047-4694-ab3e-bd8ed1f6604f",
+  "vendor": "Arturia"
+}

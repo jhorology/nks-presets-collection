@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Zutphen 2016",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "fb6a6c75-fd73-4183-9aea-443cbfe922ec",
+  "vendor": "Arturia"
+}

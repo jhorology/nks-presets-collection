@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long", "Soft"],
+  "name": "Softad 4",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a16eeca5-524e-477d-a1a1-beb73f7e0478",
+  "vendor": "Arturia"
+}

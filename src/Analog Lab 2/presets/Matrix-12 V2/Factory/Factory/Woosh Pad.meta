@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright"],
+  "name": "Woosh Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b810dfb4-6c4a-4ee8-a9ad-2ed776dadaf4",
+  "vendor": "Arturia"
+}

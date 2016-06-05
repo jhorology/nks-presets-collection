@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Atmospheric pad with phaser dubdelay and reverb. Take note because the sound plays louder. Modwheel controlled Tuning.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Soundtrack"],
+  "name": "Long Progression",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "fda7c321-2c11-4b2a-b04b-386e553007a1",
+  "vendor": "Arturia"
+}

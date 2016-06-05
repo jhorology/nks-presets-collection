@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "S&H Random",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e49350be-4191-4770-8c41-487b44e65055",
+  "vendor": "Arturia"
+}

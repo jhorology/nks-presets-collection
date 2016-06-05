@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "an octaved pad with frizzly highs",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex", "Digital", "Noise"],
+  "name": "Highbright",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1ecec637-5a86-4662-b517-a5c6d0e0e26b",
+  "vendor": "Arturia"
+}

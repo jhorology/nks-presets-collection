@@ -1,0 +1,13 @@
+{
+  "author": "Vincent Travaglini",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Digital", "Long"],
+  "name": "Strange Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "664fc2df-7272-438d-9ae3-1122e449ba88",
+  "vendor": "Arturia"
+}

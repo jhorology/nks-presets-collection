@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "Chorus and phaser turn this otherwise thin strings tone into something much more interesting.",
+  "deviceType": "INST",
+  "modes": ["Soft"],
+  "name": "Melo Strings",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "74548883-e775-40c7-a13a-f4aa5d80b6f3",
+  "vendor": "Arturia"
+}

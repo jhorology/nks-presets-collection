@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Ensemble"],
+  "name": "Meditation",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "96596e7e-9250-4e5d-baf4-cd2f7e360741",
+  "vendor": "Arturia"
+}

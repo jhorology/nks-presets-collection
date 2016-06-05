@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "Hard Water",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "b6823c68-4018-4731-a928-ad31c47b4a65",
+  "vendor": "Arturia"
+}

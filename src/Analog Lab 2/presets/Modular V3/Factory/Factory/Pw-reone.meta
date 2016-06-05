@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Pw-reone",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "5e1da265-4142-4325-9691-92c391993571",
+  "vendor": "Arturia"
+}

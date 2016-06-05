@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "More basic FM kick. Should be good for Bass music. Mod wheel removes the thump",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Hard", "Simple"],
+  "name": "Kick Phat",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "253b4346-49f3-4509-a949-3999a88d5988",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Eighties Stereo",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "096fa129-1eeb-422a-aaeb-7a260b8ae524",
+  "vendor": "Arturia"
+}

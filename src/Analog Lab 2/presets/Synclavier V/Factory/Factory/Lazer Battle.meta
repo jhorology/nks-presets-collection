@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Battling lazer ray gun effects.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Short"],
+  "name": "Lazer Battle",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "e47cd20b-c29d-457a-bd27-3e0ce692d618",
+  "vendor": "Arturia"
+}

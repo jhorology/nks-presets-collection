@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Glass Bells",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "0072aae6-6bd1-458e-8860-8564ad8dfdc4",
+  "vendor": "Arturia"
+}

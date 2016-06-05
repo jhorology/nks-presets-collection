@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Square Scream",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "74aa9216-d3c5-4923-8b07-c3f8fa1c78d7",
+  "vendor": "Arturia"
+}

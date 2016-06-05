@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Org Leslie Mod",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "cb38f6cd-3293-4421-b7af-e901d2f42794",
+  "vendor": "Arturia"
+}

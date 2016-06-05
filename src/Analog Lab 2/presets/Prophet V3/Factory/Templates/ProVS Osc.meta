@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "ProVS Osc",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b574ffca-ec3a-4f28-b8ae-958c26cd715b",
+  "vendor": "Arturia"
+}

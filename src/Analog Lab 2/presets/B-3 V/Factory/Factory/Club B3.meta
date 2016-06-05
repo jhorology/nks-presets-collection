@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple", "Soft", "Soundtrack"],
+  "name": "Club B3",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "9da7fc0e-a7e2-4e44-96c6-03ce5067a068",
+  "vendor": "Arturia"
+}

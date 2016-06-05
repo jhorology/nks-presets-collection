@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Digital", "Soft"],
+  "name": "On The Roads",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f750d4a1-1afb-48ee-acbe-6efa5c14861e",
+  "vendor": "Arturia"
+}

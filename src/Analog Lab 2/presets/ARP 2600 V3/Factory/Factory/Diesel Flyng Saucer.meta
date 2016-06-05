@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Diesel Flyng Saucer",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5a99bf09-e488-4b36-9c46-683e11e0c623",
+  "vendor": "Arturia"
+}

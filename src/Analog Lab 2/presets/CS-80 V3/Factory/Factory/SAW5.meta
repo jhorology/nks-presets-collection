@@ -1,0 +1,13 @@
+{
+  "author": "Mateo Lupo",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "SAW5",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "61f10cb0-e1d1-4f44-b49c-f073a279c7b2",
+  "vendor": "Arturia"
+}

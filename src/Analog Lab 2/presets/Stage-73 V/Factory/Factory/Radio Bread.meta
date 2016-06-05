@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Radio Bread",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "388381b2-aff5-4507-956d-3f0a39d287e8",
+  "vendor": "Arturia"
+}

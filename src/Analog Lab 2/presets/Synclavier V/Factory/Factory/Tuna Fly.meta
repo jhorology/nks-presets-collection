@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "can work well to sonically describe something disturbing",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Digital", "Long"],
+  "name": "Tuna Fly",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "41b1870e-7a09-4f9c-b0d9-5673966aa1ab",
+  "vendor": "Arturia"
+}

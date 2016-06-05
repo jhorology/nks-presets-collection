@@ -1,0 +1,13 @@
+{
+  "author": "Rich Rozmarniewicz",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Hi Hat Chip",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "a7ee5266-8fbc-42d5-bfaf-a6799829772b",
+  "vendor": "Arturia"
+}

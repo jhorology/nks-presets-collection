@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long"],
+  "name": "Wrong Newroma Sync",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "be5037b5-7aa4-40db-b8a9-c2b1af04ab15",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Brass Runner",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "fea36bf7-4b8c-4449-9683-e4b8d671109d",
+  "vendor": "Arturia"
+}

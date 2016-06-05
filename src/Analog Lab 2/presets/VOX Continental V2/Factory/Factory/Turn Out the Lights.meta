@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Turn Out the Lights",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "6042a174-c6c3-49ef-b045-d7e27178f1c5",
+  "vendor": "Arturia"
+}

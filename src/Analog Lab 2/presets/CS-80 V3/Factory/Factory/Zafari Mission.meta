@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Zafari Mission",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "2e50e92e-18e3-4823-a356-a217c8d31bd5",
+  "vendor": "Arturia"
+}

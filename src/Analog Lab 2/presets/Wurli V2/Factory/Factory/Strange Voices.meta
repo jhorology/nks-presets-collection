@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Dark"],
+  "name": "Strange Voices",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "a1df3c3f-3e76-44d1-950f-a837c01f80e0",
+  "vendor": "Arturia"
+}

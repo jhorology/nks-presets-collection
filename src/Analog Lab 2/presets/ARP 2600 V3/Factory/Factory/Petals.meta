@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Soft"],
+  "name": "Petals",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3788a04b-2654-4ff4-99a5-bed482edb737",
+  "vendor": "Arturia"
+}

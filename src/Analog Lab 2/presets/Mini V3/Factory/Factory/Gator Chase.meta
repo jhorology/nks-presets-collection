@@ -1,0 +1,13 @@
+{
+  "author": "Clay Duncan",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Gator Chase",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "3baab938-2818-499a-8b9e-9e2489986d62",
+  "vendor": "Arturia"
+}

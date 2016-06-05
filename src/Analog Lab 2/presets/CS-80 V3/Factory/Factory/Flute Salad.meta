@@ -1,0 +1,13 @@
+{
+  "author": "Howard Scarr",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Flute Salad",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "fc211ade-6490-4fcc-973b-0a363be21c2b",
+  "vendor": "Arturia"
+}

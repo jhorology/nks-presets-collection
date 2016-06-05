@@ -1,0 +1,13 @@
+{
+  "author": "Wally Badarou",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "ModWheel controlled rotary effect speed - Expression pedal controlled rotary efect depth",
+  "deviceType": "INST",
+  "modes": ["Soft", "Soundtrack"],
+  "name": "Warm Chapel",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "d6208ad8-09f5-4f8e-8182-68d62092f6c0",
+  "vendor": "Arturia"
+}

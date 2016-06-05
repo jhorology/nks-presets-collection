@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Upwards sweeping heavy modulation sound effect inspired by Wendy Carlos Clockwork Orange soundtrack.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "A Clockwork Red",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "9d027c59-672e-47c5-9a16-dd7d33c4b5ec",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ensemble", "Long"],
+  "name": "Aquaroc",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2672b7bf-ef81-49cd-b4e6-fa4192afa9f3",
+  "vendor": "Arturia"
+}

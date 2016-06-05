@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Stage-73", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Simple"],
+  "name": "Slow Pace",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "45b574ef-f058-4e78-a53c-6c9a4809e112",
+  "vendor": "Arturia"
+}

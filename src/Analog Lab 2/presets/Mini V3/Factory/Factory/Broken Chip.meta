@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Funky", "Noise"],
+  "name": "Broken Chip",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "4d5d51bb-4eee-4808-818f-5db0aaae1beb",
+  "vendor": "Arturia"
+}

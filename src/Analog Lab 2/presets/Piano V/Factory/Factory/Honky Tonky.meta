@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Piano", "Factory"],
+  "comment": "Sketchy detuned piano.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Honky Tonky",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1840be58-583f-4c8f-bb88-535f0d060811",
+  "vendor": "Arturia"
+}

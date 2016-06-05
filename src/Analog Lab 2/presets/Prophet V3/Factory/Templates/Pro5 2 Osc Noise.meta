@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Noise", "Simple"],
+  "name": "Pro5 2 Osc Noise",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "fa39a49e-52c8-484b-a6cf-148d6f0f2add",
+  "vendor": "Arturia"
+}

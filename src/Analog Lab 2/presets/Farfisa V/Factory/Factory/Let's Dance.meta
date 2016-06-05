@@ -1,0 +1,13 @@
+{
+  "author": "Theo Niessink",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "Let's Dance",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "103ed2c1-d84c-4a14-8691-5d5130fdf032",
+  "vendor": "Arturia"
+}

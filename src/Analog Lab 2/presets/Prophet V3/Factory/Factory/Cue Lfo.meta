@@ -1,0 +1,13 @@
+{
+  "author": "Histibe",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Cue Lfo",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "8a1ad410-19ce-4a68-bff3-6f12d1f79474",
+  "vendor": "Arturia"
+}

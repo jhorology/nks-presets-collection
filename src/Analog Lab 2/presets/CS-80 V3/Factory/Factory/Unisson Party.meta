@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Unisson Party",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "4575d726-6bbb-4fe9-be2f-99fa30dd079e",
+  "vendor": "Arturia"
+}

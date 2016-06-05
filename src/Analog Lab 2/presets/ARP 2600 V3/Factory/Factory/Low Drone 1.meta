@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Dark", "Evolving"],
+  "name": "Low Drone 1",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "7c71e442-840c-4ee5-b777-d1e41b6e5d00",
+  "vendor": "Arturia"
+}

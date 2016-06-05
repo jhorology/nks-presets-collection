@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Resonant String",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "40bf04a6-cd99-4272-8ede-7b36f6be1c77",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "a dive effectg on keypress with a pad",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Digital"],
+  "name": "Dive In",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "5f4dade7-f33c-4427-aff6-2ac365fda1b4",
+  "vendor": "Arturia"
+}

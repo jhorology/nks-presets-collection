@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Digital"],
+  "name": "909 Snare",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "d25720f0-e875-4cae-b3c7-7824076afa19",
+  "vendor": "Arturia"
+}

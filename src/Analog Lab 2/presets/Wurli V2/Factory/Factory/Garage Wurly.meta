@@ -1,0 +1,13 @@
+{
+  "author": "Kevin Lamb",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Garage Wurly",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "e710f091-47d3-4a64-bbfe-bb945585e6af",
+  "vendor": "Arturia"
+}

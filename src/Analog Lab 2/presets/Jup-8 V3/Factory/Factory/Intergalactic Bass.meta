@@ -1,0 +1,13 @@
+{
+  "author": "Celmo",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Funky", "Simple"],
+  "name": "Intergalactic Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "4e19a4c9-f67b-4bf4-ba94-8c5590699673",
+  "vendor": "Arturia"
+}

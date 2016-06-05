@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Soundtrack"],
+  "name": "Resodance",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "ec56d5fd-bb25-4d04-8ddb-a5008b4f3b76",
+  "vendor": "Arturia"
+}

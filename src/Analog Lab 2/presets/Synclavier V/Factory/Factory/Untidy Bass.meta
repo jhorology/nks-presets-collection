@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big dirty bass with repeat arpeggio mode. Modwheel controlled FM Ratio & Aftertouch controlled FM Amount.",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Hard", "Short"],
+  "name": "Untidy Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "6303292b-6567-4f92-9136-db04cce4102e",
+  "vendor": "Arturia"
+}

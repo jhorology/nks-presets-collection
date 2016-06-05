@@ -1,0 +1,13 @@
+{
+  "author": "Boele Gerkes",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "A standard transistor organ, phased, flanged and overdriven.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Simple"],
+  "name": "Narrow Tube",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "1f4ff72e-c05b-4446-8ec5-06c8156ab874",
+  "vendor": "Arturia"
+}

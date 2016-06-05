@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Quiet"],
+  "name": "Pure Hollow",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "3015bf36-1c57-47a1-a2e8-77b36690006a",
+  "vendor": "Arturia"
+}

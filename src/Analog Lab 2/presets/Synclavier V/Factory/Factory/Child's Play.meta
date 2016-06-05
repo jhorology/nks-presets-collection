@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Digital marimba like sound. Using the mod wheel creates a vibrato and lengthens the time between the different marimbas for a slightly weird effect.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Bright", "Digital", "Hard", "Short"],
+  "name": "Child's Play",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "23d0a5a2-8bce-426f-9a0d-c5f0bcab12ff",
+  "vendor": "Arturia"
+}

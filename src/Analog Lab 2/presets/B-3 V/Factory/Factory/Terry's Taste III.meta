@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "Minimal Sequeice 2",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Simple", "Soundtrack"],
+  "name": "Terry's Taste III",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "63a27e92-5c95-40b2-9f46-76bbb055ffb3",
+  "vendor": "Arturia"
+}

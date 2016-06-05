@@ -1,0 +1,13 @@
+{
+  "author": "Ludovic Llorca",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Simple"],
+  "name": "Bass Talk To Me",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "24546213-6fa0-48a5-8306-c3884f79b29c",
+  "vendor": "Arturia"
+}

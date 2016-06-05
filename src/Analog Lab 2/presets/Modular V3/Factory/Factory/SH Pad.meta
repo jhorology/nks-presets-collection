@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long"],
+  "name": "SH Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6e0a57a3-d482-4ae8-b8d0-3a38ffdc2799",
+  "vendor": "Arturia"
+}

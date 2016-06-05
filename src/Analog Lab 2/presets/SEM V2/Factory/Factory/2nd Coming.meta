@@ -1,0 +1,13 @@
+{
+  "author": "Blakesmith",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "2nd Coming",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b32c326d-23bd-4099-a010-eb3ca472a20a",
+  "vendor": "Arturia"
+}

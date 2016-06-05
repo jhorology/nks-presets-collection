@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Brassy",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "54e3b3e0-c88b-4908-9bef-3dee35ca19f8",
+  "vendor": "Arturia"
+}

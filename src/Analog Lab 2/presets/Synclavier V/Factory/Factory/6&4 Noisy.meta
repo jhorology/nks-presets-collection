@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Big sequence with 7 partials and a  6-4 signature.Modwheel controlled FM Ratio.",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex", "Digital"],
+  "name": "6&4 Noisy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "9cf0a6a8-313b-4cfe-8863-e20589129710",
+  "vendor": "Arturia"
+}

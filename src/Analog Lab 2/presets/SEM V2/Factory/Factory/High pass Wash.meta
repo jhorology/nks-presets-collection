@@ -1,0 +1,13 @@
+{
+  "author": "Drew Neumann",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "High pass Wash",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dfd117c8-0cf0-48ca-9392-85d59ce158df",
+  "vendor": "Arturia"
+}

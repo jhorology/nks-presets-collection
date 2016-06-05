@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Noise"],
+  "name": "DRUMALOGICIV",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "1b84fbda-2755-4eec-93b8-ec321992ebbc",
+  "vendor": "Arturia"
+}

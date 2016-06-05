@@ -1,0 +1,13 @@
+{
+  "author": "Roger Lyons",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright"],
+  "name": "Loves This Arp",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f4467153-5fe2-4bbb-9f24-6af53f6905d7",
+  "vendor": "Arturia"
+}

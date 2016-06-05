@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Long", "Simple", "Soft", "Quiet"],
+  "name": "Easy Chords",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "3574632a-ce2f-457e-b8e3-6c65a989b3ba",
+  "vendor": "Arturia"
+}

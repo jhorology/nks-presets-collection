@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "Dream Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "42ccd2fc-8b11-4670-9a70-3bdf20f33519",
+  "vendor": "Arturia"
+}

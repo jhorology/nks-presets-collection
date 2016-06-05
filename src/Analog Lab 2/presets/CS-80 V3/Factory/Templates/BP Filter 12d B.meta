@@ -1,0 +1,13 @@
+{
+  "author": "Templates",
+  "bankchain": ["Analog Lab 2", "CS-80", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "BP Filter 12d B",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "ce25fbfc-7692-4dee-9a31-f9941d39f35e",
+  "vendor": "Arturia"
+}

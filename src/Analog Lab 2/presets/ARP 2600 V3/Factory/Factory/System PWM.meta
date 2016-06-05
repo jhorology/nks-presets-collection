@@ -1,0 +1,13 @@
+{
+  "author": "Frodebeats",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Funky", "Hard"],
+  "name": "System PWM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "42d57fd5-8d02-4bcf-95be-c91bbc30315c",
+  "vendor": "Arturia"
+}

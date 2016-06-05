@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "3 Osc Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "f1381de2-a14c-4d4f-991f-e1d7b2f09ee0",
+  "vendor": "Arturia"
+}

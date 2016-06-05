@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex"],
+  "name": "Clockwork Black",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "30830f6f-0c04-44fc-b94d-96ec7d41e4ec",
+  "vendor": "Arturia"
+}

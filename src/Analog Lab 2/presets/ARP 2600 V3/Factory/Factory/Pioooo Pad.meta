@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Evolving"],
+  "name": "Pioooo Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6de82776-2a13-45ae-a204-435ef56fe0a3",
+  "vendor": "Arturia"
+}

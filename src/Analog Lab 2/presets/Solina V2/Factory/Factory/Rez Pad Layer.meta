@@ -1,0 +1,13 @@
+{
+  "author": "Pierce Warnecke",
+  "bankchain": ["Analog Lab 2", "Solina", "Factory"],
+  "comment": "Intense but not harsh phasing using multiple orchestral tones.",
+  "deviceType": "INST",
+  "modes": ["Complex", "Dark", "Long"],
+  "name": "Rez Pad Layer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0ada8775-c2af-412e-9451-1d1a3e0622f9",
+  "vendor": "Arturia"
+}

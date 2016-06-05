@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Night Drone",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "22c49274-27b9-47f9-b4d3-78cc005e86bd",
+  "vendor": "Arturia"
+}

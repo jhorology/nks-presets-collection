@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Soft", "Evolving"],
+  "name": "Mellow Mood",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7d4fa3e1-be1c-4cff-9d38-b925264db55c",
+  "vendor": "Arturia"
+}

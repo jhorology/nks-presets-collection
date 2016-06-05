@@ -1,0 +1,13 @@
+{
+  "author": "Richard Courtel",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bright", "Ensemble"],
+  "name": "Chorused Pad",
+  "types": [
+    ["FM"]
+  ],
+  "uuid": "af438996-30df-4e8a-b65d-0f440a5f5c71",
+  "vendor": "Arturia"
+}

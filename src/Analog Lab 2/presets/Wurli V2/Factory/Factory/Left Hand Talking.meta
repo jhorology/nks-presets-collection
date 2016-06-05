@@ -1,0 +1,13 @@
+{
+  "author": "Jim Cowgill",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Soft"],
+  "name": "Left Hand Talking",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "d13978f8-e42b-44b7-bac7-24f6803f7579",
+  "vendor": "Arturia"
+}

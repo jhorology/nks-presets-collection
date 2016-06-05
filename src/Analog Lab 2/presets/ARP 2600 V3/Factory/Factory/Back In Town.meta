@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Complex", "Funky"],
+  "name": "Back In Town",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "d082b669-0829-46c3-86c3-a2e0161b5b38",
+  "vendor": "Arturia"
+}

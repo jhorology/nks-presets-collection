@@ -1,0 +1,13 @@
+{
+  "author": "Dave Polich",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "The FM bass sound for Michael Jackson's song Smooth Criminal.",
+  "deviceType": "INST",
+  "modes": ["Funky", "Soft"],
+  "name": "Criminal Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "aabe88f8-0d3f-4805-8dd2-53173f4375ea",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Quiet", "Short"],
+  "name": "Delano Kick",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "e76abffc-9a71-4e73-925c-8e71b27866f1",
+  "vendor": "Arturia"
+}

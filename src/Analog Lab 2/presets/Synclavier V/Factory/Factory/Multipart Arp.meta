@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Synth sound and Metallic percussive FM with repeat arpeggio mode and delay-reverb. Modwheel controlled Repeat-Arpegiator",
+  "deviceType": "INST",
+  "modes": ["Complex", "Digital", "Short"],
+  "name": "Multipart Arp",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a2bbc488-ad27-480f-a0f1-685a1aaee8de",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Barry Jamieson",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Short"],
+  "name": "Dischorder",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "76638fcc-0918-41bc-8a2d-2cc372aad4bf",
+  "vendor": "Arturia"
+}

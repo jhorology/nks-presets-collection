@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft"],
+  "name": "Velocity Timbre",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "b3c684c5-c180-4cc7-bd27-d055a2757980",
+  "vendor": "Arturia"
+}

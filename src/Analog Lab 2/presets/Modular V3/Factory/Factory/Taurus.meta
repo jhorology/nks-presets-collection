@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Dark"],
+  "name": "Taurus",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "17a8cf34-a95d-4582-b8a7-16928adc845a",
+  "vendor": "Arturia"
+}

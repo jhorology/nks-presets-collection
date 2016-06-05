@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple"],
+  "name": "EL Pevil",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "23420770-5fd9-4fd4-afa2-cb0d1dae1ad2",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "SEM", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Simple"],
+  "name": "Notchy",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "64f85c49-10cb-4a6b-b535-752b93d8e04c",
+  "vendor": "Arturia"
+}

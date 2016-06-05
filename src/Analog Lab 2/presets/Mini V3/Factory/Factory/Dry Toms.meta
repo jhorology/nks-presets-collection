@@ -1,0 +1,13 @@
+{
+  "author": "Menno Meijer",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Bright", "Noise"],
+  "name": "Dry Toms",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "3acaee96-75e8-493c-8303-bf0bec05c6d8",
+  "vendor": "Arturia"
+}

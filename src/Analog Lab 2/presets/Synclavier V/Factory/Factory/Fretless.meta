@@ -1,0 +1,13 @@
+{
+  "author": "Paul Schilling",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "MOD WHEEL - slow FM attack",
+  "deviceType": "INST",
+  "modes": ["Dark", "Funky", "Long", "Soft"],
+  "name": "Fretless",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "1821fa15-60d6-46fe-b889-f0132d9b6291",
+  "vendor": "Arturia"
+}

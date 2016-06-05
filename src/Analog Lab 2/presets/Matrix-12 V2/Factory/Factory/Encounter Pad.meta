@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Baptiste Arthus",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "Lightly shimmering, wavering tone using sawtooth, triangle and modulated pulse waves. Reverb adds length and smoothness.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Long", "Soundtrack"],
+  "name": "Encounter Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "27c8677d-5259-4f82-acf5-152d6636b038",
+  "vendor": "Arturia"
+}

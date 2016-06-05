@@ -1,0 +1,13 @@
+{
+  "author": "Max Fabio",
+  "bankchain": ["Analog Lab 2", "CS-80", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple"],
+  "name": "Drumalogic",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "7b87f860-653d-44b2-9230-210f26b52deb",
+  "vendor": "Arturia"
+}

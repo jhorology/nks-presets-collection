@@ -1,0 +1,13 @@
+{
+  "author": "Glen Darcey",
+  "bankchain": ["Analog Lab 2", "Wurli", "Factory"],
+  "comment": "A soft DI tone with evocative vintage phasing.. but without all the fluff and hiss.",
+  "deviceType": "INST",
+  "modes": ["Simple", "Soft", "Soundtrack"],
+  "name": "Old Phaser",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "8ed91961-79ba-45ce-9ff5-3d3755515146",
+  "vendor": "Arturia"
+}

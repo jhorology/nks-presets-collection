@@ -1,0 +1,13 @@
+{
+  "author": "Thomas Koot",
+  "bankchain": ["Analog Lab 2", "Synclavier", "Factory"],
+  "comment": "Evolving pad with a THX like effect at the end. Partials are detuned and panned to create a unison effect.",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Complex", "Ensemble", "Soft", "Evolving"],
+  "name": "Aurealis",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "2a69b17b-f58e-462b-9a8b-33f582d7ad41",
+  "vendor": "Arturia"
+}

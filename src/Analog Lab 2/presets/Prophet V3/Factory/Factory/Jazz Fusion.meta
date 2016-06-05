@@ -1,0 +1,13 @@
+{
+  "author": "Jean-Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Ensemble"],
+  "name": "Jazz Fusion",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "15e470db-aec4-4df7-8e17-e1fa6f7b089d",
+  "vendor": "Arturia"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Simple", "Soft"],
+  "name": "Reed Pipes",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "10dce046-ae9f-40f6-855b-8ef51bd0a507",
+  "vendor": "Arturia"
+}

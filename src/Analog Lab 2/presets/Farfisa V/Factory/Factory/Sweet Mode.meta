@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Farfisa", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Long", "Simple", "Soft"],
+  "name": "Sweet Mode",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "52e47252-d587-4de6-b077-0d507b5619ea",
+  "vendor": "Arturia"
+}

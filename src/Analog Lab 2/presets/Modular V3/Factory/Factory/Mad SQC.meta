@@ -1,0 +1,13 @@
+{
+  "author": "Katsunori Ujiie",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Complex"],
+  "name": "Mad SQC",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "388cc1e9-2fd6-40c2-853c-9b5623147635",
+  "vendor": "Arturia"
+}

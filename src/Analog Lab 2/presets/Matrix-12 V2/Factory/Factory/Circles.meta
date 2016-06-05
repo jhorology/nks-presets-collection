@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Complex", "Long", "Soundtrack", "Quiet"],
+  "name": "Circles",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "a1daef2b-58e9-4efa-a0ff-8eb74076285e",
+  "vendor": "Arturia"
+}

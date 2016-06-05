@@ -1,0 +1,13 @@
+{
+  "author": "Stephane Schott",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient"],
+  "name": "Phasepad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "efade928-49c4-4051-b14c-6218ccddbded",
+  "vendor": "Arturia"
+}

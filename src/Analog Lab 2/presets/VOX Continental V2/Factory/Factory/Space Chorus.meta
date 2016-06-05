@@ -1,0 +1,13 @@
+{
+  "author": "Luca Torre",
+  "bankchain": ["Analog Lab 2", "VOX Continental", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bizarre", "Bright", "Complex", "Long"],
+  "name": "Space Chorus",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "7cba410f-3a1c-4c7c-aad4-828c40c9bd9b",
+  "vendor": "Arturia"
+}

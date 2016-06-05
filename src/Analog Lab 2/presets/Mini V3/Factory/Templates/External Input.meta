@@ -1,0 +1,13 @@
+{
+  "author": "Arturia",
+  "bankchain": ["Analog Lab 2", "Mini", "Templates"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple"],
+  "name": "External Input",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "37a2b7fe-93e0-496d-9e88-60dbdcd5e502",
+  "vendor": "Arturia"
+}

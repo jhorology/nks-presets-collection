@@ -1,0 +1,13 @@
+{
+  "author": "Tasmodia",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Complex"],
+  "name": "Space-Tilt",
+  "types": [
+    ["SFX"]
+  ],
+  "uuid": "be283a6a-1837-4aed-9312-a733b206dae7",
+  "vendor": "Arturia"
+}

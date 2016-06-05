@@ -1,0 +1,13 @@
+{
+  "author": "Jean Michel Blanchet",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Simple"],
+  "name": "Lipschi Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "0d504a0c-9605-4ad1-a5ba-118ded0878b2",
+  "vendor": "Arturia"
+}

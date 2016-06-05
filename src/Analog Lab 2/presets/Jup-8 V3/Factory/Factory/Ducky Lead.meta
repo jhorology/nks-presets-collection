@@ -1,0 +1,13 @@
+{
+  "author": "Victor Morello",
+  "bankchain": ["Analog Lab 2", "Jup-8", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Funky", "Short"],
+  "name": "Ducky Lead",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "90b80976-deac-431d-b370-42e12f2a43e0",
+  "vendor": "Arturia"
+}

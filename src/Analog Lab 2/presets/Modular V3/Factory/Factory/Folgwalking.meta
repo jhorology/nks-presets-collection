@@ -1,0 +1,13 @@
+{
+  "author": "Christian Giudicelli",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble", "Long"],
+  "name": "Folgwalking",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d4f5c751-e6a0-4e38-aaee-2bb34965506c",
+  "vendor": "Arturia"
+}

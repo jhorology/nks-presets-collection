@@ -1,0 +1,13 @@
+{
+  "author": "Ed Ten Eyck",
+  "bankchain": ["Analog Lab 2", "Matrix-12", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Complex"],
+  "name": "Vantage",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "dc238e4e-28b6-48ec-8ba5-1d69010d12a1",
+  "vendor": "Arturia"
+}

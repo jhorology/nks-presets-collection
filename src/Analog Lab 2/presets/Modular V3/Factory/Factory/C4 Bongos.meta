@@ -1,0 +1,13 @@
+{
+  "author": "Scot Solida",
+  "bankchain": ["Analog Lab 2", "Modular", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bizarre", "Noise", "Short"],
+  "name": "C4 Bongos",
+  "types": [
+    ["Percussive"]
+  ],
+  "uuid": "631d3e8a-6c19-45c2-b6e2-4673251ce47d",
+  "vendor": "Arturia"
+}

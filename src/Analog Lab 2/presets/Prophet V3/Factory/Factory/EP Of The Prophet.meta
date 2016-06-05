@@ -1,0 +1,13 @@
+{
+  "author": "Celmar Engel",
+  "bankchain": ["Analog Lab 2", "Prophet", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Ensemble"],
+  "name": "EP Of The Prophet",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6c4b06d4-2b7a-4f58-99b4-87e7c6907bf0",
+  "vendor": "Arturia"
+}

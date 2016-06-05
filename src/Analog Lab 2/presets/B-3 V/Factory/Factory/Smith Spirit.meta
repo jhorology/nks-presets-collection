@@ -1,0 +1,13 @@
+{
+  "author": "Christian Laffitte",
+  "bankchain": ["Analog Lab 2", "B-3", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Aggressive", "Dark", "Funky", "Noise", "Simple", "Soundtrack", "Quiet"],
+  "name": "Smith Spirit",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3fc848b1-39ed-47fc-84db-19c9c8f48cf5",
+  "vendor": "Arturia"
+}

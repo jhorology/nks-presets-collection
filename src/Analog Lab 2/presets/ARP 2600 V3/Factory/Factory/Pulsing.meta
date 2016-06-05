@@ -1,0 +1,13 @@
+{
+  "author": "James Thompson",
+  "bankchain": ["Analog Lab 2", "ARP 2600", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Bright", "Noise"],
+  "name": "Pulsing",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e4f42e13-f2e2-4097-843c-3ab123690fcb",
+  "vendor": "Arturia"
+}

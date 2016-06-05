@@ -1,0 +1,13 @@
+{
+  "author": "Chris Pitman",
+  "bankchain": ["Analog Lab 2", "Mini", "Factory"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Simple", "Short"],
+  "name": "101 Galaxy",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "019b4d03-d15a-444b-883d-276dfb286d33",
+  "vendor": "Arturia"
+}
