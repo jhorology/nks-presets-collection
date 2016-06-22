@@ -38,9 +38,10 @@ NKS(Native Kontrol Standard) presets collection
 
   I recommend to use [nvm](https://github.com/creationix/nvm).
     ```shellscript
-    nvm install stable
-    nvm use stable
+    nvm install v5.11.1
+    nvm use v5.11.1
     ```
+    *Some tasks will may not work on node v6.x.x due to dep issue. Please use node v5.x.x
 
   - [gulp](http://gulpjs.com/)
     ```shellscript
