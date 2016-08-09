@@ -1934,6 +1934,7 @@ gulp.task 'spire-release',['spire-dist'], ->
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - Spire    1.1.0
+#  - Spire    1.1.8 Bank 6, Bank 7
 #  - recycle bitwig presets. https://github.com/jhorology/SpirePack4Bitwig
 # ---------------------------------------------------------------
 
@@ -1979,15 +1980,18 @@ gulp.task 'spire_1_1-generate-meta', ->
       else
         uuid.v4()
       type = switch
+        when (basename.indexOf ' Kick ') > 0  then 'Kick'
         when basename[0..3] is 'ATM '  then 'Atmosphere'
         when basename[0..2] is 'AR '   then 'Arpeggiated'
         when basename[0..3] is 'ARP '  then 'Arpeggiated'
         when basename[0..2] is 'BA '   then 'Bass'
+        when basename[0..2] is 'BS '   then 'Bass'
         when basename[0..3] is 'BSQ '  then 'Bass Sequence'
         when basename[0..2] is 'CD '   then 'Chord'
         when basename[0..3] is 'CHD '  then 'Chord'
         when basename[0..2] is 'DR '   then 'Drum'
         when basename[0..2] is 'FX '   then 'FX'
+        when basename[0..3] is 'SFX '  then 'FX'
         when basename[0..2] is 'GT '   then 'Gated'
         when basename[0..3] is 'KEY '  then 'Keyboard'
         when basename[0..2] is 'LD '   then 'Lead'
@@ -1995,10 +1999,13 @@ gulp.task 'spire_1_1-generate-meta', ->
         when basename[0..2] is 'OR '   then 'Organ'
         when basename[0..3] is 'ORG '  then 'Organ'
         when basename[0..2] is 'PD '   then 'Pad'
+        when basename[0..3] is 'PAD '  then 'Pad'
         when basename[0..2] is 'PA '   then 'Pad'
         when basename[0..2] is 'PL '   then 'Pluck'
+        when basename[0..3] is 'PLK '  then 'Pluck'
         when basename[0..3] is 'STR '  then 'Strings'
         when basename[0..2] is 'SQ '   then 'Sequnce'
+        when basename[0..3] is 'SEQ '  then 'Sequnce'
         when basename[0..2] is 'SY '   then 'Synth'
         when basename[0..3] is 'VOC '  then 'Vocal'
         when basename[0..4] is 'WIND ' then 'Winds'
@@ -2017,8 +2024,11 @@ gulp.task 'spire_1_1-generate-meta', ->
       author = switch
         when bank is 'Factory Bank 1'   then 'Reveal Sound'
         when bank is 'Factory Bank 5'   then folder[1]
+        when bank is 'Factory Bank 6' and basename[-4..] is ' HFM' then 'HFM'  # could'nt find name
         when bank is 'Factory Bank 6'   then 'Reveal Sound'
+        when bank is 'Factory Bank 7'   then folder[1]
         when bank.match /^EDM Remastered/  then 'Derrek'
+        when bank.match /^Andi Vax/     then 'Andi Vax'
         when basename[-3..] is ' AS'    then 'Adam Szabo'
         when basename[-3..] is ' AZ'    then 'Aiyn Zahev Sounds'
         when basename[-4..] is ' IPM'   then 'Ice Planet Music'
