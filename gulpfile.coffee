@@ -915,6 +915,13 @@ gulp.task 'hybrid-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# extract PCHK chunk from .nksf files.
+gulp.task 'hybrid-extract-expansions-raw-presets', ->
+  gulp.src ["temp/#{$.Hybrid.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.Hybrid.dir}/presets"
+
 # generate metadata
 gulp.task 'hybrid-generate-meta', ->
   presets = "src/#{$.Hybrid.dir}/presets"
@@ -1107,6 +1114,13 @@ gulp.task 'vacuumpro-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# extract PCHK chunk from .nksf files.
+gulp.task 'vacuumpro-extract-expansions-raw-presets', ->
+  gulp.src ["temp/#{$.VacuumPro.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.VacuumPro.dir}/presets"
+
 # generate metadata
 gulp.task 'vacuumpro-generate-meta', ->
   presets = "src/#{$.VacuumPro.dir}/presets"
@@ -1114,18 +1128,30 @@ gulp.task 'vacuumpro-generate-meta', ->
     .pipe data (file) ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
-      folder = path.relative presets, path.dirname file.path
+      folder = (path.relative presets, path.dirname file.path).split path.sep
       metafile = "#{file.path[..-5]}meta"
       uid = if fs.existsSync metafile
         (_require_meta metafile).uuid
       else
         uuid.v4()
       # meta
-      meta =
+      meta = if folder[0] is 'Expansions'
         vendor: $.VacuumPro.vendor
         uuid: uid
         types: [
-          [folder[3..]]
+          [folder[2][3..]]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['VacuumPro', folder[1], '']
+        author: ''
+      else
+        vendor: $.VacuumPro.vendor
+        uuid: uid
+        types: [
+          [folder[0][3..]]
         ]
         modes: []
         name: basename
@@ -1341,6 +1367,13 @@ gulp.task 'theriser-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# extract PCHK chunk from .nksf files.
+gulp.task 'theriser-extract-expansions-raw-presets', ->
+  gulp.src ["temp/#{$.theRiser.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.theRiser.dir}/presets"
+
 # generate metadata
 gulp.task 'theriser-generate-meta', ->
   presets = "src/#{$.theRiser.dir}/presets"
@@ -1348,16 +1381,29 @@ gulp.task 'theriser-generate-meta', ->
     .pipe data (file) ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
-      folder = path.relative presets, path.dirname file.path
+      folder = (path.relative presets, path.dirname file.path).split path.sep
       metafile = "#{file.path[..-5]}meta"
       # meta
-      meta =
+      meta = if folder[0] is 'Expansions'
         vendor: $.theRiser.vendor
         uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
         types: [
           ['Sound Effects']
         ]
-        modes: [folder[3..]]
+        # gave up auto categlizing
+        # modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['theRiser', folder[1], '']
+        author: ''
+      else
+        vendor: $.theRiser.vendor
+        uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
+        types: [
+          ['Sound Effects']
+        ]
+        modes: [folder[0][3..]]
         name: basename
         deviceType: 'INST'
         comment: ''
@@ -1501,8 +1547,15 @@ gulp.task 'theriser-deploy-presets', [
 # release
 # --------------------------------
 
+# delete third-party expansions
+gulp.task 'theriser-delete-expansions',  ['theriser-dist'], (cb) ->
+  del [
+    "dist/#{$.theRiser.dir}/User Content/#{$.theRiser.dir}/Expansions/**"
+    ]
+  , force: true, cb
+
 # release zip file to dropbox
-gulp.task 'theriser-release',['theriser-dist'], ->
+gulp.task 'theriser-release', ['theriser-delete-expansions'], ->
   _release $.theRiser.dir
         
 # ---------------------------------------------------------------
