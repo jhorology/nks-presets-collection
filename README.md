@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-18450/26971(68%)
+18601/26971(69%)
 
 |          |raw presets|mappings|meta|resources|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:------:|:---------:|
@@ -18,8 +18,8 @@ NKS(Native Kontrol Standard) presets collection
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|Nov 30, 2015|
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|Nov 28, 2015|
-|[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-|[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
+|[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/g3j4711fi5342q2/DB-33.zip?dl=0)|Aug 11, 2016|
+|[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/z1pk7gdwwvambav/MiniGrand.zip?dl=0)|Aug 11, 2016|
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||:heavy_check_mark:||||
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|Nov 21, 2015|

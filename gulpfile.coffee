@@ -1916,6 +1916,14 @@ gulp.task 'db33-deploy-presets', [
   ] , ->
     _deploy_presets $.DB_33.dir
 
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'db33-release',['db33-dist'], ->
+  _release $.DB_33.dir
+
 # ---------------------------------------------------------------
 # end Air Music Technology DB-33
 #
@@ -2036,10 +2044,17 @@ gulp.task 'minigrand-deploy-presets', [
   ] , ->
     _deploy_presets $.MiniGrand.dir
 
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'minigrand-release',['minigrand-dist'], ->
+  _release $.MiniGrand.dir
+
 # ---------------------------------------------------------------
 # end Air Music Technology MiniGrand
 #
-
 
 # ---------------------------------------------------------------
 # Reveal Sound Spire 1.0.x
