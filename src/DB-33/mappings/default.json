@@ -1,0 +1,170 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 12,
+      "name": "Wheels",
+      "section": "Tone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 0,
+      "name": "On/Off",
+      "section": "Vibrato",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "Speed",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 24,
+      "name": "Slow Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "Fast Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 30,
+      "name": "Acc / Dec",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 3,
+      "name": "16'",
+      "section": "Drawbar",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "5 1/3'",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "8'",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "4'",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "2 2/3'",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "2'",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "1 3/5'",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "1 1/3'",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 11,
+      "name": "1'",
+      "section": "Drawbar",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Level",
+      "section": "Key Click",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "On/Off",
+      "section": "Percussion",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Loud/Soft",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": " Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Harm.",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "section": "Input",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Organ",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "Character",
+      "section": "Tube Pre",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "Drive",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "High Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "Drum / Horn",
+      "section": "Mics",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "Mic Spread",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

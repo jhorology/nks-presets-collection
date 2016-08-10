@@ -120,6 +120,21 @@ $ =
     dir: 'Strike'
     vendor: 'Air Music Technology'
     magic: 'krtS'
+  #
+  # Air Music Technology DB-33
+  #-------------------------------------------
+  DB_33:
+    dir: 'DB-33'
+    vendor: 'Air Music Technology'
+    magic: '33BD'
+    
+  #
+  # Air Music Technology MiniGrand
+  #-------------------------------------------
+  MiniGrand:
+    dir: 'MiniGrand'
+    vendor: 'Air Music Technology'
+    magic: 'rGnM'
     
   #
   # Reveal Sound Spire
@@ -1712,6 +1727,7 @@ gulp.task 'structure-release',['structure-dist'], ->
 #
 
 
+
 # ---------------------------------------------------------------
 # Air Music Technology Strike
 #
@@ -1782,6 +1798,246 @@ gulp.task 'strike-generate-meta', ->
     
 # ---------------------------------------------------------------
 # end Air Music Technology Strike
+#
+
+# ---------------------------------------------------------------
+# Air Music Technology DB-33
+#
+# notes
+#  - Komplete Kontrol 1.6.2.5
+#  - DB-33  1.2.7.19000
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'db33-print-default-meta', ->
+  _print_default_meta $.DB_33.dir
+
+# print mapping of _Default.nksf
+gulp.task 'db33-print-default-mapping', ->
+  _print_default_mapping $.DB_33.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'db33-print-magic', ->
+  _print_plid $.DB_33.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'db33-generate-default-mapping', ->
+  _generate_default_mapping $.DB_33.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'db33-extract-raw-presets', ->
+  gulp.src ["temp/#{$.DB_33.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.DB_33.dir}/presets"
+
+# generate metadata
+gulp.task 'db33-generate-meta', ->
+  presets = "src/#{$.DB_33.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.DB_33.vendor
+        uuid: uid
+        types: [
+          ['Organ']
+        ]
+        modes: [folder[2..]]
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['DB-33', 'DB-33 Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.DB_33.dir}/presets"
+    
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'db33-dist', [
+  'db33-dist-image'
+  'db33-dist-database'
+  'db33-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'db33-dist-image', ->
+  _dist_image $.DB_33.dir, $.DB_33.vendor
+
+# copy database resources to dist folder
+gulp.task 'db33-dist-database', ->
+  _dist_database $.DB_33.dir, $.DB_33.vendor
+
+# build presets file to dist folder
+gulp.task 'db33-dist-presets', ->
+  _dist_presets $.DB_33.dir, $.DB_33.magic
+
+# check
+gulp.task 'db33-check-dist-presets', ->
+  _check_dist_presets $.DB_33.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'db33-deploy', [
+  'db33-deploy-resources'
+  'db33-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'db33-deploy-resources', [
+  'db33-dist-image'
+  'db33-dist-database'
+  ], ->
+    _deploy_resources $.DB_33.dir
+
+# copy database resources to local environment
+gulp.task 'db33-deploy-presets', [
+  'db33-dist-presets'
+  ] , ->
+    _deploy_presets $.DB_33.dir
+
+# ---------------------------------------------------------------
+# end Air Music Technology DB-33
+#
+
+# ---------------------------------------------------------------
+# Air Music Technology MiniGrand
+#
+# notes
+#  - Komplete Kontrol 1.6.2.5
+#  - DB-33  1.2.7.19000
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'minigrand-print-default-meta', ->
+  _print_default_meta $.MiniGrand.dir
+
+# print mapping of _Default.nksf
+gulp.task 'minigrand-print-default-mapping', ->
+  _print_default_mapping $.MiniGrand.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'minigrand-print-magic', ->
+  _print_plid $.MiniGrand.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'minigrand-generate-default-mapping', ->
+  _generate_default_mapping $.MiniGrand.dir
+
+# extract PCHK chunk from .bwpreset files.
+gulp.task 'minigrand-extract-raw-presets', ->
+  gulp.src ["temp/#{$.MiniGrand.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.MiniGrand.dir}/presets"
+
+# generate metadata
+gulp.task 'minigrand-generate-meta', ->
+  presets = "src/#{$.MiniGrand.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = path.relative presets, path.dirname file.path
+      metafile = "#{file.path[..-5]}meta"
+      uid = if fs.existsSync metafile
+        (_require_meta metafile).uuid
+      else
+        uuid.v4()
+      # meta
+      meta =
+        vendor: $.MiniGrand.vendor
+        uuid: uid
+        types: [
+          ['Piano']
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['MiniGrand', 'MiniGrand Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.MiniGrand.dir}/presets"
+    
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'minigrand-dist', [
+  'minigrand-dist-image'
+  'minigrand-dist-database'
+  'minigrand-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'minigrand-dist-image', ->
+  _dist_image $.MiniGrand.dir, $.MiniGrand.vendor
+
+# copy database resources to dist folder
+gulp.task 'minigrand-dist-database', ->
+  _dist_database $.MiniGrand.dir, $.MiniGrand.vendor
+
+# build presets file to dist folder
+gulp.task 'minigrand-dist-presets', ->
+  _dist_presets $.MiniGrand.dir, $.MiniGrand.magic
+
+# check
+gulp.task 'minigrand-check-dist-presets', ->
+  _check_dist_presets $.MiniGrand.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'minigrand-deploy', [
+  'minigrand-deploy-resources'
+  'minigrand-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'minigrand-deploy-resources', [
+  'minigrand-dist-image'
+  'minigrand-dist-database'
+  ], ->
+    _deploy_resources $.MiniGrand.dir
+
+# copy database resources to local environment
+gulp.task 'minigrand-deploy-presets', [
+  'minigrand-dist-presets'
+  ] , ->
+    _deploy_presets $.MiniGrand.dir
+
+# ---------------------------------------------------------------
+# end Air Music Technology MiniGrand
 #
 
 
@@ -3527,6 +3783,7 @@ _generate_default_mapping = (dir) ->
 
 # print default NISI chunk as JSON
 _print_default_meta = (dir) ->
+  console.info "#{$.NI.userContent}/#{dir}/_Default.nksf"
   gulp.src ["#{$.NI.userContent}/#{dir}/_Default.nksf"]
     .pipe extract
       chunk_ids: ['NISI']

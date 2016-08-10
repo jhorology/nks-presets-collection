@@ -1,0 +1,51 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 1,
+      "name": "Model",
+      "section": "Model",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Response",
+      "section": "Dynamic",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Scale",
+      "section": "Tuning",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Type",
+      "section": "Reverb",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Max Polyphony",
+      "section": "Config",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "Eco Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 0,
+      "name": "Level",
+      "section": "Master",
+      "vflag": false
+    }]
+  ]
+}
