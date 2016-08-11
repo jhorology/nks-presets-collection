@@ -441,6 +441,7 @@ gulp.task 'dist', [
   'loom-dist'
   'spire_1_1-dist'
   'structure-dist'
+  'strike-dist'
   'theriser-dist'
   'db33-dist'
   'minigrand-dist'
@@ -457,6 +458,7 @@ gulp.task 'deploy', [
   'loom-deploy'
   'spire_1_1-deploy'
   'structure-deploy'
+  'strike-deploy'
   'theriser-deploy'
   'db33-deploy'
   'minigrand-deploy'
@@ -473,6 +475,7 @@ gulp.task 'release', [
   'loom-release'
   'spire_1_1-release'
   'structure-release'
+  'strike-release'
   'theriser-release'
   'db33-release'
   'minigrand-release'
@@ -2365,7 +2368,7 @@ gulp.task 'spire_1_1-generate-meta', ->
       bank = folder[0]
       metafile = "#{file.path[..-5]}meta"
       uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
+        _require_meta metafile).uuid
       else
         uuid.v4()
       type = switch
@@ -2437,8 +2440,7 @@ gulp.task 'spire_1_1-generate-meta', ->
       # meta
       meta =
         vendor: $.Spire_1_1.vendor
-        UUID: uid
-        uuid: ""
+        uuid: uid
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'
