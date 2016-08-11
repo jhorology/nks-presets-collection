@@ -1805,6 +1805,62 @@ gulp.task 'strike-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.Strike.dir}/presets"
     
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'strike-dist', [
+  'strike-dist-image'
+  'strike-dist-database'
+  'strike-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'strike-dist-image', ->
+  _dist_image $.Strike.dir, $.Strike.vendor
+
+# copy database resources to dist folder
+gulp.task 'strike-dist-database', ->
+  _dist_database $.Strike.dir, $.Strike.vendor
+
+# build presets file to dist folder
+gulp.task 'strike-dist-presets', ->
+  _dist_presets $.Strike.dir, $.Strike.magic
+
+# check
+gulp.task 'strike-check-dist-presets', ->
+  _check_dist_presets $.Strike.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'strike-deploy', [
+  'strike-deploy-resources'
+  'strike-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'strike-deploy-resources', [
+  'strike-dist-image'
+  'strike-dist-database'
+  ], ->
+    _deploy_resources $.Strike.dir
+
+# copy database resources to local environment
+gulp.task 'strike-deploy-presets', [
+  'strike-dist-presets'
+  ] , ->
+    _deploy_presets $.Strike.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'strike-release',['strike-dist'], ->
+  _release $.Strike.dir
+
 # ---------------------------------------------------------------
 # end Air Music Technology Strike
 #
