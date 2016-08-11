@@ -1,0 +1,660 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Root.Master",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Root.Part 1 General Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Root.Part 1 Filter CutOff ",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Root.Part 1 Pro5 Mixer Osc A",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Root.Part 1 Filter Resonance",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "Root.Part 1 Pro5 Mixer Osc B",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "Part 1 Envelope Filter Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Part 1 Envelope Filter Decay",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "Part 1 Envelope Filter Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "Part 1 Envelope Filter Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "Root.Part 1 Chorus Dry-Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 11,
+      "name": "Root.Part 1 Delay Dry-Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "Part 1 Envelope Filter Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 13,
+      "name": "Part 1 Envelope Filter Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "Part 1 Envelope Filter Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 15,
+      "name": "Part 1 Envelope Filter Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 16,
+      "name": "Root.Part 1 Envelope Vca Attack",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 17,
+      "name": "Root.Part 1 Envelope Vca Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 18,
+      "name": "Root.Part 1 Envelope Vca Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "Root.Part 1 Envelope Vca Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "Root.Part 1 Filter Keyb",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "Root.Part2 Param0",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "Root.Part2 Param1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "Root.Part2 Param2",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 24,
+      "name": "Root.Part2 Param3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "Root.Part2 Param4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 26,
+      "name": "Root.Part2 Param5",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "Root.Part2 Param6",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "Root.Part2 Param7",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 29,
+      "name": "Root.Part2 Param8",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 30,
+      "name": "Root.Part2 Param9",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 31,
+      "name": "Root.Part2 Param10",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 32,
+      "name": "Root.Part2 Param11",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 33,
+      "name": "Root.Part2 Param12",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 34,
+      "name": "Root.Part2 Param13",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 35,
+      "name": "Root.Part2 Param14",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 36,
+      "name": "Root.Part2 Param15",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 37,
+      "name": "Root.Part2 Param16",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 38,
+      "name": "Root.Part2 Param17",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 39,
+      "name": "Root.Part2 Param18",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 40,
+      "name": "Root.Part2 Param19",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 41,
+      "name": "Root.Macro1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 42,
+      "name": "Root.Macro2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 43,
+      "name": "Root.Macro3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 44,
+      "name": "Root.Macro4",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 45,
+      "name": "Root.Macro5",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 46,
+      "name": "Root.Macro6",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 47,
+      "name": "Root.Macro7",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 48,
+      "name": "Root.Macro8",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 49,
+      "name": "Root.Part1 Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 50,
+      "name": "Root.Part1 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "Root.Part1 SendA",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "Root.Part1 SendB",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "Root.Part1 Routing SendA",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 54,
+      "name": "Root.Part1 Routing SendB",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 55,
+      "name": "Root.Part2 Volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 56,
+      "name": "Root.Part2 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "Root.Part2 SendA",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "Root.Part2 SendB",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "Root.Part2 Routing SendA",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 60,
+      "name": "Root.Part2 Routing SendB",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "Root.ReturnA",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "Root.ReturnB",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "Root.SendA Type",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 64,
+      "name": "Root.SendA Active",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 65,
+      "name": "Root.SendA Delay MIDI Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 66,
+      "name": "Root.SendA Delay Link",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 67,
+      "name": "Root.SendA Delay Ping Pong",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 68,
+      "name": "Root.SendA Delay Time ch1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 69,
+      "name": "Root.SendA Delay Time ch2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 70,
+      "name": "Root.SendA Delay Feedback ch1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 71,
+      "name": "Root.SendA Delay Feedback ch2",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 72,
+      "name": "Root.SendA Delay Damping",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 73,
+      "name": "Root.SendA Delay Dry/Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 74,
+      "name": "Root.SendA Phaser Stage1 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 75,
+      "name": "SendA Phaser Stage1 Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 76,
+      "name": "Root.SendA Phaser Stage1 Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 77,
+      "name": "Root.SendA Phaser Stage2 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 78,
+      "name": "SendA Phaser Stage2 Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 79,
+      "name": "Root.SendA Phaser Stage2 Depth",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 80,
+      "name": "Root.SendA Phaser Stage1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 81,
+      "name": "Root.SendA Phaser Stage2 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 82,
+      "name": "Root.SendA Phaser MIDI Sync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "Root.SendA Phaser Dual Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "Root.SendA Phaser Dry/Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 85,
+      "name": "Root.SendA DubDelay Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 86,
+      "name": "Root.SendA DubDelay Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 87,
+      "name": "Root.SendA DubDelay Depth",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 88,
+      "name": "Root.SendA DubDelay Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 89,
+      "name": "Root.SendA DubDelay Tone",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 90,
+      "name": "Root.SendA DubDelay Dry/Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 91,
+      "name": "Root.SendA Flanger Delay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 92,
+      "name": "Root.SendA Flanger Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 93,
+      "name": "Root.SendA Flanger Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 94,
+      "name": "Root.SendA Flanger Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 95,
+      "name": "Root.SendA Flanger Dry/Wet",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 96,
+      "name": "Root.SendA Chorus Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "Root.SendA Chorus Stereo Width",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "Root.SendA Chorus Stereo Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "Root.SendA Chorus Lfo Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 100,
+      "name": "Root.SendA Chorus Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "Root.SendA Chorus Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 102,
+      "name": "Root.SendA Chorus Dry/Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 103,
+      "name": "Root.SendA Reverb Gain",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 104,
+      "name": "Root.SendA Reverb HF Damping",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 105,
+      "name": "Root.SendA Reverb Brightness",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 106,
+      "name": "Root.SendA Reverb Diffusion",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 107,
+      "name": "Root.SendA Reverb Decay Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "Root.SendA Reverb Feedback",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 109,
+      "name": "Root.SendA Reverb Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 110,
+      "name": "Root.SendA Reverb Dry/Wet",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 111,
+      "name": "Root.SendA Overdrive Drive",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 112,
+      "name": "SendA Overdrive Damping/Output",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 113,
+      "name": "Root.SendA Overdrive Gain/Tone",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 114,
+      "name": "Root.SendA RoundPanner Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 115,
+      "name": "Root.SendA RoundPanner Motion",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 116,
+      "name": "Root.SendA Destroy Clipping",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 117,
+      "name": "Root.SendA Destroy Bit Reducer",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 118,
+      "name": "Root.SendA Destroy Tone",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 119,
+      "name": "Root.SendA Destroy Harm Disto",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 120,
+      "name": "Root.SendA Destroy Resampler",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 121,
+      "name": "Root.SendA Destroy Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 122,
+      "name": "Root.SendA BitCrusher Bit Depth",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 123,
+      "name": "SendA BitCrusher Down Sample",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 124,
+      "name": "Root.SendA Eq4 Low Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 125,
+      "name": "Root.SendA Eq4 Low Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 126,
+      "name": "Root.SendA Eq4 High Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 127,
+      "name": "Root.SendA Eq4 High Gain",
+      "vflag": false
+    }]
+  ]
+}

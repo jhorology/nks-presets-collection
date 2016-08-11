@@ -442,6 +442,9 @@ gulp.task 'dist', [
   'spire_1_1-dist'
   'structure-dist'
   'theriser-dist'
+  'db33-dist'
+  'minigrand-dist'
+  'analoglab2-dist'
 ]
 
 gulp.task 'deploy', [
@@ -455,6 +458,9 @@ gulp.task 'deploy', [
   'spire_1_1-deploy'
   'structure-deploy'
   'theriser-deploy'
+  'db33-deploy'
+  'minigrand-deploy'
+  'analoglab2-deploy'
 ]
 
 gulp.task 'release', [
@@ -468,6 +474,9 @@ gulp.task 'release', [
   'spire_1_1-release'
   'structure-release'
   'theriser-release'
+  'db33-release'
+  'minigrand-release'
+  'analoglab2-release'
 ]
 
 # Air Music Technology Velvet
@@ -2812,6 +2821,62 @@ gulp.task 'analoglab2-generate-meta', ->
     .on 'end', ->
       # colse database
       db.close()
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'analoglab2-dist', [
+  'analoglab2-dist-image'
+  'analoglab2-dist-database'
+  'analoglab2-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'analoglab2-dist-image', ->
+  _dist_image $.AnalogLab2.dir, $.AnalogLab2.vendor
+
+# copy database resources to dist folder
+gulp.task 'analoglab2-dist-database', ->
+  _dist_database $.AnalogLab2.dir, $.AnalogLab2.vendor
+
+# build presets file to dist folder
+gulp.task 'analoglab2-dist-presets', ->
+  _dist_presets $.AnalogLab2.dir, $.AnalogLab2.magic
+
+# check
+gulp.task 'analoglab2-check-dist-presets', ->
+  _check_dist_presets $.AnalogLab2.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'analoglab2-deploy', [
+  'analoglab2-deploy-resources'
+  'analoglab2-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'analoglab2-deploy-resources', [
+  'analoglab2-dist-image'
+  'analoglab2-dist-database'
+  ], ->
+    _deploy_resources $.AnalogLab2.dir
+
+# copy database resources to local environment
+gulp.task 'analoglab2-deploy-presets', [
+  'analoglab2-dist-presets'
+  ] , ->
+    _deploy_presets $.AnalogLab2.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'analoglab2-release',['analoglab2-dist'], ->
+  _release $.AnalogLab2.dir
+
 # ---------------------------------------------------------------
 # end Arturia Analog Lab2
 #
