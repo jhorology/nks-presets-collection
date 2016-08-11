@@ -525,15 +525,10 @@ gulp.task 'velvet-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.Velvet.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           ["Piano/Keys", "Electric Piano"]
         ]
@@ -665,11 +660,6 @@ gulp.task 'xpand2-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       bank = if basename[0] is '+'
         'Xpand!2 Factory+'
       else
@@ -677,7 +667,7 @@ gulp.task 'xpand2-generate-meta', ->
       # meta
       meta =
         vendor: $.Xpand2.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'
@@ -810,15 +800,10 @@ gulp.task 'loom-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.Loom.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Meet Loom' -> 'Meet Loom'
@@ -958,15 +943,10 @@ gulp.task 'hybrid-generate-meta', ->
       basename = path.basename file.path, extname
       folder = (path.relative presets, path.dirname file.path).split path.sep
       type = if folder.length < 2 then 'Default' else folder[1][3..]
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.Hybrid.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           [type]
         ]
@@ -1156,15 +1136,10 @@ gulp.task 'vacuumpro-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = (path.relative presets, path.dirname file.path).split path.sep
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta = if folder[0] is 'Expansions'
         vendor: $.VacuumPro.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           [folder[2][3..]]
         ]
@@ -1409,11 +1384,10 @@ gulp.task 'theriser-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = (path.relative presets, path.dirname file.path).split path.sep
-      metafile = "#{file.path[..-5]}meta"
       # meta
       meta = if folder[0] is 'Expansions'
         vendor: $.theRiser.vendor
-        uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
+        uuid: _uuid file
         types: [
           ['Sound Effects']
         ]
@@ -1426,7 +1400,7 @@ gulp.task 'theriser-generate-meta', ->
         author: ''
       else
         vendor: $.theRiser.vendor
-        uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
+        uuid: _uuid file
         types: [
           ['Sound Effects']
         ]
@@ -1440,7 +1414,7 @@ gulp.task 'theriser-generate-meta', ->
       console.info json
       file.contents = new Buffer json
       # rename .pchk to .meta
-      file.path = metafile
+      file.path = "#{file.path[..-5]}meta"
       meta
     .pipe gulp.dest "src/#{$.theRiser.dir}/presets"
 
@@ -1644,21 +1618,18 @@ gulp.task 'structure-generate-mappings', ->
 # generate per preset mappings
 gulp.task 'structure-generate-meta', ->
   # read default mapping template
-  gulp.src ["#{$.Structure.libs}/**/*.patch"], read: on
+  presets = "src/#{$.Structure.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
     .pipe data (file) ->
-      basename = path.basename file.path, '.patch'
-      # if already exists .meta, reuse uuid
-      metafile = "#{file.path[..-6]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
-      patch = new xmldom().parseFromString file.contents.toString()
+      basename = path.basename file.path, '.pchk'
+      folder = path.relative presets, path.dirname file.path
+      patchFile = path.join $.Structure.libs, folder, "#{basename}.patch"
+      patch = new xmldom().parseFromString _readFile patchFile
       metaxml = (xpath.select "/H3Patch/MetaData/text()", patch).toString().replace /&lt;/mg, '<'
       meta = new xmldom().parseFromString metaxml
       kkmeta =
         vendor: $.Structure.vendor
-        uuid: if fs.existsSync metafile then (_require_meta metafile).uuid else uuid.v4()
+        uuid: _uuid file
         types: [
           (xpath.select "/DBValueMap/category/text()", meta).toString().trim().split ': '
           ]
@@ -1669,6 +1640,7 @@ gulp.task 'structure-generate-meta', ->
         bankchain: ['Structure', 'Structure Factory', '']
         author: (xpath.select "/DBValueMap/manufacturer/text()", meta).toString().trim().split ': '
       json = beautify (JSON.stringify kkmeta), indent_size: $.json_indent
+      # console.info json
       # set buffer contents
       file.contents = new Buffer json
       # rename .patch to .json
@@ -1782,15 +1754,10 @@ gulp.task 'strike-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.Strike.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           ['Drum']
         ]
@@ -1910,15 +1877,10 @@ gulp.task 'db33-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.DB_33.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           ['Organ']
         ]
@@ -2038,15 +2000,10 @@ gulp.task 'minigrand-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.MiniGrand.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           ['Piano']
         ]
@@ -2177,11 +2134,6 @@ gulp.task 'spire-generate-meta', ->
       basename = path.basename file.path, extname
       folder = (path.relative presets, path.dirname file.path).split path.sep
       bank = folder[0]
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       type = switch
         when basename[0..3] is 'ATM '  then 'Atmosphere'
         when basename[0..2] is 'AR '   then 'Arpeggiated'
@@ -2239,7 +2191,7 @@ gulp.task 'spire-generate-meta', ->
       # meta
       meta =
         vendor: $.Spire.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'
@@ -2366,11 +2318,6 @@ gulp.task 'spire_1_1-generate-meta', ->
       basename = (path.basename file.path, extname).trim()
       folder = (path.relative presets, path.dirname file.path).split path.sep
       bank = folder[0]
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        _require_meta metafile).uuid
-      else
-        uuid.v4()
       type = switch
         when (basename.indexOf ' Kick ') > 0  then 'Kick'
         when basename[0..3] is 'ATM '  then 'Atmosphere'
@@ -2440,7 +2387,7 @@ gulp.task 'spire_1_1-generate-meta', ->
       # meta
       meta =
         vendor: $.Spire_1_1.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           # remove first 3 char from folder name.
           # ex) '01 Soft Pads' -> 'Soft Pads'
@@ -2572,11 +2519,6 @@ gulp.task 'analoglab-generate-meta', ->
   db = new sqlite3.Database $.AnalogLab.db, sqlite3.OPEN_READONLY
   gulp.src ["src/#{$.AnalogLab.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # SQL bind parameters
       soundname = path.basename file.path, '.pchk'
       folder = path.relative "src/#{$.AnalogLab.dir}/presets", path.dirname file.path
@@ -2594,7 +2536,6 @@ gulp.task 'analoglab-generate-meta', ->
           console.info JSON.stringify rows[0]
           done undefined,
             vendor: $.AnalogLab.vendor
-            uuid: uid
             types: [['Multi']]
             name: soundname
             modes: [rows[0].MusicGenreName]
@@ -2619,7 +2560,6 @@ gulp.task 'analoglab-generate-meta', ->
             return done 'row unfound in sounds'
           done undefined,
             vendor: $.AnalogLab.vendor
-            uuid: uid
             types: [[rows[0].TypeName?.trim()]]
             name: soundname
             modes: _.uniq (row.CharName for row in rows)
@@ -2629,6 +2569,7 @@ gulp.task 'analoglab-generate-meta', ->
             author: rows[0].SoundDesigner?.trim()
 
     .pipe data (file) ->
+      file.data.uuid = _uuid file
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
       # console.info json
       file.contents = new Buffer json
@@ -2837,12 +2778,6 @@ gulp.task 'analoglab2-generate-meta', ->
   db = new sqlite3.Database $.AnalogLab2.db, sqlite3.OPEN_READONLY
   gulp.src ["src/#{$.AnalogLab2.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
-      metafile = "#{file.path[..-5]}meta"
-      # generate or re-use uuid
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # SQL bind parameters
       presetName = path.basename file.path, '.pchk'
       folder = path.relative "src/#{$.AnalogLab2.dir}/presets", path.dirname file.path
@@ -2860,7 +2795,6 @@ gulp.task 'analoglab2-generate-meta', ->
           inst = 'MULTI'
         done undefined,
           vendor: $.AnalogLab2.vendor
-          uuid: uid
           types: [[rows[0].type?.trim()]]
           name: presetName
           modes: if rows[0].characteristic then _.uniq (row.characteristic for row in rows) else []
@@ -2869,6 +2803,7 @@ gulp.task 'analoglab2-generate-meta', ->
           bankchain: [$.AnalogLab2.dir, inst, rows[0].pack]
           author: rows[0].author?.trim()
     .pipe data (file) ->
+      file.data.uuid = _uuid file
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
       # console.info json
       file.contents = new Buffer json
@@ -2991,15 +2926,10 @@ gulp.task 'discoverypro-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       bank = path.relative presets, path.dirname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.DiscoveryPro.vendor
-        uuid: uid
+        uuid: _uuid file
         types: []
         modes: []
         name: basename
@@ -3337,15 +3267,10 @@ gulp.task 'bassstation-generate-meta', ->
     .pipe data (file) ->
       extname = path.extname file.path
       basename = path.basename file.path, path.extname file.path
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.BassStation.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           ['Bass']
         ]
@@ -3409,15 +3334,10 @@ gulp.task 'vstation-generate-meta', ->
       basename = path.basename file.path, extname
       type = basename.replace /^[0-9]+ /, ''
       type = type.replace /[ ,0-9]+$/, ''
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # meta
       meta =
         vendor: $.VStation.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           [type]
         ]
@@ -3520,11 +3440,6 @@ gulp.task 'alchemy-generate-meta', ->
   db = new sqlite3.Database $.Alchemy.db, sqlite3.OPEN_READONLY
   gulp.src ["src/#{$.Alchemy.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       bank = file.relative.replace /(\/.*$)/, ''
       # execute query
       db.all $.Alchemy.query_items, $preset: "Alchemy/Presets/#{file.relative[..-5]}acp", (err, rows) ->
@@ -3550,7 +3465,6 @@ gulp.task 'alchemy-generate-meta', ->
             else
         done undefined,
           vendor: $.Alchemy.vendor
-          uuid: uid
           types: types
           name: rows[0].name
           modes: _.uniq modes
@@ -3559,6 +3473,7 @@ gulp.task 'alchemy-generate-meta', ->
           bankchain: ['Alchemy', bank, '']
           author: author
     .pipe data (file) ->
+      file.data.uuid = _uuid file
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
       file.contents = new Buffer json
       # rename .acp to .meta
@@ -3760,11 +3675,6 @@ gulp.task 'serum-generate-meta', ->
   db = new sqlite3.Database $.Serum.db, sqlite3.OPEN_READONLY
   gulp.src ["src/#{$.Serum.dir}/presets/**/*.pchk"]
     .pipe data (file, done) ->
-      metafile = "#{file.path[..-5]}meta"
-      uid = if fs.existsSync metafile
-        (_require_meta metafile).uuid
-      else
-        uuid.v4()
       # SQL bind parameters
       params =
         $name: path.basename file.path, '.pchk'
@@ -3773,7 +3683,6 @@ gulp.task 'serum-generate-meta', ->
       db.get $.Serum.query, params, (err, row) ->
         done err,
           vendor: $.Serum.vendor
-          uuid: uid
           types: [[row.Category?.trim()]]
           name: row.PresetDisplayName?.trim()
           deviceType: 'INST'
@@ -3781,6 +3690,7 @@ gulp.task 'serum-generate-meta', ->
           bankchain: ['Serum', 'Serum Factory', '']
           author: row.Author?.trim()
     .pipe data (file) ->
+      file.data.uuid = _uuid file
       json = beautify (JSON.stringify file.data), indent_size: $.json_indent
       file.contents = new Buffer json
       # rename .pchk to .meta
@@ -3891,11 +3801,21 @@ _serialize = (json) ->
   Buffer.concat [ver, msgpack.encode json]
 
 
-# read JSON file
-# * 'require' can't use for non '.js,.json' file
-_require_meta = (filePath) ->
-  JSON.parse fs.readFileSync filePath, "utf8"
+# generate or reuse uuid
+_uuid = (pchkFile) ->
+  metaFile = "#{pchkFile.path[..-5]}meta"
+  if fs.existsSync metaFile
+    (_readJson metaFile).uuid || uuid.v4()
+  else
+    uuid.v4()
 
+# read JSON file
+_readJson = (filePath) ->
+  JSON.parse _readFile filePath
+
+# read file as String
+_readFile = (filePath) ->
+  fs.readFileSync filePath, "utf8"
 
 # resource dirname can't use ".", "!"
 _normalizeDirname = (dir) ->
@@ -3983,7 +3903,7 @@ _dist_presets = (dir, magic, callback) ->
         mapping = _serialize require callback file
       riff = builder 'NIKS'
       # NISI chunk -- metadata
-      meta = _serialize _require_meta "#{presets}/#{file.relative[..-5]}meta"
+      meta = _serialize _readJson "#{presets}/#{file.relative[..-5]}meta"
       riff.pushChunk 'NISI', meta
       # NACA chunk -- mapping
       riff.pushChunk 'NICA', mapping
