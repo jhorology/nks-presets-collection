@@ -314,13 +314,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
       "id": 55,
       "name": "Sync",
       "section": "LFO1",
@@ -329,24 +322,6 @@
       "autoname": false,
       "id": 56,
       "name": "Rate",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
       "vflag": false
     }],
     [{
@@ -580,13 +555,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
       "id": 97,
       "name": "Sync",
       "section": "LFO2",
@@ -596,7 +564,8 @@
       "id": 98,
       "name": "Rate",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 99,
       "name": "Delay",
@@ -608,19 +577,6 @@
       "name": "Rate",
       "vflag": false
     }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }],
-    [{
       "autoname": false,
       "id": 101,
       "name": "Type",
@@ -650,12 +606,6 @@
       "autoname": false,
       "id": 106,
       "name": "Crush",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
       "vflag": false
     }],
     [{
@@ -1417,19 +1367,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
       "id": 243,
       "name": "Source",
       "section": "MM6",
@@ -1449,7 +1386,8 @@
       "id": 246,
       "name": "Depth2",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 247,
       "name": "Source",
@@ -1470,8 +1408,7 @@
       "id": 250,
       "name": "Depth2",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 251,
       "name": "Source",
@@ -1492,7 +1429,8 @@
       "id": 254,
       "name": "Depth2",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 255,
       "name": "Source",
@@ -1513,8 +1451,7 @@
       "id": 258,
       "name": "Depth2",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 259,
       "name": "Source",
@@ -1535,7 +1472,8 @@
       "id": 262,
       "name": "Depth2",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 263,
       "name": "Source",
@@ -1556,8 +1494,7 @@
       "id": 266,
       "name": "Depth2",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 267,
       "name": "Source",
@@ -1578,7 +1515,8 @@
       "id": 270,
       "name": "Depth2",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 271,
       "name": "Mode",
@@ -1591,13 +1529,6 @@
       "section": "VLFO",
       "vflag": false
     }, {
-      "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }],
-    [{
       "autoname": false,
       "id": 273,
       "name": "Restart",
@@ -1620,6 +1551,13 @@
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 277,
       "name": "Restart",
       "section": "LFO2",
@@ -1638,6 +1576,18 @@
       "autoname": false,
       "id": 280,
       "name": "Polarity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }]
   ]
