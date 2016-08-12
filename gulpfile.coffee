@@ -21,6 +21,7 @@ beautify    = require 'js-beautify'
 uuid        = require 'uuid'
 xpath       = require 'xpath'
 xmldom      = (require 'xmldom').DOMParser
+hiveParser  = require 'u-he-hive-meta-parser'
 
 $ =
   #
@@ -103,7 +104,7 @@ $ =
     dir: 'theRiser'
     vendor: 'Air Music Technology'
     magic: "rsRt"
-    
+
   #
   # Air Music Technology Strike
   #-------------------------------------------
@@ -112,7 +113,7 @@ $ =
     vendor: 'Air Music Technology'
     magic: 'urtS'
     libs: '/Applications/AIR Music Technology/Structure/Structure Factory Libraries'
-    
+
   #
   # Air Music Technology Strike
   #-------------------------------------------
@@ -127,7 +128,7 @@ $ =
     dir: 'DB-33'
     vendor: 'Air Music Technology'
     magic: '33BD'
-    
+
   #
   # Air Music Technology MiniGrand
   #-------------------------------------------
@@ -135,7 +136,7 @@ $ =
     dir: 'MiniGrand'
     vendor: 'Air Music Technology'
     magic: 'rGnM'
-    
+
   #
   # Reveal Sound Spire
   #-------------------------------------------
@@ -306,12 +307,12 @@ select
   t6.name as characteristic
 from
   Preset_Id t0
-  join Types t1 on t0.type = t1.key_id 
-  join Instruments t2 on t0.instrument_key = t2.key_id 
-  join Sound_Designers t3 on t0.sound_designer = t3.key_id 
-  join Packs t4 on t0.pack = t4.key_id 
-  left outer join Preset_Characteristics t5 on t0.key_id = t5.preset_key 
-  left outer join Characteristics t6 on t5.characteristic_key = t6.key_id 
+  join Types t1 on t0.type = t1.key_id
+  join Instruments t2 on t0.instrument_key = t2.key_id
+  join Sound_Designers t3 on t0.sound_designer = t3.key_id
+  join Packs t4 on t0.pack = t4.key_id
+  left outer join Preset_Characteristics t5 on t0.key_id = t5.preset_key
+  left outer join Characteristics t6 on t5.characteristic_key = t6.key_id
 where
   t0.file_path = $FilePath
 '''
@@ -330,6 +331,7 @@ where
     dir: 'Hive'
     vendor: 'u-he'
     magic: 'hIVE'
+    presets: '/Library/Audio/Presets/u-he/Hive'
 
   #
   # Novation BassStation
@@ -963,7 +965,7 @@ gulp.task 'hybrid-generate-meta', ->
       file.path = "#{file.path[..-5]}meta"
       meta
     .pipe gulp.dest "src/#{$.Hybrid.dir}/presets"
-    
+
 # suggest mapping
 gulp.task 'hybrid-suggest-mapping', ->
   prefixes = [
@@ -1318,7 +1320,7 @@ gulp.task 'vacuumpro-deploy-presets', [
 # release zip file to dropbox
 gulp.task 'vacuumpro-release',['vacuumpro-dist'], ->
   _release $.VacuumPro.dir
-    
+
 
 # ---------------------------------------------------------------
 # end Air Music Technology VacuumPro
@@ -1558,7 +1560,7 @@ gulp.task 'theriser-delete-expansions',  ['theriser-dist'], (cb) ->
 # release zip file to dropbox
 gulp.task 'theriser-release', ['theriser-delete-expansions'], ->
   _release $.theRiser.dir
-        
+
 # ---------------------------------------------------------------
 # end Air Music Technology theRiser
 #
@@ -1774,7 +1776,7 @@ gulp.task 'strike-generate-meta', ->
       file.path = "#{file.path[..-5]}meta"
       meta
     .pipe gulp.dest "src/#{$.Strike.dir}/presets"
-    
+
 #
 # build
 # --------------------------------
@@ -1897,7 +1899,7 @@ gulp.task 'db33-generate-meta', ->
       file.path = "#{file.path[..-5]}meta"
       meta
     .pipe gulp.dest "src/#{$.DB_33.dir}/presets"
-    
+
 #
 # build
 # --------------------------------
@@ -2020,7 +2022,7 @@ gulp.task 'minigrand-generate-meta', ->
       file.path = "#{file.path[..-5]}meta"
       meta
     .pipe gulp.dest "src/#{$.MiniGrand.dir}/presets"
-    
+
 #
 # build
 # --------------------------------
@@ -3210,6 +3212,99 @@ gulp.task 'hive-extract-extra-raw-presets', ->
       ].join '&&'
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
+
+
+# suggest mapping
+gulp.task 'hive-suggest-mapping', ->
+  gulp.src ["src/#{$.Hive.dir}/mappings/bitwig-direct-paramater.json"], read: true
+    .pipe data (file) ->
+      lastSection = undefined
+      pages = []
+      page = []
+      fillPage = (page) ->
+        while page.length < 8
+          page.push
+            autoname: false
+            vflag: false
+        page
+      for param in JSON.parse file.contents.toString()
+        section = (param.name.split ':')[0]
+        if section isnt lastSection and (_.isArray page) and page.length
+          pages.push fillPage page
+          page = []
+        page.push if page.length is 0
+          autoname: false
+          id: parseInt param.id[14..]
+          name: param.name.replace "#{section}: ", ''
+          section: section
+          vflag: false
+        else
+          autoname: false
+          id: parseInt param.id[14..]
+          name: param.name.replace "#{section}: ", ''
+          vflag: false
+        if page.length is 8
+          pages.push page
+          page = []
+        lastSection = section
+      pages.push fillPage page if page.length
+
+      json = beautify (JSON.stringify ni8: pages), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+    .pipe rename basename: 'default-suggest'
+    .pipe gulp.dest "src/#{$.Hive.dir}/mappings"
+
+# check mapping
+gulp.task 'hive-check-default-mapping', ->
+  gulp.src ["src/#{$.Hive.dir}/mappings/default.json"], read: true
+    .pipe data (file) ->
+      mapping = JSON.parse file.contents.toString()
+      for page in mapping.ni8
+        assert.ok page.length is 8, "items per page shoud be 8.\n #{JSON.stringify page}"
+
+# generate metadata
+gulp.task 'hive-generate-meta', ->
+  presets = "src/#{$.Hive.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = (path.relative presets, path.dirname file.path).split path.sep
+      # meta
+      meta = if folder[0] is 'Expansions'
+        vendor: $.VacuumPro.vendor
+        uuid: _uuid file
+        types: [
+          [folder[2][3..]]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['VacuumPro', folder[1], '']
+        author: ''
+      else
+        vendor: $.VacuumPro.vendor
+        uuid: uid
+        types: [
+          [folder[0][3..]]
+        ]
+        modes: []
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: ['VacuumPro', 'VacuumPro Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.VacuumPro.dir}/presets"
+
+
 
 # ---------------------------------------------------------------
 # end u-he Hive Pro

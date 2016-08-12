@@ -1,0 +1,1644 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Output",
+      "section": "main",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Synth Engine",
+      "section": "Ctrl",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Solo Oscillator1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "S_Sub1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Solo Oscillator2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "S_Sub2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Solo Filter1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Solo Filter2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 8,
+      "name": "Voices",
+      "section": "VCC",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "GlideMode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "PitchBend Up",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "PitchBend Down",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Transpose",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "FineTuneCents",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 16,
+      "name": "Octave",
+      "section": "Osc1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Semitone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Detune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Vibrato",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Wave",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Unison",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "Pan",
+      "section": "Osc1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Sub Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Sub Wave",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Sub Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 29,
+      "name": "inputOsc1",
+      "section": "Filter1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "inputSub1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "inputOsc2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "inputSub2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Input Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Cutoff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Resonance",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 37,
+      "name": "KeyTrack",
+      "section": "Filter1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Env No",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 40,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "LFO No",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 43,
+      "name": "Attack",
+      "section": "AmpEnv1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 48,
+      "name": "Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 49,
+      "name": "Attack",
+      "section": "ModEnv1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 55,
+      "name": "Sync",
+      "section": "LFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 56,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 57,
+      "name": "Octave",
+      "section": "Osc2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "Semitone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "Detune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "Vibrato",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Wave",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "Unison",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 64,
+      "name": "Volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 65,
+      "name": "Pan",
+      "section": "Osc2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Sub Tune",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Sub Wave",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Sub Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 70,
+      "name": "inputOsc1",
+      "section": "Filter2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "inputSub1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 72,
+      "name": "inputOsc2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "inputSub2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "inputFilter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 75,
+      "name": "Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "Input Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "Cutoff",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 78,
+      "name": "Resonance",
+      "section": "Filter2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "KeyTrack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 80,
+      "name": "Env Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 81,
+      "name": "Env No",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "LFO Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "LFO No",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 85,
+      "name": "Attack",
+      "section": "AmpEnv2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 89,
+      "name": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 91,
+      "name": "Attack",
+      "section": "ModEnv2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 95,
+      "name": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 96,
+      "name": "Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 97,
+      "name": "Sync",
+      "section": "LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 99,
+      "name": "Delay",
+      "section": "VLFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 101,
+      "name": "Type",
+      "section": "Distort",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 103,
+      "name": "Tone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Crush",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 107,
+      "name": "Type",
+      "section": "Chorus",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "Wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 111,
+      "name": "Type",
+      "section": "Phaser",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "Stereo",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "Wet",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 117,
+      "name": "Bass Gain",
+      "section": "EQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "Bass Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 119,
+      "name": "Mid Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 120,
+      "name": "Mid Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "High Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 122,
+      "name": "High Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 123,
+      "name": "Mode",
+      "section": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "Left Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 125,
+      "name": "Right Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 126,
+      "name": "Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 127,
+      "name": "DryWetMix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 128,
+      "name": "Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 129,
+      "name": "HighPass",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 130,
+      "name": "LowPass",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 131,
+      "name": "Diffuse",
+      "section": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 132,
+      "name": "PreDelay",
+      "section": "Reverb",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 133,
+      "name": "Damp",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 134,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 135,
+      "name": "Size",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 136,
+      "name": "Tone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 137,
+      "name": "Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 138,
+      "name": "DryWetMix",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 139,
+      "name": "Amount",
+      "section": "Comp",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 140,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 141,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 142,
+      "name": "Mix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 143,
+      "name": "Output",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 144,
+      "name": "Multiply",
+      "section": "CLK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 145,
+      "name": "TimeBase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 146,
+      "name": "Swing",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 147,
+      "name": "Direction",
+      "section": "ARP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 148,
+      "name": "Octaves",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 149,
+      "name": "Multiply",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 150,
+      "name": "Restart",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 151,
+      "name": "OnOff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 152,
+      "name": "Order",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 153,
+      "name": "Gate 01",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 154,
+      "name": "Gate 02",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 155,
+      "name": "Gate 03",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 156,
+      "name": "Gate 04",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 157,
+      "name": "Gate 05",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 158,
+      "name": "Gate 06",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 159,
+      "name": "Gate 07",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 160,
+      "name": "Gate 08",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 161,
+      "name": "Gate 09",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 162,
+      "name": "Gate 10",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 163,
+      "name": "Gate 11",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 164,
+      "name": "Gate 12",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 165,
+      "name": "Gate 13",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 166,
+      "name": "Gate 14",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 167,
+      "name": "Gate 15",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 168,
+      "name": "Gate 16",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 169,
+      "name": "Transpose 01",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 170,
+      "name": "Transpose 02",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 171,
+      "name": "Transpose 03",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 172,
+      "name": "Transpose 04",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 173,
+      "name": "Transpose 05",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 174,
+      "name": "Transpose 06",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 175,
+      "name": "Transpose 07",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 176,
+      "name": "Transpose 08",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 177,
+      "name": "Transpose 09",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 178,
+      "name": "Transpose 10",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 179,
+      "name": "Transpose 11",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 180,
+      "name": "Transpose 12",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 181,
+      "name": "Transpose 13",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 182,
+      "name": "Transpose 14",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 183,
+      "name": "Transpose 15",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 184,
+      "name": "Transpose 16",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 185,
+      "name": "Velocity 01",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 186,
+      "name": "Velocity 02",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 187,
+      "name": "Velocity 03",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 188,
+      "name": "Velocity 04",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 189,
+      "name": "Velocity 05",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 190,
+      "name": "Velocity 06",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 191,
+      "name": "Velocity 07",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 192,
+      "name": "Velocity 08",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 193,
+      "name": "Velocity 09",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 194,
+      "name": "Velocity 10",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 195,
+      "name": "Velocity 11",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 196,
+      "name": "Velocity 12",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 197,
+      "name": "Velocity 13",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 198,
+      "name": "Velocity 14",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 199,
+      "name": "Velocity 15",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 200,
+      "name": "Velocity 16",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 201,
+      "name": "Expression 01",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 202,
+      "name": "Expression 02",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 203,
+      "name": "Expression 03",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 204,
+      "name": "Expression 04",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 205,
+      "name": "Expression 05",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 206,
+      "name": "Expression 06",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 207,
+      "name": "Expression 07",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 208,
+      "name": "Expression 08",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 209,
+      "name": "Expression 09",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 210,
+      "name": "Expression 10",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 211,
+      "name": "Expression 11",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 212,
+      "name": "Expression 12",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 213,
+      "name": "Expression 13",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 214,
+      "name": "Expression 14",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 215,
+      "name": "Expression 15",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 216,
+      "name": "Expression 16",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 217,
+      "name": "Attack",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 218,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 219,
+      "name": "Gate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 220,
+      "name": "Steps",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 221,
+      "name": "Control2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 222,
+      "name": "Dynamic Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 223,
+      "name": "Source",
+      "section": "MM1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 224,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 225,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 226,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 227,
+      "name": "Source",
+      "section": "MM2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 228,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 229,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 230,
+      "name": "Depth2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 231,
+      "name": "Source",
+      "section": "MM3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 232,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 233,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 234,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 235,
+      "name": "Source",
+      "section": "MM4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 236,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 237,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 238,
+      "name": "Depth2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 239,
+      "name": "Source",
+      "section": "MM5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 240,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 241,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 242,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 243,
+      "name": "Source",
+      "section": "MM6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 244,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 245,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 246,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 247,
+      "name": "Source",
+      "section": "MM7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 248,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 249,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 250,
+      "name": "Depth2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 251,
+      "name": "Source",
+      "section": "MM8",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 252,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 253,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 254,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 255,
+      "name": "Source",
+      "section": "MM9",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 256,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 257,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 258,
+      "name": "Depth2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 259,
+      "name": "Source",
+      "section": "MM10",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 260,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 261,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 262,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 263,
+      "name": "Source",
+      "section": "MM11",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 264,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 265,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 266,
+      "name": "Depth2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 267,
+      "name": "Source",
+      "section": "MM12",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 268,
+      "name": "Via Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 269,
+      "name": "Depth1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 270,
+      "name": "Depth2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 271,
+      "name": "Mode",
+      "section": "SEQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 272,
+      "name": "Polarity",
+      "section": "VLFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 273,
+      "name": "Restart",
+      "section": "LFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 274,
+      "name": "Waveform",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 275,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 276,
+      "name": "Polarity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 277,
+      "name": "Restart",
+      "section": "LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 278,
+      "name": "Waveform",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 279,
+      "name": "Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 280,
+      "name": "Polarity",
+      "vflag": false
+    }]
+  ]
+}
