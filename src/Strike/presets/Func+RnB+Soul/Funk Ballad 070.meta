@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "504f3c89-aaa9-4199-a2a0-b68b26dc464d",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Funk Ballad 070",
   "deviceType": "INST",
   "comment": "",

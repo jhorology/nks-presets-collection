@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "56b0fd99-ecb0-4286-b30e-01fb15654d07",
   "types": [
-    ["Drum"]
+    ["Drums", "Heavy"]
   ],
-  "modes": ["Heavy"],
+  "modes": ["Sample Based"],
   "name": "Heavy Shuffle 130",
   "deviceType": "INST",
   "comment": "",

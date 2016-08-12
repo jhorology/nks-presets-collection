@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "207bcb60-fb5c-422b-9e2b-8e7b9c8d9ae4",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "LA Funk 115",
   "deviceType": "INST",
   "comment": "",

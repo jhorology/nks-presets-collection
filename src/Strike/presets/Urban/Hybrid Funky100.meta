@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "63b2799c-e10a-466a-b872-bc9970ca0a96",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "Hybrid Funky100",
   "deviceType": "INST",
   "comment": "",

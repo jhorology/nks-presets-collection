@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c14a8009-fdb9-46eb-adb4-542e93063c5a",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Groove Pop 105",
   "deviceType": "INST",
   "comment": "",

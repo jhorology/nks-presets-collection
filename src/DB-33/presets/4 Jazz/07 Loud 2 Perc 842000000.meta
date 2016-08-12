@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "06d89b62-0b88-4a67-a72d-fd12a09b3eb7",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "07 Loud 2 Perc 842000000",
   "deviceType": "INST",
   "comment": "",

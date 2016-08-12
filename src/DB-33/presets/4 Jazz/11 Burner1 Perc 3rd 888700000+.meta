@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "843a5a78-4e8c-4f9b-984e-3b1cff17aedb",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "11 Burner1 Perc 3rd 888700000+",
   "deviceType": "INST",
   "comment": "",

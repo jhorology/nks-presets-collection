@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "f0f0746b-6539-4c30-817e-9b815acdaeae",
   "types": [
-    ["Drum"]
+    ["Drums", "Reggae"],
+    ["Drums", "Dub"]
   ],
-  "modes": ["Reggae", "Dub"],
+  "modes": ["Sample Based"],
   "name": "Reggae3 070",
   "deviceType": "INST",
   "comment": "",

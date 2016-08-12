@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "bc87851b-1a9e-4c47-acb7-56b949517392",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Samba Brushes 120",
   "deviceType": "INST",
   "comment": "",

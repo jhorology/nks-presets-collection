@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "13622d88-c4c1-46a7-bf39-8fd98b87d005",
   "types": [
-    ["Drum"]
+    ["Drums", "Ballad"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based"],
   "name": "Metal Ballad 060",
   "deviceType": "INST",
   "comment": "",

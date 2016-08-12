@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2e0a8781-b8e3-4f48-b051-a3dd54168239",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Jazz Ballad 060",
   "deviceType": "INST",
   "comment": "",

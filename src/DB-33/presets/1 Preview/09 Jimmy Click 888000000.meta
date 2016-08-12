@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "44e5c7a4-e07c-4491-b222-bcc576ab45bf",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Preview"],
+  "modes": ["Sample Based", "Preview"],
   "name": "09 Jimmy Click 888000000",
   "deviceType": "INST",
   "comment": "",

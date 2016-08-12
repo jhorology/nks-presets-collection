@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a4fee145-bfc1-4546-8707-01e019396579",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Brushes Swing 120",
   "deviceType": "INST",
   "comment": "",

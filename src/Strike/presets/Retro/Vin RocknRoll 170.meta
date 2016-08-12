@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d3fe425b-5233-46c1-9f0b-f3b34ee8e015",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Vin RocknRoll 170",
   "deviceType": "INST",
   "comment": "",

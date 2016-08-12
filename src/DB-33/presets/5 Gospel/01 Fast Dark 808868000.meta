@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1fbcb011-86aa-4802-8db7-2efd61c4efeb",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "01 Fast Dark 808868000",
   "deviceType": "INST",
   "comment": "",

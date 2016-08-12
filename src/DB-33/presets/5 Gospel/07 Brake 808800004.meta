@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4fffbeec-7a51-4905-bf5c-39d10f040dcb",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "07 Brake 808800004",
   "deviceType": "INST",
   "comment": "",

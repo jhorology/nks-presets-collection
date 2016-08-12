@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "d6dca032-e409-4e0f-806e-1f0aa232ae0c",
   "types": [
-    ["Drum"]
+    ["Drums", "Reggae"],
+    ["Drums", "Dub"]
   ],
-  "modes": ["Reggae", "Dub"],
+  "modes": ["Sample Based"],
   "name": "Ska 140",
   "deviceType": "INST",
   "comment": "",

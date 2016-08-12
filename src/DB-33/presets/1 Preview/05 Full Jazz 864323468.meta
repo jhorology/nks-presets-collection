@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ff630396-ff27-4d6a-a091-c8a9578693ec",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Preview"],
+  "modes": ["Sample Based", "Preview"],
   "name": "05 Full Jazz 864323468",
   "deviceType": "INST",
   "comment": "",

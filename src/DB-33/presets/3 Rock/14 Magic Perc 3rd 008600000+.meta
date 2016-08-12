@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0c81082c-788c-46a1-b367-5126267782f2",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "14 Magic Perc 3rd 008600000+",
   "deviceType": "INST",
   "comment": "",

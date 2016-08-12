@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "8d374dcc-a39f-41c9-a79f-803c12322fd2",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Hard House 128",
   "deviceType": "INST",
   "comment": "",

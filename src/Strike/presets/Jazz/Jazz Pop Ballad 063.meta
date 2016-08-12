@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "103bd2ef-222a-4799-948a-18f0f60f4b8b",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Jazz Pop Ballad 063",
   "deviceType": "INST",
   "comment": "",

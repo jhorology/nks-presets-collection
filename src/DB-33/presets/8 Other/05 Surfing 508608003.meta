@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ed8e3455-24bb-4b30-849d-c516c472e776",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "05 Surfing 508608003",
   "deviceType": "INST",
   "comment": "",

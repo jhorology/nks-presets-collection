@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "080f5737-4774-4fdb-9200-a69dcc1462c4",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "Perc Beatz3 103",
   "deviceType": "INST",
   "comment": "",

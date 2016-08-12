@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "aa43dca5-d87c-4d56-9625-6c399bf4eb34",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "10 Church1 808808008+",
   "deviceType": "INST",
   "comment": "",

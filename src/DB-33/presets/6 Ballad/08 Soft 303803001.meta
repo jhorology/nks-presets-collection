@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0bb119e1-3e63-4b7b-9a8c-4b89431edcb1",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "08 Soft 303803001",
   "deviceType": "INST",
   "comment": "",

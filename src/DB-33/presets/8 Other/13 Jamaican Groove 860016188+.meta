@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e8b7c025-f649-4292-b762-373f8f52b7f8",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "13 Jamaican Groove 860016188+",
   "deviceType": "INST",
   "comment": "",

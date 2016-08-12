@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "343b8366-ab57-4e4c-80a1-ca353f8df3e1",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Soul Ballad 085",
   "deviceType": "INST",
   "comment": "",

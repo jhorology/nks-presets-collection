@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "e3688b39-a541-4f96-88c8-1dc939aff0a8",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Electro 125",
   "deviceType": "INST",
   "comment": "",

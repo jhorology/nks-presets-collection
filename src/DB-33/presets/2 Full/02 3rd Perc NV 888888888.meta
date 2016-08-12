@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "03d8fa46-2705-4222-8444-d01e4e5b3ef6",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "02 3rd Perc NV 888888888",
   "deviceType": "INST",
   "comment": "",

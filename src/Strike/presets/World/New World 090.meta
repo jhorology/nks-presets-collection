@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6ee15e9f-5fa8-4efe-a389-1d35ac5a4696",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "New World 090",
   "deviceType": "INST",
   "comment": "",

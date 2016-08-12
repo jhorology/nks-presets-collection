@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "037e884e-2345-4bf9-a7ad-5ed14cf62fae",
   "types": [
-    ["Drum"]
+    ["Drums", "Ballad"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based"],
   "name": "Power Ballad 068",
   "deviceType": "INST",
   "comment": "",

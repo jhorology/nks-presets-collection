@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a652059c-b1ae-48ce-94e8-0f6bd2985f31",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "12 Extremist 800000008+",
   "deviceType": "INST",
   "comment": "",

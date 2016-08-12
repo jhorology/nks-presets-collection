@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "400e231b-7258-49eb-b23d-d7ff41b05000",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Boogaloo 155",
   "deviceType": "INST",
   "comment": "",

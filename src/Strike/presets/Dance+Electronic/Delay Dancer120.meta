@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "066f1c3e-9f86-42de-a31c-62950d4f475c",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Delay Dancer120",
   "deviceType": "INST",
   "comment": "",

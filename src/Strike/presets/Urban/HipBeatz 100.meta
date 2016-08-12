@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cb72fd72-3382-40d4-bbcf-0d8b10ecf9b3",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "HipBeatz 100",
   "deviceType": "INST",
   "comment": "",

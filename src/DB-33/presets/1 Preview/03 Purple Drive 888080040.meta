@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "afdec694-636b-4855-a20e-ab3d89506165",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Preview"],
+  "modes": ["Sample Based", "Preview"],
   "name": "03 Purple Drive 888080040",
   "deviceType": "INST",
   "comment": "",

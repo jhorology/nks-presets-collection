@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "aca582a9-81f9-4415-bff5-2d824b8d2f7d",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Jazz Triplet 063",
   "deviceType": "INST",
   "comment": "",

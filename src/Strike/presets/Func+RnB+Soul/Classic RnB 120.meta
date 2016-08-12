@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "5d4c4fce-628f-473d-84ba-db29a63aec5a",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Classic RnB 120",
   "deviceType": "INST",
   "comment": "",

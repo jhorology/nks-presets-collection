@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b7c408d4-0f64-4142-aa41-157954340bc6",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Retro Pop 125",
   "deviceType": "INST",
   "comment": "",

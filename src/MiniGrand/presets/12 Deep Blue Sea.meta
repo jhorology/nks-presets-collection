@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a594a39d-faa0-4a5f-81e4-abb674a70de9",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "12 Deep Blue Sea",
   "deviceType": "INST",
   "comment": "",

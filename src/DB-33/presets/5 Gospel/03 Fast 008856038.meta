@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "208407d5-4d5f-46ea-b731-08902e826150",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "03 Fast 008856038",
   "deviceType": "INST",
   "comment": "",

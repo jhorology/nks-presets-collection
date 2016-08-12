@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "49a3c148-90b3-49b8-9525-28dde12ea84a",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Shuffle Rock 130",
   "deviceType": "INST",
   "comment": "",

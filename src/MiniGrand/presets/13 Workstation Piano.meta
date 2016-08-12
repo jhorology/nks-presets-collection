@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e2dd0e14-fdb9-4394-83b5-d7d09866021d",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "13 Workstation Piano",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "3ab6b3aa-830d-4b4c-a6b8-0e02d31e7caf",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "DrumnBass 175",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "15085f45-ab6a-4577-87dd-f1d1640d6cb4",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "15 Bright Comp 878000456+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "c677fb75-2a05-4a5e-a736-64356a09ba15",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Techno 145",
   "deviceType": "INST",
   "comment": "",

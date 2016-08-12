@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "5b39e70e-6491-4025-a9b0-41d1fb73456d",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Dance1 124",
   "deviceType": "INST",
   "comment": "",

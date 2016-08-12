@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "6d6f7149-a755-4c7c-8c37-8d4cd8922dc3",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Hybrid House122",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "98c0c849-9140-4e33-ac69-564ec1d492a6",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "14 Lord Perc 2nd 884400000+",
   "deviceType": "INST",
   "comment": "",

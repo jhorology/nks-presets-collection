@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4a48a134-ca95-46ec-8e0e-92eac7b9df3f",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "21 Gentle Piano",
   "deviceType": "INST",
   "comment": "",

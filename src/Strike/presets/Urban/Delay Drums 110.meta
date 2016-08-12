@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "baf5c08f-bdff-44d6-95fe-ef3f78779ed5",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "Delay Drums 110",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6ae86c65-939b-4171-9e2c-2d75e620b7a0",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Songo Fusion 120",
   "deviceType": "INST",
   "comment": "",

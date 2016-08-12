@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c02a274c-e80f-476c-aaa3-bcc6945220ab",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Pop Samba 118",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6ff4da4b-551d-4701-9d1c-cc1b48e96c49",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "10 Killer B Perc 3rd 888878678+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "eb58291e-3102-4725-bda6-aea8ea9a132c",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Dirty Drums 095",
   "deviceType": "INST",
   "comment": "",

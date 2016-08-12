@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "80ab340e-b0bc-4bcc-be26-aaf882118a04",
   "types": [
-    ["Drum"]
+    ["Drums", "Reggae"],
+    ["Drums", "Dub"]
   ],
-  "modes": ["Reggae", "Dub"],
+  "modes": ["Sample Based"],
   "name": "Pop Reggae 095",
   "deviceType": "INST",
   "comment": "",

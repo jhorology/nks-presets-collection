@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d77c4494-1550-47e7-9628-fb29d8d10c67",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Country Pop 130",
   "deviceType": "INST",
   "comment": "",

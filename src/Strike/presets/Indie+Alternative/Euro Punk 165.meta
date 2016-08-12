@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "eaf9c167-e99c-4eef-ab81-9b7ac6f22ed6",
   "types": [
-    ["Drum"]
+    ["Drums", "Indie"],
+    ["Drums", "Alternative"]
   ],
-  "modes": ["Indie", "Alternative"],
+  "modes": ["Sample Based"],
   "name": "Euro Punk 165",
   "deviceType": "INST",
   "comment": "",

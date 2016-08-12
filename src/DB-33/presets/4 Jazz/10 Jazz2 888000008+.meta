@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c215aa12-22a9-4e07-9197-d9ee13618c66",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "10 Jazz2 888000008+",
   "deviceType": "INST",
   "comment": "",

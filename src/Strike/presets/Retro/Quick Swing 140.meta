@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1cb24284-2fbc-4053-8228-63c596e2a1a3",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Quick Swing 140",
   "deviceType": "INST",
   "comment": "",

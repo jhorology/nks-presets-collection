@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b9747628-4a35-4a21-a72c-3b3c91e34206",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "13 God Old 808808008+",
   "deviceType": "INST",
   "comment": "",

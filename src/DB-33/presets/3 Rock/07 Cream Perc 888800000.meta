@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9330eeb5-9e8d-4d74-b785-decb44013846",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "07 Cream Perc 888800000",
   "deviceType": "INST",
   "comment": "",

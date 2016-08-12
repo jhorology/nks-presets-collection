@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ace7915e-d3a4-4391-b4fb-b21d57f9111d",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Rock Funk 095",
   "deviceType": "INST",
   "comment": "",

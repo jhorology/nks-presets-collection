@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e0c54b79-9397-42aa-a888-ae1924871567",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "03 Belly 886565088",
   "deviceType": "INST",
   "comment": "",

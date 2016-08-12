@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9a94d9ec-a7d5-4cdc-b9cc-f26bdce53b43",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Psy Rock 075",
   "deviceType": "INST",
   "comment": "",

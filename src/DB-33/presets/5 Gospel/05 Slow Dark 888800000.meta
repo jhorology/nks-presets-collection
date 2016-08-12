@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "748580ae-b92c-47a1-b774-9cccb1ab667f",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "05 Slow Dark 888800000",
   "deviceType": "INST",
   "comment": "",

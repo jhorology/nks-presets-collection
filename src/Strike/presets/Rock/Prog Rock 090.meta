@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cf130685-5a7b-42f1-b0e0-57ac7aba838d",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Prog Rock 090",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "829fea8b-eb0e-4d2a-9291-c49bbb99092b",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Lite Shuffle 150",
   "deviceType": "INST",
   "comment": "",

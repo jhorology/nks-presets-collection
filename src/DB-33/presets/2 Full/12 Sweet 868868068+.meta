@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9b52a489-f003-4a79-b631-d41494219068",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "12 Sweet 868868068+",
   "deviceType": "INST",
   "comment": "",

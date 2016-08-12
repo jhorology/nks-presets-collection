@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6d041530-17c4-4e82-834c-6dd99a948bc0",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Preview"],
+  "modes": ["Sample Based", "Preview"],
   "name": "10 Old Monster 888888088",
   "deviceType": "INST",
   "comment": "",

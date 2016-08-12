@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "85ba733a-ca33-4b4d-9268-3141f2d91cb5",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "14 Full High Perc 3rd 888846540+",
   "deviceType": "INST",
   "comment": "",

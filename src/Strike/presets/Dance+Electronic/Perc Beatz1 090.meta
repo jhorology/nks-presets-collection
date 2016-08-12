@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "6d46ed78-81b4-4928-af80-ffcd494e988d",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Perc Beatz1 090",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ee3f83c7-8346-4599-a749-2085a4f481a1",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "13 Drive Perc 3rd 888532100+",
   "deviceType": "INST",
   "comment": "",

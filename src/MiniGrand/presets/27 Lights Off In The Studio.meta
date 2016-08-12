@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "aad40ad7-c9eb-4a3e-afb8-e18ed220fcff",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "27 Lights Off In The Studio",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cab5f4de-8325-4c26-bde1-660ba742e429",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Brit Rock 095",
   "deviceType": "INST",
   "comment": "",

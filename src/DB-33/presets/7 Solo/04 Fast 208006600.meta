@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c9fb18b8-ec60-455d-8df6-8f81addad49f",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "04 Fast 208006600",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e83ff4dd-f435-476a-9c04-6a2f60e392e4",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Straight Rock 140",
   "deviceType": "INST",
   "comment": "",

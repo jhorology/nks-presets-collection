@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a2860b0d-2b3a-402b-954a-9f25b01f709b",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "Urban Beatz 100",
   "deviceType": "INST",
   "comment": "",

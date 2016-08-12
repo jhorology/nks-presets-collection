@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "79c752af-1773-4d18-a55c-0dc69ddd5610",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Slow Blues 055",
   "deviceType": "INST",
   "comment": "",

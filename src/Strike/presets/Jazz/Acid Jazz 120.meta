@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "35d1d8b1-9d31-48b6-ac22-f595b87a7b1a",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Acid Jazz 120",
   "deviceType": "INST",
   "comment": "",

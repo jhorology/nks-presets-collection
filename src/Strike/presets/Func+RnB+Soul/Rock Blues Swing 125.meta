@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "28a99098-ce60-4b77-9e96-5e8d16273e0b",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Rock Blues Swing 125",
   "deviceType": "INST",
   "comment": "",

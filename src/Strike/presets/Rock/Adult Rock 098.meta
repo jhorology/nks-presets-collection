@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ac935775-297d-4677-ada3-4bb90463d35c",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Adult Rock 098",
   "deviceType": "INST",
   "comment": "",

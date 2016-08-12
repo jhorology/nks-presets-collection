@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "e87cef3e-8c88-49dc-aefd-dc332c36db0c",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Retro RnB 135",
   "deviceType": "INST",
   "comment": "",

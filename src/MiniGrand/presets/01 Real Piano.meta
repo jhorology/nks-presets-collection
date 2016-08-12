@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1183ee7c-3e0a-4ad0-b400-a81152e51dcf",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "01 Real Piano",
   "deviceType": "INST",
   "comment": "",

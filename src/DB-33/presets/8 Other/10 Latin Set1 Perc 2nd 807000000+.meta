@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4dc41f4e-5034-4361-b146-cb04483cf43f",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "10 Latin Set1 Perc 2nd 807000000+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f9355d3d-a544-4cbb-acd9-a2f072caf91a",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "14 Wide 866800000+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2e8881fa-bcc5-40d3-bb1c-1ace035fa400",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "12 Hymn1 888400408+",
   "deviceType": "INST",
   "comment": "",

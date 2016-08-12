@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ab62875f-e24a-4527-b8e6-d8f3911395dc",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "House 125",
   "deviceType": "INST",
   "comment": "",

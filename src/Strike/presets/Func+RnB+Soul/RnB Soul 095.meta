@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "2e848cc2-0ab9-4f6d-881c-fd777d9146bb",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "RnB Soul 095",
   "deviceType": "INST",
   "comment": "",

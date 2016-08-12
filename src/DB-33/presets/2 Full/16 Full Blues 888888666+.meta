@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f3416859-4359-4ad6-b3b9-3fefaa7d5294",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "16 Full Blues 888888666+",
   "deviceType": "INST",
   "comment": "",

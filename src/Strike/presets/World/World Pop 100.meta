@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "5e84d0f9-b1ab-4861-a423-997da9fcd97f",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "World Pop 100",
   "deviceType": "INST",
   "comment": "",

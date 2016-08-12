@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "28259921-9ba2-45ef-8e44-c51fdadabf5c",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Preview"],
+  "modes": ["Sample Based", "Preview"],
   "name": "06 Sacral 808800805",
   "deviceType": "INST",
   "comment": "",

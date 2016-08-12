@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1646a6c1-312b-4575-8501-50ee85e65906",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "09 Jazz Perc 3rd 888000000+",
   "deviceType": "INST",
   "comment": "",

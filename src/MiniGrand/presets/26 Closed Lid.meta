@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0072df85-2af6-4bd9-bde0-0be5098f28cb",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "26 Closed Lid",
   "deviceType": "INST",
   "comment": "",

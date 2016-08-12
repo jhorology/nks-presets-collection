@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "09a97489-0c51-48c5-9336-8d50558acbd3",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Jazz Bossa 100",
   "deviceType": "INST",
   "comment": "",

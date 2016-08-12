@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "75c63a4f-372d-4bed-a354-46af77f4250c",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Easy Swing 124",
   "deviceType": "INST",
   "comment": "",

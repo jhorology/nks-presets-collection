@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4f8e1594-3235-41ff-98f0-5414fd0a7fdd",
   "types": [
-    ["Drum"]
+    ["Drums", "Ballad"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based"],
   "name": "Soft Ballad 065",
   "deviceType": "INST",
   "comment": "",

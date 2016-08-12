@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "16e0655a-41cc-4ee9-a94c-4dcc59610af4",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "12 Acid Jazz1 Perc 3rd 888400000+",
   "deviceType": "INST",
   "comment": "",

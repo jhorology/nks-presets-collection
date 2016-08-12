@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "69339794-c6ad-4ac2-8261-116ffd232dda",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Dubstep 140",
   "deviceType": "INST",
   "comment": "",

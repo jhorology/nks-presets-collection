@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "36fa1777-8c59-4b48-9f74-53dd32d39109",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "15 Fat 888000888+",
   "deviceType": "INST",
   "comment": "",

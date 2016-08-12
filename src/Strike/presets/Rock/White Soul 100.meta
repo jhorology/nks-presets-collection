@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "765edbb0-2ecf-4120-931f-f022dd2ddc18",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "White Soul 100",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "43395084-ffec-4a01-9c29-f05cbe342281",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "16 Jazz Ballad 008400000+",
   "deviceType": "INST",
   "comment": "",

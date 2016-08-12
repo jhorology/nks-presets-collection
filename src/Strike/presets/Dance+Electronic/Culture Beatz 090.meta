@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "5a784e8e-83e8-462e-9583-af79a9bbf8f5",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Culture Beatz 090",
   "deviceType": "INST",
   "comment": "",

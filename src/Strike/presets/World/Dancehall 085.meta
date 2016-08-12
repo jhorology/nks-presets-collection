@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d1e5838e-d3c2-445a-bdcf-ea963f73a993",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Dancehall 085",
   "deviceType": "INST",
   "comment": "",

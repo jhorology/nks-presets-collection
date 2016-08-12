@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "38ca1a72-0975-4ade-b0b0-7e677e5ea291",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Rock Shuffle 170",
   "deviceType": "INST",
   "comment": "",

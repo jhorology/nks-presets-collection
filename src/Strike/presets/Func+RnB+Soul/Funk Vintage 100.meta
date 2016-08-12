@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "dcb30020-81c0-4500-80a3-6c23c9ca1091",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Funk Vintage 100",
   "deviceType": "INST",
   "comment": "",

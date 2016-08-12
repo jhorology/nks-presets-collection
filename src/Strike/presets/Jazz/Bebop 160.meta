@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f741d341-df47-4fdd-b7db-05f7e565e8e0",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Bebop 160",
   "deviceType": "INST",
   "comment": "",

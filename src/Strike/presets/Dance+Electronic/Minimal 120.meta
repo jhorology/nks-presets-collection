@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "09d72780-e452-4ef4-bbd4-7b297c6fa622",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Minimal 120",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "ff9a971e-87f1-49e8-9163-d4a34c85ba33",
   "types": [
-    ["Drum"]
+    ["Drums", "Reggae"],
+    ["Drums", "Dub"]
   ],
-  "modes": ["Reggae", "Dub"],
+  "modes": ["Sample Based"],
   "name": "Reggae1 075",
   "deviceType": "INST",
   "comment": "",

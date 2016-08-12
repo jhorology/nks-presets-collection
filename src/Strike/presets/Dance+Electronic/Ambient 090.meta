@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "57450003-f994-4c34-bde2-5dc898ae4674",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Ambient 090",
   "deviceType": "INST",
   "comment": "",

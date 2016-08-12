@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "19a98594-f25b-46bd-8bfd-318ae6a62a54",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Ethno Beat 098",
   "deviceType": "INST",
   "comment": "",

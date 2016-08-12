@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "5d991c1b-b1b3-4c7c-951c-0b8020771de5",
   "types": [
-    ["Drum"]
+    ["Drums", "Heavy"]
   ],
-  "modes": ["Heavy"],
+  "modes": ["Sample Based"],
   "name": "Prog Metal 130",
   "deviceType": "INST",
   "comment": "",

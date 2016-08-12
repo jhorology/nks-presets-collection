@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "7757d4e7-cdd8-4cca-89bd-44be38aadfe3",
   "types": [
-    ["Drum"]
+    ["Drums", "Indie"],
+    ["Drums", "Alternative"]
   ],
-  "modes": ["Indie", "Alternative"],
+  "modes": ["Sample Based"],
   "name": "Punk Rock 120",
   "deviceType": "INST",
   "comment": "",

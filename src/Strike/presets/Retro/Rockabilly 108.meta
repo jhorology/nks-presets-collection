@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e7195085-ac7a-4391-a9a0-064ab9c09c80",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Rockabilly 108",
   "deviceType": "INST",
   "comment": "",

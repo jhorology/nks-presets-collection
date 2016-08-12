@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "adb836fb-8656-4d4c-8715-d2c0b30007cd",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Modern Rock 160",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cf3c5c99-9bd0-4d36-b366-f3076067285c",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Walker 105",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "5ebb78dc-9ae2-4232-86e8-192f3ba51ebc",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Trance 135",
   "deviceType": "INST",
   "comment": "",

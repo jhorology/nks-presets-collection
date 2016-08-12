@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d8dec78d-50f7-43ca-b93f-87404fe7f677",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "02 Slow+Vibr 888000088",
   "deviceType": "INST",
   "comment": "",

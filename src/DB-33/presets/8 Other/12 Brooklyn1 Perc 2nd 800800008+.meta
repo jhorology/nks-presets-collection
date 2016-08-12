@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6bc3bbae-d5a9-4f51-8632-3ed8cc0e7d12",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "12 Brooklyn1 Perc 2nd 800800008+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1f56cc5e-a0ea-42f6-b193-b4a40cd01f02",
   "types": [
-    ["Drum"]
+    ["Drums", "Jazz"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based"],
   "name": "Jazz Samba 110",
   "deviceType": "INST",
   "comment": "",

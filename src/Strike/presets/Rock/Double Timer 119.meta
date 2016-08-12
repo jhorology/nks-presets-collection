@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "43d0126b-5530-4414-a56d-c6e338587eba",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Double Timer 119",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "15f68c6e-b64b-410f-af72-c51b0161a061",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Straight Funk 127",
   "deviceType": "INST",
   "comment": "",

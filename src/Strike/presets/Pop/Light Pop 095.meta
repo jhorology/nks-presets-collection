@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "f5398bec-f422-4791-a168-c89f33da9e50",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Light Pop 095",
   "deviceType": "INST",
   "comment": "",

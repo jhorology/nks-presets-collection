@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "811dd68d-8907-4c71-85bf-e7d750e48b29",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Shuffle 4 Floor 120",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2b527583-6ebf-4d1b-94de-a91e5efcdeef",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "15 Hollow Perc 3rd 022080880+",
   "deviceType": "INST",
   "comment": "",

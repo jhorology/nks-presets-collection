@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7d4d1260-e877-450f-a127-8307059bf516",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "03 Calm Drive 855300003",
   "deviceType": "INST",
   "comment": "",

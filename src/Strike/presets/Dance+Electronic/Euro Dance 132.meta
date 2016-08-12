@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "0a322588-bfca-4fae-b643-7e0565346ad6",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Euro Dance 132",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e24f2c7b-0a2b-4384-b45c-8b277da5c6a4",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "10 Gimme Some 88880048",
   "deviceType": "INST",
   "comment": "",

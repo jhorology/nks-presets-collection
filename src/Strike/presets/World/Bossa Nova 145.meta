@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "06c70f82-f567-465c-bc39-b955e445ef1c",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Bossa Nova 145",
   "deviceType": "INST",
   "comment": "",

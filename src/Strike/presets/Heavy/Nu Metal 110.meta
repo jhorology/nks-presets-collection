@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "dd168e9a-09be-46d9-b2ec-863b919fb77d",
   "types": [
-    ["Drum"]
+    ["Drums", "Heavy"]
   ],
-  "modes": ["Heavy"],
+  "modes": ["Sample Based"],
   "name": "Nu Metal 110",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "60803263-4659-4a0d-86bc-27028c92456f",
   "types": [
-    ["Drum"]
+    ["Drums", "Ballad"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based"],
   "name": "Triplet Ballad 052",
   "deviceType": "INST",
   "comment": "",

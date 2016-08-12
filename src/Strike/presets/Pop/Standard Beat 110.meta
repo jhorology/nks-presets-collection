@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "6f7fbb8a-dbce-4944-b8b7-247a1496942f",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Standard Beat 110",
   "deviceType": "INST",
   "comment": "",

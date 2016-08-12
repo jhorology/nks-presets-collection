@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4e9b6a1e-893f-4c10-bab2-72ab3a7d098f",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Fat Rock 135",
   "deviceType": "INST",
   "comment": "",

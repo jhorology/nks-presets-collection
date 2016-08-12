@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "bed2d9d1-abc6-4056-afc9-2286d4c6d46f",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "07 Impertinent 008008080",
   "deviceType": "INST",
   "comment": "",

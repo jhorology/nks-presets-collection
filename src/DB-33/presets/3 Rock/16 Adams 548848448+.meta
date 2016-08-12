@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ac12fa7a-0db9-4356-8603-e78e85d9d05a",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "16 Adams 548848448+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1c6465e0-fec7-404c-8b1f-cd5307d876b6",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "15 Bright Rock Piano",
   "deviceType": "INST",
   "comment": "",

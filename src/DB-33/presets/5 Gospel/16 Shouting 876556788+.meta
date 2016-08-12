@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "02194959-20b0-44b1-83f8-336692b3709b",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "16 Shouting 876556788+",
   "deviceType": "INST",
   "comment": "",

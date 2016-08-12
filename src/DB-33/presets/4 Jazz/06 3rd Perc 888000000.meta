@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "dc035cbe-ddf1-4578-aea6-8d75161d37ea",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "06 3rd Perc 888000000",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ca8d21ce-8281-45f0-9e8a-99b3f5770edf",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "09 Davys  888888088",
   "deviceType": "INST",
   "comment": "",

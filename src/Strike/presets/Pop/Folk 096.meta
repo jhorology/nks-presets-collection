@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3b26dd8c-3785-4524-a0f4-536b6884cc85",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Folk 096",
   "deviceType": "INST",
   "comment": "",

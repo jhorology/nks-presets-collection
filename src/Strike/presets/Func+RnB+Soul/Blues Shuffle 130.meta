@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "eb9dc628-ec1c-41bc-acc8-6e9ebb9c5d3b",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Blues Shuffle 130",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "52f1d325-7473-4ab8-aa87-29cb3379ef19",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Shuffle 097",
   "deviceType": "INST",
   "comment": "",

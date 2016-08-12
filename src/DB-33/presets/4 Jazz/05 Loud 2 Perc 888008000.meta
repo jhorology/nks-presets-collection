@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1870da71-587d-4280-aee9-1e1198fd9308",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "05 Loud 2 Perc 888008000",
   "deviceType": "INST",
   "comment": "",

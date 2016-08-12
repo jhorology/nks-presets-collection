@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "105807ab-a0c7-49a2-9426-b95a0da30ff7",
   "types": [
-    ["Drum"]
+    ["Drums", "Reggae"],
+    ["Drums", "Dub"]
   ],
-  "modes": ["Reggae", "Dub"],
+  "modes": ["Sample Based"],
   "name": "Straight Reggae 090",
   "deviceType": "INST",
   "comment": "",

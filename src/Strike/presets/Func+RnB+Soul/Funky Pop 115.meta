@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "80e7c13e-2b2a-4a91-9d26-fa9d623143f2",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Funky Pop 115",
   "deviceType": "INST",
   "comment": "",

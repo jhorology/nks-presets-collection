@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7ca1691b-c792-45b4-b109-bde51424258f",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "09 Easy Listening1 808080808+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2e9c996c-472a-4844-bc91-5937ad01cec6",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Power Rock 165",
   "deviceType": "INST",
   "comment": "",

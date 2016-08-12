@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "ecdce967-1f53-4449-8134-cbd33c5a9e86",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Motown Soul 105",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "50053823-975c-4551-8e99-15e98dfbd661",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Downbeat 070",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e83eea53-79f0-49d2-8d68-6ea1fe6d5eaf",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Bolero 110",
   "deviceType": "INST",
   "comment": "",

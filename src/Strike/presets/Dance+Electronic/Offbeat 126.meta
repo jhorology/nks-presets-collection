@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "3e85ec80-0997-41e7-b99a-321cae0ce758",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Offbeat 126",
   "deviceType": "INST",
   "comment": "",

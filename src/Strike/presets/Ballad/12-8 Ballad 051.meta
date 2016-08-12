@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "007ea341-db77-4020-80ac-5c8893f144d5",
   "types": [
-    ["Drum"]
+    ["Drums", "Ballad"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based"],
   "name": "12-8 Ballad 051",
   "deviceType": "INST",
   "comment": "",

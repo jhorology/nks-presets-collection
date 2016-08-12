@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "135bc022-a408-4ec1-b8a1-d3f953fa4e22",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "J-Rock 100",
   "deviceType": "INST",
   "comment": "",

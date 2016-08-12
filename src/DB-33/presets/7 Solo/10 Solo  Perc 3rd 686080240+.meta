@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "862ebdc2-da9f-4537-b148-075e9fa0694b",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "10 Solo  Perc 3rd 686080240+",
   "deviceType": "INST",
   "comment": "",

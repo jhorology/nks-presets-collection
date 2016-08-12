@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "dc033654-86af-4594-be05-9f3c2ef62cd6",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "12 Hole1 Perc 3rd 004480880+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "74195e7f-7ba4-433b-b7ef-113415fa09ad",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "15 Ballad1 734000000+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e6925c1c-a212-46b0-8a40-49644a73e808",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Art Rock 130",
   "deviceType": "INST",
   "comment": "",

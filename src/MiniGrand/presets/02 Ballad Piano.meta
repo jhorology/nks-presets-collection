@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c0a03be6-e643-4009-92e0-58ea4ce676cb",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "02 Ballad Piano",
   "deviceType": "INST",
   "comment": "",

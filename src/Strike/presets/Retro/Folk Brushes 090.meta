@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "9352f36d-318b-4552-bb8c-0b986ca58808",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Folk Brushes 090",
   "deviceType": "INST",
   "comment": "",

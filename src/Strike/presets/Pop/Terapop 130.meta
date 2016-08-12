@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cf3b6d16-69e1-4900-8f58-caa69fb280be",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Terapop 130",
   "deviceType": "INST",
   "comment": "",

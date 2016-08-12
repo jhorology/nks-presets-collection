@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "1c40139d-dd18-4f8b-86df-b603931e4c39",
   "types": [
-    ["Drum"]
+    ["Drums", "Reggae"],
+    ["Drums", "Dub"]
   ],
-  "modes": ["Reggae", "Dub"],
+  "modes": ["Sample Based"],
   "name": "Dub 075",
   "deviceType": "INST",
   "comment": "",

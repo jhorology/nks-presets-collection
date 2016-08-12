@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "b1ddf59d-8be9-44ee-a90c-2e9b385a5ed3",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "06 Loud 2nd Perc 888008088",
   "deviceType": "INST",
   "comment": "",

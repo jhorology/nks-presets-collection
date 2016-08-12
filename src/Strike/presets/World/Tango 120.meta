@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "cc317848-d30c-442f-a9b5-f8671896f4f2",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Tango 120",
   "deviceType": "INST",
   "comment": "",

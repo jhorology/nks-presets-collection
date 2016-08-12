@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "09f2f598-4360-4eed-baf8-f7cb1da4bca0",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "05 Hard Piano",
   "deviceType": "INST",
   "comment": "",

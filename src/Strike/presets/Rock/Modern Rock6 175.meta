@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "fc77cb25-f820-4fb0-8f0b-a6667cb8ee5e",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Modern Rock6 175",
   "deviceType": "INST",
   "comment": "",

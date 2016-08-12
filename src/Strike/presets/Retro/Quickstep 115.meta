@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "53f64c97-bb8f-4723-bd28-6ae7cf35d00f",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Quickstep 115",
   "deviceType": "INST",
   "comment": "",

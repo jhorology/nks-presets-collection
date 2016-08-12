@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "02a3f695-b478-48bf-9ec9-d054a61bbf31",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Southern Soul 125",
   "deviceType": "INST",
   "comment": "",

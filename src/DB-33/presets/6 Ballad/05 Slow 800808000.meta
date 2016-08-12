@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "5648b9ec-a9c0-4814-a131-759ce3b028db",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "05 Slow 800808000",
   "deviceType": "INST",
   "comment": "",

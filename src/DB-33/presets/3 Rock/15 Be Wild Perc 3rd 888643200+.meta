@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "56a2aa50-0fdd-4860-aaa4-f189eb917a2e",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "15 Be Wild Perc 3rd 888643200+",
   "deviceType": "INST",
   "comment": "",

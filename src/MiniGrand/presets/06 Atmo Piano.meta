@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ed6fe0d5-a1fa-414d-8519-47d7648c6341",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "06 Atmo Piano",
   "deviceType": "INST",
   "comment": "",

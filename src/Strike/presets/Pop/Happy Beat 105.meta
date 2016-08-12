@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "5dafaa88-5704-4e23-8513-1cf184a60219",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Happy Beat 105",
   "deviceType": "INST",
   "comment": "",

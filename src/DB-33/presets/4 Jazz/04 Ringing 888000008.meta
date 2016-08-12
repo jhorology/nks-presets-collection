@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "819a8e49-c395-43fb-aa9d-24e03996f7d2",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "04 Ringing 888000008",
   "deviceType": "INST",
   "comment": "",

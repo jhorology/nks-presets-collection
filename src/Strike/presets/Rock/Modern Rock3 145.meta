@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d645ebfc-47c9-4201-9303-3aa988b6cc26",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Modern Rock3 145",
   "deviceType": "INST",
   "comment": "",

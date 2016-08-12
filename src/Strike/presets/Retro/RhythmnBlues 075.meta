@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "61bf8991-c0c4-4378-bd00-3632a767e242",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "RhythmnBlues 075",
   "deviceType": "INST",
   "comment": "",

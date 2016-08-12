@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e1360d0f-5f6a-41f8-96f8-c4eb20b384bb",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Straight Rock2 115",
   "deviceType": "INST",
   "comment": "",

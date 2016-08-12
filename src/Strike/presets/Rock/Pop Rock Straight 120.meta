@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "320758e0-4f5a-4cd3-8606-8e1b3feb350c",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Pop Rock Straight 120",
   "deviceType": "INST",
   "comment": "",

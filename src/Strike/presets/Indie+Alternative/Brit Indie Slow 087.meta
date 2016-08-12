@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "c3dd1e0f-956a-4880-a92b-2dc248bb9c5a",
   "types": [
-    ["Drum"]
+    ["Drums", "Indie"],
+    ["Drums", "Alternative"]
   ],
-  "modes": ["Indie", "Alternative"],
+  "modes": ["Sample Based"],
   "name": "Brit Indie Slow 087",
   "deviceType": "INST",
   "comment": "",

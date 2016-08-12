@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a3c18038-9bf9-4cd8-a992-4c90b0be0341",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Beguine 095",
   "deviceType": "INST",
   "comment": "",

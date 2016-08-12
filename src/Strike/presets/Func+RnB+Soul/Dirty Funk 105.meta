@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "f85913f3-c2e2-45bb-8142-8560dc30cc17",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Dirty Funk 105",
   "deviceType": "INST",
   "comment": "",

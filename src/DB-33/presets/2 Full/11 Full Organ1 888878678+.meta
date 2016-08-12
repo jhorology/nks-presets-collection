@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "2e32aeed-f6d9-4979-bf43-5442faa7bd25",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Full"],
+  "modes": ["Sample Based", "Full"],
   "name": "11 Full Organ1 888878678+",
   "deviceType": "INST",
   "comment": "",

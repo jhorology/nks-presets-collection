@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4b883a13-a580-4266-9b00-eab1e1ecbe8c",
   "types": [
-    ["Drum"]
+    ["Drums", "Heavy"]
   ],
-  "modes": ["Heavy"],
+  "modes": ["Sample Based"],
   "name": "Metal2 130",
   "deviceType": "INST",
   "comment": "",

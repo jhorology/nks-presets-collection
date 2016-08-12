@@ -448,6 +448,7 @@ gulp.task 'dist', [
   'db33-dist'
   'minigrand-dist'
   'analoglab2-dist'
+  'hive-dist'
 ]
 
 gulp.task 'deploy', [
@@ -465,6 +466,7 @@ gulp.task 'deploy', [
   'db33-deploy'
   'minigrand-deploy'
   'analoglab2-deploy'
+  'hive-deploy'
 ]
 
 gulp.task 'release', [
@@ -482,6 +484,7 @@ gulp.task 'release', [
   'db33-release'
   'minigrand-release'
   'analoglab2-release'
+  'hive-release'
 ]
 
 # Air Music Technology Velvet
@@ -1760,10 +1763,9 @@ gulp.task 'strike-generate-meta', ->
       meta =
         vendor: $.Strike.vendor
         uuid: _uuid file
-        types: [
-          ['Drum']
-        ]
-        modes: folder.split '+'
+        types: for t in folder.split '+'
+          ['Drums', t]
+        modes: ['Sample Based']
         name: basename
         deviceType: 'INST'
         comment: ''
@@ -1884,9 +1886,9 @@ gulp.task 'db33-generate-meta', ->
         vendor: $.DB_33.vendor
         uuid: _uuid file
         types: [
-          ['Organ']
+          ['Organ', 'Electric Organ']
         ]
-        modes: [folder[2..]]
+        modes: ['Sample Based', folder[2..]]
         name: basename
         deviceType: 'INST'
         comment: ''
@@ -2007,9 +2009,9 @@ gulp.task 'minigrand-generate-meta', ->
         vendor: $.MiniGrand.vendor
         uuid: _uuid file
         types: [
-          ['Piano']
+          ['Piano/Keys', 'Grand Piano']
         ]
-        modes: []
+        modes: ['Sample Based']
         name: basename
         deviceType: 'INST'
         comment: ''
@@ -4056,13 +4058,17 @@ _extract_raw_presets = (srcs, dest) ->
 
 # copy image resources to dist folder
 _dist_image = (dir, vendor) ->
+  d = _normalizeDirname dir.toLowerCase()
+  v = vendor.toLowerCase()
   gulp.src ["src/#{dir}/resources/image/**/*.{json,meta,png}"]
-    .pipe gulp.dest "dist/#{dir}/NI Resources/image/#{vendor.toLowerCase()}/#{_normalizeDirname dir.toLowerCase()}"
+    .pipe gulp.dest "dist/#{dir}/NI Resources/image/#{v}/#{d}"
 
 # copy database resources to dist folder
 _dist_database = (dir, vendor) ->
+  d = _normalizeDirname dir.toLowerCase()
+  v = vendor.toLowerCase()
   gulp.src ["src/#{dir}/resources/dist_database/**/*.{json,meta,png}"]
-    .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{vendor.toLowerCase()}/#{_normalizeDirname dir.toLowerCase()}"
+    .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{v}/#{d}"
 
 # build presets file to dist folder
 # callback(file) optional, provide per preset mapping filepath.

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3e479239-746a-46ea-8345-f8426659a438",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Bounce 175",
   "deviceType": "INST",
   "comment": "",

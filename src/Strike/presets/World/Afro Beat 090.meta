@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "86db5b3d-3553-4787-bec5-0f029b2feb30",
   "types": [
-    ["Drum"]
+    ["Drums", "World"]
   ],
-  "modes": ["World"],
+  "modes": ["Sample Based"],
   "name": "Afro Beat 090",
   "deviceType": "INST",
   "comment": "",

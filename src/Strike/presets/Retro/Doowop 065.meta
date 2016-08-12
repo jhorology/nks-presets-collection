@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "22462fc8-d5eb-4b64-81c2-d6eeb3fd2f04",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Doowop 065",
   "deviceType": "INST",
   "comment": "",

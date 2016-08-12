@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "e967b430-9b8b-4345-bf4a-0b6e94fa3d06",
   "types": [
-    ["Drum"]
+    ["Drums", "Indie"],
+    ["Drums", "Alternative"]
   ],
-  "modes": ["Indie", "Alternative"],
+  "modes": ["Sample Based"],
   "name": "Alternative 155",
   "deviceType": "INST",
   "comment": "",

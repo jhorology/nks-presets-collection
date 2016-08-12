@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "eb4572f7-cee9-4eeb-8363-76b73e56dfc5",
   "types": [
-    ["Drum"]
+    ["Drums", "Pop"]
   ],
-  "modes": ["Pop"],
+  "modes": ["Sample Based"],
   "name": "Four On Floor 120",
   "deviceType": "INST",
   "comment": "",

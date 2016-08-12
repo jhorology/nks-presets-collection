@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1f5e168b-c0d6-447b-8d1d-17fb46e1cadb",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "06 Odd Harm 880080880",
   "deviceType": "INST",
   "comment": "",

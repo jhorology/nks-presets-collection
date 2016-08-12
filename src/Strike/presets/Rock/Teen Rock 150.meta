@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "7b79e009-87c6-486f-94be-a8dd2afafe07",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Teen Rock 150",
   "deviceType": "INST",
   "comment": "",

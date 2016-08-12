@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "6d0c74ad-8e58-445e-af22-1fa939dbd0b3",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Hard Funk 090",
   "deviceType": "INST",
   "comment": "",

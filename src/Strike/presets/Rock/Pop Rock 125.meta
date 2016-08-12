@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c22fb42a-c8aa-4629-bbea-bd1c54f4a793",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Pop Rock 125",
   "deviceType": "INST",
   "comment": "",

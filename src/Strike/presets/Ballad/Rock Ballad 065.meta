@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "c53cbe39-80cd-4706-8345-9812f1da98a1",
   "types": [
-    ["Drum"]
+    ["Drums", "Ballad"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based"],
   "name": "Rock Ballad 065",
   "deviceType": "INST",
   "comment": "",

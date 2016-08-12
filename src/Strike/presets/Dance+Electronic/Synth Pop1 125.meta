@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "dea26084-0b3a-41e9-a113-acaf00182015",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Synth Pop1 125",
   "deviceType": "INST",
   "comment": "",

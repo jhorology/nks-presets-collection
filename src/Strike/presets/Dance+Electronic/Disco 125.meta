@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "f90e9600-5aad-4c51-9af0-04662cf2eeac",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Disco 125",
   "deviceType": "INST",
   "comment": "",

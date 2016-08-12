@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "06708b98-3070-4f5c-ac27-2dfe8d0428e0",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "12 Rock2 Perc 3rd 888802002+",
   "deviceType": "INST",
   "comment": "",

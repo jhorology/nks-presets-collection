@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "2af1f39a-9daf-4392-840e-adff0a3247ca",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Swamp Funk 095",
   "deviceType": "INST",
   "comment": "",

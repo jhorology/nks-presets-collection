@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "3e097b37-bcf9-4859-a92b-e103720334c6",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Chem Beats 095",
   "deviceType": "INST",
   "comment": "",

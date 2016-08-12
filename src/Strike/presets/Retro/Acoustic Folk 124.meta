@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e4ca3770-be64-41af-b19f-6043a03cdbd1",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Acoustic Folk 124",
   "deviceType": "INST",
   "comment": "",

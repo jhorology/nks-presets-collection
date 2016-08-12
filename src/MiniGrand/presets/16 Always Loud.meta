@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3d991456-1dbf-438c-89a9-34cb69f1cd35",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "16 Always Loud",
   "deviceType": "INST",
   "comment": "",

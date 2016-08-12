@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4941b844-4b0a-4749-b899-22672115ecbd",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "06 Fast+Vib 886300088",
   "deviceType": "INST",
   "comment": "",

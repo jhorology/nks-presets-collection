@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "3ef8ec30-12b4-4496-b4c9-fba16e9b8142",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Electric Echo 118",
   "deviceType": "INST",
   "comment": "",

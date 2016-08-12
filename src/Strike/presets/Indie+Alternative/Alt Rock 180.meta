@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "884d5a32-ee91-454e-889a-41ad1cc64ba5",
   "types": [
-    ["Drum"]
+    ["Drums", "Indie"],
+    ["Drums", "Alternative"]
   ],
-  "modes": ["Indie", "Alternative"],
+  "modes": ["Sample Based"],
   "name": "Alt Rock 180",
   "deviceType": "INST",
   "comment": "",

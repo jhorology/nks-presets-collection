@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "689f0659-6746-4912-9bfe-18cbd73fd49a",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "13 Alone Perc 2nd 007740034+",
   "deviceType": "INST",
   "comment": "",

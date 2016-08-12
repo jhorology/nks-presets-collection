@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "ad5030ea-a3c1-43eb-92ec-d68035e3da14",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "15 Appointed Perc 2nd 008800000+",
   "deviceType": "INST",
   "comment": "",

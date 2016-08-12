@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "4eb48393-9ec3-417c-86e0-3b92e85a1066",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Country Train 168",
   "deviceType": "INST",
   "comment": "",

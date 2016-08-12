@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0b448ddc-1eea-4740-9aa9-fa5c65c2e986",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "08 Hollow 2nd 880400000",
   "deviceType": "INST",
   "comment": "",

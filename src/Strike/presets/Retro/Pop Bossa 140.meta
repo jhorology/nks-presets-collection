@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "43415708-29ff-4f03-a909-2d1b200c0f9f",
   "types": [
-    ["Drum"]
+    ["Drums", "Retro"]
   ],
-  "modes": ["Retro"],
+  "modes": ["Sample Based"],
   "name": "Pop Bossa 140",
   "deviceType": "INST",
   "comment": "",

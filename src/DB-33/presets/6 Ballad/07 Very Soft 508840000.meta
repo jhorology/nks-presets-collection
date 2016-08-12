@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3242fda3-c867-478b-b170-30e2127669f5",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "07 Very Soft 508840000",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "7468445d-c4fa-4932-912b-255150bf588f",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "London Soul 075",
   "deviceType": "INST",
   "comment": "",

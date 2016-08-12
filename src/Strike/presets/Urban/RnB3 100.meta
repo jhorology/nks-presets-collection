@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "d54af93c-2dfd-4d28-b0da-b911cf3086af",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "RnB3 100",
   "deviceType": "INST",
   "comment": "",

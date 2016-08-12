@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "7b65f398-347c-4655-b061-74ccc8294031",
   "types": [
-    ["Drum"]
+    ["Drums", "Indie"],
+    ["Drums", "Alternative"]
   ],
-  "modes": ["Indie", "Alternative"],
+  "modes": ["Sample Based"],
   "name": "Polar Rock 165",
   "deviceType": "INST",
   "comment": "",

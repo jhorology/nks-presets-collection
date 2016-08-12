@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "988457fa-a62e-48a7-9fcd-1e4d4f334bb6",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Gospel 098",
   "deviceType": "INST",
   "comment": "",

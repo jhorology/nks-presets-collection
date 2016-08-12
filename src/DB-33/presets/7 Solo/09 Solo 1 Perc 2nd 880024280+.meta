@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "22e8daec-b093-4f01-98ad-ac7dcedad36e",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Solo"],
+  "modes": ["Sample Based", "Solo"],
   "name": "09 Solo 1 Perc 2nd 880024280+",
   "deviceType": "INST",
   "comment": "",

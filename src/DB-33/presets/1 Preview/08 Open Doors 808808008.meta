@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "012f4f31-d3ac-41e3-aa74-ee2cfbf6eca0",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Preview"],
+  "modes": ["Sample Based", "Preview"],
   "name": "08 Open Doors 808808008",
   "deviceType": "INST",
   "comment": "",

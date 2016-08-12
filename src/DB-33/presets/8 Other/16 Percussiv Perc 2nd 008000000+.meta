@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "1681177a-650d-47b6-890a-10dd916a3cdd",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "16 Percussiv Perc 2nd 008000000+",
   "deviceType": "INST",
   "comment": "",

@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "a6574a65-63b4-4b4e-8d94-d338ca9bf974",
   "types": [
-    ["Drum"]
+    ["Drums", "Rock"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based"],
   "name": "Straight Rock3 150",
   "deviceType": "INST",
   "comment": "",

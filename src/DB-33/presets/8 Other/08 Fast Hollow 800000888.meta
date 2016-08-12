@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3b960b08-52f8-4d1f-9b23-cffcf764b709",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Other"],
+  "modes": ["Sample Based", "Other"],
   "name": "08 Fast Hollow 800000888",
   "deviceType": "INST",
   "comment": "",

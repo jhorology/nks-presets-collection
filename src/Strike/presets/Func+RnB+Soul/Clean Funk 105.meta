@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "58dd5265-d626-45f5-996a-23dd84c50392",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Clean Funk 105",
   "deviceType": "INST",
   "comment": "",

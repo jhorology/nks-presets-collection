@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "373d1c3a-6dc8-4872-8eb4-2f8ac080f509",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "04 Half Driven 407606000",
   "deviceType": "INST",
   "comment": "",

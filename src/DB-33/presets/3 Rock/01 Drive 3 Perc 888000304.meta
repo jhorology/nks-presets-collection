@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0cdb8f9a-8d67-40cc-91ef-9e2f48598824",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Rock"],
+  "modes": ["Sample Based", "Rock"],
   "name": "01 Drive 3 Perc 888000304",
   "deviceType": "INST",
   "comment": "",

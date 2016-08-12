@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "1837549f-c054-41f2-9bc4-6e1bafd5c3d9",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Dubstep 070",
   "deviceType": "INST",
   "comment": "",

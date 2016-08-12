@@ -2,9 +2,11 @@
   "vendor": "Air Music Technology",
   "uuid": "d7cb62c8-86ee-4de6-ad32-233510e0eb22",
   "types": [
-    ["Drum"]
+    ["Drums", "Func"],
+    ["Drums", "RnB"],
+    ["Drums", "Soul"]
   ],
-  "modes": ["Func", "RnB", "Soul"],
+  "modes": ["Sample Based"],
   "name": "Soul Funk 090",
   "deviceType": "INST",
   "comment": "",

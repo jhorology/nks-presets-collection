@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3d1df489-0a32-4c24-b6df-a85a13c26c0a",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Ballad"],
+  "modes": ["Sample Based", "Ballad"],
   "name": "11 Piano1 Perc 2nd 800000002+",
   "deviceType": "INST",
   "comment": "",

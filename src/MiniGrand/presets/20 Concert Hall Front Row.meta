@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "0e0d21e8-4dd0-4aef-93f5-f6d0d0f998ea",
   "types": [
-    ["Piano"]
+    ["Piano/Keys", "Grand Piano"]
   ],
-  "modes": [],
+  "modes": ["Sample Based"],
   "name": "20 Concert Hall Front Row",
   "deviceType": "INST",
   "comment": "",

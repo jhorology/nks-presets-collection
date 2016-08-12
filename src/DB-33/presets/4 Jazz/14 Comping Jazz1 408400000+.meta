@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "559b6f1b-bbbc-490c-8929-8c19e5383aa4",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Jazz"],
+  "modes": ["Sample Based", "Jazz"],
   "name": "14 Comping Jazz1 408400000+",
   "deviceType": "INST",
   "comment": "",

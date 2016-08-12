@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "19e57b9f-46c0-4c1b-8d5e-986a2237ae5e",
   "types": [
-    ["Drum"]
+    ["Drums", "Heavy"]
   ],
-  "modes": ["Heavy"],
+  "modes": ["Sample Based"],
   "name": "Heavy Metal 135",
   "deviceType": "INST",
   "comment": "",

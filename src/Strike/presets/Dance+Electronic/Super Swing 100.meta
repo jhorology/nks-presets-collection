@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "908e33fa-124f-4fb9-9fb0-4b6cda1e5bed",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Super Swing 100",
   "deviceType": "INST",
   "comment": "",

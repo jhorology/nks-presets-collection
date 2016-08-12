@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "3fe7740f-d6a2-4c56-a1c7-8d2a845e43d8",
   "types": [
-    ["Organ"]
+    ["Organ", "Electric Organ"]
   ],
-  "modes": ["Gospel"],
+  "modes": ["Sample Based", "Gospel"],
   "name": "09 Fast+Vibr 888000008",
   "deviceType": "INST",
   "comment": "",

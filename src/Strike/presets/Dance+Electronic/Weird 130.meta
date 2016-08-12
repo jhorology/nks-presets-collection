@@ -2,9 +2,10 @@
   "vendor": "Air Music Technology",
   "uuid": "362f1e71-d0f2-40e1-bf0d-9f04ec506086",
   "types": [
-    ["Drum"]
+    ["Drums", "Dance"],
+    ["Drums", "Electronic"]
   ],
-  "modes": ["Dance", "Electronic"],
+  "modes": ["Sample Based"],
   "name": "Weird 130",
   "deviceType": "INST",
   "comment": "",

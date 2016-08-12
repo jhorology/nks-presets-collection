@@ -2,9 +2,9 @@
   "vendor": "Air Music Technology",
   "uuid": "e306e865-5760-489d-ba48-4096e8bf64f6",
   "types": [
-    ["Drum"]
+    ["Drums", "Urban"]
   ],
-  "modes": ["Urban"],
+  "modes": ["Sample Based"],
   "name": "Triplet Trip 105",
   "deviceType": "INST",
   "comment": "",
