@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ee4d42a7-81de-4078-8d3c-c53ac8421041",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "TAS Zipper",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "For weird rhythms, change LFO rates\nUsage:\nMW = resonance\rAT = bit more noise\rPB = speed"
+}

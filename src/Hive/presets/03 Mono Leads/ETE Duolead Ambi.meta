@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "99c261af-e7d5-4bcb-9930-119989a35601",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Duolead Ambi",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Layered weirdness :-)\nUsage:\nMW = vibrato\rAT = bend"
+}

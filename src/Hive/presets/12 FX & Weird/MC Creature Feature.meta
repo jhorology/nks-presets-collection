@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8df2a1bf-c4ae-4c43-907d-744222f1cd3c",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "MC Creature Feature",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = warp\nAT = resonant swoop\nPW+ = slower attack"
+}

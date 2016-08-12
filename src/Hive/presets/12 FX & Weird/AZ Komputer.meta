@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "aec29ce8-6d5a-42a4-9ec7-9869e5879992",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "AZ Komputer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = LFO speed"
+}

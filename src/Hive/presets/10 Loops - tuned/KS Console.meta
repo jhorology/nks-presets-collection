@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "78b7c969-9e23-4e76-99fa-73c044c56386",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "KS Console",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "MW = thinner\nAT = more noise"
+}

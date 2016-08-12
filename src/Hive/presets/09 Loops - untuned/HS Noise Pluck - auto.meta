@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4bd0dae3-f67d-448b-aca3-0f8922fb26af",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Noise Pluck - auto",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Use wheels and aftertouch\nUsage:\nMW = attack\rBC = room\rAT = dampen down"
+}

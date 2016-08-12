@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a23a2a20-2d03-4946-93a8-5ca8e0695174",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Boot Camp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try Normal mode, Phaser\nUsage:\nMW = cutoff\nAT = resonance\nPB = chorus, osc mix"
+}

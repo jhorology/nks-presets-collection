@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f982d666-2cfc-4913-a5d5-d3c49efd8366",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Tube Perc",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Try low chord + single high note\nUsage:\nMW = add octave down\rAT = delay mix, detune (subtle)"
+}

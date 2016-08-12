@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "184e1e72-3971-41f7-b240-c855a5418cfe",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "XS Laser Wobbles",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = wobble rate"
+}

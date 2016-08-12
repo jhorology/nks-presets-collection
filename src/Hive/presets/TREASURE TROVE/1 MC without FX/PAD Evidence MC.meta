@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "1a8659a6-be99-474b-b102-83075037b3e7",
+  "types": [],
+  "modes": [],
+  "name": "PAD Evidence MC",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "1 MC without FX"],
+  "author": "Michael Cavallo",
+  "comment": "MW=Closes Filter\rAT=Vibrato\rPW=Osc1 Only\rVEL=Hold Down notes while softly playing to get a variation with less cutoff.\nUsage:\nTry turning ON FILT1 for sharper attack"
+}

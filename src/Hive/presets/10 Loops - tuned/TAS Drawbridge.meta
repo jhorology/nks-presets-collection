@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b5d7dec3-d525-4784-955a-33d8228e76c2",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Drawbridge",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try different LFO rates\nUsage:\nMW = cutoff\nAT = 2nd layer"
+}

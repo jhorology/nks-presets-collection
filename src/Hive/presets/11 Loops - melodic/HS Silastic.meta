@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fe4e5757-7467-4de3-85a7-a29e9b2cd3e0",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Silastic",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW / PB = cutoff\rAT = resonance\rBC = lose reverb\rXP = random plucks"
+}

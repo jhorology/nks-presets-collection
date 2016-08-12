@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0ddfbff8-2d29-41f8-9288-ac23e9f1040b",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Demonished",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nPB = cutoff\rMW = bend\rBC = extra bite\rAT = LFO rate"
+}

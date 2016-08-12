@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f3154374-0711-4d3c-a7b5-24dc04e1f33c",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Metalwaltzmaschine",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = detune\rBC = glitch (keep moving)\rXP = soften"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "779c4b12-4c5b-45bb-b9d3-cdb7ce7b5eb3",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Creeper Pulse",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try activating Distortion\nUsage:\nMW = from noise to bleeps\rAT = cutoff"
+}

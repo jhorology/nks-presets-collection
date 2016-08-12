@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5dc2b208-f501-4f0c-ab12-a623205a71b7",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Base 80",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = vibrato\rBC = cutoff\rXP = resonance\rAT = accent"
+}

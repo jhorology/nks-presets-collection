@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7b3cbdb3-2e32-4279-9389-c4502b28048b",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ARK Passing Comet",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Swirling PWM pad\nUsage:\nMW = thinner\nAT = resonance"
+}

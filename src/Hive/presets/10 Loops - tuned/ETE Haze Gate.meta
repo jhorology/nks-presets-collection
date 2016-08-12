@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "05307154-06e2-4da5-a563-825dc1c0e96e",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Haze Gate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Mellow gated pad\nUsage:\nMW or AT = cutoff"
+}

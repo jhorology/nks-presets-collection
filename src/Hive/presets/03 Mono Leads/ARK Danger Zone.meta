@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1ef01c2a-6b37-4b87-9a2c-39206046db79",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ARK Danger Zone",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Very dirty distorted sound\nUsage:\nMW = cutoff\rAT = harmonic shift"
+}

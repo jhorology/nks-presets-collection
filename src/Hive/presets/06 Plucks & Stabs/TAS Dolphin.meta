@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "edd37183-7525-4892-8008-5e67380b3f36",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "TAS Dolphin",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try switching to Dirty mode\nUsage:\nMW = cutoff\nBC = add high osc"
+}

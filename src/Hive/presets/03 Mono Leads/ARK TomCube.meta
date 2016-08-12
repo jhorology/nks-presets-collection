@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a5c13fcc-8459-4efb-bfd2-8b29953a6d84",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ARK TomCube",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "E-tom / detuned square\nUsage:\nMW = distortion (lower octave)\rAT = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d0996cd6-126f-4074-9671-15043fc135b1",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS 90s Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff"
+}

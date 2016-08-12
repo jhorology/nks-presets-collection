@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "09731bc7-e48e-4540-9ced-0d92cc9f8ae0",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Red Sprites",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = corrode\rAT = sustain"
+}

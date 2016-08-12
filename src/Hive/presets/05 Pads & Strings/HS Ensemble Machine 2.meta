@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6aee2b73-40f8-41e9-a356-e4ed25a1203f",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Ensemble Machine 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Retro string machine\nUsage:\nMW = x-fade to 'piano'\rBC = soften"
+}

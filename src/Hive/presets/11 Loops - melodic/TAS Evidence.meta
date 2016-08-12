@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8f6e9ff5-7695-4a28-92a3-152cd73befd4",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "TAS Evidence",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\nAT = add sub\rPB+ = growl"
+}

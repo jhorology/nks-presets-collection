@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7a8cae2b-a82b-41a1-9bda-9514ddb069df",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "XS Dirty Chords",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\rXP = major to minor"
+}

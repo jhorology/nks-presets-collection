@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "12094cc6-9c57-484f-9850-762af3c3be01",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Junrunner",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Try broken chords\nUsage:\nMW = tone\rAT = 2nd layer cutoff"
+}

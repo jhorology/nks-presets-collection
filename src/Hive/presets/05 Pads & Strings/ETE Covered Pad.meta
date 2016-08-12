@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ca6b18e0-3aca-4914-8991-612de3f1d920",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Covered Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Smooth pad\nUsage:\nMW or AT = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b80c4012-e128-4d46-babd-e30d522ef9d9",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "MC Harvest",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = darken\nAT = tremolo\nPB = detune"
+}

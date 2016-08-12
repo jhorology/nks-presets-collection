@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4f344dc1-5a88-4d3c-9b0a-956d55d75967",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Stepped Gater",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = brighter\rAT = darker"
+}

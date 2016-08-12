@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "811a187a-d6cc-4797-b936-a276f6348528",
+  "types": [],
+  "modes": [],
+  "name": "PAD Modern MC",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "1 MC without FX"],
+  "author": "Michael Cavallo",
+  "comment": "MW=Shorter Release - Detune\rAT= Closes FIlter\rPW= Detune\rVEL=Faster Attack\nUsage:\nTry turning ON FILT1 -right side filt2 section - for sharper attack"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ecf3e1c3-18e6-4833-bf5f-312719d1f633",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "TAS Night Rider",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = chop\rAT = resonance\nPB = cutoff"
+}

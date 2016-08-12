@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e873e230-3873-436b-9853-723c8b2d5389",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ST Resonant Splash",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "A resonant splash with some reverb.\rUse as a sort of crash, for example.\nUsage:\nMW = invert\rBC = attack"
+}

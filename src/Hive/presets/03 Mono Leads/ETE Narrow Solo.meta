@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "37b8e7f3-84e5-4d90-a362-fe38ab8c1387",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Narrow Solo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Retro solo\nUsage:\nMW = vibrato\nAT = pitch"
+}

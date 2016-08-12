@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "43e46187-72b4-4608-abe1-0d907caaf188",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "MC Humpback",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\nAT = vibrato, cutoff\nUsage:\nTry OSC2 and SUB2 On in FILT1"
+}

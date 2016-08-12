@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d232d215-c7b8-428d-a6ef-2ff70d04cf5c",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "XS Down and Dirty",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Velocity-sensitive\nUsage:\nMW = cutoff\rXP = pulse width\rAT = fast wobble"
+}

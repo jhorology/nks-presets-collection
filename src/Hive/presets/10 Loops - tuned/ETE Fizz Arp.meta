@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "320d8a7a-faa5-4bb6-a18d-d7a1281f364c",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Fizz Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff\rAT = shorten"
+}

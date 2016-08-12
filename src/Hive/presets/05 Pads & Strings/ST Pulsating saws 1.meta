@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c407b698-e733-4264-b6c7-794d8effe829",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ST Pulsating saws 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "Saw + pulse, slow rolling effect\nUsage:\nMW = soften"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8f4e9978-9e52-4170-9672-882f9458e7d5",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Fluffy Strings",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = cutoff\rBC = chorus mix / rate"
+}

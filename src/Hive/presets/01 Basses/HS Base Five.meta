@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "26a19fac-e0c0-4f23-9433-02a37ffb481b",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Base Five",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = cutoff\rBC = less 5th\rAT = vibrato\rXP = small cab distortion"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0bc06743-549f-4959-825a-826c2854c421",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "HS KlickTone",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Also try arp and/or seq\nUsage:\nMW = tone\nBC = release!"
+}

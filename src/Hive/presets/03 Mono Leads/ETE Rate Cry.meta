@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "cbded9ce-7c3d-4e7f-aa20-22b725343fe4",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Rate Cry",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Corroded duophonic lead, slow glide.\nUsage:\nMW = vibrato\nAT = pitch"
+}

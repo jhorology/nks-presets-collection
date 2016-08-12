@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e80efb23-a2ab-4b70-ba69-0394cc0cd42e",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "AZ Machine City",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Push mod wheel for smoother 'padding'\nUsage:\nMW = less detune"
+}

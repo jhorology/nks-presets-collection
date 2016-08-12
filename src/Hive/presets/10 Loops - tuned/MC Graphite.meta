@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "34dbc04a-d575-402e-b3f7-3511690d28ce",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "MC Graphite",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = resonance\rAT = detune"
+}

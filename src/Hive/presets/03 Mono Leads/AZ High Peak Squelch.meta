@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c07ac8a0-7afe-4171-91e1-c62b5ceb0f9c",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ High Peak Squelch",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Try activating Hive's sequencer\nUsage:\nMW = vibrato"
+}

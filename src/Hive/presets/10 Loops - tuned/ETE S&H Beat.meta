@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "37abbfee-74ab-4ff2-89a3-3743d89a958a",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE S&H Beat",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Kick + bass + S&H effect\nUsage:\nMW = cutoff, bite\rAT = S+H resonance"
+}

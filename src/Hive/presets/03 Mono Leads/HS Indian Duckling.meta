@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d4a30576-d398-4e06-b235-fc2f63775aa5",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Indian Duckling",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Effect ducking during notes\nUsage:\nAT = vibrato\rMW = tone\rBC = release\rXP = sub"
+}

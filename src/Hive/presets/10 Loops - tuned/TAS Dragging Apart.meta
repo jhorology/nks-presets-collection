@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "74118ae0-bc97-4543-9111-35282cd36fa5",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Dragging Apart",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\nAT = resonance\nPB = LFO rate"
+}

@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "37acdf15-f8aa-4550-97f8-446c62f884e3",
+  "types": [],
+  "modes": [],
+  "name": "exm - Pluck 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "Pluck patch\r\n\r\nMW: LFO to Cutoff, extra detune OSC 1 + 2"
+}

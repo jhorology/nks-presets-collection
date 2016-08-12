@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1423201d-ce2d-4585-a203-72f25bf2898d",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Sub-30",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Primitive mono\rTry activating the stairwell reverb\nUsage:\nMW = cutoff, chorus\rAT = vibrato, wobble\rBC = tune offset\rXP = PWM"
+}

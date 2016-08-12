@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f5e1c5f9-365f-4b8d-b39f-4fe0df4bd881",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "XS Trap Stepper",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff, less wobble\nAT = wobble rate"
+}

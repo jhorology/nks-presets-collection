@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "466d2586-90da-4281-abbb-6ba8cf3294c5",
+  "types": [],
+  "modes": [],
+  "name": "Cymbals",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Photonic"],
+  "author": "Photonic",
+  "comment": "Cymbals and crashes\nUsage:\nModWheel = brighter sound by EQ\r\nVelocity = volume\r\nKeyFollow = more or less attack"
+}

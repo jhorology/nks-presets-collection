@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c1a25771-31e0-4fb7-8d6c-8aedbfd7b086",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Yeppy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Velocity-sensitive attack\nUsage:\nMW = attack\nAT = vibrato, resonant sweep\nPB = detune"
+}

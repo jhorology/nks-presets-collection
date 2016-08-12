@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d4255d27-8c7a-49e7-97c5-8ccb6facf179",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "AZ Shore",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

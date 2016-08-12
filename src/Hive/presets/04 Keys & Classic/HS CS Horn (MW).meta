@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ccb760fc-b140-4774-81fa-81c5c02a4330",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS CS Horn (MW)",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Move the mod wheel while playing\nUsage:\nMW = vibrato\rAT = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ae5c61e9-c542-44e1-8804-796fab464f5e",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Massive Ambisine",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Sine atmosphere with a huge reverb\nUsage:\nMW = vibrato\rAT = bend"
+}

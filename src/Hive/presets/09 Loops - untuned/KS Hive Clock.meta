@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f6e542d9-2519-431f-b10e-8b8f7bac5d94",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "KS Hive Clock",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT= thinner\rMW = room"
+}

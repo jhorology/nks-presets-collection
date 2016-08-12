@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "61de8096-6141-4ba9-b7d0-9f44edebb3cf",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Wallflower",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rAT = wahwah"
+}

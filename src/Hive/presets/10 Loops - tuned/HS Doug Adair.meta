@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "02c46bbe-fe58-443d-a1df-b883ed097277",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Doug Adair",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Also try sequencer 'Steps' 8 or 16\nUsage:\nMW = reverb & phaser mix\rBC = lose lower oscillator\rXP = soften (EQ)"
+}

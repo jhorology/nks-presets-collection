@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "182add53-7d33-4d75-b76d-074f76970fb7",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Grumpet",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = tone, room mix\rBC = reverb\rAT = vibrato"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d30ec8fa-d03f-4ff1-abb3-f8e8259a1179",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "AZ Skyline",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

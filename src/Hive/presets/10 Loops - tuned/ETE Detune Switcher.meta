@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f3283da7-885a-4d3b-8933-1acbedd0353f",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Detune Switcher",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff\rAT = resonance"
+}

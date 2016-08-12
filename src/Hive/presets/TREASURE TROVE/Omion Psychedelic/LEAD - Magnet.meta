@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "32377194-6ff7-4a2f-8ae2-cb3dad44c73d",
+  "types": [],
+  "modes": [],
+  "name": "LEAD - Magnet",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Omion Psychedelic"],
+  "author": "Omion",
+  "comment": "Simple bandpass patch\r\nShort decay\nUsage:\nModwheel :\r\nOpen filter\r\nRise amp 1 decay & release\r\nIncrease / decrease filter volume\r\n"
+}

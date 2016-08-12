@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c361f326-6652-4851-81f2-7549988844bf",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Floating",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Ambient vocal-ish pad\nUsage:\nMW = vibrato\rAT = bend"
+}

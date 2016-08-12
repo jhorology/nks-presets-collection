@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f9fed469-e122-4ab0-af6a-afa0ba286c8e",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Bronze - hard",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Try activating the arp and sequencer\nUsage:\nMW = cutoff\rBC = tone\rXP = simplify"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3e5df890-c124-48d0-a58f-0c9da782d9ec",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Modern",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Velocity-sensitive attack\nUsage:\nMW = shorter, detune\rAT = cutoff down\rBC = extra sharp attack\rPB = detune"
+}

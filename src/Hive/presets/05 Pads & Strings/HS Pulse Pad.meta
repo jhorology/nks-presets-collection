@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6bd37605-0a48-4175-9317-23f6fca53523",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Pulse Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Static thickener\nUsage:\nMW = cutoff\rBC = slow attack\rAT = vibrato"
+}

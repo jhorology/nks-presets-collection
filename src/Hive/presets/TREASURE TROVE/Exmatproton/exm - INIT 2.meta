@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "41b055d7-11c0-406e-bc40-f87dcdf9ba67",
+  "types": [],
+  "modes": [],
+  "name": "exm - INIT 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "Filtered INIT patch\nUsage:\n2xOSC"
+}

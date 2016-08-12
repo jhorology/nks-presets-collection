@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "45b18b13-7785-4ed6-be6b-6f98b5330a48",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Binary Fusion Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = soften\rAT = vibrato"
+}

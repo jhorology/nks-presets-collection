@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "310d4433-ad0f-4c14-a7db-c699f4da2a41",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TUC Rubber Rumbler",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = distance"
+}

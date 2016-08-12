@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "552c0e41-e204-45c1-b625-c18d56253429",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "TAS Drizzle",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = 2nd layer\rAT = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "cb682a6e-2152-4e57-9255-7421c522e4df",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Jovial Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = tone / distance\rBC = stereo chorus"
+}

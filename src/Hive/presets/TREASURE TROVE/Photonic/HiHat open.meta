@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "20d03d4f-a190-43d0-8cee-1023aa554e06",
+  "types": [],
+  "modes": [],
+  "name": "HiHat open",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Photonic"],
+  "author": "Photonic",
+  "comment": "HiHat open\nUsage:\nModWheel = more agressive by EQ\r\nVelocity = volume and decay\r\n"
+}

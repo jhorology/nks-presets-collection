@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "90d607b1-0845-4c27-877b-7fcbb8e8c7a6",
+  "types": [],
+  "modes": [],
+  "name": "That Bloody Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Bmrzycki"],
+  "author": "Brian Rzycki",
+  "comment": "Lead sound from the virus arp hive demo. Made famous around 2006 on KVR as the arp sequence to compare super/hyper saw sounds across various synths.\nUsage:\nModwheel - put your hands in the air\r\nPressure - adds a bit of noise to the attack\r\nBreath - remove FX (reverb and delay)\r\n\r\nSet phaser Wet to 48 to for the phased section of the demo.\r\nEnable SUB2 on FILT2 for more bass."
+}

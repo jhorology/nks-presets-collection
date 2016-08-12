@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ca14bc37-d4c3-4d7a-9b31-1d8a288abf67",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE The Pass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Layered pad with a little S&H highpass\nUsage:\nMW = vibrato\rAT = bend"
+}

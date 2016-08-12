@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "de5eff61-13b6-4901-bc56-7b7efb8503f3",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Slurf",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Synth line plus noise 'snare'\nUsage:\nMW = phaser\rAT = detune"
+}

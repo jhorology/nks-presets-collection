@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "329e0867-cfe7-4f99-86b1-b15d2ece18b1",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Cinema Saws",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Resonant, airy pad\nUsage:\nMW = cutoff\rAT = modulation rate"
+}

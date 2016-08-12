@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f934a75d-eb7d-4849-b59d-28ac2724625e",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Moth Wings",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rAT = simplify\rPB = osc mix"
+}

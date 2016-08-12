@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "23231de9-2701-45ce-9e3a-5a2edae52161",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Emergency Bit",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = distortion\nAT = cutoff"
+}

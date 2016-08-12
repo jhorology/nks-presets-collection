@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d1193a9f-2227-4286-887c-851a50574eeb",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Gogogo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "A short mononic arp.\nUsage:\nMW = bitie\rAT = cutoff"
+}

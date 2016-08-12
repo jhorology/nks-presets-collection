@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f4bfde77-943b-46bf-8fbc-9774932805c4",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "KS Sweep Up",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = slow down\rMW = speed up"
+}

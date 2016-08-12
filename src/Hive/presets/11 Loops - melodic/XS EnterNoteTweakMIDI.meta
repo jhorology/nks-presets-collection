@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "da2d7e88-8ce4-4fe7-9e03-2c95fff0c248",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "XS EnterNoteTweakMIDI",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "128 BPM\rEnter one long note, add a kick loop and jam along using the following:\nUsage:\nMW = mute\rPB = cutoff\rXP = delays"
+}

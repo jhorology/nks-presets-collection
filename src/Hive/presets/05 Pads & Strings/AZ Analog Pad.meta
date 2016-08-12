@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bc038603-a29a-46a8-9a73-a1677697f456",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "AZ Analog Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Lush, warbly\nUsage:\nMW = add 5th, phasing\rBC = soften"
+}

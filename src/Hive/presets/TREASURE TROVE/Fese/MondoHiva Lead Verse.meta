@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "9c2c3a9b-ca99-43a3-a901-91dbd61ea861",
+  "types": [],
+  "modes": [],
+  "name": "MondoHiva Lead Verse",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Fese"],
+  "author": "fese",
+  "comment": "\"piano\" Key sound\nUsage:\nMW = Cutoff (small amount)\r\nExpression = AmpEnv Sustain decrease"
+}

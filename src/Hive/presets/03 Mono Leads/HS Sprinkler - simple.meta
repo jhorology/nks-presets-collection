@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fee1007f-e645-4684-a22f-8753c76187c1",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Sprinkler - simple",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = vibrato"
+}

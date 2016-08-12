@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2851d3da-9a2b-4b05-bc65-9d22bbe6768b",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Church String",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "From 'string machine' to pipe organ\nUsage:\nMW = cutoff\rBC = tone\rXP = morph to pipes"
+}

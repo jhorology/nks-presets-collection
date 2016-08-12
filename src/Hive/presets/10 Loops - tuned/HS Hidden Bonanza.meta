@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3b8de255-0a2e-4d05-9757-1b5607b4a7ae",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Hidden Bonanza",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Minimum Pitchbend = Bonanza beat\rMaximum Expression = triplets\nUsage:\nMW = cutoff\rBC = glitch\rPB or XP = 'sample' bend"
+}

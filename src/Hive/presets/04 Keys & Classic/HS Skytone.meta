@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5dfed711-e308-4ff6-9271-9eac0fc224ef",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Skytone",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "From simple to complex...\nUsage:\nMW = add octave\rXP = cutoff down\rBC = chorus + reverb\rAT = slow vibrato"
+}

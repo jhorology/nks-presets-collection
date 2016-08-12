@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a27e752b-0aaf-4bd6-9c61-0e501965ba1e",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Pumpkin",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = vibrato\rAT = cutoff down"
+}

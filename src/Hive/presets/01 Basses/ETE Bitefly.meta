@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "68706b47-49b5-43c9-8f82-3f6b1ab4fe34",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "ETE Bitefly",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Fat open filtered bass.\nUsage:\nMW = cutoff\rAT = pitch & cutoff"
+}

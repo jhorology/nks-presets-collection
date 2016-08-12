@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8d4b38e1-8e65-4da4-939e-44245685e5b3",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Bronze - soft",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Try activating the arp and sequencer\nUsage:\nMW = thinner\rBC = add FX"
+}

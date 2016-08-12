@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "17179ab4-2656-4f8c-b6f1-01b9a18c0b7b",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Some Chips",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Plucked arpeggio... with chips\nUsage:\nMW = add body\rAT = smoothen"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "59c95ede-db52-4d72-9a70-1c1514e62595",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC That Thing",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\rAT = tremola\rPB+ = detune"
+}

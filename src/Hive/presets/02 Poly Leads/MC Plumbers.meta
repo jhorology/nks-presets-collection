@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "015e0f8f-d701-427b-931e-734dbc11c0d8",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Plumbers",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = tone\rAT = vibrato\rP\rPB = detune"
+}

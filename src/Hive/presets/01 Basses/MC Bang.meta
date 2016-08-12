@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1baaa8c5-1390-420f-8892-8f8edae46173",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "MC Bang",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = tone\rAT = cutoff, resonance\nUsage:\nTry FILT1 On in FILT2 Section\rTry Dirty Mode On"
+}

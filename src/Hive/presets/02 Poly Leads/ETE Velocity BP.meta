@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2789629b-9720-4249-81a1-464e29781543",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Velocity BP",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Band-passed\nUsage:\nMW = sharpen\rAT = vibrato"
+}

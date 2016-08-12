@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5bf647a6-7df6-4e06-86b1-6bc215bfa31e",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Toyspace",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = detune tines\rBC = detune pad\rXP = lose reverb"
+}

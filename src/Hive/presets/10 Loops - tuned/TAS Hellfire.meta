@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "df4188b4-9b4a-4960-965b-9d0aefc3767c",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Hellfire",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW or PB = cutoff"
+}

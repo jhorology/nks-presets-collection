@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "f1519ca7-370d-4be7-a73e-301b869fc788",
+  "types": [],
+  "modes": [],
+  "name": "LED Aggrotek JD",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Synthetic Illusion"],
+  "author": "Joel Dreaver",
+  "comment": "A Bass with cutoff modulated to LFO 1, \rArpeggiated to a standard 3 Oct up sequence,\rTurn off ARP for a Nice Dance Bass."
+}

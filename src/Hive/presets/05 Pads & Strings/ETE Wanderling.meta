@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f35ddd7d-a1fb-446e-9a8a-c80e60225029",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Wanderling",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Slightly overdriven, detuned pad\nUsage:\nMW = vibrato\rAT = bend"
+}

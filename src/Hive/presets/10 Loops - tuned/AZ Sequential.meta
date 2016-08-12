@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a1cd5be5-9525-43f9-aafb-0c82f07f1a93",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Sequential",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

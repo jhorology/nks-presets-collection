@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a13bf8bd-5da7-4664-a27a-62b85b220b39",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Hoverfly",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = LP cutoff\rAT = phasing, glide\rBC = vibrato\rXP = HP cutoff"
+}

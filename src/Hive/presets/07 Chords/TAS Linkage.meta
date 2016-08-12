@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ec6c82a9-ffeb-4c18-b95e-1d0960801614",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "TAS Linkage",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try Normal and Clean mode\nUsage:\nMW = tone\rAT = wobble depth\rPB = bend, wobble rate"
+}

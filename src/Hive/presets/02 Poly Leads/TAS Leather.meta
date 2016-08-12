@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8af73800-ac02-4d3e-96b6-e1430043f2a0",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Leather",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Things to try:\r1) Experiment with oscillator Phase and Pulse width values (Matrix slot 01)\r2) Turn OSC2 off\nUsage:\nMW = detune\rAT = cutoff"
+}

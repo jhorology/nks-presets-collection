@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "f2220180-35f3-4884-99db-b07366775e9a",
+  "types": [],
+  "modes": [],
+  "name": "PAD Metrolized MC",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "1 MC without FX"],
+  "author": "Michael Cavallo",
+  "comment": "MW-Slower Lfo Rate - Closes FIlter\rAT-Faster Lfo Rate\rPW-Osc1 Only"
+}

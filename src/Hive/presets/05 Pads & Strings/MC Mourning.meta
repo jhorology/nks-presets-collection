@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c178f09d-1be3-4aea-8269-b39f64cf1db4",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Mourning",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try DIRTY mode\nUsage:\nMW = cutoff\nAT = vibrato, resonance\nPB+ = detune"
+}

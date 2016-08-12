@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "30388a9b-fdea-4926-aab0-9ca9b524f65a",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "JH Bumblebee Hive",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Joseph Hollo http://sound.artenuovo.com/",
+  "comment": "Usage:\nMW = tone\rBC = less delay\rMatrix slot 07 = seq tempo"
+}

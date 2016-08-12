@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b834775f-1c6e-4336-80f8-38d2184d4f25",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Jazzy Chord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Velocity-sensitive resonant 'm7'\nUsage:\nMW = wobble\rAT = cutoff"
+}

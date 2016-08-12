@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ec589f15-8f0a-4e57-93cb-f8bc7859b437",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Sad Acid",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Things to try:\r1) Turn FILT 1 up for extra 'body'\r2) Less resonance\nUsage:\nMW = cutoff down\rAT = cutoff up"
+}

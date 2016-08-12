@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "36269b7d-7803-44a2-9d04-381833029c90",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS War Game",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = tone\nAT = length"
+}

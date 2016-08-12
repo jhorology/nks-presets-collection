@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9c0eb860-3f83-47fc-9d58-e96ed5626d53",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Prog Machine",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Play mostly mono\nEffect ducking\nUsage:\nMW = tone"
+}

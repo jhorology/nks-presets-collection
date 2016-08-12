@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4ac3e789-d358-43e4-9b2d-1849730d4cd7",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Random Act",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = delay / tone"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "620524a0-0683-4e86-bb1f-f1814b83311f",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Tubone",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Use both wheels\nUsage:\nMW = wobble\rBC = lose the buzz\rXP = invert attack\rAT = brighten"
+}

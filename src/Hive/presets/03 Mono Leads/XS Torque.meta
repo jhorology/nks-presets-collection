@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "08d8c5f4-2d86-4cd8-b3b6-9f5cfbc36ec1",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Torque",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff"
+}

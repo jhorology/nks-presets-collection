@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "72be9525-71b4-4a8c-952e-fe6a52212ea6",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Sawsine Layer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Low saw + singing sine\nUsage:\nMW = vibrato\rBC = cutoff\rAT = harmony"
+}

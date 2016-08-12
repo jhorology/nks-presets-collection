@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "885d911d-3e5a-4481-ba5c-7d8e99dda8d6",
+  "types": [],
+  "modes": [],
+  "name": "PLK PAD Harvest MC",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "1 MC without FX"],
+  "author": "Michael Cavallo",
+  "comment": "MW=Closes Filter\rAT=Tremola\rPW=Detune"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "36569c8c-bf9b-4b4b-87d2-7b5219c8d2e4",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Early Birds",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = less pad\rAT = resonance\rPB = chirp rate"
+}

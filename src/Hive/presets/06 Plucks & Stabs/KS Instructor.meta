@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0e10b59d-2505-46ca-8e8a-06ce93d90b11",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "KS Instructor",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = brighter\rMW = phaser & cutoff"
+}

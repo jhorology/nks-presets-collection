@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4d5aa3c3-b52e-4f8d-a910-844b2ea9341a",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Voice Rez",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Pad with vocal quality\nUsage:\nMW = cutoff\rAT = bend"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f8e18416-a4e7-4eff-b680-eb521edaf60f",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS SchmatzoTron",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Hollow electromagnetic thing...\nUsage:\nMW = reverb phasing, room\r(move very slowly)\rAT = laser"
+}

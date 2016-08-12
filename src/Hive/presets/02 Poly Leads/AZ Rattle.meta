@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a05e6f3f-5632-42cc-b74f-02e380850348",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Rattle",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = overdrive"
+}

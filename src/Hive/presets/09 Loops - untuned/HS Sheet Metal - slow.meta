@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6ec8ef5c-b2b8-4421-b65a-5115f4b5d6fd",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Sheet Metal - slow",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Based on a Clock sound by Kevin Schr�der\nUsage:\nMW = darken"
+}

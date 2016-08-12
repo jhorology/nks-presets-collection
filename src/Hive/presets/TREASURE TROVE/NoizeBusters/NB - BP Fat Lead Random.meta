@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "5a8db011-66ee-4ed5-afcb-21f0f8a2f447",
+  "types": [],
+  "modes": [],
+  "name": "NB - BP Fat Lead Random",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "NoizeBusters"],
+  "author": "Ralph Knobloch",
+  "comment": "Band Pass Lead - LFO is modulating the Cutoff\nUsage:\nmore stuff @ www.noizebusters.com"
+}

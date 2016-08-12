@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5c50417c-209b-467a-8c2a-d324a9563748",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Bragger",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = tremolo phase\nAT = darker\nPB = tremolo rate"
+}

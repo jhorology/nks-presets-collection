@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "de32a93b-d8f9-425d-ac34-962b29c9d6af",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "TUC Quak Bass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = cutoff\nAT = wobble"
+}

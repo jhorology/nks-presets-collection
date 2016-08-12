@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1312dd1a-af25-4bd6-ad57-61a4297eb530",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Facelift",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Unusual pitch bending :-)\rTry power chords (4th or 5th interval)\nUsage:\nPB+ = special bend up\rPB- = extreme down\rMW = vibrato\rBC = tone / octave\rAT = bend 4th down"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a1211bfc-3cc6-4297-9f99-0b6d41323cfa",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "TAS Ugly Duckling",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = fade Sub1\rAT = gets uglier"
+}

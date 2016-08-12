@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "745b071c-846a-41fd-bdba-4bf6b1337ee7",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Squid",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = different attack, vibrato\rAT = vibrato"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e0e3f894-fd1a-4cb1-bd2c-962d74c03a0f",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "AZ Control",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7f7f4a3b-3833-4b39-9b25-eb3ddd8f9ba0",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "ETE Mudmid",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Detuned spread synth\nUsage:\nMW = vibrato, cutoff\rAT = bend"
+}

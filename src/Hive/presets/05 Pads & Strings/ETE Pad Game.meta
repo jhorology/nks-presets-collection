@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3595d3c4-3879-49a6-9ba0-6387bbfa1f85",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Pad Game",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Pad with pitch modulated by two square LFOs\nUsage:\nMW = vibrato\rAT = bend"
+}

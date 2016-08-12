@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "abea6743-7af9-4797-800e-998b69d1fc1b",
+  "types": [],
+  "modes": [],
+  "name": "exm - Pluck 5",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "Pluck patch_fast Sequenced\r\n\r\nMW: LFO to Cutoff, extra detune OSC 1 + 2,\r\npulse width OSC 1 + 2. \r\n\r\nSequenced gating (2): More edits + faster"
+}

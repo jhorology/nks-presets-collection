@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d8c96e56-a19a-4a47-850a-0241dcf9c942",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Blueberries",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try different waveforms and detune in oscillator 1\nUsage:\nMW = rougher\rAT = pan"
+}

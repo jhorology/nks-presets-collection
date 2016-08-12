@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "acb61c32-9fcf-4a01-813a-12e254d389ab",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Nebula Strings",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = open up\nAT = oscillator mix"
+}

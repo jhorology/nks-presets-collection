@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "91d62d03-6a99-429f-a4f9-09ea498979bc",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "ETE Hiccup Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Scratchy!\nUsage:\nMW = tone\rAT = add oscillator"
+}

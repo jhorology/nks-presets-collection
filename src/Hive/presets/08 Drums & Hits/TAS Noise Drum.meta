@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b066f74c-ad0f-4597-a449-040290c0763f",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "TAS Noise Drum",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try adjusting oscillator 1 Width\nUsage:\nMW = smaller"
+}

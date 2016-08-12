@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bdc5c69d-d34c-4db6-9ebf-45906764c1a4",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Peace",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Velocity-sensitive attack\nUsage:\nMW = detune\nAT = tremolo\nPB = osc2 only"
+}

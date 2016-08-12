@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "30dd41d0-4580-462c-935d-347e1ec835cd",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "TUC StabOrgan Plus",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = chip tunes\rAT = vibrato / destroy"
+}

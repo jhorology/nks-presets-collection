@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1301d36d-4edc-4575-bbf1-22008ea0b7e1",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Dunkin",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = attack, cutoff\rAT = vibrato, detune\rPB = cutoff"
+}

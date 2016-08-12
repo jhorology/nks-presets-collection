@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "a3fc8573-9b95-4ade-9ed0-986c2da158b2",
+  "types": [],
+  "modes": [],
+  "name": "Beauty Slide",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Preview", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "02 Poly Leads\nETE Beauty Slide \r----------------\r\rSmooth sliding sound on one layer, modulated filter on the other.\nUsage:\nMW = layer 1 cutoff, layer 2 vibrato\rAT = pitch"
+}

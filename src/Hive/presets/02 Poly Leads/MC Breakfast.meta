@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3ca80e52-1e93-4ef0-9ee3-5855fa7f8b45",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Breakfast",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = slow movement\rAT = vibrato, detune"
+}

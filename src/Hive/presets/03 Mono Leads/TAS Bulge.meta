@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ae20b947-9a20-45ad-b84f-64901536c75d",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Bulge",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = close down\rAT = open up\nBC = tone (pulse width)"
+}

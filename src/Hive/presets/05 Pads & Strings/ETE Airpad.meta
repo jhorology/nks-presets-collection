@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fd4a892d-89ec-4bc7-bd14-82c9a3401863",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Airpad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff\rAT = speed (subtle)"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2a933fbb-ae17-4e92-9b74-1f3e57ee8b16",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Fog Lights",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Animated gated pad\nUsage:\nMW or AT = cutoff"
+}

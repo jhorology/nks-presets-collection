@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1f1e5763-b627-4c93-885b-f362c6df49da",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Indigo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = slower envelope\rPB = detune"
+}

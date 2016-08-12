@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "aad4774c-7bcd-4c5f-984d-7b2becb52073",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "ETE Classic LP Saws",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = delay, slight vibrato\rAT = cutoff"
+}

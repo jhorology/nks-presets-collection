@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8333d1c9-942a-4d36-8395-c3c5f3a4c5d3",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "GZ Epica",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "EternitySound",
+  "comment": "Pulse & Saw\nUsage:\nMW = osc1 pulse width"
+}

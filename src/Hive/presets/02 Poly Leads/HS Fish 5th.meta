@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1dde5825-9542-4fb7-a3e4-41a6a863cb75",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Fish 5th",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Very velocity-sensitive\nUsage:\nMW = 5th mix\rAT = resonance"
+}

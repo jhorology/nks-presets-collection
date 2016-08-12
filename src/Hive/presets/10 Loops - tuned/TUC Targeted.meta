@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7ff4cfb2-918c-4569-85e8-a2dd2f24a598",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TUC Targeted",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Try broken chords\nUsage:\nMW = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1f4ac2e1-4ebe-4a51-ae52-042a615fcf54",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Layer Player",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Try arp/seq PLAY\nUsage:\nMW = cutoff\rAT = chorus-vibrato"
+}

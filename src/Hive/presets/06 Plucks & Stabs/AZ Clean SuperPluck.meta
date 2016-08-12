@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "61496c5d-506b-4b06-8c62-d55d6d6423ac",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "AZ Clean SuperPluck",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Stacked saws with delay and reverb ducking. Distortion brightens the sound.\nUsage:\nMW = cutoff"
+}

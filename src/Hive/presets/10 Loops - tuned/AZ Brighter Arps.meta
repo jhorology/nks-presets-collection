@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "92661e04-63a4-4996-a271-f809d0312a4a",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Brighter Arps",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = darker, rhythm\rAT = tone (if MW up)"
+}

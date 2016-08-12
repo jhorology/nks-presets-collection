@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c991c7fd-cb87-4d75-9e59-ab821a8d1750",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Spill Gate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Gated pad with regular sweep\nUsage:\nMW = cutoff\rAT = add octave up"
+}

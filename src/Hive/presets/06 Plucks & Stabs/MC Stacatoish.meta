@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "685c09e7-84be-4358-85bd-1fc5b2523ea9",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "MC Stacatoish",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = slower attack\rAT = detune\rPB = osc2 only"
+}

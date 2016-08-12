@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4b563115-1598-4aa1-8ff5-b696dde0fdba",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Last One",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Gated pad with random shimmer\nUsage:\nMW = chop\rAT = shimmer pitch"
+}

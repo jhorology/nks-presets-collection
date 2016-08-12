@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b5c02fdb-8293-44bb-96cb-5d21088a4c26",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "MC Crumb",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\rAT = detune, cutoff\rPB = detune"
+}

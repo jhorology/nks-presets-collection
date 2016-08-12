@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8665e1bd-4a24-46ae-af9e-2e60c87351e6",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ARK Digitizer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Dirty digital bass arpeggio\nUsage:\nMW = cutoff\rAT = accent"
+}

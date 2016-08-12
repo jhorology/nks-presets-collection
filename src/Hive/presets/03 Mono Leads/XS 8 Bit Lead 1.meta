@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2d2ab166-c984-43e3-b2e8-3d48e0e0bbd5",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS 8 Bit Lead 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff"
+}

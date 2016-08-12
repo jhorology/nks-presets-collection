@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ca125e7d-b341-48d8-9642-0e1d56192327",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "TAS Dot",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = pulse width\rPB = length"
+}

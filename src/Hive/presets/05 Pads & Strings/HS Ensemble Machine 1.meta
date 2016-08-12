@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a9ebc5f4-a076-4389-8c73-34debcbe268d",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Ensemble Machine 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Retro string machine\r\rPush the mod wheel (CC #01) slowly to find the best tone, then refine with breath (CC #02)\nUsage:\nMW = tone 1\rBC = tone 2"
+}

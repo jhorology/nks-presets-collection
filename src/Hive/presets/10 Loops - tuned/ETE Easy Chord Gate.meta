@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8fa63cbe-267a-47d1-ab49-b6f92885c31b",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Easy Chord Gate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Hold chords\nUsage:\nMW = soften\rAT = bend"
+}

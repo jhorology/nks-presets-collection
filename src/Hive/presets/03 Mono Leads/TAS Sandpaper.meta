@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bd834ace-5cd8-435a-96b1-40e604660dd5",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Sandpaper",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = chorus\rAT = wobble\nPB = wobble rate, bend"
+}

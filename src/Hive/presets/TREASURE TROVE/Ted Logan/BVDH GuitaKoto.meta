@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "7343a9e6-0542-4139-a902-5974f5c7c696",
+  "types": [],
+  "modes": [],
+  "name": "BVDH GuitaKoto",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Ted Logan"],
+  "author": "Bernhard van der Horst",
+  "comment": "A strange plucked instrument.\nUsage:\nModwheel:\r\n  -width and detune\r\n  -opens Filter 2\r\n\r\nPressure:\r\n  -detune/string bend"
+}

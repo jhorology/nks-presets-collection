@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bddea6f6-4a01-479d-81be-0b3ff72937d8",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "AZ Dockyard",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

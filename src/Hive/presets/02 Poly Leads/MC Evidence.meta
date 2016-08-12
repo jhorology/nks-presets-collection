@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5fae4b55-7c9c-4671-b447-ad7b062f3067",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Evidence",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff\rAT = vibrato\rBC = extra sharp attack\rPB = bend oscillator 1 only\r"
+}

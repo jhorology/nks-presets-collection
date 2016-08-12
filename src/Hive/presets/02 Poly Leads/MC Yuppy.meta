@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a40d9bff-ce75-4d25-82ef-633c86def2db",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Yuppy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\rAT = cutoff, resonance\rPB = detune"
+}

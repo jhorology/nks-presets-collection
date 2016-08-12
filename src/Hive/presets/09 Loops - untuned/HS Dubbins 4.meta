@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7975797a-9ee7-4efc-b591-73e42e0902ea",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Dubbins 4",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Velocity-sensitive\nUsage:\nPB = hat pitch\rMW = tone"
+}

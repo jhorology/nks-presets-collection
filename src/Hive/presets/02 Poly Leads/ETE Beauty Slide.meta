@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "426908cd-3507-474a-97e7-27b22951212a",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Beauty Slide",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Smooth sliding sound on one layer, modulated filter on the other.\nUsage:\nMW = layer 1 cutoff, layer 2 vibrato\rAT = pitch"
+}

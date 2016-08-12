@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5678e3da-5be6-4d41-8def-3be2786911c3",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "KS Break Stepper",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "MW = party time!\rAT = lose the notes\nUsage:\n128 BPM"
+}

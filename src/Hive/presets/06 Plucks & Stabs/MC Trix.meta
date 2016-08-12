@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "21388e71-5e6e-42bd-9f3f-4b0b57ab8db0",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "MC Trix",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff\nAT = vibrato, cutoff\nPB- = less detune"
+}

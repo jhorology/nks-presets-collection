@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "79a140ac-6386-46f1-b0e5-ca193bda1c3f",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Rollerblade",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = cutoff\rBC = noise\rXP = phasing"
+}

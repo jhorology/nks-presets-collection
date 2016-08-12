@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bbb3238a-503b-4ddd-b927-a41441134644",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Empire",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\nAT = vibrato\rPB+ = slower attack"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3bde0a4f-7c1d-473c-bd02-d2f1458f9f21",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "AZ Pulsed keys",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = damper"
+}

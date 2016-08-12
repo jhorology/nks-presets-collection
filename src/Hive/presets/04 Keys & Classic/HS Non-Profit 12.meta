@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "76968ef9-1bb2-4cc9-87de-21ca7b937503",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Non-Profit 12",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = chorus / delay\rBC = resonance\rXP = wobble depth\rPB = cutoff or wobble rate\rAT = vibrato"
+}

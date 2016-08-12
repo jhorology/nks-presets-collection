@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "60b961e2-934e-40e1-8b5e-949abf5e0b1b",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ST Saw Killer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "Lotsa distortion - be careful playing chords\nUsage:\nMW = slow roll\rBC = roll rate"
+}

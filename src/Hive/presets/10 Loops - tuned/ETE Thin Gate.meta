@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b9ed982b-94d5-44d9-8bfe-2bd8a2b43934",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Thin Gate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = softer\rAT = brighter"
+}

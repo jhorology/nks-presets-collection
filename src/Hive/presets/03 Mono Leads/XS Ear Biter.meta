@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3d8cd24d-78b3-417d-89ab-82637a65496d",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Ear Biter",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\rAT = wobble"
+}

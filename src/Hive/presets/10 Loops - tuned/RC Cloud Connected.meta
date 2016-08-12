@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f447675b-8ba0-4c2c-b3a6-4e860fdf2f89",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "RC Cloud Connected",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Rob Chokehold",
+  "comment": "From green to red...\nUsage:\nMW = darker, smoother"
+}

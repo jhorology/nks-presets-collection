@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "64112246-9120-4943-9520-223d5f331bff",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Electromancy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff"
+}

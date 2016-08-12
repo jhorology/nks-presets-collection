@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "aa3f8a20-55e9-4035-b6a1-7fdcbb7e79c4",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Shifter",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = bite, brighter\rAT = vibrato\rPB = osc1 only"
+}

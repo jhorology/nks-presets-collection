@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ddbbd8b8-3cb8-4848-96e5-1c1d69a60511",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE High Pulse Jump",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "At least 2 layers ;-)\nUsage:\nMW = cutoff\rAT = add 5th"
+}

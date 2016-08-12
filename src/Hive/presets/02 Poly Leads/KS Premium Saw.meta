@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "14cb7660-884f-4752-b9c4-11e722879206",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "KS Premium Saw",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = warble\rMW = cutoff"
+}

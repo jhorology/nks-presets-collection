@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "533fff12-8dca-4434-a92f-710c4ff47865",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Saw Siren Hold",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "A kind of siren\nUsage:\nMW = cutoff 1\rAT = cutoff 2"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bf912852-f2c9-4b30-ae42-f83807749502",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Mango",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Trembling brass\nUsage:\nMW = cutoff\nAT = vibrato"
+}

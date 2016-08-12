@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "b98f2dfb-b08e-4e7b-8fd7-93d4a7a93731",
+  "types": [],
+  "modes": [],
+  "name": "exm - FX 02",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "MW: Band filter\r\nBR: Speed LFO's\nUsage:\nSome dancing LFO's"
+}

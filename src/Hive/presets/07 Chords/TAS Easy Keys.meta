@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c24ca4cc-1de4-43f9-9208-7e1ad3e96bc3",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "TAS Easy Keys",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rAT = wobble depth\rPB = bend, wobble rate"
+}

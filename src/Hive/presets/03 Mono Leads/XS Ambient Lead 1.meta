@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "22838f43-5fb1-4550-a0ac-67671a1105b3",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Ambient Lead 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff"
+}

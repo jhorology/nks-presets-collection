@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5eda76d0-e731-4a24-b153-4079bef15ab4",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Diode",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Corroded legato lead\nUsage:\nMW = wobble\rAT = bend"
+}

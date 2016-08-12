@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3af19ef0-1e84-4a3d-b19c-4da0a4f92989",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "MC Crab",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = slower attack\rAT = resonance\nUsage:\nTry increasing FILT1 resonance"
+}

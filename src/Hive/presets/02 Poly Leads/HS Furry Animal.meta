@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c5ef485a-244d-48c1-83ea-4e53278e3f49",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Furry Animal",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = brighten\rBC = pluck\rXP = lose reverb"
+}

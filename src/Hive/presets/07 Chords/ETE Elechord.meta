@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "716fcf8f-aba2-44d6-ae61-6e7aa6253f06",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Elechord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Velocity-sensitive 'add 9' chord\nUsage:\nMW = vibrato\rAT = cutoff"
+}

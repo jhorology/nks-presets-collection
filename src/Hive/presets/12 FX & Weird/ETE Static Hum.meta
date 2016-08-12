@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8b4ad24d-deaf-49f7-98d1-7933c9a6840c",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Static Hum",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Searching for a signal on Hive radio.\nUsage:\nMW or AT = resonance"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e4a4a13d-9e78-43fe-859e-903428a39951",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ST Retro Stab 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "80's / 90's stab chord\nUsage:\nMW = cutoff, delay\rBC = morph to dominant major"
+}

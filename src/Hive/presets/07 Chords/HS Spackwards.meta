@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3f81554e-5633-4586-bb4a-31da4258367d",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Spackwards",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Reduced polyphony for 'backwards'\nUsage:\nMW = resonance\nAT = glide"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "16d7c19c-d89a-4201-ad28-46debfbcdf69",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Pears",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = sweep"
+}

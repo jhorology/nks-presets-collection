@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "e21de121-a2a3-4bf6-8a18-afd3307d888e",
+  "types": [],
+  "modes": [],
+  "name": "BVDH Hivecussion 02",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Ted Logan"],
+  "author": "Bernhard van der Horst",
+  "comment": "Some percussive 4/4 thing.\r\n It is not always in sync\r\n - played via a MIDI\r\n   file it should run fine.\nUsage:\nModwheel:\r\n Intensify the beat\r\n\r\nNotes c1 - c2 intended range. "
+}

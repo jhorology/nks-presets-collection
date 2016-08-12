@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5cae8f42-50c0-4f10-b624-9b111c85a216",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Stackuno",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "The initial sound has a Juno flavor\nUsage:\nMW = unstable vibrato\rAT = brighter"
+}

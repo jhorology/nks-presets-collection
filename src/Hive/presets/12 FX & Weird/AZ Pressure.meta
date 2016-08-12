@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "343b723e-3295-4df9-bc3f-9ed89c508552",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "AZ Pressure",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = brighter"
+}

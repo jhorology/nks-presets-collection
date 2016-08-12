@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b2466912-7652-4c60-a6fd-bd9bc518013e",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Vandal",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Squishy!\nUsage:\nMW = pitch offset\rAT = soften"
+}

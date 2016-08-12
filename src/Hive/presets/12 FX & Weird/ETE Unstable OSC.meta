@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e0028327-d816-4b42-ace7-1e740269b3aa",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Unstable OSC",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Octaved pad with artifacts\nUsage:\nMW = slight vibrato\rAT = pitch"
+}

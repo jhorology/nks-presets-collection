@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "700733c3-d3f1-4e53-b1b5-f4d66acc9477",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "GZ Fixer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "EternitySound",
+  "comment": "Octave pluck arpeggio\nUsage:\nMW = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e164cd9d-ee91-4bca-89e7-9a39a72cb6fc",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "HS Boilk 3",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nPB = rate\rMW = chaos delay"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3c5a5d5e-8f19-45bc-a967-eea146247c50",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "ETE Perc Pong",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Noise percussion\nUsage:\nMW = cutoff\rAT = flanger"
+}

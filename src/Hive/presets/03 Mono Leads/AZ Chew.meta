@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "75c79f4c-8005-4072-bb51-d317484c37ca",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Chew",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

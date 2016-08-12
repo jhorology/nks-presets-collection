@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7edc4868-1a16-4163-995b-b67cc64002cf",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Psycho Saw",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Velocity-sensitive\nUsage:\nMW = tune oscillators\rBC = cutoff\rAT = resonance"
+}

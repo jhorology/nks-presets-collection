@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e5f7bb96-ec6b-4db1-82b9-037d317a35e6",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "XS Hard Wobble 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = LFO rate\nBC = cutoff, flatten"
+}

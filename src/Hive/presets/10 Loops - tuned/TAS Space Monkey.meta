@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3d79b596-f435-43b2-884d-4e9d9555364b",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Space Monkey",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = asteroids\rAT = octave oscillator"
+}

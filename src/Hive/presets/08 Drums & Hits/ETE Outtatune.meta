@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5966b61a-509c-4845-a9ec-d38fcfa7edcc",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "ETE Outtatune",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Out of tune!\nUsage:\nMW = pitch drop\rAT = vibrato\rBC = cutoff"
+}

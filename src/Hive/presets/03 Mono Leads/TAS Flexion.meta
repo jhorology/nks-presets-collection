@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4586d279-99a7-446a-8ac9-e8635484aeb6",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Flexion",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cross-fade\rAT = chorus"
+}

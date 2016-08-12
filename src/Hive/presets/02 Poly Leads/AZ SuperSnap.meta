@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5a651faf-255e-4cce-b5df-4163ce278057",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "AZ SuperSnap",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

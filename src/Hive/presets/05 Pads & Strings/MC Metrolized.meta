@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7331aab5-1b00-49af-bd1e-bcdd1ebd7994",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Metrolized",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = darker, slower\nAT = faster\nPB = osc1 only"
+}

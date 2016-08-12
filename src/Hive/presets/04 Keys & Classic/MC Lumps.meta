@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "41adaf04-a1c4-4caa-82da-e78d980deb9a",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "MC Lumps",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = tone\nAT = vibrato\nPB = detune"
+}

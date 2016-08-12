@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "23f08e20-fc24-4f8b-b9e4-7821595a7b98",
+  "types": [],
+  "modes": [],
+  "name": "PLK PAD Borjin MC",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "1 MC without FX"],
+  "author": "Michael Cavallo",
+  "comment": "MW-Changes Attack - Opens Filter\rAT-Tremola\rPW-Filter\nUsage:\nTry FILT1 On in FILT2 section"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "361ddbb0-49e5-4381-9ef9-a233509f811b",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Sprinkler - degrade",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Delay degredation :-)\nUsage:\nAT = glide + cutoff\rBC = reverb\rMW = vibrato\rXP = delay warp"
+}

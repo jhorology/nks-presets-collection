@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7bbe3a44-ca03-4ed7-84b7-29d1ed102a01",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Parallel",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

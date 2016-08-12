@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d30aea61-1a81-4df2-a928-fb01ccac7abc",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Chord Wobs",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Mild poly wob\nUsage:\nMW = resonance\rAT = detune"
+}

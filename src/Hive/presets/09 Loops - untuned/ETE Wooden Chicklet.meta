@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "175d93c5-65d4-41e8-b6cb-c0c74630cf1d",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "ETE Wooden Chicklet",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Random resonant noise and 'shakers'\nUsage:\nMW = cutoff\rAT = slower attack"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "12a44405-7cae-4a85-aa8b-739424de05b2",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Scatter",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Detuned sci-fi\nUsage:\nMW = vibrato\nAT = cutoff"
+}

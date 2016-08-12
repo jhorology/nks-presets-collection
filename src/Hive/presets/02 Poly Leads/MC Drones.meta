@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "14975e56-efa8-4390-aad8-57a9d2be7a52",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Drones",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\rAT = vibrato\rPB = detune"
+}

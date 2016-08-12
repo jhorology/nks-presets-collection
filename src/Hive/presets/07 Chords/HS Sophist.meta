@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "86d8c09c-42c5-4730-a935-cb0cf2e67e96",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Sophist",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Highly velocity-sensitive\nUsage:\nMW = chorus\rBC = retune to major\rXP = soften\rAT = resonance"
+}

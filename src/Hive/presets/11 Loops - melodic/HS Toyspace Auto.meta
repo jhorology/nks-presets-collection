@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9114c169-41a7-4882-9e6a-6189291c24fc",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Toyspace Auto",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = detune tines\rBC = detune main\rXP = less reverb\nAT = more reverb"
+}

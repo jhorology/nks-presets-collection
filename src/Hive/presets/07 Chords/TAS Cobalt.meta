@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "87856806-48b0-4278-aca3-9a12a3f11336",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "TAS Cobalt",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Lower 4th\nUsage:\nMW = cutoff\rAT = plectrum"
+}

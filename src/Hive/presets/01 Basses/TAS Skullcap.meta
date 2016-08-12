@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "58ad6f69-b0fb-4bb9-826e-52348ec1457d",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "TAS Skullcap",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try switching to Normal or Clean mode\nUsage:\nMW = cutoff-\rAT = cutoff+"
+}

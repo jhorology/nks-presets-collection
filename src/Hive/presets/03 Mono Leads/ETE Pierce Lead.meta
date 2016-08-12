@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c9ef5fff-b81d-49d6-8339-1c87ee38756f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Pierce Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Is piercing fun?\nUsage:\nMW = vibrato\rAT = pitch"
+}

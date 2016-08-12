@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "38efe8d5-72fb-4953-a7f1-8ecc4cc64ca7",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Prime Minister",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "No unison here, phase modulation\nUsage:\nMW = cutoff\rBC = box"
+}

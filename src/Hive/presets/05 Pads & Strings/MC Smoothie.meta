@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6d74e88d-bf33-4eeb-a63f-9e093b44d319",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Smoothie",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff, attack\nAT = vibrato\nPB = detune"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e6b5db8f-ba15-42a7-8b97-7431c639e44a",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Live Chord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Try 2-note chords\nUsage:\nMW = soften\rAT or BC = cutoff"
+}

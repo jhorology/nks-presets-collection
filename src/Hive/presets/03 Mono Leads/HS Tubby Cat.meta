@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b6c9f5cc-776f-446e-b560-14b227ace22f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Tubby Cat",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nPB = meow1\rMW = meow2"
+}

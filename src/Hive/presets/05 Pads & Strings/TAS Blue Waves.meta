@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "490ef2c7-d2b7-4691-907a-33caa1d2139f",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Blue Waves",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = vibrations\rAT = cutoff"
+}

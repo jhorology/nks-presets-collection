@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2a2da424-cfe2-4aad-8797-375ee0ff9e69",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Octave Stomp - slow",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Play the wheels\nUsage:\nMW = cutoff\rBC = chorus\rPB = shorten\rXP = wobble\rAT = resonance"
+}

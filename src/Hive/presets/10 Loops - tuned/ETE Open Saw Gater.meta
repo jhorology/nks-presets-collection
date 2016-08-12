@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6a26e598-0f23-406a-aa2e-3f89bb9004af",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Open Saw Gater",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Classic detuned saws, no filters\nUsage:\nMW = add 5th\rAT = shorten\rBC = phaser"
+}

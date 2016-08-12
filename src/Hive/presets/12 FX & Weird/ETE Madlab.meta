@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c79c3d03-71fd-4be2-94b8-19fc85f2527c",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Madlab",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "SciFi experiment\nUsage:\nMW = speed 1\rAT = pitch and speed 2"
+}

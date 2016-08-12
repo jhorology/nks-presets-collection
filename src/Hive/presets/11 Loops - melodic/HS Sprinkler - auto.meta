@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2b7e4350-6ec5-4481-8249-51ad7df2e2e2",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Sprinkler - auto",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Hold a note...\nUsage:\nMW = glide\rBC = lose reverb\rAT = vibrato\rXP = destroy"
+}

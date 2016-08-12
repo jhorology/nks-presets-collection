@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b1a8114b-9c99-4983-a2da-9c69d6b95289",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Twelve Donkeys",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = slower\nAT = bite\rPB = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d27725f2-fa63-450c-8a0c-f9482f715429",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Boingo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = x-fade to noise\rBC = reverb, diffusion\rXP = glitch\rAT = vibrato"
+}

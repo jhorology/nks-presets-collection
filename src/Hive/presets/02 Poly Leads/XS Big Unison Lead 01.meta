@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "244991ee-22db-4da9-b321-4c13236a5885",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "XS Big Unison Lead 01",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\nBC = slower warble"
+}

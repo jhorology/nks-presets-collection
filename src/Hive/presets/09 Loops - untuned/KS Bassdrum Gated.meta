@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d38c42de-35f1-4fbb-8dee-e768cb61d171",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "KS Bassdrum Gated",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = attack tone\rMW = distortion\nUsage:\nMW = tone"
+}

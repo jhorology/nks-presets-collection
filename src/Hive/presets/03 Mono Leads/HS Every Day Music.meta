@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d55e070c-cc8a-49b9-8978-b94c53af975f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Every Day Music",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nPB = fall/rise\rMW = wobble depth\rAT = wobble rate"
+}

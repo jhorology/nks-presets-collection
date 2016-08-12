@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2ef32153-7dc9-48d7-8039-9ed09a9bb3bc",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "XS Oldschool Dubstep",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff, lose wobble\rPB = LFO rate\rAT = LFO to pitch"
+}

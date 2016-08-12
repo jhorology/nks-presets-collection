@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "099f2928-34d4-4853-8309-589e8d6cb14e",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TUC Chaser Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = cutoff, shorter\nAT = distortion"
+}

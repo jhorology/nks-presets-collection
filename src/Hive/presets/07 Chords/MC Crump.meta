@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "da37f39b-1a98-462b-ba61-55e8550189da",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "MC Crump",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff\nAT = tremolo\nPB = detune"
+}

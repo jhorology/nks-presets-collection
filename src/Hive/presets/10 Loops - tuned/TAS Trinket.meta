@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7052cd7e-8a4b-436b-b7c4-96ed8ae0c497",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Trinket",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = lose the noise\nAT = detune"
+}

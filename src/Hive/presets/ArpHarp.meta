@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "b72f3b50-d66e-4c1b-9765-049ae7158256",
+  "types": [],
+  "modes": [],
+  "name": "ArpHarp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Preview", ""],
+  "author": "Howard Scarr",
+  "comment": "11 Loops - melodic\nHS ArpHarp\n----------------\nUsage:\nMW = distance, to 'backwards'\rBC = tone / chorus\rXP = slower\rAT = brighter"
+}

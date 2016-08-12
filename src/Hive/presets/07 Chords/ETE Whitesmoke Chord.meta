@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e762981b-54c7-440e-8bf0-c6fd358071ed",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Whitesmoke Chord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Noisy resonant highpass sweep\nUsage:\nMW or AT = vibrato"
+}

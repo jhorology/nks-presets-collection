@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "3be83ab0-9e9f-4b0b-864f-55f629b1b731",
+  "types": [],
+  "modes": [],
+  "name": "Psy squelch",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Recursive One"],
+  "author": "Recursion Loop",
+  "comment": "Typical psytrance squelch\nUsage:\nVelocity and modwheel control the filter"
+}

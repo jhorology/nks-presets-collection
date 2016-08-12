@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fe20f44b-c9db-48f0-8380-3123c10bfd21",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Speed-Harp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff ramps up\rAT = detune\nPB = cutoff"
+}

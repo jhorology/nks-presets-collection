@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d10d1d6b-db05-407f-8fd3-6395b9a38ab6",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Angry Hive",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

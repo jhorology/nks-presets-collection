@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "21341f5e-1e50-4937-ba65-8a2dcaca4567",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS 8 Bit Lead 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\rAT = vibrato"
+}

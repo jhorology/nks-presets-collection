@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ac9dbb0e-f86e-4827-acf1-564bc5e53790",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "AZ Blue",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = grains -> chop\nBR = cleaner"
+}

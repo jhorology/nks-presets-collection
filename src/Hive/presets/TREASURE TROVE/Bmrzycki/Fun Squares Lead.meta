@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "9c7f6915-0cf2-42a5-8336-3237acaf796b",
+  "types": [],
+  "modes": [],
+  "name": "Fun Squares Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Bmrzycki"],
+  "author": "Brian Rzycki",
+  "comment": "Lead sound in the Fun Squares demo. A little distortion can add a distinctive buzzy character to traditional waveforms.\nUsage:\nModwheel - adjust the pluck amount\r\nBreath - remove the distortion (subtle!)"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f8786df3-61a2-483a-bd5b-4888bc69c743",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Slipper",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = tone\rAT = length"
+}

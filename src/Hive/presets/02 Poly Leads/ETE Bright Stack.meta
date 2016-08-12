@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "15db471d-97ce-4b91-b714-c23c458a93b6",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Bright Stack",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "A bright stack. Sort of Juno-ish.\nUsage:\nMW or AT = vibrato"
+}

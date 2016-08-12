@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e5597fe4-3874-4e3a-99dc-ae2a98f4a7b9",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "TAS Subspace Brainwave",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rAT = wobble\nBC = distortion"
+}

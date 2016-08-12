@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "dc37eba4-fb0d-4139-8324-a24aea004dfa",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "XS Movement",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\rAT = LFO rate"
+}

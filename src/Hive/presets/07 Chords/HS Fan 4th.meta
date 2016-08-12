@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b8c3535e-4d05-42a7-87c0-7343c6029b37",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Fan 4th",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Phase modulation\nUsage:\nMW = cutoff\rAT = bounce"
+}

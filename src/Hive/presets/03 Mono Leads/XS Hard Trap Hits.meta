@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "92636dbb-b33e-4d26-8898-43879af7defb",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Hard Trap Hits",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Play staccato\nUsage:\nMW = invert\rAT = speed"
+}

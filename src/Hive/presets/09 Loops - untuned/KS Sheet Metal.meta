@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4fead5d2-3772-41f6-a61e-52719d8e6797",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "KS Sheet Metal",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = dry clock\rMW = room\nUsage:\nBased on a sound by HS that was based on a sound by KS ;-)"
+}

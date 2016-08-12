@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "46c572f7-310c-497e-b8c5-aadbae8d0aad",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Caffeine",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff\rAT = bend octave down"
+}

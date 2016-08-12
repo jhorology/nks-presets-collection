@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "deda61ea-3eb0-4219-97c0-d3f59a8ef86f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Solonoid",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Duophonic distortion\r\rFind the strange '70s territory...\nUsage:\nMW = wah!\rAT = vibrato\rBC = Kentish wobble\rXP = delay time"
+}

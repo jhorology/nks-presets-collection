@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "73f9f6fa-0880-4412-b650-beafa836e4aa",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS String Palace - echoes",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = cutoff\rBC = to dotted delays"
+}

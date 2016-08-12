@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "da82789a-3680-4bb0-8cf9-8486ef4bb19f",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "AZ Azure",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Chords with paraphonic envelope effect\nUsage:\nMW = flapping"
+}

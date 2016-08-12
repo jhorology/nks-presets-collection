@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "238226e6-2a33-44fd-8508-e8f7364689ec",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Choirishy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = slower envelope\rAT = vibrato\rPB = detune, bend oscillator 2 only"
+}

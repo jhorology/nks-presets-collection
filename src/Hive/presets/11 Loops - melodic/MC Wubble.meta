@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4441c380-72cb-4bba-817b-9a1e8230b473",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "MC Wubble",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = shorten\rAT = cutoff down\rPW+ = cutoff up / resonance\nUsage:\nTry different engine modes\r"
+}

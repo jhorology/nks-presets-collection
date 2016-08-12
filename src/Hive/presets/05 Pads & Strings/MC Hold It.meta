@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "cfe7cf63-5ec5-4607-94f0-2a439d9629bd",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Hold It",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff, resonance\nAT = tremolo\nPB = detune"
+}

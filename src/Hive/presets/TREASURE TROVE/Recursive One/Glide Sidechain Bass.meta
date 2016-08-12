@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "a642890a-8671-4ad6-803c-80fd278d345e",
+  "types": [],
+  "modes": [],
+  "name": "Glide Sidechain Bass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Recursive One"],
+  "author": "Recursion Loop",
+  "comment": "Very simple bass, playing 7th intervals, with artificial sidechain\nUsage:\nModwheel opens filter"
+}

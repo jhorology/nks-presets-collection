@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8a47235c-87be-45eb-937d-e1e80df485ab",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Rez Spit",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Velocity-sensitive resonance\nUsage:\nMW = different attack\rAT = tremola"
+}

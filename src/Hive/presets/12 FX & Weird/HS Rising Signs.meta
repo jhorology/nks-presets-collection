@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ee06be05-9e52-4fb3-928f-fc9be3734413",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "HS Rising Signs",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nPB = rate\rMW = warble\rBC = offset LFOs\rXP = drench\rAT = add sub"
+}

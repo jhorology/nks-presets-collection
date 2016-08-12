@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9388073b-91f5-431d-b93e-f9cf1e94c696",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Whitewash",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = open up\nAT = 2nd layer"
+}

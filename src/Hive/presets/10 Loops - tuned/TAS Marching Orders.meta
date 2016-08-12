@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c8498cbe-40fa-4000-bc54-38444b01837d",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Marching Orders",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try bipolar LFO1\r(deactivate the [+])\nUsage:\nMW = simplify\rAT = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fd4cc116-bcba-4db6-8899-f80596b63a6f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Liquid Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = brighter\rAT = warble"
+}

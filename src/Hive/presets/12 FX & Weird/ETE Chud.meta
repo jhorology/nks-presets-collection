@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ed4a59c1-4cd9-4850-85a1-ab97bbe9c7c8",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Chud",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Woodpecker drone\nUsage:\nMW = distortion\rAT = pitch"
+}

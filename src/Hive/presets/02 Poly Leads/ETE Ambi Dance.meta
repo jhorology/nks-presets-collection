@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "25603dc9-31fc-430c-88f4-3bd055627122",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Ambi Dance",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "An open sounding synth.\nUsage:\nMW = vibrato\rAT = pitch\nBC = darken"
+}

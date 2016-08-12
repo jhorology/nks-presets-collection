@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c5f4d40d-a01b-4a10-b36d-b08b033615ed",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "MC Worble",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW or PB = flap speed\rAT = another flap"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a51a4340-e043-4c5d-91f0-f42674e64353",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Jumbo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = dampen\rAT = detune"
+}

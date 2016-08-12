@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fc8a716e-ff73-4c40-bcbc-b65fb6cea302",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Silent Circuits",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = liquify\nAT = brighten"
+}

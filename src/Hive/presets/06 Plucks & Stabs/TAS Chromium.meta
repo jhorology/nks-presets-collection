@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "112dd637-6e27-49d1-89db-e4127d6067ba",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "TAS Chromium",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff"
+}

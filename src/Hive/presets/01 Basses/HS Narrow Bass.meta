@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2a454e77-875a-441b-ab12-55308d89be3f",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Narrow Bass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nAT = vibrato\rMW = to pluck\rBC = cutoff up\rXP = add rust"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c407d5f7-3ec0-42b5-a142-4ed1c5a7cf2e",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Prairie",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = dampen\nAT = brighten"
+}

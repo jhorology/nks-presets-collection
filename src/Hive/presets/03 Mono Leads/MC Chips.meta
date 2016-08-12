@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b147ebff-c25a-4da2-8064-498c3d0243a6",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Chips",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff down, faster attack\rAT = vibrato"
+}

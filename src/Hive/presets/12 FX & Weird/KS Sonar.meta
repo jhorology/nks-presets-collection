@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "75986548-9c32-45ef-ba44-35fc962d1029",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "KS Sonar",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = lose the reverb\rMW = less percussive\nUsage:\nHold a note down and listen to the loop."
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2df105fb-5e91-40d5-9fc4-ef33092dd1ce",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Busy Bender",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = tone\rAT = more warble"
+}

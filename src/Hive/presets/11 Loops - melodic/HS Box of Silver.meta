@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ddb20d53-ca4e-4b4e-aea2-1a4172991d87",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Box of Silver",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Tweak all the following:\nUsage:\nMW = cutoff\rBC = crossfade to square\rAT = glide, pan\rXP = distortion"
+}

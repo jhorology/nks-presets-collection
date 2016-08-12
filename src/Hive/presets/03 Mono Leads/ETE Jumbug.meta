@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9e3b9a00-ddca-4a86-aa56-33c0f51b29d5",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Jumbug",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Short decay lead\nUsage:\nMW = vibrato & wobble\nAT = pitch"
+}

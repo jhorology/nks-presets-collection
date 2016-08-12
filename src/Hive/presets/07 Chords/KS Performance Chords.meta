@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f6fbf27a-7b36-4982-8f12-bf901023aa22",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "KS Performance Chords",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = cutoff\rMW = retune the 3rd"
+}

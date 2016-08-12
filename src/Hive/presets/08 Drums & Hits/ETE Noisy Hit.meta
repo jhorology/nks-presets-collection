@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6d5709da-1bb2-44bc-838f-799f867be434",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "ETE Noisy Hit",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Velocity-sensitive\nUsage:\nMW = delay\rAT = cutoff"
+}

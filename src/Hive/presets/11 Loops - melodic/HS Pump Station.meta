@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "56216126-b18d-4c74-be76-838a33e96af8",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Pump Station",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = shorten / cutoff\rBC = resonance\rAT = accent\rXP = phasing"
+}

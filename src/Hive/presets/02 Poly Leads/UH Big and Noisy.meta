@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f4aa1ebb-bbc2-40d7-b47c-04e0fddfad1c",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "UH Big and Noisy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Urs Heckmann",
+  "comment": "Usage:\nMW = cutoff"
+}

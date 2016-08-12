@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "edb59968-8a6d-4cf9-81bc-9424d231e428",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Hypnotizer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Velocity-sensitive\rUse all the following:\nUsage:\nPB = cutoff\rMW = longer\rBC = sweep\rAT = tank!"
+}

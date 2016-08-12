@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9f04554a-75ea-4512-aadc-a730cd71ab54",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ARK Rectifier",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Gritty phased square, with 5th\nUsage:\nMW = cutoff down\rAT = resonance"
+}

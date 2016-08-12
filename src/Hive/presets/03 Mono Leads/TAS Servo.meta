@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1c48caf8-10a1-4349-8297-4786348afe4b",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Servo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = hollow\nBC = tone"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6dc16eb2-2460-4439-9325-cf8009c7cc42",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Tripping",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = faster attack\nAT = cutoff\nPB = wobble, detune"
+}

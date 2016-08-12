@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3d947ff7-f0e4-42b8-b111-fc557120a5b6",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Fade Spread",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Medium keys that fade spread.\nUsage:\nMowheel = Vibrato\r\n\r\nAftertouch = Pitch"
+}

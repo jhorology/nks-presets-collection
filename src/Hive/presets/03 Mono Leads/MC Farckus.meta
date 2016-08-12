@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "aec9c8e2-df47-4a22-800a-694d7ef3f69c",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Farckus",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try OSC2 On in FILT1 section\rTry Distortion effect in 'Corrode' mode\nUsage:\nMW = vibrato\rAT = scream"
+}

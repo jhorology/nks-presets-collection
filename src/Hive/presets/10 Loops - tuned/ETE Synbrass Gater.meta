@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0c51449f-f7aa-499b-8f6e-331075798854",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Synbrass Gater",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Layered gate and pad\nUsage:\nMW = pad cutoff\nAT = gate cutoff"
+}

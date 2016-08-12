@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "47cac6cd-b86a-44df-b8eb-94ba120670e7",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Splatflutes",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = reverb\rBC = jaw-harpish"
+}

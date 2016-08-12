@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6a640d30-f9b9-4ff0-a208-f701e85b203e",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "RC Browning",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Rob Chokehold",
+  "comment": "Weep weep weep...\rHold a note down, add high melodies\nUsage:\nMW = distortion, width"
+}

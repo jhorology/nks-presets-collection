@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0310e337-f324-4098-be7f-a9a3e8ad8d05",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Four Square",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "PWM pad\nUsage:\nMW = cutoff\rBC = tune to 5th\rAT = vibrato"
+}

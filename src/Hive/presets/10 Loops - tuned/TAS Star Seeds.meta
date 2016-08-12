@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5e9b76cc-f294-494d-9a83-95891210fc84",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Star Seeds",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = simplify\nAT = pink noise"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e00c8821-484a-458c-b175-81d0ee20029f",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Lavender Breeze",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Listen to the tweets\nUsage:\nMW = chop\nAT = add sub\nPB = cutoff"
+}

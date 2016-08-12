@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "19c2e3f3-b785-40e8-8f40-b1bdff853628",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Midsyn",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = pitch/mix tweaks\rAT = bend"
+}

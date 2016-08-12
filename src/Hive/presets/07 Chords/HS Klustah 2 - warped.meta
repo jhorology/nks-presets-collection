@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b5265061-d501-4527-9162-861a4da1a963",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Klustah 2 - warped",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Extreme unison detunes\nUsage:\nPB = bend 2\rMW = cutoff\rBC = reverb mix\rXP = wahwah"
+}

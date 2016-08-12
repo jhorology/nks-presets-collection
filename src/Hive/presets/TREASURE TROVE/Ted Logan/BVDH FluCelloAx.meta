@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "09aa4a09-5f92-493e-ba57-a26636afbc87",
+  "types": [],
+  "modes": [],
+  "name": "BVDH FluCelloAx",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Ted Logan"],
+  "author": "Bernhard van der Horst",
+  "comment": "C3 and up with Modwheel halfway\r\nengaged = flute\r\nThe rest morphs between\r\nhybrid saxophones and cellos.\nUsage:\nModwheel:\r\n   Cutoff\r\n\r\nPressure:\r\n   Detune"
+}

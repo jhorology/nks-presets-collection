@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a00e9ec8-7018-4de3-a019-74294fd4e1a1",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Driven Single",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Fat warm distorted bass\nUsage:\nMW = delay mix\rAT = cutoff"
+}

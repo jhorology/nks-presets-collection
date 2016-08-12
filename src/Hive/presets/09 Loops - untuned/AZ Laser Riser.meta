@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5bc4047f-aa6d-4cf9-b0a5-9573713f08ea",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "AZ Laser Riser",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "A self rising arp with pitch mod via modwheel. Loops over 8 bars\nUsage:\nHold down a key in the middle or low Octave.  Use modwheel to bring in extra pitch modulation."
+}

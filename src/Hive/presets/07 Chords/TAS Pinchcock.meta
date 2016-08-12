@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6305a782-cb0d-42bf-b79b-eb022068453e",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "TAS Pinchcock",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = add mellow 7th\rAT = cutoff\rBC = distance"
+}

@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "188d3372-e1d9-4583-b01e-965c9188df24",
+  "types": [],
+  "modes": [],
+  "name": "PAD - Modular insection",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Omion Psychedelic"],
+  "author": "Omion",
+  "comment": "Slow pad FX \r\nSlow zap / pitch at kick-off\r\nInsects modulate\nUsage:\nOSC main modulation\r\n\r\nUse keys between C1 - C2 (max C3)\r\nVery long and short notes\r\n\r\nTake care for speaker\r\n\r\nModwheel:\r\nOpen filter cutoff\r\n\r\n"
+}

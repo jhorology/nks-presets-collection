@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0672e9a1-80a1-4cb2-adde-167de199a892",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Brightkey",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "A bright sound with faded vibrato.\nUsage:\nMW = quirky vibrato\rAT = add high OSC"
+}

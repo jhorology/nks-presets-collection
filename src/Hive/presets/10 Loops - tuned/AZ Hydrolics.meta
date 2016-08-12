@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8aab577e-7387-43a1-ba17-7904295c96b8",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Hydrolics",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "A dubstep style screamer\nUsage:\nMW = cutoff"
+}

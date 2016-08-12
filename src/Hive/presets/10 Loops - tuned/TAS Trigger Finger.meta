@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "20a5f94e-dd09-4568-ad50-8e609b726b56",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Trigger Finger",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = simplify\rAT = longer\nPB = grains"
+}

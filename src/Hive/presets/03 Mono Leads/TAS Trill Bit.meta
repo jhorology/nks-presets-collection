@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f1a4dd1c-7535-4c4e-8074-56edb11e470b",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Trill Bit",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = close down\rAT = pitch up"
+}

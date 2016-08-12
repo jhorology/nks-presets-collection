@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c7825689-70ea-40bf-845d-833c65082653",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Perc Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Percolating arpeggio\nUsage:\nMW = crush, chorus\rAT = phaser"
+}

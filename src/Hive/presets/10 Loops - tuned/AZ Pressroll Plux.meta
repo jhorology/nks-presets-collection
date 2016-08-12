@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "efc5b19b-a748-44a8-870f-9d97442d1946",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Pressroll Plux",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = sunshine"
+}

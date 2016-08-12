@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "9a3d0316-6bfd-4331-9981-b0818822a392",
+  "types": [],
+  "modes": [],
+  "name": "PL - Phasing Bold EX",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "eXode"],
+  "author": "eXode",
+  "comment": "Pluck sound that transforms into a big phasing stab-like sound\nUsage:\nMW opens filter, detunes oscillators, and adds phasing."
+}

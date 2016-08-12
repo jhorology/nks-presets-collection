@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9b4794e3-daa1-468e-bd21-5b028ad8789d",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Water Sprite",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rAT = filter wobble\r"
+}

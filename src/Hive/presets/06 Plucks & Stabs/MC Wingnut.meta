@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "729d288c-20c0-4cda-b283-32a50321c845",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "MC Wingnut",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = slower envelope\nAT = resonant sweep\nPB = detune"
+}

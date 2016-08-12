@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9da8b3f0-0210-48ef-9071-c6d5a2164c9c",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "TAS Parallax",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = tone\rAT = open up\rPB = speed"
+}

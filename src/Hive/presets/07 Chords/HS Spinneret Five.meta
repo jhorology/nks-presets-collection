@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "039fb9c6-60c5-4046-8057-33723e5ebe8e",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Spinneret Five",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Perform with wheels\nUsage:\nMW = bell notes\rAT = warble\rPB = warble rate, cutoff\rBC = reverb mix"
+}

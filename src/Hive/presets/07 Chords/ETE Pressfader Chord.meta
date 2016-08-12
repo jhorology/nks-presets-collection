@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c8b13492-7f3c-4da2-a258-4773bf1951d3",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Pressfader Chord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Basic detuned synth\nUsage:\nMW or AT = cutoff, sustain\rBoth together = shorten"
+}

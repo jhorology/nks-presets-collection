@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4c22ddbc-58a7-4aef-ae4f-82b2dc73215a",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Blimp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff, resonance\rAT = harmonic accent"
+}

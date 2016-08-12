@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7c627869-e572-4e42-847d-68161b21f40a",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "KS Security SEQ",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = sharpen\rMW = cutoff\nUsage:\nVery velocity-sensitive"
+}

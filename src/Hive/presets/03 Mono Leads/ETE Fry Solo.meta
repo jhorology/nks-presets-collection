@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f3449e79-73ee-4b47-af94-f05e9a71edce",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Fry Solo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Classic solo\nUsage:\nMW = vibrato\rAT = bend"
+}

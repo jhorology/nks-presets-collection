@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1feba554-0ac4-492e-8a03-ff4384dbfc20",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "TAS Dizzy Bee",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Perform using both wheels and aftertouch\nUsage:\nMW = tone\rAT = faster"
+}

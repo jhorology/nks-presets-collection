@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9636591b-0370-42a5-b032-086b1a000441",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "XS Pulsephase",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8192e553-3fbf-4262-a42d-1f8be48cffcc",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "TAS Venom",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = LFO rate\rAT = fly higher"
+}

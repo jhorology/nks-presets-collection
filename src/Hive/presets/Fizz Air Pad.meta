@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "4b37d2af-f2fe-4130-baaf-5bc69baf1947",
+  "types": [],
+  "modes": [],
+  "name": "Fizz Air Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Preview", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "05 Pads & Strings\nETE Fizz Air Pad\n----------------\n\nAiry octaved pad with modulated resonance fall\nUsage:\nMW = cutoff\rAT = tweet pitch"
+}

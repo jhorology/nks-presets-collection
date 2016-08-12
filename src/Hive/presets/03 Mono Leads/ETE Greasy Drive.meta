@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e9ebb603-13da-4e80-84a5-c1a9d46dacca",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Greasy Drive",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Mean, greasy lead / bass\nUsage:\nMW = cutoff & vibrato\rAT = pitch"
+}

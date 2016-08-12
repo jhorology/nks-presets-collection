@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8234a948-a339-4a58-8868-43f2a186b1eb",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Kompilerwelt",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Highly dynamic. Try octaves\nUsage:\nPB = length\rMW = chop\rBC = simplify\rXP = pluck\rAT = pazazz"
+}

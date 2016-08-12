@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "cecfb4f6-385d-4dc7-893a-3589e1603695",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "AZ Towers",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = LFO Speed"
+}

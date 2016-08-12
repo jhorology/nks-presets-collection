@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ab9199d3-a5fd-4eb5-968c-410dfe43357b",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Heat Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "An overdriven arp.\nUsage:\nMW = cutoff\rAT = phaser"
+}

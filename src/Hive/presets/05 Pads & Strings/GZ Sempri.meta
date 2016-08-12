@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2d56ec9e-db74-4053-8506-0d92995fbbef",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "GZ Sempri",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "EternitySound",
+  "comment": "Pad sound with an underlying sequence\nUsage:\nMW = close filter"
+}

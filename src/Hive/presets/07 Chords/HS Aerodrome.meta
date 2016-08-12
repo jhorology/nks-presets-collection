@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4ce88af0-e1f3-49d0-aa8a-11780dae6101",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Aerodrome",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = cutoff\rBC = simplify\rXP = balloons"
+}

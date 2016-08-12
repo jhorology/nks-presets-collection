@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "b69a500a-c83b-40a0-9664-0252b1e9ba00",
+  "types": [],
+  "modes": [],
+  "name": "MondoHiva Moving Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Fese"],
+  "author": "fese",
+  "comment": "simple Saw pad\nUsage:\nMW= Cutoff\r\nExpression = Env Release (don't remember why)"
+}

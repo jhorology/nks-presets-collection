@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "eef564d8-d9d8-4290-a32c-340454fa5f65",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Wilt",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Falling pitch with S&H\nUsage:\nMW = cutoff warble\rAT = S&H rate"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "41bcc8fa-62b5-4578-a23a-bf472bfba723",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Digital Waveform",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\rAT = wobble \rPB = wobble rate"
+}

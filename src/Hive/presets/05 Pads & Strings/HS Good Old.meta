@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f1541d09-8f2a-442d-83b0-ee7fc32fece0",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Good Old",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = cutoff\rBC = to 5th\rXP = chorus amount\rAT = chorus speed"
+}

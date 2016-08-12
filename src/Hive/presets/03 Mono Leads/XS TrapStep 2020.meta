@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "66ed3846-78b0-4835-b192-154b170c20f2",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS TrapStep 2020",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\rAT = wobble rate"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "773d1657-72cd-4e20-9027-a4e94d9e5fea",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ARK Red Stab",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Random hopping, stabbing arpeggio\nUsage:\nMW = cutoff\rAT = add 5th\nBC = lose vibrato"
+}

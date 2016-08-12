@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3ffcaff7-7f4d-424f-a4b5-79ee4d452261",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Dual OD",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = more vibrato\rBC = zing"
+}

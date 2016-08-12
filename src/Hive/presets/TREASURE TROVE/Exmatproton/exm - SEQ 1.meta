@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "8e9dd210-00ae-4f18-a3fe-7416536b9c6b",
+  "types": [],
+  "modes": [],
+  "name": "exm - SEQ 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "MW: SEQ to Filter\r\nMW: Tone Distort\r\nBR: Reverb Wet->LFO (reverb size) speed"
+}

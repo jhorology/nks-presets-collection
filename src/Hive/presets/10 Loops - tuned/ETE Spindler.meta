@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "91a4e78a-ebca-45c2-b0fe-59c051bc2b6b",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Spindler",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "A multi OSC synth with filter modulation.\nUsage:\nMW = slow down\rAT = brighten"
+}

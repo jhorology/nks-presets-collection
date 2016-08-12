@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "538a941b-54f7-4570-8d57-6ca24a7cbe1f",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "TAS Starting Sequence",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rAT = resonance\nPB = length"
+}

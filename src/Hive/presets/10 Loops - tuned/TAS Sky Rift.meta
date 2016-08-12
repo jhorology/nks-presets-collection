@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "39c0cd9a-ab4e-4f56-9dc5-ccbff1aee01e",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Sky Rift",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = chop more\rAT = phasing (chorus)"
+}

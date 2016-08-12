@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a6a8cbe2-3f40-4cb4-90a2-115fc0809631",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "TAS Blood Cell",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = lose high osc\rBC = grit\nXP = extra square"
+}

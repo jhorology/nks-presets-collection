@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "30d8696b-560c-4494-80f6-be26d5994bac",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Pure Pulse",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try Dirty mode\nUsage:\nMW = octave oscillator\rAT = bandpass"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8ffe10b0-9c5f-4dc9-99f8-f358fd457a8d",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Hook",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = chop\rAT = longer"
+}

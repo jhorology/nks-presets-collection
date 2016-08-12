@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d6c01560-8e2a-416f-837a-330e0801a59b",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "MC Crag",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try raising the resonance in filter 1 \nTry out different engine modes\nUsage:\nMW = rhythm + tone\nAT = resonance\nPB = cutoff + resonance"
+}

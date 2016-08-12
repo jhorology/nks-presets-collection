@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "41a0336c-d119-421d-8b84-dc28578c7a47",
+  "types": [],
+  "modes": [],
+  "name": "Ephemeral Sparkles",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Bmrzycki"],
+  "author": "Brian Rzycki",
+  "comment": "The lead sound from the deadr4t demo.\nUsage:\nVelodity - volume and attack (subtle!) of the pluck\r\nModwheel - remove FX (reverb and delay)\r\n\r\nPlay with the Left and Right delay times on the sound to create different textures."
+}

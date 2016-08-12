@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b5e79954-cbb7-4cb1-9204-71542837bea7",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "ETE Dance Octave",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Strong octaves\nUsage:\nMW = vibrato\rAT = cutoff"
+}

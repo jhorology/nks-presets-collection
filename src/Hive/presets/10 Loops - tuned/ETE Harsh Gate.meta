@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "430575e5-6224-47d2-b8da-1d3c031de48b",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Harsh Gate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = resonant sweeps\rAT = phaser"
+}

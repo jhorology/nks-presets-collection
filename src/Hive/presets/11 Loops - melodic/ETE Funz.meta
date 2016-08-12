@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "694e838a-0536-40e6-8c32-2aceac76cfed",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Funz",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Detuned sine + saw, major 7th\nUsage:\nMW = cutoff\rAT = delay"
+}

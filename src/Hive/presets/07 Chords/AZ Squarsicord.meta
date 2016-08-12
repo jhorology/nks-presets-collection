@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f2a82885-d3f0-456b-bf90-b3dbfeb1bc34",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "AZ Squarsicord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

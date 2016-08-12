@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "caf0c19c-8153-45f1-859b-3a89ca8ae40c",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "TAS Coil Clap",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\rPB = LFO rate"
+}

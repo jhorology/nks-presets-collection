@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2d393d42-6acb-4d24-8cb2-61b0e2512660",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Juna-Saw",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

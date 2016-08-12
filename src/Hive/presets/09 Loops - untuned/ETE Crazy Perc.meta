@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "fbcd05f8-895b-47d0-9b74-025b7ae0e049",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "ETE Crazy Perc",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Percussive with constant synth.\nUsage:\nMW = distortion\rAT = tone/pitch"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5e0f1708-a705-4d5b-8ae8-0852653808ff",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "MC Livid",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff\nAT = tremolo\nPB = detune"
+}

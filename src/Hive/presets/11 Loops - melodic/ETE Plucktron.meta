@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4f58160f-99ee-43c3-acf5-c1abfb8d4a44",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Plucktron",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = shorten, cutoff\nAT = resonance"
+}

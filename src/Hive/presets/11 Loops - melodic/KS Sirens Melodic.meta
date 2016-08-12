@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1ac5c0b2-1415-471f-a035-22307030ec3e",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "KS Sirens Melodic",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = cutoff up\rMW = cutoff down\rBC = glitch\nUsage:\n130 BPM"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9567225a-07c9-48b0-8ddb-bd570fcd03d7",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Slow Space Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Play clusters for arpeggio-flow\nUsage:\nMW = cutoff up\rBC = cutoff down\rXP = resonance\rAT = warble"
+}

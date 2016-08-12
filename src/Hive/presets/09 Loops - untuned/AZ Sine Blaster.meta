@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a9ffc823-2c40-468f-af83-597ea6879831",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "AZ Sine Blaster",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = tone"
+}

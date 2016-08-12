@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a990870a-3600-4902-9129-acc45983fb14",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ HIVE Angst MID",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = vibrato & warble rate"
+}

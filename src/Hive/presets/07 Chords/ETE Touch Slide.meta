@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ddb3c1b6-03bd-4175-9794-149e172e0d66",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Touch Slide",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Velocity-sensitive slide rate\nUsage:\nMW = vibrato\rAT = bend"
+}

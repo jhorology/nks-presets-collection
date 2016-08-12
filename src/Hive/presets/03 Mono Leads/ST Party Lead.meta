@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7d1470fc-e0d2-4301-bb63-ade8cb9403e5",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ST Party Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "Usage:\nMW = cutoff"
+}

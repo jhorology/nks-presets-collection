@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "19630fe1-d08d-4574-aa0e-717f441f29d5",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Rolling Gate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Jumping filters\nUsage:\nMW = cutoff\rAT = add octave up"
+}

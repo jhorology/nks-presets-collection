@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6e2ae2ad-b405-4010-8c5c-822020f9eb03",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "TUC Alarm II",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = brighter\nAT = slower"
+}

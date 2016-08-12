@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b7e25d62-72ec-41ee-81c0-06c0992b3649",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Glider",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

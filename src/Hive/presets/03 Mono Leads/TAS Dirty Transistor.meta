@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f38e566b-3bfa-4b92-8e8f-d6842e1a1505",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Dirty Transistor",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = clean\rAT = brighter\rPB = tone"
+}

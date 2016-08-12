@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "10a51525-c146-4a90-b1b2-1493e5775381",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "MC Rotifer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff\nAT = vibrato\nPB = detune"
+}

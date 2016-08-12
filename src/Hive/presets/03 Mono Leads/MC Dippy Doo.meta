@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "78f195d4-3c26-4ad7-80fa-043bb49f3425",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Dippy Doo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try DUO mode\rTry AMP1 Release below 20.00\nUsage:\nMW = vibrato\rAT = resonance"
+}

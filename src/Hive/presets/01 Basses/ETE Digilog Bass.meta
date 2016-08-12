@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c28aafcf-8519-4101-ba8b-73302ef824dd",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "ETE Digilog Bass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Fat octaved bass.\nUsage:\nMW = cutoff\rAT = pitch"
+}

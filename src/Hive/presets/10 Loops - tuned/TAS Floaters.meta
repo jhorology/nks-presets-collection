@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bd488030-4fb1-4dc1-bcb0-0dbabe076811",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Floaters",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = simplify\rAT = less detune"
+}

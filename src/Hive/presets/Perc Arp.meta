@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "38a8dd79-818b-4f91-8c37-40da7bb31550",
+  "types": [],
+  "modes": [],
+  "name": "Perc Arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Preview", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "10 Loops - tuned\rETE Perc Arp\r----------------\r\rPercolating arpeggio\nUsage:\nMW = crush, chorus\rAT = phaser"
+}

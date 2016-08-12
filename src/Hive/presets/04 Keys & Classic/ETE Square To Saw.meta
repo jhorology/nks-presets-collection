@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "61c44562-c726-41c4-854b-062bcf3f4874",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "ETE Square To Saw",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "X-fade waveforms per note\nUsage:\nMW = vibrato\rAT = cutoff"
+}

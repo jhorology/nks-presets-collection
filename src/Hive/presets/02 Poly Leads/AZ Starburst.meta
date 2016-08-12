@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4c294fb7-1f8b-40a5-809d-2f0e54bbe9ac",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Starburst",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff\rBC = darken"
+}

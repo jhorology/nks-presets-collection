@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1f37ef0c-1419-42bf-86dc-9bf0a7932df5",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Propellant",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Discover what this lot does...\nUsage:\nMW = 16th wobble\rPB = cutoff\rBC = darken\rXP = delay\rAT = distortion"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "deece3c8-cc9f-4d3f-b681-57c0b71a95ab",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Thrillseeker",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = soften"
+}

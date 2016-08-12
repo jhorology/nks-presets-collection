@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6e69700f-b1af-4e2c-9907-7121099f6710",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TAS Quiet Morning",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = fade out pad\nAT = resonance\nPB = cutoff"
+}

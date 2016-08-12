@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "05d94f65-96b8-4946-ae37-afc3f6262075",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE S&H Layer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Chill gated pad\nUsage:\nMW = cutoff\rAT = vibrato"
+}

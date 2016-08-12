@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e856188f-c7bb-4049-b310-71a5fb157ef9",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Embedded",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = snares\rBC = glitch\rXP = simpler\rAT = vibrato / untune"
+}

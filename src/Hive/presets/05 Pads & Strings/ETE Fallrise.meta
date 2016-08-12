@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "87a32cbc-d380-4b28-99c2-241b5adf8aa3",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Fallrise",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Big pad with several types of sweep\nUsage:\nMW or AT = vibrato"
+}

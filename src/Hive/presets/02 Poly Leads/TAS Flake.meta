@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9c2a810c-42bd-4ff1-84b2-dd8eabfe016e",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Flake",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = shorter decay\rPB = LFO rate"
+}

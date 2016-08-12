@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "ae951836-5535-408a-9a98-bb83529bdf2f",
+  "types": [],
+  "modes": [],
+  "name": "Whipmod",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Preview", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "12 FX & Weird\nETE Whipmod\n----------------\n\nA multi-OSC sound with filter modulation.\nUsage:\nMW or AT = cutoff & rate"
+}

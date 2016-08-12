@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d824bf7b-65b8-4811-9015-e7257e0fe439",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Trends",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Velocity-sensitive attack\nUsage:\nMW = cutoff\nAT = vibrato\nPB = detune"
+}

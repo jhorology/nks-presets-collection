@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b7793664-6ec9-4ea1-a256-a0b3905677c1",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "ETE Dry Bass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Dry velocity sensitive bass or lead.\nUsage:\nMW = cutoff\rAT = pitch (octave)"
+}

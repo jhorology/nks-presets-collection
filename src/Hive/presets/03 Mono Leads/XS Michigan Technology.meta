@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "edcd5f7c-5b12-4d67-b67f-c59a65b8e70a",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Michigan Technology",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = cutoff\nAT = warble"
+}

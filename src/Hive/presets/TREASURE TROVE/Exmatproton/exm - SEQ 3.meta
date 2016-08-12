@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "ac7b8791-5f83-4308-b311-4ce6d06fd735",
+  "types": [],
+  "modes": [],
+  "name": "exm - SEQ 3",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "MW: OSC 2 + SUB 2\r\nBR: More Feedback\r\nExp: Delay HighPass"
+}

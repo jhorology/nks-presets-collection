@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "054f4c83-2a9a-40ab-935a-8e4dd427f153",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Dark Square",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "See matrix slot 01\nUsage:\nMW = cutoff"
+}

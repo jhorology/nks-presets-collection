@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "551d6cec-c9fb-4ca2-9830-0744e4c37993",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Stomp Time",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Also try without Delay\nUsage:\nMW = sustain\rPB+ or AT = wobble\rXP = glide"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ad08670b-b89f-4e46-842a-fe308a48c900",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Diddley 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = brighten\rBC = diffuse\rPB+ = darken\rAT = detune\rXP = resonance"
+}

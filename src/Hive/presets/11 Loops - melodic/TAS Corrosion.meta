@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9d2d5d7f-32c8-4332-ba5b-52f9df24a74b",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "TAS Corrosion",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try adjusting the sequencer Gate value\nUsage:\nMW = thicken\rAT = oscillator mix\rBC = cutoff"
+}

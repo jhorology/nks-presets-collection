@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2113779e-cb3e-4777-b3c5-264543901bd2",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Backpacking",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Performance preset inspired by a certain very early Kraftwerk track.\nUsage:\nMW = ratchet (keep moving)\rBC = cutoff up\rXP = cutoff down\rAT = secondary pitch"
+}

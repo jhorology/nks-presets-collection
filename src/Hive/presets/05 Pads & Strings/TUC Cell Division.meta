@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1182ca03-2525-4ab6-b28c-0d55a79efa03",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "TUC Cell Division",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = slow\nAT = tone"
+}

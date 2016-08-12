@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4da2d077-7eb7-48ad-9b24-389cb3ebce9d",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Kaplow",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = slower flange"
+}

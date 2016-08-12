@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4bf289b4-d2a4-446f-8b7c-eb74ac251baa",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE VI Seq",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Alternating sounds\nUsage:\nMW = darken, flatten\rAT = phaser"
+}

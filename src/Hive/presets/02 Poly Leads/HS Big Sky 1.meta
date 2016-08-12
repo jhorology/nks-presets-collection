@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a4b7c978-ac39-468b-9780-40646c475148",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Big Sky 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Highly velocity-sensitive\nUsage:\nMW = resonance\rBC = 5th mix"
+}

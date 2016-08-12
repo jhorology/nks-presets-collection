@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6a2cf106-c70f-4ec3-932e-078247fff486",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Dippy Duo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try Legato mode\rTry AMP1 Release above 70\nUsage:\nMW = vibrato\rAT = darker, vibrato"
+}

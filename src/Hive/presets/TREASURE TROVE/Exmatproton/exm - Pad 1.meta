@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "7cb2884d-118d-46b5-ba11-70e600a76622",
+  "types": [],
+  "modes": [],
+  "name": "exm - Pad 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Exmatproton"],
+  "author": "exm",
+  "comment": "MW: PW->LFO->OSC 1 + 2\r\nMW: LFO 1 + 2 rate\r\nMW: lower Detune values\r\nMW: more Reverb (and compressing)\nUsage:\nOSC set to -2 semi tones. Play 2 tones (e.g. C5 \r\n+ G5) for a full chord"
+}

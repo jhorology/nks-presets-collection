@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e10bc714-7633-4ffa-9da0-ea9665323189",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "TUC Distorted Pulse Bass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = LFO rate"
+}

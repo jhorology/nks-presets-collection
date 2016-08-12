@@ -1,0 +1,12 @@
+{
+  "vendor": "u-he",
+  "uuid": "9f454e55-d37a-4eb8-ab2e-c631345ac53c",
+  "types": [
+    ["User"]
+  ],
+  "modes": [],
+  "name": "-- INIT --",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "comment": "Usage:\nMW = modulation wheel\rBC = breath control\rXP = expression pedal\rAT = aftertouch (pressure)\rPB = pitch bender"
+}

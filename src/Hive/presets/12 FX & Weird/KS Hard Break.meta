@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f726e94d-1ba2-47ad-9a3e-eb017cbdc658",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "KS Hard Break",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = LFO Speed\rMW = Flanger Feedback"
+}

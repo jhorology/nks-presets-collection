@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d1b0d8b5-ba79-4a96-8543-fd189d793bfc",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Chip Chirp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Phone ring seq\nUsage:\nMW = cutoff\rAT = octave bend"
+}

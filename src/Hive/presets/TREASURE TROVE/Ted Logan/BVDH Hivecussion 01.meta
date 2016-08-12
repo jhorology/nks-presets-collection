@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "d9ce8d26-13eb-4ec0-b9b7-6175c31a367d",
+  "types": [],
+  "modes": [],
+  "name": "BVDH Hivecussion 01",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Ted Logan"],
+  "author": "Bernhard van der Horst",
+  "comment": "Percussive patch\r\n\r\nIt likes to beat along to\r\nits own rhythm I'm afraid.\nUsage:\nPlay C0 - C2 for intended results\r\nOr, play whichever notes you like. \r\n\r\nModwheel:\r\n delay + slight frequency boost\r\nPressure:\r\n Reverb Dry/Wet via modwheel\r\n"
+}

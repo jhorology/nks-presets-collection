@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "17bc80c6-1586-48a2-8c9c-e81ee64bc000",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "AZ Pluck Loop",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = cutoff"
+}

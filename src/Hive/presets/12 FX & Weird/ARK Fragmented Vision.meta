@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c2d05958-229a-4287-af52-065bdec5e162",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ARK Fragmented Vision",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Jittery distant hollow pad\nUsage:\nMW = cutoff up, slower jitter\rAT = cutoff down, resonance"
+}

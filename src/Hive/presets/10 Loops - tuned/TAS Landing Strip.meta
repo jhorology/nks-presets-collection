@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b28d5ad2-0f1d-45a0-9949-6942e5cc7064",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Landing Strip",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try different LFO rates\nUsage:\nMW = cutoff"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b477bed2-8368-47f0-940b-f2bc828db631",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Peaky Blender",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = bendify\rBC = sub mix\rXP = soften\rAT = glide rate"
+}

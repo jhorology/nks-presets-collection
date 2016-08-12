@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "cff98f6f-b0fc-4b66-b42c-a19fbf2316c9",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Motorwah",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = add 5th\nBC = room"
+}

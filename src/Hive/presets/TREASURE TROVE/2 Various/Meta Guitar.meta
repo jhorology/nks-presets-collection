@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "f13e49c1-92e8-41e2-bdbb-d5b1519acbbf",
+  "types": [],
+  "modes": [],
+  "name": "Meta Guitar",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "2 Various"],
+  "author": "Breeze",
+  "comment": "Guitar patch: OSC1 = String, OSC2 = Pick.\r\nMW moves from full sound to muted picking.\r\n\r\nVery velocity sensitive: will need adjustment based on playing style.\r\n\r\nLots of ways of customizing this patch!\nUsage:\nNo vibrato: use AT (mod is doubled) & shake finger\r\nBend = PB + AT\r\nMW up 100%  = muted picking\r\n\r\nUse Narrow Pulso on Sub 1 for more single coil snd.\r\n\r\nWaves,EQ, Dist,Cutoff... so many ways to alter this patch. \r\n"
+}

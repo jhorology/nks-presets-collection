@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0e0d459a-941d-457b-a928-34893338c144",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Wireframe",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try Dirty mode\nUsage:\nMW = distortion\nAT = resonance\nPB = cutoff"
+}

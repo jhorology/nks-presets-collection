@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "e4f3080a-1665-4cc1-865d-d6c2cc2e4aef",
+  "types": [],
+  "modes": [],
+  "name": "BVDH Stormdrain",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Ted Logan"],
+  "author": "Bernhard van der Horst",
+  "comment": "Water leaking from a pipe inside a\r\nsewer, with a storm raging outside.\r\nPlay the water with one note held\r\ndown and strike lightning \r\nwith the other.\nUsage:\nModwheel:\r\n  go outside\r\nPressure:\r\n  lightning intensity (turn on distortion\r\n  for more bite)\r\nFilter 2 Volume:\r\n  turn off storm\r\n\r\n"
+}

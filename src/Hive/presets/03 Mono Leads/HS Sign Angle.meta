@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "90a83dbe-087f-4c5d-8469-e7b53370dba6",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Sign Angle",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = vibrato\rBC = breath"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "54d49eb0-063c-4fab-a796-c0ef00bf165c",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "MC Shorty",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = attack, resonant 'spit'\rAT = cutoff (longer sustain)\rPW = LFO1 to cutoff"
+}

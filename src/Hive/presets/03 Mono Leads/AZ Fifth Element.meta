@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c4416c70-e492-4f44-86c4-639b9a4ca8a3",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Fifth Element",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "5th pluck with ducked reverb\nUsage:\nMW = cutoff"
+}

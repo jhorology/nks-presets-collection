@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "d182966f-5d49-47b9-90ba-6658c48ac07e",
+  "types": [],
+  "modes": [],
+  "name": "NB - Squelch 1",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "NoizeBusters"],
+  "author": "Ralph Knobloch",
+  "comment": "Squelch Fx - use Modwheel to control LFO Rate\nUsage:\nmore stuff @ www.noizebusters.com"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b05291f1-6eda-4696-af97-1ca3a0e55f9a",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Crusher Wheels",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = crush amount\rPW = crush tone\rAT = bite \rBC = darken"
+}

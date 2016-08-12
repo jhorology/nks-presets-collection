@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "969756c3-0982-4a28-90bd-53838185076c",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Pimp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try NORMAL mode\nUsage:\nMW = less detune, slower attack\nAT = vibrato\nPB = osc1 only"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "16b48d69-5fb4-4fe4-b5c3-eb6081f184f5",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Holla Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "See Busta Rhymes' \"Holla\".\nUsage:\nMW = cutoff\rAT = more vibrato"
+}

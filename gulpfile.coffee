@@ -3196,6 +3196,35 @@ gulp.task 'hive-extract-raw-presets', ->
     , $.execOpts
     .pipe exec.reporter $.execRepotOpts
 
+# extract PCHK chunk from .nksf files.
+gulp.task 'hive-extract-raw-presets-nksf', ->
+  gulp.src ["temp/#{$.Hive.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.Hive.dir}/presets"
+
+gulp.task 'hive-check-presets-h2p', ->
+  presets = "src/#{$.Hive.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      relative = path.relative presets, path.dirname file.path
+      hivePreset = path.join $.Hive.presets, relative, "#{basename}.h2p"
+      if not fs.existsSync hivePreset
+        console.info "#{relative}/#{basename}.h2p not found."
+
+gulp.task 'hive-check-presets-pchk', ->
+  presets = "#{$.Hive.presets}"
+  gulp.src ["#{$.Hive.presets}/**/*.h2p"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      relative = path.relative presets, path.dirname file.path
+      pchkPreset = path.join "src/#{$.Hive.dir}/presets", relative, "#{basename}.pchk"
+      if not fs.existsSync pchkPreset
+        console.info "#{relative}/#{basename}.pchk not found."
+
 # extract PCHK chunk from ableton .adg files.
 gulp.task 'hive-extract-extra-raw-presets', ->
   gulp.src ["#{$.Ableton.racks}/#{$.Hive.dir}/TREASURE TROVE/**/*.adg"]
@@ -3270,39 +3299,38 @@ gulp.task 'hive-generate-meta', ->
     .pipe data (file) ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
-      folder = (path.relative presets, path.dirname file.path).split path.sep
+      relative = path.relative presets, path.dirname file.path
+      folder = relative.split path.sep
+      hivePreset = path.join $.Hive.presets, relative, "#{basename}.h2p"
+      hiveMeta = hiveParser.parse hivePreset
+      bank = switch
+        when folder[0].match /^[0-9][0-9] / then 'Hive Factory'
+        when not folder[0] then 'Hive Preview'
+        else folder[0]
+      subBank = if folder.length is 2 then folder[1] else ''
       # meta
-      meta = if folder[0] is 'Expansions'
-        vendor: $.VacuumPro.vendor
+      meta =
+        vendor: $.Hive.vendor
         uuid: _uuid file
-        types: [
-          [folder[2][3..]]
-        ]
+        types: []
         modes: []
         name: basename
         deviceType: 'INST'
-        comment: ''
-        bankchain: ['VacuumPro', folder[1], '']
-        author: ''
-      else
-        vendor: $.VacuumPro.vendor
-        uuid: uid
-        types: [
-          [folder[0][3..]]
-        ]
-        modes: []
-        name: basename
-        deviceType: 'INST'
-        comment: ''
-        bankchain: ['VacuumPro', 'VacuumPro Factory', '']
-        author: ''
+        bankchain: ['Hive', bank, subBank]
+      meta.types = [[folder[0][3..]]] if bank is 'Hive Factory'
+      meta.author = hiveMeta.Author.trim() if hiveMeta?.Author
+      meta.comment = hiveMeta.Description.trim() if hiveMeta?.Description
+      meta.comment = '' if not hiveMeta?.Description and hiveMeta?.Usage
+      meta.comment += '\n' if hiveMeta?.Description and hiveMeta?.Usage
+      meta.comment += "Usage:\n#{hiveMeta.Usage}" if hiveMeta?.Usage
+
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
-      console.info json
+      console.info "##### meta:#{json}"
       file.contents = new Buffer json
       # rename .pchk to .meta
       file.path = "#{file.path[..-5]}meta"
       meta
-    .pipe gulp.dest "src/#{$.VacuumPro.dir}/presets"
+    .pipe gulp.dest "src/#{$.Hive.dir}/presets"
 
 
 
@@ -4033,7 +4061,6 @@ _deploy_resources = (dir) ->
 _deploy_presets = (dir) ->
   gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
     .pipe gulp.dest $.NI.userContent
-
 
 #
 # release

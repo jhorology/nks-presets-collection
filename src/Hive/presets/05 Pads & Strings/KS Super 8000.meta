@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e4dad7da-4b3f-417b-a5d2-725d77714d5f",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "KS Super 8000",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = vibrato\rMW = cutoff & tremolo"
+}

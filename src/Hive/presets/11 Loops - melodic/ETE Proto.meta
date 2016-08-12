@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f2e5c278-5d77-4904-a571-ec6af473dd53",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Proto",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Analog and chips\nUsage:\nMW = add low octave\rBC = tuning\rXP = glide\rAT = thinner"
+}

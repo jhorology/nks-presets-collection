@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3846e2ab-633c-43b1-84e3-1773fe1459f3",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Recall",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\rAT = tremola"
+}

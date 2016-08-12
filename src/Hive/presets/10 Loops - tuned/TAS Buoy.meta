@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bbd0649c-1e32-4c84-a940-cb3724f4ae02",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Buoy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff\nAT = detune\nPB = LFO rate"
+}

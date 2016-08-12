@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b41efda8-2746-4604-805a-21cffcbd52b3",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "ST SawBassFiller",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "Usage:\nMW = cutoff"
+}

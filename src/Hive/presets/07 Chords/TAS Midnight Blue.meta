@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f148b887-a216-437f-ae24-b68a6f37f67a",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "TAS Midnight Blue",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Add9 chord\nUsage:\nMW = cutoff\rAT = panning, cutoff"
+}

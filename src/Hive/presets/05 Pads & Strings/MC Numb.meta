@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "915407eb-8756-4501-a3de-12aaaf2bfcbe",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Numb",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = faster attack\nAT = detune\nPB = osc2 only"
+}

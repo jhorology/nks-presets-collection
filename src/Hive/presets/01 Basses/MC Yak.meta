@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3454ea3f-a9c5-4aac-9833-b2fc5e157eb1",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "MC Yak",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\nAT = decay, cutoff\rPW = cutoff"
+}

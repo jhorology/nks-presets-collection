@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3d7681b5-bd86-4969-8359-4ed275583ec1",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Sapztasic",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Phased and distorted\nUsage:\nMW = cutoff & bit-rate\rAT = smoother rhythm"
+}

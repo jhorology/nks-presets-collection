@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "58d746ad-c915-4129-9845-4a8d38470b5c",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Square Me",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Heavily distorted square wave\nUsage:\nMW = cutoff down\rAT = bend"
+}

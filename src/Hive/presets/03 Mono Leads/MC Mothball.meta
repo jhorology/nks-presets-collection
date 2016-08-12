@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4b319db4-a20b-414f-a817-07cda8c607ca",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Mothball",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try different waveforms for OSC1\nUsage:\nMW or AT = vibrato"
+}

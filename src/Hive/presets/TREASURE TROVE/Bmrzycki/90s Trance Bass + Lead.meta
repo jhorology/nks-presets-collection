@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "282bee2e-a4a7-4894-a55d-096b7ee43084",
+  "types": [],
+  "modes": [],
+  "name": "90s Trance Bass + Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Bmrzycki"],
+  "author": "Brian Rzycki",
+  "comment": "Used in the 90s_hive_trance demo. OSC1 is the lead, OSC2 is the bass.\nUsage:\nModwheel - crossfade between bass and lead\r\nPressure - add detune and release to Lead\r\nBreath - reduces the amount of reverb"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b3fd82de-7b5b-4c02-b9e5-b8c4b926d83a",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Living Legend",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Try arp / sequencer\nUsage:\nMW = add zing\rAT = vibrato, detune\rBC = vibrato"
+}

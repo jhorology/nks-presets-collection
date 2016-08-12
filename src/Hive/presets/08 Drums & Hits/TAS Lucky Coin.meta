@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b0da8c09-08a6-4ad2-8876-11aa2ea4cc7a",
+  "types": [
+    ["Drums & Hits"]
+  ],
+  "modes": [],
+  "name": "TAS Lucky Coin",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Try adjusting LFO1 rate\nUsage:\nMW = simplify"
+}

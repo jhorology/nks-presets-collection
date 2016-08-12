@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "a73748c1-a7ab-40c5-a537-4dad5ad277cd",
+  "types": [],
+  "modes": [],
+  "name": "Minor Triad Seq",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Recursive One"],
+  "author": "Recursion Loop",
+  "comment": "Sequenced minor triads with little bitchrusher\nUsage:\nModwheel opens filer, makes release longer and removes bitchrusing"
+}

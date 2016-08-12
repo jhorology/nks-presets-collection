@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2706ffba-6fb8-4ee2-8483-6efc639c4132",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Jenga",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW or AT = cutoff down, resonance"
+}

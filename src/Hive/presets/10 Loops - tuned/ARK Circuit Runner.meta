@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a2072207-07a0-4f1b-9c1a-0f13592d1b07",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ARK Circuit Runner",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Brooding gated drone\nUsage:\nMW = less gating\nAT = resonance -> squeal"
+}

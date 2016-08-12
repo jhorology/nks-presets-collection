@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "de65fa0a-a716-454d-b02c-57d4b513f2ba",
+  "types": [],
+  "modes": [],
+  "name": "BAS AnhaltEBM JD",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Synthetic Illusion"],
+  "author": "Joel Dreaver",
+  "comment": "Turn on Sequencer for EBM Riff, just play the patch."
+}

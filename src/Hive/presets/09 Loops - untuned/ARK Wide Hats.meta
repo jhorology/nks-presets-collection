@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "2881eec0-1681-4e58-aee3-58faf4f242bc",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "ARK Wide Hats",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Arksun",
+  "comment": "Sequenced hihat\nUsage:\nMW = cutoff\rAT = bit-crush"
+}

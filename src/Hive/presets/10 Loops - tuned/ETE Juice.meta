@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "da43cb46-863b-49a1-816a-fa1536a59a1e",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Juice",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW or AT = cutoff"
+}

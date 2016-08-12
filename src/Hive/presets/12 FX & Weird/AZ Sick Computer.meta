@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "efce9fa3-d595-4bde-a54d-eabaf5d3ccac",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "AZ Sick Computer",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = sample rate"
+}

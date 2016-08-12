@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0d8446eb-aba8-4f95-95a9-a7be1b66da24",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "HS Fifth Elemental",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Primitive mono, 5th re-tunable\nUsage:\nMW = retune\rAT = vibrato\rXP = cutoff"
+}

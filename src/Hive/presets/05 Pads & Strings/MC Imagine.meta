@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "52ee166e-5c01-4f45-90ca-4aab91c52da3",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Imagine",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = cutoff\nAT = tremolo\nPB = osc1 only"
+}

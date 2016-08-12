@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c60224c9-2b4c-4d1c-aff1-7870876a6b26",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Yippy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try turning on SUB1 and/or SUB2 in FILT1 section\nUsage:\nMW = attack, cutoffs\rAT = vibrato, resonant sweep"
+}

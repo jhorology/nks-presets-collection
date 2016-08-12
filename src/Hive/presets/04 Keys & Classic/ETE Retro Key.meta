@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e5ab13ba-125d-41f7-a061-bebb10aba50e",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "ETE Retro Key",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Old string machine or modern synth?\nUsage:\nMW = vibrato\rAT = low oscillators"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8f7e7ada-3e8e-42d9-9e27-088ea4e25dac",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Breath Softly",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Mellow sequence with several random parameters per note\nUsage:\nMW = tone, vibrato\rBC = to minor or major 3rd\rAT = detune"
+}

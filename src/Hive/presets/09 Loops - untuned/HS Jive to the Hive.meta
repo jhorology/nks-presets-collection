@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "97661edc-2c9d-4103-ac5c-2312508aa1ad",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Jive to the Hive",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Use both wheels\nUsage:\nPB = length\rMW = depth"
+}

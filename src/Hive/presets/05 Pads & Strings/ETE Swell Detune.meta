@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c4ac3025-6e51-44d0-9a93-ec37f5665f35",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Swell Detune",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Basic swell synth\nUsage:\nMW or AT = cutoff"
+}

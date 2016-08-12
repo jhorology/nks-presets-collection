@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "147e7e15-488c-49d1-9a71-c7e46fe86abd",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "ST Razor Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Solidtrax",
+  "comment": "Usage:\nMW = close filter"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c3cee5a8-464b-40cf-b125-cb0696654adc",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Gate Rider",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff down\rAT = cutoff up"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "154c373d-318b-4ad4-8a59-b63050b8623f",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Clean Supersaw",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Stacked saws with bright distortion and effect ducking.\nUsage:\nMW = cutoff"
+}

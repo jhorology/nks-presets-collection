@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "6979fc9f-06fd-4559-9965-cb9e7b41998f",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Swing Sixteen",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Swing arp with random elements\nUsage:\nMW = soften\rAT = phaser"
+}

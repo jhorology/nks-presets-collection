@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "0d370779-082c-40a0-aecc-0b1c0e2f4a3d",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "GZ Phantom Mau5",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "EternitySound",
+  "comment": "Inspired by \"Phantoms can't Hang\" by DM.\nUsage:\nMW = cutoff\rBC = add minor 3rd\rXP = less delay / reverb"
+}

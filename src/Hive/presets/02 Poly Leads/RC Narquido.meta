@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "13bc1d43-429e-4942-b314-3c3bf32f68f9",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "RC Narquido",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Rob Chokehold",
+  "comment": "Hold a low drone and play higher melodies"
+}

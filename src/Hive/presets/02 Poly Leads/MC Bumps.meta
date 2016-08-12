@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "c06c1a55-60fc-4379-bcb0-7aaf9fc56326",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Bumps",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff\rAT = resonance\rPB = bend oscillator 2 only"
+}

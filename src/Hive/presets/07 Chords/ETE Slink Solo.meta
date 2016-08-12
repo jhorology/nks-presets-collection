@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "79b03003-15df-45ef-bdbd-fc87b6236351",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Slink Solo",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Duophonic\rTry playing bagpipe-style drone + lead\nUsage:\nMW = vibrato\rAT = bend lower osc"
+}

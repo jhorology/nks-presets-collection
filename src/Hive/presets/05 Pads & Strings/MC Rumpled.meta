@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "becbb4eb-c477-4f99-8df1-d0ff71471aa3",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "MC Rumpled",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Usage:\nMW = brighter\nAT = tremolo\nPB = detune"
+}

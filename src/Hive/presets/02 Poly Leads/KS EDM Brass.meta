@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "72238f59-87ae-44f5-8f6a-c72b61f729fb",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "KS EDM Brass",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Kevin Schroeder",
+  "comment": "AT = wobble\rMW = cutoff\rBC = less glide"
+}

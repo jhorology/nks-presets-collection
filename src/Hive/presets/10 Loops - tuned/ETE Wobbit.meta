@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9a99cac6-127d-47eb-8c44-8e94e5ed9966",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Wobbit",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff, resonance\rAT = tone"
+}

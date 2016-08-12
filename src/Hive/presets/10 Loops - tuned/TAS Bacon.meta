@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "a88d3bd2-7519-40a2-9233-2078adf5af32",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Bacon",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = shorter\nAT = resonance"
+}

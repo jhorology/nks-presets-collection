@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1fd2167d-c13a-4234-9c53-ecb8f2b065f7",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Futura",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Soaring lead\nUsage:\nMW = glissando"
+}

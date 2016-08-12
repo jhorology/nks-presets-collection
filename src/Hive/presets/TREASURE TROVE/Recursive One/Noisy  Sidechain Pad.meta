@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "b940a40b-877e-44d4-95c4-8bbe5bc65807",
+  "types": [],
+  "modes": [],
+  "name": "Noisy  Sidechain Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Recursive One"],
+  "author": "Recursion Loop",
+  "comment": "Unison pad  with artificial sidechan and serial filters\nUsage:\nModwheel opes filter and adds phaser"
+}

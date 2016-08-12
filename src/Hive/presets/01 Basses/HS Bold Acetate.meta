@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b12184cb-74eb-4a76-b3a1-dca28117e620",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Bold Acetate",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = tone\rBC = octave up\rXP = pulse width (depends on MW)\rAT = vibrato"
+}

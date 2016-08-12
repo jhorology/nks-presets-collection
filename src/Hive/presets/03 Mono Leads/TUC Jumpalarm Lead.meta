@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "734be32d-b4a8-4893-9af1-afc360f35400",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TUC Jumpalarm Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "The Unshushable Coktor",
+  "comment": "Usage:\nMW = effects"
+}

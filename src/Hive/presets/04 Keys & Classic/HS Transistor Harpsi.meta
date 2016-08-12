@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "63d67050-c109-4b50-9c32-964730cf9d12",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Transistor Harpsi",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = chorus"
+}

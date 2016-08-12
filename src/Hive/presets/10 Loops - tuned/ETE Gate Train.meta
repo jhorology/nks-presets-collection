@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4ec41257-aaf2-4230-b8d1-bae507bedb10",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "ETE Gate Train",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Eccentric gated pad\nUsage:\nMW or AT = cutoff down"
+}

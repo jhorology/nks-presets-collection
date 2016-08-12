@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f45174a0-576b-4073-a5c5-f12f7c3c4f13",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "AZ Error Sub",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Aiyn Zahev",
+  "comment": "Usage:\nMW = noise"
+}

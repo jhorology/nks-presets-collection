@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8c685b5e-e1f3-4321-a7fe-81c953a0769c",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "ETE Chippy",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Chiptunes-like\nUsage:\nMW = resonant sweep\rAT = chorus"
+}

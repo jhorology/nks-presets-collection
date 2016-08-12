@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7a2590f7-b6b4-4a96-8ec6-d76b89c1bf4d",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "HS Shoe Factory - detune",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = darken\rBC / XP = thinner\rAT = resonance"
+}

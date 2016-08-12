@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3c8808f3-5c22-4a91-b195-0968c849525c",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS Ferrous Filter FM",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = attack, brighter\rAT = square wobble"
+}

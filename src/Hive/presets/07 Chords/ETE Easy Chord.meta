@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "610c4a31-33bd-4e43-bacd-4301154e1749",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Easy Chord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = cutoff\rAT = bend"
+}

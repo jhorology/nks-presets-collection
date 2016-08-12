@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "deb5b921-a1fe-44a4-80f9-d9a64973d2e2",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Cheese No Ham",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Transistor organ-strings\nUsage:\nMW = tone\rBC = thin, distant\rXP = oscillator mix"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "3b9aa66b-dbf4-4452-a500-1bfee40734b7",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "HS Vulcanization",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Also try with the Delay switched off\nUsage:\nPB = cutoff\rMW = phaser\rBC = darken\rXP = cabinet\rAT = sub mix, phaser rate"
+}

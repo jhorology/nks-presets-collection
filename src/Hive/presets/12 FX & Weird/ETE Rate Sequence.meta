@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7f26ed8d-0d15-419b-b67b-b14d22f2c0cc",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "ETE Rate Sequence",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Uses modulated envelope times.\nUsage:\nMW = cutoff mod envelope\rAT = octave mix"
+}

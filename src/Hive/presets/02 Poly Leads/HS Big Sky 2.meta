@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "829ed389-13c9-4f18-a181-80f7c8376c8e",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "HS Big Sky 2",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Highly velocity-sensitive\nUsage:\nPB = cutoff\rMW = phasing\rBC = reverb mix\rXP = resonance\rAT = vibrato"
+}

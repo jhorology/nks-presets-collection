@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "d6add458-599c-4cb4-a939-5a0a13d32048",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Elephant",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Resonant 'brass'\nUsage:\nMW = cutoff\nAT = vibrato"
+}

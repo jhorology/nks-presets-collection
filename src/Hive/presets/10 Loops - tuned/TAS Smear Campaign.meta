@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "12f7b64f-c4b7-4fd2-bfc3-71cffbbabf19",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Smear Campaign",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = simplify\nAT = phasing"
+}

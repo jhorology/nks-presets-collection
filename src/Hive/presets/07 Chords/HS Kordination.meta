@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8cf28e13-5a49-4bda-a72f-1eb5204c1707",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "HS Kordination",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Highly velocity-sensitive\nUsage:\nMW = detune\rBC = tone morph\rXP = major to minor\rAT = odd vibrato\rPB = bend one osc"
+}

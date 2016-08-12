@@ -1,0 +1,11 @@
+{
+  "vendor": "u-he",
+  "uuid": "ed77f6d3-7806-4667-98dd-55d41b7ff257",
+  "types": [],
+  "modes": [],
+  "name": "Psy squelch arp",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "TREASURE TROVE", "Recursive One"],
+  "author": "Recursion Loop",
+  "comment": "Psytrance squelch arp\nUsage:\nModwheel controls the filter. Arp uses dynamic velocity"
+}

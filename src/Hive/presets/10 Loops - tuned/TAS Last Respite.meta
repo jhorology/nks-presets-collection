@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4f502e6d-f560-4118-aab9-de5d4988c2d7",
+  "types": [
+    ["Loops - tuned"]
+  ],
+  "modes": [],
+  "name": "TAS Last Respite",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = cutoff"
+}

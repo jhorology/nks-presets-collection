@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "04b8f619-1a73-4a11-b40e-4153166c6a9a",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Dexter",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Try SUB2 On in FILT1 section\nUsage:\nMW = vibrato\nAT = cutoff down"
+}

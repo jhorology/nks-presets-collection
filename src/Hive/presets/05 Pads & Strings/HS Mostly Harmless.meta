@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "54cddb7f-5741-4e6a-9be3-4fa82650d4b0",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Mostly Harmless",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Similar to a P12 preset\nUsage:\nMW = cutoff up\rBC = cutoff down"
+}

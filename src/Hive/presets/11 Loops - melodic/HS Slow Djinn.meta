@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "1b4f1577-35b5-4b31-8d32-718b948b1e4d",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "HS Slow Djinn",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = pitch offset\rBC = slow attack\rPB = speed\rXP = soften\rAT = accent"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "702a26d0-3ff9-410f-884c-e6ed28fbeb55",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "MC Stabatoish Minor",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "Very velocity-sensitive attack\nUsage:\nMW = cutoff\rAT = detune\rPB = vibrato"
+}

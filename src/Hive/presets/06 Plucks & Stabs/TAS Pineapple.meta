@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7e04f10e-1fb8-4fe0-9258-e1da01d4a5d5",
+  "types": [
+    ["Plucks & Stabs"]
+  ],
+  "modes": [],
+  "name": "TAS Pineapple",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = sunshine\nAT = flutter\nPB = detune"
+}

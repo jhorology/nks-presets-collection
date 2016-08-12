@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "885c70f8-b2e5-4e03-bf3e-a0d7b7ffd378",
+  "types": [
+    ["Loops - untuned"]
+  ],
+  "modes": [],
+  "name": "ETE Metal Barrel Perc",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Usage:\nMW = resonance (chirp)\rAT = phaser"
+}

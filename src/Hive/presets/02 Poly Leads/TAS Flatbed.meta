@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "57ff8985-b6aa-4199-978b-eee83d11456b",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Flatbed",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = oscillator mix\rAT = cutoff up\rBC =  cutoff down"
+}

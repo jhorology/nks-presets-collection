@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "83d6476c-9c07-4870-b497-c143bd1243f6",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "GZ Kilk",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "EternitySound",
+  "comment": "Resonant screaming bass\nUsage:\nMW = pitch + cutoff\r(move slowly for maximum effect)"
+}

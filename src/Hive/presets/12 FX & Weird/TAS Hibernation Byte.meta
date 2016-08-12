@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "9f9f6aaa-e9fc-4685-af43-6c3155e5e259",
+  "types": [
+    ["FX & Weird"]
+  ],
+  "modes": [],
+  "name": "TAS Hibernation Byte",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Your circuits are feeling tired and heavy...\nUsage:\nMW = deeper\rAT = drop the pitch\nPB = speed"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "bf3a131e-bef2-4c4b-8b0e-ba04246d78e6",
+  "types": [
+    ["Poly Leads"]
+  ],
+  "modes": [],
+  "name": "MC Justice",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = resonance, slower attack \rAT = detune\rPB = bend oscillator 1 only"
+}

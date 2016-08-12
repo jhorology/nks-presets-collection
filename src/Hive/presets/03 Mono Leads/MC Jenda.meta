@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4e6d38e8-e22f-47b4-8a38-bcd99763307f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "MC Jenda",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Michael Cavallo",
+  "comment": "MW = cutoff down, resonance\rAT = similar, plus vibrato"
+}

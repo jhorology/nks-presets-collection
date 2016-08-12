@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "4abf042d-0a64-4eeb-b827-e5b7cf69f442",
+  "types": [
+    ["Basses"]
+  ],
+  "modes": [],
+  "name": "HS Bass Spaces",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "From resonator to reverb via MW\nUsage:\nMW = space size\rBC = fur / LFO\rXP or AT = vibrato"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "e5990948-a05c-4dbe-b3bf-82a38df293ec",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "HS Bloom Pad",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "1-shot envelope on cutoff, so the filter continues to open when you release\nUsage:\nAT = vibrato\rMW = swoop interval\rBC = soften"
+}

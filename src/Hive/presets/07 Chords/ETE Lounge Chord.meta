@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "f64989a6-1ba2-4543-8ebb-48bb96835412",
+  "types": [
+    ["Chords"]
+  ],
+  "modes": [],
+  "name": "ETE Lounge Chord",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Try 2-note chords\nUsage:\nMW = vibrato\rAT = cutoff"
+}

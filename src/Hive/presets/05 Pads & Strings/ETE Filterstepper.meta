@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "b58a9155-1fbf-4e68-b14a-3f737a20fb2e",
+  "types": [
+    ["Pads & Strings"]
+  ],
+  "modes": [],
+  "name": "ETE Filterstepper",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Pad with rhythm\nUsage:\nMW = cutoff\rAT = vibrato"
+}

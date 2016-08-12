@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "5da83389-4f4d-43fb-b030-ff20c5eb147f",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Skunk Funk",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = add sub\rAT = wobble"
+}

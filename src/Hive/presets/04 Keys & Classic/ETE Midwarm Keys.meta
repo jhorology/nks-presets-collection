@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "ce547b83-f395-490e-bcac-1d7682d5716c",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "ETE Midwarm Keys",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Ed Ten Eyck",
+  "comment": "Layered keys\nUsage:\nMW = wobble (pad layer)\rAT = bend up (key layer)"
+}

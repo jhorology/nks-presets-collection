@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "53983e5f-3d3a-45b1-9b75-0d4817ac55ce",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "TAS Ridge",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = attack\rAT = subharmonic"
+}

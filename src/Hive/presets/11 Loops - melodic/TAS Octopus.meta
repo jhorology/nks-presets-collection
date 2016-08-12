@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "8ed71a0f-63a5-44cd-b7c6-89c126fcced3",
+  "types": [
+    ["Loops - melodic"]
+  ],
+  "modes": [],
+  "name": "TAS Octopus",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Tasmodia",
+  "comment": "Usage:\nMW = open up\rAT = add sub, resonance\rBC = less detune"
+}

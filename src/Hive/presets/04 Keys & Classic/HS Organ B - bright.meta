@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "7e55335f-ae0f-40f9-8722-92e79ef7e2ce",
+  "types": [
+    ["Keys & Classic"]
+  ],
+  "modes": [],
+  "name": "HS Organ B - bright",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "Howard Scarr",
+  "comment": "Usage:\nMW = reverb / distance\rBC = fuzzy detune\rXP = reverb -> delay"
+}

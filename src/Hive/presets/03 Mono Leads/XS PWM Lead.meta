@@ -1,0 +1,13 @@
+{
+  "vendor": "u-he",
+  "uuid": "cd9cefda-fdd2-48e0-88f7-2c7e0ec995e7",
+  "types": [
+    ["Mono Leads"]
+  ],
+  "modes": [],
+  "name": "XS PWM Lead",
+  "deviceType": "INST",
+  "bankchain": ["Hive", "Hive Factory", ""],
+  "author": "XenosSoundworks.com",
+  "comment": "Usage:\nMW = open up"
+}
