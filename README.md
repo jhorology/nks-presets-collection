@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-(24197-5331)/26971 (70%)
+(22310-5331)/26974 (63%)
 
 |          |raw presets|mappings|meta|resources|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:------:|:---------:|
@@ -25,7 +25,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|Nov 21, 2015|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:||||||
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|||||
-|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
+|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/ofmomoqk3un1irs/Hive.zip?dl=0)|Aug 12, 2016|
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Nov 9, 2015|
 |[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wi5jo8x4lyyegyt/Analog%20Lab%202.zip?dl=0)3|Aug 11, 2016|
 
