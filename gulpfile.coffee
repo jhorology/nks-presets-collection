@@ -3332,6 +3332,61 @@ gulp.task 'hive-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.Hive.dir}/presets"
 
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'hive-dist', [
+  'hive-dist-image'
+  'hive-dist-database'
+  'hive-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'hive-dist-image', ->
+  _dist_image $.Hive.dir, $.Hive.vendor
+
+# copy database resources to dist folder
+gulp.task 'hive-dist-database', ->
+  _dist_database $.Hive.dir, $.Hive.vendor
+
+# build presets file to dist folder
+gulp.task 'hive-dist-presets', ->
+  _dist_presets $.Hive.dir, $.Hive.magic
+
+# check
+gulp.task 'hive-check-dist-presets', ->
+  _check_dist_presets $.Hive.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'hive-deploy', [
+  'hive-deploy-resources'
+  'hive-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'hive-deploy-resources', [
+  'hive-dist-image'
+  'hive-dist-database'
+  ], ->
+    _deploy_resources $.Hive.dir
+
+# copy database resources to local environment
+gulp.task 'hive-deploy-presets', [
+  'hive-dist-presets'
+  ] , ->
+    _deploy_presets $.Hive.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'hive-release',['hive-dist'], ->
+  _release $.Hive.dir
 
 
 # ---------------------------------------------------------------
@@ -3557,7 +3612,7 @@ gulp.task 'alchemy-generate-mappings', ->
     .pipe gulp.dest "src/#{$.Alchemy.dir}/mappings"
 
 
-# generate metadata from serum's sqlite database
+# generate metadata from alchemy's sqlite database
 gulp.task 'alchemy-generate-meta', ->
   # open database
   db = new sqlite3.Database $.Alchemy.db, sqlite3.OPEN_READONLY
