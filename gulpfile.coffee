@@ -387,6 +387,14 @@ order by
   #
   # SONiVOX EightyEight
   #-------------------------------------------
+  LuSH101:
+    dir: 'LuSH-101'
+    vendor: 'D16 Group Audio Software'
+    magic: 'SH11'
+    
+  #
+  # SONiVOX EightyEight
+  #-------------------------------------------
   EightyEight:
     dir: 'EightyEight 2_64'
     vendor: 'SONiVOX'
@@ -3918,6 +3926,44 @@ gulp.task 'twin2-release', ['twin2-dist'], ->
 
 # ---------------------------------------------------------------
 # end FabFilter Twin2
+#
+
+# ---------------------------------------------------------------
+# D16 LuSH-101
+#
+# notes
+#  - Komplete Kontrol 1.6.2.5
+#  - LuSH-101 1.1.3
+# ---------------------------------------------------------------
+
+# preparing tasks
+# --------------------------------
+
+# print metadata of _Default.nksf
+gulp.task 'lush101-print-default-meta', ->
+  _print_default_meta $.LuSH101.dir
+
+# print mapping of _Default.nksf
+gulp.task 'lush101-print-default-mapping', ->
+  _print_default_mapping $.LuSH101.dir
+
+# print plugin id of _Default.nksf
+gulp.task 'lush101-print-magic', ->
+  _print_plid $.LuSH101.dir
+
+# generate default mapping file from _Default.nksf
+gulp.task 'lush101-generate-default-mapping', ->
+  _generate_default_mapping $.LuSH101.dir
+
+# extract PCHK chunk from .nksf
+gulp.task 'lush101-extract-raw-presets', ->
+  gulp.src ["temp/#{$.LuSH101.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe gulp.dest "src/#{$.LuSH101.dir}/presets"
+
+# ---------------------------------------------------------------
+# end D16 LuSH-101
 #
 
 # ---------------------------------------------------------------
