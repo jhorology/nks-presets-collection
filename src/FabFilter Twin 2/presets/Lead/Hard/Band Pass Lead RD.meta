@@ -1,0 +1,12 @@
+{
+  "vendor": "FabFilter",
+  "uuid": "cc8ef5c1-5d41-46d1-a985-d348dc89c595",
+  "types": [
+    ["Lead", "Hard"]
+  ],
+  "name": "Band Pass Lead RD",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["FabFilter Twin 2", "Twin2 Factory", ""],
+  "author": ""
+}

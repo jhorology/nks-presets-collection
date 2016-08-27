@@ -1,0 +1,12 @@
+{
+  "vendor": "FabFilter",
+  "uuid": "27db4aa4-0845-42a8-88fa-a5d66e49caf9",
+  "types": [
+    ["Pad", "Soft"]
+  ],
+  "name": "Quiescent O",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["FabFilter Twin 2", "Twin2 Factory", ""],
+  "author": ""
+}

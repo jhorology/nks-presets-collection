@@ -1,0 +1,12 @@
+{
+  "vendor": "FabFilter",
+  "uuid": "e22b9d92-1498-4afc-8735-ef7a9f8d6abc",
+  "types": [
+    ["Pad", "Slow"]
+  ],
+  "name": "PWM Rez Sweeper DJM",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["FabFilter Twin 2", "Twin2 Factory", ""],
+  "author": ""
+}

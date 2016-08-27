@@ -3770,6 +3770,152 @@ gulp.task 'twin2-extract-raw-presets', ->
       filename_template: "<%= basename.substring(0,basename.length-5) %><%= count ? '_' + count : '' %>.<%= id.trim().toLowerCase() %>"
     .pipe gulp.dest "src/#{$.Twin2.dir}/presets"
 
+# suggest mapping
+gulp.task 'twin2-suggest-mapping', ->
+  gulp.src ["src/#{$.Twin2.dir}/mappings/bitwig-direct-paramater.json"], read: true
+    .pipe data (file) ->
+      flatList = JSON.parse file.contents.toString()
+      sections = []
+      for param, index in flatList
+        continue if param.used
+        words = param.name.split ' '
+        while words.length
+          sectionName = words.join ' '
+          i = index
+          params = while i < flatList.length and (flatList[i].name.indexOf sectionName) is 0
+            flatList[i++]
+          if params.length >= 3 or words.length is 1
+            section =  for p, index  in params
+              p.used = on
+              autoname: false
+              id: parseInt p.id[14..]
+              name: (p.name.replace "#{sectionName}", '').trim()
+              vflag: false
+            section[0].section = sectionName
+            sections.push section
+            break
+          words.pop()
+      mapping =
+        ni8: []
+      page = []
+      index = 0
+      sectionName = null
+      for section in sections
+        for param, index in section
+          sectionName = param.section if index is 0
+          param.section = sectionName if (page.length & 0x07) is 0
+          page.push param
+          if (page.length & 0x07) is 0
+            mapping.ni8.push page
+            page = []
+      if page.length
+        while page.length < 8
+          page.push
+            autoname: false
+            vflag: false
+        mapping.ni8.push page
+      json = beautify (JSON.stringify mapping), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      mapping
+    .pipe rename basename: 'default-suggest'
+    .pipe gulp.dest "src/#{$.Twin2.dir}/mappings"
+
+# generate metadata
+gulp.task 'twin2-generate-meta', ->
+  presets = "src/#{$.Twin2.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      folder = (path.relative presets, path.dirname file.path).split path.sep
+      meta =
+        vendor: $.Twin2.vendor
+        uuid: _uuid file
+        types: switch
+          when folder.length is 1 and folder[0] is ''
+            [['Default']]
+          when folder.length is 1 and folder[0] isnt ''
+            type0 = folder[0]
+            type0 = 'Best of' if folder[0] is '_Best of'
+            [[type0]]
+          when folder.length is 2
+            type0 = folder[0]
+            type1 = folder[1]
+            type1 = 'Dance' if folder[1].match /^Dance/
+            type1 = 'Soft'  if folder[1].match /^Soft/
+            [[type0, type1]]
+          when folder.length > 2
+            throw new Error 'unexpected folder depth.'
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: [$.Twin2.dir, 'Twin2 Factory', '']
+        author: ''
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.Twin2.dir}/presets"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'twin2-dist', [
+  'twin2-dist-image'
+  'twin2-dist-database'
+  'twin2-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'twin2-dist-image', ->
+  _dist_image $.Twin2.dir, $.Twin2.vendor
+
+# copy database resources to dist folder
+gulp.task 'twin2-dist-database', ->
+  _dist_database $.Twin2.dir, $.Twin2.vendor
+
+# build presets file to dist folder
+gulp.task 'twin2-dist-presets', ->
+  _dist_presets $.Twin2.dir, $.Twin2.magic
+
+# check
+gulp.task 'twin2-check-dist-presets', ->
+  _check_dist_presets $.Twin2.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'twin2-deploy', [
+  'twin2-deploy-resources'
+  'twin2-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'twin2-deploy-resources', [
+  'twin2-dist-image'
+  'twin2-dist-database'
+  ], ->
+    _deploy_resources $.Twin2.dir
+
+# copy database resources to local environment
+gulp.task 'twin2-deploy-presets', [
+  'twin2-dist-presets'
+  ] , ->
+    _deploy_presets $.Twin2.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'twin2-release', ['twin2-dist'], ->
+  _release $.Twin2.dir
+
 # ---------------------------------------------------------------
 # end FabFilter Twin2
 #

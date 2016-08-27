@@ -1,0 +1,4829 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Tune",
+      "vflag": false,
+      "section": "Master"
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Scale",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Detune",
+      "vflag": false,
+      "section": "Osc 1"
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Scale",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Wave Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Pulse Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 8,
+      "name": "Pan",
+      "vflag": false,
+      "section": "Osc 1"
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Phase Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Detune",
+      "vflag": false,
+      "section": "Osc 2"
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Scale",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Wave Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Pulse Width",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 16,
+      "name": "Level",
+      "vflag": false,
+      "section": "Osc 2"
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Phase Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Detune",
+      "vflag": false,
+      "section": "Osc 3"
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Scale",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Wave Form",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Sync",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "Pulse Width",
+      "vflag": false,
+      "section": "Osc 3"
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Phase Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Modulation Enabled",
+      "vflag": false,
+      "section": "Ring"
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "",
+      "vflag": false,
+      "section": "Portamento"
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Mode",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "Freq",
+      "vflag": false,
+      "section": "Filter 1"
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Peak",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Characteristic",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Response",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Slope",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Freq",
+      "vflag": false,
+      "section": "Filter 2"
+    }],
+    [{
+      "autoname": false,
+      "id": 40,
+      "name": "Pan",
+      "vflag": false,
+      "section": "Filter 2"
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "Peak",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Characteristic",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 43,
+      "name": "Response",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Slope",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Routing",
+      "vflag": false,
+      "section": "Filter"
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Time",
+      "vflag": false,
+      "section": "Delay L"
+    }],
+    [{
+      "autoname": false,
+      "id": 48,
+      "name": "Offset",
+      "vflag": false,
+      "section": "Delay L"
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "Cross Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "Time",
+      "vflag": false,
+      "section": "Delay R"
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 55,
+      "name": "Sync",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 56,
+      "name": "Feedback",
+      "vflag": false,
+      "section": "Delay R"
+    }, {
+      "autoname": false,
+      "id": 57,
+      "name": "Cross Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "Link",
+      "vflag": false,
+      "section": "Delay"
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "Filter Routing",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "Filter 1 Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Filter 1 Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "Filter 1 Peak",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 64,
+      "name": "Filter 1 Characteristic",
+      "vflag": false,
+      "section": "Delay"
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "Filter 1 Response",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "Filter 1 Slope",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Filter 1 Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Filter 2 Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Filter 2 Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 70,
+      "name": "Filter 2 Peak",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "Filter 2 Characteristic",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 72,
+      "name": "Filter 2 Response",
+      "vflag": false,
+      "section": "Delay"
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "Filter 2 Slope",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "Filter 2 Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 75,
+      "name": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "Enabled",
+      "vflag": false,
+      "section": "Wet"
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "Level",
+      "vflag": false,
+      "section": "Dry"
+    }],
+    [{
+      "autoname": false,
+      "id": 80,
+      "name": "Pan",
+      "vflag": false,
+      "section": "Dry"
+    }, {
+      "autoname": false,
+      "id": 81,
+      "name": "Active XY Controllers",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "1 Hor",
+      "vflag": false,
+      "section": "XY Controller"
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "1 Ver",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "2 Hor",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "2 Ver",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "3 Hor",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "3 Ver",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 88,
+      "name": "4 Hor",
+      "vflag": false,
+      "section": "XY Controller"
+    }, {
+      "autoname": false,
+      "id": 89,
+      "name": "4 Ver",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "Active XLFOs",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "Frequency",
+      "vflag": false,
+      "section": "XLFO 1"
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "Frequency Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "Balance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "Phase Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 95,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 96,
+      "name": "Sync Mode",
+      "vflag": false,
+      "section": "XLFO 1"
+    }, {
+      "autoname": false,
+      "id": 97,
+      "name": "MIDI Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "Snap",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 99,
+      "name": "Active XLFO 1 Steps",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 1"
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 103,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 104,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 2"
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 3"
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 112,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 4"
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 5"
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 119,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 120,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 6"
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 122,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 123,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 7"
+    }, {
+      "autoname": false,
+      "id": 125,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 126,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 127,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 128,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 8"
+    }, {
+      "autoname": false,
+      "id": 129,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 130,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 131,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 132,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 9"
+    }, {
+      "autoname": false,
+      "id": 133,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 134,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 135,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 136,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 10"
+    }, {
+      "autoname": false,
+      "id": 137,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 138,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 139,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 140,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 11"
+    }, {
+      "autoname": false,
+      "id": 141,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 142,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 143,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 144,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 12"
+    }, {
+      "autoname": false,
+      "id": 145,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 146,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 147,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 148,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 13"
+    }, {
+      "autoname": false,
+      "id": 149,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 150,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 151,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 152,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 14"
+    }, {
+      "autoname": false,
+      "id": 153,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 154,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 155,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 156,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 15"
+    }, {
+      "autoname": false,
+      "id": 157,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 158,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 159,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 160,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 1 Step 16"
+    }, {
+      "autoname": false,
+      "id": 161,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 162,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 163,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 164,
+      "name": "Frequency",
+      "vflag": false,
+      "section": "XLFO 2"
+    }, {
+      "autoname": false,
+      "id": 165,
+      "name": "Frequency Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 166,
+      "name": "Balance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 167,
+      "name": "Phase Offset",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 168,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 2"
+    }, {
+      "autoname": false,
+      "id": 169,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 170,
+      "name": "MIDI Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 171,
+      "name": "Snap",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 172,
+      "name": "Active XLFO 2 Steps",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 173,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 1"
+    }, {
+      "autoname": false,
+      "id": 174,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 175,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 176,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 1"
+    }, {
+      "autoname": false,
+      "id": 177,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 2"
+    }, {
+      "autoname": false,
+      "id": 178,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 179,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 180,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 181,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 3"
+    }, {
+      "autoname": false,
+      "id": 182,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 183,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 184,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 3"
+    }, {
+      "autoname": false,
+      "id": 185,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 4"
+    }, {
+      "autoname": false,
+      "id": 186,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 187,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 188,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 189,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 5"
+    }, {
+      "autoname": false,
+      "id": 190,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 191,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 192,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 5"
+    }, {
+      "autoname": false,
+      "id": 193,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 6"
+    }, {
+      "autoname": false,
+      "id": 194,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 195,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 196,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 197,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 7"
+    }, {
+      "autoname": false,
+      "id": 198,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 199,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 200,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 7"
+    }, {
+      "autoname": false,
+      "id": 201,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 8"
+    }, {
+      "autoname": false,
+      "id": 202,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 203,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 204,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 205,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 9"
+    }, {
+      "autoname": false,
+      "id": 206,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 207,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 208,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 9"
+    }, {
+      "autoname": false,
+      "id": 209,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 10"
+    }, {
+      "autoname": false,
+      "id": 210,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 211,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 212,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 213,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 11"
+    }, {
+      "autoname": false,
+      "id": 214,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 215,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 216,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 11"
+    }, {
+      "autoname": false,
+      "id": 217,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 12"
+    }, {
+      "autoname": false,
+      "id": 218,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 219,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 220,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 221,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 13"
+    }, {
+      "autoname": false,
+      "id": 222,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 223,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 224,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 13"
+    }, {
+      "autoname": false,
+      "id": 225,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 14"
+    }, {
+      "autoname": false,
+      "id": 226,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 227,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 228,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 229,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 15"
+    }, {
+      "autoname": false,
+      "id": 230,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 231,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 232,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 2 Step 15"
+    }, {
+      "autoname": false,
+      "id": 233,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 2 Step 16"
+    }, {
+      "autoname": false,
+      "id": 234,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 235,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 236,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 237,
+      "name": "Frequency",
+      "vflag": false,
+      "section": "XLFO 3"
+    }, {
+      "autoname": false,
+      "id": 238,
+      "name": "Frequency Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 239,
+      "name": "Balance",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 240,
+      "name": "Phase Offset",
+      "vflag": false,
+      "section": "XLFO 3"
+    }, {
+      "autoname": false,
+      "id": 241,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 242,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 243,
+      "name": "MIDI Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 244,
+      "name": "Snap",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 245,
+      "name": "Active XLFO 3 Steps",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 246,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 1"
+    }, {
+      "autoname": false,
+      "id": 247,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 248,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 1"
+    }, {
+      "autoname": false,
+      "id": 249,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 250,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 2"
+    }, {
+      "autoname": false,
+      "id": 251,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 252,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 253,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 254,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 3"
+    }, {
+      "autoname": false,
+      "id": 255,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 256,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 3"
+    }, {
+      "autoname": false,
+      "id": 257,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 258,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 4"
+    }, {
+      "autoname": false,
+      "id": 259,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 260,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 261,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 262,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 5"
+    }, {
+      "autoname": false,
+      "id": 263,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 264,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 5"
+    }, {
+      "autoname": false,
+      "id": 265,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 266,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 6"
+    }, {
+      "autoname": false,
+      "id": 267,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 268,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 269,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 270,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 7"
+    }, {
+      "autoname": false,
+      "id": 271,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 272,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 7"
+    }, {
+      "autoname": false,
+      "id": 273,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 274,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 8"
+    }, {
+      "autoname": false,
+      "id": 275,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 276,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 277,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 278,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 9"
+    }, {
+      "autoname": false,
+      "id": 279,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 280,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 9"
+    }, {
+      "autoname": false,
+      "id": 281,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 282,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 10"
+    }, {
+      "autoname": false,
+      "id": 283,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 284,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 285,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 286,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 11"
+    }, {
+      "autoname": false,
+      "id": 287,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 288,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 11"
+    }, {
+      "autoname": false,
+      "id": 289,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 290,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 12"
+    }, {
+      "autoname": false,
+      "id": 291,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 292,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 293,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 294,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 13"
+    }, {
+      "autoname": false,
+      "id": 295,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 296,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 13"
+    }, {
+      "autoname": false,
+      "id": 297,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 298,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 14"
+    }, {
+      "autoname": false,
+      "id": 299,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 300,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 301,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 302,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 15"
+    }, {
+      "autoname": false,
+      "id": 303,
+      "name": "Glide",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 304,
+      "name": "Glide function",
+      "vflag": false,
+      "section": "XLFO 3 Step 15"
+    }, {
+      "autoname": false,
+      "id": 305,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 306,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 3 Step 16"
+    }, {
+      "autoname": false,
+      "id": 307,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 308,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 309,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 310,
+      "name": "Frequency",
+      "vflag": false,
+      "section": "XLFO 4"
+    }, {
+      "autoname": false,
+      "id": 311,
+      "name": "Frequency Offset",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 312,
+      "name": "Balance",
+      "vflag": false,
+      "section": "XLFO 4"
+    }, {
+      "autoname": false,
+      "id": 313,
+      "name": "Phase Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 314,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 315,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 316,
+      "name": "MIDI Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 317,
+      "name": "Snap",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 318,
+      "name": "Active XLFO 4 Steps",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 319,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 1"
+    }],
+    [{
+      "autoname": false,
+      "id": 320,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 1"
+    }, {
+      "autoname": false,
+      "id": 321,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 322,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 323,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 2"
+    }, {
+      "autoname": false,
+      "id": 324,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 325,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 326,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 327,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 3"
+    }],
+    [{
+      "autoname": false,
+      "id": 328,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 3"
+    }, {
+      "autoname": false,
+      "id": 329,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 330,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 331,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 4"
+    }, {
+      "autoname": false,
+      "id": 332,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 333,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 334,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 335,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 5"
+    }],
+    [{
+      "autoname": false,
+      "id": 336,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 5"
+    }, {
+      "autoname": false,
+      "id": 337,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 338,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 339,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 6"
+    }, {
+      "autoname": false,
+      "id": 340,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 341,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 342,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 343,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 7"
+    }],
+    [{
+      "autoname": false,
+      "id": 344,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 7"
+    }, {
+      "autoname": false,
+      "id": 345,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 346,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 347,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 8"
+    }, {
+      "autoname": false,
+      "id": 348,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 349,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 350,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 351,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 9"
+    }],
+    [{
+      "autoname": false,
+      "id": 352,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 9"
+    }, {
+      "autoname": false,
+      "id": 353,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 354,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 355,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 10"
+    }, {
+      "autoname": false,
+      "id": 356,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 357,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 358,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 359,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 11"
+    }],
+    [{
+      "autoname": false,
+      "id": 360,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 11"
+    }, {
+      "autoname": false,
+      "id": 361,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 362,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 363,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 12"
+    }, {
+      "autoname": false,
+      "id": 364,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 365,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 366,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 367,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 13"
+    }],
+    [{
+      "autoname": false,
+      "id": 368,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 13"
+    }, {
+      "autoname": false,
+      "id": 369,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 370,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 371,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 14"
+    }, {
+      "autoname": false,
+      "id": 372,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 373,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 374,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 375,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 15"
+    }],
+    [{
+      "autoname": false,
+      "id": 376,
+      "name": "Glide",
+      "vflag": false,
+      "section": "XLFO 4 Step 15"
+    }, {
+      "autoname": false,
+      "id": 377,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 378,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 379,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 4 Step 16"
+    }, {
+      "autoname": false,
+      "id": 380,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 381,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 382,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 383,
+      "name": "Frequency",
+      "vflag": false,
+      "section": "XLFO 5"
+    }],
+    [{
+      "autoname": false,
+      "id": 384,
+      "name": "Frequency Offset",
+      "vflag": false,
+      "section": "XLFO 5"
+    }, {
+      "autoname": false,
+      "id": 385,
+      "name": "Balance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 386,
+      "name": "Phase Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 387,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 388,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 389,
+      "name": "MIDI Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 390,
+      "name": "Snap",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 391,
+      "name": "Active XLFO 5 Steps",
+      "vflag": false,
+      "section": "Num"
+    }],
+    [{
+      "autoname": false,
+      "id": 392,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 1"
+    }, {
+      "autoname": false,
+      "id": 393,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 394,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 395,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 396,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 2"
+    }, {
+      "autoname": false,
+      "id": 397,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 398,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 399,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 400,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 3"
+    }, {
+      "autoname": false,
+      "id": 401,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 402,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 403,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 404,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 4"
+    }, {
+      "autoname": false,
+      "id": 405,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 406,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 407,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 408,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 5"
+    }, {
+      "autoname": false,
+      "id": 409,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 410,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 411,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 412,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 6"
+    }, {
+      "autoname": false,
+      "id": 413,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 414,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 415,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 416,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 7"
+    }, {
+      "autoname": false,
+      "id": 417,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 418,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 419,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 420,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 8"
+    }, {
+      "autoname": false,
+      "id": 421,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 422,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 423,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 424,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 9"
+    }, {
+      "autoname": false,
+      "id": 425,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 426,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 427,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 428,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 10"
+    }, {
+      "autoname": false,
+      "id": 429,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 430,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 431,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 432,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 11"
+    }, {
+      "autoname": false,
+      "id": 433,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 434,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 435,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 436,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 12"
+    }, {
+      "autoname": false,
+      "id": 437,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 438,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 439,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 440,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 13"
+    }, {
+      "autoname": false,
+      "id": 441,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 442,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 443,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 444,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 14"
+    }, {
+      "autoname": false,
+      "id": 445,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 446,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 447,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 448,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 15"
+    }, {
+      "autoname": false,
+      "id": 449,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 450,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 451,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 452,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 5 Step 16"
+    }, {
+      "autoname": false,
+      "id": 453,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 454,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 455,
+      "name": "Random",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 456,
+      "name": "Frequency",
+      "vflag": false,
+      "section": "XLFO 6"
+    }, {
+      "autoname": false,
+      "id": 457,
+      "name": "Frequency Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 458,
+      "name": "Balance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 459,
+      "name": "Phase Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 460,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 461,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 462,
+      "name": "MIDI Trigger",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 463,
+      "name": "Snap",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 464,
+      "name": "Active XLFO 6 Steps",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 465,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 1"
+    }, {
+      "autoname": false,
+      "id": 466,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 467,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 468,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 469,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 2"
+    }, {
+      "autoname": false,
+      "id": 470,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 471,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 472,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 2"
+    }, {
+      "autoname": false,
+      "id": 473,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 3"
+    }, {
+      "autoname": false,
+      "id": 474,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 475,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 476,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 477,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 4"
+    }, {
+      "autoname": false,
+      "id": 478,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 479,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 480,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 4"
+    }, {
+      "autoname": false,
+      "id": 481,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 5"
+    }, {
+      "autoname": false,
+      "id": 482,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 483,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 484,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 485,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 6"
+    }, {
+      "autoname": false,
+      "id": 486,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 487,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 488,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 6"
+    }, {
+      "autoname": false,
+      "id": 489,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 7"
+    }, {
+      "autoname": false,
+      "id": 490,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 491,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 492,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 493,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 8"
+    }, {
+      "autoname": false,
+      "id": 494,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 495,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 496,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 8"
+    }, {
+      "autoname": false,
+      "id": 497,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 9"
+    }, {
+      "autoname": false,
+      "id": 498,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 499,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 500,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 501,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 10"
+    }, {
+      "autoname": false,
+      "id": 502,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 503,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 504,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 10"
+    }, {
+      "autoname": false,
+      "id": 505,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 11"
+    }, {
+      "autoname": false,
+      "id": 506,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 507,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 508,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 509,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 12"
+    }, {
+      "autoname": false,
+      "id": 510,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 511,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 512,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 12"
+    }, {
+      "autoname": false,
+      "id": 513,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 13"
+    }, {
+      "autoname": false,
+      "id": 514,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 515,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 516,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 517,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 14"
+    }, {
+      "autoname": false,
+      "id": 518,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 519,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 520,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 14"
+    }, {
+      "autoname": false,
+      "id": 521,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 15"
+    }, {
+      "autoname": false,
+      "id": 522,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 523,
+      "name": "Glide function",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 524,
+      "name": "Random",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 525,
+      "name": "Value",
+      "vflag": false,
+      "section": "XLFO 6 Step 16"
+    }, {
+      "autoname": false,
+      "id": 526,
+      "name": "Glide",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 527,
+      "name": "Glide function",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 528,
+      "name": "Random",
+      "vflag": false,
+      "section": "XLFO 6 Step 16"
+    }, {
+      "autoname": false,
+      "id": 529,
+      "name": "Active EGs",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 530,
+      "name": "Hold",
+      "vflag": false,
+      "section": "EG Main"
+    }, {
+      "autoname": false,
+      "id": 531,
+      "name": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 532,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 533,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 534,
+      "name": "Triggering",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 535,
+      "name": "Attack",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 536,
+      "name": "Decay",
+      "vflag": false,
+      "section": "EG Main"
+    }, {
+      "autoname": false,
+      "id": 537,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 538,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 539,
+      "name": "Hold",
+      "vflag": false,
+      "section": "EG 2"
+    }, {
+      "autoname": false,
+      "id": 540,
+      "name": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 541,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 542,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 543,
+      "name": "Triggering",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 544,
+      "name": "Attack",
+      "vflag": false,
+      "section": "EG 2"
+    }, {
+      "autoname": false,
+      "id": 545,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 546,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 547,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 548,
+      "name": "Hold",
+      "vflag": false,
+      "section": "EG 3"
+    }, {
+      "autoname": false,
+      "id": 549,
+      "name": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 550,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 551,
+      "name": "Threshold",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 552,
+      "name": "Triggering",
+      "vflag": false,
+      "section": "EG 3"
+    }, {
+      "autoname": false,
+      "id": 553,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 554,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 555,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 556,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 557,
+      "name": "Hold",
+      "vflag": false,
+      "section": "EG 4"
+    }, {
+      "autoname": false,
+      "id": 558,
+      "name": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 559,
+      "name": "Range",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 560,
+      "name": "Threshold",
+      "vflag": false,
+      "section": "EG 4"
+    }, {
+      "autoname": false,
+      "id": 561,
+      "name": "Triggering",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 562,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 563,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 564,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 565,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 566,
+      "name": "Hold",
+      "vflag": false,
+      "section": "EG 5"
+    }, {
+      "autoname": false,
+      "id": 567,
+      "name": "Delay",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 568,
+      "name": "Range",
+      "vflag": false,
+      "section": "EG 5"
+    }, {
+      "autoname": false,
+      "id": 569,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 570,
+      "name": "Triggering",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 571,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 572,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 573,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 574,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 575,
+      "name": "Hold",
+      "vflag": false,
+      "section": "EG 6"
+    }],
+    [{
+      "autoname": false,
+      "id": 576,
+      "name": "Delay",
+      "vflag": false,
+      "section": "EG 6"
+    }, {
+      "autoname": false,
+      "id": 577,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 578,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 579,
+      "name": "Triggering",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 580,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 581,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 582,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 583,
+      "name": "Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 584,
+      "name": "Active EFs",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 585,
+      "name": "1 Attack",
+      "vflag": false,
+      "section": "EF"
+    }, {
+      "autoname": false,
+      "id": 586,
+      "name": "1 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 587,
+      "name": "2 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 588,
+      "name": "2 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 589,
+      "name": "3 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 590,
+      "name": "3 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 591,
+      "name": "4 Attack",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 592,
+      "name": "4 Release",
+      "vflag": false,
+      "section": "EF"
+    }, {
+      "autoname": false,
+      "id": 593,
+      "name": "Active MIDI Sources",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 594,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 1"
+    }, {
+      "autoname": false,
+      "id": 595,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 596,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 597,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 2"
+    }, {
+      "autoname": false,
+      "id": 598,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 599,
+      "name": "Response Curve",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 600,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 3"
+    }, {
+      "autoname": false,
+      "id": 601,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 602,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 603,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 4"
+    }, {
+      "autoname": false,
+      "id": 604,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 605,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 606,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 5"
+    }, {
+      "autoname": false,
+      "id": 607,
+      "name": "Controller Number",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 608,
+      "name": "Response Curve",
+      "vflag": false,
+      "section": "MIDI Source 5"
+    }, {
+      "autoname": false,
+      "id": 609,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 6"
+    }, {
+      "autoname": false,
+      "id": 610,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 611,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 612,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 7"
+    }, {
+      "autoname": false,
+      "id": 613,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 614,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 615,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 8"
+    }],
+    [{
+      "autoname": false,
+      "id": 616,
+      "name": "Controller Number",
+      "vflag": false,
+      "section": "MIDI Source 8"
+    }, {
+      "autoname": false,
+      "id": 617,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 618,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 9"
+    }, {
+      "autoname": false,
+      "id": 619,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 620,
+      "name": "Response Curve",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 621,
+      "name": "Input",
+      "vflag": false,
+      "section": "MIDI Source 10"
+    }, {
+      "autoname": false,
+      "id": 622,
+      "name": "Controller Number",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 623,
+      "name": "Response Curve",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 624,
+      "name": "Signal",
+      "vflag": false,
+      "section": "Audition"
+    }, {
+      "autoname": false,
+      "id": 625,
+      "name": "Volume",
+      "vflag": false,
+      "section": "Output"
+    }, {
+      "autoname": false,
+      "id": 626,
+      "name": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 627,
+      "name": "",
+      "vflag": false,
+      "section": "Stereo"
+    }, {
+      "autoname": false,
+      "id": 628,
+      "name": "Voices",
+      "vflag": false,
+      "section": "Total"
+    }, {
+      "autoname": false,
+      "id": 629,
+      "name": "Voices",
+      "vflag": false,
+      "section": "Unison"
+    }, {
+      "autoname": false,
+      "id": 630,
+      "name": "",
+      "vflag": false,
+      "section": "Polyphony"
+    }, {
+      "autoname": false,
+      "id": 631,
+      "name": "Spread",
+      "vflag": false,
+      "section": "Unison"
+    }],
+    [{
+      "autoname": false,
+      "id": 632,
+      "name": "Active Slots",
+      "vflag": false,
+      "section": "Num"
+    }, {
+      "autoname": false,
+      "id": 633,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 1"
+    }, {
+      "autoname": false,
+      "id": 634,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 635,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 636,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 637,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 638,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 2"
+    }, {
+      "autoname": false,
+      "id": 639,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 640,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 2"
+    }, {
+      "autoname": false,
+      "id": 641,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 642,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 643,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 3"
+    }, {
+      "autoname": false,
+      "id": 644,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 645,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 646,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 647,
+      "name": "Target",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 648,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 4"
+    }, {
+      "autoname": false,
+      "id": 649,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 650,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 651,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 652,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 653,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 5"
+    }, {
+      "autoname": false,
+      "id": 654,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 655,
+      "name": "Bypassed",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 656,
+      "name": "Inverted",
+      "vflag": false,
+      "section": "Slot 5"
+    }, {
+      "autoname": false,
+      "id": 657,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 658,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 6"
+    }, {
+      "autoname": false,
+      "id": 659,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 660,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 661,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 662,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 663,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 7"
+    }],
+    [{
+      "autoname": false,
+      "id": 664,
+      "name": "Level",
+      "vflag": false,
+      "section": "Slot 7"
+    }, {
+      "autoname": false,
+      "id": 665,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 666,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 667,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 668,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 8"
+    }, {
+      "autoname": false,
+      "id": 669,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 670,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 671,
+      "name": "Inverted",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 672,
+      "name": "Target",
+      "vflag": false,
+      "section": "Slot 8"
+    }, {
+      "autoname": false,
+      "id": 673,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 9"
+    }, {
+      "autoname": false,
+      "id": 674,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 675,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 676,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 677,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 678,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 10"
+    }, {
+      "autoname": false,
+      "id": 679,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 680,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 10"
+    }, {
+      "autoname": false,
+      "id": 681,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 682,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 683,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 11"
+    }, {
+      "autoname": false,
+      "id": 684,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 685,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 686,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 687,
+      "name": "Target",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 688,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 12"
+    }, {
+      "autoname": false,
+      "id": 689,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 690,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 691,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 692,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 693,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 13"
+    }, {
+      "autoname": false,
+      "id": 694,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 695,
+      "name": "Bypassed",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 696,
+      "name": "Inverted",
+      "vflag": false,
+      "section": "Slot 13"
+    }, {
+      "autoname": false,
+      "id": 697,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 698,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 14"
+    }, {
+      "autoname": false,
+      "id": 699,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 700,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 701,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 702,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 703,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 15"
+    }],
+    [{
+      "autoname": false,
+      "id": 704,
+      "name": "Level",
+      "vflag": false,
+      "section": "Slot 15"
+    }, {
+      "autoname": false,
+      "id": 705,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 706,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 707,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 708,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 16"
+    }, {
+      "autoname": false,
+      "id": 709,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 710,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 711,
+      "name": "Inverted",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 712,
+      "name": "Target",
+      "vflag": false,
+      "section": "Slot 16"
+    }, {
+      "autoname": false,
+      "id": 713,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 17"
+    }, {
+      "autoname": false,
+      "id": 714,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 715,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 716,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 717,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 718,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 18"
+    }, {
+      "autoname": false,
+      "id": 719,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 720,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 18"
+    }, {
+      "autoname": false,
+      "id": 721,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 722,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 723,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 19"
+    }, {
+      "autoname": false,
+      "id": 724,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 725,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 726,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 727,
+      "name": "Target",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 728,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 20"
+    }, {
+      "autoname": false,
+      "id": 729,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 730,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 731,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 732,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 733,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 21"
+    }, {
+      "autoname": false,
+      "id": 734,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 735,
+      "name": "Bypassed",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 736,
+      "name": "Inverted",
+      "vflag": false,
+      "section": "Slot 21"
+    }, {
+      "autoname": false,
+      "id": 737,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 738,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 22"
+    }, {
+      "autoname": false,
+      "id": 739,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 740,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 741,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 742,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 743,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 23"
+    }],
+    [{
+      "autoname": false,
+      "id": 744,
+      "name": "Level",
+      "vflag": false,
+      "section": "Slot 23"
+    }, {
+      "autoname": false,
+      "id": 745,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 746,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 747,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 748,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 24"
+    }, {
+      "autoname": false,
+      "id": 749,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 750,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 751,
+      "name": "Inverted",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 752,
+      "name": "Target",
+      "vflag": false,
+      "section": "Slot 24"
+    }, {
+      "autoname": false,
+      "id": 753,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 25"
+    }, {
+      "autoname": false,
+      "id": 754,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 755,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 756,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 757,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 758,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 26"
+    }, {
+      "autoname": false,
+      "id": 759,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 760,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 26"
+    }, {
+      "autoname": false,
+      "id": 761,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 762,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 763,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 27"
+    }, {
+      "autoname": false,
+      "id": 764,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 765,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 766,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 767,
+      "name": "Target",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 768,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 28"
+    }, {
+      "autoname": false,
+      "id": 769,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 770,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 771,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 772,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 773,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 29"
+    }, {
+      "autoname": false,
+      "id": 774,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 775,
+      "name": "Bypassed",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 776,
+      "name": "Inverted",
+      "vflag": false,
+      "section": "Slot 29"
+    }, {
+      "autoname": false,
+      "id": 777,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 778,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 30"
+    }, {
+      "autoname": false,
+      "id": 779,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 780,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 781,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 782,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 783,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 31"
+    }],
+    [{
+      "autoname": false,
+      "id": 784,
+      "name": "Level",
+      "vflag": false,
+      "section": "Slot 31"
+    }, {
+      "autoname": false,
+      "id": 785,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 786,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 787,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 788,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 32"
+    }, {
+      "autoname": false,
+      "id": 789,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 790,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 791,
+      "name": "Inverted",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 792,
+      "name": "Target",
+      "vflag": false,
+      "section": "Slot 32"
+    }, {
+      "autoname": false,
+      "id": 793,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 33"
+    }, {
+      "autoname": false,
+      "id": 794,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 795,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 796,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 797,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 798,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 34"
+    }, {
+      "autoname": false,
+      "id": 799,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 800,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 34"
+    }, {
+      "autoname": false,
+      "id": 801,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 802,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 803,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 35"
+    }, {
+      "autoname": false,
+      "id": 804,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 805,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 806,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 807,
+      "name": "Target",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 808,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 36"
+    }, {
+      "autoname": false,
+      "id": 809,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 810,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 811,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 812,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 813,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 37"
+    }, {
+      "autoname": false,
+      "id": 814,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 815,
+      "name": "Bypassed",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 816,
+      "name": "Inverted",
+      "vflag": false,
+      "section": "Slot 37"
+    }, {
+      "autoname": false,
+      "id": 817,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 818,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 38"
+    }, {
+      "autoname": false,
+      "id": 819,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 820,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 821,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 822,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 823,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 39"
+    }],
+    [{
+      "autoname": false,
+      "id": 824,
+      "name": "Level",
+      "vflag": false,
+      "section": "Slot 39"
+    }, {
+      "autoname": false,
+      "id": 825,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 826,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 827,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 828,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 40"
+    }, {
+      "autoname": false,
+      "id": 829,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 830,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 831,
+      "name": "Inverted",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 832,
+      "name": "Target",
+      "vflag": false,
+      "section": "Slot 40"
+    }, {
+      "autoname": false,
+      "id": 833,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 41"
+    }, {
+      "autoname": false,
+      "id": 834,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 835,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 836,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 837,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 838,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 42"
+    }, {
+      "autoname": false,
+      "id": 839,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 840,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 42"
+    }, {
+      "autoname": false,
+      "id": 841,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 842,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 843,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 43"
+    }, {
+      "autoname": false,
+      "id": 844,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 845,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 846,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 847,
+      "name": "Target",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 848,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 44"
+    }, {
+      "autoname": false,
+      "id": 849,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 850,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 851,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 852,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 853,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 45"
+    }, {
+      "autoname": false,
+      "id": 854,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 855,
+      "name": "Bypassed",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 856,
+      "name": "Inverted",
+      "vflag": false,
+      "section": "Slot 45"
+    }, {
+      "autoname": false,
+      "id": 857,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 858,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 46"
+    }, {
+      "autoname": false,
+      "id": 859,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 860,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 861,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 862,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 863,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 47"
+    }],
+    [{
+      "autoname": false,
+      "id": 864,
+      "name": "Level",
+      "vflag": false,
+      "section": "Slot 47"
+    }, {
+      "autoname": false,
+      "id": 865,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 866,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 867,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 868,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 48"
+    }, {
+      "autoname": false,
+      "id": 869,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 870,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 871,
+      "name": "Inverted",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 872,
+      "name": "Target",
+      "vflag": false,
+      "section": "Slot 48"
+    }, {
+      "autoname": false,
+      "id": 873,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 49"
+    }, {
+      "autoname": false,
+      "id": 874,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 875,
+      "name": "Bypassed",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 876,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 877,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 878,
+      "name": "Source",
+      "vflag": false,
+      "section": "Slot 50"
+    }, {
+      "autoname": false,
+      "id": 879,
+      "name": "Level",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 880,
+      "name": "Bypassed",
+      "vflag": false,
+      "section": "Slot 50"
+    }, {
+      "autoname": false,
+      "id": 881,
+      "name": "Inverted",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 882,
+      "name": "Target",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "FabFilter",
+  "uuid": "05febfc4-615c-4b2d-93ed-0760b195803b",
+  "types": [
+    ["Pad", "Slow"]
+  ],
+  "name": "Raw Analog Sweep PS",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["FabFilter Twin 2", "Twin2 Factory", ""],
+  "author": ""
+}
