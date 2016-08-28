@@ -3978,8 +3978,6 @@ gulp.task 'lush101-generate-meta', ->
         when 'Timbres'
           'LuSH-101 Factory Timbres'
       types = switch
-        when folder.length is 1
-          [['Default']]
         when folder[0] is 'Presets'
           [folder[1], t] for t in folder[2..(folder.length)]
         when folder[0] is 'Timbres'
