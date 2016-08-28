@@ -59,82 +59,82 @@ $ =
     presets: "#{process.env.HOME}/Documents/Bitwig Studio/Library/Presets"
 
   #
-  # Air Music Technology Velvet
+  # AIR Music Technology Velvet
   #-------------------------------------------
   Velvet:
     dir: 'Velvet'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: "tvlV"
   #
-  # Air Music Technology Xpand!2
+  # AIR Music Technology Xpand!2
   #-------------------------------------------
   Xpand2:
     dir: 'Xpand!2'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: "2dpX"
 
   #
-  # Air Music Technology Loom
+  # AIR Music Technology Loom
   #-------------------------------------------
   Loom:
     dir: 'Loom'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: "mooL"
 
   #
-  # Air Music Technology Hybrid
+  # AIR Music Technology Hybrid
   #-------------------------------------------
   Hybrid:
     dir: 'Hybrid'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: "drbH"
 
   #
-  # Air Music Technology Vacuum Pro
+  # AIR Music Technology Vacuum Pro
   #-------------------------------------------
   VacuumPro:
     dir: 'VacuumPro'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: "rPcV"
 
   #
-  # Air Music Technology Vacuum Pro
+  # AIR Music Technology Vacuum Pro
   #-------------------------------------------
   theRiser:
     dir: 'theRiser'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: "rsRt"
 
   #
-  # Air Music Technology Strike
+  # AIR Music Technology Strike
   #-------------------------------------------
   Structure:
     dir: 'Structure'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: 'urtS'
     libs: '/Applications/AIR Music Technology/Structure/Structure Factory Libraries'
 
   #
-  # Air Music Technology Strike
+  # AIR Music Technology Strike
   #-------------------------------------------
   Strike:
     dir: 'Strike'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: 'krtS'
   #
-  # Air Music Technology DB-33
+  # AIR Music Technology DB-33
   #-------------------------------------------
   DB_33:
     dir: 'DB-33'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: '33BD'
 
   #
-  # Air Music Technology MiniGrand
+  # AIR Music Technology MiniGrand
   #-------------------------------------------
   MiniGrand:
     dir: 'MiniGrand'
-    vendor: 'Air Music Technology'
+    vendor: 'AIR Music Technology'
     magic: 'rGnM'
 
   #
@@ -524,7 +524,7 @@ gulp.task 'release', [
   'eightyeight-release'
 ]
 
-# Air Music Technology Velvet
+# AIR Music Technology Velvet
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
@@ -645,12 +645,12 @@ gulp.task 'velvet-release',['velvet-dist'], ->
   _release $.Velvet.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology Velvet
+# end AIR Music Technology Velvet
 #
 
 
 # ---------------------------------------------------------------
-# Air Music Technology Xpand!2
+# AIR Music Technology Xpand!2
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
@@ -786,12 +786,12 @@ gulp.task 'xpand2-release',['xpand2-dist'], ->
   _release $.Xpand2.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology Xpand!2
+# end AIR Music Technology Xpand!2
 #
 
 
 # ---------------------------------------------------------------
-# Air Music Technology Loom
+# AIR Music Technology Loom
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
@@ -922,11 +922,11 @@ gulp.task 'loom-release',['loom-dist'], ->
   _release $.Loom.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology Loom
+# end AIR Music Technology Loom
 #
 
 # ---------------------------------------------------------------
-# Air Music Technology Hybrid
+# AIR Music Technology Hybrid
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
@@ -1115,12 +1115,12 @@ gulp.task 'hybrid-check-default-mapping', ->
 
 
 # ---------------------------------------------------------------
-# end Air Music Technology Hybrid
+# end AIR Music Technology Hybrid
 #
 
 
 # ---------------------------------------------------------------
-# Air Music Technology VacuumPro
+# AIR Music Technology VacuumPro
 #
 # notes
 #  - Komplete Kontrol  1.5.0(R3065)
@@ -1193,7 +1193,7 @@ gulp.task 'vacuumpro-generate-meta', ->
         author: ''
       else
         vendor: $.VacuumPro.vendor
-        uuid: uid
+        uuid: _uuid file
         types: [
           [folder[0][3..]]
         ]
@@ -1363,12 +1363,12 @@ gulp.task 'vacuumpro-release',['vacuumpro-dist'], ->
 
 
 # ---------------------------------------------------------------
-# end Air Music Technology VacuumPro
+# end AIR Music Technology VacuumPro
 #
 
 
 # ---------------------------------------------------------------
-# Air Music Technology theRiser
+# AIR Music Technology theRiser
 #
 # notes
 #  - Komplete Kontrol  1.5.0(R3065)
@@ -1602,11 +1602,11 @@ gulp.task 'theriser-release', ['theriser-delete-expansions'], ->
   _release $.theRiser.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology theRiser
+# end AIR Music Technology theRiser
 #
 
 # ---------------------------------------------------------------
-# Air Music Technology Structure
+# AIR Music Technology Structure
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
@@ -1682,11 +1682,11 @@ gulp.task 'structure-generate-meta', ->
         bankchain: ['Structure', 'Structure Factory', '']
         author: (xpath.select "/DBValueMap/manufacturer/text()", meta).toString().trim().split ': '
       json = beautify (JSON.stringify kkmeta), indent_size: $.json_indent
-      # console.info json
+      console.info json
       # set buffer contents
       file.contents = new Buffer json
-      # rename .patch to .json
-      file.path = "#{file.path[..-6]}meta"
+      # rename .pchk to .json
+      file.path = "#{file.path[..-5]}meta"
       file.data
     .pipe gulp.dest "src/#{$.Structure.dir}/presets"
 
@@ -1749,13 +1749,13 @@ gulp.task 'structure-release',['structure-dist'], ->
 
 
 # ---------------------------------------------------------------
-# end Air Music Technology Structure
+# end AIR Music Technology Structure
 #
 
 
 
 # ---------------------------------------------------------------
-# Air Music Technology Strike
+# AIR Music Technology Strike
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
@@ -1873,11 +1873,11 @@ gulp.task 'strike-release',['strike-dist'], ->
   _release $.Strike.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology Strike
+# end AIR Music Technology Strike
 #
 
 # ---------------------------------------------------------------
-# Air Music Technology DB-33
+# AIR Music Technology DB-33
 #
 # notes
 #  - Komplete Kontrol 1.6.2.5
@@ -1996,11 +1996,11 @@ gulp.task 'db33-release',['db33-dist'], ->
   _release $.DB_33.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology DB-33
+# end AIR Music Technology DB-33
 #
 
 # ---------------------------------------------------------------
-# Air Music Technology MiniGrand
+# AIR Music Technology MiniGrand
 #
 # notes
 #  - Komplete Kontrol 1.6.2.5
@@ -2119,7 +2119,7 @@ gulp.task 'minigrand-release',['minigrand-dist'], ->
   _release $.MiniGrand.dir
 
 # ---------------------------------------------------------------
-# end Air Music Technology MiniGrand
+# end AIR Music Technology MiniGrand
 #
 
 # ---------------------------------------------------------------
