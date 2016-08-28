@@ -1,0 +1,13 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Warm"],
+  "name": "Piano Synth Pad 1",
+  "types": [
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Combinations"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "38b7e3f4-2ef1-46e7-82e0-ce468d29a177"
+}

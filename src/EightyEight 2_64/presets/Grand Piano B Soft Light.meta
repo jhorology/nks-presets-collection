@@ -1,0 +1,13 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Without Release Samples", "Soft"],
+  "name": "Grand Piano B Soft Light",
+  "types": [
+    ["Piano/Keys", "Jazz"],
+    ["Piano/Keys", "Classical"],
+    ["Piano/Keys", "12 Dynamic Layer Piano"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "d6da7232-c93b-4840-8dd6-cbb5c512ad76"
+}

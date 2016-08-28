@@ -1,0 +1,13 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Compressed"],
+  "name": "Piano PBass Elec Gtr",
+  "types": [
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Rock"],
+    ["Piano/Keys", "Key Split Combis"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "8bc5f0ce-ea05-4eb5-b391-dfc7b2ccbe18"
+}

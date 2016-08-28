@@ -1,0 +1,14 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Without Release Samples", "Warm"],
+  "name": "Grand Piano A EQ-Warm Light",
+  "types": [
+    ["Piano/Keys", "16 Dynamic Layer Piano"],
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Jazz"],
+    ["Piano/Keys", "Classical"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "014b3356-193a-45e9-b248-eeecef1b056f"
+}

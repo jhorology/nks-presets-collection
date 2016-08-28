@@ -1,0 +1,13 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Warm", "Soft"],
+  "name": "Grand Piano Pad 2",
+  "types": [
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Combinations"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "b3edfe61-6f37-49ff-951b-ca446327cd80"
+}

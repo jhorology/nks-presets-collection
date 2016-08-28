@@ -1,0 +1,14 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based"],
+  "name": "Piano Strings 1",
+  "types": [
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Jazz"],
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Combinations"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "a8b49bbb-a49a-4409-aca3-5f4020315ad3"
+}

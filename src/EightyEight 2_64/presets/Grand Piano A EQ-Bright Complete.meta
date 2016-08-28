@@ -1,0 +1,16 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "With Release Samples", "Bright"],
+  "name": "Grand Piano A EQ-Bright Complete",
+  "types": [
+    ["Piano/Keys", "16 Dynamic Layer Piano"],
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Honky-tonk"],
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Rock"],
+    ["Piano/Keys", "Classical"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "cf71db3b-f43b-4711-8799-7edf311dea89"
+}

@@ -385,7 +385,7 @@ order by
     magic: 'FT2i'
 
   #
-  # SONiVOX EightyEight
+  # D15 Group Audio Software LuSH-101
   #-------------------------------------------
   LuSH101:
     dir: 'LuSH-101'
@@ -400,7 +400,29 @@ order by
     dir: 'EightyEight 2_64'
     vendor: 'SONiVOX'
     magic: 'eit2'
-
+    db: '/Library/Application Support/SONiVOX/EightyEight 2/EightyEight.svxdb'
+    characters: [
+      'Compressed'
+      'Warm'
+      'Bright'
+      'Solo'
+      'Hard'
+      'Soft'
+      'With Release Samples'
+      'Without Release Samples'
+    ]
+    query: '''
+select
+  patch.name as patch,
+  tag.name as tag
+from
+  patch
+  join patch_tag on patch.id = patch_tag.patch_id
+  join tag on patch_tag.tag_id = tag.id
+where
+  patch.name = $PatchName
+'''
+    
   #
   # Xfer Records Serum
   #-------------------------------------------
@@ -458,6 +480,8 @@ gulp.task 'dist', [
   'minigrand-dist'
   'analoglab2-dist'
   'hive-dist'
+  'lush101-dist'
+  'eightyeight-dist'
 ]
 
 gulp.task 'deploy', [
@@ -476,6 +500,8 @@ gulp.task 'deploy', [
   'minigrand-deploy'
   'analoglab2-deploy'
   'hive-deploy'
+  'lush101-deploy'
+  'eightyeight-deploy'
 ]
 
 gulp.task 'release', [
@@ -494,6 +520,8 @@ gulp.task 'release', [
   'minigrand-release'
   'analoglab2-release'
   'hive-release'
+  'lush101-release'
+  'eightyeight-release'
 ]
 
 # Air Music Technology Velvet
@@ -4102,6 +4130,95 @@ gulp.task 'eightyeight-extract-raw-presets', ->
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.EightyEight.dir}/presets"
+
+# generate metadata from EightyEight's sqlite database
+gulp.task 'eightyeight-generate-meta', ->
+  # open database
+  db = new sqlite3.Database $.EightyEight.db, sqlite3.OPEN_READONLY
+  gulp.src ["src/#{$.EightyEight.dir}/presets/**/*.pchk"]
+    .pipe data (file, done) ->
+      # SQL bind parameters
+      patchName = path.basename file.path, '.pchk'
+      folder = path.relative "src/#{$.EightyEight.dir}/presets", path.dirname file.path
+      # execute query
+      db.all $.EightyEight.query, $PatchName: "#{patchName}.svx", (err, rows) ->
+        done err if err
+        unless rows and rows.length
+          return done "row unfound. $PatchName:#{patchName}"
+        done undefined,
+          vendor: $.EightyEight.vendor
+          types: ['Piano/Keys', row.tag] for row in (rows.filter (row) -> row.tag not in $.EightyEight.characters and row.tag isnt 'Empty')
+          name: patchName
+          modes: ['Sample Based'].concat (row.tag for row in (rows.filter (row) -> row.tag in $.EightyEight.characters))
+          deviceType: 'INST'
+          bankchain: [$.EightyEight.dir, 'EightyEight 2 Factory', '']
+    .pipe data (file) ->
+      file.data.uuid = _uuid file
+      json = beautify (JSON.stringify file.data), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      file.data
+    .pipe gulp.dest "src/#{$.EightyEight.dir}/presets"
+    .on 'end', ->
+      # colse database
+      db.close()
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'eightyeight-dist', [
+  'eightyeight-dist-image'
+  'eightyeight-dist-database'
+  'eightyeight-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'eightyeight-dist-image', ->
+  _dist_image $.EightyEight.dir, $.EightyEight.vendor
+
+# copy database resources to dist folder
+gulp.task 'eightyeight-dist-database', ->
+  _dist_database $.EightyEight.dir, $.EightyEight.vendor
+
+# build presets file to dist folder
+gulp.task 'eightyeight-dist-presets', ->
+  _dist_presets $.EightyEight.dir, $.EightyEight.magic
+
+# check
+gulp.task 'eightyeight-check-dist-presets', ->
+  _check_dist_presets $.EightyEight.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'eightyeight-deploy', [
+  'eightyeight-deploy-resources'
+  'eightyeight-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'eightyeight-deploy-resources', [
+  'eightyeight-dist-image'
+  'eightyeight-dist-database'
+  ], ->
+    _deploy_resources $.EightyEight.dir
+
+# copy database resources to local environment
+gulp.task 'eightyeight-deploy-presets', [
+  'eightyeight-dist-presets'
+  ] , ->
+    _deploy_presets $.EightyEight.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'eightyeight-release',['eightyeight-dist'], ->
+  _release $.EightyEight.dir
 
 
 # ---------------------------------------------------------------

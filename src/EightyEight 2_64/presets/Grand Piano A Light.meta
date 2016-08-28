@@ -1,0 +1,17 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Without Release Samples"],
+  "name": "Grand Piano A Light",
+  "types": [
+    ["Piano/Keys", "16 Dynamic Layer Piano"],
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Jazz"],
+    ["Piano/Keys", "Honky-tonk"],
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Rock"],
+    ["Piano/Keys", "Classical"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "b35a0950-1bf1-4d83-9ced-4354c4de6730"
+}

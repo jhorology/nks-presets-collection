@@ -1,0 +1,13 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based"],
+  "name": "Piano Synth SBass",
+  "types": [
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Rock"],
+    ["Piano/Keys", "Key Split Combis"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "fcf98056-a561-40cf-9fe8-30f0c692bad2"
+}

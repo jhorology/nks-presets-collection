@@ -1,0 +1,14 @@
+{
+  "bankchain": ["EightyEight 2_64", "EightyEight 2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Sample Based", "Without Release Samples", "Solo"],
+  "name": "Grand Piano A Solo Light",
+  "types": [
+    ["Piano/Keys", "16 Dynamic Layer Piano"],
+    ["Piano/Keys", "Soundtrack"],
+    ["Piano/Keys", "Pop"],
+    ["Piano/Keys", "Classical"]
+  ],
+  "vendor": "SONiVOX",
+  "uuid": "4b02573c-d4ee-4b1a-a042-7fdd6b63e188"
+}
