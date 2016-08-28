@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "454999b2-e612-48e5-9191-5d3019002861",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Arpeggio"]
+  ],
+  "name": "The Grid",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

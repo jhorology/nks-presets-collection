@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "35f96011-e202-4176-bb5c-c57d2a641cb2",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Arpeggios"]
+  ],
+  "name": "Nosferatu",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

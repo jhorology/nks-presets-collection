@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9f00b26e-9529-4085-91a5-b617e3e533ad",
+  "types": [
+    ["Multiple Zone", "Splits"]
+  ],
+  "name": "C64 Split",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

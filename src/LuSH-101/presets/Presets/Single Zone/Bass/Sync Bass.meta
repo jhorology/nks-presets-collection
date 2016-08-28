@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "7dc16acb-7caf-482f-b9f0-484c0510071b",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Sync Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

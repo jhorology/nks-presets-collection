@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f4a91d7e-779d-4fda-9552-4aa3f388b7be",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Brass"]
+  ],
+  "name": "Poly Synth 3",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

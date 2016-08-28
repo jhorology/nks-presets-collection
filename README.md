@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-(22310-5331)/28543 (59%)
+(25545-5331)/28542 (70%)
 
 |          |raw presets|mappings|meta|resources|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:------:|:---------:|
@@ -28,7 +28,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/ofmomoqk3un1irs/Hive.zip?dl=0)|Aug 29, 2016|
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Nov 9, 2015|
 |[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wi5jo8x4lyyegyt/Analog%20Lab%202.zip?dl=0)3|Aug 11, 2016|
-|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:||||||
+|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/58s9d25ordgi91x/LuSH-101.zip?dl=0)|Aug 29, 2016|
 
  1. Plugin name(root of bankchain) were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.

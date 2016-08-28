@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9c226f45-48b3-48fc-ac97-2126b7e42b39",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Pad"]
+  ],
+  "name": "Chorale",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

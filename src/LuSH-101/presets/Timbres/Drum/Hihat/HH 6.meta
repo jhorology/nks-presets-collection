@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "68e0ad52-2ca4-40d8-977b-8609f81ab6c8",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Hihat"]
+  ],
+  "name": "HH 6",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

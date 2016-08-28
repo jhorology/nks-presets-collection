@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "6d02d2f0-735c-4c0a-8ae7-5981a67a9a5f",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Brass"]
+  ],
+  "name": "Valerie Chords",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

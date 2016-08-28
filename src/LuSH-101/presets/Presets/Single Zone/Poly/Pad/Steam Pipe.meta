@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c53fdece-e4dc-45e6-b1f9-6dcdbbc81cd9",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Pad"]
+  ],
+  "name": "Steam Pipe",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

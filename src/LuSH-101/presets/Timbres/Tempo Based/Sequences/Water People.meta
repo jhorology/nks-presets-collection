@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "e2b80bcf-3702-46ad-9377-5c3ed2046b88",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Sequences"]
+  ],
+  "name": "Water People",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

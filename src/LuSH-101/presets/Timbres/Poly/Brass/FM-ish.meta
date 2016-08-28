@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "be06941c-3f9c-429a-a431-56642b79e062",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Brass"]
+  ],
+  "name": "FM-ish",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

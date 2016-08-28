@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1da764de-ed3b-474a-ae74-4b65ce4fbb7d",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Chorder"]
+  ],
+  "name": "Mouthly Done",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

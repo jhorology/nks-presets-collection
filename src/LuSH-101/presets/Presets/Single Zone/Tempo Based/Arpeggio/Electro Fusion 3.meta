@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "a7c91d9c-6bfa-47fa-a86f-3a891a80db17",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Arpeggio"]
+  ],
+  "name": "Electro Fusion 3",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c591ab6b-dd88-427b-8b25-4f57f7293026",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Pad"]
+  ],
+  "name": "Lao Pad",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Lukas OZD"
+}

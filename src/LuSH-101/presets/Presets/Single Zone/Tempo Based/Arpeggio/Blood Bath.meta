@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "438af7de-3798-4517-b027-f84ba6133c4a",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Arpeggio"]
+  ],
+  "name": "Blood Bath",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

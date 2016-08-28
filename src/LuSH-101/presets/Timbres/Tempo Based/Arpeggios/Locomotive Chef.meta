@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "fd7bb6cb-d3a5-445b-8d1f-e621bac23673",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Arpeggios"]
+  ],
+  "name": "Locomotive Chef",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

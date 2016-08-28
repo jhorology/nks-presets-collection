@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "d264180d-d49d-4217-afcb-8d7152335dab",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Loct Phase",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Ed Ten Eyck"
+}

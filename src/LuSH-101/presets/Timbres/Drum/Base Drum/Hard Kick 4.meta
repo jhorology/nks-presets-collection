@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "93fb53f6-6f1b-4aa5-ae9e-c86d2348a1c8",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Base Drum"]
+  ],
+  "name": "Hard Kick 4",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

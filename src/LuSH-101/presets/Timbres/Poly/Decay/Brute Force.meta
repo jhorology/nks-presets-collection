@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "89a0101c-8f2c-4989-b441-f7a9021b1b6b",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Decay"]
+  ],
+  "name": "Brute Force",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

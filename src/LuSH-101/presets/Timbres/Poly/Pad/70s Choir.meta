@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "e18191da-449b-42ce-98aa-3a1244113067",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Pad"]
+  ],
+  "name": "70s Choir",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

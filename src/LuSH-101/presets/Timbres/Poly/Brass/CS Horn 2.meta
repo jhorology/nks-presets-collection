@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9f770f2b-3c31-44ca-a4bf-dfd9cd6b0edd",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Brass"]
+  ],
+  "name": "CS Horn 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

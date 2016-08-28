@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c4a71469-3d4e-4a44-ba92-e894713cd948",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Sequences"]
+  ],
+  "name": "2nd and 4th",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

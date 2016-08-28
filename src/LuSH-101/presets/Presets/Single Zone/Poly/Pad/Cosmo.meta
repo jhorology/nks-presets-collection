@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c5dc554a-4851-4017-8d24-1bfb45e40516",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Pad"]
+  ],
+  "name": "Cosmo",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

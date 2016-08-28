@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c29707c8-f051-430b-85d5-77ea2439f619",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Hihat"]
+  ],
+  "name": "HH 3",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

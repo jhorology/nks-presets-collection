@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "cef3acef-9d12-4ff8-8919-eba10af228c3",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Percussion"]
+  ],
+  "name": "Pot",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

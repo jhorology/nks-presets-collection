@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9a21106c-e80f-40e4-bc41-2e9994255986",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Sequence"]
+  ],
+  "name": "Lounge Sequence 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

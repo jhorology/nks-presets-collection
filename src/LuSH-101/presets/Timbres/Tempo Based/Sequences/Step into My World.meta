@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f4d1e9cc-7bf0-4fa1-9638-868f9c61ec7b",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Sequences"]
+  ],
+  "name": "Step into My World",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

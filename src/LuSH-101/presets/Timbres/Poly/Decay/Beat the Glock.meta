@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "e27f7807-7de8-45e6-8d52-c1323b7b6125",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Decay"]
+  ],
+  "name": "Beat the Glock",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

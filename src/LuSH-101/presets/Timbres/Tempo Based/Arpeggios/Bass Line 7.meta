@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9623ed87-02ad-45d2-89d2-833cb4338f73",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Arpeggios"]
+  ],
+  "name": "Bass Line 7",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

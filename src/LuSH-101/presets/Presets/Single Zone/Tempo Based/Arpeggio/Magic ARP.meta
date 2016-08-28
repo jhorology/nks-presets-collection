@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c3e0942c-6782-48ec-8aaa-2c3c4ba1317f",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Arpeggio"]
+  ],
+  "name": "Magic ARP",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "aa1911c0-fef4-490a-8805-b44f159782fd",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Chorder"]
+  ],
+  "name": "Dynamic Tension 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

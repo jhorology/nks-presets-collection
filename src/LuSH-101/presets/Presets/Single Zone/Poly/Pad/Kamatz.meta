@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ae1cdb54-07b9-41da-b875-a1d7362b590a",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Pad"]
+  ],
+  "name": "Kamatz",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

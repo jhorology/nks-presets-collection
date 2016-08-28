@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1885f413-a690-498b-b3a4-e5315bf9c5d3",
+  "types": [
+    ["Timbre", "Mono - Lead"],
+    ["Timbre", "Flute"]
+  ],
+  "name": "Alto Flute",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

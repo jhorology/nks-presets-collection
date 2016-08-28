@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "e77bd691-a4a9-440c-a8bc-4958308b66cf",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Snare"]
+  ],
+  "name": "Hard Snare 3",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

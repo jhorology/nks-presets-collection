@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f18e1c02-bd6e-4f0a-a5b9-69e55329a18e",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Arpeggio"]
+  ],
+  "name": "Ball or Sphere",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

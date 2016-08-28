@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "8f7c327b-f517-4f1a-9d04-7b83ad1e73f8",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Pad"]
+  ],
+  "name": "Massive Saw 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

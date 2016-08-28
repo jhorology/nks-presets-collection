@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "3fc23b89-173b-4a47-aed8-93b2590f7bcc",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Brass"]
+  ],
+  "name": "Sequentzing",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "19473a9f-3abb-4a06-b790-a8ca98b3f547",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Pad"]
+  ],
+  "name": "Chippad 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

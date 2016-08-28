@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "29c3359f-5be7-4ac1-90de-1ee00dc13b09",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Drum Loops"]
+  ],
+  "name": "Auto Loop 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "18620bee-a655-4be3-9d6e-328f92aff931",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Keyboard"]
+  ],
+  "name": "Express",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

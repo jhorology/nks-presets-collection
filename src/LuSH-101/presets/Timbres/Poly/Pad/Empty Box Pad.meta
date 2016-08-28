@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "b2317d58-a633-4a2a-b3e2-f65ddd87e995",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Pad"]
+  ],
+  "name": "Empty Box Pad",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

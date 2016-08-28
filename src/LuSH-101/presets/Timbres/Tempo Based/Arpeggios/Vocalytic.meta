@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "b1c52af9-5281-493b-b090-eafc7bacdcde",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Arpeggios"]
+  ],
+  "name": "Vocalytic",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1a85025d-79d7-424d-b313-2d438bbf5057",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Pad"]
+  ],
+  "name": "Long Attack Pad",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

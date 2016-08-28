@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "4066b9a8-e734-4cb4-bd89-efe946aee2bb",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Sequences"]
+  ],
+  "name": "Dub Spit 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

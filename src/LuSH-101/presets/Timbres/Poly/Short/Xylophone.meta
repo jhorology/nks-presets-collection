@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "4eec260b-c9b1-4985-82f0-35bb596c95f6",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Short"]
+  ],
+  "name": "Xylophone",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

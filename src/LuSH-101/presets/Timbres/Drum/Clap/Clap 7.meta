@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "43988bfe-e42c-49d4-9e91-448460eaf2d8",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Clap"]
+  ],
+  "name": "Clap 7",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

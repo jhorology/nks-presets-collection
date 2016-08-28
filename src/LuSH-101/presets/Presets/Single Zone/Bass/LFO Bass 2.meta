@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "fb7f73c4-349e-46af-9a9b-70429a840e1f",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "LFO Bass 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

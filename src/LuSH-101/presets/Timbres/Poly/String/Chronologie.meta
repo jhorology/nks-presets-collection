@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "da8b6fc1-8d93-45ba-bc7c-056649910fde",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "String"]
+  ],
+  "name": "Chronologie",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

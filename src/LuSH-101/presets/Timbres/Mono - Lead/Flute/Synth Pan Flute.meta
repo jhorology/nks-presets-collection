@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "a0f9908f-f958-4316-afb9-385836822cba",
+  "types": [
+    ["Timbre", "Mono - Lead"],
+    ["Timbre", "Flute"]
+  ],
+  "name": "Synth Pan Flute",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "6b017dc0-8d80-4204-9409-70c53a3fcdca",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Keyboard"]
+  ],
+  "name": "Mountain Duke",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

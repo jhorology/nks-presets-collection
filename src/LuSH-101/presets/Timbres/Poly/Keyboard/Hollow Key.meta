@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "402aaad8-faec-450f-a57d-068838aef207",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Keyboard"]
+  ],
+  "name": "Hollow Key",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "56468a99-ac98-48a8-8fdc-5056c2975992",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Keyboard"]
+  ],
+  "name": "Rubber Hohner",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

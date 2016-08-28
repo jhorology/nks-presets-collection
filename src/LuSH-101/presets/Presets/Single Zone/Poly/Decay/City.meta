@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "8a33a12c-6fdd-4288-8d4d-f747595a30a1",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Decay"]
+  ],
+  "name": "City",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

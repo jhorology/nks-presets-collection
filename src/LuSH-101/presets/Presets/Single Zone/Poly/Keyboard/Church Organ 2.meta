@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "8abee45b-e648-4ed9-9a15-ee8d7f62f84d",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Keyboard"]
+  ],
+  "name": "Church Organ 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

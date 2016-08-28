@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9fd9ef0f-374c-404c-8c14-f14a607fd346",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Hihat"]
+  ],
+  "name": "Cymbal 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

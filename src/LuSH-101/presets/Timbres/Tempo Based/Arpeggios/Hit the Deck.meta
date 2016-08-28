@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "e136b143-33a5-431a-a16c-a22e5c804aed",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Arpeggios"]
+  ],
+  "name": "Hit the Deck",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

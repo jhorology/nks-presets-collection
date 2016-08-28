@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "fd36a02a-8c69-4018-b9c3-bbd58a979855",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Drum Loops"]
+  ],
+  "name": "Hats",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

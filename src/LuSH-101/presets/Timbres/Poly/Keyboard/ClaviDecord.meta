@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "5ee8e132-b95a-429f-b8b1-18810985ae75",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Keyboard"]
+  ],
+  "name": "ClaviDecord",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

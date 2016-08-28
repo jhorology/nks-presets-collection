@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "560be82d-8352-4586-aeb0-0e321ce58760",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Chorder"]
+  ],
+  "name": "Non Profit",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

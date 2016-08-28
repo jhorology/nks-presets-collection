@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "2e2ee845-f8ea-47f9-be4e-91d49bb3a3ad",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Decay"]
+  ],
+  "name": "5th Echoes",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

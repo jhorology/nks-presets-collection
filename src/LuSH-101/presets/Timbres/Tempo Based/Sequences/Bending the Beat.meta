@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "21f8f101-ebde-492b-8c79-463f859b19be",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Sequences"]
+  ],
+  "name": "Bending the Beat",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

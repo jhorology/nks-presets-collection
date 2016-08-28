@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ee329e02-5fb0-4284-aaf5-1a9ac8ab79fa",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Decay"]
+  ],
+  "name": "Der Plucke",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

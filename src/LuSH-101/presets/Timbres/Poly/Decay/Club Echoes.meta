@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "3bc5268d-f1fa-47c0-abf6-c9055eefd57f",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Decay"]
+  ],
+  "name": "Club Echoes",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

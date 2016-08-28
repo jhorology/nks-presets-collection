@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "de4cb296-f332-4a27-91d0-07ee04f983f8",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Base Drum"]
+  ],
+  "name": "Discreete Space",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

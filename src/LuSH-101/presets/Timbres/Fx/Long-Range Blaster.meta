@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "6a2fed1a-2f2c-4597-b382-ff526d15ecfa",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Long-Range Blaster",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

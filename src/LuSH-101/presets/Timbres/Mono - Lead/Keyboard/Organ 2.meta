@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "914aeb08-c5be-464c-80cb-97b88b9cd9cc",
+  "types": [
+    ["Timbre", "Mono - Lead"],
+    ["Timbre", "Keyboard"]
+  ],
+  "name": "Organ 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

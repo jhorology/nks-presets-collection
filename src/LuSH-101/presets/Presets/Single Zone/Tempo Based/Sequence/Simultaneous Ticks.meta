@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "871f533d-c608-440b-ae0f-723345acdc0c",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Sequence"]
+  ],
+  "name": "Simultaneous Ticks",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0583d336-8389-420f-b2a9-29530756b09e",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Percussion"]
+  ],
+  "name": "DnB Base",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "7d01551f-96cf-4e8f-99f1-056b5d99a076",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Drum Loops"]
+  ],
+  "name": "Latino",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ecead1dd-d953-430a-89a9-7dd53983a018",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Keyboard"]
+  ],
+  "name": "Electronic Mood 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

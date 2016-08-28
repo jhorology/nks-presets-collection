@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "09d6ef41-8f42-4ed8-835a-df6e47f0b142",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Drum Loops"]
+  ],
+  "name": "Grumpylectro",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

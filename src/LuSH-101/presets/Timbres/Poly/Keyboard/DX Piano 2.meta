@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9870f91e-3e4c-4020-9199-1cb6c56b7651",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Keyboard"]
+  ],
+  "name": "DX Piano 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

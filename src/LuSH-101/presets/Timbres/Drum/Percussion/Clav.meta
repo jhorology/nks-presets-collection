@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "71ab6074-67f4-416c-ab95-cda1a7a624c1",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Percussion"]
+  ],
+  "name": "Clav",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

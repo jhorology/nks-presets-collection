@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "da9cd2f5-a6c9-4012-bf93-43e4d8fb367a",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Chorder"]
+  ],
+  "name": "Xyloballs",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

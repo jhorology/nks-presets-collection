@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "b9daafd6-d9f3-4428-9db5-b3e5caa7b147",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Decay"]
+  ],
+  "name": "Plucked release",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0ffec6e5-eed2-4651-be8e-0c6d6d72f998",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Tom"]
+  ],
+  "name": "Tom 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

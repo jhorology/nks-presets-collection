@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "2f022154-7e17-48e0-8419-8c505711dfff",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Sequence"]
+  ],
+  "name": "Inhibitor 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

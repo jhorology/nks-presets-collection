@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "a8d40dc3-016c-4c42-9640-569cbc035dc9",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Drum Loops"]
+  ],
+  "name": "Stretched Brane",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

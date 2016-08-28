@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1f11817f-bd66-43e3-ba13-a36a9c02634c",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Chorder"]
+  ],
+  "name": "Talk to the Hand",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

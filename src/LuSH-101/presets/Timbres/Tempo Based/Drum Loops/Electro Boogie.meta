@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "8c18be9e-d34b-4d37-8cfb-8071da4a53ed",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Drum Loops"]
+  ],
+  "name": "Electro Boogie",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

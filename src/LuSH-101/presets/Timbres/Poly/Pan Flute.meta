@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0fb1cbd3-dd02-4be0-8cea-eabffd17849b",
+  "types": [
+    ["Timbre", "Poly"]
+  ],
+  "name": "Pan Flute",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

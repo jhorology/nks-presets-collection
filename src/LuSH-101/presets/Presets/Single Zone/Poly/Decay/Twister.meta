@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "8b516c36-9396-46a7-a723-2d2108f7239c",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Decay"]
+  ],
+  "name": "Twister",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

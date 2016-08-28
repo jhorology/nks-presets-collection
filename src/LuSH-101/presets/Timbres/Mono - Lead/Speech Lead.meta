@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f41ca67a-165d-4070-a0fe-92df202e267f",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Speech Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

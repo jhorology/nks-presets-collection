@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "b1f464b2-9a5a-4130-8bba-57c298a84668",
+  "types": [
+    ["Timbre", "Tempo Based"],
+    ["Timbre", "Drum Loops"]
+  ],
+  "name": "Minimal 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

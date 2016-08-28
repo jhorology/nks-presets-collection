@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "4ddbd9e3-a289-4936-80df-3d3b516e9f60",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Brass"]
+  ],
+  "name": "Panini",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

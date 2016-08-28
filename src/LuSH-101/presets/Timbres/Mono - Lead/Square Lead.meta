@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "853b4186-b331-4ebb-af54-00e765f645a0",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Square Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Ed Ten Eyck"
+}

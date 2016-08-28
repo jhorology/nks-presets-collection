@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "d98aab64-9cf3-43c6-a7f4-a64de42de9b3",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Hihat"]
+  ],
+  "name": "Smoothie CH",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1dfbf60e-6b3e-4dc3-8b12-c1abc704d91c",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Sequence"]
+  ],
+  "name": "Villiger",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

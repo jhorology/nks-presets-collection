@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "24cc62aa-2f97-4f6c-9107-96bf3d27449f",
+  "types": [
+    ["Timbre", "Poly"]
+  ],
+  "name": "Saw LFO",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Ed Ten Eyck"
+}

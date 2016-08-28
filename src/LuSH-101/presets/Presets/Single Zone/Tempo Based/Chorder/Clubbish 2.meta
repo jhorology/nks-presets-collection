@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "69de5179-642c-473d-bb1e-194c25638787",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Chorder"]
+  ],
+  "name": "Clubbish 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

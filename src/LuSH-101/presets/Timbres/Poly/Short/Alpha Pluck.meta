@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "bae33fd8-6786-48aa-8969-27b78b19cfe6",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Short"]
+  ],
+  "name": "Alpha Pluck",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

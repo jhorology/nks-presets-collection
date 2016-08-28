@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "3a493e16-1a9f-4e44-9c69-08d62c6e2bf8",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "MBass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Blazej Malinowski"
+}

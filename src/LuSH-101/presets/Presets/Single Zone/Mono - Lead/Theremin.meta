@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "dd656241-beb2-4855-92b0-fbcb463b7d52",
+  "types": [
+    ["Single Zone", "Mono - Lead"]
+  ],
+  "name": "Theremin",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Laurent Bergman"
+}

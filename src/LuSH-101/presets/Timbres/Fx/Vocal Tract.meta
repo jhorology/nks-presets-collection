@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "6d5e76a4-77ec-441f-b005-f63d6a4b3eed",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Vocal Tract",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

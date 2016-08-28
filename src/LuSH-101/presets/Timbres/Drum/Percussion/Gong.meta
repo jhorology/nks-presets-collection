@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9b73ac28-5c56-4047-b317-7606ca0813db",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Percussion"]
+  ],
+  "name": "Gong",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

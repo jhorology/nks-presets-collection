@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "d3bc65d9-133b-421a-8d10-1ad692d92b59",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "SH Bass 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

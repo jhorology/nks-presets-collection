@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "6b3d1c03-f171-496e-a028-e375cbaf27be",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Percussion"]
+  ],
+  "name": "Rim Shot 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

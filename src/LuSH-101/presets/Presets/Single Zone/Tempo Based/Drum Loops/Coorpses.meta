@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ed6aa445-e8fe-4323-bbab-726954d3f541",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Drum Loops"]
+  ],
+  "name": "Coorpses",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

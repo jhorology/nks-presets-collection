@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "77b53667-8228-4aac-8daf-6c25fc011c32",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Plucked Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

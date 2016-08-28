@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "7f49af95-fac8-4ecb-bfce-efe4151322bb",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Chorder"]
+  ],
+  "name": "Alladin",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

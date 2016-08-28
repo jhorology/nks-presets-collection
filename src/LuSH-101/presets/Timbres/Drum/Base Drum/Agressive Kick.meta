@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9753f546-87ca-44b3-8b2b-fb668e31e8b1",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Base Drum"]
+  ],
+  "name": "Agressive Kick",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

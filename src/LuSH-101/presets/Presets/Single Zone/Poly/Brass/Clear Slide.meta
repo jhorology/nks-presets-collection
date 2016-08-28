@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ed6bd80a-99cd-4b8b-b00d-d3d551aebc17",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Brass"]
+  ],
+  "name": "Clear Slide",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

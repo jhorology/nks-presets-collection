@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "e0e7f4c3-6263-4939-abbb-f6bf505c1c75",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Chorder"]
+  ],
+  "name": "Energize",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

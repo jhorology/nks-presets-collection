@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "beace8c3-10cd-4aa1-9fa3-cff42d450a48",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Base Drum"]
+  ],
+  "name": "Kick 1",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

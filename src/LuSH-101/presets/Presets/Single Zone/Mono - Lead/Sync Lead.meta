@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1eb32649-94a2-4b70-a734-47eab726f7de",
+  "types": [
+    ["Single Zone", "Mono - Lead"]
+  ],
+  "name": "Sync Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

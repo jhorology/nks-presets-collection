@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "fa50bdea-d7a0-4e79-8409-6c4a1fde8111",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Hihat"]
+  ],
+  "name": "Wet Hats",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

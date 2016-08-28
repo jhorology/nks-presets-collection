@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0f22bba3-273b-4fdc-8062-c09678c1509e",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Clap"]
+  ],
+  "name": "Clap AZ",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Aiyn Zahev"
+}

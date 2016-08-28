@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c7efd6a3-46f2-441a-88b8-515f30271daa",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Classic Moog",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "af4194dd-e12b-4aa7-bf63-32d00644c68b",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Basic Roland All Purpose",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "sink"
+}

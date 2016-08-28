@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "432af0d5-a06e-454d-a204-f5f8ab3aa493",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "C64 Grabowsky",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "d15ec7f7-70bc-4a98-9d9b-3c877261e7e6",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "String Machine Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

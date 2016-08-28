@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ffaaa524-81f1-40f0-a7c9-a10ed4f9fbb3",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "String"]
+  ],
+  "name": "String Ensemble Cello 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

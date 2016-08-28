@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "64a0e10c-ab8a-4d47-903d-8c0da3084cfc",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Snare"]
+  ],
+  "name": "Snare 4",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

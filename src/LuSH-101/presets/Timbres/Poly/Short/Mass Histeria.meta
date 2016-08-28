@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "104e85ba-5194-4a26-b350-b94d0cbf32c5",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Short"]
+  ],
+  "name": "Mass Histeria",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

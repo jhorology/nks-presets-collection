@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "7caead52-b779-4229-a920-06ef697300db",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Hard Guitar",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

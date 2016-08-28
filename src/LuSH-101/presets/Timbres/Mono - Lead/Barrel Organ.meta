@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f506adc6-39c8-4211-8009-c746ab3bbdcc",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Barrel Organ",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

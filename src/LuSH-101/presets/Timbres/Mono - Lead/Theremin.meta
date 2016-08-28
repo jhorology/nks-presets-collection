@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "fba743c9-30d3-420f-b492-1b6aef4e965a",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Theremin",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

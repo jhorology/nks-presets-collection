@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "811fbf37-0986-4103-9b24-7ac9fc5f9177",
+  "types": [
+    ["Timbre", "Drum"],
+    ["Timbre", "Tom"]
+  ],
+  "name": "Synthetic Tom 2",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

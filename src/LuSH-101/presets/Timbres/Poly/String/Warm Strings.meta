@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "086c8afa-e247-4b5f-a100-5d562849032b",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "String"]
+  ],
+  "name": "Warm Strings",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "66e975d9-1402-4fc4-a07b-bf6c39227e0a",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "String"]
+  ],
+  "name": "Marcato Strings 3",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "d67b57b0-6af4-430e-910c-f90a963a3fe8",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Alert",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

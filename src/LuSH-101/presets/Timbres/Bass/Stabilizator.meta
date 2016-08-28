@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "7160f204-0790-4294-9761-190087ab4d50",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Stabilizator",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

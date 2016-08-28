@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "4b4bab3c-8af1-4ee8-8fdf-3cd614a9087a",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Short"]
+  ],
+  "name": "Crocket's Koto",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9848e9f1-e4e8-4871-95b8-b6af9ed6463d",
+  "types": [
+    ["Single Zone", "Mono - Lead"]
+  ],
+  "name": "Triangle saw",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Lukas OZD"
+}

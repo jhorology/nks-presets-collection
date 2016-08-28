@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "5f3cc351-7f83-4df4-bfce-0d5c4019dbf8",
+  "types": [
+    ["Timbre", "Mono - Lead"],
+    ["Timbre", "Flute"]
+  ],
+  "name": "Noisy Flute",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

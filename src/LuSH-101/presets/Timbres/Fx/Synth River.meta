@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "de5e7d0c-2ac0-4e9f-bac9-4a8046aaa915",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Synth River",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

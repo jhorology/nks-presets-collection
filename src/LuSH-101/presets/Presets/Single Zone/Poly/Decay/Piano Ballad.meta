@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "02a02670-de0b-4c3e-8a3e-4b748674d282",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Decay"]
+  ],
+  "name": "Piano Ballad",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Jacek Klukowski"
+}

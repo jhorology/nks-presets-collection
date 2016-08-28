@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "bb467df2-10bd-47e7-9952-10c4b9822991",
+  "types": [
+    ["Single Zone", "Tempo Based"],
+    ["Single Zone", "Drum Loops"]
+  ],
+  "name": "Kick Smash",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Oliver Chesler"
+}

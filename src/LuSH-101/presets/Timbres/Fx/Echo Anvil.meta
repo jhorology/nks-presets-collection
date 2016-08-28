@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "d512a7ce-b012-458f-ad35-2fb121be45fb",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Echo Anvil",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

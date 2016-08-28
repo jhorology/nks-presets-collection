@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "b40a0007-e6ab-446d-b004-231962ca8eb9",
+  "types": [
+    ["Timbre", "Poly"],
+    ["Timbre", "Short"]
+  ],
+  "name": "Tech",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

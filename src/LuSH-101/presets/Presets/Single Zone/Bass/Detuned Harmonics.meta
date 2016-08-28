@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0a8c599e-f0e8-4a86-a8b4-63c12a20d00f",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Detuned Harmonics",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

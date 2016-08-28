@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1ab3f359-7e4c-4801-b7b5-e692e85e57b6",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Chopper",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

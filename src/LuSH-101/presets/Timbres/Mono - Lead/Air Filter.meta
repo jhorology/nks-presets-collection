@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "c28b5349-a61d-4aa5-9168-a63d974b2765",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Air Filter",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Ed Ten Eyck"
+}

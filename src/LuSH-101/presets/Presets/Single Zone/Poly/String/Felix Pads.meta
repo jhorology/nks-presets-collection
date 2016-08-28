@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "dd7d7284-f553-4e22-bf52-11d0f789c0e4",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "String"]
+  ],
+  "name": "Felix Pads",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Laurent Bergman"
+}

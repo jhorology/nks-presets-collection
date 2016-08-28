@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "40b0795b-bc75-4562-913a-3778218df0bc",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Formant Spread Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

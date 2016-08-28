@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "efa87525-9eca-497d-8d78-1cbac6fe6e3d",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "SMPL Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

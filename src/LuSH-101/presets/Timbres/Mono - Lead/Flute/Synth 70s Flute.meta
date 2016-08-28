@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "eea5f64c-7f66-4ad2-8a85-838bc9469f7e",
+  "types": [
+    ["Timbre", "Mono - Lead"],
+    ["Timbre", "Flute"]
+  ],
+  "name": "Synth 70s Flute",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f5621a85-1ade-4fba-8bbe-c228b0a7ec6e",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Low End",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

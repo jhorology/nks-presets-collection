@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "eb9f6b16-9603-46b0-8a86-54f766049566",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Synth Shore",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

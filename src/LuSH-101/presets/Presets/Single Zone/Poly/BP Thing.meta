@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "2c06e9b2-024b-45b9-8196-fd1a3b1c89af",
+  "types": [
+    ["Single Zone", "Poly"]
+  ],
+  "name": "BP Thing",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Ed Ten Eyck"
+}

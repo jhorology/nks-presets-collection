@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "29bdfdfb-d3da-4c16-8e22-a124c6d099ec",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "Decay"]
+  ],
+  "name": "Retrospective",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

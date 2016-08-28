@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "435b68c3-6cd9-4653-8db5-108bb52e092d",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Solo Brass Synth",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

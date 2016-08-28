@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "a6c5c178-f0a1-463b-8959-ff61fecf7c59",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Sampled Kick",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

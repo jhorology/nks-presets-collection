@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "5b378806-b00c-4809-8be3-54c28df4124d",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "BP Mono",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Ed Ten Eyck"
+}

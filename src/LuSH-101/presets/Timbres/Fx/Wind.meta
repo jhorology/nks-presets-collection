@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0bcdaedd-8bd8-4c12-a994-c53679c2a2ac",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Wind",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

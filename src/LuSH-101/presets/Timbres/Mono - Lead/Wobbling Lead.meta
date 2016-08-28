@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "aab300fb-6da7-4d9d-bf4c-a309e507fee0",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "Wobbling Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

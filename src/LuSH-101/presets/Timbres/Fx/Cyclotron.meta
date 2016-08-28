@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "34ece84d-f09c-4d04-a588-850f381efa24",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Cyclotron",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

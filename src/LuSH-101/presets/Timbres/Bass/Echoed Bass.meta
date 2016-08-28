@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "97f4176c-35f8-40f2-989f-0e6c2a65bc7d",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Echoed Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

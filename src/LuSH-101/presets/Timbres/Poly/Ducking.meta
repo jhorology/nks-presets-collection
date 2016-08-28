@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "05da4fdc-ddc2-455a-86a3-9fce9b9142b8",
+  "types": [
+    ["Timbre", "Poly"]
+  ],
+  "name": "Ducking",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

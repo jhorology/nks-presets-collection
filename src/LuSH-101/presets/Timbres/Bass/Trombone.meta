@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "50ab5f6d-c45b-49dc-ba98-abeb7ab4fcb3",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Trombone",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

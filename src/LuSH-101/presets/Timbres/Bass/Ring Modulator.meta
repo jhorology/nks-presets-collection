@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f6572a27-6a2b-4a44-ab7d-f818211c3981",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Ring Modulator",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

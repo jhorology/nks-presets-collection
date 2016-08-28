@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "0093b044-5a48-4ff5-a19f-c448a706b496",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "NePC",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

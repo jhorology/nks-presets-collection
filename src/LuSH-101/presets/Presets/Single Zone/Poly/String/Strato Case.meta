@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "35b4194a-3f56-49c8-a17c-e2d891812bca",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "String"]
+  ],
+  "name": "Strato Case",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

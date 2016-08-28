@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9a13f844-7f3a-4219-92f9-0c79d29be3b3",
+  "types": [
+    ["Single Zone", "Mono - Lead"]
+  ],
+  "name": "OZD Voicer",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Lukas OZD"
+}

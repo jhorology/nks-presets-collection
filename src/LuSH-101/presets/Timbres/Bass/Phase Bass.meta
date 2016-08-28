@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "9c4abb44-3aea-48b2-8f61-cff8c1bb284a",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Phase Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

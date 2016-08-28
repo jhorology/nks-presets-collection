@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "db1f0656-f73a-445c-9fd5-bda17d9b4c8b",
+  "types": [
+    ["Single Zone", "Drum"]
+  ],
+  "name": "Kick",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Brian M. Jackson"
+}

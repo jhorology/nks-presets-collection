@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "a4d97c88-c34e-4d41-9163-0eece81b54f7",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "C64 Sawtooth",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

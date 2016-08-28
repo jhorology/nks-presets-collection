@@ -1,0 +1,13 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "b6f4586a-6fb9-47b9-8b06-372fe0f1a2fa",
+  "types": [
+    ["Single Zone", "Poly"],
+    ["Single Zone", "String"]
+  ],
+  "name": "Electric Guitar",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "7a236638-58b5-4ff8-aeca-e914f1903d8b",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Disto Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "aae7d68b-48fd-4fd4-aa31-12a5f3c5bdd0",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Overdrive",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Sebastian Bachliński / D16"
+}

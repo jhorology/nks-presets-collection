@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "f7dbf995-b70d-4e7e-b0d0-797483ccd05a",
+  "types": [
+    ["Timbre", "Bass"]
+  ],
+  "name": "Timpani Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -391,6 +391,7 @@ order by
     dir: 'LuSH-101'
     vendor: 'D16 Group Audio Software'
     magic: 'SH11'
+    presets: "#{process.env.HOME}/Library/Application Support/D16 Group/LuSH-101"
     
   #
   # SONiVOX EightyEight
@@ -3961,6 +3962,110 @@ gulp.task 'lush101-extract-raw-presets', ->
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe gulp.dest "src/#{$.LuSH101.dir}/presets"
+
+# generate metadata
+gulp.task 'lush101-generate-meta', ->
+  presets = "src/#{$.LuSH101.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"]
+    .pipe data (file) ->
+      extname = path.extname file.path
+      basename = path.basename file.path, extname
+      relative = path.relative presets, path.dirname file.path
+      folder = relative.split path.sep
+      bank = switch folder[0]
+        when 'Presets'
+          'LuSH-101 Factory Presets'
+        when 'Timbres'
+          'LuSH-101 Factory Timbres'
+      types = switch
+        when folder.length is 1
+          [['Default']]
+        when folder[0] is 'Presets'
+          [folder[1], t] for t in folder[2..(folder.length)]
+        when folder[0] is 'Timbres'
+          ['Timbre', t] for t in folder[1..(folder.length)]
+      author = if folder.length > 1
+        ext = switch folder[0]
+          when 'Presets'
+            'shprst'
+          when 'Timbres'
+            'shtmbr'
+        patch = path.join $.LuSH101.presets, relative, "#{basename}.#{ext}"
+        patch = new xmldom().parseFromString _readFile patch
+        (xpath.select "/Preset/@author", patch)[0]?.value
+        
+      meta =
+        vendor: $.LuSH101.vendor
+        uuid: _uuid file
+        types: types
+        name: basename
+        deviceType: 'INST'
+        comment: ''
+        bankchain: [$.LuSH101.dir, bank, '']
+        author: author
+      json = beautify (JSON.stringify meta), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+      # rename .pchk to .meta
+      file.path = "#{file.path[..-5]}meta"
+      meta
+    .pipe gulp.dest "src/#{$.LuSH101.dir}/presets"
+
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task 'lush101-dist', [
+  'lush101-dist-image'
+  'lush101-dist-database'
+  'lush101-dist-presets'
+]
+
+# copy image resources to dist folder
+gulp.task 'lush101-dist-image', ->
+  _dist_image $.LuSH101.dir, $.LuSH101.vendor
+
+# copy database resources to dist folder
+gulp.task 'lush101-dist-database', ->
+  _dist_database $.LuSH101.dir, $.LuSH101.vendor
+
+# build presets file to dist folder
+gulp.task 'lush101-dist-presets', ->
+  _dist_presets $.LuSH101.dir, $.LuSH101.magic
+
+# check
+gulp.task 'lush101-check-dist-presets', ->
+  _check_dist_presets $.LuSH101.dir
+
+#
+# deploy
+# --------------------------------
+gulp.task 'lush101-deploy', [
+  'lush101-deploy-resources'
+  'lush101-deploy-presets'
+]
+
+# copy resources to local environment
+gulp.task 'lush101-deploy-resources', [
+  'lush101-dist-image'
+  'lush101-dist-database'
+  ], ->
+    _deploy_resources $.LuSH101.dir
+
+# copy database resources to local environment
+gulp.task 'lush101-deploy-presets', [
+  'lush101-dist-presets'
+  ] , ->
+    _deploy_presets $.LuSH101.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task 'lush101-release', ['lush101-dist'], ->
+  _release $.LuSH101.dir
 
 # ---------------------------------------------------------------
 # end D16 LuSH-101

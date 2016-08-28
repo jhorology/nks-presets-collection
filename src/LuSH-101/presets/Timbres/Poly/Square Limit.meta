@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "6fee373f-b482-48ef-8229-d8331a6744e6",
+  "types": [
+    ["Timbre", "Poly"]
+  ],
+  "name": "Square Limit",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

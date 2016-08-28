@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "79b37b98-9a32-437f-bd7c-a03f78b0b5b4",
+  "types": [
+    ["Timbre", "Mono - Lead"]
+  ],
+  "name": "C64 Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "af5a11f2-2aef-4a84-8146-73c04c77563b",
+  "types": [
+    ["Timbre", "Fx"]
+  ],
+  "name": "Drumle",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Timbres", ""],
+  "author": "Sebastian Bachliński / D16"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "ac8074dc-b08c-4521-b0f8-60a8a8791530",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Porta Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Citric Acid"
+}

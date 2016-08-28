@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "1983b9ca-f381-4df8-9ee9-2b4fd4326934",
+  "types": [
+    ["Single Zone", "Bass"]
+  ],
+  "name": "Sub sweep",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Nmls"
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "D16 Group Audio Software",
+  "uuid": "adeedc8e-7781-44ce-9fe3-5cd669927870",
+  "types": [
+    ["Single Zone", "Poly"]
+  ],
+  "name": "Seq LFO Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["LuSH-101", "LuSH-101 Factory Presets", ""],
+  "author": "Brian M. Jackson"
+}
