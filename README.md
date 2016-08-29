@@ -21,7 +21,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|Nov 4, 2015|
 |[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/yqm4bqbmj1n88cs/Spire.zip?dl=0)|Nov 16, 2015|
 |[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|[:arrow_down:](https://www.dropbox.com/s/eq371tcj8rdjhhb/Spire-1.1.zip?dl=0)|Aug 12, 2016|
-|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/zx73q4b5mgyw3c0/Strike.zip?dl=0)|Aug 29, 2016|
+|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/zx73q4b5mgyw3c0/Strike.zip?dl=0)|Aug 30, 2016|
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|Aug 29, 2016|
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|Aug 29, 2016|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:||:heavy_check_mark:||||

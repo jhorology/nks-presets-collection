@@ -173,5 +173,50 @@
       "autoname": true,
       "vflag": false
     }]
+<% _.forEach(channels, function(channel) { %>
+    ,
+    [{
+      "autoname": false,
+      "id": <%= channel.index * 48 + 141 %>,
+      "name": "Mute",
+      "section": "<%= channel.name %>",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 142 %>,
+      "name": "Solo",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 143 %>,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 149 %>,
+      "name": "Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 162 %>,
+      "name": "Tuning",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 158 %>,
+      "name": "Timbre Shift",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 159 %>,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": <%= channel.index * 48 + 160 %>,
+      "name": "Decay",
+      "vflag": false
+    }]
+<% }); %>
   ]
 }

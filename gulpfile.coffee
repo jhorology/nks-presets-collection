@@ -106,7 +106,7 @@ $ =
     magic: "rsRt"
 
   #
-  # AIR Music Technology Strike
+  # AIR Music Technology Structure
   #-------------------------------------------
   Structure:
     dir: 'Structure'
@@ -1646,7 +1646,7 @@ gulp.task 'theriser-release', ['theriser-delete-expansions'], ->
 #
 # notes
 #  - Komplete Kontrol 1.5.0(R3065)
-#  - Strike  2.06.18983
+#  - Structure  2.06.18983
 # ---------------------------------------------------------------
 
 # preparing tasks
@@ -1852,6 +1852,30 @@ gulp.task 'strike-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.Strike.dir}/presets"
 
+# generate per preset mappings
+gulp.task 'strike-generate-mappings', ->
+  # read default mapping template
+  template = _.template _readFile "src/#{$.Strike.dir}/mappings/default.json.tpl"
+  presets = "src/#{$.Strike.dir}/presets"
+  gulp.src ["#{presets}/**/*.pchk"], read: on
+    .pipe data (file) ->
+      # read channel name from plugin-state
+      channels = for i in [0..12]
+        address = 0x1ec2 + i * 32;
+        buf = file.contents.slice address, address + 32
+        index: i
+        name: (buf.toString 'ascii').replace /^([^\u0000]*).*/, '$1'
+      channels = channels.filter (channel) -> channel.name
+      mapping = JSON.parse template channels: channels
+      json = beautify (JSON.stringify mapping), indent_size: $.json_indent
+      console.info json
+      # set buffer contents
+      file.contents = new Buffer json
+      # rename .patch to .json
+      file.path = "#{file.path[..-5]}json"
+      file.data
+    .pipe gulp.dest "src/#{$.Strike.dir}/mappings"
+
 #
 # build
 # --------------------------------
@@ -1873,7 +1897,8 @@ gulp.task 'strike-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'strike-dist-presets', ->
-  _dist_presets $.Strike.dir, $.Strike.magic
+  _dist_presets $.Strike.dir, $.Strike.magic, (file) ->
+    "./src/#{$.Strike.dir}/mappings/#{file.relative[..-5]}json"
 
 # check
 gulp.task 'strike-check-dist-presets', ->
