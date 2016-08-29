@@ -1822,6 +1822,10 @@ gulp.task 'strike-extract-raw-presets', ->
   gulp.src ["temp/#{$.Strike.dir}/**/*.nksf"]
     .pipe extract
       chunk_ids: ['PCHK']
+    .pipe data (file) ->
+      # fix undesirable recording status
+      file.contents[6204] = 0x80
+      file.contents[6205] = 0x3f
     .pipe gulp.dest "src/#{$.Strike.dir}/presets"
 
 # generate metadata
