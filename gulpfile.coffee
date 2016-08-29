@@ -984,20 +984,56 @@ gulp.task 'hybrid-generate-meta', ->
       extname = path.extname file.path
       basename = path.basename file.path, extname
       folder = (path.relative presets, path.dirname file.path).split path.sep
-      type = if folder.length < 2 then 'Default' else folder[1][3..]
       # meta
-      meta =
-        vendor: $.Hybrid.vendor
-        uuid: _uuid file
-        types: [
-          [type]
-        ]
-        modes: []
-        name: basename
-        deviceType: 'INST'
-        comment: ''
-        bankchain: ['Hybrid', folder[0], '']
-        author: ''
+      meta = switch
+        when folder[0] is 'Expansions' and folder[1] is 'Prime Loops'
+          vendor: $.Hybrid.vendor
+          uuid: _uuid file
+          types: [ [folder[3]] ]
+          modes: []
+          name: basename
+          deviceType: 'INST'
+          comment: ''
+          bankchain: ['Hybrid', "#{folder[1]} - #{folder[2]}", '']
+          author: ''
+        when folder[0] is 'Expansions' and folder[1] is 'Toolroom'
+          vendor: $.Hybrid.vendor
+          uuid: _uuid file
+          types: switch folder[2]
+            when 'DEEP HOUSE - Mark Knight'
+              [[(basename.split ' ')[0]]]
+            when 'TECH HOUSE - D.Ramirez'
+              words = basename.split ' '
+              word = words.pop()
+              if word.match /\d+/
+                word = words.pop()
+              [[word]]
+            when 'TECH HOUSE - Marco Lys'
+              words = basename.split ' '
+              word = words.pop()
+              if word.match /\d+/
+                word = words.pop()
+              [[word]]
+            when 'TECH HOUSE - Rene Amesz'
+              [[(basename.split ' ')[0]]]
+            when 'TECH HOUSE - Tocadisco'
+              []
+          modes: []
+          name: basename
+          deviceType: 'INST'
+          comment: ''
+          bankchain: ['Hybrid', "#{folder[1]} - #{folder[2]}", '']
+          author: "#{folder[2].replace /^.* \- (.*)$/, '$1'}"
+        else
+          vendor: $.Hybrid.vendor
+          uuid: _uuid file
+          types: [[if folder.length is 1 then 'Default' else folder[1][3..]]]
+          modes: []
+          name: basename
+          deviceType: 'INST'
+          comment: ''
+          bankchain: ['Hybrid', folder[0], '']
+          author: ''
       json = beautify (JSON.stringify meta), indent_size: $.json_indent
       console.info json
       file.contents = new Buffer json
