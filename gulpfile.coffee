@@ -22,6 +22,8 @@ uuid        = require 'uuid'
 xpath       = require 'xpath'
 xmldom      = (require 'xmldom').DOMParser
 hiveParser  = require 'u-he-hive-meta-parser'
+pd          = (require 'pretty-data').pd
+
 
 $ =
   #
@@ -392,7 +394,37 @@ order by
     vendor: 'D16 Group Audio Software'
     magic: 'SH11'
     presets: "#{process.env.HOME}/Library/Application Support/D16 Group/LuSH-101"
-    
+    pluginStateChunkId: 'VC2!'
+    # contributed from @tomduncalf
+    mappingFile: "src/LuSH-101/mappings/LuSH-101.shhpmap"
+    buildOpts:
+      Editor:
+        Skin: 'Big'                        # 'Small' or 'Big'
+        Keyboard: 'no'                     # keyboard visible 'yes' or 'no'
+      OtherParameters:
+        # 'FX 1 Audio Output Number': '1'
+        # 'FX 2 Audio Output Number': '1'
+        # 'FX 3 Audio Output Number': '1'
+        'MultiCore Support': 'on'           # 'on' or 'off'
+        'Sound Quality': 'Normal'           # 'Normal' or 'High'
+        'Offline Quality': 'Normal'         # 'Normal' or 'High'
+        'Retrigger Mode': 'Normal'          # envelope retrigger mode, 'Normal' or 'SH-101'
+        # 'Layer 1 Audio Output Number': '1'
+        # 'Layer 1 Midi Channel': 'omni'
+        # 'Layer 2 Audio Output Number': '1'
+        # 'Layer 2 Midi Channel': 'omni'
+        # 'Layer 3 Audio Output Number': '1'
+        # 'Layer 3 Midi Channel': 'omni'
+        # 'Layer 4 Audio Output Number': '1'
+        # 'Layer 4 Midi Channel': 'omni'
+        # 'Layer 5 Audio Output Number': '1'
+        # 'Layer 5 Midi Channel': 'omni'
+        # 'Layer 6 Audio Output Number': '1'
+        # 'Layer 6 Midi Channel': 'omni'
+        # 'Layer 7 Audio Output Number': '1'
+        # 'Layer 7 Midi Channel': 'omni'
+        # 'Layer 8 Audio Output Number': '1'
+        # 'Layer 8 Midi Channel': 'omni'
   #
   # SONiVOX EightyEight
   #-------------------------------------------
@@ -1393,8 +1425,15 @@ gulp.task 'vacuumpro-deploy-presets', [
 # release
 # --------------------------------
 
+# delete third-party expansions
+gulp.task 'vacuumpro-delete-expansions',  ['vacuumpro-dist'], (cb) ->
+  del [
+    "dist/#{$.VacuumPro.dir}/User Content/#{$.VacuumPro.dir}/Expansions/**"
+    ]
+  , force: true, cb
+
 # release zip file to dropbox
-gulp.task 'vacuumpro-release',['vacuumpro-dist'], ->
+gulp.task 'vacuumpro-release',['vacuumpro-delete-expansions'], ->
   _release $.VacuumPro.dir
 
 
@@ -4102,6 +4141,51 @@ gulp.task 'lush101-generate-meta', ->
       meta
     .pipe gulp.dest "src/#{$.LuSH101.dir}/presets"
 
+# generate mapping from LuSH-101.shhpmap (contributed from @tomduncalf)
+gulp.task 'lush101-suggest-mapping', ->
+  gulp.src [$.LuSH101.mappingFile], read: true
+    .pipe data (file) ->
+      shhpmap = new xmldom().parseFromString file.contents.toString()
+      assigns = xpath.select "/HostParametersMap/assign", shhpmap
+      pages = []
+      page = []
+      prevSection = undefined
+      prevLayer = undefined
+      for assign in assigns
+        words = (assign.getAttribute 'pluginParam').split ' '
+        section = (words[0..2].join ' ').replace /Layer (\d)/, 'L$1'
+        layer = words[1]
+        if layer isnt prevLayer and page.length isnt 0
+          while page.length < 8
+            page.push autoname: false, vflag: false
+          pages.push page
+          page = []
+        page.push
+          autoname: false
+          # shhpmap = 1 based, NKS = 0 based
+          id: (parseInt assign.getAttribute 'hostParam') - 1
+          name: words[3..].join ' '
+          section: section if page.length is 0 or section isnt prevSection
+          vflag: false
+        if page.length is 8
+          pages.push page
+          page = []
+        prevSection = section
+        prevLayer = layer
+
+      if page.length isnt 0
+        while page.length < 8
+          page.push autoname: false, vflag: false
+        pages.push page
+        
+      json = beautify (JSON.stringify ni8: pages), indent_size: $.json_indent
+      console.info json
+      file.contents = new Buffer json
+    .pipe rename
+      basename: 'default-suggest'
+      extname: '.json'
+    .pipe gulp.dest "src/#{$.LuSH101.dir}/mappings"
+
 #
 # build
 # --------------------------------
@@ -4123,7 +4207,47 @@ gulp.task 'lush101-dist-database', ->
 
 # build presets file to dist folder
 gulp.task 'lush101-dist-presets', ->
-  _dist_presets $.LuSH101.dir, $.LuSH101.magic
+  # read LuSH-101 mapping file
+  shhpmap = new xmldom().parseFromString _readFile $.LuSH101.mappingFile
+  assigns = xpath.select "/HostParametersMap/assign", shhpmap
+  _dist_presets $.LuSH101.dir, $.LuSH101.magic, (file) ->
+    # edit PCHK chunk content
+    # - apply build option
+    # - sync mapping between pluginstate and NICA chunk
+    id = file.contents.toString 'ascii', 4, 8
+    size = file.contents.readUInt32LE 8
+    pluginState = new xmldom().parseFromString file.contents.toString 'utf8', 12, (12 + size)
+    
+    # build options
+    if $.LuSH101.buildOpts.Editor.Skin
+      (xpath.select '/PluginState/Editor/Skin[1]', pluginState)[0]
+        ?.setAttribute 'name', $.LuSH101.buildOpts.Editor.Skin
+    if $.LuSH101.buildOpts.Editor.Keyboard
+      (xpath.select "/PluginState/Editor/Keyboard[1]", pluginState)[0]
+        ?.setAttribute 'visible', $.LuSH101.buildOpts.Editor.Keyboard
+    for key in Object.keys($.LuSH101.buildOpts.OtherParameters)
+      (xpath.select "/PluginState/Preset[@name=\"OtherParameters\"]/param[@name=\"#{key}\"]", pluginState)[0]
+        ?.setAttribute 'value', $.LuSH101.buildOpts.OtherParameters[key]
+        
+    # replace mapping
+    map = (xpath.select "/PluginState/HostParametersMap[@name=\"LuSH-101\"]", pluginState)[0]
+    map.removeChild child while child = map?.lastChild
+    for assign in assigns
+      map.appendChild assign
+
+    # build PCHK chunk
+    pluginState = new Buffer pluginState.toString(), 'utf8'
+    size = new Buffer 4
+    size.writeInt32LE pluginState.length
+    file.contents = Buffer.concat [
+      file.contents.slice 0, 8
+      size                       # xml size
+      pluginState                # xml
+      new Buffer [0]             # null terminate ?
+    ]
+    
+    # return undefined for use default.json
+    undefined
 
 # check
 gulp.task 'lush101-check-dist-presets', ->
@@ -4548,20 +4672,32 @@ _dist_database = (dir, vendor) ->
     .pipe gulp.dest "dist/#{dir}/NI Resources/dist_database/#{v}/#{d}"
 
 # build presets file to dist folder
-# callback(file) optional, provide per preset mapping filepath.
+# callback(file) optional
+#   -  do something file.contents
+#   -  return preset mapping filepath or mapping object.
+#   -  return null or undefine for use default.json
 _dist_presets = (dir, magic, callback) ->
   presets = "src/#{dir}/presets"
   mappings = "./src/#{dir}/mappings"
   dist = "dist/#{dir}/User Content/#{dir}"
   defaultMapping = undefined
-  unless _.isFunction callback
-    defaultMapping = _serialize require "#{mappings}/default.json"
+  defaultMapping = if fs.existsSync "#{mappings}/default.json"
+    _serialize require "#{mappings}/default.json"
   pluginId = _serializeMagic magic
   gulp.src ["#{presets}/**/*.pchk"], read: true
     .pipe data (file) ->
       mapping = defaultMapping
-      if _.isFunction callback
-        mapping = _serialize require callback file
+      mapping = if _.isFunction callback
+        m = callback file
+        switch
+          when _.isString m
+            _serialize require m
+          when _.isObject m and m.ni8
+            _serialize m
+          else
+            defaultMapping
+      else
+        defaultMapping
       riff = builder 'NIKS'
       # NISI chunk -- metadata
       meta = _serialize _readJson "#{presets}/#{file.relative[..-5]}meta"

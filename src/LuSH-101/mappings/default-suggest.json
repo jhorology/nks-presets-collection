@@ -95,6 +95,7 @@
       "autoname": false,
       "id": 17,
       "name": "Saw Detune",
+      "section": "L1 Super",
       "vflag": false
     }, {
       "autoname": false,
@@ -105,6 +106,7 @@
       "autoname": false,
       "id": 19,
       "name": "Noise Type",
+      "section": "L1 Mixer",
       "vflag": false
     }, {
       "autoname": false,
@@ -130,7 +132,8 @@
     [{
       "autoname": false,
       "id": 24,
-      "name": "Super Saw",
+      "name": "Saw",
+      "section": "L1 Super",
       "vflag": false
     }, {
       "autoname": false,
@@ -436,6 +439,7 @@
       "autoname": false,
       "id": 80,
       "name": "Saw Detune",
+      "section": "L2 Super",
       "vflag": false
     }, {
       "autoname": false,
@@ -446,6 +450,7 @@
       "autoname": false,
       "id": 82,
       "name": "Noise Type",
+      "section": "L2 Mixer",
       "vflag": false
     }, {
       "autoname": false,
@@ -471,7 +476,8 @@
     [{
       "autoname": false,
       "id": 87,
-      "name": "Super Saw",
+      "name": "Saw",
+      "section": "L2 Super",
       "vflag": false
     }, {
       "autoname": false,

@@ -16,7 +16,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/ofmomoqk3un1irs/Hive.zip?dl=0)|Aug 29, 2016|
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:||||
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|Aug 29, 2016|
-|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/58s9d25ordgi91x/LuSH-101.zip?dl=0)|Aug 29, 2016|
+|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/58s9d25ordgi91x/LuSH-101.zip?dl=0)5|Sep 02, 2016|
 |[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/z1pk7gdwwvambav/MiniGrand.zip?dl=0)|Aug 29, 2016|
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|Nov 4, 2015|
 |[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/yqm4bqbmj1n88cs/Spire.zip?dl=0)|Nov 16, 2015|
@@ -33,7 +33,9 @@ NKS(Native Kontrol Standard) presets collection
  1. Plugin name(root of bankchain) were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.
  3. Temporary build. Parameter mapping is not optimized yet.
-
+ 4. Contributed from @tomduncalf
+ 5. custom build options are available, see $.LuSH101.buildOpts in gulpfile.coffee.
+ 
 ## Build Instructions
 
 ### Software Requirements

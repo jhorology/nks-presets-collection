@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<HostParametersMap name="LuSH-101">
+  <assign hostParam="1" pluginParam="Layer 1 VCO Modulation"/>
+  <assign hostParam="2" pluginParam="Layer 1 VCO Modulation Source"/>
+  <assign hostParam="3" pluginParam="Layer 1 VCO Frequency"/>
+  <assign hostParam="4" pluginParam="Layer 1 VCO Tracking"/>
+  <assign hostParam="5" pluginParam="Layer 1 VCO Range"/>
+  <assign hostParam="6" pluginParam="Layer 1 VCO Range Filter Affect"/>
+  <assign hostParam="7" pluginParam="Layer 1 VCO Sync Mode"/>
+  <assign hostParam="8" pluginParam="Layer 1 VCO Sync Offset"/>
+  <assign hostParam="9" pluginParam="Layer 1 VCO Sync Mix"/>
+  <assign hostParam="10" pluginParam="Layer 1 VCO Pulse Width"/>
+  <assign hostParam="11" pluginParam="Layer 1 VCO Pulse Modulation"/>
+  <assign hostParam="12" pluginParam="Layer 1 VCO Pulse Modulation Source"/>
+  <assign hostParam="13" pluginParam="Layer 1 Mixer SQR Volume"/>
+  <assign hostParam="14" pluginParam="Layer 1 Mixer SAW Volume"/>
+  <assign hostParam="15" pluginParam="Layer 1 Mixer SUB Volume"/>
+  <assign hostParam="16" pluginParam="Layer 1 Mixer SUB Wave"/>
+  <assign hostParam="17" pluginParam="Layer 1 Mixer Noise Volume"/>
+  <assign hostParam="18" pluginParam="Layer 1 Super Saw Detune"/>
+  <assign hostParam="19" pluginParam="Layer 1 Super Saw Amount"/>
+  <assign hostParam="20" pluginParam="Layer 1 Mixer Noise Type"/>
+  <assign hostParam="21" pluginParam="Layer 1 Mixer SQR Env"/>
+  <assign hostParam="22" pluginParam="Layer 1 Mixer SAW Env"/>
+  <assign hostParam="23" pluginParam="Layer 1 Mixer SUB Env"/>
+  <assign hostParam="24" pluginParam="Layer 1 Mixer NOISE Env"/>
+  <assign hostParam="25" pluginParam="Layer 1 Super Saw"/>
+  <assign hostParam="26" pluginParam="Layer 1 HPF Frequency"/>
+  <assign hostParam="27" pluginParam="Layer 1 VCF Frequency"/>
+  <assign hostParam="28" pluginParam="Layer 1 VCF ENV1"/>
+  <assign hostParam="29" pluginParam="Layer 1 VCF ENV2"/>
+  <assign hostParam="30" pluginParam="Layer 1 VCF LFO1"/>
+  <assign hostParam="31" pluginParam="Layer 1 VCF LFO2"/>
+  <assign hostParam="32" pluginParam="Layer 1 VCF Keyboard"/>
+  <assign hostParam="33" pluginParam="Layer 1 VCF Resonance"/>
+  <assign hostParam="34" pluginParam="Layer 1 VCF Resonance ENV2"/>
+  <assign hostParam="35" pluginParam="Layer 1 VCF Resonance LFO2"/>
+  <assign hostParam="36" pluginParam="Layer 1 VCA Source"/>
+  <assign hostParam="37" pluginParam="Layer 1 ENV1 Polarity"/>
+  <assign hostParam="38" pluginParam="Layer 1 ENV1 Trigger Source"/>
+  <assign hostParam="39" pluginParam="Layer 1 ENV1 Attack"/>
+  <assign hostParam="40" pluginParam="Layer 1 ENV1 Decay"/>
+  <assign hostParam="41" pluginParam="Layer 1 ENV1 Sustain"/>
+  <assign hostParam="42" pluginParam="Layer 1 ENV1 Release"/>
+  <assign hostParam="43" pluginParam="Layer 1 ENV2 Polarity"/>
+  <assign hostParam="44" pluginParam="Layer 1 ENV2 Trigger Source"/>
+  <assign hostParam="45" pluginParam="Layer 1 ENV2 Attack"/>
+  <assign hostParam="46" pluginParam="Layer 1 ENV2 Decay"/>
+  <assign hostParam="47" pluginParam="Layer 1 ENV2 Sustain"/>
+  <assign hostParam="48" pluginParam="Layer 1 ENV2 Release"/>
+  <assign hostParam="49" pluginParam="Layer 1 LFO1 Rate"/>
+  <assign hostParam="50" pluginParam="Layer 1 LFO1 Note Rate"/>
+  <assign hostParam="51" pluginParam="Layer 1 LFO1 Waveform"/>
+  <assign hostParam="52" pluginParam="Layer 1 LFO1 Reset"/>
+  <assign hostParam="53" pluginParam="Layer 1 LFO1 Mono"/>
+  <assign hostParam="54" pluginParam="Layer 1 LFO1 Keyboard Track"/>
+  <assign hostParam="55" pluginParam="Layer 1 LFO1 Sync"/>
+  <assign hostParam="56" pluginParam="Layer 1 LFO2 Rate"/>
+  <assign hostParam="57" pluginParam="Layer 1 LFO2 Note Rate"/>
+  <assign hostParam="58" pluginParam="Layer 1 LFO2 Waveform"/>
+  <assign hostParam="59" pluginParam="Layer 1 LFO2 Reset"/>
+  <assign hostParam="60" pluginParam="Layer 1 LFO2 Mono"/>
+  <assign hostParam="61" pluginParam="Layer 1 LFO2 Keyboard Track"/>
+  <assign hostParam="62" pluginParam="Layer 1 LFO2 Sync"/>
+  <assign hostParam="63" pluginParam="Layer 1 Filter Type"/>
+  <assign hostParam="64" pluginParam="Layer 2 VCO Modulation"/>
+  <assign hostParam="65" pluginParam="Layer 2 VCO Modulation Source"/>
+  <assign hostParam="66" pluginParam="Layer 2 VCO Frequency"/>
+  <assign hostParam="67" pluginParam="Layer 2 VCO Tracking"/>
+  <assign hostParam="68" pluginParam="Layer 2 VCO Range"/>
+  <assign hostParam="69" pluginParam="Layer 2 VCO Range Filter Affect"/>
+  <assign hostParam="70" pluginParam="Layer 2 VCO Sync Mode"/>
+  <assign hostParam="71" pluginParam="Layer 2 VCO Sync Offset"/>
+  <assign hostParam="72" pluginParam="Layer 2 VCO Sync Mix"/>
+  <assign hostParam="73" pluginParam="Layer 2 VCO Pulse Width"/>
+  <assign hostParam="74" pluginParam="Layer 2 VCO Pulse Modulation"/>
+  <assign hostParam="75" pluginParam="Layer 2 VCO Pulse Modulation Source"/>
+  <assign hostParam="76" pluginParam="Layer 2 Mixer SQR Volume"/>
+  <assign hostParam="77" pluginParam="Layer 2 Mixer SAW Volume"/>
+  <assign hostParam="78" pluginParam="Layer 2 Mixer SUB Volume"/>
+  <assign hostParam="79" pluginParam="Layer 2 Mixer SUB Wave"/>
+  <assign hostParam="80" pluginParam="Layer 2 Mixer Noise Volume"/>
+  <assign hostParam="81" pluginParam="Layer 2 Super Saw Detune"/>
+  <assign hostParam="82" pluginParam="Layer 2 Super Saw Amount"/>
+  <assign hostParam="83" pluginParam="Layer 2 Mixer Noise Type"/>
+  <assign hostParam="84" pluginParam="Layer 2 Mixer SQR Env"/>
+  <assign hostParam="85" pluginParam="Layer 2 Mixer SAW Env"/>
+  <assign hostParam="86" pluginParam="Layer 2 Mixer SUB Env"/>
+  <assign hostParam="87" pluginParam="Layer 2 Mixer NOISE Env"/>
+  <assign hostParam="88" pluginParam="Layer 2 Super Saw"/>
+  <assign hostParam="89" pluginParam="Layer 2 HPF Frequency"/>
+  <assign hostParam="90" pluginParam="Layer 2 VCF Frequency"/>
+  <assign hostParam="91" pluginParam="Layer 2 VCF ENV1"/>
+  <assign hostParam="92" pluginParam="Layer 2 VCF ENV2"/>
+  <assign hostParam="93" pluginParam="Layer 2 VCF LFO1"/>
+  <assign hostParam="94" pluginParam="Layer 2 VCF LFO2"/>
+  <assign hostParam="95" pluginParam="Layer 2 VCF Keyboard"/>
+  <assign hostParam="96" pluginParam="Layer 2 VCF Resonance"/>
+  <assign hostParam="97" pluginParam="Layer 2 VCF Resonance ENV2"/>
+  <assign hostParam="98" pluginParam="Layer 2 VCF Resonance LFO2"/>
+  <assign hostParam="99" pluginParam="Layer 2 VCA Source"/>
+  <assign hostParam="100" pluginParam="Layer 2 ENV1 Polarity"/>
+  <assign hostParam="101" pluginParam="Layer 2 ENV1 Trigger Source"/>
+  <assign hostParam="102" pluginParam="Layer 2 ENV1 Attack"/>
+  <assign hostParam="103" pluginParam="Layer 2 ENV1 Decay"/>
+  <assign hostParam="104" pluginParam="Layer 2 ENV1 Sustain"/>
+  <assign hostParam="105" pluginParam="Layer 2 ENV1 Release"/>
+  <assign hostParam="106" pluginParam="Layer 2 ENV2 Polarity"/>
+  <assign hostParam="107" pluginParam="Layer 2 ENV2 Trigger Source"/>
+  <assign hostParam="108" pluginParam="Layer 2 ENV2 Attack"/>
+  <assign hostParam="109" pluginParam="Layer 2 ENV2 Decay"/>
+  <assign hostParam="110" pluginParam="Layer 2 ENV2 Sustain"/>
+  <assign hostParam="111" pluginParam="Layer 2 ENV2 Release"/>
+  <assign hostParam="112" pluginParam="Layer 2 LFO1 Rate"/>
+  <assign hostParam="113" pluginParam="Layer 2 LFO1 Note Rate"/>
+  <assign hostParam="114" pluginParam="Layer 2 LFO1 Waveform"/>
+  <assign hostParam="115" pluginParam="Layer 2 LFO1 Reset"/>
+  <assign hostParam="116" pluginParam="Layer 2 LFO1 Mono"/>
+  <assign hostParam="117" pluginParam="Layer 2 LFO1 Keyboard Track"/>
+  <assign hostParam="118" pluginParam="Layer 2 LFO1 Sync"/>
+  <assign hostParam="119" pluginParam="Layer 2 LFO2 Rate"/>
+  <assign hostParam="120" pluginParam="Layer 2 LFO2 Note Rate"/>
+  <assign hostParam="121" pluginParam="Layer 2 LFO2 Waveform"/>
+  <assign hostParam="122" pluginParam="Layer 2 LFO2 Reset"/>
+  <assign hostParam="123" pluginParam="Layer 2 LFO2 Mono"/>
+  <assign hostParam="124" pluginParam="Layer 2 LFO2 Keyboard Track"/>
+  <assign hostParam="125" pluginParam="Layer 2 LFO2 Sync"/>
+  <assign hostParam="126" pluginParam="Layer 2 Filter Type"/>
+</HostParametersMap>
