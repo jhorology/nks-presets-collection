@@ -33,7 +33,7 @@ NKS(Native Kontrol Standard) presets collection
  1. Plugin name(root of bankchain) were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.
  3. Temporary build. Parameter mapping is not optimized yet.
- 4. Contributed from [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap)
+ 4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap)
  5. custom build options are available, see $.LuSH101.buildOpts in gulpfile.coffee.
  
 ## Build Instructions
