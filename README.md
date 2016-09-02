@@ -44,8 +44,8 @@ NKS(Native Kontrol Standard) presets collection
 
   I recommend to use [nvm](https://github.com/creationix/nvm).
     ```shellscript
-    nvm install v5.11.1
-    nvm use v5.11.1
+    nvm install v5
+    nvm use v5
     ```
     *Some tasks will may not work on node v6.x.x due to dep issue. Please use node v5.x.x
 
