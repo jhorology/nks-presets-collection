@@ -45,10 +45,6 @@ gulp.task "#{$.prefix}-print-magic", ->
 gulp.task "#{$.prefix}-generate-default-mapping", ->
   task.generate_default_mapping $.dir
 
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
 # extract PCHK chunk from .nksf files.
 gulp.task "#{$.prefix}-extract-raw-presets", ->
   task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"

@@ -10,7 +10,6 @@ gulp     = require 'gulp'
 tap      = require 'gulp-tap'
 data     = require 'gulp-data'
 rename   = require 'gulp-rename'
-exec     = require 'gulp-exec'
 
 util     = require '../lib/util.coffee'
 task     = require '../lib/common-tasks'
@@ -49,24 +48,9 @@ gulp.task "#{$.prefix}-print-magic", ->
 gulp.task "#{$.prefix}-generate-default-mapping", ->
   task.generate_default_mapping $.dir
 
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
 # extract PCHK chunk from .bwpreset files.
 gulp.task "#{$.prefix}-extract-raw-presets", ->
-  gulp.src ["#{$.Bitwig.presets}/#{$.dir}/**/*.bwpreset"]
-    .pipe data (file) ->
-      basename = path.basename file.path, '.bwpreset'
-      dirname = path.join "src/#{$.dir}/presets", path.dirname file.relative
-      destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk"
-    .pipe exec [
-      'mkdir -p "<%= file.data.destDir %>"'
-      'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
-      ].join '&&'
-    , $.execOpts
-    .pipe exec.reporter $.execRepotOpts
+  task.extract_raw_presets_from_bw ["#{$.Bitwig.presets}/#{$.dir}/**/*.bwpreset"], "src/#{$.dir}/presets"
 
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->

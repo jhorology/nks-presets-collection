@@ -59,12 +59,45 @@ module.exports =
         magic = _deserializeMagic file
         console.info "magic: '#{magic}'"
 
-  # extract PCHK chunk
+  # extract PCHK chunk from .nksf file
   extract_raw_presets: (srcs, dest) ->
     gulp.src srcs
       .pipe extract
         chunk_ids: ['PCHK']
       .pipe gulp.dest dest
+
+  # extract PCHK chunk from .adg (ableton rack) file
+  extract_raw_presets_from_adg: (srcs, dest) ->
+    gulp.src srcs
+      .pipe data (file) ->
+        extname = path.extname file.path
+        basename = path.basename file.path, extname
+        dirname = path.join dest, path.dirname file.relative
+        destDir: dirname
+        destPath: path.join dirname, "#{basename}.pchk"
+      .pipe exec [
+        'echo "now converting file:<%= file.relative %>"'
+        'mkdir -p "<%= file.data.destDir %>"'
+        'tools/adg2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+        ].join '&&'
+      , $.execOpts
+      .pipe exec.reporter $.execRepotOpts
+      
+  # extract PCHK chunk from .bwpreset (bitwig preset) file
+  extract_raw_presets_from_bw: (srcs, dest) ->
+    gulp.src srcs
+      .pipe data (file) ->
+        extname = path.extname file.path
+        basename = path.basename file.path, extname
+        dirname = path.join dest, path.dirname file.relative
+        destDir: dirname
+        destPath: path.join dirname, "#{basename}.pchk"
+      .pipe exec [
+        'mkdir -p "<%= file.data.destDir %>"'
+        'tools/bwpreset2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
+        ].join '&&'
+      , $.execOpts
+      .pipe exec.reporter $.execRepotOpts
 
   #
   # dist

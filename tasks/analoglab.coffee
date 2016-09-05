@@ -10,7 +10,6 @@ gulp     = require 'gulp'
 tap      = require 'gulp-tap'
 rename   = require 'gulp-rename'
 data     = require 'gulp-data'
-exec     = require 'gulp-exec'
 del      = require 'del'
 sqlite3  = require 'sqlite3'
 _        = require 'underscore'
@@ -178,26 +177,9 @@ gulp.task "#{$.prefix}-print-magic", ->
 gulp.task "#{$.prefix}-generate-default-mapping", ->
   task.generate_default_mapping $.dir
 
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
 # extract PCHK chunk from .adg files.
 gulp.task "#{$.prefix}-extract-raw-presets", ->
-  gulp.src ["#{$.Ableton.racks}/#{$.dir}/**/*.adg"]
-    .pipe data (file) ->
-      extname = path.extname file.path
-      basename = path.basename file.path, path.extname file.path
-      dirname = path.join "src/#{$.dir}/presets", path.dirname file.relative
-      destDir: dirname
-      destPath: path.join dirname, "#{basename}.pchk"
-    .pipe exec [
-      'echo "now converting file:<%= file.relative %>"'
-      'mkdir -p "<%= file.data.destDir %>"'
-      'tools/adg2pchk "<%= file.path%>" "<%= file.data.destPath %>"'
-      ].join '&&'
-    , $.execOpts
-    .pipe exec.reporter $.execRepotOpts
+  task.extract_raw_presets_from_adg ["#{$.Ableton.racks}/#{$.dir}/**/*.adg"], "src/#{$.dir}/presets"
 
 # generate metadata from Analog Lab's sqlite database
 gulp.task "#{$.prefix}-generate-meta", ->
