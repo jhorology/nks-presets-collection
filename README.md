@@ -34,7 +34,7 @@ NKS(Native Kontrol Standard) presets collection
  2. Contributed from Kymeia@NI Forum.
  3. Temporary build. Parameter mapping is not optimized yet.
  4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap)
- 5. custom build options are available, see $.LuSH101.buildOpts in gulpfile.coffee.
+ 5. Custom build options are available, see $.buildOpts in tasks/lush101.coffee.
  
 ## Build Instructions
 
@@ -64,7 +64,7 @@ npm install
 ```
 
 ### Configuration
-Modify configuration section of `gulpfile.coffee` to suit your environment.
+Modify configuration file `config.coffee` and configuration section of each plugin's task file 'tasks/*.coffee' to suit your environment.
 
 ### Workflows
 
@@ -91,7 +91,7 @@ In case of Serum.
 
   1. Edit each `.meta` files in `src/Serum/presets` folder. It's a nightmare.
 
-  1. Another option is modifying `serum-generate-meta` task of `gulpfile.coffee`.
+  1. Another option is modifying `serum-generate-meta` task of `tasks/serum.coffee`.
     - Sorry again, I can't say nothing about meta format, because officially not opened. Following command may help you.
     ```shellscript
     gulp serum-print-default-meta

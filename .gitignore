@@ -12,6 +12,7 @@ node_modules/
 /src/Alchemy/mappings/*
 !/src/Alchemy/mappings/default.json.tpl
 !/src/Alchemy/mappings/Factory/
+/tasks/discoverypro.coffee
 /src/DiscoveryPro/
 /src/theRiser/presets/Expansions/
 /src/Hybrid/presets/Expansions/
