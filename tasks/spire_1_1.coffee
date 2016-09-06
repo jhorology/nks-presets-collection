@@ -24,6 +24,8 @@ $ = Object.assign {}, (require '../config.coffee'),
   dir: 'Spire-1.1'
   vendor: 'Reveal Sound'
   magic: "Spr2"
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/Spire-1.1/templates/Spire-1.1.adg.tpl'
 
 # preparing tasks
 # --------------------------------
@@ -196,3 +198,12 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

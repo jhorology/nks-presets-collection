@@ -269,7 +269,7 @@ gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
 # --------------------------------
 
 # export from .nksf to .adg ableton rack
-gulp.task "#{$.prefix}-export-adg", ->
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
   , $.abletonRackTemplate

@@ -13,7 +13,7 @@ _           = require 'underscore'
 builder     = require './riff-builder.coffee'
 msgpack     = require 'msgpack-lite'
 beautify    = require 'js-beautify'
-riff        = require 'riff-reader'
+riffReader  = require 'riff-reader'
 
 util        = require './util.coffee'
 $           = require '../config.coffee'
@@ -210,7 +210,7 @@ module.exports =
       .pipe tap (file) ->
         if _.isFunction cb1
           metadata = undefined
-          (riff file.contents, 'NIKS').readSync (id, data) ->
+          (riffReader file.contents, 'NIKS').readSync (id, data) ->
             metadata = msgpack.decode data.slice 4
           , ['NISI']
           cb1 file, metadata
@@ -218,7 +218,7 @@ module.exports =
         templateSource =
           params: []
           bufferLines: []
-        (riff file.contents, 'NIKS').readSync (id, data) ->
+        (riffReader file.contents, 'NIKS').readSync (id, data) ->
           switch id
             when 'NICA'
               params = []

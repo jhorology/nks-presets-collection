@@ -31,6 +31,8 @@ $ = Object.assign {}, (require '../config.coffee'),
   presets: '/Library/Application Support/Camel Audio/Alchemy/Presets'
   db: '/Library/Application Support/Camel Audio/Alchemy/Alchemy_Preset_Ratings_And_Tags'
   mappingTemplateFile: "src/Alchemy/mappings/default.json.tpl"
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/Alchemy/templates/Alchemy.adg.tpl'
   query_items: '''
 select
   t0.ITEM_NAME as name
@@ -223,3 +225,12 @@ gulp.task "#{$.prefix}-delete-thirdparty-presets",  ["#{$.prefix}-dist"], (cb) -
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-delete-thirdparty-presets"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

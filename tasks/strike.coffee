@@ -27,6 +27,8 @@ $ = Object.assign {}, (require '../config.coffee'),
   
   #  local settings
   # -------------------------
+  abletonInstrumentRackTemplate: 'src/Strike/templates/Strike-Instrument.adg.tpl'
+  abletonDrumRackTemplate: 'src/Strike/templates/Strike-Drum.adg.tpl'
 
 
 # preparing tasks
@@ -162,3 +164,24 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton instrument and drum rack
+gulp.task "#{$.prefix}-export-adg", [
+  "#{$.prefix}-export-instrument-adg"
+  "#{$.prefix}-export-drum-adg"
+]
+
+# export from .nksf to .adg ableton instrument rack
+gulp.task "#{$.prefix}-export-instrument-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonInstrumentRackTemplate
+
+# export from .nksf to .adg ableton drum rack
+gulp.task "#{$.prefix}-export-drum-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.drumRacks}/#{$.dir}"
+  , $.abletonDrumRackTemplate
