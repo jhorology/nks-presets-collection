@@ -23,6 +23,7 @@
     "gulp-data": "^1.2.1",
     "gulp-exec": "^2.1.2",
     "gulp-group-aggregate": "^0.1.1",
+    "gulp-gzip": "^1.4.0",
     "gulp-if": "^2.0.1",
     "gulp-nks-rewrite-meta": "0.1.0",
     "gulp-rename": "^1.2.2",

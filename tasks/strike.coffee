@@ -87,7 +87,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # generate per preset mappings
 gulp.task "#{$.prefix}-generate-mappings", ->
   # read default mapping template
-  template = _.template _readFile "src/#{$.dir}/mappings/default.json.tpl"
+  template = _.template util.readFile "src/#{$.dir}/mappings/default.json.tpl"
   presets = "src/#{$.dir}/presets"
   gulp.src ["#{presets}/**/*.pchk"], read: on
     .pipe dtap (file) ->

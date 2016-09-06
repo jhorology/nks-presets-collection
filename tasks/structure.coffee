@@ -81,7 +81,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       basename = path.basename file.path, '.pchk'
       folder = path.relative presets, path.dirname file.path
       patchFile = path.join $.libs, folder, "#{basename}.patch"
-      patch = new xmldom().parseFromString _readFile patchFile
+      patch = new xmldom().parseFromString util.readFile patchFile
       metaxml = (xpath.select "/H3Patch/MetaData/text()", patch).toString().replace /&lt;/mg, '<'
       meta = new xmldom().parseFromString metaxml
       file.contents = new Buffer util.beautify

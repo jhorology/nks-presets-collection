@@ -84,7 +84,8 @@ gulp.task "#{$.prefix}-check-presets-pchk", ->
         
 # extract PCHK chunk from ableton .adg files.
 gulp.task "#{$.prefix}-extract-extra-raw-presets", ->
-  task.extract_raw_presets_from_adg ["#{$.Ableton.racks}/#{$.dir}/TREASURE TROVE/**/*.adg"], "src/#{$.dir}/presets/TREASURE TROVE/"
+  task.extract_raw_presets_from_adg ["#{$.Ableton.racks}/#{$.dir}/TREASURE TROVE/**/*.adg"]
+  , "src/#{$.dir}/presets/TREASURE TROVE/"
 
 # suggest mapping
 gulp.task "#{$.prefix}-suggest-mapping", ->

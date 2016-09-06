@@ -5,11 +5,15 @@ gulp        = require 'gulp'
 changed     = require 'gulp-changed'
 extract     = require 'gulp-riff-extractor'
 tap         = require 'gulp-tap'
+zip         = require 'gulp-zip'
+gzip        = require 'gulp-gzip'
+rename      = require 'gulp-rename'
 uuid        = require 'uuid'
 _           = require 'underscore'
 builder     = require './riff-builder.coffee'
 msgpack     = require 'msgpack-lite'
 beautify    = require 'js-beautify'
+riff        = require 'riff-reader'
 
 util        = require './util.coffee'
 $           = require '../config.coffee'
@@ -191,6 +195,61 @@ module.exports =
     gulp.src ["dist/#{dir}/**/*.{json,meta,png,nksf}"]
       .pipe zip "#{dir}.zip"
       .pipe gulp.dest $.release
+      
+  #
+  # export from nksf to adg(ableton rack)
+  #  @srcs      String or Array of String - .nksf glob pattern
+  #  @dst       String - destination
+  #  @template  String - template file path
+  #  @cb1       function(file, metadata) optional - do something with .nksf file and metadata
+  #  @cb2       function(file) optional - do something with uncompressed .adg file
+  # --------------------------------
+  export_adg: (srcs, dst, template, cb1, cb2)  ->
+    template = _.template util.readFile template
+    gulp.src srcs, read: on
+      .pipe tap (file) ->
+        if _.isFunction cb1
+          metadata = undefined
+          (riff file.contents, 'NIKS').readSync (id, data) ->
+            metadata = msgpack.decode data.slice 4
+          , ['NISI']
+          cb1 file, metadata
+      .pipe tap (file) ->
+        templateSource =
+          params: []
+          bufferLines: []
+        (riff file.contents, 'NIKS').readSync (id, data) ->
+          switch id
+            when 'NICA'
+              params = []
+              ni8 = (msgpack.decode data.slice 4).ni8
+              for page, pageIndex in ni8
+                for param, paramIndex in page
+                  if param.id
+                    templateSource.params.push
+                      id: param.id
+                      visualIndex: pageIndex * 8 + paramIndex
+                    break if templateSource.params.length >= 128
+                break if templateSource.params.length >= 128
+            when 'PCHK'
+              lines = []
+              offset = 4
+              size = data.length
+              while offset < size
+                end = offset + 40
+                end = size if end > size
+                templateSource.bufferLines.push data.toString 'hex', offset, end
+                offset += 40
+        , ['NICA', 'PCHK']
+        #
+        file.contents = new Buffer template templateSource
+      .pipe tap (file) ->
+        cb2(file) if _.isFunction cb2
+      .pipe gzip
+        append: off       # append '.gz' extension
+      .pipe rename
+        extname: '.adg'
+      .pipe gulp.dest dst
 
 #
 # routines

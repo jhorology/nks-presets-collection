@@ -31,7 +31,9 @@ $ = Object.assign {}, (require '../config.coffee'),
   presets: "#{process.env.HOME}/Library/Application Support/D16 Group/LuSH-101"
   pluginStateChunkId: 'VC2!'
   # contributed from @tomduncalf
-  mappingFile: "src/LuSH-101/mappings/LuSH-101.shhpmap"
+  mappingFile: 'src/LuSH-101/mappings/LuSH-101.shhpmap'
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/LuSH-101/templates/LuSH-101.adg.tpl'
   buildOpts:
     Editor:
       Skin: 'Big'                        # 'Small' or 'Big'
@@ -262,3 +264,12 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

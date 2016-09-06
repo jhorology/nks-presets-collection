@@ -4,6 +4,9 @@ del        = require 'del'
 requireDir = require 'require-dir'
 dir        = requireDir './tasks'
 
+
+allTasks = Object.keys gulp.tasks
+
 # coffeelint
 # --------------------------------
 gulp.task 'coffeelint', ->
@@ -34,14 +37,16 @@ gulp.task 'clean-all', ['clean'], ->
 # dist
 #  - execute all *-dist tasks
 # --------------------------------
-gulp.task 'dist', ("#{prefix}-dist" for prefix of dir)
+gulp.task 'dist', (("#{prefix}-dist" for prefix of dir).filter (task) -> task in allTasks)
 
 # deploy
 #  - execute all *-deploy tasks
 # --------------------------------
-gulp.task 'deploy', ("#{prefix}-deploy" for prefix of dir)
+gulp.task 'deploy', (("#{prefix}-deploy" for prefix of dir).filter (task) -> task in allTasks)
 
 # deploy
 #  - execute all *-release tasks
 # --------------------------------
-gulp.task 'release', ("#{prefix}-deploy" for prefix of dir)
+gulp.task 'release', (("#{prefix}-release" for prefix of dir).filter (task) -> task in allTasks)
+
+
