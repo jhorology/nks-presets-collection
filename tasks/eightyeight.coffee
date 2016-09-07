@@ -11,12 +11,12 @@ data     = require 'gulp-data'
 rename   = require 'gulp-rename'
 sqlite3  = require 'sqlite3'
 
-util     = require '../lib/util.coffee'
+util     = require '../lib/util'
 task     = require '../lib/common-tasks'
 
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings
@@ -49,6 +49,8 @@ from
 where
   patch.name = $PatchName
 '''
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/EightyEight 2_64/templates/EightyEight 2_64.adg.tpl'
 
 # preparing tasks
 # --------------------------------
@@ -164,3 +166,14 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  # TODO ableton won't restore plugin state
+  # 
+  # task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  # , "#{$.Ableton.racks}/#{$.dir}"
+  # , $.abletonRackTemplate

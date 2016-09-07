@@ -15,7 +15,7 @@ task     = require '../lib/common-tasks'
 #
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings

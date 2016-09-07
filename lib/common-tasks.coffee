@@ -15,8 +15,8 @@ msgpack     = require 'msgpack-lite'
 beautify    = require 'js-beautify'
 riffReader  = require 'riff-reader'
 
-util        = require './util.coffee'
-$           = require '../config.coffee'
+util        = require './util'
+$           = require '../config'
 
 module.exports =
 

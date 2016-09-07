@@ -73,7 +73,7 @@
 				<LockedScripts />
 				<IsFolded Value="false" />
 				<ShouldShowPresetName Value="true" />
-				<UserName Value="Cyclop" />
+				<UserName Value="Loom" />
 				<Annotation Value="" />
 				<SourceContext>
 					<Value />
@@ -411,15 +411,15 @@
 						<IsOnLomId Value="0" />
 						<ParametersListWrapperLomId Value="0" />
 						<Type Value="1178747752" />
-						<ProgramCount Value="638" />
-						<ParameterCount Value="149" />
+						<ProgramCount Value="1" />
+						<ParameterCount Value="247" />
 						<ProgramNumber Value="0" />
 						<Buffer><% _.forEach(bufferLines, function(line) { %>
 							<%=line%><% }); %>
 						</Buffer>
 						<Name Value="" />
 						<PluginVersion Value="1" />
-						<UniqueId Value="1935827833" />
+						<UniqueId Value="1836019532" />
 						<ByteOrder Value="2" />
 						<PresetRef />
 					</VstPreset>
@@ -567,14 +567,14 @@
 					<CrossfadeMax Value="0" />
 				</BranchSelectorRange>
 				<SessionViewBranchWidth Value="55" />
-				<ColorIndex Value="147" />
+				<ColorIndex Value="165" />
 				<AutoColored Value="true" />
 				<SourceContext>
 					<BranchSourceContext>
 						<OriginalFileRef />
 						<BrowserContentPath Value="" />
 						<PresetRef />
-						<BranchDeviceId Value="device:vst:instr:1935827833?n=Cyclop" />
+						<BranchDeviceId Value="device:vst:instr:1836019532?n=Loom" />
 					</BranchSourceContext>
 				</SourceContext>
 				<ZoneSettings>

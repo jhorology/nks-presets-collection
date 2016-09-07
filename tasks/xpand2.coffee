@@ -11,12 +11,12 @@ tap      = require 'gulp-tap'
 data     = require 'gulp-data'
 rename   = require 'gulp-rename'
 
-util     = require '../lib/util.coffee'
+util     = require '../lib/util'
 task     = require '../lib/common-tasks'
 
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings
@@ -27,6 +27,9 @@ $ = Object.assign {}, (require '../config.coffee'),
 
   #  local settings
   # -------------------------
+
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/Xpand!2/templates/Xpand!2.adg.tpl'
 
 # preparing tasks
 # --------------------------------
@@ -134,3 +137,12 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

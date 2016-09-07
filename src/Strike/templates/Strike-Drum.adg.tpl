@@ -585,8 +585,8 @@
 					</AbletonDevicePreset>
 					<VstPreset>
 						<OverwriteProtectionNumber Value="2305" />
-						<ParameterSettings>
-<% _.forEach(params, function(param, index) { %>							<PluginParameterSettings>
+						<ParameterSettings><% _.forEach(params, function(param, index) { %>
+							<PluginParameterSettings>
 								<Index Value="<%=index%>" />
 								<VisualIndex Value="<%=param.visualIndex%>" />
 								<Id Value="<%=param.id%>" />
@@ -594,8 +594,8 @@
 								<MacroControlIndex Value="-1" />
 								<MidiControllerRange />
 								<LomId Value="0" />
-							</PluginParameterSettings>
-<% }); %>						</ParameterSettings>
+							</PluginParameterSettings><% }); %>
+						</ParameterSettings>
 						<IsOn Value="true" />
 						<PowerMacroControlIndex Value="-1" />
 						<PowerMacroMappingRange>
@@ -612,9 +612,9 @@
 						<ProgramCount Value="1" />
 						<ParameterCount Value="717" />
 						<ProgramNumber Value="0" />
-						<Buffer>
-<% _.forEach(bufferLines, function(line) { %>							<%=line%>
-<% }); %>						</Buffer>
+						<Buffer><% _.forEach(bufferLines, function(line) { %>
+							<%=line%><% }); %>
+						</Buffer>
 						<Name Value="" />
 						<PluginVersion Value="1" />
 						<UniqueId Value="1802662995" />

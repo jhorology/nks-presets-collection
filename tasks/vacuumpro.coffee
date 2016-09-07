@@ -18,12 +18,12 @@ rename   = require 'gulp-rename'
 _        = require 'underscore'
 del        = require 'del'
 
-util     = require '../lib/util.coffee'
+util     = require '../lib/util'
 task     = require '../lib/common-tasks'
 
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings
@@ -34,6 +34,9 @@ $ = Object.assign {}, (require '../config.coffee'),
 
   #  local settings
   # -------------------------
+
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/VacuumPro/templates/VacuumPro.adg.tpl'
 
 # preparing tasks
 # --------------------------------
@@ -250,3 +253,12 @@ gulp.task "#{$.prefix}-delete-expansions",  ["#{$.prefix}-dist"], (cb) ->
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-delete-expansions"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

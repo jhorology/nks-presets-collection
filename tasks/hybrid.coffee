@@ -14,12 +14,12 @@ hiveParser = require 'u-he-hive-meta-parser'
 _          = require 'underscore'
 del        = require 'del'
 
-util       = require '../lib/util.coffee'
+util       = require '../lib/util'
 task       = require '../lib/common-tasks'
 
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings

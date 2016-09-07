@@ -11,12 +11,12 @@ extract  = require 'gulp-riff-extractor'
 data     = require 'gulp-data'
 rename   = require 'gulp-rename'
 
-util     = require '../lib/util.coffee'
+util     = require '../lib/util'
 task     = require '../lib/common-tasks'
 
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings

@@ -4,7 +4,7 @@ _        = require 'underscore'
 beautify = require 'js-beautify'
 xmldom   = (require 'xmldom').DOMParser
 
-$        = require '../config.coffee'
+$        = require '../config'
 
 module.exports =
   # generate or reuse uuid

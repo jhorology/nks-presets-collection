@@ -15,7 +15,7 @@ task     = require '../lib/common-tasks'
 #
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config.coffee'),
+$ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   
   #  common settings
@@ -51,6 +51,8 @@ gulp.task "#{$.prefix}-print-magic", ->
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ->
-  task.export_adg "#{$.nksPresets}/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonRackTemplate
+  # TODO ableton won't restore plugin state
+  # 
+  # task.export_adg "#{$.nksPresets}/**/*.nksf"
+  # , "#{$.Ableton.racks}/#{$.dir}"
+  # , $.abletonRackTemplate
