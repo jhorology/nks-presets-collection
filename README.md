@@ -37,7 +37,7 @@ NKS(Native Kontrol Standard) presets collection
  3. Temporary build. Parameter mapping is not optimized yet.
  4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap)
  5. Custom build options are available, see $.buildOpts in tasks/lush101.coffee.
- 6. Experimental feauture.
+ 6. Exporting feauture is currentry experimental.
  
 ## Build Instructions
 
