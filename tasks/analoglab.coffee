@@ -32,6 +32,8 @@ $ = Object.assign {}, (require '../config'),
   db: '/Library/Arturia/Analog\ Lab/Labo2.db'
   soundMappingTemplateFile: 'src/Analog Lab/mappings/default-sound.json.tpl'
   multiMappingTemplateFile: 'src/Analog Lab/mappings/default-multi.json.tpl'
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/Analog Lab/templates/Analog Lab.adg.tpl'
   # SQL query for sound metadata
   query_sounds: '''
 select
@@ -395,3 +397,12 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

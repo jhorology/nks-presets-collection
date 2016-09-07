@@ -245,8 +245,6 @@ gulp.task "#{$.prefix}-release", ["#{$.prefix}-delete-expansions"], ->
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  # TODO ableton won't restore plugin state
-  # 
-  # task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  # , "#{$.Ableton.racks}/#{$.dir}"
-  # , $.abletonRackTemplate
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate

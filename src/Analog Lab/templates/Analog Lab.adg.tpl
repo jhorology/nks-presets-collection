@@ -73,7 +73,7 @@
 				<LockedScripts />
 				<IsFolded Value="false" />
 				<ShouldShowPresetName Value="true" />
-				<UserName Value="theRiser" />
+				<UserName Value="Analog Lab" />
 				<Annotation Value="" />
 				<SourceContext>
 					<Value />
@@ -411,15 +411,15 @@
 						<IsOnLomId Value="0" />
 						<ParametersListWrapperLomId Value="0" />
 						<Type Value="1178747752" />
-						<ProgramCount Value="1" />
-						<ParameterCount Value="130" />
+						<ProgramCount Value="129" />
+						<ParameterCount Value="2141" />
 						<ProgramNumber Value="0" />
 						<Buffer><% _.forEach(bufferLines, function(line) { %>
 							<%=line%><% }); %>
 						</Buffer>
 						<Name Value="" />
 						<PluginVersion Value="1" />
-						<UniqueId Value="1920160372" />
+						<UniqueId Value="1095524706" />
 						<ByteOrder Value="2" />
 						<PresetRef />
 					</VstPreset>
@@ -567,14 +567,14 @@
 					<CrossfadeMax Value="0" />
 				</BranchSelectorRange>
 				<SessionViewBranchWidth Value="55" />
-				<ColorIndex Value="165" />
+				<ColorIndex Value="158" />
 				<AutoColored Value="true" />
 				<SourceContext>
 					<BranchSourceContext>
 						<OriginalFileRef />
 						<BrowserContentPath Value="" />
 						<PresetRef />
-						<BranchDeviceId Value="device:vst:instr:1920160372?n=theRiser" />
+						<BranchDeviceId Value="device:vst:instr:1095524706?n=Analog%20Lab" />
 					</BranchSourceContext>
 				</SourceContext>
 				<ZoneSettings>

@@ -8,8 +8,8 @@ NKS(Native Kontrol Standard) presets collection
 |          |raw presets|mappings|meta|resources|.adg 6|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:----:|:-----:|:---------:|
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|Nov 21, 2015|
-|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Nov 9, 2015|
-|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/wi5jo8x4lyyegyt/Analog%20Lab%202.zip?dl=0)3|Aug 11, 2016|
+|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Nov 9, 2015|
+|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wi5jo8x4lyyegyt/Analog%20Lab%202.zip?dl=0)3|Aug 11, 2016|
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:||:heavy_check_mark:|||||
 |[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - || - | - |
 |[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/g3j4711fi5342q2/DB-33.zip?dl=0)|Aug 29, 2016|
@@ -25,7 +25,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/eq371tcj8rdjhhb/Spire-1.1.zip?dl=0)|Aug 12, 2016|
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/zx73q4b5mgyw3c0/Strike.zip?dl=0)|Aug 30, 2016|
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|Aug 29, 2016|
-|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|Aug 29, 2016|
+|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|Aug 29, 2016|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:||:heavy_check_mark:|||||
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||:heavy_check_mark:|||||
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/k9itodzfl6kn0ij/VacuumPro.zip?dl=0)|Aug 29, 2016|
@@ -37,7 +37,7 @@ NKS(Native Kontrol Standard) presets collection
  3. Temporary build. Parameter mapping is not optimized yet.
  4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap)
  5. Custom build options are available, see $.buildOpts in tasks/lush101.coffee.
- 6. Exporting feauture is currentry experimental.
+ 6. Exporting feauture is currently experimental.
  
 ## Build Instructions
 

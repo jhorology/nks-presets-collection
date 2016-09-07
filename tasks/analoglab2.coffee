@@ -31,6 +31,8 @@ $ = Object.assign {}, (require '../config'),
   # -------------------------
   presets: '/Library/Arturia/Presets'
   db: '/Library/Arturia/Presets/db.db3'
+  # Ableton Live 9.6.2
+  abletonRackTemplate: 'src/Analog Lab 2/templates/Analog Lab 2.adg.tpl'
   query_preset: '''
 select
   t0.name as name,
@@ -192,3 +194,12 @@ gulp.task "#{$.prefix}-deploy-presets", [
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
   task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate
