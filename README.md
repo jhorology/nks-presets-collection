@@ -18,6 +18,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:|||||
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|Aug 29, 2016|
 |[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[Big](https://www.dropbox.com/s/w01b7fk27ndfex0/LuSH-101%20%28Big%29.zip?dl=0)/[Small](https://www.dropbox.com/s/j4dl98qwzssl7gs/LuSH-101%20%28Small%29.zip?dl=0) 5|Sep 02, 2016|
+|[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:| - | - |
 |[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/z1pk7gdwwvambav/MiniGrand.zip?dl=0)|Aug 29, 2016|
 |[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:| - | - |
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|Nov 4, 2015|
