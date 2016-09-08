@@ -4,10 +4,10 @@
   "types": [
     ["Pluck"]
   ],
-  "modes": [],
+  "modes": ["Hard FM"],
   "name": "PL FM-Box HFM",
   "deviceType": "INST",
   "comment": "",
   "bankchain": ["Spire-1 1", "Factory Bank 6", ""],
-  "author": "HFM"
+  "author": "Reveal Sound"
 }

@@ -105,7 +105,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       author = switch
         when bank is 'Factory Bank 1'   then 'Reveal Sound'
         when bank is 'Factory Bank 5'   then folder[1]
-        when bank is 'Factory Bank 6' and basename[-4..] is ' HFM' then 'HFM'  # couldn't find author name
+        # when bank is 'Factory Bank 6' and basename[-4..] is ' HFM' then 'HFM'  # couldn't find author name
         when bank is 'Factory Bank 6'   then 'Reveal Sound'
         when bank is 'Factory Bank 7'   then folder[1]
         when bank.match /^EDM Remastered/  then 'Derrek'
@@ -126,12 +126,16 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when basename[-6..] is ' AL&RS' then 'Alex Larichev & Rusty Spica'
         when basename[-3..] is ' eX'    then 'E.SoX'
         else ''
+
+      # HFM is 'Hard FM', not authore name :)
+      mode = 'Hard FM' if bank is 'Factory Bank 6' and basename[-4..] is ' HFM'
+
       # meta
       file.contents = new Buffer util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[type]]
-        modes: []
+        modes: if mode then [mode] else []
         name: basename
         deviceType: 'INST'
         comment: ''

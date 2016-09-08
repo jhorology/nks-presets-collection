@@ -4,10 +4,10 @@
   "types": [
     ["Synth"]
   ],
-  "modes": [],
+  "modes": ["Hard FM"],
   "name": "SY Expansive HFM",
   "deviceType": "INST",
   "comment": "",
   "bankchain": ["Spire-1 1", "Factory Bank 6", ""],
-  "author": "HFM"
+  "author": "Reveal Sound"
 }
