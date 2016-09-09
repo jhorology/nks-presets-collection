@@ -30,6 +30,8 @@ $ = Object.assign {}, (require '../config'),
   #  local settings
   # -------------------------
   presets: '/Library/Arturia/Presets'
+  # Analog Lab 2 is NKS ready plugin!
+  nksPresets: '/Library/Arturia/Analog Lab 2/Third Party/Native Instruments/presets'
   db: '/Library/Arturia/Presets/db.db3'
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Analog Lab 2/templates/Analog Lab 2.adg.tpl'
@@ -171,7 +173,8 @@ gulp.task "#{$.prefix}-check-dist-presets", ->
 # --------------------------------
 gulp.task "#{$.prefix}-deploy", [
   "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
+  # "#{$.prefix}-deploy-presets"
+  "#{$.prefix}-deploy-nks-presets"
 ]
 
 # copy resources to local environment
@@ -181,11 +184,18 @@ gulp.task "#{$.prefix}-deploy-resources", [
 ], ->
   task.deploy_resources $.dir
 
-# copy database resources to local environment
+# copy presets to local environment
 gulp.task "#{$.prefix}-deploy-presets", [
   "#{$.prefix}-dist-presets"
 ] , ->
   task.deploy_presets $.dir
+
+# copy presets to nks presets folder
+gulp.task "#{$.prefix}-deploy-nks-presets", [
+  "#{$.prefix}-dist-presets"
+] , ->
+  gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
+    .pipe gulp.dest $.nksPresets
 
 #
 # release

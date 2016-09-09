@@ -4,6 +4,8 @@
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - Spire    1.1.0
 #  - Spire    1.1.8 Bank 6, Bank 7
+#  - Komplete Kontrol 1.6.2.5
+#  - Spire    1.1.9 Bank 6
 # ---------------------------------------------------------------
 path     = require 'path'
 gulp     = require 'gulp'
@@ -127,7 +129,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when basename[-3..] is ' eX'    then 'E.SoX'
         else ''
 
-      # HFM is 'Hard FM', not authore name :)
+      # HFM is 'Hard FM', not author name :)
       mode = 'Hard FM' if bank is 'Factory Bank 6' and basename[-4..] is ' HFM'
 
       # meta

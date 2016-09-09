@@ -33,7 +33,8 @@ $ = Object.assign {}, (require '../config'),
   # contributed from @tomduncalf
   mappingFile: 'src/LuSH-101/mappings/LuSH-101.shhpmap'
   # Ableton Live 9.6.2
-  abletonRackTemplate: 'src/LuSH-101/templates/LuSH-101.adg.tpl'
+  abletonInstrumentRackTemplate: 'src/LuSH-101/templates/LuSH-101-Instrument.adg.tpl'
+  abletonDrumRackTemplate: 'src/LuSH-101/templates/LuSH-101-Drum.adg.tpl'
   buildOpts:
     Editor:
       Skin: 'Big'                        # 'Small' or 'Big'
@@ -268,8 +269,21 @@ gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
 # export
 # --------------------------------
 
-# export from .nksf to .adg ableton rack
-gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+
+# export from .nksf to .adg ableton instrument and drum rack
+gulp.task "#{$.prefix}-export-adg", [
+  "#{$.prefix}-export-instrument-adg"
+  "#{$.prefix}-export-drum-adg"
+]
+
+# export from .nksf to .adg ableton instrument rack
+gulp.task "#{$.prefix}-export-instrument-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonRackTemplate
+  , $.abletonInstrumentRackTemplate
+
+# export from .nksf to .adg ableton drum rack
+gulp.task "#{$.prefix}-export-drum-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/Presets/Multiple Zone/Drum Kit/**/*.nksf"
+  , "#{$.Ableton.drumRacks}/#{$.dir}"
+  , $.abletonDrumRackTemplate

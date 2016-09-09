@@ -1,10 +1,5 @@
-# ---------------------------------------------------------------
-# D16 LuSH-101
+# Arturia Mini V2
 #
-# notes
-#  - Komplete Kontrol 1.6.2.5
-#  - Cyclop 1.2.0
-#  - Ableton Live 9.6.2
 # ---------------------------------------------------------------
 path     = require 'path'
 gulp     = require 'gulp'
