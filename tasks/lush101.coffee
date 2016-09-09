@@ -31,13 +31,15 @@ $ = Object.assign {}, (require '../config'),
   presets: "#{process.env.HOME}/Library/Application Support/D16 Group/LuSH-101"
   pluginStateChunkId: 'VC2!'
   # contributed from @tomduncalf
-  mappingFile: 'src/LuSH-101/mappings/LuSH-101.shhpmap'
+  oneLayerMappingFile: 'src/LuSH-101/mappings/LuSH-101 1 Layers.shhpmap'
+  twoLayersMappingFile: 'src/LuSH-101/mappings/LuSH-101 2 Layers.shhpmap'
+  eightLayersMappingFile: 'src/LuSH-101/mappings/LuSH-101 8 Layers.shhpmap'
   # Ableton Live 9.6.2
   abletonInstrumentRackTemplate: 'src/LuSH-101/templates/LuSH-101-Instrument.adg.tpl'
   abletonDrumRackTemplate: 'src/LuSH-101/templates/LuSH-101-Drum.adg.tpl'
   buildOpts:
     Editor:
-      Skin: 'Big'                        # 'Small' or 'Big'
+      Skin: 'Small'                      # 'Small' or 'Big'
       Keyboard: 'no'                     # keyboard visible 'yes' or 'no'
     OtherParameters:
       # 'FX 1 Audio Output Number': '1'
@@ -130,10 +132,47 @@ gulp.task "#{$.prefix}-generate-meta", ->
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"
 
-# generate mapping from LuSH-101.shhpmap (contributed from @tomduncalf)
-gulp.task "#{$.prefix}-suggest-mapping", ->
-  gulp.src [$.mappingFile], read: true
+# generate one layer mapping from .shhpmap (found at http://www.nektartech.com/LuSH-101)
+gulp.task "#{$.prefix}-suggest-one-layers-mapping", ->
+  gulp.src $.oneLayerMappingFile, read: true
     .pipe tap (file) ->
+      shhpmap = util.xmlString file.contents.toString()
+      assigns = xpath.select "/HostParametersMap/assign", shhpmap
+      pages = []
+      page = []
+      prevSection = undefined
+      for assign in assigns
+        words = (assign.getAttribute 'pluginParam').split ' '
+        section = words[2]
+        page.push
+          autoname: false
+          # shhpmap = 1 based, NKS = 0 based
+          id: (parseInt assign.getAttribute 'hostParam') - 1
+          name: words[3..].join ' '
+          section: section if page.length is 0 or section isnt prevSection
+          vflag: false
+        if page.length is 8
+          pages.push page
+          page = []
+        prevSection = section
+
+      if page.length isnt 0
+        while page.length < 8
+          page.push autoname: false, vflag: false
+        pages.push page
+        
+      file.contents = new Buffer util.beautify {ni8: pages}, on
+    .pipe rename
+      suffix: '-generated'
+      extname: '.json'
+    .pipe gulp.dest "src/#{$.dir}/mappings"
+
+   
+# generate mapping from LuSH-101.shhpmap (contributed from @tomduncalf)
+gulp.task "#{$.prefix}-suggest-two-layers-mapping", ->
+  gulp.src $.twoLayersMappingFile, read: true
+    .pipe tap (file) ->
+      numLayers = parseInt (file.path.match /(\d) Layers.shhpmap/)[1]
       shhpmap = util.xmlString file.contents.toString()
       assigns = xpath.select "/HostParametersMap/assign", shhpmap
       pages = []
@@ -169,7 +208,42 @@ gulp.task "#{$.prefix}-suggest-mapping", ->
         
       file.contents = new Buffer util.beautify {ni8: pages}, on
     .pipe rename
-      basename: 'default-suggest'
+      suffix: '-generated'
+      extname: '.json'
+    .pipe gulp.dest "src/#{$.dir}/mappings"
+
+# generate one layer mapping from .shhpmap (found at http://www.nektartech.com/LuSH-101)
+gulp.task "#{$.prefix}-suggest-eight-layers-mapping", ->
+  gulp.src $.eightLayersMappingFile, read: true
+    .pipe tap (file) ->
+      shhpmap = util.xmlString file.contents.toString()
+      assigns = xpath.select "/HostParametersMap/assign", shhpmap
+      pages = []
+      page = []
+      prevSection = undefined
+      for assign in assigns
+        words = (assign.getAttribute 'pluginParam').split ' '
+        section = words[2..].join ' '
+        page.push
+          autoname: false
+          # shhpmap = 1 based, NKS = 0 based
+          id: (parseInt assign.getAttribute 'hostParam') - 1
+          name: words[0..1].join ' '
+          section: section if page.length is 0 or section isnt prevSection
+          vflag: false
+        if page.length is 8
+          pages.push page
+          page = []
+        prevSection = section
+
+      if page.length isnt 0
+        while page.length < 8
+          page.push autoname: false, vflag: false
+        pages.push page
+        
+      file.contents = new Buffer util.beautify {ni8: pages}, on
+    .pipe rename
+      suffix: '-generated'
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"
 
@@ -194,8 +268,8 @@ gulp.task "#{$.prefix}-dist-database", ->
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
   # read LuSH-101 mapping file
-  shhpmap = util.xmlFile $.mappingFile
-  assigns = xpath.select "/HostParametersMap/assign", shhpmap
+  twoLayersAssigns = xpath.select "/HostParametersMap/assign", util.xmlFile $.twoLayersMappingFile
+  eightLayersAssigns = xpath.select "/HostParametersMap/assign", util.xmlFile $.eightLayersMappingFile
   task.dist_presets $.dir, $.magic, (file) ->
     # edit PCHK chunk content
     # - apply build option
@@ -203,7 +277,17 @@ gulp.task "#{$.prefix}-dist-presets", ->
     id = file.contents.toString 'ascii', 4, 8
     size = file.contents.readUInt32LE 8
     pluginState = util.xmlString file.contents.toString 'utf8', 12, (12 + size)
-    
+
+    # is is timbre preset?
+    if file.relative.match /^Timbre/
+      # use 2 layers map
+      assigns = twoLayersAssigns
+      mapping = "src/#{$.dir}/mappings/2-layers-default.json"
+    else
+      # use 8 layers map
+      assigns = eightLayersAssigns
+      mapping = "src/#{$.dir}/mappings/8-layers-default.json"
+      
     # build options
     if $.buildOpts.Editor.Skin
       (xpath.select '/PluginState/Editor/Skin[1]', pluginState)[0]
@@ -231,10 +315,9 @@ gulp.task "#{$.prefix}-dist-presets", ->
       pluginState                # xml
       new Buffer [0]             # null terminate ?
     ]
+    # MICA chunk - 2-layers-default.json or 8-layers-default.json
+    mapping
     
-    # return undefined for use default.json
-    undefined
-
 # check
 gulp.task "#{$.prefix}-check-dist-presets", ->
   task.check_dist_presets $.dir

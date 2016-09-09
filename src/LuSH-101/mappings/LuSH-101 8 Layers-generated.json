@@ -1,0 +1,676 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Layer 1",
+      "section": "VCF Frequency",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 8,
+      "name": "Layer 1",
+      "section": "VCF Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 16,
+      "name": "Layer 1",
+      "section": "Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 24,
+      "name": "Layer 1",
+      "section": "Paning",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "Layer 1",
+      "section": "Enabled",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 40,
+      "name": "Layer 1",
+      "section": "VCO Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 43,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 48,
+      "name": "Layer 1",
+      "section": "VCO Sync Offset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 55,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 56,
+      "name": "Layer 1",
+      "section": "VCO Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 57,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 64,
+      "name": "Layer 1",
+      "section": "Mixer SQR Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 70,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 72,
+      "name": "Layer 1",
+      "section": "Mixer SAW Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 75,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 80,
+      "name": "Layer 1",
+      "section": "Mixer SUB Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 81,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 88,
+      "name": "Layer 1",
+      "section": "Mixer Noise Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 89,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 95,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 96,
+      "name": "Layer 1",
+      "section": "ENV1 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 97,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 99,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 103,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 104,
+      "name": "Layer 1",
+      "section": "ENV2 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 112,
+      "name": "Layer 1",
+      "section": "Arpe Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 119,
+      "name": "Layer 8",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 120,
+      "name": "Layer 1",
+      "section": "Arpe Rate Rhythmic Value",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "Layer 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 122,
+      "name": "Layer 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 123,
+      "name": "Layer 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "Layer 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 125,
+      "name": "Layer 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 126,
+      "name": "Layer 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 127,
+      "name": "Layer 8",
+      "vflag": false
+    }]
+  ]
+}

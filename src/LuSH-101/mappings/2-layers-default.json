@@ -1,0 +1,690 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Modulation",
+      "section": "L1 VCO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Modulation Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Frequency",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Tracking",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Range Filter Affect",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Sync Offset",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 8,
+      "name": "Sync Mix",
+      "section": "L1 VCO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Pulse Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Pulse Modulation",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Pulse Modulation Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "SQR Volume",
+      "section": "L1 Mixer",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "SAW Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "SUB Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "SUB Wave",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 16,
+      "name": "Noise Volume",
+      "section": "L1 Mixer",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Noise Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "SQR Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "SAW Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "SUB Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "NOISE Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Enable",
+      "section": "L1 Super Saw",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Detune",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 18,
+      "name": "Amount",
+      "section": "L1 Super Saw",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Frequency",
+      "section": "L1 HPF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Frequency",
+      "section": "L1 VCF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "ENV1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "ENV2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "LFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Keyboard",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 32,
+      "name": "Resonance",
+      "section": "L1 VCF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Resonance ENV2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Resonance LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Source",
+      "section": "L1 VCA",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Polarity",
+      "section": "L1 ENV1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Trigger Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Decay",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 40,
+      "name": "Sustain",
+      "section": "L1 ENV1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Polarity",
+      "section": "L1 ENV2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 43,
+      "name": "Trigger Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 48,
+      "name": "Rate",
+      "section": "L1 LFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "Note Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "Waveform",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "Reset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Mono",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "Keyboard Track",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 55,
+      "name": "Rate",
+      "section": "L1 LFO2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 56,
+      "name": "Note Rate",
+      "section": "L1 LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 57,
+      "name": "Waveform",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "Reset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "Mono",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "Keyboard Track",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Type",
+      "section": "L1 Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 63,
+      "name": "Modulation",
+      "section": "L2 VCO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 64,
+      "name": "Modulation Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "Frequency",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "Tracking",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Range Filter Affect",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Sync Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 70,
+      "name": "Sync Offset",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 71,
+      "name": "Sync Mix",
+      "section": "L2 VCO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 72,
+      "name": "Pulse Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "Pulse Modulation",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "Pulse Modulation Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 75,
+      "name": "SQR Volume",
+      "section": "L2 Mixer",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "SAW Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "SUB Volume",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "SUB Wave",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 79,
+      "name": "Noise Volume",
+      "section": "L2 Mixer",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "Noise Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "SQR Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "SAW Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "SUB Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "NOISE Env",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Enable",
+      "section": "L2 Super Saw",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 80,
+      "name": "Detune",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 81,
+      "name": "Amount",
+      "section": "L2 Super Saw",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Frequency",
+      "section": "L2 HPF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 89,
+      "name": "Frequency",
+      "section": "L2 VCF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "ENV1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "ENV2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "LFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "Keyboard",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 95,
+      "name": "Resonance",
+      "section": "L2 VCF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 96,
+      "name": "Resonance ENV2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 97,
+      "name": "Resonance LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "Source",
+      "section": "L2 VCA",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 99,
+      "name": "Polarity",
+      "section": "L2 ENV1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "Trigger Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Decay",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 103,
+      "name": "Sustain",
+      "section": "L2 ENV1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Polarity",
+      "section": "L2 ENV2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Trigger Source",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "Release",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 111,
+      "name": "Rate",
+      "section": "L2 LFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "Note Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "Waveform",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "Reset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "Mono",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "Keyboard Track",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "Rate",
+      "section": "L2 LFO2",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 119,
+      "name": "Note Rate",
+      "section": "L2 LFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 120,
+      "name": "Waveform",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "Reset",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 122,
+      "name": "Mono",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 123,
+      "name": "Keyboard Track",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 125,
+      "name": "Type",
+      "section": "L2 Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }]
+  ]
+}

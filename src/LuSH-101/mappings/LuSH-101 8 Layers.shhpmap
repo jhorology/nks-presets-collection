@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<HostParametersMap name="LuSH-101">
+  <assign hostParam="1" pluginParam="Layer 1 VCF Frequency"/>
+  <assign hostParam="2" pluginParam="Layer 2 VCF Frequency"/>
+  <assign hostParam="3" pluginParam="Layer 3 VCF Frequency"/>
+  <assign hostParam="4" pluginParam="Layer 4 VCF Frequency"/>
+  <assign hostParam="5" pluginParam="Layer 5 VCF Frequency"/>
+  <assign hostParam="6" pluginParam="Layer 6 VCF Frequency"/>
+  <assign hostParam="7" pluginParam="Layer 7 VCF Frequency"/>
+  <assign hostParam="8" pluginParam="Layer 8 VCF Frequency"/>
+  <assign hostParam="9" pluginParam="Layer 1 VCF Resonance"/>
+  <assign hostParam="10" pluginParam="Layer 2 VCF Resonance"/>
+  <assign hostParam="11" pluginParam="Layer 3 VCF Resonance"/>
+  <assign hostParam="12" pluginParam="Layer 4 VCF Resonance"/>
+  <assign hostParam="13" pluginParam="Layer 5 VCF Resonance"/>
+  <assign hostParam="14" pluginParam="Layer 6 VCF Resonance"/>
+  <assign hostParam="15" pluginParam="Layer 7 VCF Resonance"/>
+  <assign hostParam="16" pluginParam="Layer 8 VCF Resonance"/>
+  <assign hostParam="17" pluginParam="Layer 1 Volume"/>
+  <assign hostParam="18" pluginParam="Layer 2 Volume"/>
+  <assign hostParam="19" pluginParam="Layer 3 Volume"/>
+  <assign hostParam="20" pluginParam="Layer 4 Volume"/>
+  <assign hostParam="21" pluginParam="Layer 5 Volume"/>
+  <assign hostParam="22" pluginParam="Layer 6 Volume"/>
+  <assign hostParam="23" pluginParam="Layer 7 Volume"/>
+  <assign hostParam="24" pluginParam="Layer 8 Volume"/>
+  <assign hostParam="25" pluginParam="Layer 1 Paning"/>
+  <assign hostParam="26" pluginParam="Layer 2 Paning"/>
+  <assign hostParam="27" pluginParam="Layer 3 Paning"/>
+  <assign hostParam="28" pluginParam="Layer 4 Paning"/>
+  <assign hostParam="29" pluginParam="Layer 5 Paning"/>
+  <assign hostParam="30" pluginParam="Layer 6 Paning"/>
+  <assign hostParam="31" pluginParam="Layer 7 Paning"/>
+  <assign hostParam="32" pluginParam="Layer 8 Paning"/>
+  <assign hostParam="33" pluginParam="Layer 1 Enabled"/>
+  <assign hostParam="34" pluginParam="Layer 2 Enabled"/>
+  <assign hostParam="35" pluginParam="Layer 3 Enabled"/>
+  <assign hostParam="36" pluginParam="Layer 4 Enabled"/>
+  <assign hostParam="37" pluginParam="Layer 5 Enabled"/>
+  <assign hostParam="38" pluginParam="Layer 6 Enabled"/>
+  <assign hostParam="39" pluginParam="Layer 7 Enabled"/>
+  <assign hostParam="40" pluginParam="Layer 8 Enabled"/>
+  <assign hostParam="41" pluginParam="Layer 1 VCO Range"/>
+  <assign hostParam="42" pluginParam="Layer 2 VCO Range"/>
+  <assign hostParam="43" pluginParam="Layer 3 VCO Range"/>
+  <assign hostParam="44" pluginParam="Layer 4 VCO Range"/>
+  <assign hostParam="45" pluginParam="Layer 5 VCO Range"/>
+  <assign hostParam="46" pluginParam="Layer 6 VCO Range"/>
+  <assign hostParam="47" pluginParam="Layer 7 VCO Range"/>
+  <assign hostParam="48" pluginParam="Layer 8 VCO Range"/>
+  <assign hostParam="49" pluginParam="Layer 1 VCO Sync Offset"/>
+  <assign hostParam="50" pluginParam="Layer 2 VCO Sync Offset"/>
+  <assign hostParam="51" pluginParam="Layer 3 VCO Sync Offset"/>
+  <assign hostParam="52" pluginParam="Layer 4 VCO Sync Offset"/>
+  <assign hostParam="53" pluginParam="Layer 5 VCO Sync Offset"/>
+  <assign hostParam="54" pluginParam="Layer 6 VCO Sync Offset"/>
+  <assign hostParam="55" pluginParam="Layer 7 VCO Sync Offset"/>
+  <assign hostParam="56" pluginParam="Layer 8 VCO Sync Offset"/>
+  <assign hostParam="57" pluginParam="Layer 1 VCO Sync Mode"/>
+  <assign hostParam="58" pluginParam="Layer 2 VCO Sync Mode"/>
+  <assign hostParam="59" pluginParam="Layer 3 VCO Sync Mode"/>
+  <assign hostParam="60" pluginParam="Layer 4 VCO Sync Mode"/>
+  <assign hostParam="61" pluginParam="Layer 5 VCO Sync Mode"/>
+  <assign hostParam="62" pluginParam="Layer 6 VCO Sync Mode"/>
+  <assign hostParam="63" pluginParam="Layer 7 VCO Sync Mode"/>
+  <assign hostParam="64" pluginParam="Layer 8 VCO Sync Mode"/>
+  <assign hostParam="65" pluginParam="Layer 1 Mixer SQR Volume"/>
+  <assign hostParam="66" pluginParam="Layer 2 Mixer SQR Volume"/>
+  <assign hostParam="67" pluginParam="Layer 3 Mixer SQR Volume"/>
+  <assign hostParam="68" pluginParam="Layer 4 Mixer SQR Volume"/>
+  <assign hostParam="69" pluginParam="Layer 5 Mixer SQR Volume"/>
+  <assign hostParam="70" pluginParam="Layer 6 Mixer SQR Volume"/>
+  <assign hostParam="71" pluginParam="Layer 7 Mixer SQR Volume"/>
+  <assign hostParam="72" pluginParam="Layer 8 Mixer SQR Volume"/>
+  <assign hostParam="73" pluginParam="Layer 1 Mixer SAW Volume"/>
+  <assign hostParam="74" pluginParam="Layer 2 Mixer SAW Volume"/>
+  <assign hostParam="75" pluginParam="Layer 3 Mixer SAW Volume"/>
+  <assign hostParam="76" pluginParam="Layer 4 Mixer SAW Volume"/>
+  <assign hostParam="77" pluginParam="Layer 5 Mixer SAW Volume"/>
+  <assign hostParam="78" pluginParam="Layer 6 Mixer SAW Volume"/>
+  <assign hostParam="79" pluginParam="Layer 7 Mixer SAW Volume"/>
+  <assign hostParam="80" pluginParam="Layer 8 Mixer SAW Volume"/>
+  <assign hostParam="81" pluginParam="Layer 1 Mixer SUB Volume"/>
+  <assign hostParam="82" pluginParam="Layer 2 Mixer SUB Volume"/>
+  <assign hostParam="83" pluginParam="Layer 3 Mixer SUB Volume"/>
+  <assign hostParam="84" pluginParam="Layer 4 Mixer SUB Volume"/>
+  <assign hostParam="85" pluginParam="Layer 5 Mixer SUB Volume"/>
+  <assign hostParam="86" pluginParam="Layer 6 Mixer SUB Volume"/>
+  <assign hostParam="87" pluginParam="Layer 7 Mixer SUB Volume"/>
+  <assign hostParam="88" pluginParam="Layer 8 Mixer SUB Volume"/>
+  <assign hostParam="89" pluginParam="Layer 1 Mixer Noise Volume"/>
+  <assign hostParam="90" pluginParam="Layer 2 Mixer Noise Volume"/>
+  <assign hostParam="91" pluginParam="Layer 3 Mixer Noise Volume"/>
+  <assign hostParam="92" pluginParam="Layer 4 Mixer Noise Volume"/>
+  <assign hostParam="93" pluginParam="Layer 5 Mixer Noise Volume"/>
+  <assign hostParam="94" pluginParam="Layer 6 Mixer Noise Volume"/>
+  <assign hostParam="95" pluginParam="Layer 7 Mixer Noise Volume"/>
+  <assign hostParam="96" pluginParam="Layer 8 Mixer Noise Volume"/>
+  <assign hostParam="97" pluginParam="Layer 1 ENV1 Decay"/>
+  <assign hostParam="98" pluginParam="Layer 2 ENV1 Decay"/>
+  <assign hostParam="99" pluginParam="Layer 3 ENV1 Decay"/>
+  <assign hostParam="100" pluginParam="Layer 4 ENV1 Decay"/>
+  <assign hostParam="101" pluginParam="Layer 5 ENV1 Decay"/>
+  <assign hostParam="102" pluginParam="Layer 6 ENV1 Decay"/>
+  <assign hostParam="103" pluginParam="Layer 7 ENV1 Decay"/>
+  <assign hostParam="104" pluginParam="Layer 8 ENV1 Decay"/>
+  <assign hostParam="105" pluginParam="Layer 1 ENV2 Decay"/>
+  <assign hostParam="106" pluginParam="Layer 2 ENV2 Decay"/>
+  <assign hostParam="107" pluginParam="Layer 3 ENV2 Decay"/>
+  <assign hostParam="108" pluginParam="Layer 4 ENV2 Decay"/>
+  <assign hostParam="109" pluginParam="Layer 5 ENV2 Decay"/>
+  <assign hostParam="110" pluginParam="Layer 6 ENV2 Decay"/>
+  <assign hostParam="111" pluginParam="Layer 7 ENV2 Decay"/>
+  <assign hostParam="112" pluginParam="Layer 8 ENV2 Decay"/>
+  <assign hostParam="113" pluginParam="Layer 1 Arpe Mode"/>
+  <assign hostParam="114" pluginParam="Layer 2 Arpe Mode"/>
+  <assign hostParam="115" pluginParam="Layer 3 Arpe Mode"/>
+  <assign hostParam="116" pluginParam="Layer 4 Arpe Mode"/>
+  <assign hostParam="117" pluginParam="Layer 5 Arpe Mode"/>
+  <assign hostParam="118" pluginParam="Layer 6 Arpe Mode"/>
+  <assign hostParam="119" pluginParam="Layer 7 Arpe Mode"/>
+  <assign hostParam="120" pluginParam="Layer 8 Arpe Mode"/>
+  <assign hostParam="121" pluginParam="Layer 1 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="122" pluginParam="Layer 2 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="123" pluginParam="Layer 3 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="124" pluginParam="Layer 4 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="125" pluginParam="Layer 5 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="126" pluginParam="Layer 6 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="127" pluginParam="Layer 7 Arpe Rate Rhythmic Value"/>
+  <assign hostParam="128" pluginParam="Layer 8 Arpe Rate Rhythmic Value"/>
+</HostParametersMap>
