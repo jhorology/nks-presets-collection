@@ -47,7 +47,12 @@ gulp.task "#{$.prefix}-print-magic", ->
 gulp.task "#{$.prefix}-generate-default-mapping", ->
   task.generate_default_mapping $.dir
 
-# extract PCHK chunk from .bwpreset files.
+# extract PCHK chunk from .nksf files.
+#
+# Twin2 is anti NKS ware, or KK's bug or Twin2's bug.
+# Plugin state saved on KK is lack of something needed. There is huge size diffrent.
+# Maybe it's work if use pluguin state saved on other host.
+# 
 gulp.task "#{$.prefix}-extract-raw-presets", ->
   task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"
 
@@ -135,6 +140,10 @@ gulp.task "#{$.prefix}-suggest-mapping", ->
       basename: 'default-suggest'
     .pipe gulp.dest "src/#{$.dir}/mappings"
 
+# for analysing plugin state on Live
+gulp.task "#{$.prefix}-adg-test-data", ->
+  task.extract_raw_presets_from_adg ["#{$.Ableton.racks}/1 Finger*.adg"], 'test/ableton'
+
 #
 # build
 # --------------------------------
@@ -191,5 +200,5 @@ gulp.task "#{$.prefix}-deploy-presets", [
 
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  # TODO unfinished
+  # Discontinued
   # task.release $.dir

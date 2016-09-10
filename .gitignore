@@ -5,6 +5,7 @@ target/
 build/
 dist/
 temp/
+test/
 components/
 node_modules/
 /src/Alchemy/presets/*

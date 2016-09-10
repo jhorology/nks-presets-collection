@@ -8,6 +8,7 @@
 # ---------------------------------------------------------------
 path     = require 'path'
 gulp     = require 'gulp'
+extract     = require 'gulp-riff-extractor'
 
 util     = require '../lib/util'
 task     = require '../lib/common-tasks'
@@ -45,13 +46,27 @@ gulp.task "#{$.prefix}-print-default-mapping", ->
 gulp.task "#{$.prefix}-print-magic", ->
   task.print_plid $.dir
 
+# for analysing plugin state on Live
+gulp.task "#{$.prefix}-adg-test-data", ->
+  task.extract_raw_presets_from_adg ["#{$.Ableton.racks}/8-*.adg"], 'test/ableton'
+
+# for analysing plugin state on KK
+gulp.task "#{$.prefix}-nks-test-data", ->
+  gulp.src ["/Library/Application Support/Sugar Bytes/Cyclop/NKS/Presets/XS/8-*.nksf"], read: true
+    .pipe extract {}
+    .pipe gulp.dest 'test/nks'
+
 # export
 # --------------------------------
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ->
-  # TODO ableton won't restore plugin state
+  # Discontinued
+  #   Ableton won't restore plugin state
+  #   I gave up analysing plugin state. It's diffrent between Live and KK.
+  #   I couldn't find rules.
   # 
   # task.export_adg "#{$.nksPresets}/**/*.nksf"
   # , "#{$.Ableton.racks}/#{$.dir}"
   # , $.abletonRackTemplate
+    

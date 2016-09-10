@@ -2,6 +2,8 @@ assert      = require 'assert'
 path        = require 'path'
 fs          = require 'fs'
 gulp        = require 'gulp'
+data        = require 'gulp-data'
+exec        = require 'gulp-exec'
 changed     = require 'gulp-changed'
 extract     = require 'gulp-riff-extractor'
 tap         = require 'gulp-tap'
@@ -202,27 +204,28 @@ module.exports =
   #  @dst       String - destination
   #  @template  String - template file path
   #  @cb1       function(file, metadata) optional - do something with .nksf file and metadata
-  #  @cb2       function(file) optional - do something with uncompressed .adg file
+  #  @cb2       function(file, chunk) optional - do something with PCHK chunk
+  #  @cb3       function(file) optional - do something with uncompressed .adg file
   # --------------------------------
-  export_adg: (srcs, dst, template, cb1, cb2)  ->
+  export_adg: (srcs, dst, template, cb1, cb2, cb3)  ->
     template = _.template util.readFile template
     gulp.src srcs, read: on
       .pipe tap (file) ->
         if _.isFunction cb1
           metadata = undefined
-          (riffReader file.contents, 'NIKS').readSync (id, data) ->
-            metadata = msgpack.decode data.slice 4
+          (riffReader file.contents, 'NIKS').readSync (id, chunk) ->
+            metadata = msgpack.decode chunk.slice 4
           , ['NISI']
           cb1 file, metadata
       .pipe tap (file) ->
         templateSource =
           params: []
           bufferLines: []
-        (riffReader file.contents, 'NIKS').readSync (id, data) ->
+        (riffReader file.contents, 'NIKS').readSync (id, chunk) ->
           switch id
             when 'NICA'
               params = []
-              ni8 = (msgpack.decode data.slice 4).ni8
+              ni8 = (msgpack.decode chunk.slice 4).ni8
               for page, pageIndex in ni8
                 for param, paramIndex in page
                   if param.id
@@ -233,18 +236,19 @@ module.exports =
                 break if templateSource.params.length >= 128
             when 'PCHK'
               lines = []
+              cb2(file, chunk) if _.isFunction cb2
+              size = chunk.length
               offset = 4
-              size = data.length
               while offset < size
                 end = offset + 40
                 end = size if end > size
-                templateSource.bufferLines.push data.toString 'hex', offset, end
+                templateSource.bufferLines.push chunk.toString 'hex', offset, end
                 offset += 40
         , ['NICA', 'PCHK']
         #
         file.contents = new Buffer template templateSource
       .pipe tap (file) ->
-        cb2(file) if _.isFunction cb2
+        cb3(file) if _.isFunction cb3
       .pipe gzip
         append: off       # append '.gz' extension
       .pipe rename
