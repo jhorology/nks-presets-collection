@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-(25647-5331)/28541 (71%)
+(25969-5331)/28551 (72%)
 
 |          |raw presets|mappings|meta|resources|.adg 6|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:----:|:-----:|:---------:|
@@ -28,7 +28,7 @@ NKS(Native Kontrol Standard) presets collection
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|Aug 29, 2016|
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|Aug 29, 2016|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | 7 | - |
-|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:||:heavy_check_mark:|||||
+|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/o2m8jyarrhp0olg/VStation.zip?dl=0)|Sep 12, 2016|
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/k9itodzfl6kn0ij/VacuumPro.zip?dl=0)|Aug 29, 2016|
 |[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|Aug 29, 2016|
 |[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|Aug 29, 2016|

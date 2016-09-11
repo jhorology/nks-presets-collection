@@ -26,6 +26,8 @@ $ = Object.assign {}, (require '../config'),
   
   #  local settings
   # -------------------------
+  # Ableton Live 9.6.2
+  abletonInstrumentRackTemplate: 'src/VStation/templates/VStation.adg.tpl'
 
 # preparing tasks
 # --------------------------------
@@ -59,7 +61,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       type = basename.replace /^[0-9]+ /, ''
       type = type.replace /[ ,0-9]+$/, ''
       file.contents = new Buffer util.beautify
-        vendor: $.VStation.vendor
+        vendor: $.vendor
         uuid: util.uuid file
         types: [[type]]
         modes: []
@@ -71,7 +73,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       , on    # print
     .pipe rename
       extname: '.meta'
-    .pipe gulp.dest "src/#{$.VStation.dir}/presets"
+    .pipe gulp.dest "src/#{$.dir}/presets"
 
 #
 # build
@@ -86,18 +88,15 @@ gulp.task "#{$.prefix}-dist", [
 
 # copy image resources to dist folder
 gulp.task "#{$.prefix}-dist-image", ->
-  # TODO create image files
-  # task.dist_image $.dir, $.vendor
+  task.dist_image $.dir, $.vendor
 
 # copy database resources to dist folder
 gulp.task "#{$.prefix}-dist-database", ->
-  # TODO create resource files
-  # task.dist_database $.dir, $.vendor
+  task.dist_database $.dir, $.vendor
 
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  # TODO create mapping
-  # task.dist_presets $.dir, $.magic
+  task.dist_presets $.dir, $.magic
 
 # check
 gulp.task "#{$.prefix}-check-dist-presets", ->
@@ -131,5 +130,22 @@ gulp.task "#{$.prefix}-deploy-presets", [
 
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  # TODO unfinished
-  # task.release $.dir
+  task.release $.dir
+
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton drum rack
+#
+# TODO ableton won't restore plugin state.
+# 
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/VStation Factory/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonInstrumentRackTemplate
+  , (file, meta) ->
+    # edit file path
+    dirname = path.dirname file.path
+    basename = path.basename file.path
+    file.path = path.join dirname, meta.types[0][0], file.relative
