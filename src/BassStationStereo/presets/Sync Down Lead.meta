@@ -1,0 +1,13 @@
+{
+  "vendor": "Novation",
+  "uuid": "b5805ca4-800f-45b7-81b8-d5691a0c10ab",
+  "types": [
+    ["Lead"]
+  ],
+  "modes": [],
+  "name": "Sync Down Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["BassStationStereo", "BassStation Factory", ""],
+  "author": ""
+}

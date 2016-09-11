@@ -1,0 +1,311 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 35,
+      "name": "Volume",
+      "section": "Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Porta",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "Osc Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "Speed",
+      "section": "LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Shape",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 15,
+      "name": "Mix",
+      "section": "OSC1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Wave",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Detune",
+      "section": "OSC2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Semi",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Range",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Wave",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2,
+      "name": "Env",
+      "section": "OSC1 Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Pulse W",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "PWM Src",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Env",
+      "section": "OSC2 Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Lfo",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Pulse W",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "PWM Src",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 18,
+      "name": "Slope",
+      "section": "Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Res",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Env",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 26,
+      "name": "Attack",
+      "section": "Env1 Amp",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "Velocity ",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 0,
+      "name": "Voice Mode",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 21,
+      "name": "Mod Attack",
+      "section": "Env2 Filter",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "Mod Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "Mod Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 24,
+      "name": "Mod Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "Mod Velocity",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 38,
+      "name": "Filter",
+      "section": "Mod Wheel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Pitch",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Range",
+      "section": "Pitch Bend",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "Env",
+      "section": "After Touch",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 43,
+      "name": "Pitch",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 40,
+      "name": "Env",
+      "section": "Breath",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Filter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Pitch",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}

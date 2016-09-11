@@ -21,12 +21,15 @@ $ = Object.assign {}, (require '../config'),
   
   #  common settings
   # -------------------------
-  dir: 'BassStation'
+  dir: 'BassStationStereo'
   vendor: 'Novation'
-  magic: 'NvB2'
+  # magic: 'NvB2'        # BassStation - not work on KK
+  magic: 'Nvb2'        # BassStationStreo
   
   #  local settings
   # -------------------------
+  # Ableton Live 9.6.2
+  abletonInstrumentRackTemplate: 'src/BassStationStereo/templates/BassStationStereo.adg.tpl'
 
 
 # preparing tasks
@@ -57,15 +60,20 @@ gulp.task "#{$.prefix}-generate-meta", ->
   presets = "src/#{$.dir}/presets"
   gulp.src ["#{presets}/**/*.pchk"]
     .pipe tap (file) ->
+      basename = path.basename file.path, '.pchk'
+      type = switch
+        when basename.match /Bass/ then "Bass"
+        when basename.match /Lead/ then "Lead"
+        else "Other"
       file.contents = new Buffer util.beautify
         vendor: $.vendor
         uuid: util.uuid file
-        types: [['Bass']]
+        types: [[type]]
         modes: []
         name: path.basename file.path, '.pchk'
         deviceType: 'INST'
         comment: ''
-        bankchain: ['BassStation', 'BassStation Factory', '']
+        bankchain: ['BassStationStereo', 'BassStation Factory', '']
         author: ''
       , on
     .pipe rename
@@ -85,18 +93,15 @@ gulp.task "#{$.prefix}-dist", [
 
 # copy image resources to dist folder
 gulp.task "#{$.prefix}-dist-image", ->
-  # TODO create image files
-  # task.dist_image $.dir, $.vendor
+  task.dist_image $.dir, $.vendor
 
 # copy database resources to dist folder
 gulp.task "#{$.prefix}-dist-database", ->
-  # TODO create esource files
-  # task.dist_database $.dir, $.vendor
+  task.dist_database $.dir, $.vendor
 
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  # TODO create mapping
-  # task.dist_presets $.dir, $.magic
+  task.dist_presets $.dir, $.magic
 
 # check
 gulp.task "#{$.prefix}-check-dist-presets", ->
@@ -130,5 +135,20 @@ gulp.task "#{$.prefix}-deploy-presets", [
 
 # release zip file to dropbox
 gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  # TODO unfinished
-  # task.release $.dir
+  task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton drum rack
+#
+# TODO ableton won't restore plugin state.
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonInstrumentRackTemplate
+  , (file, meta) ->
+    # edit file path
+    dirname = path.dirname file.path
+    basename = path.basename file.path
+    file.path = path.join dirname, meta.types[0][0], file.relative

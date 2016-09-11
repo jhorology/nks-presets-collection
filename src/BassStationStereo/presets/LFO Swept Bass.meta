@@ -1,0 +1,13 @@
+{
+  "vendor": "Novation",
+  "uuid": "34e99326-c8ab-4954-9eb3-6c7b691ea5b6",
+  "types": [
+    ["Bass"]
+  ],
+  "modes": [],
+  "name": "LFO Swept Bass",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["BassStationStereo", "BassStation Factory", ""],
+  "author": ""
+}

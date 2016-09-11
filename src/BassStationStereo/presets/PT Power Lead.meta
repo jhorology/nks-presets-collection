@@ -1,0 +1,13 @@
+{
+  "vendor": "Novation",
+  "uuid": "b43642af-0b4c-42c1-b08d-de29c520cae7",
+  "types": [
+    ["Lead"]
+  ],
+  "modes": [],
+  "name": "PT Power Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["BassStationStereo", "BassStation Factory", ""],
+  "author": ""
+}

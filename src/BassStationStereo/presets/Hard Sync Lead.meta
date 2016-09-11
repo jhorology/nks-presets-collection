@@ -1,0 +1,13 @@
+{
+  "vendor": "Novation",
+  "uuid": "09e18500-8fbb-4886-ac7b-2dd984b0606d",
+  "types": [
+    ["Lead"]
+  ],
+  "modes": [],
+  "name": "Hard Sync Lead",
+  "deviceType": "INST",
+  "comment": "",
+  "bankchain": ["BassStationStereo", "BassStation Factory", ""],
+  "author": ""
+}
