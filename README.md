@@ -3,7 +3,7 @@ NKS(Native Kontrol Standard) presets collection
 
 ## Status
 
-(25969-5331)/28551 (72%)
+(28167-5331)/28551 (80%)
 
 |          |raw presets|mappings|meta|resources|.adg 6|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:----:|:-----:|:---------:|
