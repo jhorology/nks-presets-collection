@@ -15,7 +15,7 @@ NKS(Native Kontrol Standard) presets collection
 |[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/g3j4711fi5342q2/DB-33.zip?dl=0)|Aug 29, 2016|
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/p6cainscjzgxelm/EightyEight%202_64.zip?dl=0)|Aug 29, 2016|
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/ofmomoqk3un1irs/Hive.zip?dl=0)|Aug 29, 2016|
-|[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:||:heavy_check_mark:|||||
+|[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/vodyqkcdwiedzx2/Hybrid.zip?dl=0)|Sep 14, 2016|
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|Aug 29, 2016|
 |[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[Big](https://www.dropbox.com/s/w01b7fk27ndfex0/LuSH-101%20%28Big%29.zip?dl=0)/[Small](https://www.dropbox.com/s/j4dl98qwzssl7gs/LuSH-101%20%28Small%29.zip?dl=0) 5|Sep 10, 2016|
 |[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:| - | - |
