@@ -194,7 +194,7 @@ gulp.task "#{$.prefix}-deploy-presets", [
 gulp.task "#{$.prefix}-deploy-nks-presets", [
   "#{$.prefix}-dist-presets"
 ] , ->
-  gulp.src ["dist/#{dir}/User Content/**/*.nksf"]
+  gulp.src ["dist/#{$.dir}/User Content/**/*.nksf"]
     .pipe gulp.dest $.nksPresets
 
 #
