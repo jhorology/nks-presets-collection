@@ -61,7 +61,7 @@ gulp.task "#{$.prefix}-extract-raw-presets", ->
 # generate per preset mappings
 gulp.task "#{$.prefix}-generate-mappings", ->
   # read default mapping template
-  template = _.template util.fileRead "src/#{$.dir}/mappings/default.json.tpl"
+  template = _.template util.readFile "src/#{$.dir}/mappings/default.json.tpl"
   gulp.src ["#{$.libs}/**/*.patch"], read: on
     .pipe tap (file) ->
       doc = util.xmlString file.contents.toString()

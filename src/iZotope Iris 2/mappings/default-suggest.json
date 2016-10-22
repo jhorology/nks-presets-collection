@@ -1,0 +1,855 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Macro 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Macro 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Macro 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Macro 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Macro 5",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Macro 6",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Macro 7",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Macro 8",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Global Output",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Glide Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Intensity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Mix- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Mix- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Mix- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Mix- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Master Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Master Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Master Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Filter Cutoff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Filter Resonance",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Filter Keyboard Trackin",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Filter Enable",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Filter Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Mute- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Mute- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Mute- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Mute- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Coarse Tune- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Coarse Tune- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Coarse Tune- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "Coarse Tune- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Fine Tune- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "Fine Tune- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Fine Tune- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Fine Tune- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Pan- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "Pan- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Pan- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "Pan- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "Gain- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 40,
+      "name": "Gain- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "Gain- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "Gain- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 43,
+      "name": "Playback mode- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "Playback mode- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "Playback mode- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "Playback mode- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "Loop Enable- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 48,
+      "name": "Loop Enable- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "Loop Enable- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "Loop Enable- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 51,
+      "name": "Retrigger- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "Retrigger- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "Retrigger- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "Retrigger- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 55,
+      "name": "Delay Send- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 56,
+      "name": "Delay Send- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 57,
+      "name": "Delay Send- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "Delay Send- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 59,
+      "name": "Chorus Send- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "Chorus Send- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "Chorus Send- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "Chorus Send- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "Distortion Send- Sample",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 64,
+      "name": "Distortion Send- Sample",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "Distortion Send- Sample",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "Distortion Send- Sample",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
+      "name": "Reverb Send- Sample 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "Reverb Send- Sample 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "Reverb Send- Sample 3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 70,
+      "name": "Reverb Send- Sample 4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "Delay Master Wet/Dry",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 72,
+      "name": "Chorus Master WetDry",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "Distortion Master Wet/D",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "Reverb Master WetDry",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 75,
+      "name": "Delay Time Left",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "Delay Time Right",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "Delay Sync Time Left",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "Delay Sync Time Right",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "Delay Feedback Left",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 80,
+      "name": "Delay Feedback Right",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 81,
+      "name": "Delay Pan",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "Delay Cutoff Low",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 83,
+      "name": "Delay Cutoff High",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "Chorus Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "Chorus Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "Chorus Delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "Chorus Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "Chorus Feedback",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 89,
+      "name": "Distortion Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "Distortion Tone",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 91,
+      "name": "Reverb Size",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "Reverb Density",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "Reverb Pre-delay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "Reverb Width",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 95,
+      "name": "Reverb Low Cutoff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 96,
+      "name": "Reverb High Cutoff",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 97,
+      "name": "Delay Enabled- Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "Delay Enabled-Send",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 99,
+      "name": "Delay Host Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "Delay Crossmix",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "Delay Analog",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "Chorus Enable- Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 103,
+      "name": "Chorus Enable- Send",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "Distortion Enable- Mast",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "Distortion Enable- Send",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "Reverb Enable- Master",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 107,
+      "name": "Reverb Enable- Send",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "Effects Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "Distortion Type",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "LFO 1 Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "LFO 2 Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "LFO 3 Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "LFO 4 Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "LFO 5 Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "LFO 1 Rate (synced)",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "LFO 2 Rate (synced)",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "LFO 3 Rate (synced)",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "LFO 4 Rate (synced)",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 119,
+      "name": "LFO 5 Rate (synced)",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 120,
+      "name": "LFO 1 Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "LFO 2 Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 122,
+      "name": "LFO 3 Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 123,
+      "name": "LFO 4 Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "LFO 5 Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 125,
+      "name": "LFO 1 Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 126,
+      "name": "LFO 2 Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 127,
+      "name": "LFO 3 Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 128,
+      "name": "LFO 4 Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 129,
+      "name": "LFO 5 Shape",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 130,
+      "name": "LFO 1 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 131,
+      "name": "LFO 2 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 132,
+      "name": "LFO 3 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 133,
+      "name": "LFO 4 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 134,
+      "name": "LFO 5 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 135,
+      "name": "LFO 1 Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 136,
+      "name": "LFO 2 Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 137,
+      "name": "LFO 3 Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 138,
+      "name": "LFO 4 Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 139,
+      "name": "LFO 5 Phase",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 140,
+      "name": "LFO 1 Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 141,
+      "name": "LFO 2 Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 142,
+      "name": "LFO 3 Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 143,
+      "name": "LFO 4 Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 144,
+      "name": "LFO 5 Sync",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 145,
+      "name": "LFO 1 Restart",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 146,
+      "name": "LFO 2 Restart",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 147,
+      "name": "LFO 3 Restart",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 148,
+      "name": "LFO 4 Restart",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 149,
+      "name": "LFO 5 Restart",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 150,
+      "name": "Env 1 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 151,
+      "name": "Env 2 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 152,
+      "name": "Env 3 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 153,
+      "name": "Env 4 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 154,
+      "name": "Env 5 Attack",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 155,
+      "name": "Env 1 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 156,
+      "name": "Env 2 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 157,
+      "name": "Env 3 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 158,
+      "name": "Env 4 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 159,
+      "name": "Env 5 Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 160,
+      "name": "Env 1 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 161,
+      "name": "Env 2 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 162,
+      "name": "Env 3 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 163,
+      "name": "Env 4 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 164,
+      "name": "Env 5 Sustain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 165,
+      "name": "Env 1 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 166,
+      "name": "Env 2 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 167,
+      "name": "Env 3 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 168,
+      "name": "Env 4 Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 169,
+      "name": "Env 5 Release",
+      "vflag": false
+    }]
+  ]
+}

@@ -57,7 +57,7 @@ gulp.task "#{$.prefix}-extract-raw-presets", ->
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->
   presets = "src/#{$.dir}/presets"
-  resourceDir = util.normalizeDirname $.Xpand2.dir
+  resourceDir = util.normalizeDirname $.dir
   gulp.src ["#{presets}/**/*.pchk"]
     .pipe data (file) ->
       basename = path.basename file.path, '.pchk'
@@ -67,7 +67,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       else
         'Xpand!2 Factory'
       file.contents = new Buffer util.beautify
-        vendor: $.Xpand2.vendor
+        vendor: $.vendor
         uuid: util.uuid file
         types: [[folder[3..]]]
         modes: ["Sample Based"]
@@ -79,7 +79,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       , on    # print
     .pipe rename
       extname: '.meta'
-    .pipe gulp.dest "src/#{$.Xpand2.dir}/presets"
+    .pipe gulp.dest "src/#{$.dir}/presets"
 
 #
 # build

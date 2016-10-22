@@ -1,0 +1,1022 @@
+[
+	{
+		"id": "CONTENTS/PARAM0",
+		"name": "Macro 1",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM1",
+		"name": "Macro 2",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM2",
+		"name": "Macro 3",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM3",
+		"name": "Macro 4",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM4",
+		"name": "Macro 5",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM5",
+		"name": "Macro 6",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM6",
+		"name": "Macro 7",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM7",
+		"name": "Macro 8",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM8",
+		"name": "Global Output",
+		"normalizedValue": 0.8679245114326477,
+		"valueDisplay": "-8.00"
+	},
+	{
+		"id": "CONTENTS/PARAM9",
+		"name": "Glide Time",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM10",
+		"name": "Intensity",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM11",
+		"name": "Mix- Sample 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM12",
+		"name": "Mix- Sample 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM13",
+		"name": "Mix- Sample 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM14",
+		"name": "Mix- Sample 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM15",
+		"name": "Master Gain",
+		"normalizedValue": 0.9433962106704712,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM16",
+		"name": "Master Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM17",
+		"name": "Master Velocity",
+		"normalizedValue": 0.800000011920929,
+		"valueDisplay": "60.00"
+	},
+	{
+		"id": "CONTENTS/PARAM18",
+		"name": "Filter Cutoff",
+		"normalizedValue": 0.038557834923267365,
+		"valueDisplay": "800.00"
+	},
+	{
+		"id": "CONTENTS/PARAM19",
+		"name": "Filter Resonance",
+		"normalizedValue": 0.055555559694767,
+		"valueDisplay": "0.10"
+	},
+	{
+		"id": "CONTENTS/PARAM20",
+		"name": "Filter Keyboard Trackin",
+		"normalizedValue": 0.75,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM21",
+		"name": "Filter Enable",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM22",
+		"name": "Filter Type",
+		"normalizedValue": 0,
+		"valueDisplay": "New York LP"
+	},
+	{
+		"id": "CONTENTS/PARAM23",
+		"name": "Mute- Sample 1",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM24",
+		"name": "Mute- Sample 2",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM25",
+		"name": "Mute- Sample 3",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM26",
+		"name": "Mute- Sample 4",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM27",
+		"name": "Coarse Tune- Sample 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM28",
+		"name": "Coarse Tune- Sample 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM29",
+		"name": "Coarse Tune- Sample 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM30",
+		"name": "Coarse Tune- Sample 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM31",
+		"name": "Fine Tune- Sample 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM32",
+		"name": "Fine Tune- Sample 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM33",
+		"name": "Fine Tune- Sample 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM34",
+		"name": "Fine Tune- Sample 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM35",
+		"name": "Pan- Sample 1",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM36",
+		"name": "Pan- Sample 2",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM37",
+		"name": "Pan- Sample 3",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM38",
+		"name": "Pan- Sample 4",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM39",
+		"name": "Gain- Sample 1",
+		"normalizedValue": 0.9433962106704712,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM40",
+		"name": "Gain- Sample 2",
+		"normalizedValue": 0.9433962106704712,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM41",
+		"name": "Gain- Sample 3",
+		"normalizedValue": 0.9433962106704712,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM42",
+		"name": "Gain- Sample 4",
+		"normalizedValue": 0.9433962106704712,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM43",
+		"name": "Playback mode- Sample 1",
+		"normalizedValue": 0,
+		"valueDisplay": "Forwards"
+	},
+	{
+		"id": "CONTENTS/PARAM44",
+		"name": "Playback mode- Sample 2",
+		"normalizedValue": 0,
+		"valueDisplay": "Forwards"
+	},
+	{
+		"id": "CONTENTS/PARAM45",
+		"name": "Playback mode- Sample 3",
+		"normalizedValue": 0,
+		"valueDisplay": "Forwards"
+	},
+	{
+		"id": "CONTENTS/PARAM46",
+		"name": "Playback mode- Sample 4",
+		"normalizedValue": 0,
+		"valueDisplay": "Forwards"
+	},
+	{
+		"id": "CONTENTS/PARAM47",
+		"name": "Loop Enable- Sample 1",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM48",
+		"name": "Loop Enable- Sample 2",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM49",
+		"name": "Loop Enable- Sample 3",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM50",
+		"name": "Loop Enable- Sample 4",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM51",
+		"name": "Retrigger- Sample 1",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM52",
+		"name": "Retrigger- Sample 2",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM53",
+		"name": "Retrigger- Sample 3",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM54",
+		"name": "Retrigger- Sample 4",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM55",
+		"name": "Delay Send- Sample 1",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM56",
+		"name": "Delay Send- Sample 2",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM57",
+		"name": "Delay Send- Sample 3",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM58",
+		"name": "Delay Send- Sample 4",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM59",
+		"name": "Chorus Send- Sample 1",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM60",
+		"name": "Chorus Send- Sample 2",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM61",
+		"name": "Chorus Send- Sample 3",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM62",
+		"name": "Chorus Send- Sample 4",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM63",
+		"name": "Distortion Send- Sample",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM64",
+		"name": "Distortion Send- Sample",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM65",
+		"name": "Distortion Send- Sample",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM66",
+		"name": "Distortion Send- Sample",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM67",
+		"name": "Reverb Send- Sample 1",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM68",
+		"name": "Reverb Send- Sample 2",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM69",
+		"name": "Reverb Send- Sample 3",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM70",
+		"name": "Reverb Send- Sample 4",
+		"normalizedValue": 0,
+		"valueDisplay": "-Inf"
+	},
+	{
+		"id": "CONTENTS/PARAM71",
+		"name": "Delay Master Wet/Dry",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM72",
+		"name": "Chorus Master WetDry",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM73",
+		"name": "Distortion Master Wet/D",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM74",
+		"name": "Reverb Master WetDry",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM75",
+		"name": "Delay Time Left",
+		"normalizedValue": 0.08727181702852249,
+		"valueDisplay": "350.00"
+	},
+	{
+		"id": "CONTENTS/PARAM76",
+		"name": "Delay Time Right",
+		"normalizedValue": 0.1372843235731125,
+		"valueDisplay": "550.00"
+	},
+	{
+		"id": "CONTENTS/PARAM77",
+		"name": "Delay Sync Time Left",
+		"normalizedValue": 0.6499999761581421,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM78",
+		"name": "Delay Sync Time Right",
+		"normalizedValue": 0.6499999761581421,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM79",
+		"name": "Delay Feedback Left",
+		"normalizedValue": 0.3684210479259491,
+		"valueDisplay": "35.00"
+	},
+	{
+		"id": "CONTENTS/PARAM80",
+		"name": "Delay Feedback Right",
+		"normalizedValue": 0.2631579041481018,
+		"valueDisplay": "25.00"
+	},
+	{
+		"id": "CONTENTS/PARAM81",
+		"name": "Delay Pan",
+		"normalizedValue": 0.5,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM82",
+		"name": "Delay Cutoff Low",
+		"normalizedValue": 0,
+		"valueDisplay": "20.00"
+	},
+	{
+		"id": "CONTENTS/PARAM83",
+		"name": "Delay Cutoff High",
+		"normalizedValue": 1,
+		"valueDisplay": "20000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM84",
+		"name": "Chorus Depth",
+		"normalizedValue": 0.75,
+		"valueDisplay": "75.00"
+	},
+	{
+		"id": "CONTENTS/PARAM85",
+		"name": "Chorus Rate",
+		"normalizedValue": 0.22448979318141937,
+		"valueDisplay": "1.20"
+	},
+	{
+		"id": "CONTENTS/PARAM86",
+		"name": "Chorus Delay",
+		"normalizedValue": 0,
+		"valueDisplay": "4.00"
+	},
+	{
+		"id": "CONTENTS/PARAM87",
+		"name": "Chorus Width",
+		"normalizedValue": 1,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM88",
+		"name": "Chorus Feedback",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM89",
+		"name": "Distortion Amount",
+		"normalizedValue": 0.3499999940395355,
+		"valueDisplay": "35.00"
+	},
+	{
+		"id": "CONTENTS/PARAM90",
+		"name": "Distortion Tone",
+		"normalizedValue": 0.5,
+		"valueDisplay": "50.00"
+	},
+	{
+		"id": "CONTENTS/PARAM91",
+		"name": "Reverb Size",
+		"normalizedValue": 0.3333333432674408,
+		"valueDisplay": "1.50"
+	},
+	{
+		"id": "CONTENTS/PARAM92",
+		"name": "Reverb Density",
+		"normalizedValue": 0.6000000238418579,
+		"valueDisplay": "60.00"
+	},
+	{
+		"id": "CONTENTS/PARAM93",
+		"name": "Reverb Pre-delay",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM94",
+		"name": "Reverb Width",
+		"normalizedValue": 0.699999988079071,
+		"valueDisplay": "70.00"
+	},
+	{
+		"id": "CONTENTS/PARAM95",
+		"name": "Reverb Low Cutoff",
+		"normalizedValue": 0,
+		"valueDisplay": "20.00"
+	},
+	{
+		"id": "CONTENTS/PARAM96",
+		"name": "Reverb High Cutoff",
+		"normalizedValue": 1,
+		"valueDisplay": "20000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM97",
+		"name": "Delay Enabled- Master",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM98",
+		"name": "Delay Enabled-Send",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM99",
+		"name": "Delay Host Sync",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM100",
+		"name": "Delay Crossmix",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM101",
+		"name": "Delay Analog",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM102",
+		"name": "Chorus Enable- Master",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM103",
+		"name": "Chorus Enable- Send",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM104",
+		"name": "Distortion Enable- Mast",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM105",
+		"name": "Distortion Enable- Send",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM106",
+		"name": "Reverb Enable- Master",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM107",
+		"name": "Reverb Enable- Send",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM108",
+		"name": "Effects Mode",
+		"normalizedValue": 0,
+		"valueDisplay": "Master"
+	},
+	{
+		"id": "CONTENTS/PARAM109",
+		"name": "Distortion Type",
+		"normalizedValue": 0,
+		"valueDisplay": "Tube"
+	},
+	{
+		"id": "CONTENTS/PARAM110",
+		"name": "LFO 1 Rate",
+		"normalizedValue": 0.009980199858546257,
+		"valueDisplay": "0.50"
+	},
+	{
+		"id": "CONTENTS/PARAM111",
+		"name": "LFO 2 Rate",
+		"normalizedValue": 0.009980199858546257,
+		"valueDisplay": "0.50"
+	},
+	{
+		"id": "CONTENTS/PARAM112",
+		"name": "LFO 3 Rate",
+		"normalizedValue": 0.009980199858546257,
+		"valueDisplay": "0.50"
+	},
+	{
+		"id": "CONTENTS/PARAM113",
+		"name": "LFO 4 Rate",
+		"normalizedValue": 0.009980199858546257,
+		"valueDisplay": "0.50"
+	},
+	{
+		"id": "CONTENTS/PARAM114",
+		"name": "LFO 5 Rate",
+		"normalizedValue": 0.009980199858546257,
+		"valueDisplay": "0.50"
+	},
+	{
+		"id": "CONTENTS/PARAM115",
+		"name": "LFO 1 Rate (synced)",
+		"normalizedValue": 0.4482758641242981,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM116",
+		"name": "LFO 2 Rate (synced)",
+		"normalizedValue": 0.4482758641242981,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM117",
+		"name": "LFO 3 Rate (synced)",
+		"normalizedValue": 0.4482758641242981,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM118",
+		"name": "LFO 4 Rate (synced)",
+		"normalizedValue": 0.4482758641242981,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM119",
+		"name": "LFO 5 Rate (synced)",
+		"normalizedValue": 0.4482758641242981,
+		"valueDisplay": "31.00"
+	},
+	{
+		"id": "CONTENTS/PARAM120",
+		"name": "LFO 1 Depth",
+		"normalizedValue": 1,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM121",
+		"name": "LFO 2 Depth",
+		"normalizedValue": 1,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM122",
+		"name": "LFO 3 Depth",
+		"normalizedValue": 1,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM123",
+		"name": "LFO 4 Depth",
+		"normalizedValue": 1,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM124",
+		"name": "LFO 5 Depth",
+		"normalizedValue": 1,
+		"valueDisplay": "100.00"
+	},
+	{
+		"id": "CONTENTS/PARAM125",
+		"name": "LFO 1 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM126",
+		"name": "LFO 2 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM127",
+		"name": "LFO 3 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM128",
+		"name": "LFO 4 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM129",
+		"name": "LFO 5 Shape",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM130",
+		"name": "LFO 1 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM131",
+		"name": "LFO 2 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM132",
+		"name": "LFO 3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM133",
+		"name": "LFO 4 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM134",
+		"name": "LFO 5 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM135",
+		"name": "LFO 1 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM136",
+		"name": "LFO 2 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM137",
+		"name": "LFO 3 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM138",
+		"name": "LFO 4 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM139",
+		"name": "LFO 5 Phase",
+		"normalizedValue": 0,
+		"valueDisplay": "0.00"
+	},
+	{
+		"id": "CONTENTS/PARAM140",
+		"name": "LFO 1 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM141",
+		"name": "LFO 2 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM142",
+		"name": "LFO 3 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM143",
+		"name": "LFO 4 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM144",
+		"name": "LFO 5 Sync",
+		"normalizedValue": 0,
+		"valueDisplay": "False"
+	},
+	{
+		"id": "CONTENTS/PARAM145",
+		"name": "LFO 1 Restart",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM146",
+		"name": "LFO 2 Restart",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM147",
+		"name": "LFO 3 Restart",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM148",
+		"name": "LFO 4 Restart",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM149",
+		"name": "LFO 5 Restart",
+		"normalizedValue": 1,
+		"valueDisplay": "True"
+	},
+	{
+		"id": "CONTENTS/PARAM150",
+		"name": "Env 1 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM151",
+		"name": "Env 2 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM152",
+		"name": "Env 3 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM153",
+		"name": "Env 4 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM154",
+		"name": "Env 5 Attack",
+		"normalizedValue": 0,
+		"valueDisplay": "1.00"
+	},
+	{
+		"id": "CONTENTS/PARAM155",
+		"name": "Env 1 Decay",
+		"normalizedValue": 0.09990999102592468,
+		"valueDisplay": "1000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM156",
+		"name": "Env 2 Decay",
+		"normalizedValue": 0.09990999102592468,
+		"valueDisplay": "1000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM157",
+		"name": "Env 3 Decay",
+		"normalizedValue": 0.09990999102592468,
+		"valueDisplay": "1000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM158",
+		"name": "Env 4 Decay",
+		"normalizedValue": 0.09990999102592468,
+		"valueDisplay": "1000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM159",
+		"name": "Env 5 Decay",
+		"normalizedValue": 0.09990999102592468,
+		"valueDisplay": "1000.00"
+	},
+	{
+		"id": "CONTENTS/PARAM160",
+		"name": "Env 1 Sustain",
+		"normalizedValue": 0.8500000238418579,
+		"valueDisplay": "85.00"
+	},
+	{
+		"id": "CONTENTS/PARAM161",
+		"name": "Env 2 Sustain",
+		"normalizedValue": 0.8500000238418579,
+		"valueDisplay": "85.00"
+	},
+	{
+		"id": "CONTENTS/PARAM162",
+		"name": "Env 3 Sustain",
+		"normalizedValue": 0.8500000238418579,
+		"valueDisplay": "85.00"
+	},
+	{
+		"id": "CONTENTS/PARAM163",
+		"name": "Env 4 Sustain",
+		"normalizedValue": 0.8500000238418579,
+		"valueDisplay": "85.00"
+	},
+	{
+		"id": "CONTENTS/PARAM164",
+		"name": "Env 5 Sustain",
+		"normalizedValue": 0.8500000238418579,
+		"valueDisplay": "85.00"
+	},
+	{
+		"id": "CONTENTS/PARAM165",
+		"name": "Env 1 Release",
+		"normalizedValue": 0.01990199089050293,
+		"valueDisplay": "200.00"
+	},
+	{
+		"id": "CONTENTS/PARAM166",
+		"name": "Env 2 Release",
+		"normalizedValue": 0.01990199089050293,
+		"valueDisplay": "200.00"
+	},
+	{
+		"id": "CONTENTS/PARAM167",
+		"name": "Env 3 Release",
+		"normalizedValue": 0.01990199089050293,
+		"valueDisplay": "200.00"
+	},
+	{
+		"id": "CONTENTS/PARAM168",
+		"name": "Env 4 Release",
+		"normalizedValue": 0.01990199089050293,
+		"valueDisplay": "200.00"
+	},
+	{
+		"id": "CONTENTS/PARAM169",
+		"name": "Env 5 Release",
+		"normalizedValue": 0.01990199089050293,
+		"valueDisplay": "200.00"
+	}
+]
