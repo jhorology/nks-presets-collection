@@ -1,0 +1,217 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Mode",
+      "section": "CHARACTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "Color Shift",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "On/Off",
+      "section": "REVERB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Shimmer",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 6,
+      "name": "Rel Noise",
+      "section": "PERFORMANCE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "T",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Pedal Noise",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Velo Sens",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "On/Off",
+      "section": "EQUALIZER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Lo Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Lo Boost",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Lo Cut",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 14,
+      "name": "Hi Freq",
+      "section": "EQUALIZER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Hi Boost",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Q",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Hi Cut",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "",
+      "section": "DE-NOISE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "On/Off",
+      "section": "COMPRESSOR",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Input",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Ratio",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 22,
+      "name": "Sustain",
+      "section": "COMPRESSOR",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Release",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Level",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "On/Off",
+      "section": "TAPE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Age",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "PAD",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 30,
+      "name": "Voices",
+      "section": "Settings",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "Down",
+      "section": "Bend",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "Up",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "Bias",
+      "section": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 35,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "X",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "Y",
+      "vflag": false
+    }]
+  ]
+}

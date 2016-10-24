@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing",
+  "bankchain": ["Keyscape", "JD-800 Crystal Rhodes", ""],
+  "comment": "TIP - Try adjusting the Modulation FX under EFFECTS.\n\nHISTORY - By the 1990s, the DX-7 Rhodes sound had run its course, but keyboard players still wanted an electric piano sound that had a cleaner, glossy sheen. Roland's JD-800 patch \"Crystal Rhodes\" was the answer. Like the D-50, it used Roland's four-layer Sample + Synthesis method, but the architecture was much-improved and the sound was lush and vibrant. In fact, the JD-800's core waveforms and Factory presets were created by Eric Persing!\n\nThe JD-800 had separate microprocessors for the synth section and keyboard scanning, and its playing response was as fast as CV synths - setting it apart from the overloaded processors of its contemporaries. To the JD-800's 4 oscillators, 4 filters, 8 LFOs and 12 envelopes, Roland added ultra high-quality effects and brought back an analog-style hardware panel.",
+  "deviceType": "INST",
+  "name": "JD-800 - Crystal Dreamphase",
+  "types": [
+    ["Vintage Digital Keys", "JD-800 Crystal Rhodes"]
+  ],
+  "uuid": "b83a8edc-baed-40a2-a89f-fb1f039c4596",
+  "vendor": "Spectrasonics"
+}

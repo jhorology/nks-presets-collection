@@ -1,0 +1,12 @@
+{
+  "author": "Jonathan Merrill; Ignacio Longo; Eric Persing",
+  "bankchain": ["Keyscape", "Hohner Clavinet-Pianet DUO", ""],
+  "comment": "TIP - Adjust the Vibrato settings under EFFECTS.\n\nHISTORY - The Hohner Clavinet E7 was made from 1979 to 1984 and the Hohner Pianet T was made from 1977 to around the same time. Both were created by Hohner's visionary designer, Ernst Zacharias and each enjoyed its own popularity, but from 1978 to 1982, Hohner made a hybrid version that included both in the same enclosure. The keys simultaneously activated the Clavinet hammers and the Pianet sticky pads. The Clavinet action was underneath the Pianet, and this baby was heavy! It included the normal pickups for both.\n\nIt was best to tune the Clavinet to the Pianet, as the Pianet rarely went out of tune. Both outputs were active at all times, and the fader controls adjusted the balance. The keyboard could be split between the two and the normal Clavinet pickup selectors were available as well. These instruments are quite rare.",
+  "deviceType": "INST",
+  "name": "Clavinet-Pianet DUO - Fulltone Vibra",
+  "types": [
+    ["Clavinets", "Hohner Clavinet-Pianet DUO"]
+  ],
+  "uuid": "ddf9d5cc-d328-4b4d-8d07-3cbfd8378942",
+  "vendor": "Spectrasonics"
+}

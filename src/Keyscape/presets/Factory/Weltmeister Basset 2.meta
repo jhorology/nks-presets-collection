@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Weltmeister Basset", ""],
+  "comment": "TIP - Try increasing Mechanical and Color Shift under MAIN.\n\nHISTORY - There is little information available about this extremely rare tabletop version of the Weltmeister Basset, but it is in many ways identical to its predecessor, the Basset 1. Difficult to acquire in the US, this rare \"Cold War\" electro-mechanical keyboard instrument was in production for a brief time in the late 1960s by accordion manufacturer, Weltmeister in East Germany.\n\nThe battery-powered Basset 2 was popular in the 1960s and early 1970s with East German dance bands. Its mechanical piano action was derived from its big brother, the Weltmeister Claviset. Pressing a key causes the lip of a rubber disc to pluck the tine. When the key is released, the sound is stopped by a foam damper. A warning label in German, Cyrillic Russian, and English warns of \"danger of life\" if you connect it to a radio or an amplifier with AC-DC!",
+  "deviceType": "INST",
+  "name": "Weltmeister Basset 2",
+  "types": [
+    ["Key Bass", "Weltmeister Basset"]
+  ],
+  "uuid": "888e82b4-769d-4ea7-8939-6eb70752d04d",
+  "vendor": "Spectrasonics"
+}

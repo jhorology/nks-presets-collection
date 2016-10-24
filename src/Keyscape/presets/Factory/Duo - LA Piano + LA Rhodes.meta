@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo; Mauricio Gasca; Scott Frankfurt",
+  "bankchain": ["Keyscape", "Duo Combination", ""],
+  "comment": "TIP - Customize the sound with the Mix controls under MAIN.\n\nThe iconic keyboard sound was made by combining a custom-modified, 7' 6\" Yamaha C7 Grand Piano with one of the most-recorded Rhodes in the '80s LA music scene. We gave it a '70s twist with an analog phaser on the Rhodes. Great for Pop, Rock, and R&B.",
+  "deviceType": "INST",
+  "name": "Duo - LA Piano + LA Rhodes",
+  "types": [
+    ["Hybrid Pianos", "Duo Combination"]
+  ],
+  "uuid": "ca8df7e2-5892-479e-8bf7-87c9e8e24e58",
+  "vendor": "Spectrasonics"
+}

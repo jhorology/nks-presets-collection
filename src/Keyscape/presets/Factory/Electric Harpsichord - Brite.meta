@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Electric Harpsichord", ""],
+  "comment": "TIP - Adjust the tone with the Amplifier controls under AMP.\n\nHISTORY - Remember the haunting arpeggio in the Beatles' song, \"Because,\" or that quirky keyboard in the theme from the \"The Odd Couple?\" It was the Baldwin Solid Body Harpsichord - developed in the early 1960s by the Cannon Guild and marketed by Baldwin from 1966 into the early 1970s. In addition to its use in many '60s and '70s pop and rock recordings, it made regular television appearances on \"The Monkees\" and \"The Partridge Family.\"\n\nEach key causes a plectrum to pluck one string per note. Its sound is amplified by electric guitar-style pickups - one near the plectra and the other near the strings' halfway-point. The plexiglass cover allows you to see the inner works, showing off the characteristic, bright red Formica \"sounddeck\" and it was made to be easy to break down and transport. We recorded using the two pickup signals and a mono mic which can be added in for a crisper, acoustic sound.",
+  "deviceType": "INST",
+  "name": "Electric Harpsichord - Brite",
+  "types": [
+    ["Plucked Keyboards", "Electric Harpsichord"]
+  ],
+  "uuid": "1f18c5d6-d9b9-4d26-9d86-0267390704ef",
+  "vendor": "Spectrasonics"
+}

@@ -18,7 +18,7 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'FabFilter Twin 2'
@@ -52,7 +52,7 @@ gulp.task "#{$.prefix}-generate-default-mapping", ->
 # Twin2 is anti NKS ware, or KK's bug or Twin2's bug.
 # Plugin state saved on KK is lack of something needed. There is huge size diffrent.
 # Maybe it's work if use pluguin state saved on other host.
-# 
+#
 gulp.task "#{$.prefix}-extract-raw-presets", ->
   task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"
 
@@ -90,7 +90,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"
-    
+
 # suggest mapping
 gulp.task "#{$.prefix}-suggest-mapping", ->
   gulp.src ["src/#{$.dir}/mappings/bitwig-direct-paramater.json"], read: true

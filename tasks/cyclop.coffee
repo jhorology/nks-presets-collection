@@ -18,13 +18,13 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'Cyclop'
   vendor: 'Sugar Bytes'
   magic: 'sbcy'
-  
+
   #  local settings
   # -------------------------
   # Ableton Live 9.6.2
@@ -65,8 +65,8 @@ gulp.task "#{$.prefix}-export-adg", ->
   #   Ableton won't restore plugin state
   #   I gave up analysing plugin state. It's diffrent between Live and KK.
   #   I couldn't find rules.
-  # 
+  #
   # task.export_adg "#{$.nksPresets}/**/*.nksf"
   # , "#{$.Ableton.racks}/#{$.dir}"
   # , $.abletonRackTemplate
-    
+

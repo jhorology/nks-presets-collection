@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Scott Frankfurt",
+  "bankchain": ["Keyscape", "Wing Upright Piano", ""],
+  "comment": "TIP - Control the Detuning amount under MAIN.\n\nHISTORY - This Wing Upright Piano is a perfectly-maintained, century-old upright grand, with a strong, warm sound - reminiscent of the turn-of-the-20th Century. It came with four pedals (instead of the usual two) to activate the \"Instrumental Attachment.\" This patch allows you to add tacks and detune the strings, giving it a true honky-tonk sound. We recorded this version with stereo close mics and a mono room mic.\n\nWing and Son sold their pianos via mail order with free shipping. They guaranteed them for 40 years and offered a free, four week trial period after which, if you did not like the piano for any reason, they would come and pick it up with no questions asked! This Style 19 Wing Upright Concert Grand is from the eclectic collection of LA session keyboardist Zac Rae.",
+  "deviceType": "INST",
+  "name": "Wing Upright - Honky Tonk",
+  "types": [
+    ["Acoustic Pianos", "Wing Upright Piano"]
+  ],
+  "uuid": "9cff2bf2-a05e-486c-ad1c-fad6ad4ad33d",
+  "vendor": "Spectrasonics"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing",
+  "bankchain": ["Keyscape", "MK-80 Digital Rhodes", ""],
+  "comment": "TIP - Turn off Chorus and Tremolo under MAIN for a simpler sound.\n\nHISTORY - Roland bought the Rhodes brand name in 1987 and in 1989, they released the MK-80 - a digital recreation of the electro-mechanical Rhodes. Because of the reverence which die-hard Rhodes fans have for the original instruments and the brand itself, this short-lived keyboard has long been scorned as a digital \"wannabe\" instrument. \n\nWhat's less known is that the technology used in the MK-80 was actually the next generation of Structured Adaptive Synthesis pioneered in the legendary MKS-20 and its digital Rhodes sounds are excellent in their own way. They layer quite well with other Electric Piano sounds.",
+  "deviceType": "INST",
+  "name": "MK-80 Rhodes - Celeste",
+  "types": [
+    ["Vintage Digital Keys", "MK-80 Digital Rhodes"]
+  ],
+  "uuid": "e28c5117-2a0c-48b4-95ba-533204ee0f81",
+  "vendor": "Spectrasonics"
+}

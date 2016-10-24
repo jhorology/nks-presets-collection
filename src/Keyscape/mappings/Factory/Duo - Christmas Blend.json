@@ -1,0 +1,167 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Celeste",
+      "section": "MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "On/Off",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Glock Toy Piano",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "On/Off",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Mono",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Color Shift",
+      "section": "TIMBRE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Transient",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 7,
+      "name": "Rel Time",
+      "section": "PERFORMANCE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Rel Noise",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Velo Sens",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Mode",
+      "section": "REVERB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Shimmer",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 14,
+      "name": "On/Off",
+      "section": "EQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Bass",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Treble",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Mode",
+      "section": "COMPRESSOR",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 19,
+      "name": "Voices",
+      "section": "Settings",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Down",
+      "section": "Bend",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Up",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Bias",
+      "section": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "X",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Y",
+      "vflag": false
+    }]
+  ]
+}

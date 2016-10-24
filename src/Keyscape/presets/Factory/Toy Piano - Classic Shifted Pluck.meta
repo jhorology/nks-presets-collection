@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Toy Piano - Classic", ""],
+  "comment": "TIP - Enable Lo-Fi under EFFECTS for a retro vibe.\n\nHISTORY - This Classic Toy Piano dates from the 1930s. Originally made in the 1800s in Germany, they utilized a simple keyboard action with wooden hammers to strike tuned glass bars instead of strings. In 1872, Albert Schoenhut developed pianos with more durable metal glockenspiel bars. Then, in 1930, instrument designer Alice Bennett created one which used tuned metal rods (tines). The sound of these tines is what we recognize today as the iconic sound of a toy piano.\n\nThis diminutive keyboard has made regular appearances in popular music and American composers John Cage and George Crumb furthered its \"serious\" reputation by embracing the toy piano as a viable instrument in the concert hall. There is even an annual Toy Piano Festival at the University of California, San Diego. We recorded with stereo close mics and room mics.",
+  "deviceType": "INST",
+  "name": "Toy Piano - Classic Shifted Pluck",
+  "types": [
+    ["Mini Pianos", "Toy Piano - Classic"]
+  ],
+  "uuid": "f5ceb6b6-2db0-49ef-8381-71a95f9a8916",
+  "vendor": "Spectrasonics"
+}

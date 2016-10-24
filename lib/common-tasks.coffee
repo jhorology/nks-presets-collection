@@ -231,6 +231,7 @@ module.exports =
                   if param.id
                     templateSource.params.push
                       id: param.id
+                      name: param.name
                       visualIndex: pageIndex * 8 + paramIndex
                     break if templateSource.params.length >= 128
                 break if templateSource.params.length >= 128

@@ -1,0 +1,173 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Wing Upright",
+      "section": "MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "On/Off",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "E. Harpsichord",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "On/Off",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "On/Off",
+      "section": "REVERB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 7,
+      "name": "Lo Cut",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 8,
+      "name": "Rel Noise",
+      "section": "PERFORMANCE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "T",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Pedal Noise",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Velo Sens",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Damping",
+      "section": "TIMBRE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Color Shift",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 14,
+      "name": "On/Off",
+      "section": "EQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Bass",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Mid",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Treble",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "On/Off",
+      "section": "TAPE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Age",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Gain",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 22,
+      "name": "Voices",
+      "section": "Settings",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Down",
+      "section": "Bend",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Up",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "Bias",
+      "section": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "X",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 29,
+      "name": "Y",
+      "vflag": false
+    }]
+  ]
+}

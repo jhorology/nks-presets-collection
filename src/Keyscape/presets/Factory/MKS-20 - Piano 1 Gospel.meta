@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing",
+  "bankchain": ["Keyscape", "MKS-20 Digital Piano", ""],
+  "comment": "TIP - Try different CHORUS settings.\n\nHISTORY - In the 1980s, players were looking for a digital (and portable) version of a grand piano, but the technology at that time only allowed for extremely short samples with unrealistic-sounding looped sustains. The industry was turned on its ear in 1987 when Roland unveiled the MKS-20 with its highly-advanced modeled pianos. Piano 1 is a model of a Steinway D.\n\nEric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the '80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. We are seeing a resurgence in the popularity of the MKS-20, especially with Gospel musicians!",
+  "deviceType": "INST",
+  "name": "MKS-20 - Piano 1 Gospel",
+  "types": [
+    ["Vintage Digital Keys", "MKS-20 Digital Piano"]
+  ],
+  "uuid": "82358bf4-106c-4840-97fa-7a161987e8fe",
+  "vendor": "Spectrasonics"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Jonathan Merrill; Ignacio Longo",
+  "bankchain": ["Keyscape", "Yamaha CP-70", ""],
+  "comment": "TIP - Try different Reverb and Echo settings under REVERB.\n\nHISTORY - Considered by many to be the \"gold standard\" of hybrid electro-acoustic pianos, the Yamaha CP-70 from the late 1970s has been heard on classic recordings for four decades. It has a powerful character that cuts through a mix. Noted users include Peter Gabriel, Genesis, Billy Joel, Stevie Wonder, UK, Kansas, Toto, and Led Zeppelin.\n\nNo need to set up microphones, the CP-70 uses a piezo-electric pickup system, which is fed to its internal pre-amp. With real piano action, hammers, strings, and a removable damper pedal, it was made to withstand the rigors of touring and although it weighs 300lbs, it can be separated into two pieces. Its tuning is remarkably stable, even when moved. Yamaha also made two 88-key models - the CP-80 and the CP-60, a single-piece upright with MIDI.",
+  "deviceType": "INST",
+  "name": "Electric Grand CP70 - Trippy",
+  "types": [
+    ["Electric Pianos", "Yamaha CP-70"]
+  ],
+  "uuid": "22e6e633-5715-44b6-a603-13e41470df43",
+  "vendor": "Spectrasonics"
+}

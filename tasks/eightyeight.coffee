@@ -18,13 +18,13 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'EightyEight 2_64'
   vendor: 'SONiVOX'
   magic: 'eit2'
-  
+
   #  local settings
   # -------------------------
   db: '/Library/Application Support/SONiVOX/EightyEight 2/EightyEight.svxdb'
@@ -173,7 +173,7 @@ gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   # TODO ableton won't restore plugin state
-  # 
+  #
   # task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   # , "#{$.Ableton.racks}/#{$.dir}"
   # , $.abletonRackTemplate

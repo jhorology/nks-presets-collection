@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Scott Frankfurt; Ignacio Longo",
+  "bankchain": ["Keyscape", "Celeste", ""],
+  "comment": "TIP - Adjust the Echo controls under EFFECTS.\n\nHISTORY - Invented in 1886, the Celeste was named for its celestial, heavenly sound. This instrument was built by the Simone Brothers in the late 1940s in New York. Simone models were known for a mellower sound than their European counterparts, and optional pickups were available to increase the volume via an amp. We recorded with stereo close mics, room mics, and its original, vintage pickup, with the instrument's \"Mute\" engaged.\n\nDescended from the Dulcitone, the Celeste design replaced the tuning forks with metal bars, much like a Glockenspiel. Each bar is suspended over its own wooden resonator, allowing more volume. Since the bars are struck with felted hammers, the sound is mellower than the Glock. Most notably used in Tchaikovsky's \"The Nutcracker,\" and featured in the children's show, \"Mr. Rogers' Neighborhood,\" you'll recognize it in a myriad of film scores and recordings by artists such as Art Tatum, the Beatles and Bjork.",
+  "deviceType": "INST",
+  "name": "Celeste - Staccato Tape Echo",
+  "types": [
+    ["Belltone Keyboards", "Celeste"]
+  ],
+  "uuid": "6edfdd7f-194f-4f87-b35f-37defd573674",
+  "vendor": "Spectrasonics"
+}

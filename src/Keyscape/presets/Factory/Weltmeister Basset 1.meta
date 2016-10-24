@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Weltmeister Basset", ""],
+  "comment": "TIP - Try increasing Mechanical and Color Shift under MAIN.\n\nHISTORY - The Weltmeister Basset 1, sometimes referred to as the Weltmeister Combo Bass, was the first keytar! This rare \"Cold War\" electro-mechanical keyboard instrument was made from 1963 to 1969 by accordion manufacturer, Weltmeister, in East Germany. It was practically impossible to get one in the US.\n\nThe battery-powered Basset 1 was popular in the 1960s and early 1970s with East German dance bands. Its mechanical piano action was derived from its big brother, the Weltmeister Claviset. Pressing a key causes the lip of a rubber disc to pluck the tine. When the key is released, the sound is stopped by a foam damper. A warning label in German, Cyrillic Russian, and English warns of \"danger of life\" if you connect it to a radio or an amplifier with AC-DC!",
+  "deviceType": "INST",
+  "name": "Weltmeister Basset 1",
+  "types": [
+    ["Key Bass", "Weltmeister Basset"]
+  ],
+  "uuid": "d60ad137-8c39-4b33-b831-5d1b257dcfa3",
+  "vendor": "Spectrasonics"
+}

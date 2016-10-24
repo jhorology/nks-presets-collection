@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Rhodes 1946 Pre-Piano", ""],
+  "comment": "TIP - Use Tape under EFFECTS for more punch.\n\nHISTORY - The first instrument that Harold Rhodes ever developed was an acoustic, 2 1/2 octave keyboard called the Xylette, made with tines crafted from small aluminum tubes scavenged from the wings of a wrecked B-17 bomber. It was made in 1942 to aid in the rehabilitation of wounded soldiers in WW II. After the war, Rhodes came up with a self-amplified version for students. The mostly hand-built \"Pre-Piano\" was an instant success and his new Rhodes Piano Co. sold hundreds to the Los Angeles School District's music program. Only a few of these hand-built instruments survive today. \n\nIts grandfather clock-like tines were amplified with a piezo pickup routed to a small tube amp and speaker. It was the only Rhodes instrument ever equipped with self-amplification. The Pre-Piano was made from 1946-1948 and over a decade later, he created the Piano Bass and the Rhodes Electric Piano. We recorded the direct signal and the mic-ed speakers.",
+  "deviceType": "INST",
+  "name": "Rhodes 1946 Pre-Piano - Room",
+  "types": [
+    ["Mini Pianos", "Rhodes 1946 Pre-Piano"]
+  ],
+  "uuid": "51559c15-a9a3-47ec-88d0-420e6e4df03b",
+  "vendor": "Spectrasonics"
+}

@@ -1,0 +1,170 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Stereo Mics",
+      "section": "MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "On/Off",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Mono Mic",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "On/Off",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "Mode",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Color Shift",
+      "section": "TIMBRE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Transient",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 7,
+      "name": "Rel Time",
+      "section": "PERFORMANCE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "Rel Noise",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Velo Sens",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "On/Off",
+      "section": "REVERB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 13,
+      "name": "On/Off",
+      "section": "EQUALIZER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Lo Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Lo Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Hi Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Hi Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Mode",
+      "section": "DE-NOISE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Mode",
+      "section": "COMPRESSOR",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 20,
+      "name": "Voices",
+      "section": "Settings",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Down",
+      "section": "Bend",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Up",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Bias",
+      "section": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "X",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Y",
+      "vflag": false
+    }]
+  ]
+}

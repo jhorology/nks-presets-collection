@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Dulcitone", ""],
+  "comment": "TIP - Reduce Rel Time under MAIN to make the sound tighter.\n\nHISTORY - Predecessor to the Celeste (as well as the Rhodes!) the Dulcitone was invented in Scotland in 1860. Named for its sweet sound, its felt-covered, wooden hammers strike an array of tuning forks, which resonate through a small, wooden sound chamber. We recorded its rare, beautiful tone with stereo close and room mics.\n\nPopular for its portability and the fact that its tuning forks would not drift out of tune, the Dulcitone was a favorite aboard trains and ships. It was even carried on the backs of missionaries into remote jungles to accompany their church services. Around 6,000 were made, but only a few survive in playable condition. Featured in Vincent d'Indy's \"Song of the Bells,\" the Dulcitone fell out of favor in the concert hall due to its limited volume and was replaced in most orchestras by the Celeste. The owner's manual says \"The tone improves with use!\"",
+  "deviceType": "INST",
+  "name": "Dulcitone - Christmas",
+  "types": [
+    ["Belltone Keyboards", "Dulcitone"]
+  ],
+  "uuid": "70b7626a-99f0-41db-a769-b721aa25075b",
+  "vendor": "Spectrasonics"
+}

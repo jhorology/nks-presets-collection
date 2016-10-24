@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Scott Frankfurt",
+  "bankchain": ["Keyscape", "Chimeatron", ""],
+  "comment": "TIP - Adjust the Reverb controls under EFFECTS.\n\nHISTORY - A modern take on the Carillon, the tiny Chimeatron was invented in the 1930s by Schulmerich Bells. The miniature keys activate solenoids, causing wood hammers to strike small, amplified bell rods. It stands 2 feet tall and has two manuals, a tube amplifier and speaker - all in one beautiful wood enclosure. Popular in both churches and theaters, later models came with separate one-manual keyboards and the chimes were installed remotely.\n\nJust like the Leslie switch that became an expected option on later Hammond Organs, the remote Chimeatron was a common add-on to electronic organs in the mid-1900s. Only a few playable Chimeatrons have survived. We recorded serial number 208 through its original tube amp and speaker with close and room mics. This Patch features the Chimes from the top manual.",
+  "deviceType": "INST",
+  "name": "Chimeatron - Chimes Belltower",
+  "types": [
+    ["Belltone Keyboards", "Chimeatron"]
+  ],
+  "uuid": "9b516346-8b09-444e-937a-28ea401dae58",
+  "vendor": "Spectrasonics"
+}

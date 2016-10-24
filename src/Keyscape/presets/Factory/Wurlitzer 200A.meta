@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Nick Manson",
+  "bankchain": ["Keyscape", "Wurlitzer 200A", ""],
+  "comment": "TIP - Try the Mix controls under MAIN.\n\nHISTORY - The iconic sound of the Wurlitzer Electric Piano has ruled the airwaves for over half a century. The \"Wurli\" was made from 1954 to the early 1980s. The 200A, updated from the 200, was released in 1974. The tone came from metal reeds - small blades that were struck by the hammers of a real piano action. Pickups routed the sound to a self-contained amplifier and speaker. It had a fixed-rate tremolo and an updated amp and speaker design. The reeds are tuned by adding drops of solder to the tip and filing it off until the pitch is right. \n\nAmong the many artists who have famously used the 200A are Supertramp, Elton John, Pink Floyd, The Archies (\"Sugar Sugar\"), Joni Mitchell, and Steely Dan. We recorded both the direct signal and the speakers.",
+  "deviceType": "INST",
+  "name": "Wurlitzer 200A",
+  "types": [
+    ["Electric Pianos", "Wurlitzer 200A"]
+  ],
+  "uuid": "040e0d61-1f3a-45d3-bf25-198373481737",
+  "vendor": "Spectrasonics"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Ignacio Longo",
+  "bankchain": ["Keyscape", "Clavichord", ""],
+  "comment": "TIP - Use Rel Noise under MAIN to attenuate the release noises.\n\nHISTORY - The Clavichord, developed in the 1400s, has been enjoying a renaissance in the past 30 years, due to a renewed interest in historical instruments. Originally a utility keyboard for practice and making music in the home, there was little music composed specifically for the Clavichord until the 18th century. We recorded this handcrafted instrument with stereo close mics and room mics.\n\nIts keyboard action is a simple, pivoting wooden key that causes a small brass blade (tangent) to strike the string, defining the pitch by shortening its length, similar to a guitar fret. The note will sustain only while the tangent remains on the string and is muted by a fixed felt damper when the key is released. It is the only acoustic keyboard instrument with mechanical aftertouch. By holding the keys and varying the pressure, the player can create vibrato.",
+  "deviceType": "INST",
+  "name": "Clavichord - Bright",
+  "types": [
+    ["Plucked Keyboards", "Clavichord"]
+  ],
+  "uuid": "dc8af99a-f350-479a-901d-be30e9b8f12e",
+  "vendor": "Spectrasonics"
+}

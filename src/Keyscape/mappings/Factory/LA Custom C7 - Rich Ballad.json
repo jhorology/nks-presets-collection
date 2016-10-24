@@ -1,0 +1,171 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "Color Shift",
+      "section": "TIMBRE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "On/Off",
+      "section": "REVERB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "On/Off",
+      "section": "LO-FI",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "Flutter",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "Vinyl Noise",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 7,
+      "name": "Rel Noise",
+      "section": "PERFORMANCE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "T",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Pedal Noise",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "Velo Sens",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "On/Off",
+      "section": "EQUALIZER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "Lo Freq",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Lo Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "Hi Freq",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 15,
+      "name": "Hi Gain",
+      "section": "EQUALIZER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Mode",
+      "section": "DE-NOISE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Mode",
+      "section": "COMPRESSION",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Threshold",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 20,
+      "name": "Voices",
+      "section": "Settings",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Down",
+      "section": "Bend",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Up",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Bias",
+      "section": "Velocity",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "Gain",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "X",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "Y",
+      "vflag": false
+    }]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Scott Frankfurt",
+  "bankchain": ["Keyscape", "Celeste", ""],
+  "comment": "TIP - Turn up the Room Mics under MAIN for a more distant sound.\n\nHISTORY - Invented in 1886, the Celeste was named for its celestial, heavenly sound. This instrument was built by the Simone Brothers in the late 1940s in New York. Simone models were known for a mellower sound than their European counterparts, and pickups were available as a factory option to increase the volume via an amp. We recorded with stereo close mics, room mics, and its original, vintage pickup.\n\nDescended from the Dulcitone, the Celeste design replaced the tuning forks with metal bars, much like a Glockenspiel. Each bar is suspended over its own wooden resonator, allowing more volume. Since the bars are struck with felted hammers, the sound is mellower than the Glock. Most notably used in Tchaikovsky's \"The Nutcracker,\" and featured in the children's show, \"Mr. Rogers' Neighborhood,\" you'll recognize it in a myriad of film scores and recordings by artists such as Art Tatum, the Beatles and Bjork.",
+  "deviceType": "INST",
+  "name": "Celeste - Scoring Stage",
+  "types": [
+    ["Belltone Keyboards", "Celeste"]
+  ],
+  "uuid": "b6c877f6-d8c6-48f7-a445-5acf3231076a",
+  "vendor": "Spectrasonics"
+}

@@ -17,13 +17,13 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'VStation'
   vendor: 'Novation'
   magic: 'NvS0'
-  
+
   #  local settings
   # -------------------------
   # Ableton Live 9.6.2
@@ -139,7 +139,7 @@ gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
 # export from .nksf to .adg ableton drum rack
 #
 # TODO ableton won't restore plugin state.
-# 
+#
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/VStation Factory/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"

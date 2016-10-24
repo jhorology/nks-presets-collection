@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing",
+  "bankchain": ["Keyscape", "MKS-20 Digital Piano", ""],
+  "comment": "TIP - Try different CHORUS settings.\n\nHISTORY - In the 1980s, after the DX-7 craze, keyboard players were still searching for the \"Holy Grail\" Rhodes sound in digital form. In 1986, Roland unveiled the 16-voice MKS-20, the best selling, rack-mounted version of their popular RD-1000. Both units used Roland's newly-developed \"Structured Adaptive Synthesis,\" an early type of re-synthesis that provided an extremely expressive response. \n\nEric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the 80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far-warmer sound than most keyboards of that time. The unit went on to be used on thousands of well-known productions and remains an enduring classic.",
+  "deviceType": "INST",
+  "name": "MKS-20 - E.Piano 1 Gospel",
+  "types": [
+    ["Vintage Digital Keys", "MKS-20 Digital Piano"]
+  ],
+  "uuid": "5a4cae87-6c38-498a-a3bf-23a79539da9e",
+  "vendor": "Spectrasonics"
+}

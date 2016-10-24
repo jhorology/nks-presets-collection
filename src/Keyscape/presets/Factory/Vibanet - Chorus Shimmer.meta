@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Jonathan Merrill",
+  "bankchain": ["Keyscape", "Vintage Vibe Vibanet", ""],
+  "comment": "TIP - Try adjusting the Chorus and Echo settings under EFFECTS.\n\nHISTORY - We are pleased to present the official virtual instrument version of the Vintage Vibe Vibanet. When Stevie Wonder plays \"Superstition\" today, it's probably not on a Clavinet - it's most likely on one of these! Vintage Vibe started making their own electro-mechanical instruments in 2011 and released the Vibanet in 2014. This high-quality, modern take on a classic sounds just like the original, but with a lot more \"zing!\"\n\nLike the Clavinet, the Vibanet is an electro-mechanical keyboard, with two shock-resistant, single coil pickups which are positioned above and below the strings. Its keys cause polymer-tipped hammers to strike the electric-guitar-like strings, pushing them abruptly into contact with a metal \"anvil\" which serves as a fret. Releasing the keys takes the strings off the fret and the sound is damped. The internal pre-amp, which is also available as a replacement for original Clavinets, is extremely quiet.",
+  "deviceType": "INST",
+  "name": "Vibanet - Chorus Shimmer",
+  "types": [
+    ["Clavinets", "Vintage Vibe Vibanet"]
+  ],
+  "uuid": "dda020d7-067d-474e-93fd-6e3fe65c686e",
+  "vendor": "Spectrasonics"
+}

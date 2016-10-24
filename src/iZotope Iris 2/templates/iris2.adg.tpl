@@ -260,14 +260,14 @@
 						<Events />
 					</ModulationAutomation>
 				</MacroControls.7>
-				<MacroDisplayNames.0 Value="Macro 1" />
-				<MacroDisplayNames.1 Value="Macro 2" />
-				<MacroDisplayNames.2 Value="Macro 3" />
-				<MacroDisplayNames.3 Value="Macro 4" />
-				<MacroDisplayNames.4 Value="Macro 5" />
-				<MacroDisplayNames.5 Value="Macro 6" />
-				<MacroDisplayNames.6 Value="Macro 7" />
-				<MacroDisplayNames.7 Value="Macro 8" />
+				<MacroDisplayNames.0 Value="<%= params[0].name %>" />
+				<MacroDisplayNames.1 Value="<%= params[1].name %>" />
+				<MacroDisplayNames.2 Value="<%= params[2].name %>" />
+				<MacroDisplayNames.3 Value="<%= params[3].name %>" />
+				<MacroDisplayNames.4 Value="<%= params[4].name %>" />
+				<MacroDisplayNames.5 Value="<%= params[5].name %>" />
+				<MacroDisplayNames.6 Value="<%= params[6].name %>" />
+				<MacroDisplayNames.7 Value="<%= params[7].name %>" />
 				<MacroDefaults.0 Value="-1" />
 				<MacroDefaults.1 Value="-1" />
 				<MacroDefaults.2 Value="-1" />

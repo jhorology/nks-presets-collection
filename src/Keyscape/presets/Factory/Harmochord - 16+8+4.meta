@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Scott Frankfurt",
+  "bankchain": ["Keyscape", "Harmochord", ""],
+  "comment": "TIP - Adjust the Octaves Amount under MAIN.\n\nHISTORY - Made in West Germany in the 1960s by the Koestler Company, the Harmochord Is an electrified harmonium. Unlike its cousins, the harmonium and the accordion, it uses a motorized blower in place of the bellows. The reeds are activated as you depress the keys and the sound emanates from two grilles on top of the instrument. We recorded with stereo close and room mics.\n\nThere were two models of this cool reed organ - the furniture cabinet (featured here) and the space-age-looking, 49-key portable model, meant to sit on a table and fold up into its own suitcase. The sound of the two was virtually identical. The Harmochord is popular with Indie bands and its value has increased rapidly with the revived interest in unusual vintage instruments.",
+  "deviceType": "INST",
+  "name": "Harmochord - 16+8+4",
+  "types": [
+    ["Wind Keyboards", "Harmochord"]
+  ],
+  "uuid": "2e66ae7f-25dd-46ed-a1ac-e1eab57899f8",
+  "vendor": "Spectrasonics"
+}

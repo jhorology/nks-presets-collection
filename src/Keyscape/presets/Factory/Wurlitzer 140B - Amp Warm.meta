@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Scott Frankfurt",
+  "bankchain": ["Keyscape", "Wurlitzer 140B", ""],
+  "comment": "TIP - Try different Amplifier settings under AMP.\n\nHISTORY - Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The \"Wurli\" was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.\n\nPickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 \"Angels and Demons at Play\" and Ray Charles had a huge hit in 1959 with \"What'd I Say,\" also using an early model.",
+  "deviceType": "INST",
+  "name": "Wurlitzer 140B - Amp Warm",
+  "types": [
+    ["Electric Pianos", "Wurlitzer 140B"]
+  ],
+  "uuid": "3a8fdb97-dff2-4941-93cc-383c115cbf5c",
+  "vendor": "Spectrasonics"
+}

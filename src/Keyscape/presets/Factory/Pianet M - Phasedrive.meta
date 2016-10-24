@@ -1,0 +1,12 @@
+{
+  "author": "Eric Persing; Jonathan Merrill; Ignacio Longo",
+  "bankchain": ["Keyscape", "Hohner Pianet M", ""],
+  "comment": "TIP - Under AMP, turn down Drive for less crunch.\n\nHISTORY - The Pianet M was manufactured by Hohner from 1977 to the early 1980s. Originally intended for home use, the Pianet was created by Hohner's visionary designer, Ernst Zacharias, also the inventor of the Clavinet. A series of different versions were in production from the early 1960s to the early 1980s. The Pianet M was essentially the Pianet T mechanism installed in a wooden console with speakers for home use. Unlike the Pianet T, the M had a built-in effects unit, called the \"Modulator.\"\n\nThe Pianet employs foam and leather pads which stick to the reeds. Depressing a key causes the sticky pad to pull on the reed, bending it upward - when it lets go, the reed vibrates. The Pianet M used a silicone activation pad, a variety of metal composition for the reeds, and passive pickups. The Pianet M is enjoying a resurgence in popularity due to the availability of replacement parts.",
+  "deviceType": "INST",
+  "name": "Pianet M - Phasedrive",
+  "types": [
+    ["Electric Pianos", "Hohner Pianet M"]
+  ],
+  "uuid": "f9b6e2a5-ffc4-41f5-a4d8-972fb308df8c",
+  "vendor": "Spectrasonics"
+}
