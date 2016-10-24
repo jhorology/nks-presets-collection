@@ -239,9 +239,13 @@ gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/Factory/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
   , $.abletonRackTemplate
+  , (file, meta) ->
+    # edit file path
+    dirname = path.dirname file.path
+    file.path = path.join dirname, meta.bankchain[1], file.relative
 
 
 # functions
