@@ -33,6 +33,8 @@ $ = Object.assign {}, (require '../config'),
   mappingTemplateFile: "src/Alchemy/mappings/default.json.tpl"
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Alchemy/templates/Alchemy.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Alchemy/templates/Alchemy.bwpreset'
   query_items: '''
 select
   t0.ITEM_NAME as name
@@ -234,3 +236,9 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
   , $.abletonRackTemplate
+
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate

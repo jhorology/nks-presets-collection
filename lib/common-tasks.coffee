@@ -16,7 +16,9 @@ builder     = require './riff-builder.coffee'
 msgpack     = require 'msgpack-lite'
 beautify    = require 'js-beautify'
 riffReader  = require 'riff-reader'
-
+yazl        = require 'yazl'
+bl          = require 'bl'
+bitwigRewriteMeta = require 'gulp-bitwig-rewrite-meta'
 util        = require './util'
 $           = require '../config'
 
@@ -88,7 +90,7 @@ module.exports =
         ].join '&&'
       , $.execOpts
       .pipe exec.reporter $.execRepotOpts
-      
+
   # extract PCHK chunk from .bwpreset (bitwig preset) file
   extract_raw_presets_from_bw: (srcs, dest) ->
     gulp.src srcs
@@ -197,7 +199,7 @@ module.exports =
     gulp.src ["dist/#{dir}/**/*.{json,meta,png,nksf}"]
       .pipe zip "#{dir}.zip"
       .pipe gulp.dest $.release
-      
+
   #
   # export from nksf to adg(ableton rack)
   #  @srcs      String or Array of String - .nksf glob pattern
@@ -256,6 +258,54 @@ module.exports =
         extname: '.adg'
       .pipe gulp.dest dst
 
+  #
+  # export from nksf to adg(ableton rack)
+  #  @srcs      String or Array of String - .nksf glob pattern
+  #  @dst       String - destination
+  #  @template  String - template file path
+  #  @cb1       function(file) optional - do something with .nksf file and file.data
+  #  @cb2       function(nks_metadata) optional - map to bitwig metadata
+  # --------------------------------
+  export_bwpreset: (srcs, dst, template, cb1, cb2)  ->
+    gulp.src srcs, read: on
+      .pipe tap (file) ->
+        # parse all chunks
+        file.data = {}
+        (riffReader file.contents, 'NIKS').readSync (id, chunk) ->
+          switch id
+            when 'NISI'
+              file.data.meta = msgpack.decode chunk.slice 4
+            when 'NICA'
+              file.data.ni8 = (msgpack.decode chunk.slice 4).ni8
+            when 'PLID'
+              file.data.fxID = (msgpack.decode chunk.slice 4)['VST.magic']
+            when 'PCHK'
+              file.data.pluginState = chunk.slice 4
+        , ['NISI', 'NICA', 'PLID', 'PCHK']
+        # callback
+        cb1 file if _.isFunction cb1
+        # read template file
+        bwpreset = fs.readFileSync template
+        # ziped fxb offset
+        offset = parseInt (bwpreset.toString 'ascii', 0x00000024, 0x00000024 + 8), 16
+        # remove zipped fxb part
+        bwpreset = bwpreset.slice 0, offset
+        file.contents = _bitwig_replace_fxb_filename bwpreset, file.data.meta.uuid
+      .pipe data (file, done) ->
+        # append zipped fxb to file contents
+        _build_bitwig_zipped_fxb file.data.pluginState, file.data.fxID, file.data.meta.uuid, (err, zippedFxb) ->
+          throw new Exception err if err
+          file.contents = Buffer.concat [file.contents, zippedFxb]
+          done undefined, file.data
+      .pipe bitwigRewriteMeta (file) ->
+        if _.isFunction cb2
+          cb2 file.data.meta
+        else
+          _bitwig_default_meta_map file.data.meta
+      .pipe rename
+        extname: '.bwpreset'
+      .pipe gulp.dest dst
+
 #
 # routines
 # --------------------------------
@@ -289,3 +339,104 @@ _serialize = (json) ->
   ver = new Buffer 4
   ver.writeUInt32LE $.chunkVer
   Buffer.concat [ver, msgpack.encode json]
+
+# replace .fxb filename in
+#   @buffer bwpreset template
+#   @uuid   uuid for .fxb filename
+_bitwig_replace_fxb_filename = (buffer, uuid) ->
+  assert.ok (uuid.match $.uuidRegexp), "invalid uuid pattern. uuid:#{uuid}"
+  # convert uuid string -> hex coded binary
+  hexUuid = (new Buffer uuid.toLowerCase(), 'ascii').toString 'hex'
+  # convert template buffer -> hex coded string
+  hex = buffer.toString 'hex'
+  # replace fxb filename
+  hex = hex.replace $.Bitwig.fxbHexRegexp, "\$1#{hexUuid}\$2"
+  # revert to binary buffer
+  new Buffer hex, 'hex'
+
+# build bitwig zipped fxb
+#  @pluginState buffer
+#  @fxID       Vst magic
+#  @uuid
+#  @done       callback function(err, buffer) to support async call
+#    @buffer   zipped fxb
+# //--------------------------------------------------------------------
+# // For Bank (.fxb) with chunk (magic = 'FBCh')
+# //--------------------------------------------------------------------
+# struct fxChunkBank
+# {
+# 	long chunkMagic;		// 'CcnK'
+# 	long byteSize;			// of this chunk, excl. magic + byteSize
+#
+# 	long fxMagic;			// 'FBCh'
+# 	long version;
+# 	long fxID;				// FX unique ID
+# 	long fxVersion;
+#
+# 	long numPrograms;
+# 	char future[128];
+#
+# 	long chunkSize;
+# 	char chunk[8];			// variable
+# }
+_build_bitwig_zipped_fxb = (pluginState, fxID, uuid, done) ->
+  fxb = Buffer.alloc 160, 0
+  offset = 0
+  # fxMagic
+  fxb.write 'CcnK', offset
+  offset += 4
+  # byteSize
+  fxb.writeUInt32BE (154 + pluginState.length), offset
+  offset += 4
+  # fxMagic
+  fxb.write 'FBCh', offset
+  offset += 4
+  # version
+  fxb.writeUInt32BE 2, offset
+  offset += 4
+  # fxID
+  fxb.writeUInt32BE fxID, offset
+  offset += 4
+  # fxVersion
+  fxb.writeUInt32BE 1, offset
+  offset += 4
+  # numPrograms
+  fxb.writeUInt32BE 1, offset
+  offset += 4
+  # future
+  offset += 128
+  # chunkSize
+  fxb.writeUInt32BE pluginState.length, offset
+  # concat header + plugin state
+  fxb = Buffer.concat [fxb, pluginState]
+  # compress zip
+  zip = new yazl.ZipFile()
+  zip.addBuffer fxb, "plugin-states/#{uuid}.fxb"
+
+  # async function
+  zip.end (finalSize) ->
+     zip.outputStream.pipe bl done
+    
+    
+# default metadata map
+#   map nks metadat -> bitwig metadata
+#   @nks  metadata of .nksf file
+_bitwig_default_meta_map = (nks) ->
+  name: nks.name
+  comment: nks.comment
+  creator: nks.author
+  preset_category: switch
+    when nks.types and nks.types[0] and nks.types[0][0]
+      nks.types[0][0]
+  tags: switch
+    when nks.modes and nks.modes[0]
+      # bitwig doesn't allow spaces
+      nks.modes.map (mode) -> mode.replace ' ', '_'
+    when nks.types and (nks.types.find (type) -> type.length > 1)
+      # bitwig doesn't allow spaces
+      tags = nks.types.map (type) -> if type.length > 1 then type[1].replace ' ', '_'
+        .filter (tag) -> tag
+      _.uniq tags
+    when nks.bankchain[1]
+      # bitwig doesn't allow spaces
+      nks.bankchain[1].replace ' ', '_'

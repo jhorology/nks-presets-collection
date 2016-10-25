@@ -62,8 +62,15 @@ gulp.task 'deploy', (("#{prefix}-deploy" for prefix of dir).filter (task) -> tas
 gulp.task 'release', (("#{prefix}-release" for prefix of dir).filter (task) -> task in allTasks)
 
 # export-adg
+# export from .nksf to ableton rack (.adg)
 #  - execute all *-export-adg tasks
 # --------------------------------
 gulp.task 'export-adg', (("#{prefix}-export-adg" for prefix of dir).filter (task) -> task in allTasks)
+
+# export-bwpreset
+# export from .nksf to bitwig preset (.bwpreset)
+#  - execute all *-export-adg tasks
+# --------------------------------
+gulp.task 'export-bwpreset', (("#{prefix}-export-bwpreset" for prefix of dir).filter (task) -> task in allTasks)
 
 

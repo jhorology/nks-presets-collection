@@ -22,7 +22,7 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'Keyscape'
@@ -34,6 +34,8 @@ $ = Object.assign {}, (require '../config'),
 
   # Ableton Live 9.7 Instrument Rack
   abletonRackTemplate: 'src/Keyscape/templates/Keyscape.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Keyscape/templates/Keyscape.bwpreset'
   # common host map parameters
   commonParams: [
     { id: 'poly', name: 'Voices', section: 'Settings'}
@@ -89,13 +91,15 @@ gulp.task "#{$.prefix}-generate-mappings", ->
         #  - remaning slots is 1 or 2 and can't include entire next section params
         #  - first commonParams
         if (page.length is 8 or
-            (item.section isnt prevSection and page.length >= 6 and ((list.filter (i) -> i.section is item.section).length + page.length) > 8) or
+            (item.section isnt prevSection and page.length >= 6 and
+             ((list.filter (i) -> i.section is item.section).length + page.length) > 8) or
             (item.section isnt prevSection and item.section is 'Settings'))
           # fill empty slot
           while page.length < 8
             page.push autoname: false, vflag: false
           pages.push page
           page = []
+
         page.push
           autoname: false
           id: index
@@ -103,10 +107,11 @@ gulp.task "#{$.prefix}-generate-mappings", ->
           section: item.section if page.length is 0 or item.section isnt prevSection
           vflag: false
         prevSection = item.section
+      # fill empty slot
       if page.length
-          while page.length < 8
-            page.push autoname: false, vflag: false
-          pages.push page
+        while page.length < 8
+          page.push autoname: false, vflag: false
+        pages.push page
       file.contents = new Buffer util.beautify {ni8: pages}, on
     .pipe rename
       extname: '.json'
@@ -120,7 +125,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       # keyscape plugin state is xml
       #   - first 4 bytes = PCHK version
       #   - last 1 byte = null(0x00) terminater
-      buf = 
+      buf =
       # read as DOM
       xml = util.xmlString (file.contents.slice 4, file.contents.length - 1).toString()
       query = '''
@@ -247,6 +252,12 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
     dirname = path.dirname file.path
     file.path = path.join dirname, meta.bankchain[1], file.relative
 
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate
+
 
 # functions
 # --------------------------------
@@ -275,7 +286,6 @@ _createControlList = (xml) ->
     kind = parseInt node.getAttribute 'Kind'
     unless kind in [4,5,6,7,11,15,21]
       throw new Exception "unknown control kind. kind: #{kind}"
-    continue if kind is 17
     posY = (parseInt node.getAttribute 'PosY')
     list.push
       id: node.tagName.replace /Custom([0-9]+)$/, 'Custom_\$1'
@@ -287,6 +297,7 @@ _createControlList = (xml) ->
         when posY < 420 then 0
         when posY < 500 then 1
         else 2
+  # sort order by page, col, row
   list.sort (a, b) ->
     (a.page - b.page) or
     (a.col - b.col) or

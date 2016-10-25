@@ -13,7 +13,8 @@ module.exports =
     err: true              # default = true, false means don't write err
     stderr: true           # default = true, false means don't write stderr
     stdout: true           # default = true, false means don't write stdout
-
+  uuidRegexp: /^[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}$/
+  
   #
   # Native Instruments
   #-------------------------------------------
@@ -33,3 +34,10 @@ module.exports =
   #-------------------------------------------
   Bitwig:
     presets: "#{process.env.HOME}/Documents/Bitwig Studio/Library/Presets"
+    # regexp for finding fxb filename
+    #   00000be5 indetifier
+    #   08       type string
+    #   00000028 size
+    #   <uuid>
+    #   2e667862  '.fxb'
+    fxbHexRegexp: /(00000be50800000028)\w{16}2d\w{8}2d\w{8}2d\w{8}2d\w{24}(2e667862)/
