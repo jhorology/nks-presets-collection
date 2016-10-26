@@ -37,6 +37,8 @@ $ = Object.assign {}, (require '../config'),
 
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/VacuumPro/templates/VacuumPro.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/VacuumPro/templates/VacuumPro.bwpreset'
 
 # preparing tasks
 # --------------------------------
@@ -262,3 +264,9 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
   , $.abletonRackTemplate
+
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate

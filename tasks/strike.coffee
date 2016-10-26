@@ -27,8 +27,12 @@ $ = Object.assign {}, (require '../config'),
   
   #  local settings
   # -------------------------
+
+  # Ableton Live 9.6.2
   abletonInstrumentRackTemplate: 'src/Strike/templates/Strike-Instrument.adg.tpl'
   abletonDrumRackTemplate: 'src/Strike/templates/Strike-Drum.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Strike/templates/Strike.bwpreset'
 
 
 # preparing tasks
@@ -72,7 +76,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       # meta
       file.contents = new Buffer util.beautify
         vendor: $.vendor
-        uuid: _uuid file
+        uuid: util.uuid file
         types: for t in folder.split '+'
           ['Drums', t]
         modes: ['Sample Based']
@@ -92,7 +96,7 @@ gulp.task "#{$.prefix}-generate-mappings", ->
   template = _.template util.readFile "src/#{$.dir}/mappings/default.json.tpl"
   presets = "src/#{$.dir}/presets"
   gulp.src ["#{presets}/**/*.pchk"], read: on
-    .pipe dtap (file) ->
+    .pipe tap (file) ->
       # read channel name from plugin-state
       channels = for i in [0..12]
         address = 0x1ec2 + i * 32
@@ -185,3 +189,9 @@ gulp.task "#{$.prefix}-export-drum-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.drumRacks}/#{$.dir}"
   , $.abletonDrumRackTemplate
+
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate

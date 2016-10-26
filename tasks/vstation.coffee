@@ -26,8 +26,11 @@ $ = Object.assign {}, (require '../config'),
 
   #  local settings
   # -------------------------
+
   # Ableton Live 9.6.2
   abletonInstrumentRackTemplate: 'src/VStation/templates/VStation.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/VStation/templates/VStation.bwpreset'
 
 # preparing tasks
 # --------------------------------
@@ -149,3 +152,12 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
     dirname = path.dirname file.path
     basename = path.basename file.path
     file.path = path.join dirname, meta.types[0][0], file.relative
+
+# export from .nksf to .bwpreset bitwig studio preset
+# 
+# TODO bitwig won't restore plugin state.
+# 
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/V-Station"
+  , $.bwpresetTemplate

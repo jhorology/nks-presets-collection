@@ -33,6 +33,8 @@ $ = Object.assign {}, (require '../config'),
 
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Structure/templates/Structure.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Structure/templates/Structure.bwpreset'
 
 
 # preparing tasks
@@ -84,9 +86,9 @@ gulp.task "#{$.prefix}-generate-meta", ->
       basename = path.basename file.path, '.pchk'
       folder = path.relative presets, path.dirname file.path
       patchFile = path.join $.libs, folder, "#{basename}.patch"
-      patch = new xmldom().parseFromString util.readFile patchFile
+      patch = util.xmlString util.readFile patchFile
       metaxml = (xpath.select "/H3Patch/MetaData/text()", patch).toString().replace /&lt;/mg, '<'
-      meta = new xmldom().parseFromString metaxml
+      meta = util.xmlString metaxml
       file.contents = new Buffer util.beautify
         vendor: $.vendor
         uuid: util.uuid file
@@ -96,7 +98,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         deviceType: 'INST'
         comment: (xpath.select "/H3Patch/Comment/text()", patch).toString().trim()
         bankchain: ['Structure', 'Structure Factory', '']
-        author: (xpath.select "/DBValueMap/manufacturer/text()", meta).toString().trim().split ': '
+        author: (xpath.select "/DBValueMap/manufacturer/text()", meta).toString().trim()
       , on    # print
     .pipe rename
       extname: '.meta'
@@ -169,3 +171,9 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
   , $.abletonRackTemplate
+
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate
