@@ -1,7 +1,7 @@
 # nks-presets-collection
 NKS(Native Kontrol Standard) presets collection
 
-Fully assembled NKSF files can be downloaded [here](https://www.dropbox.com/sh/h4tvgrq8avmhdoj/AAB_ABlKwXsCYFwBW_k5Fc7-a?dl=0).
+Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com/sh/h4tvgrq8avmhdoj/AAB_ABlKwXsCYFwBW_k5Fc7-a?dl=0).
 
 ## Status
 
