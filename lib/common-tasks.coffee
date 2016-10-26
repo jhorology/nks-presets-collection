@@ -282,6 +282,17 @@ module.exports =
             when 'PCHK'
               file.data.pluginState = chunk.slice 4
         , ['NISI', 'NICA', 'PLID', 'PCHK']
+        # some NKS ready presets uses "UUID' insted of 'uuid' for propertyName
+        # some NKS ready presets doesn't have uuid
+        unless file.data.meta.uuid
+          file.data.meta.uuid = file.data.meta.UUID
+          unless file.data.meta.uuid
+            console.warn "WARN: preset doesn't have uuidi. file: #{file.path}"
+            # create new uuid
+            file.data.meta.uuid = uuid.v4() 
+        unless file.data.meta.uuid.match $.uuidRegexp
+          console.warn "WARN: invalid uuid pattern. uuid:#{file.data.meta.uuid} file: #{file.path}"
+          file.data.meta.uuid = uuid.v4() 
         # callback
         cb1 file if _.isFunction cb1
         # read template file
@@ -342,11 +353,10 @@ _serialize = (json) ->
 
 # replace .fxb filename in
 #   @buffer bwpreset template
-#   @uuid   uuid for .fxb filename
-_bitwig_replace_fxb_filename = (buffer, uuid) ->
-  assert.ok (uuid.match $.uuidRegexp), "invalid uuid pattern. uuid:#{uuid}"
+#   @uid   uuid for .fxb filename
+_bitwig_replace_fxb_filename = (buffer, uid) ->
   # convert uuid string -> hex coded binary
-  hexUuid = (new Buffer uuid.toLowerCase(), 'ascii').toString 'hex'
+  hexUuid = (new Buffer uid.toLowerCase(), 'ascii').toString 'hex'
   # convert template buffer -> hex coded string
   hex = buffer.toString 'hex'
   # replace fxb filename
@@ -357,7 +367,7 @@ _bitwig_replace_fxb_filename = (buffer, uuid) ->
 # build bitwig zipped fxb
 #  @pluginState buffer
 #  @fxID       Vst magic
-#  @uuid
+#  @uid
 #  @done       callback function(err, buffer) to support async call
 #    @buffer   zipped fxb
 # //--------------------------------------------------------------------
@@ -379,7 +389,7 @@ _bitwig_replace_fxb_filename = (buffer, uuid) ->
 # 	long chunkSize;
 # 	char chunk[8];			// variable
 # }
-_build_bitwig_zipped_fxb = (pluginState, fxID, uuid, done) ->
+_build_bitwig_zipped_fxb = (pluginState, fxID, uid, done) ->
   fxb = Buffer.alloc 160, 0
   offset = 0
   # fxMagic
@@ -411,7 +421,7 @@ _build_bitwig_zipped_fxb = (pluginState, fxID, uuid, done) ->
   fxb = Buffer.concat [fxb, pluginState]
   # compress zip
   zip = new yazl.ZipFile()
-  zip.addBuffer fxb, "plugin-states/#{uuid}.fxb"
+  zip.addBuffer fxb, "plugin-states/#{uid}.fxb"
 
   # async function
   zip.end (finalSize) ->
@@ -422,11 +432,12 @@ _build_bitwig_zipped_fxb = (pluginState, fxID, uuid, done) ->
 #   map nks metadat -> bitwig metadata
 #   @nks  metadata of .nksf file
 _bitwig_default_meta_map = (nks) ->
+  # util.beautify nks, on
   bitwig =
     name: nks.name
     comment: nks.comment
     creator: nks.author
-    preset_category: nks.types[0][0]
+    preset_category: if nks.types and nks.types.length then nks.types[0][0]
   tags = []
   if nks.modes and nks.modes.length
     tags = tags.concat nks.modes

@@ -24,6 +24,8 @@ $ = Object.assign {}, (require '../config'),
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Mini V2/templates/Mini V2.adg.tpl'
   nksPresets: '/Library/Arturia/Mini V2/Third Party/Native Instruments/presets'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Mini V2/templates/Mini V2.bwpreset'
 
 # preparing tasks
 # --------------------------------
@@ -53,3 +55,13 @@ gulp.task "#{$.prefix}-export-adg", ->
     dirname = path.dirname file.path
     basename = path.basename file.path
     file.path = path.join dirname, meta.types[0][1], file.relative
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-bwpreset", ->
+  task.export_bwpreset "#{$.nksPresets}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate
+  , (file) ->
+    # edit file path
+    dirname = path.dirname file.path
+    file.path = path.join dirname, file.data.meta.types[0][0], file.relative

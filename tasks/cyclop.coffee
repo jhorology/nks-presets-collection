@@ -29,6 +29,8 @@ $ = Object.assign {}, (require '../config'),
   # -------------------------
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Cyclop/templates/Cyclop.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Cyclop/templates/Cyclop.bwpreset'
   nksPresets: '/Library/Application Support/Sugar Bytes/Cyclop/NKS/Presets'
 
 # preparing tasks
@@ -70,3 +72,9 @@ gulp.task "#{$.prefix}-export-adg", ->
   # , "#{$.Ableton.racks}/#{$.dir}"
   # , $.abletonRackTemplate
 
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ->
+  # Discontinued
+  # task.export_bwpreset "#{$.nksPresets}/**/*.nksf"
+  # , "#{$.Bitwig.presets}/#{$.dir}"
+  # , $.bwpresetTemplate
