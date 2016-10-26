@@ -11,7 +11,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |----------|:---------:|:------:|:--:|:-------:|:----:|:---------:|
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 |[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - |7| - | - |
 |[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -27,15 +27,15 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:| - | - |
-|[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:||
-|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-|[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
+|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | - | 7 | - |
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
-|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-|[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-|[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:||
+|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
 
  1. Plugin name(root of bankchain) or vendor name were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.
