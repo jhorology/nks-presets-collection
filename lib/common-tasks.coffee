@@ -422,21 +422,22 @@ _build_bitwig_zipped_fxb = (pluginState, fxID, uuid, done) ->
 #   map nks metadat -> bitwig metadata
 #   @nks  metadata of .nksf file
 _bitwig_default_meta_map = (nks) ->
-  name: nks.name
-  comment: nks.comment
-  creator: nks.author
-  preset_category: switch
-    when nks.types and nks.types[0] and nks.types[0][0]
-      nks.types[0][0]
-  tags: switch
-    when nks.modes and nks.modes[0]
-      # bitwig doesn't allow spaces
-      nks.modes.map (mode) -> mode.replace ' ', '_'
-    when nks.types and (nks.types.find (type) -> type.length > 1)
-      # bitwig doesn't allow spaces
-      tags = nks.types.map (type) -> if type.length > 1 then type[1].replace ' ', '_'
-        .filter (tag) -> tag
-      _.uniq tags
-    when nks.bankchain[1]
-      # bitwig doesn't allow spaces
-      nks.bankchain[1].replace ' ', '_'
+  bitwig =
+    name: nks.name
+    comment: nks.comment
+    creator: nks.author
+    preset_category: nks.types[0][0]
+  tags = []
+  if nks.modes and nks.modes.length
+    tags = tags.concat nks.modes
+  if nks.types and nks.types.length
+    for t in nks.types
+      tags.push t[1] if t.length > 1
+  tags.push nks.bankchain[1] if nks.bankchain and nks.bankchain.length > 1
+  bitwig.tags = _.uniq ((tags.filter (t) -> t).map (t) -> (t.replace /\s/g, '_').toLowerCase())   
+  # delete undefined properties
+  for key in Object.keys(bitwig)
+    unless bitwig[key]
+      delete bitwig[key]
+  # return metadat for rewriting
+  bitwig

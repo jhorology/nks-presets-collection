@@ -34,6 +34,8 @@ $ = Object.assign {}, (require '../config'),
   multiMappingTemplateFile: 'src/Analog Lab/mappings/default-multi.json.tpl'
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Analog Lab/templates/Analog Lab.adg.tpl'
+  # Bitwig Studio 1.3.14 RC1 preset file
+  bwpresetTemplate: 'src/Analog Lab/templates/Analog Lab.bwpreset'
   # SQL query for sound metadata
   query_sounds: '''
 select
@@ -203,16 +205,20 @@ gulp.task "#{$.prefix}-generate-meta", ->
             return done 'row unfound in multis'
           if rows.length > 1
             return done "row duplicated in multis. rows.length:#{rows.length}"
-          console.info JSON.stringify rows[0]
+          unless rows[0].MusicGenreName
+            return done "undefined MusicGenreName. soundname: #{soundname}"
+          # unless rows[0].SoundDesigner
+          #   return done "undefined SoundDesigner. soundname: #{soundname}"
           done undefined,
             vendor: $.vendor
+            uuid: undefined
             types: [['Multi']]
             name: soundname
             modes: [rows[0].MusicGenreName]
             deviceType: 'INST'
             comment: ''
             bankchain: [$.dir, 'MULTI', '']
-            author: rows[0].SoundDesigner?.trim()
+            author: rows[0].SoundDesigner?.trim() ? ''
       else
         # Instruments presets
 
@@ -228,19 +234,25 @@ gulp.task "#{$.prefix}-generate-meta", ->
           done err if err
           unless rows and rows.length
             return done 'row unfound in sounds'
+          modes = (row.CharName for row in rows).filter (i) -> i
+          unless modes
+            return done "undefined CharName. soundname: #{soundname}"
+          # unless rows[0].SoundDesigner
+          #   return done "undefined SoundDesigner. soundname: #{soundname}"
           done undefined,
             vendor: $.vendor
+            uuid: undefined
             types: [[rows[0].TypeName?.trim()]]
             name: soundname
-            modes: _.uniq (row.CharName for row in rows)
+            modes: _.uniq modes
             deviceType: 'INST'
             comment: ''
             bankchain: [$.dir, instname, '']
-            author: rows[0].SoundDesigner?.trim()
+            author: rows[0].SoundDesigner?.trim() ? ''
 
     .pipe tap (file) ->
       file.data.uuid = util.uuid file
-      json = beautify (JSON.stringify file.data), indent_size: $.json_indent
+      json = util.beautify (JSON.stringify file.data), indent_size: $.json_indent
       # console.info json
       file.contents = new Buffer util.beautify file.data
     .pipe rename
@@ -406,3 +418,9 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
   task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Ableton.racks}/#{$.dir}"
   , $.abletonRackTemplate
+
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate

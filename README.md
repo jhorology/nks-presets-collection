@@ -8,7 +8,7 @@ NKS(Native Kontrol Standard) presets collection
 |          |raw presets|mappings|meta|resources|.adg 6|.bwpreset 6|download|last update|
 |----------|:---------:|:------:|:--:|:-------:|:----:|:---------:|:------:|:---------:|
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|Nov 21, 2015|
-|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Nov 9, 2015|
+|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Oct 26, 2016|
 |[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/wi5jo8x4lyyegyt/Analog%20Lab%202.zip?dl=0)3|Aug 11, 2016|
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||[:arrow_down:](https://www.dropbox.com/s/h8bvzo4ux47caxc/BassStationStereo.zip?dl=0)|Sep 12, 2016|
 |[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - |7| - | - |
