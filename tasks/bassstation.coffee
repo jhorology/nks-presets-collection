@@ -18,14 +18,14 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'BassStationStereo'
   vendor: 'Novation'
   # magic: 'NvB2'        # BassStation - not work on KK
   magic: 'Nvb2'        # BassStationStreo
-  
+
   #  local settings
   # -------------------------
 
@@ -157,7 +157,7 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
     file.path = path.join dirname, meta.types[0][0], file.relative
 
 # export from .nksf to .bwpreset bitwig studio preset
-# 
+#
 # TODO bitwig studio won't restore plugin state.
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
   task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"

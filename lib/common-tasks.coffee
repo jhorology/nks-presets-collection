@@ -289,10 +289,10 @@ module.exports =
           unless file.data.meta.uuid
             console.warn "WARN: preset doesn't have uuidi. file: #{file.path}"
             # create new uuid
-            file.data.meta.uuid = uuid.v4() 
+            file.data.meta.uuid = uuid.v4()
         unless file.data.meta.uuid.match $.uuidRegexp
           console.warn "WARN: invalid uuid pattern. uuid:#{file.data.meta.uuid} file: #{file.path}"
-          file.data.meta.uuid = uuid.v4() 
+          file.data.meta.uuid = uuid.v4()
         # callback
         cb1 file if _.isFunction cb1
         # read template file
@@ -424,10 +424,9 @@ _build_bitwig_zipped_fxb = (pluginState, fxID, uid, done) ->
   zip.addBuffer fxb, "plugin-states/#{uid}.fxb"
 
   # async function
-  zip.end (finalSize) ->
-     zip.outputStream.pipe bl done
-    
-    
+  zip.end (finalSize) -> zip.outputStream.pipe bl done
+
+
 # default metadata map
 #   map nks metadat -> bitwig metadata
 #   @nks  metadata of .nksf file
@@ -445,7 +444,7 @@ _bitwig_default_meta_map = (nks) ->
     for t in nks.types
       tags.push t[1] if t.length > 1
   tags.push nks.bankchain[1] if nks.bankchain and nks.bankchain.length > 1
-  bitwig.tags = _.uniq ((tags.filter (t) -> t).map (t) -> (t.replace /\s/g, '_').toLowerCase())   
+  bitwig.tags = _.uniq ((tags.filter (t) -> t).map (t) -> (t.replace /\s/g, '_').toLowerCase())
   # delete undefined properties
   for key in Object.keys(bitwig)
     unless bitwig[key]
