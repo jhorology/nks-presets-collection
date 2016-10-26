@@ -1,38 +1,40 @@
 # nks-presets-collection
 NKS(Native Kontrol Standard) presets collection
 
+Fully assembled NKSF files can be downloaded [here](https://www.dropbox.com/sh/h4tvgrq8avmhdoj/AAB_ABlKwXsCYFwBW_k5Fc7-a?dl=0).
+
 ## Status
 
 (28167-5331)/28551 (80%)
 
-|          |raw presets|mappings|meta|resources|.adg 6|.bwpreset 6|download|last update|
-|----------|:---------:|:------:|:--:|:-------:|:----:|:---------:|:------:|:---------:|
-|[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/2u6547fsvl7yrz2/Alchemy.zip?dl=0)|Nov 21, 2015|
-|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/82ew1f0vc603bhb/Analog%20Lab.zip?dl=0)|Oct 26, 2016|
-|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/wi5jo8x4lyyegyt/Analog%20Lab%202.zip?dl=0)3|Aug 11, 2016|
-|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||[:arrow_down:](https://www.dropbox.com/s/h8bvzo4ux47caxc/BassStationStereo.zip?dl=0)|Sep 12, 2016|
+|          |raw presets|mappings|meta|resources|.adg 6|.bwpreset 6|
+|----------|:---------:|:------:|:--:|:-------:|:----:|:---------:|
+|[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 |[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - |7| - | - |
-|[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/g3j4711fi5342q2/DB-33.zip?dl=0)|Aug 29, 2016|
-|[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||[:arrow_down:](https://www.dropbox.com/s/p6cainscjzgxelm/EightyEight%202_64.zip?dl=0)|Aug 29, 2016|
-|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/ofmomoqk3un1irs/Hive.zip?dl=0)|Aug 29, 2016|
-|[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/vodyqkcdwiedzx2/Hybrid.zip?dl=0)|Sep 14, 2016|
-|[iris 2](https://www.izotope.com/en/products/create-and-design/iris.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/vi1dntow1437xf3/iZotope%20Iris%202.zip?dl=0)|Oct 22, 2016|
-|[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/5a486tgstdqo8kh/Loom.zip?dl=0)|Aug 29, 2016|
-|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[Big](https://www.dropbox.com/s/w01b7fk27ndfex0/LuSH-101%20%28Big%29.zip?dl=0)/[Small](https://www.dropbox.com/s/j4dl98qwzssl7gs/LuSH-101%20%28Small%29.zip?dl=0) 5|Sep 10, 2016|
-|[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
-|[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/z1pk7gdwwvambav/MiniGrand.zip?dl=0)|Aug 29, 2016|
+|[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+|[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[iris 2](https://www.izotope.com/en/products/create-and-design/iris.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
+|[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
+|[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
-|[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|[:arrow_down:](https://www.dropbox.com/s/02jll4mjpl2iwjw/Serum.zip?dl=0)|Nov 4, 2015|
-|[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:| - | - |[:arrow_down:](https://www.dropbox.com/s/yqm4bqbmj1n88cs/Spire.zip?dl=0)|Nov 16, 2015|
-|[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/eq371tcj8rdjhhb/Spire-1.1.zip?dl=0)|Sep 8, 2016|
-|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/zx73q4b5mgyw3c0/Strike.zip?dl=0)|Aug 30, 2016|
-|[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/wpz2z8pbwv2r714/Structure.zip?dl=0)|Aug 29, 2016|
-|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/j02hreqw1ykg3ac/theRiser.zip?dl=0)|Aug 29, 2016|
+|[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:| - | - |
+|[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:||
+|[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | - | 7 | - |
-|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||[:arrow_down:](https://www.dropbox.com/s/o2m8jyarrhp0olg/VStation.zip?dl=0)|Sep 12, 2016|
-|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/k9itodzfl6kn0ij/VacuumPro.zip?dl=0)|Aug 29, 2016|
-|[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/743wwd9c4ai936x/Velvet.zip?dl=0)|Aug 29, 2016|
-|[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:||[:arrow_down:](https://www.dropbox.com/s/gc4xpz9mo0adngu/Xpand%212.zip?dl=0)|Aug 29, 2016|
+|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+|[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+|[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:||
 
  1. Plugin name(root of bankchain) or vendor name were changed from original name, beacuse resource folder name can not contain some characters.
  2. Contributed from Kymeia@NI Forum.
