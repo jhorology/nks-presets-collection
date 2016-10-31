@@ -42,7 +42,7 @@ module.exports = [
   {section: 'MAIN FILTER',   id: 'filterEnvAmount1',    name: 'DEPTH'}
 
   # SUB AMP
-  {section: 'SUB AMP',       id: 'ampVelAmount2',       name: 'VELOCITY'}
+  {section: 'SUB AMP',       id: 'ampVelAmount2',       name: 'VELOCITY', newPage: on}
   {section: 'SUB AMP',       id: 'ampVelToAttack2',     name: 'VEL>ATK'}
   {section: 'SUB AMP',       id: 'ampAttack2',          name: 'A'}
   {section: 'SUB AMP',       id: 'ampDecay2',           name: 'D'}
@@ -64,14 +64,14 @@ module.exports = [
   {section: 'SUB FILTER',    id: 'filterEnvAmount2',    name: 'DEPTH'}
 
   # MAIN PITCH
-  {section: 'MAIN PITCH',    id: 'layerMode1',          name: 'MONO'}
+  {section: 'MAIN PITCH',    id: 'layerMode1',          name: 'MONO',   newPage: on}
   {section: 'MAIN PITCH',    id: 'octave1',             name: 'OCTAVE'}
   {section: 'MAIN PITCH',    id: 'tune1',               name: 'SEMI'}
   {section: 'MAIN GLIDE',    id: 'glideDepth1',         name: 'DEPTH'}
   {section: 'MAIN GLIDE',    id: 'glideTime1',          name: 'PITCH'}
 
   # MAIN Stereo -->
-  {section: 'MAIN Stereo',   id: 'stereoMode1_1',       name: 'OFF'}
+  {section: 'MAIN Stereo',   id: 'stereoMode1_1',       name: 'OFF',   newPage: on}
   {section: 'MAIN Stereo',   id: 'stereoMode2_1',       name: 'ALT'}
   {section: 'MAIN Stereo',   id: 'stereoMode3_1',       name: 'UNI'}
   {section: 'MAIN Stereo',   id: 'panSpread1',          name: 'SPREAD'}
@@ -79,7 +79,7 @@ module.exports = [
   {section: 'MAIN Stereo',   id: 'toneShift1',          name: 'COLOR'}
 
   # MAIN Modwheel
-  {section: 'MAIN Modwheel', id: 'wheelVibrato1',       name: 'VIBRATO'}
+  {section: 'MAIN Modwheel', id: 'wheelVibrato1',       name: 'VIBRATO', newPage: on}
   {section: 'MAIN Modwheel', id: 'vibratoRate1',        name: 'RATE'}
   {section: 'MAIN Modwheel', id: 'wheelTremolo1',       name: 'TREMOLO'}
   {section: 'MAIN Modwheel', id: 'tremoloRate1',        name: 'RATE'}
@@ -89,21 +89,21 @@ module.exports = [
   {section: 'MAIN Modwheel', id: 'wheelDriveDepth1',    name: 'AMOUNT'}
 
   # SUB PITCH -->
-  {section: 'SUB PITCH',     id: 'layerMode2',          name: 'MONO'}
+  {section: 'SUB PITCH',     id: 'layerMode2',          name: 'MONO', newPage: on}
   {section: 'SUB PITCH',     id: 'octave2',             name: 'OCTAVE'}
   {section: 'SUB PITCH',     id: 'tune2',               name: 'SEMI'}
   {section: 'SUB GLIDE',     id: 'glideDepth2',         name: 'DEPTH'}
   {section: 'SUB GLIDE',     id: 'glideTime2',          name: 'TIME'}
 
   # SUB Stereo -->
-  {section: 'SUB Stereo',    id: 'stereoModeSelector1', name: 'OFF'}
+  {section: 'SUB Stereo',    id: 'stereoModeSelector1', name: 'OFF', newPage: on}
   {section: 'SUB Stereo',    id: 'stereoModeSelector2', name: 'ALT'}
   {section: 'SUB Stereo',    id: 'panSpread2',          name: 'SPREAD'}
   {section: 'SUB Stereo',    id: 'detune2',             name: 'DETUNE'}
   {section: 'SUB Stereo',    id: 'unisonVoices2',       name: 'VOICES'}
 
   # SUB Modwheel -->
-  {section: 'SUB Modwheel',  id: 'wheelVibrato2',       name: 'VIBRATO'}
+  {section: 'SUB Modwheel',  id: 'wheelVibrato2',       name: 'VIBRATO', newPage: on}
   {section: 'SUB Modwheel',  id: 'vibratoRate2',        name: 'RATE'}
   {section: 'SUB Modwheel',  id: 'wheelTremolo2',       name: 'TREMOLO'}
   {section: 'SUB Modwheel',  id: 'tremoloRate2',        name: 'RATE'}
@@ -113,14 +113,14 @@ module.exports = [
   {section: 'SUB Modwheel',  id: 'pwmWheelDepth2',      name: 'AMOUNT'}
 
   # LFO
-  {section: 'LFO',           id: 'lfoSpeed',            name: 'SPEED'}
+  {section: 'LFO',           id: 'lfoSpeed',            name: 'SPEED', newPage: on}
   {section: 'LFO',           id: 'lfoSync',             name: 'SYNC'}
   {section: 'LFO',           id: 'LfoRetrigger1',       name: 'RETRIGGER'}
   {section: 'LFO',           id: 'LfoRetrigger2',       name: 'NO RETRIGGER'}
   {section: 'LFO',           id: 'LfoRetrigger3',       name: 'LEGATO'}
 
   # MAIN LFO
-  {section: 'MAIN LFO',      id: 'volumeLfoDest1',      name: 'VOLUME'}
+  {section: 'MAIN LFO',      id: 'volumeLfoDest1',      name: 'VOLUME', newPage: on}
   {section: 'MAIN LFO',      id: 'volumeLfoDepth1',     name: 'AMOUNT'}
   {section: 'MAIN LFO',      id: 'filterLfoDest1',      name: 'FILTER'}
   {section: 'MAIN LFO',      id: 'filterLfoDepth1',     name: 'DEPTH'}
@@ -130,7 +130,7 @@ module.exports = [
   {section: 'MAIN LFO',      id: 'panLfoDepth1',        name: 'AMOUNT'}
 
   # SUB LFO
-  {section: 'SUB LFO',        id: 'volumeLfoDest2',     name: 'VOLUME'}
+  {section: 'SUB LFO',        id: 'volumeLfoDest2',     name: 'VOLUME', newPage: on}
   {section: 'SUB LFO',        id: 'volumeLfoDepth2',    name: 'AMOUNT'}
   {section: 'SUB LFO',        id: 'filterLfoDest2',     name: 'FILTER'}
   {section: 'SUB LFO',        id: 'filterLfoDepth2',    name: 'DEPTH'}
@@ -157,6 +157,7 @@ module.exports = [
   # FX PHASOR
   {section: 'FX PHASOR',      id: 'PhasorOnOff',        name: 'On/Off'}
   {section: 'FX PHASOR',      id: 'PhasorSpeed',        name: 'SPEED'}
+  {section: 'FX PHASOR',      id: 'PhasorEdge',         name: 'EDGE'}
   {section: 'FX PHASOR',      id: 'PhasorDepth',        name: 'DEPTH'}
 
   # FX SPARKVERB
@@ -172,6 +173,6 @@ module.exports = [
   {section: 'FX DELAY',       id: 'DelayTime',          name: 'TIME'}
   {section: 'FX DELAY',       id: 'DelayLowCut',        name: 'LOW CUT'}
   {section: 'FX DELAY',       id: 'DelayHighCut',       name: 'HIGH CUT'}
-  {section: 'FX DELAY',       id: 'DelayFeedBack',      name: 'FDBK'}
+  {section: 'FX DELAY',       id: 'DelayFeedback',      name: 'FDBK'}
   {section: 'FX DELAY',       id: 'DelayMix',           name: 'MIX'}
 ]

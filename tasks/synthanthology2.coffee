@@ -1,8 +1,10 @@
-# iZotope Iris 2
+# UVI Synth Anthology 2
 #
 # notes
 #  - Komplete Kontrol 1.7.1(R49)
-#  - iris 2  v2.02.415
+#  - Synth Anthology 2
+#    - UVI Workstation v2.6.8
+#    - Library 1.0
 # ---------------------------------------------------------------
 path     = require 'path'
 gulp     = require 'gulp'
@@ -33,9 +35,9 @@ $ = Object.assign {}, (require '../config'),
   # -------------------------
 
   # Ableton Live 9.7 Instrument Rack
-  abletonRackTemplate: 'src/iZotope Iris 2/templates/iris2.adg.tpl'
-  # Bitwig Studio 1.3.14 RC1 preset file
-  bwpresetTemplate: 'src/iZotope Iris 2/templates/Iris 2.bwpreset'
+  abletonRackTemplate: 'src/Synth Anthology 2/templates/Synth Anthology 2.adg.tpl'
+  # Bitwig Studio 1.3.14 RC2 preset file
+  bwpresetTemplate: 'src/Synth Anthology 2/templates/Synth Anthology 2.bwpreset'
   # synth models
   synths:
     AAX: 'AKAI AX80'
@@ -169,8 +171,9 @@ gulp.task "#{$.prefix}-generate-default-mapping", ->
       for item, index in params
         # should create new page ?
         #  - page filled up 8 parameters
+        #  - item.newPage property
         #  - remaning slots is 1 or 2 and can't include entire next section params
-        if (page.length is 8 or
+        if (page.length is 8 or item.newPage or
            (item.section isnt prevSection and page.length >= 6 and
             ((params.filter (i) -> i.section is item.section).length + page.length) > 8))
           # fill empty slot
@@ -228,3 +231,112 @@ gulp.task "#{$.prefix}-generate-meta", ->
     .pipe gulp.dest "src/#{$.dir}/presets"
 
 
+#
+# build
+# --------------------------------
+
+# copy dist files to dist folder
+gulp.task "#{$.prefix}-dist", [
+  "#{$.prefix}-dist-image"
+  "#{$.prefix}-dist-database"
+  "#{$.prefix}-dist-presets"
+]
+
+# copy image resources to dist folder
+gulp.task "#{$.prefix}-dist-image", ->
+  task.dist_image $.dir, $.vendor
+
+# copy database resources to dist folder
+gulp.task "#{$.prefix}-dist-database", ->
+  task.dist_database $.dir, $.vendor
+
+# build presets file to dist folder
+gulp.task "#{$.prefix}-dist-presets", ->
+  task.dist_presets $.dir, $.magic, (file) ->
+    # file.contents = PCHK chunk data
+    # - 4byte PCHK version or flag
+    # - UVIWorkstation plugin state
+    #   - 4byte chunkId = "UVI4"
+    #   - 4byte version or flags = 1 (32bit LE)
+    #   - 4byte uncompressed file size (32bit LE)
+    #   - <gzip deflate archive (.uviws file)>
+    xml = util.xmlString (zlib.inflateSync file.contents.slice 16).toString()
+    automation = (xpath.select '/UVI4/Engine/Automation', xml)
+    if automation and automation.length
+      # remove all child node if <Automation> node already exist.
+      automation.removeChild child while child = automation?.lastChild
+      automation = automation[0]
+    else
+      # create new <Automation> node.
+      automation = xml.createElement 'Automation'
+      engine = (xpath.select '/UVI4/Engine', xml)[0]
+      engine.appendChild automation
+      
+    params = require "../src/#{$.dir}/mappings/uvi-host-automation-params"
+    for param, index in params
+      automationConnection = xml.createElement 'AutomationConnection'
+      automationConnection.setAttribute 'sourceIndex', "#{index}"
+      automationConnection.setAttribute 'targetPath', '/uvi/Part 0/Program/EventProcessor0'
+      automationConnection.setAttribute 'parameterName', "#{param.id}"
+      automationConnection.setAttribute 'parameterDisplayName', ""
+      automation.appendChild automationConnection
+
+    uvi4 = new Buffer xml.toString()
+    uncompressedSize = uvi4.length
+    file.contents = new Buffer.concat [
+      file.contents.slice 0, 16
+      zlib.deflateSync uvi4
+    ]
+    file.contents.writeUInt32LE uncompressedSize, 12
+    
+    # eeturn mapping file
+    "./src/#{$.dir}/mappings/default.json"
+
+# check
+gulp.task "#{$.prefix}-check-dist-presets", ->
+  task.check_dist_presets $.dir
+
+#
+# deploy
+# --------------------------------
+
+gulp.task "#{$.prefix}-deploy", [
+  "#{$.prefix}-deploy-resources"
+  "#{$.prefix}-deploy-presets"
+]
+
+# copy resources to local environment
+gulp.task "#{$.prefix}-deploy-resources", [
+  "#{$.prefix}-dist-image"
+  "#{$.prefix}-dist-database"
+], ->
+  task.deploy_resources $.dir
+
+# copy database resources to local environment
+gulp.task "#{$.prefix}-deploy-presets", [
+  "#{$.prefix}-dist-presets"
+] , ->
+  task.deploy_presets $.dir
+
+#
+# release
+# --------------------------------
+
+# release zip file to dropbox
+gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
+  task.release $.dir
+
+# export
+# --------------------------------
+
+# export from .nksf to .adg ableton rack
+gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Ableton.racks}/#{$.dir}"
+  , $.abletonRackTemplate
+
+# export from .nksf to .bwpreset bitwig studio preset
+gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
+  , "#{$.Bitwig.presets}/#{$.dir}"
+  , $.bwpresetTemplate

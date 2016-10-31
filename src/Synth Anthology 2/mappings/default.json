@@ -145,6 +145,19 @@
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 25,
       "name": "VELOCITY",
       "section": "SUB AMP",
@@ -164,12 +177,10 @@
       "id": 28,
       "name": "D",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 29,
       "name": "S",
-      "section": "SUB AMP",
       "vflag": false
     }, {
       "autoname": false,
@@ -177,6 +188,13 @@
       "name": "R",
       "vflag": false
     }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
       "autoname": false,
       "id": 31,
       "name": "OFF",
@@ -199,13 +217,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
-    }],
-    [{
-      "autoname": false,
       "id": 35,
       "name": "A",
       "section": "SUB FILTER",
@@ -225,10 +236,12 @@
       "id": 38,
       "name": "R",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 39,
       "name": "CUT",
+      "section": "SUB FILTER",
       "vflag": false
     }, {
       "autoname": false,
@@ -244,6 +257,18 @@
       "autoname": false,
       "id": 42,
       "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
@@ -275,6 +300,16 @@
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 48,
       "name": "OFF",
       "section": "MAIN Stereo",
@@ -289,12 +324,10 @@
       "id": 50,
       "name": "UNI",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 51,
       "name": "SPREAD",
-      "section": "MAIN Stereo",
       "vflag": false
     }, {
       "autoname": false,
@@ -307,6 +340,13 @@
       "name": "COLOR",
       "vflag": false
     }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
       "autoname": false,
       "id": 54,
       "name": "VIBRATO",
@@ -332,12 +372,10 @@
       "id": 58,
       "name": "FILTER",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 59,
       "name": "DEPTH",
-      "section": "MAIN Modwheel",
       "vflag": false
     }, {
       "autoname": false,
@@ -349,7 +387,8 @@
       "id": 61,
       "name": "AMOUNT",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 62,
       "name": "MONO",
@@ -375,6 +414,15 @@
       "autoname": false,
       "id": 66,
       "name": "TIME",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
@@ -405,6 +453,16 @@
       "vflag": false
     }, {
       "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
       "id": 72,
       "name": "VIBRATO",
       "section": "SUB Modwheel",
@@ -419,12 +477,10 @@
       "id": 74,
       "name": "TREMOLO",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 75,
       "name": "RATE",
-      "section": "SUB Modwheel",
       "vflag": false
     }, {
       "autoname": false,
@@ -446,7 +502,8 @@
       "id": 79,
       "name": "AMOUNT",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 80,
       "name": "SPEED",
@@ -462,12 +519,10 @@
       "id": 82,
       "name": "RETRIGGER",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 83,
       "name": "NO RETRIGGER",
-      "section": "LFO",
       "vflag": false
     }, {
       "autoname": false,
@@ -475,6 +530,16 @@
       "name": "LEGATO",
       "vflag": false
     }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
       "autoname": false,
       "id": 85,
       "name": "VOLUME",
@@ -505,19 +570,18 @@
       "id": 90,
       "name": "DEPTH",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 91,
       "name": "PAN",
-      "section": "MAIN LFO",
       "vflag": false
     }, {
       "autoname": false,
       "id": 92,
       "name": "AMOUNT",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 93,
       "name": "VOLUME",
@@ -548,19 +612,18 @@
       "id": 98,
       "name": "DEPTH",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 99,
       "name": "PAN",
-      "section": "SUB LFO",
       "vflag": false
     }, {
       "autoname": false,
       "id": 100,
       "name": "AMOUNT",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 101,
       "name": "On/Off",
@@ -591,6 +654,12 @@
       "autoname": false,
       "id": 106,
       "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
       "vflag": false
     }],
     [{
@@ -623,10 +692,12 @@
     }, {
       "autoname": false,
       "id": 112,
-      "name": "DEPTH",
+      "name": "EDGE",
       "vflag": false
     }, {
       "autoname": false,
+      "id": 113,
+      "name": "DEPTH",
       "vflag": false
     }, {
       "autoname": false,
@@ -634,33 +705,33 @@
     }],
     [{
       "autoname": false,
-      "id": 113,
+      "id": 114,
       "name": "On/Off",
       "section": "FX SPARKVERB",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 114,
+      "id": 115,
       "name": "DECAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 115,
+      "id": 116,
       "name": "LO DECAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 116,
+      "id": 117,
       "name": "HI DECAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 117,
+      "id": 118,
       "name": "SIZE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 118,
+      "id": 119,
       "name": "MIX",
       "vflag": false
     }, {
@@ -672,33 +743,33 @@
     }],
     [{
       "autoname": false,
-      "id": 119,
+      "id": 120,
       "name": "On/Off",
       "section": "FX DELAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 120,
+      "id": 121,
       "name": "TIME",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 121,
+      "id": 122,
       "name": "LOW CUT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 122,
+      "id": 123,
       "name": "HIGH CUT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 123,
+      "id": 124,
       "name": "FDBK",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 124,
+      "id": 125,
       "name": "MIX",
       "vflag": false
     }, {
