@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Synth Anthology 2", "SEIKO DS310", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Additive"],
+  "name": "SDS-Spectrum Sweep",
+  "types": [
+    ["Sweeps", "SEIKO DS310"]
+  ],
+  "uuid": "f12abced-91e3-41bf-bf0d-e22edd5a5320",
+  "vendor": "UVI"
+}

@@ -1,0 +1,712 @@
+{
+  "ni8": [
+    [{
+      "autoname": false,
+      "id": 0,
+      "name": "On/Off",
+      "section": "OSC MAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3,
+      "name": "On/Off",
+      "section": "OSC SUB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 4,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 6,
+      "name": "VOL",
+      "section": "PART",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 7,
+      "name": "VELOCITY",
+      "section": "MAIN AMP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 8,
+      "name": "VEL>ATK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 10,
+      "name": "D",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "S",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 12,
+      "name": "R",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 13,
+      "name": "OFF",
+      "section": "MAIN FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 14,
+      "name": "HI CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "MID PASS",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "LO CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "D",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "S",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 20,
+      "name": "R",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 21,
+      "name": "CUT",
+      "section": "MAIN FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "RES",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "VEL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "VELOCITY",
+      "section": "SUB AMP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 26,
+      "name": "VEL>ATK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 27,
+      "name": "A",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 28,
+      "name": "D",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 29,
+      "name": "S",
+      "section": "SUB AMP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 30,
+      "name": "R",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 31,
+      "name": "OFF",
+      "section": "MAIN FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 32,
+      "name": "HI CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 33,
+      "name": "MID PASS",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 34,
+      "name": "LO CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 35,
+      "name": "A",
+      "section": "SUB FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 36,
+      "name": "D",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 37,
+      "name": "S",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 38,
+      "name": "R",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 39,
+      "name": "CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 40,
+      "name": "RES",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 41,
+      "name": "VEL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 42,
+      "name": "DEPTH",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 43,
+      "name": "MONO",
+      "section": "MAIN PITCH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 44,
+      "name": "OCTAVE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 45,
+      "name": "SEMI",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 46,
+      "name": "DEPTH",
+      "section": "MAIN GLIDE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
+      "name": "PITCH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 48,
+      "name": "OFF",
+      "section": "MAIN Stereo",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 49,
+      "name": "ALT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 50,
+      "name": "UNI",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 51,
+      "name": "SPREAD",
+      "section": "MAIN Stereo",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 52,
+      "name": "DETUNE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 53,
+      "name": "COLOR",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 54,
+      "name": "VIBRATO",
+      "section": "MAIN Modwheel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 55,
+      "name": "RATE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 56,
+      "name": "TREMOLO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 57,
+      "name": "RATE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 58,
+      "name": "FILTER",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 59,
+      "name": "DEPTH",
+      "section": "MAIN Modwheel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 60,
+      "name": "DRIVE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 61,
+      "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
+      "name": "MONO",
+      "section": "SUB PITCH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 63,
+      "name": "OCTAVE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 64,
+      "name": "SEMI",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 65,
+      "name": "DEPTH",
+      "section": "SUB GLIDE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 66,
+      "name": "TIME",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 67,
+      "name": "OFF",
+      "section": "SUB Stereo",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 68,
+      "name": "ALT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 69,
+      "name": "SPREAD",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 70,
+      "name": "DETUNE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 71,
+      "name": "VOICES",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 72,
+      "name": "VIBRATO",
+      "section": "SUB Modwheel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 73,
+      "name": "RATE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 74,
+      "name": "TREMOLO",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 75,
+      "name": "RATE",
+      "section": "SUB Modwheel",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 76,
+      "name": "FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 77,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 78,
+      "name": "PWM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 79,
+      "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 80,
+      "name": "SPEED",
+      "section": "LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 81,
+      "name": "SYNC",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 82,
+      "name": "RETRIGGER",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 83,
+      "name": "NO RETRIGGER",
+      "section": "LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 84,
+      "name": "LEGATO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 85,
+      "name": "VOLUME",
+      "section": "MAIN LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 86,
+      "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 87,
+      "name": "FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 88,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 89,
+      "name": "PITCH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 90,
+      "name": "DEPTH",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 91,
+      "name": "PAN",
+      "section": "MAIN LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 92,
+      "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 93,
+      "name": "VOLUME",
+      "section": "SUB LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 94,
+      "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 95,
+      "name": "FILTER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 96,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 97,
+      "name": "PITCH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 98,
+      "name": "DEPTH",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 99,
+      "name": "PAN",
+      "section": "SUB LFO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 100,
+      "name": "AMOUNT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "On/Off",
+      "section": "FX BIT CRUSHER",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
+      "name": "BIT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 103,
+      "name": "FREQ",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 104,
+      "name": "MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 105,
+      "name": "ON/OFF",
+      "section": "FX DRIVE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 106,
+      "name": "AMOUNT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 107,
+      "name": "On/Off",
+      "section": "FX THORUS",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 108,
+      "name": "SPEED",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 109,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 110,
+      "name": "On/Off",
+      "section": "FX PHASOR",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 111,
+      "name": "SPEED",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 112,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 113,
+      "name": "On/Off",
+      "section": "FX SPARKVERB",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 114,
+      "name": "DECAY",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "LO DECAY",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "HI DECAY",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 117,
+      "name": "SIZE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 118,
+      "name": "MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 119,
+      "name": "On/Off",
+      "section": "FX DELAY",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 120,
+      "name": "TIME",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 121,
+      "name": "LOW CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 122,
+      "name": "HIGH CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 123,
+      "name": "FDBK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 124,
+      "name": "MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }]
+  ]
+}

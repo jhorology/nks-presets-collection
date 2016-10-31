@@ -122,11 +122,10 @@ gulp.task "#{$.prefix}-generate-meta", ->
   presets = "src/#{$.dir}/presets"
   gulp.src ["#{presets}/**/*.pchk"], read: on
     .pipe data (file) ->
+      # read as DOM
       # keyscape plugin state is xml
       #   - first 4 bytes = PCHK version
       #   - last 1 byte = null(0x00) terminater
-      buf =
-      # read as DOM
       xml = util.xmlString (file.contents.slice 4, file.contents.length - 1).toString()
       query = '''
 /SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG/ENTRYDESCR/@ATTRIB_VALUE_DATA'''

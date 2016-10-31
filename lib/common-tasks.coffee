@@ -22,6 +22,7 @@ bitwigRewriteMeta = require 'gulp-bitwig-rewrite-meta'
 util        = require './util'
 $           = require '../config'
 
+gunzip = require 'gulp-gunzip'
 module.exports =
 
   # prepairing tasks
