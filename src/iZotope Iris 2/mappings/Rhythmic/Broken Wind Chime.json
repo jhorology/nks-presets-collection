@@ -213,7 +213,7 @@
     }, {
       "autoname": false,
       "id": 28,
- "name": "Coarse",
+      "name": "Coarse",
       "vflag": false
     }, {
       "autoname": false,
@@ -640,6 +640,7 @@
       "autoname": false,
       "id": 96,
       "name": "Cutoff Hi",
+      "section": "Reverb",
       "vflag": false
     }, {
       "autoname": true,
