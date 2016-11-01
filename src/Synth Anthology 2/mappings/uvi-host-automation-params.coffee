@@ -50,10 +50,10 @@ module.exports = [
   {section: 'SUB AMP',       id: 'ampRelease2',         name: 'R'}
 
   # SUB FILTER
-  {section: 'MAIN FILTER',   id: 'filterType1_2',       name: 'OFF'}
-  {section: 'MAIN FILTER',   id: 'filterType2_2',       name: 'HI CUT'}
-  {section: 'MAIN FILTER',   id: 'filterType3_2',       name: 'MID PASS'}
-  {section: 'MAIN FILTER',   id: 'filterType4_2',       name: 'LO CUT'}
+  {section: 'SUB FILTER',    id: 'filterType1_2',       name: 'OFF'}
+  {section: 'SUB FILTER',    id: 'filterType2_2',       name: 'HI CUT'}
+  {section: 'SUB FILTER',    id: 'filterType3_2',       name: 'MID PASS'}
+  {section: 'SUB FILTER',    id: 'filterType4_2',       name: 'LO CUT'}
   {section: 'SUB FILTER',    id: 'filterAttack2',       name: 'A'}
   {section: 'SUB FILTER',    id: 'filterDecay2',        name: 'D'}
   {section: 'SUB FILTER',    id: 'filterSustain2',      name: 'S'}
