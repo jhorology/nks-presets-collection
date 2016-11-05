@@ -86,7 +86,7 @@ $ = Object.assign {}, (require '../config'),
     NUN: 'novation ULTRANOVA'
     NVA: 'novation NOVA'
     OB6: 'Oberheim OB-6'
-    OBX: 'Overheim OB-X'
+    OBX: 'Oberheim OB-X'
     ODY: 'ARP ODYSSEY'
     OSC: 'OSC OSCAR'
     P23: 'PPG Wave 2.3'
@@ -264,8 +264,8 @@ gulp.task "#{$.prefix}-dist-presets", ->
     automation = (xpath.select '/UVI4/Engine/Automation', xml)
     if automation and automation.length
       # remove all child node if <Automation> node already exist.
-      automation.removeChild child while child = automation?.lastChild
       automation = automation[0]
+      automation.removeChild child while child = automation?.lastChild
     else
       # create new <Automation> node.
       automation = xml.createElement 'Automation'
