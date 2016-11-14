@@ -231,12 +231,12 @@ module.exports =
               ni8 = (msgpack.decode chunk.slice 4).ni8
               for page, pageIndex in ni8
                 for param, paramIndex in page
-                  if param.id
+                  if _.isNumber param.id
                     templateSource.params.push
                       id: param.id
                       name: param.name
                       visualIndex: pageIndex * 8 + paramIndex
-                    break if templateSource.params.length >= 128
+                  break if templateSource.params.length >= 128
                 break if templateSource.params.length >= 128
             when 'PCHK'
               lines = []

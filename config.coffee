@@ -15,7 +15,6 @@ module.exports =
     stdout: true           # default = true, false means don't write stdout
   uuidRegexp: /^[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}$/
   
-  #
   # Native Instruments
   #-------------------------------------------
   NI:
