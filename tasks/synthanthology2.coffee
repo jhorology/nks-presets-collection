@@ -5,6 +5,18 @@
 #  - Synth Anthology 2
 #    - UVI Workstation v2.6.8
 #    - Library 1.0
+# 
+# 2016-11-15 supportt Library changes 1.0.0 ->  1.1.1
+#   1.1.1
+#   ------------
+#   - New: add "Pitch Bend Range"
+#   - Fix: wrong tuning in "P23-Pure Bell"
+#   1.1.0
+#   ------------
+#   - Fix: missing samples in « KS8-Funny Pipe »
+#   - Fix: diverse namings correction, including « ODY-Straitght Bass »
+#   - Fix: sliders image glitches
+#   - Fix: missing artwork
 # ---------------------------------------------------------------
 path     = require 'path'
 gulp     = require 'gulp'
@@ -136,6 +148,31 @@ gulp.task "#{$.prefix}-print-magic", ->
 # Extract PCHK chunk from .nksf files.
 gulp.task "#{$.prefix}-extract-raw-presets", ->
   gulp.src ["temp/#{$.dir}/**/*.nksf"]
+    .pipe extract
+      chunk_ids: ['PCHK']
+    .pipe tap (file) ->
+      # OCR Filename may be incorrect. 
+      # read correct file name from plugin state.
+      # 
+      # - UVIWorkstation plugin states
+      #   - 4byte chunkId = "UVI4"
+      #   - 4byte version or flags = 1 (32bit LE)
+      #   - 4byte uncompressed file size (32bit LE)
+      #   - <gzip deflate archive (.uviws file)>
+      xml = util.xmlString (zlib.inflateSync file.contents.slice 16).toString()
+      program = (xpath.select '/UVI4/Engine/Synth/Children/Part/Program', xml)[0]
+      displayName = program.getAttribute 'DisplayName'
+      programPath = program.getAttribute 'ProgramPath'
+      relative = path.relative '$Synth Anthology II.ufs/Presets/', path.dirname programPath
+      file.path = path.join file.base, relative, "#{displayName}.pchk"
+    .pipe gulp.dest "src/#{$.dir}/presets"
+
+# Extract PCHK chunk from .nksf files. update 1.1.1
+#  - ODY-Straitght Bass
+#  - KS8-Funny Pipe
+#  - P23-Pure Bell 
+gulp.task "#{$.prefix}-extract-raw-presets-update-1.1.1", ->
+  gulp.src ["temp/#{$.dir}/update 1.1.1/**/*.nksf"]
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe tap (file) ->

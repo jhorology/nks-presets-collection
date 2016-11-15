@@ -67,6 +67,7 @@ module.exports = [
   {section: 'MAIN PITCH',    id: 'layerMode1',          name: 'MONO',   newPage: on}
   {section: 'MAIN PITCH',    id: 'octave1',             name: 'OCTAVE'}
   {section: 'MAIN PITCH',    id: 'tune1',               name: 'SEMI'}
+  {section: 'MAIN PITCH',    id: 'PitchBendRange1',     name: 'BEND'}
   {section: 'MAIN GLIDE',    id: 'glideDepth1',         name: 'DEPTH'}
   {section: 'MAIN GLIDE',    id: 'glideTime1',          name: 'PITCH'}
 
@@ -92,6 +93,7 @@ module.exports = [
   {section: 'SUB PITCH',     id: 'layerMode2',          name: 'MONO', newPage: on}
   {section: 'SUB PITCH',     id: 'octave2',             name: 'OCTAVE'}
   {section: 'SUB PITCH',     id: 'tune2',               name: 'SEMI'}
+  {section: 'SUB PITCH',     id: 'PitchBendRange2',     name: 'BEND'}
   {section: 'SUB GLIDE',     id: 'glideDepth2',         name: 'DEPTH'}
   {section: 'SUB GLIDE',     id: 'glideTime2',          name: 'TIME'}
 

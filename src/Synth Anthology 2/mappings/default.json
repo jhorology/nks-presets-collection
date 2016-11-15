@@ -289,16 +289,18 @@
     }, {
       "autoname": false,
       "id": 46,
+      "name": "BEND",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 47,
       "name": "DEPTH",
       "section": "MAIN GLIDE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 47,
+      "id": 48,
       "name": "PITCH",
-      "vflag": false
-    }, {
-      "autoname": false,
       "vflag": false
     }, {
       "autoname": false,
@@ -309,33 +311,33 @@
     }],
     [{
       "autoname": false,
-      "id": 48,
+      "id": 49,
       "name": "OFF",
       "section": "MAIN Stereo",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 49,
+      "id": 50,
       "name": "ALT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 50,
+      "id": 51,
       "name": "UNI",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 51,
+      "id": 52,
       "name": "SPREAD",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 52,
+      "id": 53,
       "name": "DETUNE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 53,
+      "id": 54,
       "name": "COLOR",
       "vflag": false
     }, {
@@ -347,71 +349,76 @@
     }],
     [{
       "autoname": false,
-      "id": 54,
+      "id": 55,
       "name": "VIBRATO",
       "section": "MAIN Modwheel",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 55,
-      "name": "RATE",
-      "vflag": false
-    }, {
-      "autoname": false,
       "id": 56,
-      "name": "TREMOLO",
+      "name": "RATE",
       "vflag": false
     }, {
       "autoname": false,
       "id": 57,
-      "name": "RATE",
+      "name": "TREMOLO",
       "vflag": false
     }, {
       "autoname": false,
       "id": 58,
-      "name": "FILTER",
+      "name": "RATE",
       "vflag": false
     }, {
       "autoname": false,
       "id": 59,
-      "name": "DEPTH",
+      "name": "FILTER",
       "vflag": false
     }, {
       "autoname": false,
       "id": 60,
-      "name": "DRIVE",
+      "name": "DEPTH",
       "vflag": false
     }, {
       "autoname": false,
       "id": 61,
+      "name": "DRIVE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 62,
       "name": "AMOUNT",
       "vflag": false
     }],
     [{
       "autoname": false,
-      "id": 62,
+      "id": 63,
       "name": "MONO",
       "section": "SUB PITCH",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 63,
+      "id": 64,
       "name": "OCTAVE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 64,
+      "id": 65,
       "name": "SEMI",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 65,
+      "id": 66,
+      "name": "BEND",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 67,
       "name": "DEPTH",
       "section": "SUB GLIDE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 66,
+      "id": 68,
       "name": "TIME",
       "vflag": false
     }, {
@@ -420,34 +427,31 @@
     }, {
       "autoname": false,
       "vflag": false
-    }, {
-      "autoname": false,
-      "vflag": false
     }],
     [{
       "autoname": false,
-      "id": 67,
+      "id": 69,
       "name": "OFF",
       "section": "SUB Stereo",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 68,
+      "id": 70,
       "name": "ALT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 69,
+      "id": 71,
       "name": "SPREAD",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 70,
+      "id": 72,
       "name": "DETUNE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 71,
+      "id": 73,
       "name": "VOICES",
       "vflag": false
     }, {
@@ -462,19 +466,9 @@
     }],
     [{
       "autoname": false,
-      "id": 72,
+      "id": 74,
       "name": "VIBRATO",
       "section": "SUB Modwheel",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 73,
-      "name": "RATE",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 74,
-      "name": "TREMOLO",
       "vflag": false
     }, {
       "autoname": false,
@@ -484,48 +478,58 @@
     }, {
       "autoname": false,
       "id": 76,
-      "name": "FILTER",
+      "name": "TREMOLO",
       "vflag": false
     }, {
       "autoname": false,
       "id": 77,
-      "name": "DEPTH",
+      "name": "RATE",
       "vflag": false
     }, {
       "autoname": false,
       "id": 78,
-      "name": "PWM",
+      "name": "FILTER",
       "vflag": false
     }, {
       "autoname": false,
       "id": 79,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 80,
+      "name": "PWM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 81,
       "name": "AMOUNT",
       "vflag": false
     }],
     [{
       "autoname": false,
-      "id": 80,
+      "id": 82,
       "name": "SPEED",
       "section": "LFO",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 81,
+      "id": 83,
       "name": "SYNC",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 82,
+      "id": 84,
       "name": "RETRIGGER",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 83,
+      "id": 85,
       "name": "NO RETRIGGER",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 84,
+      "id": 86,
       "name": "LEGATO",
       "vflag": false
     }, {
@@ -540,29 +544,19 @@
     }],
     [{
       "autoname": false,
-      "id": 85,
+      "id": 87,
       "name": "VOLUME",
       "section": "MAIN LFO",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 86,
+      "id": 88,
       "name": "AMOUNT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 87,
-      "name": "FILTER",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 88,
-      "name": "DEPTH",
-      "vflag": false
-    }, {
-      "autoname": false,
       "id": 89,
-      "name": "PITCH",
+      "name": "FILTER",
       "vflag": false
     }, {
       "autoname": false,
@@ -572,39 +566,39 @@
     }, {
       "autoname": false,
       "id": 91,
-      "name": "PAN",
+      "name": "PITCH",
       "vflag": false
     }, {
       "autoname": false,
       "id": 92,
-      "name": "AMOUNT",
+      "name": "DEPTH",
       "vflag": false
-    }],
-    [{
+    }, {
       "autoname": false,
       "id": 93,
-      "name": "VOLUME",
-      "section": "SUB LFO",
+      "name": "PAN",
       "vflag": false
     }, {
       "autoname": false,
       "id": 94,
       "name": "AMOUNT",
       "vflag": false
-    }, {
+    }],
+    [{
       "autoname": false,
       "id": 95,
-      "name": "FILTER",
+      "name": "VOLUME",
+      "section": "SUB LFO",
       "vflag": false
     }, {
       "autoname": false,
       "id": 96,
-      "name": "DEPTH",
+      "name": "AMOUNT",
       "vflag": false
     }, {
       "autoname": false,
       "id": 97,
-      "name": "PITCH",
+      "name": "FILTER",
       "vflag": false
     }, {
       "autoname": false,
@@ -614,44 +608,54 @@
     }, {
       "autoname": false,
       "id": 99,
-      "name": "PAN",
+      "name": "PITCH",
       "vflag": false
     }, {
       "autoname": false,
       "id": 100,
+      "name": "DEPTH",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 101,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 102,
       "name": "AMOUNT",
       "vflag": false
     }],
     [{
       "autoname": false,
-      "id": 101,
+      "id": 103,
       "name": "On/Off",
       "section": "FX BIT CRUSHER",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 102,
+      "id": 104,
       "name": "BIT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 103,
+      "id": 105,
       "name": "FREQ",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 104,
+      "id": 106,
       "name": "MIX",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 105,
+      "id": 107,
       "name": "ON/OFF",
       "section": "FX DRIVE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 106,
+      "id": 108,
       "name": "AMOUNT",
       "vflag": false
     }, {
@@ -663,39 +667,39 @@
     }],
     [{
       "autoname": false,
-      "id": 107,
+      "id": 109,
       "name": "On/Off",
       "section": "FX THORUS",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 108,
+      "id": 110,
       "name": "SPEED",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 109,
+      "id": 111,
       "name": "DEPTH",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 110,
+      "id": 112,
       "name": "On/Off",
       "section": "FX PHASOR",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 111,
+      "id": 113,
       "name": "SPEED",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 112,
+      "id": 114,
       "name": "EDGE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 113,
+      "id": 115,
       "name": "DEPTH",
       "vflag": false
     }, {
@@ -704,33 +708,33 @@
     }],
     [{
       "autoname": false,
-      "id": 114,
+      "id": 116,
       "name": "On/Off",
       "section": "FX SPARKVERB",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 115,
+      "id": 117,
       "name": "DECAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 116,
+      "id": 118,
       "name": "LO DECAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 117,
+      "id": 119,
       "name": "HI DECAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 118,
+      "id": 120,
       "name": "SIZE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 119,
+      "id": 121,
       "name": "MIX",
       "vflag": false
     }, {
@@ -742,33 +746,33 @@
     }],
     [{
       "autoname": false,
-      "id": 120,
+      "id": 122,
       "name": "On/Off",
       "section": "FX DELAY",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 121,
+      "id": 123,
       "name": "TIME",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 122,
+      "id": 124,
       "name": "LOW CUT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 123,
+      "id": 125,
       "name": "HIGH CUT",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 124,
+      "id": 126,
       "name": "FDBK",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 125,
+      "id": 127,
       "name": "MIX",
       "vflag": false
     }, {
