@@ -288,7 +288,7 @@ module.exports =
         unless file.data.meta.uuid
           file.data.meta.uuid = file.data.meta.UUID
           unless file.data.meta.uuid
-            console.warn "WARN: preset doesn't have uuidi. file: #{file.path}"
+            console.warn "WARN: preset doesn't have uuid. file: #{file.path}"
             # create new uuid
             file.data.meta.uuid = uuid.v4()
         unless file.data.meta.uuid.match $.uuidRegexp
