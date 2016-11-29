@@ -392,16 +392,9 @@
 								<Index Value="<%=index%>" />
 								<VisualIndex Value="<%=param.visualIndex%>" />
 								<Id Value="<%=param.id%>" />
-								<Type Value="PluginFloatParameter" /><% if(index < 8) { %>
-								<MacroControlIndex Value="<%=index%>" />
-								<MidiControllerRange>
-									<MidiControllerRange>
-										<Min Value="0" />
-										<Max Value="1" />
-									</MidiControllerRange>
-								</MidiControllerRange><% } else { %>
+								<Type Value="PluginFloatParameter" />
 								<MacroControlIndex Value="-1" />
-								<MidiControllerRange /><% } %>
+								<MidiControllerRange />
 								<LomId Value="0" />
 							</PluginParameterSettings><% }); %>
 						</ParameterSettings>
@@ -574,7 +567,7 @@
 					<CrossfadeMax Value="0" />
 				</BranchSelectorRange>
 				<SessionViewBranchWidth Value="55" />
-				<ColorIndex Value="186" />
+				<ColorIndex Value="145" />
 				<AutoColored Value="true" />
 				<SourceContext>
 					<BranchSourceContext>
