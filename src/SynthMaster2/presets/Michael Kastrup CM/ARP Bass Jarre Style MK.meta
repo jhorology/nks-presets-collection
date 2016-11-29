@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Electro", "Electronica", "New Beat", "Newschool Electro", "Oldschool Electro", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "ARP Bass Jarre Style MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "320cec12-b28d-4971-bd52-f82e007e82c1",
+  "vendor": "KV331 Audio"
+}

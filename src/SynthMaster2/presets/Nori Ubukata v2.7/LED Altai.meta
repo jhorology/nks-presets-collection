@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Digital", "Factory", "Legato", "Monophonic", "Pitch Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "LED Altai",
+  "types": [
+    ["Lead"],
+    ["Synth"],
+    ["Vocal"]
+  ],
+  "uuid": "dd4f653e-2af1-40a2-bf47-83e233f29cf2",
+  "vendor": "KV331 Audio"
+}

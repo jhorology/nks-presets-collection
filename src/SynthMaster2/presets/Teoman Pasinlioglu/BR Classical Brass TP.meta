@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Analog", "Mod Wheel", "Pulse", "Saw", "Velocity Mod", "Version 2.5", "Factory"],
+  "name": "BR Classical Brass TP",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "d8f98c92-8945-4b70-ba41-5b9ed58b6e3c",
+  "vendor": "KV331 Audio"
+}

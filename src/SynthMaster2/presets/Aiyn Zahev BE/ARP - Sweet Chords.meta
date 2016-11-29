@@ -1,0 +1,15 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "House", "Newschool Electro", "Trance", "Digital", "Factory", "Mod Wheel", "Phase Mod", "Pitch Wheel", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "ARP - Sweet Chords",
+  "types": [
+    ["Arpeggiated"],
+    ["Chords"],
+    ["Organ"],
+    ["Synth"]
+  ],
+  "uuid": "96535fc6-0454-4efd-b0bc-6d47239b423f",
+  "vendor": "KV331 Audio"
+}

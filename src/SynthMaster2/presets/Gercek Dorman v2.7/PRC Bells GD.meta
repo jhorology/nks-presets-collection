@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "PRC Bells GD",
+  "types": [
+    ["FX"],
+    ["Percussion"]
+  ],
+  "uuid": "2366c19f-2b51-4b8b-befb-a49a94a1c887",
+  "vendor": "KV331 Audio"
+}

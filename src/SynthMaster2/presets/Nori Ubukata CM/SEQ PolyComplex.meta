@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Electro", "Electronica", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "SEQ PolyComplex",
+  "types": [
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "2caac77b-d2f5-4709-bf4e-c062e6ba2c8a",
+  "vendor": "KV331 Audio"
+}

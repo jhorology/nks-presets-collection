@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PRC Perky GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "ad06d166-a77d-4b10-83b9-cd31c0a4a77f",
+  "vendor": "KV331 Audio"
+}

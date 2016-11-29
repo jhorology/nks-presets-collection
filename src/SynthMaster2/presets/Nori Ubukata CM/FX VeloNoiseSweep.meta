@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Analog", "Noisy", "SynthMasterCM", "Version 2.5", "Factory", "Mod Wheel", "Velocity Mod"],
+  "name": "FX VeloNoiseSweep",
+  "types": [
+    ["FX"],
+    ["Synth"]
+  ],
+  "uuid": "d79a0742-7566-40e4-a15d-bc40be3051d8",
+  "vendor": "KV331 Audio"
+}

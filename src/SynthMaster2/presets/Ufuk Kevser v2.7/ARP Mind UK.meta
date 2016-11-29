@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Disco", "DubStep", "Electro", "Newschool Electro", "Analog", "Factory", "Frequency Mod", "Layered", "Mod Wheel", "Pitch Wheel", "Saw", "Square", "SuperSaw", "Version 2.7"],
+  "name": "ARP Mind UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Pluck"]
+  ],
+  "uuid": "abd6d660-8a0a-40d9-bfb5-29e57a9be82e",
+  "vendor": "KV331 Audio"
+}

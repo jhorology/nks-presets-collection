@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Wavetable"],
+  "name": "PD Filter Sweep TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8d5fe4b5-0bf9-4043-b495-da2a5ee254f7",
+  "vendor": "KV331 Audio"
+}

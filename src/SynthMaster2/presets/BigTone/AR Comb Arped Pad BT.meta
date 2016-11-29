@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Electro", "Electronica", "Trance", "Aftertouch", "Digital", "Layered", "Mod Wheel", "Noisy", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Factory"],
+  "name": "AR Comb Arped Pad BT",
+  "types": [
+    ["Arpeggiated"],
+    ["Pad"]
+  ],
+  "uuid": "e385d54f-be70-4a97-9d5d-49fb507a0b79",
+  "vendor": "KV331 Audio"
+}

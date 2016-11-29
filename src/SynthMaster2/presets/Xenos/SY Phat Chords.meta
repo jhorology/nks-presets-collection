@@ -1,0 +1,13 @@
+{
+  "author": "Xenos from KVR",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Trance", "Additive", "Legato", "LoFi", "Mod Wheel", "Noisy", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.5", "Factory", "Monophonic"],
+  "name": "SY Phat Chords",
+  "types": [
+    ["Chords"],
+    ["Synth"]
+  ],
+  "uuid": "018248bb-ecec-4984-bffa-2fd97786db0b",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Analog", "Digital", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PAD Diamondust",
+  "types": [
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "a8eb8858-6e9d-44f7-9ebc-c58355cbd873",
+  "vendor": "KV331 Audio"
+}

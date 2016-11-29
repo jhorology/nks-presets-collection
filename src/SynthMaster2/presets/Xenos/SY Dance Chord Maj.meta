@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Analog", "Legato", "Mod Wheel", "Pulse", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison", "Monophonic"],
+  "name": "SY Dance Chord Maj",
+  "types": [
+    ["Chords"],
+    ["Synth"]
+  ],
+  "uuid": "3594e590-c4c7-4ff0-bdc9-cbeb62453f84",
+  "vendor": "KV331 Audio"
+}

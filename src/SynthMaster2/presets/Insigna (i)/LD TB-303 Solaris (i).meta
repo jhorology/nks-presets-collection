@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Digital", "Distorted", "Factory", "HardSync", "Mod Wheel", "Resonant", "Saw", "Square", "Version 2.5", "Velocity Mod", "Monophonic"],
+  "name": "LD TB-303 Solaris (i)",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "e8756f34-5a3f-4993-b075-4e923caeee19",
+  "vendor": "KV331 Audio"
+}

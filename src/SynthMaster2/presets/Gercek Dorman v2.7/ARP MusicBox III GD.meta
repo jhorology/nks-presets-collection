@@ -1,0 +1,15 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw"],
+  "name": "ARP MusicBox III GD",
+  "types": [
+    ["Arpeggiated"],
+    ["Drums"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "085c6372-5904-4e2c-b3c2-0e99643c4c44",
+  "vendor": "KV331 Audio"
+}

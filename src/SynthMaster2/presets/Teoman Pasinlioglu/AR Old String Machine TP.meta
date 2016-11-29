@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Saw"],
+  "name": "AR Old String Machine TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Pad"]
+  ],
+  "uuid": "93c6efe5-7ee1-4a27-93ec-5be7928b910a",
+  "vendor": "KV331 Audio"
+}

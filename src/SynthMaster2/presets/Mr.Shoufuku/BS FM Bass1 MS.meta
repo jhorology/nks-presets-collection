@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Disco", "Electro", "Electronica", "Latin", "Pop", "Rock", "Factory", "Phase Mod", "Ring Mod", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "BS FM Bass1 MS",
+  "types": [
+    ["Bass"],
+    ["Pluck"]
+  ],
+  "uuid": "b67d635a-0894-4532-87ea-16aa3f715f4e",
+  "vendor": "KV331 Audio"
+}

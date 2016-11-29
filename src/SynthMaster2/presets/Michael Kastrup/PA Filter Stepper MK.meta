@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Chillout", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Hardstyle", "Hi Nrg", "Minimal", "Oldschool Electro", "Techno", "Trance", "Analog", "Factory", "Monophonic", "Resonant", "Saw", "Version 2.5"],
+  "name": "PA Filter Stepper MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "2915017e-d416-415d-aff3-ba8f4d00b1a0",
+  "vendor": "KV331 Audio"
+}

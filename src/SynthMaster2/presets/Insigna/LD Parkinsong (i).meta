@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Hi Nrg", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Digital", "Factory", "Frequency Mod", "Mod Wheel", "PWM", "Phase Mod", "Saw", "Sine", "Version 2.5", "Aftertouch", "Velocity Mod"],
+  "name": "LD Parkinsong (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "29ccea3b-cf9f-405e-9581-614368de370c",
+  "vendor": "KV331 Audio"
+}

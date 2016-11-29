@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "PAD Dizny Sci-fi",
+  "types": [
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "5bbc6a67-44d5-4933-aeb8-ce673b6862e5",
+  "vendor": "KV331 Audio"
+}

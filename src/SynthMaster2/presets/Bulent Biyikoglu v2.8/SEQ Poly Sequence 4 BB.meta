@@ -1,0 +1,13 @@
+{
+  "author": "Bulent Biyikoglu@KV331 Audio",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Analog", "Factory", "Saw", "SuperSaw", "Version 2.8", "Mod Wheel", "Velocity Mod"],
+  "name": "SEQ Poly Sequence 4 BB",
+  "types": [
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "a56e9023-9d82-415f-8c65-40dbd680ad89",
+  "vendor": "KV331 Audio"
+}

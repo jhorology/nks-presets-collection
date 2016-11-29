@@ -1,0 +1,15 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Layered", "Mod Wheel", "Phase Mod", "Ring Mod", "Saw", "Sine", "SuperSaw", "Triangle", "Velocity Mod", "Version 2.7"],
+  "name": "KY SympathetiClavier",
+  "types": [
+    ["Bells"],
+    ["Keys"],
+    ["Piano"],
+    ["Synth"]
+  ],
+  "uuid": "a2afce78-474a-41cd-9ac7-48a0a0670d22",
+  "vendor": "KV331 Audio"
+}

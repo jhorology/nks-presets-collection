@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Analog", "Factory", "Mod Wheel", "PWM", "Version 2.5", "Aftertouch", "Velocity Mod"],
+  "name": "ST Violins MK",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "d9163c76-1035-4d52-bf43-b2878fa63632",
+  "vendor": "KV331 Audio"
+}

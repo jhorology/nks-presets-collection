@@ -1,0 +1,17 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Trance", "Additive", "Aftertouch", "Digital", "Factory", "Layered", "Mod Wheel", "Pulse", "Saw", "Sine", "SuperSaw", "Triangle", "Velocity Mod", "Version 2.7"],
+  "name": "PD Fresh Cut UK",
+  "types": [
+    ["Bells"],
+    ["Flute"],
+    ["Organ"],
+    ["Pad"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "5409d867-8cf4-47ec-a2d6-1079af1defca",
+  "vendor": "KV331 Audio"
+}

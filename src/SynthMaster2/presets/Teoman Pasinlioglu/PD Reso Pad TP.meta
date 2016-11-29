@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Mod Wheel", "Velocity Mod", "Version 2.0", "Unison", "Saw"],
+  "name": "PD Reso Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8c059de7-2908-4c43-b925-162f49acfa33",
+  "vendor": "KV331 Audio"
+}

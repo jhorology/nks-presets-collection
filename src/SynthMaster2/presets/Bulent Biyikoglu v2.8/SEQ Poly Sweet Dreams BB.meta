@@ -1,0 +1,14 @@
+{
+  "author": "Bulent Biyikoglu@KV331 Audio",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "Pop", "Analog", "Factory", "Mod Wheel", "PWM", "Pulse", "Template", "Velocity Mod", "Version 2.8"],
+  "name": "SEQ Poly Sweet Dreams BB",
+  "types": [
+    ["Lead"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "070c408f-4f29-4287-bf76-bed0547c9093",
+  "vendor": "KV331 Audio"
+}

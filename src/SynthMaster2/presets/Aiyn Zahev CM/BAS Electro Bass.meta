@@ -1,0 +1,13 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Newschool Electro", "Digital", "Distorted", "Factory", "Legato", "Metallic", "Mod Wheel", "Monophonic", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "BAS Electro Bass",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "173e8210-db68-48f6-8868-4cf853bf9db6",
+  "vendor": "KV331 Audio"
+}

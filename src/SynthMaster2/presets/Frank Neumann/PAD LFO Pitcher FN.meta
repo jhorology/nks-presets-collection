@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Pulse", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
+  "name": "PAD LFO Pitcher FN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ec421649-8afd-42f1-90b2-c8ba3974addd",
+  "vendor": "KV331 Audio"
+}

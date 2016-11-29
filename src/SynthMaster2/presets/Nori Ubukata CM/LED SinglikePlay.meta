@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Oldschool Electro", "Pop", "Rock", "Additive", "Digital", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "LED SinglikePlay",
+  "types": [
+    ["Lead"],
+    ["Vocal"]
+  ],
+  "uuid": "167f9fa4-a114-474b-ae18-e5de9af02227",
+  "vendor": "KV331 Audio"
+}

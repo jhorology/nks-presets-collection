@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Layered", "Phase Mod", "Ring Mod", "Saw", "Version 2.5"],
+  "name": "ST FM Strings 1 MS",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "776c21b2-a07d-42b6-a557-e167cbfed41c",
+  "vendor": "KV331 Audio"
+}

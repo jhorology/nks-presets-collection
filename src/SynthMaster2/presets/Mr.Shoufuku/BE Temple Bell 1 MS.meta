@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "AudioFX", "Factory", "Metallic", "Velocity Mod", "Version 2.5", "Phase Mod", "Sine", "Ring Mod"],
+  "name": "BE Temple Bell 1 MS",
+  "types": [
+    ["Bells"],
+    ["Percussion"]
+  ],
+  "uuid": "5ecbedc9-fd6f-4c9a-861c-0f094906be65",
+  "vendor": "KV331 Audio"
+}

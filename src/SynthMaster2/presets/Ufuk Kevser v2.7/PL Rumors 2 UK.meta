@@ -1,0 +1,15 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Glitch", "Minimal", "Oldschool Electro", "Analog", "Factory", "Gated", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Unison", "Version 2.7", "Wavescanning"],
+  "name": "PL Rumors 2 UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Percussion"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "710ba5c8-e08c-4098-b200-793047cd6f87",
+  "vendor": "KV331 Audio"
+}

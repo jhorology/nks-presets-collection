@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Aftertouch", "Analog", "Factory", "Layered", "Saw", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "PD Gentle Pluck MK",
+  "types": [
+    ["Pad"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "d475f228-a2e0-42e2-941d-41d90851e6e6",
+  "vendor": "KV331 Audio"
+}

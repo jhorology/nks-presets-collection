@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Version 2.5", "Vector", "Saw", "Sine"],
+  "name": "KY VS Bells TP",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "9876d801-6b6b-4c2d-b940-eb54b29611fc",
+  "vendor": "KV331 Audio"
+}

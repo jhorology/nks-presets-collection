@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Additive", "Digital", "Factory", "Layered", "Mod Wheel", "Phase Mod", "Sine", "Velocity Mod", "Version 2.7"],
+  "name": "KY Pianocembalo",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "e60d8294-8109-4000-bc41-4f38fdfe004d",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Velocity Mod", "Version 2.5", "Mod Wheel", "Unison", "Mono", "Legato", "Wavetable"],
+  "name": "AR Daft Punk TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Pad"]
+  ],
+  "uuid": "12cb6163-3ec4-4002-9cd0-a44104d8434d",
+  "vendor": "KV331 Audio"
+}

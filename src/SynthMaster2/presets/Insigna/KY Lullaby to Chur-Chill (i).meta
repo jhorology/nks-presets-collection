@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Baroque", "Blues", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "Funk", "Lounge", "Metal", "Pop", "Reggae", "Rock", "Soul", "Additive", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Triangle", "Velocity Mod", "Version 2.5", "Wavetable", "Unison"],
+  "name": "KY Lullaby to Chur-Chill (i)",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "309052e1-a340-42e8-ba00-77562b4d00d8",
+  "vendor": "KV331 Audio"
+}

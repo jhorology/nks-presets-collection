@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Factory"],
+  "name": "PD Andro Pad TP",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "cf80bb60-7fb8-4e28-8451-3d0792b30998",
+  "vendor": "KV331 Audio"
+}

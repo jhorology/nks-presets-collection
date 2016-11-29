@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PRC Davuls GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "fd6a5e98-d0ec-47f0-a567-b743e7567e8b",
+  "vendor": "KV331 Audio"
+}

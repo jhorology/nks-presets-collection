@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Velocity Mod", "Version 2.0", "Unison", "Wavescanning", "Additive", "Saw"],
+  "name": "PD Melancholic Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c9c70276-9624-471c-9344-2c6c9066eb1e",
+  "vendor": "KV331 Audio"
+}

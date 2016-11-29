@@ -1,0 +1,13 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Electro", "Newschool Electro", "Techno", "Trance", "Digital", "Factory", "Metallic", "Mod Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "ARP - Metal Harp",
+  "types": [
+    ["Arpeggiated"],
+    ["Pluck"]
+  ],
+  "uuid": "c95a300e-de41-4a29-b733-92b2fa3c7e3c",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Bluegrass", "Blues", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Factory", "Ring Mod", "Sine", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "Organ Simple Perc MK",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "25a75791-cfdd-47e5-b372-38a41569e9e1",
+  "vendor": "KV331 Audio"
+}

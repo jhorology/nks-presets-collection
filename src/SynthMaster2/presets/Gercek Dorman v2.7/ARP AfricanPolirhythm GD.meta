@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "ARP AfricanPolirhythm GD",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "32f12734-ea47-475b-bd12-d9555c6457ee",
+  "vendor": "KV331 Audio"
+}

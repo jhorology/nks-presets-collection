@@ -1,0 +1,13 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Factory", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "PD SevenChord  RL",
+  "types": [
+    ["Chords"],
+    ["Pad"]
+  ],
+  "uuid": "68e17d8a-10f4-4418-a88e-c89815867f87",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Trance", "Factory", "Mod Wheel", "Monophonic", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "PD MonoSlider  RL",
+  "types": [
+    ["Lead"],
+    ["Pad"]
+  ],
+  "uuid": "d606e809-631c-4f72-b256-f0e2c2046d01",
+  "vendor": "KV331 Audio"
+}

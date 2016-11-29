@@ -1,0 +1,15 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Minimal", "Oldschool Electro", "Techno", "Trance", "Analog", "Factory", "Noisy", "Resonant", "Version 2.5"],
+  "name": "SQ Noise Res Hits MK",
+  "types": [
+    ["Arpeggiated"],
+    ["FX"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "6418c300-65a6-4838-9c76-64534813987e",
+  "vendor": "KV331 Audio"
+}

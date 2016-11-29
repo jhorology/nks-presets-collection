@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PRC AmbientKick GD",
+  "types": [
+    ["Drums"],
+    ["Percussion"]
+  ],
+  "uuid": "56795343-13f6-4143-8c1c-3c7e446e50fa",
+  "vendor": "KV331 Audio"
+}

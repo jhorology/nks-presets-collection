@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Legato", "Monophonic", "Saw", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "LD 80s Lead Saw MK",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "efad3045-4d77-4807-9b0c-7d64af62000d",
+  "vendor": "KV331 Audio"
+}

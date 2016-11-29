@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Frequency Mod", "Unison", "Wavetable"],
+  "name": "PD Oceanic Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "eec0918a-356c-4a9c-8c57-bd9fdb850bf1",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "AudioFX", "Digital", "Factory", "Frequency Mod", "Metallic", "Mod Wheel", "Pitch Wheel", "Resonant", "Version 2.5", "Wavescanning"],
+  "name": "PD Mushroomed Visions BT",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "c746ab63-02cb-4fbd-8548-1f1956954232",
+  "vendor": "KV331 Audio"
+}

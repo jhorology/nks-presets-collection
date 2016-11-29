@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "Disco", "DubStep", "Electro", "Electronica", "House", "Minimal", "Newschool Electro", "Techno", "Additive", "Analog", "Factory", "Legato", "Mod Wheel", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "BA Slammer BT",
+  "types": [
+    ["Bass"],
+    ["Pluck"]
+  ],
+  "uuid": "f0917919-59a2-45a1-bb98-a40e6d973f69",
+  "vendor": "KV331 Audio"
+}

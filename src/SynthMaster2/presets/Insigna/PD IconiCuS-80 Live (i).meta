@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Baroque", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Dance", "Disco", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "House", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Aftertouch", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PD IconiCuS-80 Live (i)",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "98074484-f047-4f97-8dca-49a75ebb2380",
+  "vendor": "KV331 Audio"
+}

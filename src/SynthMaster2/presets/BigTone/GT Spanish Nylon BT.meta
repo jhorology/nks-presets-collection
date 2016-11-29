@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Baroque", "Bluegrass", "Blues", "Chillout", "Classical", "Country", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Mod Wheel", "Phase Mod", "Physical Model", "Velocity Mod", "Version 2.5", "Wavetable", "Factory"],
+  "name": "GT Spanish Nylon BT",
+  "types": [
+    ["Guitar"],
+    ["Pluck"]
+  ],
+  "uuid": "f725d712-c4c1-4807-9b5e-e14c2cbedc6d",
+  "vendor": "KV331 Audio"
+}

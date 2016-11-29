@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Funk", "Pop", "Rock", "Analog", "Mod Wheel", "Version 2.5", "Unison", "Saw"],
+  "name": "LD Vibrato Funk Brass TP",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "9825f9ea-13d3-4921-bb55-51d0c48f73bb",
+  "vendor": "KV331 Audio"
+}

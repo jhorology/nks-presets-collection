@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "Electronica", "Funk", "Pop", "Rock", "Analog", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "PD Early 80s",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "762d90ff-9963-485f-9400-78ed38d23439",
+  "vendor": "KV331 Audio"
+}

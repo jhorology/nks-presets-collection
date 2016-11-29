@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "FX RadioTuner UK",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "40a213ee-46a0-4d4e-ae4b-3790a26527cb",
+  "vendor": "KV331 Audio"
+}

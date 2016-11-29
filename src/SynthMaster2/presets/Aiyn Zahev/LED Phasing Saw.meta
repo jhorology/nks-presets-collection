@@ -1,0 +1,15 @@
+{
+  "author": "Aiyn Zahev@Aiyn Zahev Sounds",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Classical", "Dance", "Disco", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "House", "Lounge", "Minimal", "Newschool Electro", "Trance", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "LED Phasing Saw",
+  "types": [
+    ["Guitar"],
+    ["Lead"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "706d9e9f-ff68-45fd-8a0c-bef2a63e57d6",
+  "vendor": "KV331 Audio"
+}

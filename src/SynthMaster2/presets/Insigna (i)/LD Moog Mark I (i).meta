@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Physical Model", "Version 2.5", "Monophonic"],
+  "name": "LD Moog Mark I (i)",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "1f8e5aa6-2715-4a5d-b026-9ccbc54e7b3d",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bluegrass", "Blues", "Chillout", "Easy Listening", "Electro", "Electronica", "Funk", "Italo", "Jazz", "Latin", "Lounge", "New Beat", "Newschool Electro", "Oldschool Electro", "Aftertouch", "Factory", "Layered", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "KY Innocent Keys (i)",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "9f0a1a05-a359-4b04-bfe6-75e9948bb9e5",
+  "vendor": "KV331 Audio"
+}

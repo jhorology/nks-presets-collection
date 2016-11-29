@@ -1,0 +1,17 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Trance", "Additive", "Aftertouch", "Digital", "Factory", "Layered", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "PD Stac Heaven MK",
+  "types": [
+    ["Bells"],
+    ["Flute"],
+    ["Organ"],
+    ["Pad"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "5985bb0d-a497-479d-a465-2d45004fbd20",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Additive", "Factory", "Layered", "Legato", "Mod Wheel", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "BA Contemporary Puncher BT",
+  "types": [
+    ["Bass"],
+    ["Pluck"]
+  ],
+  "uuid": "89c8d4b1-3a0f-4f73-b01c-061627c1afe6",
+  "vendor": "KV331 Audio"
+}

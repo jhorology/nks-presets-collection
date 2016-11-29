@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey@www.bluffmunkey.co.uk",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Classical", "Easy Listening", "Electro", "Electronica", "Ethnic", "Lounge", "Minimal", "Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "FX Akai Sweep",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "fd6b6d2b-1b0c-4fe5-8457-edd9ba430a1a",
+  "vendor": "KV331 Audio"
+}

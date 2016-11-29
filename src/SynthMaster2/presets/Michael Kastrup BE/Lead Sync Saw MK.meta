@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "Disco", "DnB", "DubStep", "Funk", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Jazz", "Pop", "Rock", "Aftertouch", "Analog", "Distorted", "Factory", "HardSync", "Mod Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "Lead Sync Saw MK",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0ac54a20-bcb7-42fc-8367-46f9671ea06e",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Square", "Version 2.5"],
+  "name": "ARP Hello Noise II FN",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"]
+  ],
+  "uuid": "93bdc0e3-5ffb-48c0-9bb2-a692d1b2416d",
+  "vendor": "KV331 Audio"
+}

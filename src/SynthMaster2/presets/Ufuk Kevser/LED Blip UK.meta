@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "Electro", "House", "Techno", "Trance", "Factory", "Mod Wheel", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "LED Blip UK",
+  "types": [
+    ["Lead"],
+    ["Pluck"]
+  ],
+  "uuid": "4d2b96ca-cb1f-406a-a28f-037448846e69",
+  "vendor": "KV331 Audio"
+}

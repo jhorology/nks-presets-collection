@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey@www.bluffmunkey.co.uk",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Phase Mod", "Pulse", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "KEY Crush Pluck",
+  "types": [
+    ["Keys"],
+    ["Pluck"]
+  ],
+  "uuid": "fc463102-a89f-4262-9d1f-5c3ae145bb08",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "Resonant", "Velocity Mod", "Version 2.5", "Frequency Mod", "Additive", "Saw", "Ring Mod"],
+  "name": "PD Resonance PAd TP",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "dd59e121-a5c5-4d6e-9a64-ab8d90181337",
+  "vendor": "KV331 Audio"
+}

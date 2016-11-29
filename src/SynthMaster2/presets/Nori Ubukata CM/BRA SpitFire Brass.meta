@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Jazz", "Latin", "Pop", "Rock", "Analog", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "BRA SpitFire Brass",
+  "types": [
+    ["Brass"],
+    ["Synth"]
+  ],
+  "uuid": "5e0482c2-ab72-4758-9d97-7a0fa1b8c442",
+  "vendor": "KV331 Audio"
+}

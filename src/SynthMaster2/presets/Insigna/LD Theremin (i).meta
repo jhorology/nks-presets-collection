@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Handsup", "Hardstyle", "Hip House", "HipHop", "House", "Italo", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Legato", "Sine", "Version 2.5", "Mod Wheel", "Velocity Mod", "Monophonic"],
+  "name": "LD Theremin (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "c4763488-9933-4838-afe0-62555be6b83e",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Ring Mod", "Square", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "PD D50 Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "00c33baf-17d9-4a53-82d2-26a3ec38a211",
+  "vendor": "KV331 Audio"
+}

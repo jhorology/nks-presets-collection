@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Analog", "Factory", "Mod Wheel", "Monophonic", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "BS Acoustic Bass TP",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b23f237f-baf2-47e4-a6be-07ef143233f2",
+  "vendor": "KV331 Audio"
+}

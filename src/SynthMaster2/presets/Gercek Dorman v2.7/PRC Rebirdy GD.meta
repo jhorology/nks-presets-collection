@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "PRC Rebirdy GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "0f3b920c-6eba-4ebd-9b67-2fe90386836b",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Additive", "Digital", "Factory", "Layered", "Mod Wheel", "Phase Mod", "Ring Mod", "Version 2.7"],
+  "name": "FX The Ring",
+  "types": [
+    ["FX"],
+    ["Synth"]
+  ],
+  "uuid": "2bbcb2f0-c7ff-43b3-bbff-60d5f6e8316b",
+  "vendor": "KV331 Audio"
+}

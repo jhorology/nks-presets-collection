@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Oldschool Electro", "Aftertouch", "Analog", "Digital", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Version 2.7", "Wavescanning"],
+  "name": "PAD Moon Shore",
+  "types": [
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "b62a479a-d217-4d05-bd20-2e161292458c",
+  "vendor": "KV331 Audio"
+}

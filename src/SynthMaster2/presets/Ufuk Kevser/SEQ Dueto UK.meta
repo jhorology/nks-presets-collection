@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Chillout", "Electro", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Factory", "SynthMasterCM", "Version 2.5", "Mod Wheel", "Velocity Mod", "Monophonic"],
+  "name": "SEQ Dueto UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"]
+  ],
+  "uuid": "a6908616-e27a-4389-8bf6-1bb3b99b252e",
+  "vendor": "KV331 Audio"
+}

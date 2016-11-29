@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Ring Mod", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PRC Hi-Hat GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "18042104-b268-4af6-b78e-863cec50a679",
+  "vendor": "KV331 Audio"
+}

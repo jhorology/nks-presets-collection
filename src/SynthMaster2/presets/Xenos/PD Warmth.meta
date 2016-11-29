@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "Electronica", "Pop", "Rock", "Analog", "Layered", "Pulse", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "PD Warmth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "88e03277-25ea-4d63-b4e0-5a7d339c20c7",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Wavescanning", "Square"],
+  "name": "PD Sky Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "543b5ccd-4d51-46f2-9d7e-8b2713c42497",
+  "vendor": "KV331 Audio"
+}

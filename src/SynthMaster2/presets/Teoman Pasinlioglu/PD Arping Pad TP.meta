@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["HipHop", "Analog", "Metallic", "Mod Wheel", "honic", "Velocity Mod", "Version 2.5", "Unison", "Saw"],
+  "name": "PD Arping Pad TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "f0a1453c-44aa-45d1-b0a5-be4bd6798a23",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Baroque", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Classical", "Country", "Dance", "Disco", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "Funk", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Metal", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Factory", "Version 2.5", "Mod Wheel", "Aftertouch"],
+  "name": "FX Pops (i)",
+  "types": [
+    ["Drums"],
+    ["FX"],
+    ["Percussion"]
+  ],
+  "uuid": "11729bd3-e504-4b8e-8418-a992c58e58dc",
+  "vendor": "KV331 Audio"
+}

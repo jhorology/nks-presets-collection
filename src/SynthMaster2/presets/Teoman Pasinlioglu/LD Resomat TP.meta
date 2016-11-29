@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Velocity Mod", "Version 2.5", "Frequency Mod", "Unison", "Square"],
+  "name": "LD Resomat TP",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "c3a20889-13cc-4cdb-8788-811a944af839",
+  "vendor": "KV331 Audio"
+}

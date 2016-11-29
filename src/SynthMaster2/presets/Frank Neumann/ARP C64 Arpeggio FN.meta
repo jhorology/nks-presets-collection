@@ -1,0 +1,13 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Oldschool Electro", "Factory", "Mod Wheel", "Pulse", "Version 2.5", "Monophonic"],
+  "name": "ARP C64 Arpeggio FN",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"]
+  ],
+  "uuid": "67ce2d75-6355-4b2e-b2f9-0bec7ab3368a",
+  "vendor": "KV331 Audio"
+}

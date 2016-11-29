@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Pop", "Digital", "Frequency Mod", "Phase Mod", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5", "Factory"],
+  "name": "KB Digi Piano",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "d8676071-43cc-40ed-8319-909739dce459",
+  "vendor": "KV331 Audio"
+}

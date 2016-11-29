@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Legato", "Mod Wheel", "Monophonic", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "BAS Dubstepper 2 FN",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d631b398-38f6-441e-b2ce-b3c01e5f6aa3",
+  "vendor": "KV331 Audio"
+}

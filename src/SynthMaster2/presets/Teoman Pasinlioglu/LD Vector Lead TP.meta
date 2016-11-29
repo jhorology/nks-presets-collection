@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Mono", "Legato", "Vector", "Saw", "Triangle", "Sine"],
+  "name": "LD Vector Lead TP",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "006a3290-41ac-4bf7-8e4a-d200fc974bad",
+  "vendor": "KV331 Audio"
+}

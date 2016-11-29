@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Factory", "Mod Wheel", "Phase Mod", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Unison", "Monophonic"],
+  "name": "LED DXieHard",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "ca06ac60-c73e-4961-970d-8b9dec1344aa",
+  "vendor": "KV331 Audio"
+}

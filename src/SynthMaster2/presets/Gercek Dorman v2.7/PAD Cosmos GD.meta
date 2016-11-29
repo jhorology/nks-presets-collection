@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Analog", "Factory", "Layered", "Resonant", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PAD Cosmos GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "088601f4-f8fa-4557-9ea0-c8304390a41b",
+  "vendor": "KV331 Audio"
+}

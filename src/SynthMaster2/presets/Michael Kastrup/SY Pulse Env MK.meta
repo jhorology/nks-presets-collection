@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Oldschool Electro", "Pop", "Reggae", "Rock", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "PWM", "Version 2.5", "Velocity Mod"],
+  "name": "SY Pulse Env MK",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "467aa145-09b5-4c71-8db8-33a44a585b5f",
+  "vendor": "KV331 Audio"
+}

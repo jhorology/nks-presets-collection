@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Funk", "HipHop", "House", "Jazz", "Latin", "Lounge", "Minimal", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Factory", "Mod Wheel", "Phase Mod", "Sine", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "Bass FM Soft MK",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "8bd3f684-eea3-4b08-85f2-630888f0ad50",
+  "vendor": "KV331 Audio"
+}

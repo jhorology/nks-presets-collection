@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Legato", "Mod Wheel", "Sampled", "Version 2.5", "Monophonic"],
+  "name": "PAD Drop Down FN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "83ff76e7-6a4a-4f6c-b727-972f6a48cf5d",
+  "vendor": "KV331 Audio"
+}

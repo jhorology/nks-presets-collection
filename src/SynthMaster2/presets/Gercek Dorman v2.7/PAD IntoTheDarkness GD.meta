@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Sine", "Version 2.5"],
+  "name": "PAD IntoTheDarkness GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "2a94517f-1c4c-4f25-8614-e1f761fb82f6",
+  "vendor": "KV331 Audio"
+}

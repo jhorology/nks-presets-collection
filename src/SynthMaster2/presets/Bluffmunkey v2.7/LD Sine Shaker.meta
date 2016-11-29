@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey@www.bluffmunkey.co.uk",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Version 2.7"],
+  "name": "LD Sine Shaker",
+  "types": [
+    ["Lead"],
+    ["Pad"]
+  ],
+  "uuid": "6120b194-7f57-4325-b470-f9d88cc0e25c",
+  "vendor": "KV331 Audio"
+}

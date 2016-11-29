@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "SFX Downlifter FN",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "fd8644e7-c55f-414a-8b83-dacda7415414",
+  "vendor": "KV331 Audio"
+}

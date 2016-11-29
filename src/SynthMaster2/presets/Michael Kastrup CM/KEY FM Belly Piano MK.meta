@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Easy Listening", "Funk", "HipHop", "Jazz", "Latin", "Lounge", "Pop", "Soul", "Digital", "Factory", "Frequency Mod", "Sine", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "KEY FM Belly Piano MK",
+  "types": [
+    ["Bells"],
+    ["Keys"]
+  ],
+  "uuid": "62caeae8-8785-408d-bb5e-3537346e59ed",
+  "vendor": "KV331 Audio"
+}

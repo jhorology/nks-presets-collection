@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Classical", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Handsup", "Hardstyle", "Hi Nrg", "House", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PD Dyna-Phuture (i)",
+  "types": [
+    ["Pad"],
+    ["Sequence"],
+    ["Strings"]
+  ],
+  "uuid": "8efe551e-defb-40a3-b43e-edb8495c18ec",
+  "vendor": "KV331 Audio"
+}

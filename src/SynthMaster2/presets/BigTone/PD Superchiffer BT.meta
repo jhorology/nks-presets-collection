@@ -1,0 +1,15 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Ethnic", "Italo", "Lounge", "Pop", "Trance", "Additive", "Digital", "Factory", "Metallic", "Mod Wheel", "Noisy", "Pitch Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "PD Superchiffer BT",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Pad"],
+    ["Sequence"]
+  ],
+  "uuid": "67c5c800-4026-4726-9c1c-53461ea7d68e",
+  "vendor": "KV331 Audio"
+}

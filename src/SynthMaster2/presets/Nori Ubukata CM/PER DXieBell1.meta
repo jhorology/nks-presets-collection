@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Classical", "Digital", "Factory", "Mod Wheel", "Phase Mod", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "PER DXieBell1",
+  "types": [
+    ["Bells"],
+    ["Percussion"]
+  ],
+  "uuid": "25b289bc-4f88-445a-90bd-1f3cc1d57338",
+  "vendor": "KV331 Audio"
+}

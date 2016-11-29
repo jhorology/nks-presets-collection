@@ -1,0 +1,13 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["House", "Techno", "Trance", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "ARP - Butter",
+  "types": [
+    ["Arpeggiated"],
+    ["Lead"]
+  ],
+  "uuid": "19fa8816-4b96-4218-878b-1fa85bd19aa0",
+  "vendor": "KV331 Audio"
+}

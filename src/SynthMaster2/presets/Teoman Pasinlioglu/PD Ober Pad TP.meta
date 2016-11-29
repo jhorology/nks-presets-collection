@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Analog", "Mod Wheel", "Version 2.5", "Vector", "Wavetable", "Wavescanning"],
+  "name": "PD Ober Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1e9f076a-dd36-474c-9b38-b97576b29f72",
+  "vendor": "KV331 Audio"
+}

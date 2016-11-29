@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Analog", "Mod Wheel", "PWM", "Velocity Mod", "Version 2.5", "Pulse", "Triangle"],
+  "name": "PD Cyclotron TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "10852233-6a83-4396-b0b2-e849fa7c4956",
+  "vendor": "KV331 Audio"
+}

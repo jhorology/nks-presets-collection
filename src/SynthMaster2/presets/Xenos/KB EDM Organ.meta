@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "House", "Newschool Electro", "Pop", "Additive", "Analog", "Factory", "Saw", "Sine", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "KB EDM Organ",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "5009e0fe-9108-40b9-a4a0-4f42e5689e3a",
+  "vendor": "KV331 Audio"
+}

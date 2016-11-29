@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Pop", "Additive", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "Velocity Mod", "Version 2.0", "Unison"],
+  "name": "PD Dense Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "1296b794-cfad-479a-9696-232dd3496359",
+  "vendor": "KV331 Audio"
+}

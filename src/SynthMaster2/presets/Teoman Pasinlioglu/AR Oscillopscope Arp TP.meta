@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Analog", "Mod Wheel", "Version 2.5", "Mono", "Ring Mod", "Sine"],
+  "name": "AR Oscillopscope Arp TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Pad"]
+  ],
+  "uuid": "48d12e21-2e5c-4a2c-8fa5-9fdf546f9478",
+  "vendor": "KV331 Audio"
+}

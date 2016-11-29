@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Pop", "Analog", "Noisy", "Velocity Mod", "Version 2.0", "Additive", "Saw"],
+  "name": "PD Retron 2 TP",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "a4600806-78cb-409b-905f-3493735c65c5",
+  "vendor": "KV331 Audio"
+}

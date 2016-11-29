@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Analog", "Digital", "Velocity Mod", "Version 2.5", "Phase Mod", "Ring Mod", "Saw", "Mod Wheel"],
+  "name": "FX Cavity Resonator TP",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "d824a99b-b19a-4f7e-a1de-e52dff8b0767",
+  "vendor": "KV331 Audio"
+}

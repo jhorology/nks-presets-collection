@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Lounge", "Pop", "Trance", "Aftertouch", "Analog", "AudioFX", "Layered", "Mod Wheel", "Noisy", "Pitch Wheel", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Wavetable", "Factory"],
+  "name": "PD Ffm Groove Pad BT",
+  "types": [
+    ["Pad"],
+    ["Sequence"]
+  ],
+  "uuid": "63f19bed-a96e-4940-9ea3-9eb793660b10",
+  "vendor": "KV331 Audio"
+}

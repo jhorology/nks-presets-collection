@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "Disco", "DubStep", "Electro", "Electronica", "House", "Minimal", "Newschool Electro", "Techno", "Analog", "Factory", "Mod Wheel", "Pitch Wheel", "Pulse", "Ring Mod", "Velocity Mod", "Version 2.7"],
+  "name": "BA Fellow UK",
+  "types": [
+    ["Bass"],
+    ["Pluck"]
+  ],
+  "uuid": "19ff1e64-1c20-4202-9aa0-f28d1eeabfd1",
+  "vendor": "KV331 Audio"
+}

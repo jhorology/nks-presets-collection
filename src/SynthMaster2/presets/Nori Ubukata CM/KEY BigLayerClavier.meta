@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Classical", "Pop", "Rock", "Analog", "Digital", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "KEY BigLayerClavier",
+  "types": [
+    ["Keys"],
+    ["Synth"]
+  ],
+  "uuid": "e625f114-660f-4c24-9421-284d5829a258",
+  "vendor": "KV331 Audio"
+}

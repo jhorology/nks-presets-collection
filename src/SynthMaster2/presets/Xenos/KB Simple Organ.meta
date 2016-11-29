@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Electronica", "House", "Minimal", "Oldschool Electro", "Pop", "Analog", "Factory", "Sine", "Version 2.5", "Unison"],
+  "name": "KB Simple Organ",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "368fe787-49f6-4157-a452-e43bde42ac85",
+  "vendor": "KV331 Audio"
+}

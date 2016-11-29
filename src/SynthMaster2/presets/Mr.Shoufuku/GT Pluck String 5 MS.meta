@@ -1,0 +1,14 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Classical", "Factory", "Velocity Mod", "Version 2.5", "Phase Mod", "Sine", "Ring Mod", "Saw"],
+  "name": "GT Pluck String 5 MS",
+  "types": [
+    ["Guitar"],
+    ["Keys"],
+    ["Pluck"]
+  ],
+  "uuid": "1a413bb0-8f34-4ad8-abdd-3e9776081186",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "HipHop", "House", "Italo", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Pulse", "Square", "Version 2.5", "Velocity Mod"],
+  "name": "SY Square Pong MK",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "b2ec69f6-d9bb-4b98-a2e0-432419f6a4a8",
+  "vendor": "KV331 Audio"
+}

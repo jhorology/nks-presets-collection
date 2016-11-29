@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Trance", "Aftertouch", "Digital", "Factory", "Layered", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "PL Dynamic UK",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "e4c3da1b-4e1c-43c8-a103-5ad6be90880b",
+  "vendor": "KV331 Audio"
+}

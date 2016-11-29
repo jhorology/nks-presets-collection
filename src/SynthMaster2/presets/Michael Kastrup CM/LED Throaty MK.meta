@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Newschool Electro", "Oldschool Electro", "Techno", "Aftertouch", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Square", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "LED Throaty MK",
+  "types": [
+    ["Bass"],
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "c6d9a4cd-ffab-4480-a392-9199d8d8a4c5",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Disco", "Electro", "Electronica", "Pop", "Trance", "Legato", "Mod Wheel", "PWM", "Pulse", "Version 2.5", "Factory", "Monophonic"],
+  "name": "BA PWM Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "653ffb2a-f147-4efc-ad97-36cbf80a1dcf",
+  "vendor": "KV331 Audio"
+}

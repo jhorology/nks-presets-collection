@@ -1,0 +1,12 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Pulse", "Ring Mod", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "RD FM Reed 2 MS",
+  "types": [
+    ["Reed"]
+  ],
+  "uuid": "74cfc1f9-3db8-4739-9517-b8ffd7c17a0f",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Pulse", "Sampled", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PAD JayPeeQuadmixture FN",
+  "types": [
+    ["Lead"],
+    ["Pad"],
+    ["Sequence"]
+  ],
+  "uuid": "2636b517-ee71-4a47-b77a-9e74fae73d3b",
+  "vendor": "KV331 Audio"
+}

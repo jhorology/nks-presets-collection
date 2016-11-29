@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PRC PiccolonNoise GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "f5ca1314-3aee-4d8a-9a49-bf785d71bdd9",
+  "vendor": "KV331 Audio"
+}

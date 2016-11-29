@@ -1,0 +1,14 @@
+{
+  "author": "Vorpalsound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "SY Solomon VS",
+  "types": [
+    ["FX"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "999e3d58-ab78-41b2-afc4-8028f6733f7d",
+  "vendor": "KV331 Audio"
+}

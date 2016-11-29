@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.0", "Factory"],
+  "name": "BR Cold Brass TP",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "06bf16e3-c8e7-4cc2-acd5-14b1ef12df19",
+  "vendor": "KV331 Audio"
+}

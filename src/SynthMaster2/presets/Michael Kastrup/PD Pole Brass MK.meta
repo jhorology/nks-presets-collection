@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Trance", "Additive", "Aftertouch", "Digital", "Factory", "Layered", "Saw", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "PD Pole Brass MK",
+  "types": [
+    ["Flute"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "814c2bd7-1efc-437c-9ae1-ce28d889b18f",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PAD TheyAreComing GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "972eea2b-12ff-4bb9-b4ff-56a37b9ae83a",
+  "vendor": "KV331 Audio"
+}

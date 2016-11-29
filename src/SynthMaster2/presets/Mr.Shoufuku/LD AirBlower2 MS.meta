@@ -1,0 +1,14 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Legato", "Phase Mod", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "LD AirBlower2 MS",
+  "types": [
+    ["Flute"],
+    ["Lead"],
+    ["Reed"]
+  ],
+  "uuid": "45e48e26-d51a-4259-aae8-11c66180cd30",
+  "vendor": "KV331 Audio"
+}

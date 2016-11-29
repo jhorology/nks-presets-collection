@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Digital", "Metallic", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Saw"],
+  "name": "PL 80s Processed Stab TP",
+  "types": [
+    ["Brass"],
+    ["Pluck"]
+  ],
+  "uuid": "0eb041c7-40bd-4508-a6dd-c3cc8563e53a",
+  "vendor": "KV331 Audio"
+}

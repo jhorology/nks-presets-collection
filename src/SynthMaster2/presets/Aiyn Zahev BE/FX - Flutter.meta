@@ -1,0 +1,14 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "HardSync", "Legato", "Monophonic", "Pitch Wheel", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "FX - Flutter",
+  "types": [
+    ["Bass"],
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "6ca1bd42-4275-42e0-b0aa-f666cd8a5fbf",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Aftertouch", "Factory", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Pulse", "Saw", "Version 2.5"],
+  "name": "BA LoBit Psytrance",
+  "types": [
+    ["Bass"],
+    ["Pad"]
+  ],
+  "uuid": "ba07bba3-a6c0-47d8-99f2-b511b898b48c",
+  "vendor": "KV331 Audio"
+}

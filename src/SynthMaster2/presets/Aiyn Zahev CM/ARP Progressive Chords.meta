@@ -1,0 +1,12 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["House", "Techno", "Analog", "Factory", "Mod Wheel", "Phase Mod", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "ARP Progressive Chords",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "ecd8beff-237f-4dcb-adef-5d51405d95cc",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Digital", "Factory", "Sine", "Velocity Mod", "Version 2.7"],
+  "name": "KY NuEP",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "7c07ddd1-448b-4bfd-9bf0-2b9b1c513f2a",
+  "vendor": "KV331 Audio"
+}

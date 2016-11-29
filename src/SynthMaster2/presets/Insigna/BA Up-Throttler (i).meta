@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Factory", "Version 2.5", "Mod Wheel", "Velocity Mod", "Unison"],
+  "name": "BA Up-Throttler (i)",
+  "types": [
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "835c5c9f-b5e5-49ca-8818-30459518a083",
+  "vendor": "KV331 Audio"
+}

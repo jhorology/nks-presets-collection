@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "SEQ Duophony",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"]
+  ],
+  "uuid": "04f7929f-9fd3-4202-9e91-c279cb879db7",
+  "vendor": "KV331 Audio"
+}

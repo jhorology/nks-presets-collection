@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Wavetable"],
+  "name": "PD Warm Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "8c28d995-cad4-4614-b195-bbf2eab29a03",
+  "vendor": "KV331 Audio"
+}

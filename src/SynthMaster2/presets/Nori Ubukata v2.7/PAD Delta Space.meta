@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "DubStep", "Electro", "Electronica", "Minimal", "Newschool Electro", "Oldschool Electro", "Rock", "Trance", "Aftertouch", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.7", "Wavescanning"],
+  "name": "PAD Delta Space",
+  "types": [
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "356e5d72-f312-40dc-b299-1dc4098c9379",
+  "vendor": "KV331 Audio"
+}

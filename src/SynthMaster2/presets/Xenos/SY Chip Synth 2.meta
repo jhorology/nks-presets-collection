@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Pop", "Factory", "Mod Wheel", "Pulse", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "SY Chip Synth 2",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "09517d3d-b116-4b77-960c-678be38650fc",
+  "vendor": "KV331 Audio"
+}

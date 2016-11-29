@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Classical", "Rock", "Analog", "Digital", "Factory", "Phase Mod", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "BRA French Horn",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "f7af4f04-03c8-4a0a-b993-4d8c1ec17291",
+  "vendor": "KV331 Audio"
+}

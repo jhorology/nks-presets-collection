@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Minimal", "Oldschool Electro", "Pop", "Reggae", "Soul", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Saw", "Version 2.5", "Velocity Mod", "Unison"],
+  "name": "SY Perc Key MK",
+  "types": [
+    ["Keys"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "b967c47c-132f-4f35-9b22-f22d7ef413e6",
+  "vendor": "KV331 Audio"
+}

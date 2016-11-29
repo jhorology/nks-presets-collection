@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Mod Wheel", "Pulse", "Velocity Mod", "Version 2.5", "Factory", "Monophonic"],
+  "name": "SY C64 FastArps",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "3adae93b-b1f0-45b7-a960-7eeadfdddbc8",
+  "vendor": "KV331 Audio"
+}

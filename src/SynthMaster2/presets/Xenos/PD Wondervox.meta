@@ -1,0 +1,13 @@
+{
+  "author": "Xenos from KVR",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Electronica", "Pop", "LoFi", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Factory"],
+  "name": "PD Wondervox",
+  "types": [
+    ["Pad"],
+    ["Vocal"]
+  ],
+  "uuid": "28d84d1a-da16-407f-b3a4-1a711e11d4a5",
+  "vendor": "KV331 Audio"
+}

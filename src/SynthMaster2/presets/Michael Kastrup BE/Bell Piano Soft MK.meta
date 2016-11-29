@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Minimal", "Newschool Electro", "Oldschool Electro", "Pop", "Additive", "Digital", "Factory", "Mod Wheel", "Sine", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "Bell Piano Soft MK",
+  "types": [
+    ["Bells"],
+    ["Pad"]
+  ],
+  "uuid": "093c7796-02b7-421e-8207-78e9d1f3c619",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "ORG PadOfRhodes GD",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "1cd83394-f824-48c4-aff1-3ffe0a4a0db3",
+  "vendor": "KV331 Audio"
+}

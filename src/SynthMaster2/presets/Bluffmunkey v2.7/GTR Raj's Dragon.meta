@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey@www.bluffmunkey.co.uk",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Classical", "Ethnic", "Folk", "Lounge", "Minimal", "Analog", "Digital", "Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "User", "Velocity Mod", "Wavescanning", "Version 2.7"],
+  "name": "GTR Raj's Dragon",
+  "types": [
+    ["Guitar"],
+    ["Keys"]
+  ],
+  "uuid": "9507d150-99ff-4bf9-aa5f-e8fa4564c32a",
+  "vendor": "KV331 Audio"
+}

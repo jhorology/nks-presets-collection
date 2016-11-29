@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Mono", "Saw"],
+  "name": "LD Trumpet Lead TP",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "cf8a3924-6696-495f-be4a-ba3411c9a581",
+  "vendor": "KV331 Audio"
+}

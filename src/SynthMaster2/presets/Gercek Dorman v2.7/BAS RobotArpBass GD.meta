@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Wavescanning"],
+  "name": "BAS RobotArpBass GD",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "6edc9d1f-fd4b-4ac8-bb9a-f3445bdf2c0f",
+  "vendor": "KV331 Audio"
+}

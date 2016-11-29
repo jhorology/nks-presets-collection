@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Mod Wheel", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PAD Dune WInd",
+  "types": [
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "3fab1aa6-9e72-4cee-9b98-453cc40b5634",
+  "vendor": "KV331 Audio"
+}

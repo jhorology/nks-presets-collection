@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Frequency Mod", "Unison", "Wavetable", "Phase Mod", "Ring Mod", "Square"],
+  "name": "PD Stellar Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "50a574ec-8493-4b58-bd9b-08bc07b857ce",
+  "vendor": "KV331 Audio"
+}

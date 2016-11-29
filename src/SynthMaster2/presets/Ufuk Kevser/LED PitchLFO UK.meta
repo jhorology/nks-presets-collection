@@ -1,0 +1,12 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Electro", "Hardstyle", "Newschool Electro", "Factory", "Saw", "SuperSaw", "Version 2.5", "Unison", "Monophonic"],
+  "name": "LED PitchLFO UK",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "a25b0b99-656b-47ef-826f-b9f8f1fee6c0",
+  "vendor": "KV331 Audio"
+}

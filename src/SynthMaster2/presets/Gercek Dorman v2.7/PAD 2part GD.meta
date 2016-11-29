@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PAD 2part GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "69b21bef-b253-4c94-b142-b6c0b4d108a4",
+  "vendor": "KV331 Audio"
+}

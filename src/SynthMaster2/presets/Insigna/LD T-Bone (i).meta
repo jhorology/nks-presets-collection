@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Chillout", "Classical", "Dance", "DubStep", "Electro", "Electronica", "Ethnic", "Hi Nrg", "House", "Lounge", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "LD T-Bone (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Vocal"]
+  ],
+  "uuid": "616f778d-874f-4c0c-aa30-30e4cc2de81a",
+  "vendor": "KV331 Audio"
+}

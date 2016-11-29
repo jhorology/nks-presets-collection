@@ -1,0 +1,13 @@
+{
+  "author": "Vorpalsound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Frequency Mod", "HardSync", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Phase Mod", "Saw", "SuperSaw", "Version 2.5", "Version 2.7", "Wavescanning"],
+  "name": "LD Symian Lead VS",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "cbed72c8-3658-46be-808b-22d95375420c",
+  "vendor": "KV331 Audio"
+}

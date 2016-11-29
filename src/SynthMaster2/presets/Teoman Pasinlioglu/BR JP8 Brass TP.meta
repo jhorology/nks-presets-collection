@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "PWM", "Velocity Mod", "Version 2.5", "Wavetable", "Saw"],
+  "name": "BR JP8 Brass TP",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "c150031b-a1a1-4822-933b-71dd091af952",
+  "vendor": "KV331 Audio"
+}

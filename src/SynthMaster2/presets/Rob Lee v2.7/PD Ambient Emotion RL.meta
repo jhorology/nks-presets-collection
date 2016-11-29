@@ -1,0 +1,12 @@
+{
+  "author": "Rob Lee@www.roblee-music.com",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PD Ambient Emotion RL",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "25e1eb25-a6e8-4198-bf67-2228638edd6d",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "HipHop", "Pop", "Additive", "Triangle", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "PD Crunkalicious",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "edb7c163-1301-4770-a11b-a50537dd2ea1",
+  "vendor": "KV331 Audio"
+}

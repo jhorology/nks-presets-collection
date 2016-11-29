@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Ring Mod", "Saw", "SuperSaw", "Triangle", "Version 2.7"],
+  "name": "SEQ 60's SciFi Robo1",
+  "types": [
+    ["FX"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "b58ec03a-fc26-45ad-aca6-0436c34aec7e",
+  "vendor": "KV331 Audio"
+}

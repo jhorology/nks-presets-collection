@@ -1,0 +1,14 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Velocity Mod", "Version 2.5", "Saw"],
+  "name": "AR Euro Arp TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "91529545-890f-4d04-a94e-d028e49d45d9",
+  "vendor": "KV331 Audio"
+}

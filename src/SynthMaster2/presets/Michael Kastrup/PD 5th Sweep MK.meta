@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Jazz", "Lounge", "Pop", "Rock", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Resonant", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "PD 5th Sweep MK",
+  "types": [
+    ["Brass"],
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "31c8cce8-5386-4aac-b9b1-5a5d2fbb3c5b",
+  "vendor": "KV331 Audio"
+}

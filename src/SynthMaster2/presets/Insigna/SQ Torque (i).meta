@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Chillout", "Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Oldschool Electro", "Techno", "Trance", "Factory", "Saw", "SuperSaw", "Version 2.5", "Mod Wheel", "Velocity Mod", "Unison"],
+  "name": "SQ Torque (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Sequence"]
+  ],
+  "uuid": "de37dbf4-a157-4071-aee7-0b2d156486a4",
+  "vendor": "KV331 Audio"
+}

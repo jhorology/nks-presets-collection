@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Bluegrass", "Blues", "Chillout", "Country", "Disco", "Easy Listening", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Analog", "Factory", "HardSync", "Mod Wheel", "Saw", "Version 2.5", "Velocity Mod", "Unison"],
+  "name": "KY Wurly Lite MK",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "86533011-46f1-4352-986b-f0fa09128111",
+  "vendor": "KV331 Audio"
+}

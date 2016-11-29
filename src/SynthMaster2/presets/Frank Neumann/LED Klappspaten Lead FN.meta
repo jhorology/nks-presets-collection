@@ -1,0 +1,13 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Pulse", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "LED Klappspaten Lead FN",
+  "types": [
+    ["Lead"],
+    ["Sequence"]
+  ],
+  "uuid": "9e2b5aa4-5401-42d1-b1a4-d6abfd4cee3e",
+  "vendor": "KV331 Audio"
+}

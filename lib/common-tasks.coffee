@@ -133,17 +133,32 @@ module.exports =
   #   -  return null or undefine for use default.json
   dist_presets: (dir, magic, callback) ->
     presets = "src/#{dir}/presets"
+    @dist_presets_2 ["#{presets}/**/*.pchk"], dir, magic, callback, (file) ->
+      "#{presets}/#{file.relative[..-5]}meta"
+      
+  # build presets file to dist folder
+  # @srcs preset data file glob pattern
+  # @dir
+  # @magic  plugin magic id
+  # @cb1(file) optional
+  #   -  do something file.contents
+  #   -  return preset mapping filepath or mapping object.
+  #   -  return null or undefine for use default.json
+  # @cb2(file) optional
+  #   -  do something file.contents
+  #   -  return preset meta filepath or meta object.
+  dist_presets_2: (srcs, dir, magic, cb1, cb2) ->
     mappings = "src/#{dir}/mappings"
     dist = "dist/#{dir}/User Content/#{dir}"
     defaultMapping = undefined
     defaultMapping = if fs.existsSync "#{mappings}/default.json"
       _serialize util.readJson "#{mappings}/default.json"
     pluginId = _serializeMagic magic
-    gulp.src ["#{presets}/**/*.pchk"], read: true
+    gulp.src srcs, read: true
       .pipe tap (file) ->
         mapping = defaultMapping
-        mapping = if _.isFunction callback
-          m = callback file
+        mapping = if _.isFunction cb1
+          m = cb1 file
           switch
             when _.isString m
               _serialize util.readJson m
@@ -155,7 +170,9 @@ module.exports =
           defaultMapping
         riff = builder 'NIKS'
         # NISI chunk -- metadata
-        meta = _serialize util.readJson "#{presets}/#{file.relative[..-5]}meta"
+        meta = cb2 file
+        meta = util.readJson meta if _.isString meta
+        meta = _serialize meta
         riff.pushChunk 'NISI', meta
         # NACA chunk -- mapping
         riff.pushChunk 'NICA', mapping

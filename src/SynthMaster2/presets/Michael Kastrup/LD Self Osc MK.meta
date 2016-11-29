@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "HipHop", "House", "Jazz", "Lounge", "Oldschool Electro", "Pop", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Resonant", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "LD Self Osc MK",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "c15a46a3-d6d6-4e82-9ee0-7b2a966e7fbe",
+  "vendor": "KV331 Audio"
+}

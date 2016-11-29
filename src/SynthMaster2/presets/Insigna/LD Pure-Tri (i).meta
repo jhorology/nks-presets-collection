@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Chillout", "Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Oldschool Electro", "Techno", "Trance", "Digital", "Factory", "LoFi", "Mod Wheel", "Pulse", "Triangle", "Version 2.5", "Velocity Mod"],
+  "name": "LD Pure-Tri (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "f83d653c-c77e-4904-b7e5-ce9172723f81",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Velocity Mod"],
+  "name": "GTR FeedBackedVox GD",
+  "types": [
+    ["Guitar"]
+  ],
+  "uuid": "371b5e9e-bc5c-41d1-8839-2ee8a51e00cb",
+  "vendor": "KV331 Audio"
+}

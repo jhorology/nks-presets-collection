@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Classical", "Country", "Dance", "Disco", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "Funk", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "PWM", "Version 2.5", "Velocity Mod"],
+  "name": "ST PWM Strings MK",
+  "types": [
+    ["Strings"],
+    ["Synth"]
+  ],
+  "uuid": "1a939ac4-485f-4dbd-a936-af5bd0a9b974",
+  "vendor": "KV331 Audio"
+}

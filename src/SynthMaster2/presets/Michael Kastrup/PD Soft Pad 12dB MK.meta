@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "PD Soft Pad 12dB MK",
+  "types": [
+    ["Pad"],
+    ["Strings"],
+    ["Synth"]
+  ],
+  "uuid": "fc8210fe-bf49-4d2e-9c1a-3bd12e90ab5d",
+  "vendor": "KV331 Audio"
+}

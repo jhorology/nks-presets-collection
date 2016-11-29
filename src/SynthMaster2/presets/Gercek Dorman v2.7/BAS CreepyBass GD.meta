@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
+  "name": "BAS CreepyBass GD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "e47c1f72-0a94-4410-aa7e-030f84d7f748",
+  "vendor": "KV331 Audio"
+}

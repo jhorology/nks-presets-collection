@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Blues", "Breakbeat", "Chillout", "Disco", "Easy Listening", "Funk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Soul", "Aftertouch", "Factory", "Mod Wheel", "Pulse", "Version 2.5", "Velocity Mod"],
+  "name": "KY Clav MK",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "f95ca664-df6c-4a81-b093-7c47b9e1ab0f",
+  "vendor": "KV331 Audio"
+}

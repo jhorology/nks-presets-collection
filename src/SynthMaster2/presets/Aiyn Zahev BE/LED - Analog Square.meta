@@ -1,0 +1,14 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Electro", "House", "Newschool Electro", "Oldschool Electro", "Trance", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Square", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "LED - Analog Square",
+  "types": [
+    ["Bass"],
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "bc2db1e0-f7ba-4380-bc14-e7c6d8741fb3",
+  "vendor": "KV331 Audio"
+}

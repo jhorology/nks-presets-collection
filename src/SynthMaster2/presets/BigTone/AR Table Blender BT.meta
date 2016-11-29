@@ -1,0 +1,14 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Mod Wheel", "Pitch Wheel", "Resonant", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavescanning"],
+  "name": "AR Table Blender BT",
+  "types": [
+    ["Arpeggiated"],
+    ["FX"],
+    ["Keys"]
+  ],
+  "uuid": "8ea818a9-13f3-439b-96cc-b2ca289cbc58",
+  "vendor": "KV331 Audio"
+}

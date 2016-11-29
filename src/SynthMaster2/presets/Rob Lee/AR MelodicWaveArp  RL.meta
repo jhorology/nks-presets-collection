@@ -1,0 +1,12 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Factory", "Mod Wheel", "Monophonic", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "AR MelodicWaveArp  RL",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "28e9cc7a-3bd3-495c-a3db-1db706c3a0fc",
+  "vendor": "KV331 Audio"
+}

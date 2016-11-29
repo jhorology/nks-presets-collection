@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Chillout", "Classical", "Dance", "DubStep", "Electro", "Electronica", "Ethnic", "Hi Nrg", "House", "Lounge", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Saw", "Version 2.5", "Unison"],
+  "name": "LD Solostar (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "1f5bdd54-04f8-4b79-afa7-34e7534de33c",
+  "vendor": "KV331 Audio"
+}

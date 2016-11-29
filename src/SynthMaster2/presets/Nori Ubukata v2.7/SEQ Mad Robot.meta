@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "SEQ Mad Robot",
+  "types": [
+    ["FX"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "28ec77b2-8c13-4c0e-a221-f69e5609ef18",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Electro", "Electronica", "Oldschool Electro", "Trance", "Analog", "Resonant", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "PD Gyrations",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ed2488a4-46e2-42bb-860f-9ba9b0f19bc7",
+  "vendor": "KV331 Audio"
+}

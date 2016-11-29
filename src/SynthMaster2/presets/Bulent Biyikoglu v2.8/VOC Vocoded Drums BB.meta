@@ -1,0 +1,15 @@
+{
+  "author": "Bulent Biyikoglu@KV331 Audio",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "AudioFX", "Factory", "Template", "Version 2.8"],
+  "name": "VOC Vocoded Drums BB",
+  "types": [
+    ["Drums"],
+    ["FX"],
+    ["Sequence"],
+    ["Vocal"]
+  ],
+  "uuid": "84d02354-91bb-4be5-83b5-75eee5a3483c",
+  "vendor": "KV331 Audio"
+}

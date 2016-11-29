@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Newschool Electro", "Oldschool Electro", "Factory", "Gated", "Mod Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "ARP Subtle Chords MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Chords"]
+  ],
+  "uuid": "d86c890c-fbde-4804-abcd-17c8505292a6",
+  "vendor": "KV331 Audio"
+}

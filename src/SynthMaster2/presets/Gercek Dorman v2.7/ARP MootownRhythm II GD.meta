@@ -1,0 +1,15 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Version 2.7"],
+  "name": "ARP MootownRhythm II GD",
+  "types": [
+    ["Arpeggiated"],
+    ["Drums"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "8046eac1-9398-44ca-b674-79173afc6011",
+  "vendor": "KV331 Audio"
+}

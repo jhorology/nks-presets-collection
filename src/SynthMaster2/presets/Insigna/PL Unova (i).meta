@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Distorted", "Factory", "LoFi", "Mod Wheel", "PWM", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "PL Unova (i)",
+  "types": [
+    ["Lead"],
+    ["Pluck"]
+  ],
+  "uuid": "20df75ca-4f0f-4cb4-80c2-572096f90b79",
+  "vendor": "KV331 Audio"
+}

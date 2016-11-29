@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Vector", "Saw", "Square", "Pulse", "Sine"],
+  "name": "PD Vector Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "89ef5e28-d7c1-4e00-af9e-13b079d9ae08",
+  "vendor": "KV331 Audio"
+}

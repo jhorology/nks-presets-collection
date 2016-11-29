@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "GTR ReversGuitar GD",
+  "types": [
+    ["FX"],
+    ["Guitar"]
+  ],
+  "uuid": "b39b13de-2abc-420c-9392-40055a2af33d",
+  "vendor": "KV331 Audio"
+}

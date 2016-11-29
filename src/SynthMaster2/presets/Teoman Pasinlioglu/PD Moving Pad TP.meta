@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Mod Wheel", "Noisy", "Velocity Mod", "Version 2.5", "Unison", "Phase Mod", "Wavescanning"],
+  "name": "PD Moving Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c7f27de7-59b2-497b-85c4-8323ffa6f903",
+  "vendor": "KV331 Audio"
+}

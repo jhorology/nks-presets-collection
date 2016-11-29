@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pulse", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "BA DidgeriWhobber",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a428b3e7-1ae4-4b4f-b243-30e8168d88ab",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw"],
+  "name": "ARP Groovy GD",
+  "types": [
+    ["Arpeggiated"],
+    ["Drums"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "e386489c-48ef-4b62-9599-cda2ba5ffe17",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Digital", "Metallic", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Saw"],
+  "name": "PL 80s Poly Stab TP",
+  "types": [
+    ["Brass"],
+    ["Pluck"]
+  ],
+  "uuid": "a8abcf13-2b27-4dc0-a7f7-c7685af897e7",
+  "vendor": "KV331 Audio"
+}

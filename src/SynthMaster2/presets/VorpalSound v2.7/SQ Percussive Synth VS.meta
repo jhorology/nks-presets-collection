@@ -1,0 +1,15 @@
+{
+  "author": "Vorpalsound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "SQ Percussive Synth VS",
+  "types": [
+    ["Arpeggiated"],
+    ["Percussion"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "f68766ff-16a2-441e-8303-85bad5654543",
+  "vendor": "KV331 Audio"
+}

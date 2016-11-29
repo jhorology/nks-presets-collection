@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PRC NoisySnare GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "e0d4bdab-822a-47a4-913e-a79f37cd2c6e",
+  "vendor": "KV331 Audio"
+}

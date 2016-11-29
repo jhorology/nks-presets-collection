@@ -1,0 +1,14 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Trance", "Factory", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable", "Unison"],
+  "name": "PLK Wood Chimes",
+  "types": [
+    ["Guitar"],
+    ["Organ"],
+    ["Percussion"]
+  ],
+  "uuid": "0b7c1653-d037-474c-9f3d-3cb4ead27d00",
+  "vendor": "KV331 Audio"
+}

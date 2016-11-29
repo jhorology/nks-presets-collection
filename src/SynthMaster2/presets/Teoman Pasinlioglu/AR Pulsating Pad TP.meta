@@ -1,0 +1,14 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Square", "Saw"],
+  "name": "AR Pulsating Pad TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "b48bb2ba-103d-4c23-9ba6-3497968dfe04",
+  "vendor": "KV331 Audio"
+}

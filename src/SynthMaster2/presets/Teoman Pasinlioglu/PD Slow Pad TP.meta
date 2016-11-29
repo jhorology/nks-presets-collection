@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Velocity Mod", "Version 2.0", "Unison", "Additive", "Saw", "Pulse", "Sine"],
+  "name": "PD Slow Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e3743c9b-d7c8-4564-bf50-633ebf2c1fcf",
+  "vendor": "KV331 Audio"
+}

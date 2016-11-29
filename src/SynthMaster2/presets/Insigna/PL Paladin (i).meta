@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Baroque", "Chillout", "Electro", "Electronica", "Ethnic", "Folk", "HipHop", "Jazz", "Latin", "Lounge", "Techno", "Trance", "Digital", "Factory", "Frequency Mod", "Layered", "Saw", "Version 2.5", "Mod Wheel", "Aftertouch", "Velocity Mod", "Unison"],
+  "name": "PL Paladin (i)",
+  "types": [
+    ["Flute"],
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "c0dd1500-1ac3-430f-8688-8decbe2b79ca",
+  "vendor": "KV331 Audio"
+}

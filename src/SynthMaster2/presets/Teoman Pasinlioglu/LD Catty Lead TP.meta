@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Analog", "Metallic", "Mod Wheel", "honic", "Velocity Mod", "Version 2.5", "Mono", "Saw"],
+  "name": "LD Catty Lead TP",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "2e55495d-c081-4324-be24-61c0286ed561",
+  "vendor": "KV331 Audio"
+}

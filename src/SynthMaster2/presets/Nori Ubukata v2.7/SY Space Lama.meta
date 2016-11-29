@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "SY Space Lama",
+  "types": [
+    ["FX"],
+    ["Synth"],
+    ["Vocal"]
+  ],
+  "uuid": "649188d3-fbb5-410f-851e-3f318fd264d9",
+  "vendor": "KV331 Audio"
+}

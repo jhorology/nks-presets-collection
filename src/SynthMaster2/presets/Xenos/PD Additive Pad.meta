@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Electro", "Electronica", "Pop", "Additive", "Sine", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "PD Additive Pad",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b3892950-ad88-4f1c-a875-46a00747420a",
+  "vendor": "KV331 Audio"
+}

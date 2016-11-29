@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Electro", "Electronica", "Analog", "Noisy", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "PD Polar Ice",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "7d7ade46-a254-4016-8b36-d8e8ec6cd814",
+  "vendor": "KV331 Audio"
+}

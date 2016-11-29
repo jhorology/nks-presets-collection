@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Analog", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Triangle", "User", "Version 2.7", "Wavescanning"],
+  "name": "FX Kaori-wa-Oiwai",
+  "types": [
+    ["FX"],
+    ["Lead"],
+    ["Vocal"]
+  ],
+  "uuid": "22c10779-dc5b-47c3-96ef-215cf122332f",
+  "vendor": "KV331 Audio"
+}

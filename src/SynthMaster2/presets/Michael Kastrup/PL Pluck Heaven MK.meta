@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Trance", "Aftertouch", "Analog", "Factory", "Pulse", "Version 2.5", "Velocity Mod"],
+  "name": "PL Pluck Heaven MK",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "e9ddea3b-50b7-46f2-a23e-237acaa92267",
+  "vendor": "KV331 Audio"
+}

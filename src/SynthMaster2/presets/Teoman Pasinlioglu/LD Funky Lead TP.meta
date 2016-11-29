@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Funk", "Rock", "Analog", "Factory", "Legato", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "LD Funky Lead TP",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "f8731705-c117-4570-962d-397e70d8fe46",
+  "vendor": "KV331 Audio"
+}

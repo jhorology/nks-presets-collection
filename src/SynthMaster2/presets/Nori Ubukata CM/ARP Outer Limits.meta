@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "ARP Outer Limits",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"]
+  ],
+  "uuid": "fcd39e26-3f88-4a85-ab51-d92358c95bb5",
+  "vendor": "KV331 Audio"
+}

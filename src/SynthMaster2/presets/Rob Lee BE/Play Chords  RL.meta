@@ -1,0 +1,14 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Trance", "Factory", "Mod Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "Play Chords  RL",
+  "types": [
+    ["Arpeggiated"],
+    ["Chords"],
+    ["Lead"]
+  ],
+  "uuid": "eed957b6-42f8-4a2c-8e60-035e014d7bb0",
+  "vendor": "KV331 Audio"
+}

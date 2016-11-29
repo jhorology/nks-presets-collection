@@ -5,7 +5,7 @@
 #  - Synth Anthology 2
 #    - UVI Workstation v2.6.8
 #    - Library 1.0
-# 
+#
 # 2016-11-15 supportt Library changes 1.0.0 ->  1.1.1
 #   1.1.1
 #   ------------
@@ -35,7 +35,7 @@ task     = require '../lib/common-tasks'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   # dir: 'UVIWorkstationVST'
@@ -67,7 +67,7 @@ $ = Object.assign {}, (require '../config'),
     EFZ: 'ENSONiQ FiZmo'
     EK4: 'ELKA EK44'
     EMA: 'E-MU Emax'
-    ES8: 'ensoniq SQ-80' 
+    ES8: 'ensoniq SQ-80'
     ESQ: 'ensoniq ESQ-M'
     EVX: 'ensoniq VFX'
     FCX: 'Fairlight CMI IIX'
@@ -128,7 +128,7 @@ $ = Object.assign {}, (require '../config'),
     YSY: 'YAMAHA SY22'
     YX1: 'YAMAHA DX100'
     YX7: 'YAMAHA DX7'
-    
+
 # preparing tasks
 # --------------------------------
 
@@ -151,9 +151,9 @@ gulp.task "#{$.prefix}-extract-raw-presets", ->
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe tap (file) ->
-      # OCR Filename may be incorrect. 
+      # OCR Filename may be incorrect.
       # read correct file name from plugin state.
-      # 
+      #
       # - UVIWorkstation plugin states
       #   - 4byte chunkId = "UVI4"
       #   - 4byte version or flags = 1 (32bit LE)
@@ -170,15 +170,15 @@ gulp.task "#{$.prefix}-extract-raw-presets", ->
 # Extract PCHK chunk from .nksf files. update 1.1.1
 #  - ODY-Straitght Bass
 #  - KS8-Funny Pipe
-#  - P23-Pure Bell 
+#  - P23-Pure Bell
 gulp.task "#{$.prefix}-extract-raw-presets-update-1.1.1", ->
   gulp.src ["temp/#{$.dir}/update 1.1.1/**/*.nksf"]
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe tap (file) ->
-      # OCR Filename may be incorrect. 
+      # OCR Filename may be incorrect.
       # read correct file name from plugin state.
-      # 
+      #
       # - UVIWorkstation plugin states
       #   - 4byte chunkId = "UVI4"
       #   - 4byte version or flags = 1 (32bit LE)
@@ -308,7 +308,7 @@ gulp.task "#{$.prefix}-dist-presets", ->
       automation = xml.createElement 'Automation'
       engine = (xpath.select '/UVI4/Engine', xml)[0]
       engine.appendChild automation
-      
+
     params = require "../src/#{$.dir}/mappings/uvi-host-automation-params"
     for param, index in params
       automationConnection = xml.createElement 'AutomationConnection'
@@ -325,7 +325,7 @@ gulp.task "#{$.prefix}-dist-presets", ->
       zlib.deflateSync uvi4
     ]
     file.contents.writeUInt32LE uncompressedSize, 12
-    
+
     # eeturn mapping file
     "./src/#{$.dir}/mappings/default.json"
 

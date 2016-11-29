@@ -1,0 +1,12 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Noisy", "Resonant", "Version 2.5"],
+  "name": "FX ResoPower UK",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "61945030-2a8f-4c60-8ab3-da05f11d9c0b",
+  "vendor": "KV331 Audio"
+}

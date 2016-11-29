@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Oldschool Electro", "Techno", "Trance", "Additive", "Digital", "Factory", "Gated", "Mod Wheel", "Version 2.5", "Wavetable", "Velocity Mod"],
+  "name": "PA Wavetower MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "ba0c5f96-5c1a-4dbc-9d36-edd84ee94266",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Electro", "Electronica", "House", "Pop", "Techno", "Analog", "Layered", "Legato", "Mod Wheel", "Pulse", "Sine", "Version 2.5", "Factory", "Monophonic"],
+  "name": "BA Organ",
+  "types": [
+    ["Bass"],
+    ["Organ"]
+  ],
+  "uuid": "c64bcec2-cc38-4b18-b138-2521a2039050",
+  "vendor": "KV331 Audio"
+}

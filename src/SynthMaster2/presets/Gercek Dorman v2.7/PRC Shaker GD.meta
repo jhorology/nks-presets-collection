@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PRC Shaker GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "a16a1fb7-365b-48c3-95d5-7ac566b826a1",
+  "vendor": "KV331 Audio"
+}

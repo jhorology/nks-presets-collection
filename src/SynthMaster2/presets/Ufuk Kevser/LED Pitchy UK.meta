@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Glitch", "Handsup", "Hardstyle", "House", "Factory", "Legato", "Monophonic", "Saw", "SuperSaw", "Version 2.5", "Mod Wheel", "Aftertouch", "Unison"],
+  "name": "LED Pitchy UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Lead"],
+    ["Sequence"]
+  ],
+  "uuid": "8148d31e-251a-4804-a478-d1b08c0d83f5",
+  "vendor": "KV331 Audio"
+}

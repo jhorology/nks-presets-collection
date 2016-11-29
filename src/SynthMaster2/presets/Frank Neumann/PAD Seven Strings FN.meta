@@ -1,0 +1,13 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Sampled", "Version 2.5"],
+  "name": "PAD Seven Strings FN",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "77ee23c1-ad93-4d8a-810f-28d871b7961a",
+  "vendor": "KV331 Audio"
+}

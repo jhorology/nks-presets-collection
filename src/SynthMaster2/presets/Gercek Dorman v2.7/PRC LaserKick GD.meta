@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PRC LaserKick GD",
+  "types": [
+    ["FX"],
+    ["Percussion"]
+  ],
+  "uuid": "78a672bf-3df5-4b31-907a-386234d2453b",
+  "vendor": "KV331 Audio"
+}

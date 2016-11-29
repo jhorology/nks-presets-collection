@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Additive", "Digital", "Factory", "Layered", "Mod Wheel", "Phase Mod", "Ring Mod", "Sine", "Velocity Mod", "Version 2.7"],
+  "name": "KY NuPiano + Synpath",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "1ecb6065-ea8d-4831-978c-32e8dbb8c5c7",
+  "vendor": "KV331 Audio"
+}

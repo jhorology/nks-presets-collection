@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.0", "Unison", "Additive", "Saw"],
+  "name": "PD Prophet Brass TP",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "bf395276-5b7e-4644-af13-d1cecd615765",
+  "vendor": "KV331 Audio"
+}

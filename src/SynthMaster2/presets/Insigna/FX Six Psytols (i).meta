@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Baroque", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Fsu", "Funk", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Factory", "Saw", "Sine", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "FX Six Psytols (i)",
+  "types": [
+    ["Bass"],
+    ["FX"]
+  ],
+  "uuid": "33ef2d8c-1e4b-4253-991f-2774c43a20d7",
+  "vendor": "KV331 Audio"
+}

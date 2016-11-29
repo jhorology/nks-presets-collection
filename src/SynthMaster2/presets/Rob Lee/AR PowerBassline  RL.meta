@@ -1,0 +1,14 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Factory", "Mod Wheel", "Velocity Mod", "Version 2.5"],
+  "name": "AR PowerBassline  RL",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "bf75d79a-4087-4dbf-9f59-8c771eabc428",
+  "vendor": "KV331 Audio"
+}

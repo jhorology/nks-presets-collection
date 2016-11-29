@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Version 2.5", "Wavescanning"],
+  "name": "PAD BellyBass GD",
+  "types": [
+    ["Arpeggiated"],
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "fa9041b0-af8a-40fa-a461-d13a61e50023",
+  "vendor": "KV331 Audio"
+}

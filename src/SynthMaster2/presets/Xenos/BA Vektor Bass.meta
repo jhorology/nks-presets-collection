@@ -1,0 +1,12 @@
+{
+  "author": "Bulent Biyikoglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Legato", "Mod Wheel", "Pulse", "Saw", "Square", "Vector", "Velocity Mod", "Wavetable", "Factory", "Version 2.8", "Monophonic"],
+  "name": "BA Vektor Bass",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "74cae462-993e-44ac-bd8a-b18bd8a2d6e7",
+  "vendor": "KV331 Audio"
+}

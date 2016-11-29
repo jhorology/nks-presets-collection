@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PRC NoisyCrash GD",
+  "types": [
+    ["Drums"],
+    ["Percussion"]
+  ],
+  "uuid": "c96bfc36-8bb0-4798-a3f2-55bc54a39982",
+  "vendor": "KV331 Audio"
+}

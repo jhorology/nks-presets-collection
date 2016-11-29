@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "LED Random Wavescan 1",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "64c8071e-dd8e-4dff-9f1a-d5caecb2819f",
+  "vendor": "KV331 Audio"
+}

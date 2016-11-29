@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Glitch", "HipHop", "House", "Jazz", "Latin", "Lounge", "Newschool Electro", "Oldschool Electro", "Pop", "Reggae", "Aftertouch", "Factory", "Mod Wheel", "Phase Mod", "Sine", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "BAS FM Sub Vari MK",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d45e5081-6345-48f6-9174-41260255fb1b",
+  "vendor": "KV331 Audio"
+}

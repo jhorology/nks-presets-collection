@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Baroque", "Blues", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "Funk", "Lounge", "Metal", "Pop", "Reggae", "Rock", "Soul", "Additive", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Triangle", "Velocity Mod", "Version 2.5", "Wavetable", "Unison"],
+  "name": "KY Churc-Hill (i)",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "7857e157-5231-4e48-9b5c-a50320aa0c4f",
+  "vendor": "KV331 Audio"
+}

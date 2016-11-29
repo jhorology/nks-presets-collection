@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Mod Wheel", "Noisy", "Velocity Mod", "Version 2.5", "Unison", "Frequency Mod", "Ring Mod", "Triangle"],
+  "name": "PD Silent Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e742b603-415c-41ff-b291-cfc946c9ecec",
+  "vendor": "KV331 Audio"
+}

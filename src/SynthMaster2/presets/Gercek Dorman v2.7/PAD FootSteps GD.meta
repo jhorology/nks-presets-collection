@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Pulse", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "PAD FootSteps GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "9bdb15ee-18ba-4896-a31b-ce9140913b9e",
+  "vendor": "KV331 Audio"
+}

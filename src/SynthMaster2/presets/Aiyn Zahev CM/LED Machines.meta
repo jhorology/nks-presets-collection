@@ -1,0 +1,12 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DubStep", "Glitch", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "LED Machines",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "e84779a5-bae2-49e6-b329-6ac3380aa6ea",
+  "vendor": "KV331 Audio"
+}

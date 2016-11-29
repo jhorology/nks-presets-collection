@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "PRC RimClickSnare GD",
+  "types": [
+    ["Drums"],
+    ["Percussion"]
+  ],
+  "uuid": "6cd4990b-3bbe-4386-b47a-1c1c843c8c84",
+  "vendor": "KV331 Audio"
+}

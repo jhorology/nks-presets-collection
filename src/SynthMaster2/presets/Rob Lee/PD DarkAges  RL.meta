@@ -1,0 +1,13 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Factory", "Version 2.5", "Mod Wheel", "Velocity Mod", "Unison"],
+  "name": "PD DarkAges  RL",
+  "types": [
+    ["Chords"],
+    ["Pad"]
+  ],
+  "uuid": "d551a0bb-067f-4d2e-a3f1-c1e39ed0c52b",
+  "vendor": "KV331 Audio"
+}

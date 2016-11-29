@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Chillout", "Classical", "Dance", "DubStep", "Electro", "Electronica", "Ethnic", "Hi Nrg", "House", "Lounge", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "LD Anybody Else (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Vocal"]
+  ],
+  "uuid": "d6f8fe55-9554-4bd6-9f7c-af5c0f9b5586",
+  "vendor": "KV331 Audio"
+}

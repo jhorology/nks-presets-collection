@@ -1,0 +1,14 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Techno", "Factory", "Legato", "Monophonic", "Pulse", "Sine", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "Space Traveller  RL",
+  "types": [
+    ["Arpeggiated"],
+    ["FX"],
+    ["Lead"]
+  ],
+  "uuid": "cacf1f67-51c7-416c-a93b-87c1e41a5751",
+  "vendor": "KV331 Audio"
+}

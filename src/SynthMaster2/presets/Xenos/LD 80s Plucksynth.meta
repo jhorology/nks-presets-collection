@@ -1,0 +1,12 @@
+{
+  "author": "Xenos from KVR",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Pop", "Analog", "Mod Wheel", "Pulse", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Factory"],
+  "name": "LD 80s Plucksynth",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "0aa5dd67-d755-448f-aa0e-43a97868a6ea",
+  "vendor": "KV331 Audio"
+}

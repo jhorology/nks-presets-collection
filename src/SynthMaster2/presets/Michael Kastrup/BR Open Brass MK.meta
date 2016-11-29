@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Blues", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "BR Open Brass MK",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "389dafcf-9259-4f3c-bd39-59b24ff25a79",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Digital", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "SY Digi Bells",
+  "types": [
+    ["Percussion"],
+    ["Synth"]
+  ],
+  "uuid": "627c08c7-2d6f-4f84-a67b-001d9fc8de68",
+  "vendor": "KV331 Audio"
+}

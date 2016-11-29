@@ -1,0 +1,15 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Handsup", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "PWM", "Version 2.5", "Velocity Mod"],
+  "name": "SY Juno Pling MK",
+  "types": [
+    ["Keys"],
+    ["Pluck"],
+    ["Strings"],
+    ["Synth"]
+  ],
+  "uuid": "c6636517-6e3e-48e6-9c9d-91bb3e178b1c",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Sampled", "Version 2.5"],
+  "name": "PAD Saitenpad FN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "dde61b8a-409c-4b63-b465-dcdd6f49413b",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Wavetable"],
+  "name": "PD Hybrid Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a9ee7e74-a4e0-42d8-acd9-815b7e73388f",
+  "vendor": "KV331 Audio"
+}

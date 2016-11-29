@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Soul", "Additive", "Digital", "Factory", "Sine", "Version 2.5", "Velocity Mod"],
+  "name": "BL Celeste MK",
+  "types": [
+    ["Bells"],
+    ["Synth"]
+  ],
+  "uuid": "1569c7db-fe49-4d7a-8d9c-cf402a36d788",
+  "vendor": "KV331 Audio"
+}

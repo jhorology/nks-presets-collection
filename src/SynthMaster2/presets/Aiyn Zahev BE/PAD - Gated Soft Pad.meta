@@ -1,0 +1,13 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Electro", "House", "Trance", "Analog", "Factory", "Gated", "Mod Wheel", "Pitch Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "PAD - Gated Soft Pad",
+  "types": [
+    ["Arpeggiated"],
+    ["Pad"]
+  ],
+  "uuid": "9a65bcab-8ccd-4c26-9dbd-51ef6690e02d",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Distorted", "Factory", "Mod Wheel", "Version 2.5", "Phase Mod", "Additive", "Sine", "Ring Mod"],
+  "name": "OR Hard Rock Organ MS",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "9e357e63-181e-4f11-93ce-ec81f06630a7",
+  "vendor": "KV331 Audio"
+}

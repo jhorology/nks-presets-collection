@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DnB", "Electro", "Handsup", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Additive", "Factory", "Version 2.5", "Monophonic"],
+  "name": "SEQ TripletStar UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "1649fcf0-ec35-4962-acf2-6eb64745d9cb",
+  "vendor": "KV331 Audio"
+}

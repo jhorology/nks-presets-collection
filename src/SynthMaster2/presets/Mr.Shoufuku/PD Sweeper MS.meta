@@ -1,0 +1,12 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "DubStep", "Electro", "Electronica", "Rock", "Techno", "Trance", "Digital", "Factory", "Phase Mod", "Resonant", "Ring Mod", "Saw", "Sine", "Velocity Mod", "Version 2.5"],
+  "name": "PD Sweeper MS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e1669fc0-3e15-43ed-81cb-f1a97a28e738",
+  "vendor": "KV331 Audio"
+}

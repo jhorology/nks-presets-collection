@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Classical", "Pop", "Rock", "Aftertouch", "Analog", "Digital", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "ST Expressive",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "11663576-01cd-486c-9b52-d6ff50022bda",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Digital", "Factory", "Layered", "Legato", "Mod Wheel", "Monophonic", "PWM", "Saw", "SuperSaw", "Unison", "Velocity Mod", "Version 2.7"],
+  "name": "LD Dreamer 2 UK",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "16172cd0-699b-4824-8e21-0d08e3d9d560",
+  "vendor": "KV331 Audio"
+}

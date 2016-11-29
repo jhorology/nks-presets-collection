@@ -1,0 +1,13 @@
+{
+  "author": "Vorpalsound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "PA Hidden VS",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "f32c0549-51d9-436f-9dd4-76bd94f702d3",
+  "vendor": "KV331 Audio"
+}

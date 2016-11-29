@@ -1,0 +1,15 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "Disco", "DubStep", "Easy Listening", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Factory", "Gated", "Layered", "Mod Wheel", "Saw", "User", "Velocity Mod", "Version 2.5"],
+  "name": "LD Taken (i)",
+  "types": [
+    ["Arpeggiated"],
+    ["Keys"],
+    ["Lead"],
+    ["Sequence"]
+  ],
+  "uuid": "57a5e8b0-9342-42d3-9935-2baf889559d5",
+  "vendor": "KV331 Audio"
+}

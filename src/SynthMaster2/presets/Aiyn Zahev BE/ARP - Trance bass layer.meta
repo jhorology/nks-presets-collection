@@ -1,0 +1,15 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Electronica", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "Mod Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison", "Monophonic"],
+  "name": "ARP - Trance bass layer",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"],
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "198db548-2cfa-4f3e-9a7a-5d507f29b1ac",
+  "vendor": "KV331 Audio"
+}

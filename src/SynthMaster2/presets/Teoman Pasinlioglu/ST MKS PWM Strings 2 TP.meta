@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Layered", "PWM", "Velocity Mod", "Version 2.5", "Unison", "Pulse", "Saw"],
+  "name": "ST MKS PWM Strings 2 TP",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "ef18a778-8a32-4de2-b22e-0e97790d96ff",
+  "vendor": "KV331 Audio"
+}

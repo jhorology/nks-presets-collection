@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Electro", "Oldschool Electro", "Analog", "Digital", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "PAD Wavepaddy",
+  "types": [
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "8a26788f-de77-48ed-bef9-1606d6c7e4b7",
+  "vendor": "KV331 Audio"
+}

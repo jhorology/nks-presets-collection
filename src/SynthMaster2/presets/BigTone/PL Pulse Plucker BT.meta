@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "DnB", "Easy Listening", "Electro", "Electronica", "Hardstyle", "Hi Nrg", "Italo", "Lounge", "New Beat", "Oldschool Electro", "Techno", "Trance", "Additive", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Noisy", "PWM", "Pitch Wheel", "Pulse", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PL Pulse Plucker BT",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "f001aea3-7aae-411d-822b-be107c1a649d",
+  "vendor": "KV331 Audio"
+}

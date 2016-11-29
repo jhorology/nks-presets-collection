@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "LED Stranger FN",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "53d1949c-a54f-4768-ba18-6e75d47d04d4",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Blues", "Breakbeat", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Newschool Electro", "Oldschool Electro", "Pop", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "BRA Jazzy MK",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "95e74a4d-ae0d-41c9-83bb-a9c1d8988c87",
+  "vendor": "KV331 Audio"
+}

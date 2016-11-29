@@ -1,0 +1,15 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Newschool Electro", "Trance", "Analog", "Distorted", "Factory", "Metallic", "Mod Wheel", "Saw", "SuperSaw", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "ARP - Uplifting",
+  "types": [
+    ["Arpeggiated"],
+    ["Lead"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "a010290a-df95-44dd-98b1-0c6edf38b60c",
+  "vendor": "KV331 Audio"
+}

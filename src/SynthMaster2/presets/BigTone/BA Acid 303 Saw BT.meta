@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Breakbeat", "Dance", "Easy Listening", "Electro", "Electronica", "House", "Lounge", "Minimal", "Techno", "Trance", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Pitch Wheel", "Resonant", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "BA Acid 303 Saw BT",
+  "types": [
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "e128c641-20d9-4e1f-980c-d7407ee3ffb4",
+  "vendor": "KV331 Audio"
+}

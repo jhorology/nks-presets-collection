@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Aftertouch", "Analog", "Factory", "Legato", "Pulse", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "LD Simple Flute MK",
+  "types": [
+    ["Flute"],
+    ["Lead"]
+  ],
+  "uuid": "f0418272-7474-42eb-981e-5ee136f1217f",
+  "vendor": "KV331 Audio"
+}

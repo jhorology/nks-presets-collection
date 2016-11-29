@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Folk", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Pulse", "Version 2.5", "Velocity Mod"],
+  "name": "BA Floyd Bass MK",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b4e04b29-ccad-4438-a704-516dc96b272a",
+  "vendor": "KV331 Audio"
+}

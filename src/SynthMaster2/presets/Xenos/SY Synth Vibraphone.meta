@@ -1,0 +1,13 @@
+{
+  "author": "Xenos from KVR",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Electronica", "HipHop", "Pop", "Additive", "Mod Wheel", "Sine", "Square", "Velocity Mod", "Version 2.5", "Factory"],
+  "name": "SY Synth Vibraphone",
+  "types": [
+    ["Percussion"],
+    ["Synth"]
+  ],
+  "uuid": "bcd2d221-3e54-4d07-84b0-b576fe089309",
+  "vendor": "KV331 Audio"
+}

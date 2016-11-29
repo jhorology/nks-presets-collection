@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PAD Megawavetable FN",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "5edaa473-1df5-4cd6-9a91-257fe3798b52",
+  "vendor": "KV331 Audio"
+}

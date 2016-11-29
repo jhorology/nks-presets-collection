@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Ring Mod", "Vector", "Triangle", "Sine"],
+  "name": "PD Viscous Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "e0aea556-2d76-44a1-ac58-2aa11f05d3ef",
+  "vendor": "KV331 Audio"
+}

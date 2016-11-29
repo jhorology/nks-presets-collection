@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "Amplitude Mod", "Analog", "AudioFX", "Factory", "Layered", "Mod Wheel", "Noisy", "Pitch Wheel", "Resonant", "Saw", "Sine", "SuperSaw", "Version 2.5"],
+  "name": "PD T-raumstation BT",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "c31fe10e-ded5-442a-a9d8-a1c7a2cfe8ee",
+  "vendor": "KV331 Audio"
+}

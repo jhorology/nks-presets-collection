@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Handsup", "Hardstyle", "House", "Italo", "Minimal", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "Square", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "Pluck Juno MK",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "55b4081f-f4bf-4c40-9729-241941842e2a",
+  "vendor": "KV331 Audio"
+}

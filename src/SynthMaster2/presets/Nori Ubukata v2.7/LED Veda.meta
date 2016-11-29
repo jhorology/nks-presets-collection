@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "LED Veda",
+  "types": [
+    ["Lead"],
+    ["Synth"],
+    ["Vocal"]
+  ],
+  "uuid": "b64cbce9-c1d2-4034-921d-c9db6b6f60fa",
+  "vendor": "KV331 Audio"
+}

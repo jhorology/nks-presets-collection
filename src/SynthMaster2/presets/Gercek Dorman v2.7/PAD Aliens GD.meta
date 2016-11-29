@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "PAD Aliens GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "a9cfb21b-2088-4a65-bbf7-05a822841e24",
+  "vendor": "KV331 Audio"
+}

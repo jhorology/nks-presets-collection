@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Minimal", "Additive", "Analog", "Factory", "Layered", "Mod Wheel", "Saw", "Version 2.5"],
+  "name": "MO Tokyo Lights MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "49dcdc2b-a408-467f-8952-3ddc1d47870f",
+  "vendor": "KV331 Audio"
+}

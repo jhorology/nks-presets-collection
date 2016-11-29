@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Oldschool Electro", "Rock", "Techno", "Digital", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavescanning", "Unison", "Monophonic"],
+  "name": "LED Velociraptor",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "f8d593b1-ce1d-4d9f-9fb6-c6e7189d21d0",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Chillout", "Electro", "Electronica", "Funk", "HipHop", "Reggae", "Factory", "Version 2.5"],
+  "name": "FX Scratch UK",
+  "types": [
+    ["Drums"],
+    ["FX"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "1c3ac04b-ec22-4111-8dde-fdc42b4a62ce",
+  "vendor": "KV331 Audio"
+}

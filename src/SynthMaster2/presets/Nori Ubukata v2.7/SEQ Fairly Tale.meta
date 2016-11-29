@@ -1,0 +1,15 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Layered", "Legato", "Monophonic", "Pulse", "Saw", "SuperSaw", "Version 2.7", "Wavescanning"],
+  "name": "SEQ Fairly Tale",
+  "types": [
+    ["Guitar"],
+    ["Percussion"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "d8779a3a-410f-42c4-b747-d40f89952560",
+  "vendor": "KV331 Audio"
+}

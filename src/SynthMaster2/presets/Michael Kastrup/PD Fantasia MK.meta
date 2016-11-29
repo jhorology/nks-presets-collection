@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Soul", "Trance", "Additive", "Digital", "Factory", "Layered", "Version 2.5", "Velocity Mod"],
+  "name": "PD Fantasia MK",
+  "types": [
+    ["Bells"],
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "3b7c0c18-e8f6-4c67-8789-402604c4b623",
+  "vendor": "KV331 Audio"
+}

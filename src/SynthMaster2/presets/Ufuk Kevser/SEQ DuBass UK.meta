@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DubStep", "Handsup", "Distorted", "Factory", "Version 2.5", "Monophonic"],
+  "name": "SEQ DuBass UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "5d4f9a8d-fb8f-483a-9d1b-699332ac7233",
+  "vendor": "KV331 Audio"
+}

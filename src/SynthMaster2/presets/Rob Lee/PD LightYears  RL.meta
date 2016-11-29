@@ -1,0 +1,13 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Factory", "Mod Wheel", "Monophonic", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "PD LightYears  RL",
+  "types": [
+    ["Chords"],
+    ["Pad"]
+  ],
+  "uuid": "709d632f-0512-4518-894e-a22a91301632",
+  "vendor": "KV331 Audio"
+}

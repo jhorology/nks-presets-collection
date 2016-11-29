@@ -1,0 +1,14 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "House", "Minimal", "Trance", "Factory", "Saw", "Square", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Wavetable", "Unison"],
+  "name": "House Plucker  RL",
+  "types": [
+    ["Bass"],
+    ["Lead"],
+    ["Pluck"]
+  ],
+  "uuid": "27ef28d1-f629-4a82-a5dd-10e3d73dee5a",
+  "vendor": "KV331 Audio"
+}

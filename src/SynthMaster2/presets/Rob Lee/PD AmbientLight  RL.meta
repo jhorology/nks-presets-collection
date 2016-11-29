@@ -1,0 +1,12 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Factory", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "PD AmbientLight  RL",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "6dcabb0d-b423-4481-adfd-ec7f53891d96",
+  "vendor": "KV331 Audio"
+}

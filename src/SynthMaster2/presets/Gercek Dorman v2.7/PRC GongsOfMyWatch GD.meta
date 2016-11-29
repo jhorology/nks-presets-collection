@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Noisy", "Phase Mod", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PRC GongsOfMyWatch GD",
+  "types": [
+    ["Bells"],
+    ["Percussion"]
+  ],
+  "uuid": "7a8f8c36-ecca-47a0-ba55-be359fd4ff66",
+  "vendor": "KV331 Audio"
+}

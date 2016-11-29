@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "ARP PercussiveArpeggiator GD",
+  "types": [
+    ["Arpeggiated"],
+    ["Drums"],
+    ["Percussion"]
+  ],
+  "uuid": "d848fd34-129f-4166-9acd-fe00db9449c1",
+  "vendor": "KV331 Audio"
+}

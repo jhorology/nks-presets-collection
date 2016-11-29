@@ -1,0 +1,12 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Blues", "Classical", "Funk", "Jazz", "Pop", "Rock", "Soul", "Factory", "Phase Mod", "Ring Mod", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "BR FM Mute Brass MS",
+  "types": [
+    ["Brass"]
+  ],
+  "uuid": "caf3e6c7-3900-4ef9-9471-33ac709f0abc",
+  "vendor": "KV331 Audio"
+}

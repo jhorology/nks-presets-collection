@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "STR DistortedStrings GD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "bbe11296-6967-4ad0-b379-c078949465bc",
+  "vendor": "KV331 Audio"
+}

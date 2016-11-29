@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Analog", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "ORG Electrorgan",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "73c73758-e118-4dbb-b498-ff70e591cb2c",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "KY HonkeyTonk Tronpiano",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "6a66fbf8-9351-4262-955b-860db7ff7858",
+  "vendor": "KV331 Audio"
+}

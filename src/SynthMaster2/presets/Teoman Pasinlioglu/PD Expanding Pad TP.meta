@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Wavetable"],
+  "name": "PD Expanding Pad TP",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "1dd4cf46-d187-4014-ba1c-96c3aad603dc",
+  "vendor": "KV331 Audio"
+}

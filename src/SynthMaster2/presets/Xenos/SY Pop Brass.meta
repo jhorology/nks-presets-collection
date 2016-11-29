@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "Electronica", "Pop", "Analog", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "name": "SY Pop Brass",
+  "types": [
+    ["Brass"],
+    ["Synth"]
+  ],
+  "uuid": "ecd0f053-41ae-419f-b0bb-0a1110f608ad",
+  "vendor": "KV331 Audio"
+}

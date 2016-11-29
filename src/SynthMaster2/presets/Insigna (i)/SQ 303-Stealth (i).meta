@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "Easy Listening", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Lounge", "Minimal", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pulse", "Resonant", "Saw", "Square", "Version 2.5", "Pitch Wheel", "Velocity Mod"],
+  "name": "SQ 303-Stealth (i)",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "51502a54-58d4-44b8-98ac-ef49fae4704d",
+  "vendor": "KV331 Audio"
+}

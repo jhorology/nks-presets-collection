@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Hi Nrg", "House", "Italo", "Minimal", "New Beat", "Oldschool Electro", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Phase Mod", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "BA Analog Seq Bass BT",
+  "types": [
+    ["Bass"],
+    ["Pluck"]
+  ],
+  "uuid": "33b78e78-00c5-4bff-8878-f6d0b495a5e7",
+  "vendor": "KV331 Audio"
+}

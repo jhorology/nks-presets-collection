@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "STR MemoryOfThePast GD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "03a722d1-deb7-44b7-b2a7-75a0e83bb352",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "Electronica", "Handsup", "Hardstyle", "Hi Nrg", "Italo", "Pop", "Techno", "Trance", "Factory", "Gated", "Mod Wheel", "Saw", "SuperSaw", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "ARP HiPass Stabber MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Chords"]
+  ],
+  "uuid": "670d3c87-2ab7-4346-91a7-39a019fbd99a",
+  "vendor": "KV331 Audio"
+}

@@ -154,9 +154,9 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
     file.path = path.join dirname, meta.types[0][0], file.relative
 
 # export from .nksf to .bwpreset bitwig studio preset
-# 
+#
 # TODO bitwig won't restore plugin state.
-# 
+#
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
   task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
   , "#{$.Bitwig.presets}/V-Station"

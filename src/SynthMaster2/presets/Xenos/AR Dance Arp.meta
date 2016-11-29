@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Disco", "Trance", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Sine", "Version 2.5", "Unison"],
+  "name": "AR Dance Arp",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "bd02a834-1f95-4102-9084-2d585cb9487a",
+  "vendor": "KV331 Audio"
+}

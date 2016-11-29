@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "KY SlappSnth",
+  "types": [
+    ["Keys"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "3bd8298d-0537-4e56-b055-8ae101d85d6a",
+  "vendor": "KV331 Audio"
+}

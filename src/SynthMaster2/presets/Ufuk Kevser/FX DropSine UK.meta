@@ -1,0 +1,12 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "DubStep", "Electro", "Electronica", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Factory", "Noisy", "Version 2.5"],
+  "name": "FX DropSine UK",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "62db176b-71f9-4861-af30-1f7007ac469c",
+  "vendor": "KV331 Audio"
+}

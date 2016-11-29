@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Oldschool Electro", "Rock", "Analog", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "LED DinoAnalog",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "429cafb0-dec8-4cb6-aa03-3509aa9b6528",
+  "vendor": "KV331 Audio"
+}

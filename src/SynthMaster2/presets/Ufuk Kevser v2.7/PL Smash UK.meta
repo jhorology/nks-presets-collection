@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Newschool Electro", "Trance", "Analog", "Distorted", "Factory", "Metallic", "Mod Wheel", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Unison", "Velocity Mod", "Version 2.7"],
+  "name": "PL Smash UK",
+  "types": [
+    ["Lead"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "5353191d-c433-4551-a15b-51c1dadc1ac8",
+  "vendor": "KV331 Audio"
+}

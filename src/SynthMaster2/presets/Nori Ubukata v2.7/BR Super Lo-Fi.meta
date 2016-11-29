@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Analog", "Digital", "Factory", "LoFi", "Mod Wheel", "Velocity Mod", "Version 2.7"],
+  "name": "BR Super Lo-Fi",
+  "types": [
+    ["Brass"],
+    ["Pad"],
+    ["Synth"]
+  ],
+  "uuid": "fc3f01a6-715f-42cb-9db1-d53554bfe092",
+  "vendor": "KV331 Audio"
+}

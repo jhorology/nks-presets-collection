@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Baroque", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "Funk", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Latin", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Factory", "Version 2.5", "Mod Wheel"],
+  "name": "DR DynaHihat Producer I (i)",
+  "types": [
+    ["Drums"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "eb53dd96-13bd-445f-b6f3-16ffc74e7702",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Electro", "Electronica", "Glitch", "Pop", "Digital", "Mod Wheel", "Version 2.5", "Wavescanning", "Wavetable", "Factory", "Unison"],
+  "name": "KB Tonewheel Surrealism",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "e62cc340-9149-42c3-bd79-5c193bfc1bc6",
+  "vendor": "KV331 Audio"
+}

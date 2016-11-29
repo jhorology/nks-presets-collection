@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Breakbeat", "Dance", "Easy Listening", "Electro", "Electronica", "House", "Lounge", "Minimal", "Techno", "Trance", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Pitch Wheel", "Resonant", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "BA Acid 303 Pulse BT",
+  "types": [
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "c452fdf3-6965-4ddb-b164-8e60f7908a3d",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Layered", "Phase Mod", "Ring Mod", "Version 2.5", "Wavetable"],
+  "name": "PD Silver Pad MS",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "0604ba89-0db0-4443-bdb1-cb2fb20d42b2",
+  "vendor": "KV331 Audio"
+}

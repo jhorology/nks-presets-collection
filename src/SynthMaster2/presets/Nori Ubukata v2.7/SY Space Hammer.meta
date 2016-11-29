@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Expansion", "Factory", "Metallic", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "SY Space Hammer",
+  "types": [
+    ["Keys"],
+    ["Synth"]
+  ],
+  "uuid": "bdf35b25-cffc-4bb0-a927-5bdec595c160",
+  "vendor": "KV331 Audio"
+}

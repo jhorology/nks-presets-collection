@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Electronica", "HipHop", "Pop", "Additive", "Sine", "Version 2.5", "Factory"],
+  "name": "KB Additive Organ",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "3b7a71db-6696-439b-9aba-874a70dc1862",
+  "vendor": "KV331 Audio"
+}

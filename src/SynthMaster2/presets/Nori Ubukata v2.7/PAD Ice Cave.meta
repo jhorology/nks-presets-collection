@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "PAD Ice Cave",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "a7668af9-214b-4e09-bf1b-f1c72bc28375",
+  "vendor": "KV331 Audio"
+}

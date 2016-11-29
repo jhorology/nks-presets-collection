@@ -1,0 +1,13 @@
+{
+  "author": "Vorpalsound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "DnB", "DubStep", "Electro", "Electronica", "Additive", "Factory", "Frequency Mod", "Layered", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PA Specter VS",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "3ab714ef-e8b4-4786-aede-892c879d6c34",
+  "vendor": "KV331 Audio"
+}

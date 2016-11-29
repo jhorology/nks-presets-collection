@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "PWM", "Version 2.5", "Wavetable", "Factory", "Mod Wheel", "Unison", "Monophonic"],
+  "name": "BA Juno Bass TP",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "9c5de8ca-26a0-480a-80a7-51f89aa6d491",
+  "vendor": "KV331 Audio"
+}

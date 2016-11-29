@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "House", "Techno", "Trance", "Factory", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Unison"],
+  "name": "LED ChordMe UK",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "5e69e8c4-7054-4d33-a318-d8dc8c8129f2",
+  "vendor": "KV331 Audio"
+}

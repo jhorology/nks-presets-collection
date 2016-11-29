@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Saw", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "BR Slow Brass MK",
+  "types": [
+    ["Brass"],
+    ["Synth"]
+  ],
+  "uuid": "87f2e7e0-59ef-4bef-ba6d-51e258a87917",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "Legato", "Monophonic", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "SEQ Plan 11",
+  "types": [
+    ["FX"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "fa7e7a16-9941-45c1-ac9e-856cd1c18381",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "PRC StudioKick GD",
+  "types": [
+    ["Drums"],
+    ["Percussion"]
+  ],
+  "uuid": "a54d8634-f48d-4064-acb7-73226d2c63e5",
+  "vendor": "KV331 Audio"
+}

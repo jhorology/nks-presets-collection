@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Disco", "Easy Listening", "Folk", "Funk", "HipHop", "House", "Jazz", "Latin", "Lounge", "Minimal", "Pop", "Reggae", "Rock", "Soul", "Factory", "Phase Mod", "Sine", "Version 2.5", "Mod Wheel"],
+  "name": "PLK Paddy UK",
+  "types": [
+    ["Keys"],
+    ["Synth"]
+  ],
+  "uuid": "99662151-9d5d-486c-a6aa-c9a6f4fe0f64",
+  "vendor": "KV331 Audio"
+}

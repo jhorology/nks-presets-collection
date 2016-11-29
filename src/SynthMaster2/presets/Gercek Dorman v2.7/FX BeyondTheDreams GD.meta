@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Unison"],
+  "name": "FX BeyondTheDreams GD",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "0d2a6530-4896-4c30-a4f6-8991ec9aa508",
+  "vendor": "KV331 Audio"
+}

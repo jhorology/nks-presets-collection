@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Pulse", "Saw", "Square", "Version 2.5", "Aftertouch", "Velocity Mod"],
+  "name": "BA Juno Bass MK",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "a2c55e4d-b70c-4cf8-a948-57a44b85006e",
+  "vendor": "KV331 Audio"
+}

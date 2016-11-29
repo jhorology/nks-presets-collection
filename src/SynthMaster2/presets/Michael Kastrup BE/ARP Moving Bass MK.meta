@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Hardstyle", "House", "Italo", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Pulse", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "name": "ARP Moving Bass MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "beca8b7d-ed73-4339-a125-c95f97d0da65",
+  "vendor": "KV331 Audio"
+}

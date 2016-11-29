@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Electro", "Electronica", "Factory", "PWM", "Pitch Wheel", "Pulse", "Version 2.5", "Monophonic"],
+  "name": "SEQ 8 bit UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "ed05b340-8eb8-4f15-8f14-f20a9b09bba4",
+  "vendor": "KV331 Audio"
+}

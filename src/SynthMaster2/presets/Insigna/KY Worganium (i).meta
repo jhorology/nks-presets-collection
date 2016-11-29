@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Baroque", "Disco", "Electro", "Electronica", "Folk", "Funk", "House", "Latin", "Newschool Electro", "Pop", "Rock", "Techno", "Trance", "Additive", "Analog", "Factory", "Mod Wheel", "Resonant", "Saw", "Sine", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "KY Worganium (i)",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "390a28af-1a25-407f-830c-5ee0588e7820",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Rock", "Digital", "Factory", "Frequency Mod", "Layered", "Metallic", "Phase Mod", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PN Vulcan Piano MS",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "0f3b84ee-5e01-476d-afe9-3f8e0d7ae8d1",
+  "vendor": "KV331 Audio"
+}

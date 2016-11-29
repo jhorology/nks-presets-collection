@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Funk", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Saw", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "STR Simple Saw MK",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "5e7b53d1-8d3b-4909-8a99-5a0e7a5d575f",
+  "vendor": "KV331 Audio"
+}

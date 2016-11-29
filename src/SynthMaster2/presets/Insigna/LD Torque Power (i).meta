@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Chillout", "Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "House", "Oldschool Electro", "Techno", "Trance", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "LD Torque Power (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "bdec3b0a-626e-47eb-8687-2b0a9ec51eed",
+  "vendor": "KV331 Audio"
+}

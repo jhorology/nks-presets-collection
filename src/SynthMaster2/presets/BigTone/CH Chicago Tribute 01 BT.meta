@@ -1,0 +1,17 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Breakbeat", "Chillout", "Dance", "Electro", "Electronica", "Hip House", "House", "Newschool Electro", "Techno", "Factory", "HardSync", "Layered", "Mod Wheel", "honic", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Mono", "Legato", "Additive", "Square", "Saw", "Wavetable", "Monophonic"],
+  "name": "CH Chicago Tribute 01 BT",
+  "types": [
+    ["Bass"],
+    ["Chords"],
+    ["Keys"],
+    ["Lead"],
+    ["Organ"],
+    ["Piano"]
+  ],
+  "uuid": "a83165c6-483d-4d03-bbd9-f42b407ec5c7",
+  "vendor": "KV331 Audio"
+}

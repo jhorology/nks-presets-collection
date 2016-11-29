@@ -1,0 +1,14 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Additive", "Digital", "Factory", "Mod Wheel", "Phase Mod", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "ARP Abyss",
+  "types": [
+    ["Arpeggiated"],
+    ["Bells"],
+    ["Pad"]
+  ],
+  "uuid": "1b9b163f-90dd-4f21-9971-7fa961d3b6cc",
+  "vendor": "KV331 Audio"
+}

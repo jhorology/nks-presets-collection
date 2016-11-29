@@ -1,0 +1,12 @@
+{
+  "author": "Frank Neumann@Particular Sound",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Pulse", "Saw", "Square", "SuperSaw", "Version 2.5", "Monophonic"],
+  "name": "ARP Hard Bass FN",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1bb7885d-f264-4c46-843d-b8ea1894b8ca",
+  "vendor": "KV331 Audio"
+}

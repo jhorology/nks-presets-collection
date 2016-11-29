@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "DubStep", "Electro", "Electronica", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Oldschool Electro", "Techno", "Trance", "Factory", "Legato", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable", "Unison", "Monophonic"],
+  "name": "BA BassStrong (i)",
+  "types": [
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "c178216f-9e87-4e88-8c83-2b42abf3093d",
+  "vendor": "KV331 Audio"
+}

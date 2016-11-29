@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Pop", "Reggae", "Techno", "Trance", "Additive", "Analog", "Factory", "Mod Wheel", "Saw", "Version 2.5", "Aftertouch", "Velocity Mod", "Unison"],
+  "name": "SY Chord Min7 MK",
+  "types": [
+    ["Chords"],
+    ["Synth"]
+  ],
+  "uuid": "24b4af80-a4c5-4f9e-b368-0ee02386f438",
+  "vendor": "KV331 Audio"
+}

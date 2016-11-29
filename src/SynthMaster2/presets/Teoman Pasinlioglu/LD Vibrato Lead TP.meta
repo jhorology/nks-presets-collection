@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Analog", "Legato", "Mod Wheel", "Monophonic", "Saw", "Version 2.5", "Factory"],
+  "name": "LD Vibrato Lead TP",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "c704ad84-9fc9-4d10-9786-076b8da9c533",
+  "vendor": "KV331 Audio"
+}

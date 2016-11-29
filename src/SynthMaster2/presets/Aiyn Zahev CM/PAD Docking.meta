@@ -1,0 +1,13 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Trance", "Additive", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "PAD Docking",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "7efbe599-010a-4b71-b3d1-c2bb1aa11dff",
+  "vendor": "KV331 Audio"
+}

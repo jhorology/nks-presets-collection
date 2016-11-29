@@ -1,0 +1,13 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "Factory", "Layered", "Version 2.5", "Mod Wheel", "Velocity Mod", "Unison"],
+  "name": "PD ArpThePads  RL",
+  "types": [
+    ["Arpeggiated"],
+    ["Pad"]
+  ],
+  "uuid": "59fdcd31-f4b5-4ece-98d8-77ed0e430574",
+  "vendor": "KV331 Audio"
+}

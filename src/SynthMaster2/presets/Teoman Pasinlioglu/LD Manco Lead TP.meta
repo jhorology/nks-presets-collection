@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Pop", "Rock", "Additive", "Analog", "Legato", "Mod Wheel", "Saw", "Triangle", "Velocity Mod", "Version 2.0", "Factory", "Unison", "Monophonic"],
+  "name": "LD Manco Lead TP",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "6270fd7d-df75-4f74-85ca-e1e1770cfb4e",
+  "vendor": "KV331 Audio"
+}

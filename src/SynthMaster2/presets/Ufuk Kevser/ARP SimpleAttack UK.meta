@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Disco", "Electro", "Trance", "Analog", "Factory", "Mod Wheel", "Pulse", "Version 2.5"],
+  "name": "ARP SimpleAttack UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Pluck"],
+    ["Reed"]
+  ],
+  "uuid": "621211be-35c8-4cbe-8953-d3d23f1dae09",
+  "vendor": "KV331 Audio"
+}

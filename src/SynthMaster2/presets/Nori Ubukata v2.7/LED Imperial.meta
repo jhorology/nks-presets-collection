@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Analog", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "LED Imperial",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "074cdcbd-bdf9-41a4-90ca-a5878a7be940",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Easy Listening", "House", "Aftertouch", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "PAD Watching Earth",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "26f80013-fa20-49a9-aab0-9410ab38cf85",
+  "vendor": "KV331 Audio"
+}

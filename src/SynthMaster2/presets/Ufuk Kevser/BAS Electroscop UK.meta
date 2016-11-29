@@ -1,0 +1,12 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Hardstyle", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Distorted", "Factory", "HardSync", "PWM", "Pulse", "Version 2.5", "Mod Wheel", "Aftertouch", "Monophonic"],
+  "name": "BAS Electroscop UK",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "2021a0f5-c6f6-4a56-9f33-fcc7675fddbf",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Glitch", "Minimal", "Oldschool Electro", "Analog", "Factory", "Gated", "Version 2.5", "Wavetable"],
+  "name": "PA Totemic MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Percussion"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "8ed89285-740a-447e-8c16-b48eaabade48",
+  "vendor": "KV331 Audio"
+}

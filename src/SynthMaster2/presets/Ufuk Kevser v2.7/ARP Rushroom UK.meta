@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Glitch", "House", "Minimal", "Newschool Electro", "Pop", "Techno", "Trance", "Analog", "Digital", "Distorted", "Factory", "LoFi", "Mod Wheel", "Monophonic", "Noisy", "Pitch Wheel", "Square", "Velocity Mod", "Version 2.7"],
+  "name": "ARP Rushroom UK",
+  "types": [
+    ["Arpeggiated"],
+    ["Synth"]
+  ],
+  "uuid": "cdf86899-f0ef-4a95-8c9f-fe8acbe0dc57",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Soul", "Digital", "Factory", "Mod Wheel", "Phase Mod", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5"],
+  "name": "PN FM Epiano 2 MS",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "179ce58a-f84f-49b8-93fd-15505784e0cb",
+  "vendor": "KV331 Audio"
+}

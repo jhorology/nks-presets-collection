@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Hi Nrg", "Minimal", "Oldschool Electro", "Techno", "Trance", "Digital", "Factory", "Saw", "User", "Version 2.5", "Mod Wheel", "Aftertouch", "Velocity Mod"],
+  "name": "KY Soul Polisher (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "a30a5862-c99e-46d2-9937-b991b189588f",
+  "vendor": "KV331 Audio"
+}

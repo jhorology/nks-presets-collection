@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Funk", "HipHop", "Pop", "Rock", "Additive", "Analog", "Mod Wheel", "Sine", "Version 2.5", "Factory", "Unison"],
+  "name": "KB Synth Hammy",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "eebbd25d-c396-44ac-b908-e68e24b98388",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Wavetable"],
+  "name": "BR Ober Brass TP",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "50571523-4d62-4efa-8834-2e4e8ec66650",
+  "vendor": "KV331 Audio"
+}

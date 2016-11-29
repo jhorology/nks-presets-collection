@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Hardstyle", "Hi Nrg", "Newschool Electro", "Oldschool Electro", "Additive", "Analog", "Digital", "Factory", "Mod Wheel", "Pulse", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavescanning"],
+  "name": "ARP Bass Berlin Style MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "92b471ed-b519-4a59-808b-fa926adaa308",
+  "vendor": "KV331 Audio"
+}

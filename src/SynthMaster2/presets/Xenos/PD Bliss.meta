@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Chillout", "Dance", "Electro", "Electronica", "Pop", "Trance", "Analog", "Factory", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "PD Bliss",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "af70fae0-461b-4e67-84db-8597d914b531",
+  "vendor": "KV331 Audio"
+}

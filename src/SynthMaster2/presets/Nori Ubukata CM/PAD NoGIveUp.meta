@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Pop", "Rock", "Techno", "Analog", "SynthMasterCM", "Version 2.5", "Factory", "Velocity Mod"],
+  "name": "PAD NoGIveUp",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "d2421b63-9715-4b3b-bd20-4aa02b3f0172",
+  "vendor": "KV331 Audio"
+}

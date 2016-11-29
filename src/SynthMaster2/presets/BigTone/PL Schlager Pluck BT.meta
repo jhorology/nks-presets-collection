@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Hi Nrg", "Italo", "Trance", "Additive", "Analog", "Factory", "Layered", "Mod Wheel", "Pulse", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "PL Schlager Pluck BT",
+  "types": [
+    ["Keys"],
+    ["Pluck"]
+  ],
+  "uuid": "bad93e27-2d6e-4944-be2d-5d546bdb55d5",
+  "vendor": "KV331 Audio"
+}

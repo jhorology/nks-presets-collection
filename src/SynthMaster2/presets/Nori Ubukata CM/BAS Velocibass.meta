@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Funk", "Pop", "Rock", "Techno", "Analog", "Digital", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "BAS Velocibass",
+  "types": [
+    ["Bass"],
+    ["Synth"]
+  ],
+  "uuid": "79f4435b-84ba-4948-aec3-8ce1cf28fa14",
+  "vendor": "KV331 Audio"
+}

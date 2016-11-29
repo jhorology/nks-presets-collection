@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Aftertouch", "Analog", "Mod Wheel", "Version 2.5", "Vector", "Saw", "Sine"],
+  "name": "PD Vector Pad 2 TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "29b841b3-873d-43d9-87b9-21bb8b932751",
+  "vendor": "KV331 Audio"
+}

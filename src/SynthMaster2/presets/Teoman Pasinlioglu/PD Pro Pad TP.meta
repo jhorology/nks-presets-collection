@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Version 2.5", "Vector", "Wavetable", "Saw", "Sine"],
+  "name": "PD Pro Pad TP",
+  "types": [
+    ["Brass"],
+    ["Pad"]
+  ],
+  "uuid": "3ac13204-7e5c-409e-8deb-900cdf187308",
+  "vendor": "KV331 Audio"
+}

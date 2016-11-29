@@ -1,0 +1,12 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Analog", "Factory", "Mod Wheel", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "ARP Osmosis",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "b943bedf-9d83-4b4e-b765-3bef03fc3e9f",
+  "vendor": "KV331 Audio"
+}

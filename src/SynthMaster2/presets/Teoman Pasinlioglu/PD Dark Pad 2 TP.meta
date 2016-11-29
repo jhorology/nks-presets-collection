@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Version 2.5", "Unison", "Wavetable"],
+  "name": "PD Dark Pad 2 TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "c85b7040-3e0f-4038-a1c3-7e31c3dd496b",
+  "vendor": "KV331 Audio"
+}

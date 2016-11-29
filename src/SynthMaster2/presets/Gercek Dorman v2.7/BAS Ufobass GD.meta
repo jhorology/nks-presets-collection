@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Legato", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "BAS Ufobass GD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "098a1809-f5ee-429c-98ad-135a4366811f",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Funk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Additive", "Analog", "Factory", "Mod Wheel", "Physical Model", "Sine", "Version 2.5", "Velocity Mod"],
+  "name": "CR Xylophone MK",
+  "types": [
+    ["Percussion"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "7da5203f-73da-498b-9877-3da66e50d7d8",
+  "vendor": "KV331 Audio"
+}

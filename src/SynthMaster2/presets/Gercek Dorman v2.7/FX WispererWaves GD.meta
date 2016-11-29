@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Sine", "Version 2.5"],
+  "name": "FX WispererWaves GD",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "95e4313c-64ce-427c-88b6-7803cd70222a",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Additive", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "Velocity Mod", "Version 2.0", "Unison"],
+  "name": "PD Lush Pad TP",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "b8e92d0e-fe20-4bd4-8928-4b8df55a7de0",
+  "vendor": "KV331 Audio"
+}

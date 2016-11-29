@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Classical", "Analog", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "Org Cathedoral",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "4d06faf4-8930-40b6-a617-5d66afc07262",
+  "vendor": "KV331 Audio"
+}

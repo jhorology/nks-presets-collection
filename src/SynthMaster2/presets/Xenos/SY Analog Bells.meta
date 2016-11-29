@@ -1,0 +1,13 @@
+{
+  "author": "Xenos from KVR",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Electro", "Electronica", "Pop", "Additive", "Analog", "Square", "Velocity Mod", "Version 2.5", "Factory"],
+  "name": "SY Analog Bells",
+  "types": [
+    ["Percussion"],
+    ["Synth"]
+  ],
+  "uuid": "143fb6d0-ee56-466d-a896-912cfaebd441",
+  "vendor": "KV331 Audio"
+}

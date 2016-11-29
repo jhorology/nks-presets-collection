@@ -1,0 +1,12 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Version 2.5", "Mod Wheel", "Velocity Mod", "Unison"],
+  "name": "KB SineSpace  RL",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "62c763fa-46bb-4661-9a33-dbdbfeccd500",
+  "vendor": "KV331 Audio"
+}

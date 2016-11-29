@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Classical", "Electro", "Electronica", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Velocity Mod", "Version 2.7"],
+  "name": "LED Like Singing",
+  "types": [
+    ["Lead"],
+    ["Synth"],
+    ["Vocal"]
+  ],
+  "uuid": "0d03a10c-5e4d-446e-9182-5ef98e27c583",
+  "vendor": "KV331 Audio"
+}

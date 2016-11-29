@@ -1,0 +1,13 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Electro", "Electronica", "Aftertouch", "Legato", "LoFi", "Mod Wheel", "Sine", "Square", "Velocity Mod", "Version 2.5", "Factory", "Unison", "Monophonic"],
+  "name": "BA Busted Speakers",
+  "types": [
+    ["Bass"],
+    ["FX"]
+  ],
+  "uuid": "864d15a2-5b70-4783-b600-ca1831ec5f37",
+  "vendor": "KV331 Audio"
+}

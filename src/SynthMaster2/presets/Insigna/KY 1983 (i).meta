@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Baroque", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Fsu", "Funk", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Aftertouch", "Factory", "Frequency Mod", "Mod Wheel", "Resonant", "Saw", "Sine", "Velocity Mod", "Version 2.5"],
+  "name": "KY 1983 (i)",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "7cc8b67d-4159-4183-930a-a861c16c3022",
+  "vendor": "KV331 Audio"
+}

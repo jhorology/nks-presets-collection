@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod"],
+  "name": "BAS AlianBass GD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "d10f47c2-a8a0-4588-85dc-6ef129cefa7b",
+  "vendor": "KV331 Audio"
+}

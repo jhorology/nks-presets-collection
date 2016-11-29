@@ -1,0 +1,12 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Aftertouch", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Vector", "Wavetable", "Saw"],
+  "name": "KY Buchla Keys 2 TP",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "607fc134-7241-4f95-9f91-943ba8f51ce8",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Legato", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "Sine", "Velocity Mod", "Version 2.5"],
+  "name": "RD Air Blower 1 MS",
+  "types": [
+    ["Flute"],
+    ["Reed"]
+  ],
+  "uuid": "0bfe21f4-f4ff-4675-a50c-ff8ffc8e44e5",
+  "vendor": "KV331 Audio"
+}

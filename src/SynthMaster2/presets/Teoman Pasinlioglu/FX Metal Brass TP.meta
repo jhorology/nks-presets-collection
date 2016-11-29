@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Unison", "Frequency Mod", "Wavetable"],
+  "name": "FX Metal Brass TP",
+  "types": [
+    ["Brass"],
+    ["FX"]
+  ],
+  "uuid": "2c35429b-75f0-463e-be60-3da3c50aab40",
+  "vendor": "KV331 Audio"
+}

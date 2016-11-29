@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Mod Wheel", "honic", "Velocity Mod", "Version 2.5", "Unison", "Mono", "Legato", "Saw"],
+  "name": "LD Saw Lead TP",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "7b019f76-d8e6-4207-9178-86e6580557e2",
+  "vendor": "KV331 Audio"
+}

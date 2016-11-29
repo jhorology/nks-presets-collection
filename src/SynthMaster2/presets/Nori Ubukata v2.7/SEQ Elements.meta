@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Saw", "Square", "SuperSaw", "Version 2.7"],
+  "name": "SEQ Elements",
+  "types": [
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "ce43efbd-8f09-460c-bd35-a04382945218",
+  "vendor": "KV331 Audio"
+}

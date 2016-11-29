@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "BA Bad Voice",
+  "types": [
+    ["Bass"],
+    ["Vocal"]
+  ],
+  "uuid": "ed19c59c-2d3a-457d-9892-ce4bf71743d2",
+  "vendor": "KV331 Audio"
+}

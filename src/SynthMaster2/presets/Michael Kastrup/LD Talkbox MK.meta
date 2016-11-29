@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Disco", "Electro", "Electronica", "Funk", "HipHop", "Jazz", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Monophonic", "Resonant", "Saw", "Version 2.5", "Velocity Mod"],
+  "name": "LD Talkbox MK",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "1e357934-4d48-4d1a-9dc5-dd844729d4b8",
+  "vendor": "KV331 Audio"
+}

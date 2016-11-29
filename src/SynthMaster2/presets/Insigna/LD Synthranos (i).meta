@@ -1,0 +1,14 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Baroque", "Breakbeat", "Chillout", "Classical", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Ethnic", "Hi Nrg", "House", "Lounge", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "LD Synthranos (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Vocal"]
+  ],
+  "uuid": "3a2b2321-718b-4ffc-b854-60d7a8f88f7e",
+  "vendor": "KV331 Audio"
+}

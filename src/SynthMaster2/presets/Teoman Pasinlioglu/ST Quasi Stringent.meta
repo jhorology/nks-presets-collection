@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Rock", "Analog", "Velocity Mod", "Version 2.0", "Phase Mod", "Additive", "Saw", "Sine", "Triangle"],
+  "name": "ST Quasi Stringent",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "97cd7fbf-9472-49b5-80e6-7a669782e949",
+  "vendor": "KV331 Audio"
+}

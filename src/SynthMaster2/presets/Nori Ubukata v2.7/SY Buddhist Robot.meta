@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Techno", "Digital", "Factory", "Saw", "SuperSaw", "Version 2.7"],
+  "name": "SY Buddhist Robot",
+  "types": [
+    ["FX"],
+    ["Synth"],
+    ["Vocal"]
+  ],
+  "uuid": "9176f62e-02c1-4e0e-a4d3-e9da44a2add3",
+  "vendor": "KV331 Audio"
+}

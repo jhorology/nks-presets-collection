@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "DubStep", "Electro", "Electronica", "Techno", "Trance", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
+  "name": "BA Warp Drive",
+  "types": [
+    ["Bass"],
+    ["FX"],
+    ["Synth"]
+  ],
+  "uuid": "09bcf4c1-064b-42c5-a420-7a6167373aa5",
+  "vendor": "KV331 Audio"
+}

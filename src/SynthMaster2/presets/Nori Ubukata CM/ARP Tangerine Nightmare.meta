@@ -1,0 +1,14 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Electro", "Oldschool Electro", "Rock", "Techno", "Analog", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "name": "ARP Tangerine Nightmare",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "e4698dea-a2c9-4dc1-936c-f9d448d83664",
+  "vendor": "KV331 Audio"
+}

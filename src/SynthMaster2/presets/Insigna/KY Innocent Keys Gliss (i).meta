@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Bluegrass", "Blues", "Chillout", "Easy Listening", "Electro", "Electronica", "Funk", "Italo", "Jazz", "Latin", "Lounge", "New Beat", "Newschool Electro", "Oldschool Electro", "Aftertouch", "Factory", "Layered", "Version 2.5", "Mod Wheel", "Velocity Mod", "Monophonic"],
+  "name": "KY Innocent Keys Gliss (i)",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "319fb104-84b7-46d9-806b-641f9d2ce369",
+  "vendor": "KV331 Audio"
+}

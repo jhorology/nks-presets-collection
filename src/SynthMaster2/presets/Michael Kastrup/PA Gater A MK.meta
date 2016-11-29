@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Handsup", "Hardstyle", "Hi Nrg", "House", "Italo", "Oldschool Electro", "Pop", "Techno", "Trance", "Analog", "Factory", "Gated", "Saw", "Version 2.5", "Mod Wheel", "Velocity Mod"],
+  "name": "PA Gater A MK",
+  "types": [
+    ["Arpeggiated"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "04e07d51-1f5d-475e-bf8b-d3831bd25718",
+  "vendor": "KV331 Audio"
+}

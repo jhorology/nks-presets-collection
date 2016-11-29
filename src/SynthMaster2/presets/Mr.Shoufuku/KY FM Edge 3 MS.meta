@@ -1,0 +1,12 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Phase Mod", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "name": "KY FM Edge 3 MS",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1993cfb3-949a-4925-864a-c2d0b5daf0b1",
+  "vendor": "KV331 Audio"
+}

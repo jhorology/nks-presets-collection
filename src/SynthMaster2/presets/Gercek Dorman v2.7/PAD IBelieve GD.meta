@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Version 2.7", "Velocity Mod"],
+  "name": "PAD IBelieve GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "680ed5ba-433b-4fec-ad43-ec13f7601fdd",
+  "vendor": "KV331 Audio"
+}

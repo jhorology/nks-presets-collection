@@ -1,0 +1,12 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Digital", "Factory", "Mod Wheel", "Monophonic", "Sine", "Square", "Velocity Mod", "Version 2.7"],
+  "name": "SEQ R2-DJ Type1",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "00a1ed3b-21c1-49d9-b2be-454a0890b26e",
+  "vendor": "KV331 Audio"
+}

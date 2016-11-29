@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Analog", "Factory", "Mod Wheel", "Pulse", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "BA Red Matter",
+  "types": [
+    ["Bass"],
+    ["Synth"]
+  ],
+  "uuid": "d83b019c-f0a2-43ad-99e4-c4f70537d785",
+  "vendor": "KV331 Audio"
+}

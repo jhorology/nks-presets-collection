@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PRC CreepyShots GD",
+  "types": [
+    ["FX"],
+    ["Percussion"]
+  ],
+  "uuid": "5044ca7b-5ebb-4d4f-97fd-152ae887448e",
+  "vendor": "KV331 Audio"
+}

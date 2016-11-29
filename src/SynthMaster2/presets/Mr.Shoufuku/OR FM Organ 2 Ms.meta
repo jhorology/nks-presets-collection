@@ -1,0 +1,13 @@
+{
+  "author": "Mr.Shoufuku",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Blues", "Funk", "Jazz", "Latin", "Pop", "Rock", "Soul", "Factory", "Phase Mod", "Ring Mod", "Sine", "Version 2.5"],
+  "name": "OR FM Organ 2 Ms",
+  "types": [
+    ["Keys"],
+    ["Organ"]
+  ],
+  "uuid": "42a3d2ca-fe20-4b56-abe3-7be361ffbac2",
+  "vendor": "KV331 Audio"
+}

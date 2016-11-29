@@ -1,0 +1,15 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Analog", "Digital", "Factory", "Layered", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Version 2.7", "Wavescanning", "Unison"],
+  "name": "SEQ Pop Born",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "1f7d2210-6321-472c-81a6-d45c32881f64",
+  "vendor": "KV331 Audio"
+}

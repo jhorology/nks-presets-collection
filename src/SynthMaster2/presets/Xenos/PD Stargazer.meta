@@ -1,0 +1,12 @@
+{
+  "author": "Xenos Soundworks",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "HipHop", "Pop", "Soul", "Trance", "Analog", "Factory", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "PD Stargazer",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "cc75623b-d1bb-4b0f-82eb-c80f0ea47d9c",
+  "vendor": "KV331 Audio"
+}

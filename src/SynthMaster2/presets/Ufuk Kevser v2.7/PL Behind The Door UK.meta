@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Handsup", "Hardstyle", "House", "Italo", "Minimal", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Ring Mod", "Saw", "Square", "SuperSaw", "Unison", "Velocity Mod", "Version 2.7"],
+  "name": "PL Behind The Door UK",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "acd2d534-790e-4a44-a363-b8638eeb2a45",
+  "vendor": "KV331 Audio"
+}

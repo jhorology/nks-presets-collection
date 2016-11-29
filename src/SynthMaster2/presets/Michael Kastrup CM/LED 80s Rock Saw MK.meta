@@ -1,0 +1,12 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Blues", "Chillout", "Easy Listening", "Electro", "Electronica", "Funk", "Jazz", "Latin", "Lounge", "Minimal", "Pop", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "LED 80s Rock Saw MK",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "edb16b0c-1ebc-4df7-ad0d-44cec05a62d5",
+  "vendor": "KV331 Audio"
+}

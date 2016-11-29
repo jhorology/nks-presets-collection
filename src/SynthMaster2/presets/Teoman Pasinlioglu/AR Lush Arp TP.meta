@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Analog", "Factory", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5"],
+  "name": "AR Lush Arp TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Brass"]
+  ],
+  "uuid": "a6d3fbdc-5740-4588-be50-f045255becac",
+  "vendor": "KV331 Audio"
+}

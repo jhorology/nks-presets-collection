@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Pop", "Reggae", "Rock", "Soul", "Distorted", "Factory", "HardSync", "Monophonic", "PWM", "Saw", "Version 2.5", "Mod Wheel", "Aftertouch", "Velocity Mod"],
+  "name": "LD Hard Sync MK",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "a0c5367a-8a13-4fb7-b224-042caa37abf5",
+  "vendor": "KV331 Audio"
+}

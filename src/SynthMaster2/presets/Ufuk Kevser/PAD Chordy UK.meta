@@ -1,0 +1,13 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Dance", "Electro", "Newschool Electro", "Oldschool Electro", "Additive", "Factory", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Unison"],
+  "name": "PAD Chordy UK",
+  "types": [
+    ["Chords"],
+    ["Pad"]
+  ],
+  "uuid": "fe2f1ee3-c413-4ed9-ac39-be6c1f6bc634",
+  "vendor": "KV331 Audio"
+}

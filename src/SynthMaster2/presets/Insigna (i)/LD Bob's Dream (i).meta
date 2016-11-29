@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Hi Nrg", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Digital", "Factory", "Frequency Mod", "Legato", "Mod Wheel", "Monophonic", "PWM", "Phase Mod", "Saw", "Sine", "Version 2.5", "Velocity Mod"],
+  "name": "LD Bob's Dream (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "a585e9b6-b692-4ef9-b9a9-344646cade8d",
+  "vendor": "KV331 Audio"
+}

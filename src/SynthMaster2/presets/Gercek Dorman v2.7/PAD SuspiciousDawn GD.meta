@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Mod Wheel", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.7", "Unison"],
+  "name": "PAD SuspiciousDawn GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "9d78285a-b64a-4f55-8471-1cb162bb8515",
+  "vendor": "KV331 Audio"
+}

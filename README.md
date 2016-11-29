@@ -11,7 +11,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |----------|:---------:|:------:|:--:|:-------:|:----:|:---------:|
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
 |[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - |7| - | - |
 |[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -32,6 +32,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Synth Anthology 2](http://www.uvi.net/en/synth-sound-design/synth-anthology-ii.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[SynthMaster2](https://www.kv331audio.com)|:heavy_check_mark:|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | - | 7 | - |
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||

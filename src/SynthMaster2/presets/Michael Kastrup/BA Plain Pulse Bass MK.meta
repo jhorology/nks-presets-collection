@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "DubStep", "Easy Listening", "Electro", "Electronica", "Funk", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Minimal", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Pulse", "Version 2.5", "Velocity Mod"],
+  "name": "BA Plain Pulse Bass MK",
+  "types": [
+    ["Bass"],
+    ["Synth"]
+  ],
+  "uuid": "5887b513-df1d-4221-bc2d-75be909f7277",
+  "vendor": "KV331 Audio"
+}

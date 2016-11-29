@@ -1,0 +1,13 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Hip House", "HipHop", "House", "Lounge", "Pop", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Monophonic", "Sine", "Version 2.5", "Velocity Mod"],
+  "name": "LD X Flies MK",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "47a52c1c-1787-4e32-88a9-92e0e28c6ab9",
+  "vendor": "KV331 Audio"
+}

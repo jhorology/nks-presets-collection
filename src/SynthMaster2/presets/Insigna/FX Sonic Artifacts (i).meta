@@ -1,0 +1,12 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Baroque", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Fsu", "Funk", "Glitch", "Handsup", "Hardstyle", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Metal", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Reggae", "Rock", "Soul", "Techno", "Trance", "Factory", "Version 2.5"],
+  "name": "FX Sonic Artifacts (i)",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "13867c60-f00b-497a-8788-83cd2c56564c",
+  "vendor": "KV331 Audio"
+}

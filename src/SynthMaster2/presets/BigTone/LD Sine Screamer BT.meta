@@ -1,0 +1,13 @@
+{
+  "author": "BIGTONE@BIGTONE",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "House", "Lounge", "New Beat", "Newschool Electro", "Techno", "Trance", "Amplitude Mod", "Digital", "Distorted", "Factory", "Frequency Mod", "HardSync", "Legato", "Mod Wheel", "Noisy", "Phase Mod", "Ring Mod", "Sine", "Version 2.5", "Wavetable", "Monophonic"],
+  "name": "LD Sine Screamer BT",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "d80f9996-55dd-40f7-b15b-5ea6bd4a2c73",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Pop", "Rock", "Digital", "Factory", "Mod Wheel", "Phase Mod", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "KEY DXieE.Piano",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "6d30f7c7-bf67-46a5-8dc3-31426fe353f9",
+  "vendor": "KV331 Audio"
+}

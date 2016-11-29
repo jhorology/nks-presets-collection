@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Chillout", "Dance", "DubStep", "Electro", "Electronica", "Hi Nrg", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Digital", "Factory", "Legato", "Mod Wheel", "Saw", "Version 2.5", "Velocity Mod", "Monophonic"],
+  "name": "LD Symmetry-U2 (i)",
+  "types": [
+    ["Keys"],
+    ["Lead"]
+  ],
+  "uuid": "7549bd9c-cd99-4722-875d-66c8809a411f",
+  "vendor": "KV331 Audio"
+}

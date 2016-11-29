@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Analog", "Factory", "Layered", "Mod Wheel", "Pulse", "Saw", "SuperSaw", "Version 2.5"],
+  "name": "PAD DeepNight GD",
+  "types": [
+    ["FX"],
+    ["Pad"]
+  ],
+  "uuid": "6f0a1901-aadc-4f17-b750-694d130d67d3",
+  "vendor": "KV331 Audio"
+}

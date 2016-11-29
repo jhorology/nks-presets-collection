@@ -1,0 +1,13 @@
+{
+  "author": "Insigna (i)",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Classical", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Handsup", "Hardstyle", "Hi Nrg", "House", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5"],
+  "name": "PD Low-Phuture (i)",
+  "types": [
+    ["Pad"],
+    ["Strings"]
+  ],
+  "uuid": "394e9390-37ef-4563-b7fe-c259bb9f13b5",
+  "vendor": "KV331 Audio"
+}

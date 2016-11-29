@@ -1,0 +1,13 @@
+{
+  "author": "Aiyn Zahev",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "House", "Newschool Electro", "Techno", "Trance", "Digital", "Factory", "Frequency Mod", "Mod Wheel", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Unison"],
+  "name": "ARP FM PysBass",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"]
+  ],
+  "uuid": "fc172d63-6157-4987-9b27-f62972efaa72",
+  "vendor": "KV331 Audio"
+}

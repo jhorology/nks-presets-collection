@@ -1,0 +1,13 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Digital", "Factory", "Mod Wheel", "Phase Mod", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "name": "PLK Metalicool",
+  "types": [
+    ["Keys"],
+    ["Pluck"]
+  ],
+  "uuid": "14662aba-7e14-4f5e-9f4e-2bd306862f81",
+  "vendor": "KV331 Audio"
+}

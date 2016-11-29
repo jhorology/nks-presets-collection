@@ -1,0 +1,12 @@
+{
+  "author": "Rob Lee",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "Factory", "Version 2.5", "Mod Wheel", "Velocity Mod", "Unison", "Monophonic"],
+  "name": "AR PercySynArp  RL",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "eb7fc2c1-712f-4401-a6be-4498aabb05b7",
+  "vendor": "KV331 Audio"
+}

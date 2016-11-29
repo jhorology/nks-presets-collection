@@ -1,0 +1,13 @@
+{
+  "author": "Teoman Pasinlioglu",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Rock", "Analog", "Velocity Mod", "Version 2.5", "Additive", "Saw"],
+  "name": "AR Space Arp TP",
+  "types": [
+    ["Arpeggiated"],
+    ["Brass"]
+  ],
+  "uuid": "9715c0c7-4376-4597-90ee-abec936504a4",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Michael Kastrup",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Chillout", "Disco", "Easy Listening", "Funk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Soul", "Additive", "Digital", "Factory", "Layered", "Phase Mod", "Sine", "Version 2.5", "Velocity Mod"],
+  "name": "KY Simple FM EP MK",
+  "types": [
+    ["Keys"],
+    ["Piano"],
+    ["Synth"]
+  ],
+  "uuid": "fb18424e-8dc6-4797-83bc-132760101e41",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Ufuk Kevser",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Dance", "DubStep", "Electro", "Electronica", "Hi Nrg", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Factory", "Mod Wheel", "Pulse", "Ring Mod", "Saw", "Version 2.7"],
+  "name": "PL Freaky UK",
+  "types": [
+    ["Keys"],
+    ["Lead"],
+    ["Pluck"]
+  ],
+  "uuid": "e8cbf426-a53b-400c-b18d-80e7be201d63",
+  "vendor": "KV331 Audio"
+}

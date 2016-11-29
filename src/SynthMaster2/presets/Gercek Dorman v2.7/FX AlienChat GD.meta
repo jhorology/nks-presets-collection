@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Factory", "Layered", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "name": "FX AlienChat GD",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "f08fd803-8b53-49b8-bcec-d415f9a683ad",
+  "vendor": "KV331 Audio"
+}
