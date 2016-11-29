@@ -36,9 +36,9 @@ $ = Object.assign {}, (require '../config'),
   # Factory Patches folder
   presets: '/Library/Application Support/KV331 Audio/SynthMaster/Presets'
   # Ableton Live 9.7 Instrument Rack
-  abletonRackTemplate: 'src/iZotope Iris 2/templates/iris2.adg.tpl'
-  # Bitwig Studio 1.3.14 RC1 preset file
-  bwpresetTemplate: 'src/iZotope Iris 2/templates/Iris 2.bwpreset'
+  abletonRackTemplate: 'src/SynthMaster2/templates/SynthMaster2.adg.tpl'
+  # Bitwig Studio 1.3.14 preset file
+  bwpresetTemplate: 'src/SynthMaster2/templates/SynthMaster2.bwpreset'
 
 # preparing tasks
 # --------------------------------
