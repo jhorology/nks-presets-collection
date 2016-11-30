@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a shimmering wavetable-scanning arp.\r\n\r\nmodhweel: closes cutoff, adding fx partials to the sound due to high resonance.\r\npitchwheel (up+down): changes the speed of the wavetable scanning.",
   "deviceType": "INST",
   "modes": ["Ambient", "Factory", "Mod Wheel", "Pitch Wheel", "Resonant", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavescanning"],
   "name": "AR Table Blender BT",

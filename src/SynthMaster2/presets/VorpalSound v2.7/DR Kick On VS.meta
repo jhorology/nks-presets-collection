@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Kick drum sound. Play on C4 for best results.\r\n\r\n-Try switching the 2nd Wavetable Osc for many different variations.\r\n\r\n-Volume is sensitive to velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Velocity Mod", "Version 2.5", "Version 2.7", "Wavescanning"],
   "name": "DR Kick On VS",

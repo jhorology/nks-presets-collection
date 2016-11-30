@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "An analog style Arp with \r\nside-chain input from layer 2.\r\n\r\nMod (+) reduces side-chain input.\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Disco", "DubStep", "Electro", "Electronica", "Glitch", "House", "Minimal", "Pop", "Techno", "Trance", "Analog", "Digital", "Factory", "LoFi", "Mod Wheel", "Monophonic", "Phase Mod", "Pitch Wheel", "Resonant", "Velocity Mod", "Version 2.5"],
   "name": "ARP Rain",

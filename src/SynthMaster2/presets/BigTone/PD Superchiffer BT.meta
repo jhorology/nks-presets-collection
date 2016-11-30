@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a combfiltered, lush chiffer.\r\n\r\nmodwheel: increases combfilter cutoff.\r\nvelocity: pronounces attack.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Ethnic", "Italo", "Lounge", "Pop", "Trance", "Additive", "Digital", "Factory", "Metallic", "Mod Wheel", "Noisy", "Pitch Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "PD Superchiffer BT",

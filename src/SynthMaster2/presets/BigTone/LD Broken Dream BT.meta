@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a nice distorted sine construct.\r\n\r\nmodwheel: adds groove component as well as fm.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Pop", "Trance", "Amplitude Mod", "Analog", "Distorted", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Version 2.5", "Wavetable"],
   "name": "LD Broken Dream BT",

@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a dreamy wavetable scanned arp.\r\n\r\nmodwheel: adds grove component.\r\npitchbend: increases speed of wavetable scanning.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
   "name": "AR Morph Scanner BT",

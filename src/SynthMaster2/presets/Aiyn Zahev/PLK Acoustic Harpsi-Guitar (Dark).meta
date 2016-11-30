@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A mix between harpsicord and guitar. \r\n\r\nFor a more authentic feel of the harpsicord\r\nyou will need to disable midi-velocity\r\nsensitivity for volume.\r\n\r\nMod (+) dampens the sound and makes it\r\nsound more like a guitar.\r\n\r\nVel = Gain and filter cut-off\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Baroque", "Chillout", "Classical", "Ethnic", "Folk", "HipHop", "Rock", "Trance", "Factory", "Mod Wheel", "Physical Model", "Pitch Wheel", "Pulse", "Version 2.5", "Velocity Mod"],
   "name": "PLK Acoustic Harpsi-Guitar (Dark)",

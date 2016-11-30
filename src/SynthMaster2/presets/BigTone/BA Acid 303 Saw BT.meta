@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a typical 90´s tb303 saw attempt.\r\n\r\nmodwheel: opens cutoff\r\npitchbend: adds resonance",
   "deviceType": "INST",
   "modes": ["Acid", "Ambient", "Breakbeat", "Dance", "Easy Listening", "Electro", "Electronica", "House", "Lounge", "Minimal", "Techno", "Trance", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Pitch Wheel", "Resonant", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
   "name": "BA Acid 303 Saw BT",

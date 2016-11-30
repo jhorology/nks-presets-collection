@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a slow, digital filter fm pad.\r\n\r\nmodwheel: closes filter cutoff as well as reduces filter fm.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Trance", "Digital", "Factory", "Frequency Mod", "Mod Wheel", "Noisy", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Wavetable"],
   "name": "PD Ffm Wash BT",

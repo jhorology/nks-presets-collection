@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a constantly moving spacepad with glitter.\r\n\r\nmodwheel: closes fx-eq lowpass.\r\npitchwhell: adds noise mod to the glitter.\r\naftertouch: fades out the glitter fx.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "Amplitude Mod", "Analog", "AudioFX", "Factory", "Layered", "Mod Wheel", "Noisy", "Pitch Wheel", "Resonant", "Saw", "Sine", "SuperSaw", "Version 2.5"],
   "name": "PD T-raumstation BT",

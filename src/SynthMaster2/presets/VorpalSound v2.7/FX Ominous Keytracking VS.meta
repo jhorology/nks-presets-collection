@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Atonal atmo sound utilizing Filter FM.\r\n\r\n-Modwheel controls Cutoff of both filters.\r\n\r\n-Cutoff frequencies also responsive to velocity which randomizes each hit slightly.\r\n\r\n-Easy 1 turns off the synth part of the sound.",
   "deviceType": "INST",
   "modes": ["Ambient", "DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Monophonic", "Sine", "Velocity Mod", "Version 2.5", "Version 2.7"],
   "name": "FX Ominous Keytracking VS",

@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A simple but nice pluck sound, open filter\r\nand it becomes a vibrato lead.\r\n\r\nMod (+) opens filter\r\n\r\nVel = Gain and Filter Cut off\r\n",
   "deviceType": "INST",
   "modes": ["Chillout", "Dance", "Disco", "Electro", "House", "Newschool Electro", "Oldschool Electro", "Trance", "Analog", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "Version 2.5", "Velocity Mod"],
   "name": "PLK Pulse like I",

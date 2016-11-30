@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Simple noise sweep FX with some extra controls.\r\n\r\n-Aftertouch introduces an LFO on filter.\r\n\r\n-Modwheel controls LFO rate.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Aftertouch", "Factory", "Mod Wheel", "Noisy", "Saw", "SuperSaw", "Version 2.7"],
   "name": "FX Noise Sweep VS",

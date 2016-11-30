@@ -1,6 +1,7 @@
 {
   "author": "Nori Ubukata",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "P.Bend for LFO Speed, Wheel for the depth",
   "deviceType": "INST",
   "modes": ["Ambient", "DubStep", "Electro", "Electronica", "Minimal", "Newschool Electro", "Oldschool Electro", "Rock", "Trance", "Aftertouch", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.7", "Wavescanning"],
   "name": "PAD Delta Space",

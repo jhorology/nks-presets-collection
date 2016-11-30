@@ -1,6 +1,7 @@
 {
   "author": "Insigna (i)",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Use the EZ controls! This preset is \r\nmonophonic. If you'd like, you can make it \r\npolyphonic from the layer tab. This voice \r\nhas dynamic glide. The glide duration \r\nchanges based on the velocity of the \r\npressed note. \r\n\r\nMW: Wobble (LFO in the EZ param\r\nis effective when ModWheel is turned on.)\r\n\r\nNote Speed: Dynamic Glide\r\n\r\nUmit 'Insigna' Uy / Istanbul. \r\n",
   "deviceType": "INST",
   "modes": ["Acid", "DubStep", "Electro", "Handsup", "Hardstyle", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Distorted", "Factory", "Legato", "LoFi", "Mod Wheel", "Monophonic", "Pulse", "Resonant", "Velocity Mod", "Version 2.5"],
   "name": "BA Dubstep 'Aei' (i)",

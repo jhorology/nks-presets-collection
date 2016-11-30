@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "an athmospheric wavescanner.\r\n\r\npitchbend: increases (up) or decreases (down) the scanning speed.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Digital", "Factory", "Metallic", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
   "name": "FX Spacetable BT",

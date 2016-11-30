@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Simple pad sound mostly meant for playing chords.\r\n\r\n-Modwheel controls the bandpass filter.\r\n\r\n-Volume is sensitive to velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "HardSync", "Mod Wheel", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
   "name": "PA Battle Pillow VS",

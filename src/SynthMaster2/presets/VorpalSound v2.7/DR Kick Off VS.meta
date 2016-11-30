@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Kickdrum sound using Wavetable synthesis.\r\n\r\n-Modwheel could be utilized for drum roll.\r\n\r\n-Volume sensitive to Velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Mod Wheel", "Velocity Mod", "Version 2.5", "Version 2.7", "Wavescanning"],
   "name": "DR Kick Off VS",

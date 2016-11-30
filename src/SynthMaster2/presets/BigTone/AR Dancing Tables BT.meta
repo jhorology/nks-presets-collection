@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "an amp modulated wavetable scanner.\r\n\r\nmodwheel: speeds up the amp modulating osc\r\npitchbend: increases the amp env´s attack and release\r\naftertouch: closes osc filter, filtering out the high frequency components of the wavetables\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Italo", "Lounge", "Trance", "Aftertouch", "Amplitude Mod", "Digital", "Factory", "Metallic", "Mod Wheel", "Pitch Wheel", "Ring Mod", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
   "name": "AR Dancing Tables BT",

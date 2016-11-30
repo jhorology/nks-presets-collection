@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a glittering, moving ambient pad athmo.\r\n\r\nmodwheel: scanns through the wavetable array.\r\npitchbend: moves centerfrequency of the phaser.\r\naftertouch: increases random aplitude modulation speed.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "AudioFX", "Digital", "Factory", "Frequency Mod", "Metallic", "Mod Wheel", "Pitch Wheel", "Resonant", "Version 2.5", "Wavescanning"],
   "name": "PD Mushroomed Visions BT",

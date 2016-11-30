@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A gated synth, with side-chain feed from\r\nlayer 2 causing pumping.\r\n\r\nMod (+) opens filter on the gated synth\r\nVel + Gain & Filter cut-off\r\n\r\n",
   "deviceType": "INST",
   "modes": ["Dance", "Electro", "Newschool Electro", "Techno", "Trance", "Digital", "Factory", "Gated", "HardSync", "Mod Wheel", "Monophonic", "Noisy", "Phase Mod", "Version 2.5"],
   "name": "GAT Airtight II",

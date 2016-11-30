@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Short stabby synth sound.\r\n\r\n-Modwheel controls Mod Phase.\r\n\r\n-XY1 for LFO Speed & Phase.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Layered", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Version 2.7", "Wavescanning"],
   "name": "SY Venture Co VS",

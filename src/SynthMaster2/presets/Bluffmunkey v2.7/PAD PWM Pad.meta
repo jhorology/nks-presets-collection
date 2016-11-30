@@ -1,6 +1,7 @@
 {
   "author": "Bluffmunkey@www.bluffmunkey.co.uk",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Classic PWM pad with smooth modulation. \r\n\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Classical", "Easy Listening", "Lounge", "Minimal", "Aftertouch", "Factory", "Mod Wheel", "PWM", "Pulse", "Saw", "SuperSaw", "Version 2.7"],
   "name": "PAD PWM Pad",

@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A bit reduced envelope gives a steppy\r\nrise, like old 8-bit sounds. Some very \r\ninteresting effects can be had if you reduce it further \r\nwith the EZ control 2.\r\n\r\nVel = Gain\r\n\r\nMod (+) reduces cut-off on the comb filter\r\n",
   "deviceType": "INST",
   "modes": ["Chillout", "Dance", "Electro", "Electronica", "HipHop", "House", "Techno", "Trance", "Digital", "Factory", "LoFi", "Mod Wheel", "Noisy", "Phase Mod", "Pitch Wheel", "Version 2.5", "Velocity Mod", "Unison"],
   "name": "SFX Arcade Games",

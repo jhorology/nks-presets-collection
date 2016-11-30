@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Busy hat pattern using 2 layers.\r\n\r\n-Volume is sensitive to Velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Layered", "Metallic", "Noisy", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
   "name": "DR Hat Tricks VS",

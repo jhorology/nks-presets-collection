@@ -1,6 +1,7 @@
 {
   "author": "Arksun@www.arksun-sound.com",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A grand regal octaved saw pad.\r\n\r\nTry setting Easy Parameter 3 to 32 and\r\nparameter 4 to 70 for a more haunting \r\norgan type sound.\r\n\r\nOr Easy Parameter 2 to 0 and XYPad2 Y\r\nto 0 for more solo violin type sound.\r\n\r\nMod Wheel: Filter Cutoff",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Electro", "Electronica", "Trance", "Factory", "Saw", "SuperSaw", "Version 2.8"],
   "name": "PAD Majestic Wonder ARK",

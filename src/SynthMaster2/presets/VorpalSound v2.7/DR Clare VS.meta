@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-A simple layered snare+clap sound.\r\n\r\n-Modwheel sweeps in a HPF.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Layered", "Mod Wheel", "Noisy", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
   "name": "DR Clare VS",

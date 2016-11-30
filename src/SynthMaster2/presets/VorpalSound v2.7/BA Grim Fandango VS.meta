@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Bass sound. Loses a bit juice on higher notes for some reason but it works pretty well in a 1-2 octave range.\r\n\r\n-Modwheel controls LFO Speed.\r\n\r\n-XY1 for quick filter shaping.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Layered", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Version 2.7", "Wavescanning"],
   "name": "BA Grim Fandango VS",

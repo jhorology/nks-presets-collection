@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Snaredrum sound using Wavetable oscillator.\r\n\r\n-Try automating Modwheel for a weird snareroll.\r\n\r\n-Volume is sensitive to Velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
   "name": "DR Snap Snare VS",

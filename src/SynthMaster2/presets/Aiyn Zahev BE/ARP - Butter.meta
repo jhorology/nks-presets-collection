@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "1, change the Arp duration, and filter\r\nenvelope amount for variation.\r\n",
   "deviceType": "INST",
   "modes": ["House", "Techno", "Trance", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
   "name": "ARP - Butter",

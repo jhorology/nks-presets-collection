@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Metallic ambient sound using free running LFO's.\r\n\r\n-Modwheel controls cutoff.\r\n\r\n-Volume is sensitive to velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "HardSync", "Metallic", "Mod Wheel", "Phase Mod", "Velocity Mod", "Version 2.5"],
   "name": "PA Continuum VS",

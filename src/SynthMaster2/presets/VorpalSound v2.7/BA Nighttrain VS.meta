@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Bass sound featuring FM modulator with Lowshelf algorithm.\r\n\r\n-Modwheel opens Filter Cutoff.\r\n\r\n-Instant variations using XY1&2 to control LFO speeds & phases.\r\n\r\n-Could also work as a mid sound when sub is turned down using Easy 6.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Frequency Mod", "Layered", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "Sine", "SuperSaw", "Version 2.7"],
   "name": "BA Nighttrain VS",

@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Long FX sound with possible extra FM weirdness.\r\n\r\n-Aftertouch controls LFO Depth.\r\n\r\n-Modwheel controls LFO Speed.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Aftertouch", "Factory", "Frequency Mod", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Version 2.5", "Version 2.7", "Wavescanning"],
   "name": "FX Definitive Belching VS",

@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A basic but effective bright pad sound. \r\n\r\nMod (+) opens filter\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "Disco", "Electro", "Electronica", "Handsup", "Hardstyle", "House", "Newschool Electro", "Pop", "Techno", "Trance", "Analog", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5", "Factory", "Velocity Mod", "Unison"],
   "name": "PAD Bright Pad",

@@ -1,6 +1,7 @@
 {
   "author": "Nori Ubukata",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "L= Hammond Type. R= Farfisa Type. Pad2 to Drawbar control",
   "deviceType": "INST",
   "modes": ["Jazz", "Latin", "Pop", "Reggae", "Rock", "Soul", "Additive", "Factory", "Mod Wheel", "Sine", "Square", "Triangle", "Velocity Mod", "Version 2.7"],
   "name": "OR Two Kinds",

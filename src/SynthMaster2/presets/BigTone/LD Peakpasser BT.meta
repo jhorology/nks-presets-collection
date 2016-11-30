@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a noise modulated techno/house chord.\r\n\r\nmodwheel: controls peakpass filter.",
   "deviceType": "INST",
   "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Hip House", "House", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Techno", "Trance", "Additive", "Aftertouch", "Distorted", "Factory", "Frequency Mod", "Legato", "Mod Wheel", "Noisy", "Phase Mod", "Pitch Wheel", "Resonant", "Version 2.5", "Wavetable", "Monophonic"],
   "name": "LD Peakpasser BT",

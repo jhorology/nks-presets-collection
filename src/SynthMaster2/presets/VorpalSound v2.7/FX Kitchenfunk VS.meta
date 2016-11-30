@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Spectral sounding FX using synced FM modulation.\r\n\r\n-Modwheel and Easy 1 results in a smoother sound.\r\n\r\n-Easy volume envelope control on 5.\r\n\r\n-Stutter speed on 4.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Frequency Mod", "HardSync", "Metallic", "Mod Wheel", "Phase Mod", "Sine", "Version 2.7"],
   "name": "FX Kitchenfunk VS",

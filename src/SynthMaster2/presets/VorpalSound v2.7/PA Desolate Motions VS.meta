@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Inharmonic ambient sound with a lot of random movement.\r\n\r\n-Volume is sensitive to velocity.\r\n\r\n-Modwheel introduces more metallic timbres.\r\n\r\n-Easy Controls for different flavours\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Frequency Mod", "Metallic", "Mod Wheel", "Noisy", "Ring Mod", "Velocity Mod", "Version 2.7", "Wavescanning"],
   "name": "PA Desolate Motions VS",

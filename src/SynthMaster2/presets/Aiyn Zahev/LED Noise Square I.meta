@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A phase modulated Squarewave with \r\nadded noise.\r\n\r\n\r\nMod (+) opens filter\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Dance", "Electro", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Pitch Wheel", "Square", "Version 2.5", "Velocity Mod"],
   "name": "LED Noise Square I",

@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a snappy noise fm saw lead.\r\n\r\nmodwheel: closes filter cutoff.\r\npitchbend: increases noise fm.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Pop", "Trance", "Analog", "Factory", "Frequency Mod", "Mod Wheel", "Noisy", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5"],
   "name": "LD Gritty Keys BT",

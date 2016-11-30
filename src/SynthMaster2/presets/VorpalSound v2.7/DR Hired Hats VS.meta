@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Hihat pattern using Arpeggiator.\r\n\r\n-Modwheel controls length.\r\n\r\n-Volume is sensitive to Velocity\r\n\r\n-Easy Controls for different flavours.\r\n",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Metallic", "Mod Wheel", "Noisy", "Ring Mod", "Velocity Mod", "Version 2.7"],
   "name": "DR Hired Hats VS",

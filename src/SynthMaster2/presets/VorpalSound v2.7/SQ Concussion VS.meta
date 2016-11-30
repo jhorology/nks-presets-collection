@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Synth percussion with arpeggiated rhythm.\r\n\r\n-Modwheel sweeps in LoFi effect.\r\n\r\n-Volume is sensitive to Velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
   "name": "SQ Concussion VS",

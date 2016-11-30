@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Versatile percussive sound usable in many octaves. Watch out for volume levels though.\r\n\r\n-Modwheel controls mod pitch.\r\n\r\n-Volume is sensitive to Velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Factory", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.5", "Version 2.7", "Wavescanning"],
   "name": "PC Moodswing VS",

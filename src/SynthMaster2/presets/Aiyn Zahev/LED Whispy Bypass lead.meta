@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A deep BP synth. \r\n\r\nMod (+) adds resonance\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
   "modes": ["Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Electro", "Electronica", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Rock", "Techno", "Trance", "Analog", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Pitch Wheel", "Resonant", "Saw", "Version 2.5", "Velocity Mod"],
   "name": "LED Whispy Bypass lead",

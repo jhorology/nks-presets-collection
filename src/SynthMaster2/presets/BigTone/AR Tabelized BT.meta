@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "an arp with randomized table.\r\n\r\nmodwheel: modulates cutoff of filter 1.\r\npitchbend: decreases osc1 tone control.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Electro", "Electronica", "Trance", "Digital", "Factory", "Metallic", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
   "name": "AR Tabelized BT",

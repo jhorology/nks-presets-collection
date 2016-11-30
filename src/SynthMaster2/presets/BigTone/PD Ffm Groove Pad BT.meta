@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a nice analog pad with tempo synced filter frequency modulated movements. \r\n\r\nmodwheel: filter fm noise intensity\r\npitchbend (up+down): dual cutoff spread\r\naftertouch: pad component brightness ",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Lounge", "Pop", "Trance", "Aftertouch", "Analog", "AudioFX", "Layered", "Mod Wheel", "Noisy", "Pitch Wheel", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Wavetable", "Factory"],
   "name": "PD Ffm Groove Pad BT",

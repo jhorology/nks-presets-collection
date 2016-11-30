@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-High pitched gloomy pad sound.\r\n\r\n-Modwheel morphs the sound.\r\n\r\n-Volume is sensitive to velocity.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["Ambient", "DnB", "DubStep", "Electro", "Electronica", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7", "Wavescanning"],
   "name": "PA Hidden VS",

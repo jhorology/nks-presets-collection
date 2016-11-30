@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "one sound that reminds of the glory days of the oberheim xpander/matrix12.\r\n\r\nmodwheel: increases fm source osc pitch.\r\nvelocity: increases fm env controls ammount.",
   "deviceType": "INST",
   "modes": ["Dance", "Electro", "Electronica", "House", "Trance", "Analog", "Factory", "Frequency Mod", "HardSync", "Mod Wheel", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "BA Good Old Xpander BT",

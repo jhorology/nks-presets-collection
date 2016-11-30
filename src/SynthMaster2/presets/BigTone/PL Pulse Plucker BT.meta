@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a typical, fat mks80 pwm unison stack.\r\n\r\nmodwheel: opens filtercutoff.\r\nvelocity: controls the ammount of the filter env.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "DnB", "Easy Listening", "Electro", "Electronica", "Hardstyle", "Hi Nrg", "Italo", "Lounge", "New Beat", "Oldschool Electro", "Techno", "Trance", "Additive", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Noisy", "PWM", "Pitch Wheel", "Pulse", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.5"],
   "name": "PL Pulse Plucker BT",

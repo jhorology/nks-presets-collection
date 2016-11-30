@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A delicate pad sound with a\r\nsecond layer which brings in an Arp\r\n\r\nMod (+) opens filter on the pad sound\r\n\r\nVel = Gain and filter cut-off\r\n\r\nReverb and Delay are disabled by default \r\nbecause this is a CPU intensive patch.\r\n\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Disco", "DnB", "Easy Listening", "Electro", "Electronica", "House", "Oldschool Electro", "Techno", "Trance", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Saw", "Version 2.5"],
   "name": "PAD Delicate Sounds II",

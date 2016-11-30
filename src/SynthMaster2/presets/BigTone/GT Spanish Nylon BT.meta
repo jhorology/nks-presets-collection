@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "an acoustic guitar attempt.\r\n\r\naftertouch: adds vibrato.\r\nmodwheel: decreases vibrato speed.",
   "deviceType": "INST",
   "modes": ["Ambient", "Baroque", "Bluegrass", "Blues", "Chillout", "Classical", "Country", "Easy Listening", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Mod Wheel", "Phase Mod", "Physical Model", "Velocity Mod", "Version 2.5", "Wavetable", "Factory"],
   "name": "GT Spanish Nylon BT",

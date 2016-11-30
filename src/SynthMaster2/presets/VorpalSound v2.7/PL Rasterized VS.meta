@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Classic trancy plucked lead utilizing the Comb Filter.\r\n\r\n-Modwheel controls Filter Slope.\r\n\r\n-Cutoff is sensitive to Velocity.\r\n\r\n-Quick filter shaping with XY1.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Trance", "Distorted", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
   "name": "PL Rasterized VS",

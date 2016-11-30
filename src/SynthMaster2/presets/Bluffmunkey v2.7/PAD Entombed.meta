@@ -1,6 +1,7 @@
 {
   "author": "Bluffmunkey@www.bluffmunkey.co.uk",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Simple pad with added step LFO to \r\noscillator 2 tone. \r\n\r\n",
   "deviceType": "INST",
   "modes": ["Aftertouch", "Analog", "Factory", "Layered", "Mod Wheel", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.7"],
   "name": "PAD Entombed",

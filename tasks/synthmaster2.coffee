@@ -25,8 +25,6 @@ $ = Object.assign {}, (require '../config'),
   #  common settings
   # -------------------------
   dir: 'SynthMaster2'
-  # change vender name, 'cause resource forlder name can't conatin characters ",."
-  # vendor: 'iZotope, Inc.'
   vendor: 'KV331 Audio'
   magic: "Sm2i"
 
@@ -99,6 +97,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       file.contents = new Buffer util.beautify
         author: if values[1] then "#{values[0]}@#{values[1]}" else values[0]
         bankchain: [$.dir, 'SynthMaster2 Factory', '']
+        comment: values[2]
         deviceType: 'INST'
         modes: modes
         name: basename

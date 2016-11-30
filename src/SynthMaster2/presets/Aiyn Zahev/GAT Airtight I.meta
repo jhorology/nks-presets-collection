@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A gated synth with a pad on layer two. \r\nYou can easily make long intro's \r\nout of the pad, especially using the XY controls\r\nand fade the gated synth in.\r\n\r\nThe First XY control will randomize \r\nthe gated pattern and can add noise. The \r\nsecond applies comb filters to the pad\r\non layer two.\r\n\r\nMod (+) opens filter on the gated synth\r\nVel + Gain & Filter cut-off\r\n\r\n",
   "deviceType": "INST",
   "modes": ["Breakbeat", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Glitch", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Digital", "Distorted", "Factory", "HardSync", "LoFi", "Metallic", "Mod Wheel", "Pitch Wheel", "Saw", "Version 2.5", "Velocity Mod", "Unison"],
   "name": "GAT Airtight I",

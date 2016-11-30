@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "an out of this world pad construct.\r\n\r\nmodwheel: increases filtercutoff.\r\naftertouch: adds phaserflutter.\r\npitchbend: controls speed of flutter modulation.\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "Digital", "Factory", "Frequency Mod", "Layered", "Metallic", "Mod Wheel", "Noisy", "Pitch Wheel", "Saw", "SuperSaw", "Version 2.5", "Wavetable"],
   "name": "PD Supernatural Appearance BT",

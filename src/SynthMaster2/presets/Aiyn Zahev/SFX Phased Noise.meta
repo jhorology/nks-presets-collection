@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A simple noise sound, phased, but with \r\nmany variation options.\r\n\r\nMod (+)  increases Phaser Speed\r\n\r\nVel = Gain + Cutoff\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Noisy", "Pitch Wheel", "Velocity Mod", "Version 2.5"],
   "name": "SFX Phased Noise",

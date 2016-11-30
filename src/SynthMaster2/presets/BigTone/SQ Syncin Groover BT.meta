@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a synced wavetable osc with a hostsyced movement on osc2.\r\n\r\nmodwheel: increases the ammount of pitch movement.\r\npitchbend (up+down): increases/decreases cutoff movement.",
   "deviceType": "INST",
   "modes": ["Acid", "Ambient", "Breakbeat", "Chillout", "Dance", "Electro", "Electronica", "Hi Nrg", "Italo", "Techno", "Trance", "Digital", "Factory", "HardSync", "Metallic", "Mod Wheel", "Pitch Wheel", "Pulse", "Resonant", "Version 2.5", "Wavetable"],
   "name": "SQ Syncin Groover BT",

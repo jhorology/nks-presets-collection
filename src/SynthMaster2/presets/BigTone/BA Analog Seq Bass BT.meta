@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a simple, yet powerful all purpose \r\nsequencer bass, 80´s like.\r\n\r\nmodwheel: opens cutoff.\r\nvelocity: controls filter env ammount.",
   "deviceType": "INST",
   "modes": ["Dance", "Disco", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Hi Nrg", "House", "Italo", "Minimal", "New Beat", "Oldschool Electro", "Techno", "Trance", "Analog", "Factory", "Mod Wheel", "Phase Mod", "Saw", "Square", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
   "name": "BA Analog Seq Bass BT",

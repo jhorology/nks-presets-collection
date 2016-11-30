@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a fluttering wavetable scanned arp.\r\n\r\nmodwheel: closes filtercutoff.\r\npitchbend: increases (up) or decreases (down) the scanning through the wavetable array.\r\naftertouch: adds amp env attack time.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "Digital", "Factory", "Metallic", "Mod Wheel", "Pitch Wheel", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
   "name": "AR Fluttered Tables BT",

@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Lead sound featuring 2 serial FM modulators.\r\n\r\n-Modwheel controls LFO Speed.\r\n\r\n-XY1 for tuning modulators. Caution advised as they have a wild range.\r\n\r\n-XY2 for offseting modulators. This is pretty subtle.\r\n\r\n-Easy Controls for different flavours.",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Frequency Mod", "HardSync", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Phase Mod", "Saw", "SuperSaw", "Version 2.5", "Version 2.7", "Wavescanning"],
   "name": "LD Symian Lead VS",

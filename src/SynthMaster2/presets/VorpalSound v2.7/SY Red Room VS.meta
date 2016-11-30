@@ -1,6 +1,7 @@
 {
   "author": "Vorpalsound",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "-Vowely synth sound\r\n\r\n-Modwheel controls HPF Cutoff.\r\n\r\n-Easy Controls for different flavours.\r\n",
   "deviceType": "INST",
   "modes": ["DnB", "DubStep", "Electro", "Electronica", "Distorted", "Factory", "Metallic", "Mod Wheel", "Monophonic", "Ring Mod", "Velocity Mod", "Version 2.7"],
   "name": "SY Red Room VS",

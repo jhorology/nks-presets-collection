@@ -1,6 +1,7 @@
 {
   "author": "Aiyn Zahev@Aiyn Zahev Sounds",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "A soft pluck with glide. When filter is \r\nopen it can be a rough lead.\r\n\r\nMod (+) opens filter.\r\n\r\nVel = Gain and filter cut-off\r\n",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Disco", "Electro", "Electronica", "House", "Minimal", "Newschool Electro", "Trance", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Saw", "Version 2.5", "Velocity Mod", "Unison"],
   "name": "PLK Resonant",

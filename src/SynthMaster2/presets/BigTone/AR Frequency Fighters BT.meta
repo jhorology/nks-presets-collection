@@ -1,6 +1,7 @@
 {
   "author": "BIGTONE@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "a groove arp with table scanning.\r\n\r\nmodwheel: increases scan modulation speed.\r\npitchbend: decreases fm osc speed.\r\naftertouch: opens tone control of osc1.",
   "deviceType": "INST",
   "modes": ["Ambient", "Chillout", "Dance", "Easy Listening", "Electro", "Electronica", "Hi Nrg", "Italo", "Lounge", "Trance", "Aftertouch", "Amplitude Mod", "Digital", "Factory", "Frequency Mod", "Legato", "Metallic", "Mod Wheel", "Pitch Wheel", "Ring Mod", "Version 2.5", "Wavetable", "Monophonic"],
   "name": "AR Frequency Fighters BT",

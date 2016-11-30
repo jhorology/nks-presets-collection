@@ -1,6 +1,7 @@
 {
   "author": "Insigna (i)",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "(!) Use the EZ controls! This voice has \r\ndynamic glide. The glide duration changes \r\nbased on the velocity of the pressed note. \r\n\r\nPW: Hi-Range Pitch (-+12)\r\n\r\nMW: Gain Wobble\r\n\r\nAT: Feedback Control\r\n\r\nAlt+Click: Default value knobs\r\n\r\nUmit 'Insigna' Uy / Istanbul. \r\n",
   "deviceType": "INST",
   "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Handsup", "Hardstyle", "Hi Nrg", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Digital", "Distorted", "Factory", "HardSync", "Legato", "Mod Wheel", "Monophonic", "Resonant", "Saw", "Version 2.5", "Velocity Mod"],
   "name": "LD Tubeless Tube II (i)",
