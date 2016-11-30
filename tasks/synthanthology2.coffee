@@ -72,7 +72,7 @@ $ = Object.assign {}, (require '../config'),
     EVX: 'ensoniq VFX'
     FCX: 'Fairlight CMI IIX'
     FUS: 'ALESIS FUSION'
-    J16: 'Roland JUNO-16'
+    J16: 'Roland JUNO-106'
     J60: 'Roland JUNO-60'
     JP4: 'Roland JUPITER-4'
     JP8: 'Roland JUPITER-8'

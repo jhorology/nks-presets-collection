@@ -1,12 +1,12 @@
 {
   "author": "",
-  "bankchain": ["Synth Anthology 2", "Roland JUNO-16", ""],
+  "bankchain": ["Synth Anthology 2", "Roland JUNO-106", ""],
   "comment": "",
   "deviceType": "INST",
   "modes": ["Classic Analog"],
   "name": "J16-B Juno Clav",
   "types": [
-    ["Keyboards", "Roland JUNO-16"]
+    ["Keyboards", "Roland JUNO-106"]
   ],
   "uuid": "7fe62f6a-aa45-4004-9bd0-c0663ed9abbd",
   "vendor": "UVI"

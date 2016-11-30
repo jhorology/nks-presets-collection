@@ -1,12 +1,12 @@
 {
   "author": "",
-  "bankchain": ["Synth Anthology 2", "Roland JUNO-16", ""],
+  "bankchain": ["Synth Anthology 2", "Roland JUNO-106", ""],
   "comment": "",
   "deviceType": "INST",
   "modes": ["Classic Analog"],
   "name": "J16-106 Bassuno",
   "types": [
-    ["Bass", "Roland JUNO-16"]
+    ["Bass", "Roland JUNO-106"]
   ],
   "uuid": "95e60e48-456b-4000-b867-20e227f46346",
   "vendor": "UVI"

@@ -1,12 +1,12 @@
 {
   "author": "",
-  "bankchain": ["Synth Anthology 2", "Roland JUNO-16", ""],
+  "bankchain": ["Synth Anthology 2", "Roland JUNO-106", ""],
   "comment": "",
   "deviceType": "INST",
   "modes": ["Classic Analog"],
   "name": "J16-Classic 106",
   "types": [
-    ["Pads", "Roland JUNO-16"]
+    ["Pads", "Roland JUNO-106"]
   ],
   "uuid": "c47ec875-10e5-40d5-9d70-74f4b1122eab",
   "vendor": "UVI"

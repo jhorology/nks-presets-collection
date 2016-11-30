@@ -1,12 +1,12 @@
 {
   "author": "",
-  "bankchain": ["Synth Anthology 2", "Roland JUNO-16", ""],
+  "bankchain": ["Synth Anthology 2", "Roland JUNO-106", ""],
   "comment": "",
   "deviceType": "INST",
   "modes": ["Classic Analog"],
   "name": "J16-Juno Little Sweep",
   "types": [
-    ["Sweeps", "Roland JUNO-16"]
+    ["Sweeps", "Roland JUNO-106"]
   ],
   "uuid": "1cd91894-1f33-45f0-96cb-bb4a023059a9",
   "vendor": "UVI"

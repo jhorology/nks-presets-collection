@@ -1,12 +1,12 @@
 {
   "author": "",
-  "bankchain": ["Synth Anthology 2", "Roland JUNO-16", ""],
+  "bankchain": ["Synth Anthology 2", "Roland JUNO-106", ""],
   "comment": "",
   "deviceType": "INST",
   "modes": ["Classic Analog"],
   "name": "J16-Noise Corn",
   "types": [
-    ["Short-Sequence", "Roland JUNO-16"]
+    ["Short-Sequence", "Roland JUNO-106"]
   ],
   "uuid": "cadefdfe-1e6a-4498-ac91-6e73129d2fff",
   "vendor": "UVI"
