@@ -291,10 +291,12 @@ _createControlList = (xml) ->
       name: node.getAttribute 'Label'
       kind: kind
       page: parseInt node.getAttribute 'Page'
-      col: (parseInt node.getAttribute 'PosX') / 107 | 0
+      # + 10 for rotaly selector
+      col: ((parseInt node.getAttribute 'PosX') + 10) / 107 | 0
       row: switch
-        when posY < 420 then 0
-        when posY < 500 then 1
+        # kind 21 rotaly selector -> row 1
+        when posY < 420 and kind isnt 21 then 0
+        when posY < 500 or kind is 21 then 1
         else 2
   # sort order by page, col, row
   list.sort (a, b) ->
