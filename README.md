@@ -41,7 +41,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
 
  1. Plugin name(root of bankchain) or vendor name were changed from original name, beacuse resource folder name can not contain some characters.
- 2. Contributed from (Kymeia@NI Forum)(http://www.fingermarks.co.uk).
+ 2. Contributed from [Kymeia@NI Forum](http://www.fingermarks.co.uk).
  3. Temporary build. Parameter mapping is not optimized yet.
  4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap).
  5. Custom build options are available, see $.buildOpts in tasks/lush101.coffee.
