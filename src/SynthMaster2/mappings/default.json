@@ -3,85 +3,85 @@
     [{
       "autoname": true,
       "id": 0,
-      "name": "OscPulseWidth",
+      "name": "",
       "section": "PERFORM",
       "vflag": false
     }, {
       "autoname": true,
       "id": 1,
-      "name": "OscTone",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 2,
-      "name": "OscDrift",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 3,
-      "name": "FilterDrive",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 4,
-      "name": "EnvAttack",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 5,
-      "name": "EnvRelease",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 6,
-      "name": "ReverbFX",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 7,
-      "name": "ReverbTime",
+      "name": "",
       "vflag": false
     }],
     [{
       "autoname": true,
       "id": 8,
-      "name": "FilterCutoff",
+      "name": "",
       "section": "XY PADS",
       "vflag": false
     }, {
       "autoname": true,
       "id": 9,
-      "name": "FilterReso",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 10,
-      "name": "Osc12Mix",
+      "name": "",
       "vflag": false
     }, {
       "autoname": true,
       "id": 11,
-      "name": "Osc12Detune",
+      "name": "",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 2105,
+      "id": 643,
       "name": "ON/OFF",
       "section": "ARP",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 13,
-      "name": "Master Volume",
+      "name": "Volume",
       "section": "MASTER",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 14,
-      "name": "Master Tune",
+      "name": "Tune",
       "vflag": false
     }, {
-      "autoname": true,
+      "autoname": false,
       "id": 3546,
       "name": "12dB Boost",
       "vflag": false
