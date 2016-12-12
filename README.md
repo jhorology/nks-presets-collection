@@ -32,7 +32,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Synth Anthology 2](http://www.uvi.net/en/synth-sound-design/synth-anthology-ii.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[SynthMaster2](https://www.kv331audio.com)|:heavy_check_mark:|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[SynthMaster2](https://www.kv331audio.com)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | - | 7 | - |
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
@@ -41,7 +41,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
 
  1. Plugin name(root of bankchain) or vendor name were changed from original name, beacuse resource folder name can not contain some characters.
- 2. Contributed from Kymeia@NI Forum.
+ 2. Contributed from (Kymeia@NI Forum)(http://www.fingermarks.co.uk).
  3. Temporary build. Parameter mapping is not optimized yet.
  4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap).
  5. Custom build options are available, see $.buildOpts in tasks/lush101.coffee.

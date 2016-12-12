@@ -3,111 +3,282 @@
     [{
       "autoname": true,
       "id": 0,
-      "name": "",
-      "section": "Easy",
+      "name": "OscPulseWidth",
+      "section": "PERFORM",
       "vflag": false
     }, {
       "autoname": true,
       "id": 1,
-      "name": "",
+      "name": "OscTone",
       "vflag": false
     }, {
       "autoname": true,
       "id": 2,
-      "name": "",
+      "name": "OscDrift",
       "vflag": false
     }, {
       "autoname": true,
       "id": 3,
-      "name": "",
+      "name": "FilterDrive",
       "vflag": false
     }, {
       "autoname": true,
       "id": 4,
-      "name": "",
+      "name": "EnvAttack",
       "vflag": false
     }, {
       "autoname": true,
       "id": 5,
-      "name": "",
+      "name": "EnvRelease",
       "vflag": false
     }, {
       "autoname": true,
       "id": 6,
-      "name": "",
+      "name": "ReverbFX",
       "vflag": false
     }, {
       "autoname": true,
       "id": 7,
-      "name": "",
+      "name": "ReverbTime",
       "vflag": false
     }],
     [{
       "autoname": true,
       "id": 8,
-      "name": "",
-      "section": "X1",
+      "name": "FilterCutoff",
+      "section": "XY PADS",
       "vflag": false
     }, {
       "autoname": true,
       "id": 9,
-      "name": "",
-      "section": "Y1",
+      "name": "FilterReso",
       "vflag": false
     }, {
       "autoname": true,
       "id": 10,
-      "name": "",
-      "section": "X2",
+      "name": "Osc12Mix",
       "vflag": false
     }, {
       "autoname": true,
       "id": 11,
-      "name": "",
-      "section": "Y2",
+      "name": "Osc12Detune",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 606,
-      "name": "L1 Vol",
-      "section": "Master",
+      "id": 2105,
+      "name": "ON/OFF",
+      "section": "ARP",
       "vflag": false
     }, {
-      "autoname": false,
-      "id": 2068,
-      "name": "L2 Vol",
-      "vflag": false
-    }, {
-      "autoname": false,
+      "autoname": true,
       "id": 13,
-      "name": "Volume",
+      "name": "Master Volume",
+      "section": "MASTER",
       "vflag": false
     }, {
-      "autoname": false,
+      "autoname": true,
       "id": 14,
-      "name": "Tune",
+      "name": "Master Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3546,
+      "name": "12dB Boost",
       "vflag": false
     }],
     [{
       "autoname": false,
-      "id": 15,
-      "name": "Quality",
-      "section": "Engine",
+      "id": 983,
+      "name": "VOL",
+      "section": "L1 OSC1",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 16,
-      "name": "Buffer",
+      "id": 1010,
+      "name": "PAN",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 17,
-      "name": "Polyphony",
+      "id": 984,
+      "name": "COARSE",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 3534,
-      "name": "Velocity",
+      "id": 1072,
+      "name": "FINE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1018,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1034,
+      "name": "HI CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1051,
+      "name": "WT INDEX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1070,
+      "name": "DRIFT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1113,
+      "name": "VOL",
+      "section": "L1 OSC2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1140,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1114,
+      "name": "COARSE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1202,
+      "name": "FINE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1148,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1164,
+      "name": "HI CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1181,
+      "name": "WT INDEX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1200,
+      "name": "DRIFT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1074,
+      "name": "CUTOFF",
+      "section": "L1 FILTER1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1073,
+      "name": "RESO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1081,
+      "name": "GAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1094,
+      "name": "KYTRK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1084,
+      "name": "SLOPE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1080,
+      "name": "BOOST",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1093,
+      "name": "PREGAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1082,
+      "name": "DRIVE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1204,
+      "name": "CUTOFF",
+      "section": "L1 FILTER2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1203,
+      "name": "RESO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1211,
+      "name": "GAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1224,
+      "name": "KYTRK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1214,
+      "name": "SLOPE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1210,
+      "name": "BOOST",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1223,
+      "name": "PREGAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1212,
+      "name": "DRIVE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1086,
+      "name": "MODE1",
+      "section": "L1 DUALFLT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1087,
+      "name": "MODE2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1075,
+      "name": "CUTOFF2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1088,
+      "name": "1/2 MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1089,
+      "name": "TOPOL",
       "vflag": false
     }, {
       "autoname": true,
@@ -118,8 +289,840 @@
     }, {
       "autoname": true,
       "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1216,
+      "name": "MODE1",
+      "section": "L1 DUALFL2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1217,
+      "name": "MODE2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1205,
+      "name": "CUTOFF2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1218,
+      "name": "1/2 MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1219,
+      "name": "TOPOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1220,
+      "name": "ATTACK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1221,
+      "name": "DECAY",
+      "vflag": false
     }, {
       "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1291,
+      "name": "ATT TIM",
+      "section": "L1 ADSR1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1293,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1294,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1296,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1295,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1297,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1299,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1302,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1306,
+      "name": "ATT TIM",
+      "section": "L1 ADSR 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1308,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1309,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1311,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1310,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1312,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1314,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1317,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1321,
+      "name": "ATT TIM",
+      "section": "L1 ADSR3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1323,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1324,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1326,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1325,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1327,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1329,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1332,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1336,
+      "name": "ATT TIM",
+      "section": "L1 ADSR4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1338,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1339,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1341,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1340,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1342,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1344,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1347,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1620,
+      "name": "SPEED",
+      "section": "L1 VLFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1621,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1623,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1624,
+      "name": "NOISE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1702,
+      "name": "SPEED",
+      "section": "L1 VLFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1703,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1705,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 1706,
+      "name": "NOISE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 607,
+      "name": "GLIDE",
+      "section": "LAYER 1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 618,
+      "name": "ERROR",
+      "section": "VELOCITY",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 617,
+      "name": "SPREAD",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 614,
+      "name": "DETUNE",
+      "section": "SPREAD",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 615,
+      "name": "CUTOFF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 613,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 621,
+      "name": "VOLUME",
+      "section": "VOICE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 620,
+      "name": "PAN",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2445,
+      "name": "VOL",
+      "section": "L2 OSC1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2472,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2446,
+      "name": "COARSE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2534,
+      "name": "FINE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2480,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2496,
+      "name": "HI CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2456,
+      "name": "WT INDEX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2532,
+      "name": "DRIFT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2575,
+      "name": "VOL",
+      "section": "L2 OSC2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2602,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2576,
+      "name": "COARSE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2664,
+      "name": "FINE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2610,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2626,
+      "name": "HI CUT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2643,
+      "name": "WT INDEX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2662,
+      "name": "DRIFT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2536,
+      "name": "CUTOFF",
+      "section": "L2 FILTER1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2535,
+      "name": "RESO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2543,
+      "name": "GAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2556,
+      "name": "KYTRK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2546,
+      "name": "SLOPE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2542,
+      "name": "BOOST",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2555,
+      "name": "PREGAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2544,
+      "name": "DRIVE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2666,
+      "name": "CUTOFF",
+      "section": "L2 FILTER2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2665,
+      "name": "RESO",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2673,
+      "name": "GAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2686,
+      "name": "KYTRK",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2676,
+      "name": "SLOPE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2672,
+      "name": "BOOST",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2685,
+      "name": "PREGAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2674,
+      "name": "DRIVE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2548,
+      "name": "MODE1",
+      "section": "L2 DUALFLT",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2549,
+      "name": "MODE2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2537,
+      "name": "CUTOFF2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2550,
+      "name": "1/2 MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2551,
+      "name": "TOPOL",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2678,
+      "name": "MODE1",
+      "section": "L2DUALFL2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2679,
+      "name": "MODE2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2667,
+      "name": "CUTOFF2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2680,
+      "name": "1/2 MIX",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2681,
+      "name": "TOPOL",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2753,
+      "name": "ATT TIM",
+      "section": "L2 ADSR1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2755,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2756,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2758,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2757,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2759,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2761,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2764,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2768,
+      "name": "ATT TIM",
+      "section": "L2 ADSR2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2770,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2771,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2773,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2772,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2774,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2776,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2779,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2783,
+      "name": "ATT TIM",
+      "section": "L2 ADSR3",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2785,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2786,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2788,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2787,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2789,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2791,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2794,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2798,
+      "name": "ATT TIM",
+      "section": "L2 ADSR4",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2800,
+      "name": "ATT SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2801,
+      "name": "DEC TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2803,
+      "name": "DEC SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2802,
+      "name": "SUS LVL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2804,
+      "name": "REL TIM",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2806,
+      "name": "REL SLP",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2809,
+      "name": "ENV AMT",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 112,
+      "name": "SPEED",
+      "section": "L2 SLFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 113,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 115,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 116,
+      "name": "NOISE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 194,
+      "name": "SPEED",
+      "section": "L2 SLFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 195,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 197,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 198,
+      "name": "NOISE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 3082,
+      "name": "SPEED",
+      "section": "L2 VLFO1",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3083,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3085,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3086,
+      "name": "NOISE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3164,
+      "name": "SPEED",
+      "section": "L2 VLFO2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3165,
+      "name": "VOL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3167,
+      "name": "PHASE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 3168,
+      "name": "NOISE",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 2069,
+      "name": "GLIDE",
+      "section": "LAYER 2",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2080,
+      "name": "ERROR",
+      "section": "VELOCITY",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2079,
+      "name": "SPREAD",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2076,
+      "name": "DETUNE",
+      "section": "SPREAD",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2077,
+      "name": "CUTOFF",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2075,
+      "name": "PAN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2083,
+      "name": "VOLUME",
+      "section": "VOICE",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2082,
+      "name": "PAN",
       "vflag": false
     }]
   ]
