@@ -13,6 +13,16 @@
       "vflag": false
     }, {
       "autoname": false,
+      "id": 216,
+      "name": "Emphasis",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 213,
+      "name": "Fatness",
+      "vflag": false
+    }, {
+      "autoname": false,
       "id": 211,
       "name": "Punch",
       "vflag": false
@@ -23,11 +33,6 @@
       "vflag": false
     }, {
       "autoname": false,
-      "id": 213,
-      "name": "Fat",
-      "vflag": false
-    }, {
-      "autoname": false,
       "id": 214,
       "name": "Contour",
       "vflag": false
@@ -35,11 +40,6 @@
       "autoname": false,
       "id": 215,
       "name": "Modulation",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 216,
-      "name": "Emphasis",
       "vflag": false
     }],
     [{
