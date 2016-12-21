@@ -25,6 +25,7 @@
     "gulp-data": "^1.2.1",
     "gulp-exec": "^2.1.2",
     "gulp-gzip": "^1.4.0",
+    "gulp-gunzip": "0.0.3",
     "gulp-if": "^2.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-riff-extractor": "0.0.7",
