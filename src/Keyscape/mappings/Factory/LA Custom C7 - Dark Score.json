@@ -48,71 +48,72 @@
     }, {
       "autoname": false,
       "id": 7,
-      "name": "T",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 8,
       "name": "Pedal Noise",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 9,
+      "id": 8,
       "name": "Velo Sens",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 10,
+      "id": 9,
       "name": "On/Off",
       "section": "EQUALIZER",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 11,
+      "id": 10,
       "name": "Lo Freq",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 12,
+      "id": 11,
       "name": "Lo Boost",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 13,
+      "id": 12,
       "name": "Lo Cut",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Hi Freq",
       "vflag": false
     }],
     [{
       "autoname": false,
       "id": 14,
-      "name": "Hi Freq",
+      "name": "Hi Boost",
       "section": "EQUALIZER",
       "vflag": false
     }, {
       "autoname": false,
       "id": 15,
-      "name": "Hi Boost",
-      "vflag": false
-    }, {
-      "autoname": false,
-      "id": 16,
       "name": "Q",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 17,
+      "id": 16,
       "name": "Hi Cut",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 18,
+      "id": 17,
       "name": "On/Off",
       "section": "COMP",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 19,
+      "id": 18,
       "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 19,
+      "name": "Mono",
+      "section": "IMAGE",
       "vflag": false
     }, {
       "autoname": false,
@@ -124,44 +125,84 @@
     [{
       "autoname": false,
       "id": 20,
+      "name": "Mode",
+      "section": "FEEL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 21,
+      "name": "Rel Transition",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 22,
+      "name": "Rel Time",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 23,
+      "name": "Realism",
+      "section": "SUSTAIN",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 24,
+      "name": "Effects",
+      "section": "PEDAL",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 25,
+      "name": "No Damper Above",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }, {
+      "autoname": false,
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 26,
       "name": "Voices",
       "section": "Settings",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 21,
+      "id": 27,
       "name": "Gain",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 22,
+      "id": 28,
       "name": "Down",
       "section": "Bend",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 23,
+      "id": 29,
       "name": "Up",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 24,
+      "id": 30,
       "name": "Bias",
       "section": "Velocity",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 25,
+      "id": 31,
       "name": "Gain",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 26,
+      "id": 32,
       "name": "X",
       "vflag": false
     }, {
       "autoname": false,
-      "id": 27,
+      "id": 33,
       "name": "Y",
       "vflag": false
     }]

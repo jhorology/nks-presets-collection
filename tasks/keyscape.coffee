@@ -6,6 +6,11 @@
 #    - Software 1.0.1
 #    - Sundsources 1.0.1
 #    - Patches 1.0.1
+# - 20170124
+#  - Keyscape
+#    - Software 1.0.2c
+#    - Sundsources v1.0.2
+#    - Patches v1.1d
 # ---------------------------------------------------------------
 path     = require 'path'
 gulp     = require 'gulp'
@@ -47,6 +52,20 @@ $ = Object.assign {}, (require '../config'),
     { id: 'vcx',  name: 'X',      section: 'Velocity'}
     { id: 'vcy',  name: 'Y',      section: 'Velocity'}
   ]
+  # build options
+  buildOpts:
+    SYNTHENG:
+      # velocity curve for S61
+      # ---------------------
+      VCname: 'NI Kontrol S61'
+      vcx: "3f000000"
+      vcy: "3f000000"
+      # velocity curve for S88
+      # ---------------------
+      # VCname: 'NI Kontrol S88'
+      # vcx: "3de38e39"
+      # vcy: "3d302c10"
+    
 # preparing tasks
 # --------------------------------
 
@@ -195,6 +214,9 @@ gulp.task "#{$.prefix}-dist-presets", ->
       # host parameter index
       syntheng.setAttribute "#{item.id}MidiLearnIDnum0", "#{index}"
       syntheng.setAttribute "#{item.id}MidiLearnChannel0", '-1'
+    # apply SYNTHENG options
+    if $.buildOpts.SYNTHENG
+      syntheng.setAttribute key, value for key, value of $.buildOpts.SYNTHENG
     # rebuild PCHK chunk
     file.contents = Buffer.concat [
       file.contents.slice 0, 4           # PCHK version
