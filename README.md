@@ -34,6 +34,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Synth Anthology 2](http://www.uvi.net/en/synth-sound-design/synth-anthology-ii.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[SynthMaster2](https://www.kv331audio.com)| 8 |:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Thorus](https://www.uvi.net/software/thorus.html)| 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | - | 7 | - |
 |[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 7 | 7 |
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|

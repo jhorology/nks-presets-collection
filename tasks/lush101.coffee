@@ -312,7 +312,7 @@ gulp.task "#{$.prefix}-export-drum-adg", ["#{$.prefix}-dist-presets"], ->
     .pipe exporter.gulpTemplate()
     .pipe gzip append: off       # append '.gz' extension
     .pipe rename extname: '.adg'
-    .pipe gulp.dest "#{$.Ableton.drumRracks}/#{$.dir}"
+    .pipe gulp.dest "#{$.Ableton.drumRacks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->

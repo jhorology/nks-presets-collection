@@ -26,6 +26,7 @@ module.exports =
   Ableton:
     racks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Instruments/Instrument Rack"
     drumRacks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Instruments/Drum Rack"
+    effectRacks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Audio Effects/Audio Effect Rack"
 
   #
   # Bitwig Studio

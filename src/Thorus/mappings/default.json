@@ -1,0 +1,78 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 6,
+      "name": "Mode",
+      "section": "MODE",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "LowGain",
+      "section": "COLOR",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Crossover",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Edge",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Tone",
+      "section": "CHORUS",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 0,
+      "name": "Speed",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "NumVoices",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Depth",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "Mix",
+      "section": "MIX",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "Trim",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}
