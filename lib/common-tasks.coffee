@@ -32,7 +32,7 @@ $       = require '../config'
 # - release
 #   - #{$.prefix}-exclude-release * when $.releaseExcudes is defined
 #   - #{$.prefix}-release * when $.releaseExcudes is defined
-# 
+#
 # @$ module settings
 # - $.prefix           required module name
 # - $.dir              required dirname (root of bankchain)
@@ -149,7 +149,7 @@ module.exports = ($, nksReady) ->
       .pipe extract chunk_ids: ['NISI', 'NICA', 'PLID']
       .pipe tap (file) -> console.info _deserialize file
 
-  
+
   # deploy
   # --------------------------------
   gulp.task "#{$.prefix}-deploy", [
