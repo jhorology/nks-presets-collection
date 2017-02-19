@@ -77,7 +77,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         bankchain: [$.dir, '', '']
         comment: ''
         deviceType: 'FX'
-        modes: ''
+        modes: []
         name: path.basename file.path, '.fxps'
         types: [[path.dirname file.path]]
         uuid: util.uuid metaFile
