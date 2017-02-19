@@ -80,7 +80,7 @@ module.exports = ($, nksReady) ->
 
   # extract PCHK chunk from .adg (ableton rack) file
   gulp.task "#{$.prefix}-extract-pchk-from-adg", ->
-    gulp.src ["#{$.Ableton.racks}/#{$.dir}/**/*.adg"]
+    gulp.src ["temp/#{$.dir}/**/*.adg"]
       .pipe data (file) ->
         extname = path.extname file.path
         basename = path.basename file.path, extname
@@ -98,7 +98,7 @@ module.exports = ($, nksReady) ->
 
   # extract PCHK chunk from .bwpreset (bitwig preset) file
   gulp.task "#{$.prefix}-extract-pchk-from-bw", ->
-    gulp.src ["#{$.Bitwig.presets}/#{$.dir}/**/*.bwpreset"]
+    gulp.src ["temp/#{$.dir}/**/*.bwpreset"]
       .pipe data (file) ->
         extname = path.extname file.path
         basename = path.basename file.path, extname

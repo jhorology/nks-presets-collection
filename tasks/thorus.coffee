@@ -14,7 +14,6 @@ gzip        = require 'gulp-gzip'
 rename      = require 'gulp-rename'
 xpath       = require 'xpath'
 _           = require 'underscore'
-extract     = require 'gulp-riff-extractor'
 zlib        = require 'zlib'
 unzip       = require 'gulp-unzip'
 util        = require '../lib/util'
@@ -74,7 +73,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       metaFile = path.join presets, "#{file.relative[..-5]}meta"
       file.contents = new Buffer util.beautify
         author: ''
-        bankchain: [$.dir, '', '']
+        bankchain: [$.dir, 'Thorus Factory', '']
         comment: ''
         deviceType: 'FX'
         modes: []
