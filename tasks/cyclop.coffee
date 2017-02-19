@@ -6,12 +6,13 @@
 #  - Cyclop 1.2.0
 #  - Ableton Live 9.6.2
 # ---------------------------------------------------------------
-path     = require 'path'
-gulp     = require 'gulp'
-extract     = require 'gulp-riff-extractor'
-
-util     = require '../lib/util'
-task     = require '../lib/common-tasks'
+path        = require 'path'
+gulp        = require 'gulp'
+gzip        = require 'gulp-gzip'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 #
 # buld environment & misc settings
@@ -33,48 +34,34 @@ $ = Object.assign {}, (require '../config'),
   bwpresetTemplate: 'src/Cyclop/templates/Cyclop.bwpreset'
   nksPresets: '/Library/Application Support/Sugar Bytes/Cyclop/NKS/Presets'
 
-# preparing tasks
+# regist common gulp tasks
 # --------------------------------
-
-# print metadata of _Default.nksf
-gulp.task "#{$.prefix}-print-default-meta", ->
-  task.print_default_meta $.dir
-
-# print mapping of _Default.nksf
-gulp.task "#{$.prefix}-print-default-mapping", ->
-  task.print_default_mapping $.dir
-
-# print plugin id of _Default.nksf
-gulp.task "#{$.prefix}-print-magic", ->
-  task.print_plid $.dir
-
-# for analysing plugin state on Live
-gulp.task "#{$.prefix}-adg-test-data", ->
-  task.extract_raw_presets_from_adg ["#{$.Ableton.racks}/8-*.adg"], 'test/ableton'
-
-# for analysing plugin state on KK
-gulp.task "#{$.prefix}-nks-test-data", ->
-  gulp.src ["/Library/Application Support/Sugar Bytes/Cyclop/NKS/Presets/XS/8-*.nksf"], read: true
-    .pipe extract {}
-    .pipe gulp.dest 'test/nks'
+commonTasks $, on  # nks-ready
 
 # export
+# Discontinued
+#   Ableton won't restore plugin state
+#   I gave up analysing plugin state. It's diffrent between Live and KK.
+#   I couldn't find rules.
 # --------------------------------
 
-# export from .nksf to .adg ableton rack
-gulp.task "#{$.prefix}-export-adg", ->
-  # Discontinued
-  #   Ableton won't restore plugin state
-  #   I gave up analysing plugin state. It's diffrent between Live and KK.
-  #   I couldn't find rules.
-  #
-  # task.export_adg "#{$.nksPresets}/**/*.nksf"
-  # , "#{$.Ableton.racks}/#{$.dir}"
-  # , $.abletonRackTemplate
+# # export from .nksf to .adg ableton rack
+# gulp.task "#{$.prefix}-export-adg", ->
+#   exporter = adgExporter $.abletonRackTemplate
+#   gulp.src ["#{$.nksPresets}/**/*.nksf"]
+#     .pipe exporter.gulpParseNksf()
+#     .pipe exporter.gulpTemplate()
+#     .pipe gzip append: off       # append '.gz' extension
+#     .pipe rename extname: '.adg'
+#     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
-# export from .nksf to .bwpreset bitwig studio preset
-gulp.task "#{$.prefix}-export-bwpreset", ->
-  # Discontinued
-  # task.export_bwpreset "#{$.nksPresets}/**/*.nksf"
-  # , "#{$.Bitwig.presets}/#{$.dir}"
-  # , $.bwpresetTemplate
+# # export from .nksf to .bwpreset bitwig studio preset
+# gulp.task "#{$.prefix}-export-bwpreset", ->
+#   exporter = bwExporter $.bwpresetTemplate
+#   gulp.src ["#{$.nksPresets}/**/*.nksf"]
+#     .pipe exporter.gulpParseNksf()
+#     .pipe exporter.gulpReadTemplate()
+#     .pipe exporter.gulpAppendPluginState()
+#     .pipe exporter.gulpRewriteMetadata()
+#     .pipe rename extname: '.bwpreset'
+#     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"

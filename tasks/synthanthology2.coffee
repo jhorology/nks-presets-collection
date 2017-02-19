@@ -18,18 +18,21 @@
 #   - Fix: sliders image glitches
 #   - Fix: missing artwork
 # ---------------------------------------------------------------
-path     = require 'path'
-gulp     = require 'gulp'
-tap      = require 'gulp-tap'
-data     = require 'gulp-data'
-rename   = require 'gulp-rename'
-xpath    = require 'xpath'
-_        = require 'underscore'
-extract  = require 'gulp-riff-extractor'
-zlib     = require 'zlib'
-
-util     = require '../lib/util'
-task     = require '../lib/common-tasks'
+path        = require 'path'
+gulp        = require 'gulp'
+tap         = require 'gulp-tap'
+data        = require 'gulp-data'
+rename      = require 'gulp-rename'
+gzip        = require 'gulp-gzip'
+xpath       = require 'xpath'
+_           = require 'underscore'
+extract     = require 'gulp-riff-extractor'
+zlib        = require 'zlib'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+nksfBuilder = require '../lib/nksf-builder'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -129,24 +132,15 @@ $ = Object.assign {}, (require '../config'),
     YX1: 'YAMAHA DX100'
     YX7: 'YAMAHA DX7'
 
+# regist common gulp tasks
+# --------------------------------
+commonTasks $
+
 # preparing tasks
 # --------------------------------
 
-# print metadata of _Default.nksf
-gulp.task "#{$.prefix}-print-default-meta", ->
-  task.print_default_meta $.dir
-
-# print mapping of _Default.nksf
-gulp.task "#{$.prefix}-print-default-mapping", ->
-  task.print_default_mapping $.dir
-
-# print plugin id of _Default.nksf
-gulp.task "#{$.prefix}-print-magic", ->
-  task.print_plid $.dir
-
-
 # Extract PCHK chunk from .nksf files.
-gulp.task "#{$.prefix}-extract-raw-presets", ->
+gulp.task "#{$.prefix}-extract-pchk", ->
   gulp.src ["temp/#{$.dir}/**/*.nksf"]
     .pipe extract
       chunk_ids: ['PCHK']
@@ -171,7 +165,7 @@ gulp.task "#{$.prefix}-extract-raw-presets", ->
 #  - ODY-Straitght Bass
 #  - KS8-Funny Pipe
 #  - P23-Pure Bell
-gulp.task "#{$.prefix}-extract-raw-presets-update-1.1.1", ->
+gulp.task "#{$.prefix}-extract-pchk-update-1.1.1", ->
   gulp.src ["temp/#{$.dir}/update 1.1.1/**/*.nksf"]
     .pipe extract
       chunk_ids: ['PCHK']
@@ -272,108 +266,80 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # build
 # --------------------------------
 
-# copy dist files to dist folder
-gulp.task "#{$.prefix}-dist", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-  "#{$.prefix}-dist-presets"
-]
-
-# copy image resources to dist folder
-gulp.task "#{$.prefix}-dist-image", ->
-  task.dist_image $.dir, $.vendor
-
-# copy database resources to dist folder
-gulp.task "#{$.prefix}-dist-database", ->
-  task.dist_database $.dir, $.vendor
 
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  task.dist_presets $.dir, $.magic, (file) ->
-    # file.contents = PCHK chunk data
-    # - 4byte PCHK version or flag
-    # - UVIWorkstation plugin state
-    #   - 4byte chunkId = "UVI4"
-    #   - 4byte version or flags = 1 (32bit LE)
-    #   - 4byte uncompressed file size (32bit LE)
-    #   - <gzip deflate archive (.uviws file)>
-    xml = util.xmlString (zlib.inflateSync file.contents.slice 16).toString()
-    automation = (xpath.select '/UVI4/Engine/Automation', xml)
-    if automation and automation.length
-      # remove all child node if <Automation> node already exist.
-      automation = automation[0]
-      automation.removeChild child while child = automation?.lastChild
-    else
-      # create new <Automation> node.
-      automation = xml.createElement 'Automation'
-      engine = (xpath.select '/UVI4/Engine', xml)[0]
-      engine.appendChild automation
+  builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
+  # read LuSH-101 mapping file
+  params = require "../src/#{$.dir}/mappings/uvi-host-automation-params"
+  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
+    .pipe data (pchk) ->
+      # file.contents = PCHK chunk data
+      # - 4byte PCHK version or flag
+      # - UVIWorkstation plugin state
+      #   - 4byte chunkId = "UVI4"
+      #   - 4byte version or flags = 1 (32bit LE)
+      #   - 4byte uncompressed file size (32bit LE)
+      #   - <gzip deflate archive (.uviws file)>
+      xml: util.xmlString (zlib.inflateSync pchk.contents.slice 16).toString()
+    .pipe data (pchk) ->
+      xml = pchk.data.xml
+      automation = (xpath.select '/UVI4/Engine/Automation', xml)
+      if automation and automation.length
+        # remove all child node if <Automation> node already exist.
+        automation = automation[0]
+        automation.removeChild child while child = automation?.lastChild
+      else
+        # create new <Automation> node.
+        automation = xml.createElement 'Automation'
+        engine = (xpath.select '/UVI4/Engine', xml)[0]
+        engine.appendChild automation
 
-    params = require "../src/#{$.dir}/mappings/uvi-host-automation-params"
-    for param, index in params
-      automationConnection = xml.createElement 'AutomationConnection'
-      automationConnection.setAttribute 'sourceIndex', "#{index}"
-      automationConnection.setAttribute 'targetPath', '/uvi/Part 0/Program/EventProcessor0'
-      automationConnection.setAttribute 'parameterName', "#{param.id}"
-      automationConnection.setAttribute 'parameterDisplayName', ""
-      automation.appendChild automationConnection
-
-    uvi4 = new Buffer xml.toString()
-    uncompressedSize = uvi4.length
-    file.contents = new Buffer.concat [
-      file.contents.slice 0, 16
-      zlib.deflateSync uvi4
-    ]
-    file.contents.writeUInt32LE uncompressedSize, 12
-
-    # eeturn mapping file
-    "./src/#{$.dir}/mappings/default.json"
-
-# check
-gulp.task "#{$.prefix}-check-dist-presets", ->
-  task.check_dist_presets $.dir
-
-#
-# deploy
-# --------------------------------
-
-gulp.task "#{$.prefix}-deploy", [
-  "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
-]
-
-# copy resources to local environment
-gulp.task "#{$.prefix}-deploy-resources", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-], ->
-  task.deploy_resources $.dir
-
-# copy database resources to local environment
-gulp.task "#{$.prefix}-deploy-presets", [
-  "#{$.prefix}-dist-presets"
-] , ->
-  task.deploy_presets $.dir
-
-#
-# release
-# --------------------------------
-
-# release zip file to dropbox
-gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  task.release $.dir
+      for param, index in params
+        automationConnection = xml.createElement 'AutomationConnection'
+        automationConnection.setAttribute 'sourceIndex', "#{index}"
+        automationConnection.setAttribute 'targetPath', '/uvi/Part 0/Program/EventProcessor0'
+        automationConnection.setAttribute 'parameterName', "#{param.id}"
+        automationConnection.setAttribute 'parameterDisplayName', ""
+        automation.appendChild automationConnection
+      xml: xml
+    .pipe tap (pchk) ->
+      # rebuild PCHK chunk
+      uvi4 = new Buffer pchk.data.xml.toString()
+      uncompressedSize = uvi4.length
+      pchk.contents = new Buffer.concat [
+        pchk.contents.slice 0, 16
+        zlib.deflateSync uvi4
+      ]
+      pchk.contents.writeUInt32LE uncompressedSize, 12
+    .pipe data (pchk) ->
+      nksf:
+        pchk: pchk
+        nisi: "#{pchk.path[..-5]}meta"
+    .pipe builder.gulp()
+    .pipe rename extname: '.nksf'
+    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
 # export
 # --------------------------------
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonRackTemplate
+  exporter = adgExporter $.abletonRackTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpTemplate()
+    .pipe gzip append: off       # append '.gz' extension
+    .pipe rename extname: '.adg'
+    .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Bitwig.presets}/#{$.dir}"
-  , $.bwpresetTemplate
+  exporter = bwExporter $.bwpresetTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpReadTemplate()
+    .pipe exporter.gulpAppendPluginState()
+    .pipe exporter.gulpRewriteMetadata()
+    .pipe rename extname: '.bwpreset'
+    .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"

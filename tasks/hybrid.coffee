@@ -5,17 +5,17 @@
 #  - Hybrid  3.0.0.18468
 #  - recycle bitwig presets. https://github.com/jhorology/HybridPack4Bitwig
 # ---------------------------------------------------------------
-path       = require 'path'
-gulp       = require 'gulp'
-tap        = require 'gulp-tap'
-data       = require 'gulp-data'
-rename     = require 'gulp-rename'
-hiveParser = require 'u-he-hive-meta-parser'
-_          = require 'underscore'
-del        = require 'del'
-
-util       = require '../lib/util'
-task       = require '../lib/common-tasks'
+path        = require 'path'
+gulp        = require 'gulp'
+tap         = require 'gulp-tap'
+data        = require 'gulp-data'
+gzip        = require 'gulp-gzip'
+rename      = require 'gulp-rename'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+nksfBuilder = require '../lib/nksf-builder'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -27,41 +27,24 @@ $ = Object.assign {}, (require '../config'),
   dir: 'Hybrid'
   vendor: 'AIR Music Technology'
   magic: "drbH"
+  releaseExcludes: [
+    "Expansions/**"
+  ]
   
   #  local settings
   # -------------------------
 
   # Ableton Live 9.6.2
-  abletonInstrumentRackTemplate: 'src/Hybrid/templates/Hybrid.adg.tpl'
+  abletonRackTemplate: 'src/Hybrid/templates/Hybrid.adg.tpl'
   # Bitwig Studio 1.3.14 RC1 preset file
   bwpresetTemplate: 'src/Hybrid/templates/Hybrid.bwpreset'
 
+# regist common gulp tasks
+# --------------------------------
+commonTasks $
+
 # preparing tasks
 # --------------------------------
-
-# print metadata of _Default.nksf
-gulp.task "#{$.prefix}-print-default-meta", ->
-  task.print_default_meta $.dir
-
-# print mapping of _Default.nksf
-gulp.task "#{$.prefix}-print-default-mapping", ->
-  task.print_default_mapping $.dir
-
-# print plugin id of _Default.nksf
-gulp.task "#{$.prefix}-print-magic", ->
-  task.print_plid $.dir
-
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
-# extract PCHK chunk from .bwpreset files.
-gulp.task "#{$.prefix}-extract-raw-presets", ->
-  task.extract_raw_presets_from_bw ["#{$.Bitwig.presets}/#{$.dir}/**/*.bwpreset"], "src/#{$.dir}/presets"
-
-# extract PCHK chunk from .nksf files.
-gulp.task "#{$.prefix}-extract-expansions-raw-presets", ->
-  task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"
 
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->
@@ -148,77 +131,38 @@ gulp.task "#{$.prefix}-check-default-mapping", ->
 # build
 # --------------------------------
 
-# copy dist files to dist folder
-gulp.task "#{$.prefix}-dist", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-  "#{$.prefix}-dist-presets"
-]
-
-# copy image resources to dist folder
-gulp.task "#{$.prefix}-dist-image", ->
-  task.dist_image $.dir, $.vendor
-
-# copy database resources to dist folder
-gulp.task "#{$.prefix}-dist-database", ->
-  task.dist_database $.dir, $.vendor
-
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  task.dist_presets $.dir, $.magic
-
-# check
-gulp.task "#{$.prefix}-check-dist-presets", ->
-  task.check_dist_presets $.dir
-
-#
-# deploy
-# --------------------------------
-
-gulp.task "#{$.prefix}-deploy", [
-  "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
-]
-
-# copy resources to local environment
-gulp.task "#{$.prefix}-deploy-resources", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-], ->
-  task.deploy_resources $.dir
-
-# copy database resources to local environment
-gulp.task "#{$.prefix}-deploy-presets", [
-  "#{$.prefix}-dist-presets"
-] , ->
-  task.deploy_presets $.dir
-
-#
-# release
-# --------------------------------
-
-# delete third-party expansions
-gulp.task "#{$.prefix}-delete-expansions",  ["#{$.prefix}-dist"], (cb) ->
-  del [
-    "dist/#{$.dir}/User Content/#{$.dir}/Expansions/**"
-  ]
-  , force: true, cb
-
-# release zip file to dropbox
-gulp.task "#{$.prefix}-release", ["#{$.prefix}-delete-expansions"], ->
-  task.release $.dir
+  builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
+  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
+    .pipe data (pchk) ->
+      nksf:
+        pchk: pchk
+        nisi: "#{pchk.path[..-5]}meta"
+    .pipe builder.gulp()
+    .pipe rename extname: '.nksf'
+    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
 # export
 # --------------------------------
 
-# export from .nksf to .adg ableton drum rack
+# export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonInstrumentRackTemplate
+  exporter = adgExporter $.abletonRackTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpTemplate()
+    .pipe gzip append: off       # append '.gz' extension
+    .pipe rename extname: '.adg'
+    .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Bitwig.presets}/#{$.dir}"
-  , $.bwpresetTemplate
+  exporter = bwExporter $.bwpresetTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpReadTemplate()
+    .pipe exporter.gulpAppendPluginState()
+    .pipe exporter.gulpRewriteMetadata()
+    .pipe rename extname: '.bwpreset'
+    .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"

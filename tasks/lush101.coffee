@@ -5,14 +5,18 @@
 #  - Komplete Kontrol 1.6.2.5
 #  - LuSH-101 1.1.3
 # ---------------------------------------------------------------
-path     = require 'path'
-gulp     = require 'gulp'
-tap      = require 'gulp-tap'
-rename   = require 'gulp-rename'
-xpath    = require 'xpath'
-
-util     = require '../lib/util'
-task     = require '../lib/common-tasks'
+path        = require 'path'
+gulp        = require 'gulp'
+tap         = require 'gulp-tap'
+data        = require 'gulp-data'
+gzip        = require 'gulp-gzip'
+rename      = require 'gulp-rename'
+xpath       = require 'xpath'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+nksfBuilder = require '../lib/nksf-builder'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 #
 # buld environment & misc settings
@@ -68,28 +72,12 @@ $ = Object.assign {}, (require '../config'),
       # 'Layer 8 Audio Output Number': '1'
       # 'Layer 8 Midi Channel': 'omni'
 
+# regist common gulp tasks
+# --------------------------------
+commonTasks $
+
 # preparing tasks
 # --------------------------------
-
-# print metadata of _Default.nksf
-gulp.task "#{$.prefix}-print-default-meta", ->
-  task.print_default_meta $.dir
-
-# print mapping of _Default.nksf
-gulp.task "#{$.prefix}-print-default-mapping", ->
-  task.print_default_mapping $.dir
-
-# print plugin id of _Default.nksf
-gulp.task "#{$.prefix}-print-magic", ->
-  task.print_plid $.dir
-
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
-# extract PCHK chunk from .nksf
-gulp.task "#{$.prefix}-extract-raw-presets", ->
-  task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"
 
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->
@@ -252,108 +240,53 @@ gulp.task "#{$.prefix}-suggest-eight-layers-mapping", ->
 # build
 # --------------------------------
 
-# copy dist files to dist folder
-gulp.task "#{$.prefix}-dist", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-  "#{$.prefix}-dist-presets"
-]
-
-# copy image resources to dist folder
-gulp.task "#{$.prefix}-dist-image", ->
-  task.dist_image $.dir, $.vendor
-
-# copy database resources to dist folder
-gulp.task "#{$.prefix}-dist-database", ->
-  task.dist_database $.dir, $.vendor
-
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
+  builder = nksfBuilder $.magic
   # read LuSH-101 mapping file
   twoLayersAssigns = xpath.select "/HostParametersMap/assign", util.xmlFile $.twoLayersMappingFile
   eightLayersAssigns = xpath.select "/HostParametersMap/assign", util.xmlFile $.eightLayersMappingFile
-  task.dist_presets $.dir, $.magic, (file) ->
-    # edit PCHK chunk content
-    # - apply build option
-    # - sync mapping between pluginstate and NICA chunk
-    id = file.contents.toString 'ascii', 4, 8
-    size = file.contents.readUInt32LE 8
-    pluginState = util.xmlString file.contents.toString 'utf8', 12, (12 + size)
-
-    # is is timbre preset?
-    if file.relative.match /^Timbre/
-      # use 2 layers map
-      assigns = twoLayersAssigns
-      mapping = "src/#{$.dir}/mappings/2-layers-default.json"
-    else
-      # use 8 layers map
-      assigns = eightLayersAssigns
-      mapping = "src/#{$.dir}/mappings/8-layers-default.json"
-      
-    # build options
-    if $.buildOpts.Editor.Skin
-      (xpath.select '/PluginState/Editor/Skin[1]', pluginState)[0]
-        ?.setAttribute 'name', $.buildOpts.Editor.Skin
-    if $.buildOpts.Editor.Keyboard
-      (xpath.select "/PluginState/Editor/Keyboard[1]", pluginState)[0]
-        ?.setAttribute 'visible', $.buildOpts.Editor.Keyboard
-    for key in Object.keys($.buildOpts.OtherParameters)
-      (xpath.select "/PluginState/Preset[@name=\"OtherParameters\"]/param[@name=\"#{key}\"]", pluginState)[0]
-        ?.setAttribute 'value', $.buildOpts.OtherParameters[key]
-        
-    # replace mapping
-    map = (xpath.select "/PluginState/HostParametersMap[@name=\"LuSH-101\"]", pluginState)[0]
-    map.removeChild child while child = map?.lastChild
-    for assign in assigns
-      map.appendChild assign
-
-    # build PCHK chunk
-    pluginState = new Buffer pluginState.toString(), 'utf8'
-    size = new Buffer 4
-    size.writeInt32LE pluginState.length
-    file.contents = Buffer.concat [
-      file.contents.slice 0, 8
-      size                       # xml size
-      pluginState                # xml
-      new Buffer [0]             # null terminate ?
-    ]
-    # MICA chunk - 2-layers-default.json or 8-layers-default.json
-    mapping
-    
-# check
-gulp.task "#{$.prefix}-check-dist-presets", ->
-  task.check_dist_presets $.dir
-
-# deploy
-# --------------------------------
-gulp.task "#{$.prefix}-deploy", [
-  "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
-]
-
-# copy resources to local environment
-gulp.task "#{$.prefix}-deploy-resources", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-], ->
-  task.deploy_resources $.dir
-
-# copy database resources to local environment
-gulp.task "#{$.prefix}-deploy-presets", [
-  "#{$.prefix}-dist-presets"
-] , ->
-  task.deploy_presets $.dir
-
-# release
-# --------------------------------
-
-# release zip file to dropbox
-gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  task.release $.dir
+  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
+    .pipe data (pchk) ->
+      # read plugin-state as XML DOM
+      size = pchk.contents.readUInt32LE 8
+      pluginState: util.xmlString pchk.contents.toString 'utf8', 12, (12 + size)
+    .pipe data (pchk) ->
+      # apply build options
+      pluginState: _applyBuildOptions pchk.data.pluginState
+    .pipe data (pchk) ->
+      # replace mapping
+      pluginState: if pchk.relative.match /^Timbre/
+        # use 2 layers map
+        _replaceMapping pchk.data.pluginState, twoLayersAssigns
+      else
+        # use 8 layers map
+        _replaceMapping pchk.data.pluginState, eightLayersAssigns
+    .pipe tap (pchk) ->
+      # rebuild PCHK chunk
+      pluginState = new Buffer pchk.data.pluginState.toString(), 'utf8'
+      size = new Buffer 4
+      size.writeInt32LE pluginState.length
+      pchk.contents = Buffer.concat [
+        pchk.contents.slice 0, 8
+        size                       # xml size
+        pluginState                # xml
+        new Buffer [0]             # null terminate ?
+      ]
+    .pipe data (pchk) ->
+      nksf:
+        pchk: pchk
+        nisi: "#{pchk.path[..-5]}meta"
+        nica: if pchk.relative.match /^Timbre/
+          "src/#{$.dir}/mappings/2-layers-default.json"
+        else
+          "src/#{$.dir}/mappings/8-layers-default.json"
+    .pipe builder.gulp()
+    .pipe rename extname: '.nksf'
+    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
 # export
 # --------------------------------
-
 
 # export from .nksf to .adg ableton instrument and drum rack
 gulp.task "#{$.prefix}-export-adg", [
@@ -363,18 +296,53 @@ gulp.task "#{$.prefix}-export-adg", [
 
 # export from .nksf to .adg ableton instrument rack
 gulp.task "#{$.prefix}-export-instrument-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonInstrumentRackTemplate
+  exporter = adgExporter $.abletonInstrumentRackTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpTemplate()
+    .pipe gzip append: off       # append '.gz' extension
+    .pipe rename extname: '.adg'
+    .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .adg ableton drum rack
 gulp.task "#{$.prefix}-export-drum-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/Presets/Multiple Zone/Drum Kit/**/*.nksf"
-  , "#{$.Ableton.drumRacks}/#{$.dir}"
-  , $.abletonDrumRackTemplate
+  exporter = adgExporter $.abletonDrumRackTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/Presets/Multiple Zone/Drum Kit/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpTemplate()
+    .pipe gzip append: off       # append '.gz' extension
+    .pipe rename extname: '.adg'
+    .pipe gulp.dest "#{$.Ableton.drumRracks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Bitwig.presets}/#{$.dir}"
-  , $.bwpresetTemplate
+  exporter = bwExporter $.bwpresetTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpReadTemplate()
+    .pipe exporter.gulpAppendPluginState()
+    .pipe exporter.gulpRewriteMetadata()
+    .pipe rename extname: '.bwpreset'
+    .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
+
+
+# functions
+# --------------------------------
+
+_applyBuildOptions = (pluginState) ->
+  if $.buildOpts.Editor.Skin
+    (xpath.select '/PluginState/Editor/Skin[1]', pluginState)[0]
+      ?.setAttribute 'name', $.buildOpts.Editor.Skin
+  if $.buildOpts.Editor.Keyboard
+    (xpath.select "/PluginState/Editor/Keyboard[1]", pluginState)[0]
+      ?.setAttribute 'visible', $.buildOpts.Editor.Keyboard
+  for key in Object.keys($.buildOpts.OtherParameters)
+    (xpath.select "/PluginState/Preset[@name=\"OtherParameters\"]/param[@name=\"#{key}\"]", pluginState)[0]
+      ?.setAttribute 'value', $.buildOpts.OtherParameters[key]
+  pluginState
+
+_replaceMapping = (pluginState, assigns) ->
+  map = (xpath.select "/PluginState/HostParametersMap[@name=\"LuSH-101\"]", pluginState)[0]
+  map.removeChild child while child = map?.lastChild
+  map.appendChild assign for assign in assigns
+  pluginState

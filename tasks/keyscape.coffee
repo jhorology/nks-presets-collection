@@ -12,16 +12,19 @@
 #    - Sundsources v1.0.2
 #    - Patches v1.1d
 # ---------------------------------------------------------------
-path     = require 'path'
-gulp     = require 'gulp'
-tap      = require 'gulp-tap'
-data     = require 'gulp-data'
-rename   = require 'gulp-rename'
-xpath    = require 'xpath'
-_        = require 'underscore'
-
-util     = require '../lib/util'
-task     = require '../lib/common-tasks'
+path        = require 'path'
+gulp        = require 'gulp'
+tap         = require 'gulp-tap'
+data        = require 'gulp-data'
+gzip        = require 'gulp-gzip'
+rename      = require 'gulp-rename'
+xpath       = require 'xpath'
+_           = require 'underscore'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+nksfBuilder = require '../lib/nksf-builder'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -66,28 +69,12 @@ $ = Object.assign {}, (require '../config'),
       # vcx: "3de38e39"
       # vcy: "3d302c10"
     
+# regist common gulp tasks
+# --------------------------------
+commonTasks $
+
 # preparing tasks
 # --------------------------------
-
-# print metadata of _Default.nksf
-gulp.task "#{$.prefix}-print-default-meta", ->
-  task.print_default_meta $.dir
-
-# print mapping of _Default.nksf
-gulp.task "#{$.prefix}-print-default-mapping", ->
-  task.print_default_mapping $.dir
-
-# print plugin id of _Default.nksf
-gulp.task "#{$.prefix}-print-magic", ->
-  task.print_plid $.dir
-
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
-# extract PCHK chunk from .nksf files.
-gulp.task "#{$.prefix}-extract-raw-presets", ->
-  task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"
 
 # generate per preset mappings
 gulp.task "#{$.prefix}-generate-mappings", ->
@@ -181,104 +168,70 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # build
 # --------------------------------
 
-# copy dist files to dist folder
-gulp.task "#{$.prefix}-dist", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-  "#{$.prefix}-dist-presets"
-]
-
-# copy image resources to dist folder
-gulp.task "#{$.prefix}-dist-image", ->
-  task.dist_image $.dir, $.vendor
-
-# copy database resources to dist folder
-gulp.task "#{$.prefix}-dist-database", ->
-  task.dist_database $.dir, $.vendor
-
-# build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  task.dist_presets $.dir, $.magic, (file) ->
-    # read plugin state as XMLDOM
-    #   - first 4 bytes: PCHK chunk version
-    #   - last 1 byte: null(0x00) terminater
-    xml = util.xmlString (file.contents.slice 4, file.contents.length - 1).toString()
-    # control list for host assignment
-    list = _createControlList xml
-    # select SYNTHENG node
-    syntheng = (xpath.select '/SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG', xml)[0]
-    # add host assign attribute
-    for item, index in list
-      # host parameter = Device 0, Channel -1
-      syntheng.setAttribute "#{item.id}MidiLearnDevice0", '16'
-      # host parameter index
-      syntheng.setAttribute "#{item.id}MidiLearnIDnum0", "#{index}"
-      syntheng.setAttribute "#{item.id}MidiLearnChannel0", '-1'
-    # apply SYNTHENG options
-    if $.buildOpts.SYNTHENG
-      syntheng.setAttribute key, value for key, value of $.buildOpts.SYNTHENG
-    # rebuild PCHK chunk
-    file.contents = Buffer.concat [
-      file.contents.slice 0, 4           # PCHK version
-      new Buffer xml.toString(), 'utf8'  # xml
-      new Buffer [0]                     # null terminate
-    ]
-    # return per preset mapping file
-    "./src/#{$.dir}/mappings/#{file.relative[..-5]}json"
-
-# check
-gulp.task "#{$.prefix}-check-dist-presets", ->
-  task.check_dist_presets $.dir
-
-#
-# deploy
-# --------------------------------
-
-gulp.task "#{$.prefix}-deploy", [
-  "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
-]
-
-# copy resources to local environment
-gulp.task "#{$.prefix}-deploy-resources", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-], ->
-  task.deploy_resources $.dir
-
-# copy database resources to local environment
-gulp.task "#{$.prefix}-deploy-presets", [
-  "#{$.prefix}-dist-presets"
-] , ->
-  task.deploy_presets $.dir
-
-#
-# release
-# --------------------------------
-
-# release zip file to dropbox
-gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  task.release $.dir
+  builder = nksfBuilder $.magic
+  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
+    .pipe tap  (pchk) ->
+      # read plugin state as XMLDOM
+      #   - first 4 bytes: PCHK chunk version
+      #   - last 1 byte: null(0x00) terminater
+      xml = util.xmlString (pchk.contents.slice 4, pchk.contents.length - 1).toString()
+      # control list for host assignment
+      list = _createControlList xml
+      # select SYNTHENG node
+      syntheng = (xpath.select '/SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG', xml)[0]
+      # add host assign attribute
+      for item, index in list
+        # host parameter = Device 0, Channel -1
+        syntheng.setAttribute "#{item.id}MidiLearnDevice0", '16'
+        # host parameter index
+        syntheng.setAttribute "#{item.id}MidiLearnIDnum0", "#{index}"
+        syntheng.setAttribute "#{item.id}MidiLearnChannel0", '-1'
+      # apply SYNTHENG options
+      if $.buildOpts.SYNTHENG
+        syntheng.setAttribute key, value for key, value of $.buildOpts.SYNTHENG
+      # rebuild PCHK chunk
+      pchk.contents = Buffer.concat [
+        pchk.contents.slice 0, 4           # PCHK version
+        new Buffer xml.toString(), 'utf8'  # xml
+        new Buffer [0]                     # null terminate
+      ]
+    .pipe data (pchk) ->
+      nksf:
+        pchk: pchk
+        nisi: "#{pchk.path[..-5]}meta"
+        nica: "src/#{$.dir}/mappings/#{pchk.relative[..-5]}json"
+    .pipe builder.gulp()
+    .pipe rename extname: '.nksf'
+    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
 # export
 # --------------------------------
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/Factory/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonRackTemplate
-  , (file, meta) ->
-    # edit file path
-    dirname = path.dirname file.path
-    file.path = path.join dirname, meta.bankchain[1], file.relative
+  exporter = adgExporter $.abletonRackTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/Factory/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpTemplate()
+    .pipe gzip append: off       # append '.gz' extension
+    .pipe rename extname: '.adg'
+    .pipe tap (file) ->
+      # edit file path
+      dirname = path.dirname file.path
+      file.path = path.join dirname, file.data.nksf.nisi.bankchain[1], file.relative
+    .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Bitwig.presets}/#{$.dir}"
-  , $.bwpresetTemplate
-
+  exporter = bwExporter $.bwpresetTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpReadTemplate()
+    .pipe exporter.gulpAppendPluginState()
+    .pipe exporter.gulpRewriteMetadata()
+    .pipe rename extname: '.bwpreset'
+    .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
 
 # functions
 # --------------------------------
@@ -306,7 +259,7 @@ _createControlList = (xml) ->
   for node in nodes
     kind = parseInt node.getAttribute 'Kind'
     unless kind in [4,5,6,7,11,15,21]
-      throw new Exception "unknown control kind. kind: #{kind}"
+      throw new Error "unknown control kind. kind: #{kind}"
     posY = (parseInt node.getAttribute 'PosY')
     list.push
       id: node.tagName.replace /Custom([0-9]+)$/, 'Custom_\$1'

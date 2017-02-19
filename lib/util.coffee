@@ -8,10 +8,14 @@ $        = require '../config'
 
 module.exports =
   # generate or reuse uuid
-  uuid: (pchkFile) ->
-    metaFile = "#{pchkFile.path[..-5]}meta"
+  uuid: (arg) ->
+    metaFile = switch
+      when arg.path && arg.path[-5..] is '.pchk'
+        "#{arg.path[..-5]}meta"
+      when _.isString arg
+        arg
     if fs.existsSync metaFile
-      (@readJson metaFile)?.uuid || uuid.v4()
+      (@readJson metaFile)?.uuid or uuid.v4()
     else
       uuid.v4()
 
@@ -34,6 +38,15 @@ module.exports =
     new xmldom().parseFromString s
 
   beautify: (json, print) ->
-    result = beautify (if _.isString json then json else (JSON.stringify json)), indent_size: $.json_indent
-    console.info result if print
-    result
+    str = switch
+      when Buffer.isBuffer()
+        JSON.stringify json.toString 'utf8'
+      when _.isString json
+        json
+      when _.isObject json
+        JSON.stringify json
+      else
+        throw new 'unsupported json format.'
+    str = beautify str, indent_size: $.json_indent
+    console.info str if print
+    str

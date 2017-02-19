@@ -4,14 +4,17 @@
 #  - Komplete Kontrol 1.5.0(R3065)
 #  - V-Station  2.3
 # ---------------------------------------------------------------
-path     = require 'path'
-gulp     = require 'gulp'
-tap      = require 'gulp-tap'
-data     = require 'gulp-data'
-rename   = require 'gulp-rename'
-
-util     = require '../lib/util'
-task     = require '../lib/common-tasks'
+path        = require 'path'
+gulp        = require 'gulp'
+tap         = require 'gulp-tap'
+data        = require 'gulp-data'
+gzip        = require 'gulp-gzip'
+rename      = require 'gulp-rename'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+nksfBuilder = require '../lib/nksf-builder'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -32,28 +35,12 @@ $ = Object.assign {}, (require '../config'),
   # Bitwig Studio 1.3.14 RC1 preset file
   bwpresetTemplate: 'src/VStation/templates/VStation.bwpreset'
 
+# regist common gulp tasks
+# --------------------------------
+commonTasks $
+
 # preparing tasks
 # --------------------------------
-
-# print metadata of _Default.nksf
-gulp.task "#{$.prefix}-print-default-meta", ->
-  task.print_default_meta $.dir
-
-# print mapping of _Default.nksf
-gulp.task "#{$.prefix}-print-default-mapping", ->
-  task.print_default_mapping $.dir
-
-# print plugin id of _Default.nksf
-gulp.task "#{$.prefix}-print-magic", ->
-  task.print_plid $.dir
-
-# generate default mapping file from _Default.nksf
-gulp.task "#{$.prefix}-generate-default-mapping", ->
-  task.generate_default_mapping $.dir
-
-# extract PCHK chunk from .nksf files.
-gulp.task "#{$.prefix}-extract-raw-presets", ->
-  task.extract_raw_presets ["temp/#{$.dir}/**/*.nksf"], "src/#{$.dir}/presets"
 
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->
@@ -82,82 +69,50 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # build
 # --------------------------------
 
-# copy dist files to dist folder
-gulp.task "#{$.prefix}-dist", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-  "#{$.prefix}-dist-presets"
-]
-
-# copy image resources to dist folder
-gulp.task "#{$.prefix}-dist-image", ->
-  task.dist_image $.dir, $.vendor
-
-# copy database resources to dist folder
-gulp.task "#{$.prefix}-dist-database", ->
-  task.dist_database $.dir, $.vendor
-
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  task.dist_presets $.dir, $.magic
-
-# check
-gulp.task "#{$.prefix}-check-dist-presets", ->
-  task.check_dist_presets $.dir
-
-#
-# deploy
-# --------------------------------
-
-gulp.task "#{$.prefix}-deploy", [
-  "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
-]
-
-# copy resources to local environment
-gulp.task "#{$.prefix}-deploy-resources", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-], ->
-  task.deploy_resources $.dir
-
-# copy database resources to local environment
-gulp.task "#{$.prefix}-deploy-presets", [
-  "#{$.prefix}-dist-presets"
-] , ->
-  task.deploy_presets $.dir
-
-#
-# release
-# --------------------------------
-
-# release zip file to dropbox
-gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  task.release $.dir
-
+  builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
+  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
+    .pipe data (pchk) ->
+      nksf:
+        pchk: pchk
+        nisi: "#{pchk.path[..-5]}meta"
+    .pipe builder.gulp()
+    .pipe rename extname: '.nksf'
+    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
 # export
 # --------------------------------
 
-# export from .nksf to .adg ableton drum rack
-#
+# export from .nksf to .adg ableton rack
 # TODO ableton won't restore plugin state.
-#
-gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/VStation Factory/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonInstrumentRackTemplate
-  , (file, meta) ->
-    # edit file path
-    dirname = path.dirname file.path
-    basename = path.basename file.path
-    file.path = path.join dirname, meta.types[0][0], file.relative
+# gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+#   exporter = adgExporter $.abletonRackTemplate
+#   gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+#     .pipe exporter.gulpParseNksf()
+#     .pipe exporter.gulpTemplate()
+#     .pipe exporter.gulp()
+#     .pipe gzip append: off       # append '.gz' extension
+#     .pipe rename extname: '.adg'
+#     .pipe tap (file) ->
+#       # edit file path
+#       dirname = path.dirname file.path
+#       file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+#     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
-#
 # TODO bitwig won't restore plugin state.
-#
-gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Bitwig.presets}/V-Station"
-  , $.bwpresetTemplate
+# gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+#   exporter = bwExporter $.bwpresetTemplate
+#   gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+#     .pipe exporter.gulpParseNksf()
+#     .pipe tap (file) ->
+#       # edit file path
+#       dirname = path.dirname file.path
+#       file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+#     .pipe exporter.gulpReadTemplate()
+#     .pipe exporter.gulpAppendPluginState()
+#     .pipe exporter.gulpRewriteMetadata()
+#     .pipe rename extname: '.bwpreset'
+#     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
+

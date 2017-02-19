@@ -12,17 +12,17 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Alchemy](https://www.camelaudio.com)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[AnalogLab](http://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[AnalogLab 2](https://www.arturia.com/products/analog-classics/analoglab)|:heavy_check_mark:|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-|[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - |7| - | - |
+|[BassStation](http://us.novationmusic.com/software/bass-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 7 | 7 |
+|[Cyclop](http://www.sugar-bytes.com/content/products/Cyclop/index.php?lang=en)| - | - | - | - | 7 | 7 |
 |[DB-33](http://www.airmusictech.com/product/db-33)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Diva](http://www.u-he.com/cms/diva)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
-|[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+|[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 7 | 7 |
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[iris 2](https://www.izotope.com/en/products/create-and-design/iris.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
-|[Keyscape](https://www.spectrasonics.net/products/keyscape/index.php)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Keyscape](https://www.spectrasonics.net/products/keyscape/index.php) 5|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[LuSH-101](http://d16.pl/lush-101)|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[LuSH-101](http://d16.pl/lush-101) 5|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
 |[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
@@ -32,10 +32,10 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Structure](http://www.airmusictech.com/product/structure-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Synth Anthology 2](http://www.uvi.net/en/synth-sound-design/synth-anthology-ii.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[SynthMaster2](https://www.kv331audio.com)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[SynthMaster2](https://www.kv331audio.com)| 8 |:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[theRiser](http://www.airmusictech.com/product/the-riser)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Twin 2](http://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in)|:heavy_check_mark:| - |:heavy_check_mark:| - | - | - | 7 | - |
-|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+|[V-Station](http://us.novationmusic.com/software/v-station#)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 7 | 7 |
 |[Vacuum Pro](http://www.airmusictech.com/product/vacuum-pro)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Velvet](http://www.airmusictech.com/product/velvet-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Xpand!2](http://www.airmusictech.com/product/xpand2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
@@ -44,9 +44,10 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
  2. Contributed from [Kymeia@NI Forum](http://www.fingermarks.co.uk).
  3. Temporary build. Parameter mapping is not optimized yet.
  4. Based on [tomduncalf/ubermap](https://github.com/tomduncalf/ubermap).
- 5. Custom build options are available, see $.buildOpts in tasks/lush101.coffee.
+ 5. Custom build options are available, see $.buildOpts in tasks/*.coffee.
  6. Exporting feature is currently experimental.
- 6. Discontinued for some reasons.
+ 7. Discontinued for some reasons.
+ 8. build directly from vendor's patch files.
  
 ## Build Instructions
 
@@ -56,10 +57,9 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 
   I recommend to use [nvm](https://github.com/creationix/nvm).
     ```shellscript
-    nvm install v5
-    nvm use v5
+    nvm install stable
+    nvm use stable
     ```
-    *Some tasks will may not work on node v6.x.x due to dep issue. Please use node v5.x.x
 
   - [gulp](http://gulpjs.com/)
     ```shellscript

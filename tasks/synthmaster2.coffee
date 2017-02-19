@@ -4,18 +4,21 @@
 #  - Komplete Kontrol 1.7.1(R49)
 #  - SynthMaster 2 v2.8.7
 # ---------------------------------------------------------------
-fs       = require 'fs'
-uuid     = require 'uuid'
-path     = require 'path'
-gulp     = require 'gulp'
-tap      = require 'gulp-tap'
-data     = require 'gulp-data'
-rename   = require 'gulp-rename'
-xpath    = require 'xpath'
-_        = require 'underscore'
-
-util     = require '../lib/util'
-task     = require '../lib/common-tasks'
+fs          = require 'fs'
+uuid        = require 'uuid'
+path        = require 'path'
+gulp        = require 'gulp'
+tap         = require 'gulp-tap'
+data        = require 'gulp-data'
+gzip        = require 'gulp-gzip'
+rename      = require 'gulp-rename'
+xpath       = require 'xpath'
+_           = require 'underscore'
+util        = require '../lib/util'
+commonTasks = require '../lib/common-tasks'
+nksfBuilder = require '../lib/nksf-builder'
+adgExporter = require '../lib/adg-preset-exporter'
+bwExporter  = require '../lib/bwpreset-exporter'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -37,6 +40,10 @@ $ = Object.assign {}, (require '../config'),
   abletonRackTemplate: 'src/SynthMaster2/templates/SynthMaster2.adg.tpl'
   # Bitwig Studio 1.3.14 preset file
   bwpresetTemplate: 'src/SynthMaster2/templates/SynthMaster2.bwpreset'
+
+# regist common gulp tasks
+# --------------------------------
+commonTasks $
 
 # preparing tasks
 # --------------------------------
@@ -113,80 +120,46 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # build
 # --------------------------------
 
-# copy dist files to dist folder
-gulp.task "#{$.prefix}-dist", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-  "#{$.prefix}-dist-presets"
-]
-
-# copy image resources to dist folder
-gulp.task "#{$.prefix}-dist-image", ->
-  task.dist_image $.dir, $.vendor
-
-# copy database resources to dist folder
-gulp.task "#{$.prefix}-dist-database", ->
-  task.dist_database $.dir, $.vendor
-
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
-  task.dist_presets_2 ["#{$.presets}/**/*.smpr"], $.dir, $.magic
-  , (file) ->
-    "src/#{$.dir}/mappings/default.json"
-  , (file) ->
-    # synthmaster preset file is exactly same as plugin state.
-    file.contents = Buffer.concat [
-      new Buffer [1,0,0,0]
-      file.contents
-    ]
-    # return meta file path
-    path.join "src/#{$.dir}/presets", "#{file.relative[..-5]}meta"
+  builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
+  gulp.src ["#{$.presets}/**/*.smpr"], read: on
+    .pipe tap (file) ->
+      # .smpr file is exactly same as plugin-state
+      #  smpr -> PCHK chunk
+      file.contents = Buffer.concat [
+        new Buffer [1,0,0,0]
+        file.contents
+      ]
+    .pipe data (pchk) ->
+      nksf:
+        pchk: pchk
+        nisi: path.join "src/#{$.dir}/presets", "#{pchk.relative[..-5]}meta"
+    .pipe builder.gulp()
+    .pipe rename extname: '.nksf'
+    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
-# check
-gulp.task "#{$.prefix}-check-dist-presets", ->
-  task.check_dist_presets $.dir
-
-#
-# deploy
-# --------------------------------
-
-gulp.task "#{$.prefix}-deploy", [
-  "#{$.prefix}-deploy-resources"
-  "#{$.prefix}-deploy-presets"
-]
-
-# copy resources to local environment
-gulp.task "#{$.prefix}-deploy-resources", [
-  "#{$.prefix}-dist-image"
-  "#{$.prefix}-dist-database"
-], ->
-  task.deploy_resources $.dir
-
-# copy database resources to local environment
-gulp.task "#{$.prefix}-deploy-presets", [
-  "#{$.prefix}-dist-presets"
-] , ->
-  task.deploy_presets $.dir
-
-#
-# release
-# --------------------------------
-
-# release zip file to dropbox
-gulp.task "#{$.prefix}-release", ["#{$.prefix}-dist"], ->
-  task.release $.dir
 
 # export
 # --------------------------------
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  task.export_adg "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Ableton.racks}/#{$.dir}"
-  , $.abletonRackTemplate
+  exporter = adgExporter $.abletonRackTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpTemplate()
+    .pipe gzip append: off       # append '.gz' extension
+    .pipe rename extname: '.adg'
+    .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  task.export_bwpreset "dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"
-  , "#{$.Bitwig.presets}/#{$.dir}"
-  , $.bwpresetTemplate
+  exporter = bwExporter $.bwpresetTemplate
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe exporter.gulpParseNksf()
+    .pipe exporter.gulpReadTemplate()
+    .pipe exporter.gulpAppendPluginState()
+    .pipe exporter.gulpRewriteMetadata()
+    .pipe rename extname: '.bwpreset'
+    .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
