@@ -1,0 +1,529 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Tempo",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Bypass",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Dry/Wet mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Master Vol",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Input trim",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 5,
+      "name": "Stereo link",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "Tone Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Tone Shape",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 8,
+      "name": "Pre Disto",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 11,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 13,
+      "name": "B1 Upper Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 14,
+      "name": "B2 Upper Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 15,
+      "name": "B3 Upper Freq",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 16,
+      "name": "B1 Fdbk Amnt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 17,
+      "name": "B1 Fdbk Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 18,
+      "name": "B1 Fdbk Spread",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "B2 Fdbk Amnt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 21,
+      "name": "B2 Fdbk Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 22,
+      "name": "B2 Fdbk Spread",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 23,
+      "name": "Reserved",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 24,
+      "name": "B3 Fdbk Amnt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 25,
+      "name": "B3 Fdbk Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 26,
+      "name": "B3 Fdbk Spread",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 27,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 28,
+      "name": "B4 Fdbk Amnt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 29,
+      "name": "B4 Fdbk Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 30,
+      "name": "B4 Fdbk Spread",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 31,
+      "name": "Reserved",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 32,
+      "name": "B1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 33,
+      "name": "B1 Body",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 34,
+      "name": "B1 Disto Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 35,
+      "name": "B1 Disto Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 36,
+      "name": "B1 Disto Bias",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 37,
+      "name": "B1 Disto Alteration",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 38,
+      "name": "B1 Gate Threshold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 39,
+      "name": "B1 Gate Atk Time",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 40,
+      "name": "B1 Gate Rls Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 41,
+      "name": "B1 Gate Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 42,
+      "name": "B1 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 43,
+      "name": "B1 Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 44,
+      "name": "B1 Dry/Wet mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 45,
+      "name": "B1 Mid Side mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 46,
+      "name": "B1 Solo",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 47,
+      "name": "B1 Mute",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 48,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 49,
+      "name": "B2 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 50,
+      "name": "B2 Body",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 51,
+      "name": "B2 Disto Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 52,
+      "name": "B2 Disto Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 53,
+      "name": "B2 Disto Bias",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 54,
+      "name": "B2 Disto Alteration",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 55,
+      "name": "B2 Gate Threshold",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 56,
+      "name": "B2 Gate Atk Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 57,
+      "name": "B2 Gate Rls Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 58,
+      "name": "B2 Gate Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 59,
+      "name": "B2 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 60,
+      "name": "B2 Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 61,
+      "name": "B2 Dry/Wet mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 62,
+      "name": "B2 Mid Side mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 63,
+      "name": "B2 Solo",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 64,
+      "name": "B2 Mute",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 65,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 66,
+      "name": "B3 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 67,
+      "name": "B3 Body",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 68,
+      "name": "B3 Disto Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 69,
+      "name": "B3 Disto Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 70,
+      "name": "B3 Disto Bias",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 71,
+      "name": "B3 Disto Alteration",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 72,
+      "name": "B3 Gate Threshold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 73,
+      "name": "B3 Gate Atk Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 74,
+      "name": "B3 Gate Rls Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 75,
+      "name": "B3 Gate Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 76,
+      "name": "B3 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 77,
+      "name": "B3 Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 78,
+      "name": "B3 Dry/Wet mix",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 79,
+      "name": "B3 Mid Side mode",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 80,
+      "name": "B3 Solo",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 81,
+      "name": "B3 Mute",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 82,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "B4 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "B4 Body",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 85,
+      "name": "B4 Disto Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 86,
+      "name": "B4 Disto Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 87,
+      "name": "B4 Disto Bias",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 88,
+      "name": "B4 Disto Alteration",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 89,
+      "name": "B4 Gate Threshold",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 90,
+      "name": "B4 Gate Atk Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 91,
+      "name": "B4 Gate Rls Time",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 92,
+      "name": "B4 Gate Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 93,
+      "name": "B4 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 94,
+      "name": "B4 Volume",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 95,
+      "name": "B4 Dry/Wet mix",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 96,
+      "name": "B4 Mid Side mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 97,
+      "name": "B4 Solo",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 98,
+      "name": "B4 Mute",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 99,
+      "name": "Reserved",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}
