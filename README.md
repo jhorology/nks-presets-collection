@@ -29,7 +29,6 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Neutron Compressor](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Neutron Equalizer](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Neutron Exciter](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
-|[Neutron Exciter](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Neutron Transient Shaper](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Ohmicide](https://www.ohmforce.com/ViewProduct.do?p=Ohmicide)| | | | | | | | |
 |[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
