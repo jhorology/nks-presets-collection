@@ -1,0 +1,67 @@
+- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000006 Plugin 'Neutron Compressor' is of type VST2.x
+- 00000000 000006 Opening VST2.x plugin 'Neutron Compressor'
+objc[21894]: Class HttpPostDelegate_UniqNEUTRON_1_01_3 is implemented in both /Library/Audio/Plug-Ins/VST/Neutron Compressor.vst/Contents/MacOS/PluginHooksVST (0x11259eb10) and /Library/Audio/Plug-Ins/VST/Neutron Compressor.vst/Contents/Resources/iZNeutronCompressor.bundle/Contents/MacOS/iZNeutronCompressor (0x113d8c368). One of the two will be used. Which one is undefined.
+objc[21894]: Class HttpPostDelegate_UniqNEUTRON_1_01_3 is implemented in both /Library/Audio/Plug-Ins/VST/Neutron Compressor.vst/Contents/MacOS/PluginHooksVST (0x11259eb10) and /Library/Application Support/iZotope/Meter Tap 2/Meter Tap 2.bundle/Contents/MacOS/Meter Tap 2 (0x112a21d58). One of the two will be used. Which one is undefined.
+- 00000000 000294 Information for VST2.x plugin 'Neutron Compressor'
+- 00000000 000294 Vendor: iZotope, Inc.
+- 00000000 000294 Version: 1010
+- 00000000 000294 Unique ID: ZnBd
+- 00000000 000294 Plugin type: effect, category 1
+- 00000000 000294 Version: 1010
+- 00000000 000294 I/O: 8/8
+- 00000000 000294 InitialDelay: 43 frames
+- 00000000 000294 GUI Editor: yes
+- 00000000 000294 Parameters (39 total):
+- 00000000 000294   0: 'Global Bypass' (0.000000)
+- 00000000 000294   1: 'Global Dirty Flag' (0.500000)
+- 00000000 000295   2: 'Global Input Gain' (0.857143)
+- 00000000 000295   3: 'Global Output Gain' (0.857143)
+- 00000000 000295   4: 'C1 B1 Bypass' (0.000000)
+- 00000000 000295   5: 'C1 B1 Attack' (0.039808)
+- 00000000 000295   6: 'C1 B1 Ratio' (0.063545)
+- 00000000 000295   7: 'C1 B1 Release' (0.019980)
+- 00000000 000295   8: 'C1 B1 Knee' (0.000000)
+- 00000000 000295   9: 'C1 B1 Threshold' (1.000000)
+- 00000000 000295   10: 'C1 B1 Gain' (0.500000)
+- 00000000 000295   11: 'C1 B1 Mix' (1.000000)
+- 00000000 000295   12: 'C1 B2 Bypass' (0.000000)
+- 00000000 000295   13: 'C1 B2 Attack' (0.039808)
+- 00000000 000295   14: 'C1 B2 Ratio' (0.063545)
+- 00000000 000295   15: 'C1 B2 Release' (0.019980)
+- 00000000 000295   16: 'C1 B2 Knee' (0.000000)
+- 00000000 000295   17: 'C1 B2 Threshold' (1.000000)
+- 00000000 000295   18: 'C1 B2 Gain' (0.500000)
+- 00000000 000295   19: 'C1 B2 Mix' (1.000000)
+- 00000000 000295   20: 'C1 B3 Bypass' (0.000000)
+- 00000000 000295   21: 'C1 B3 Attack' (0.039808)
+- 00000000 000295   22: 'C1 B3 Ratio' (0.063545)
+- 00000000 000295   23: 'C1 B3 Release' (0.019980)
+- 00000000 000295   24: 'C1 B3 Knee' (0.000000)
+- 00000000 000295   25: 'C1 B3 Threshold' (1.000000)
+- 00000000 000295   26: 'C1 B3 Gain' (0.500000)
+- 00000000 000295   27: 'C1 B3 Mix' (1.000000)
+- 00000000 000295   28: 'C1 Level Detection Meth' (0.500000)
+- 00000000 000295   29: 'C1 Auto Release' (0.000000)
+- 00000000 000295   30: 'C1 Auto Gain' (1.000000)
+- 00000000 000295   31: 'C1 Detection Filter HP ' (0.001001)
+- 00000000 000295   32: 'C1 Detection Filter HP ' (0.105625)
+- 00000000 000295   33: 'C1 Detection Filter LP ' (0.899900)
+- 00000000 000295   34: 'C1 Detection Filter LP ' (0.105625)
+- 00000000 000295   35: 'C1 Vintage Mode' (0.000000)
+- 00000000 000295   36: 'C1 Global Gain' (0.500000)
+- 00000000 000295   37: 'C1 Global Mix' (1.000000)
+- 00000000 000295   38: 'C1 Process LFE' (1.000000)
+- 00000000 000295 Programs (1 total):
+- 00000000 000295   0: 'Default'
+- 00000000 000295 Current program: 'Default'
+- 00000000 000295 Common canDo's:
+- 00000000 000295   sendVstEvents: No
+- 00000000 000295   sendVstMidiEvent: No
+- 00000000 000295   receiveVstEvents: No
+- 00000000 000295   receiveVstMidiEvent: No
+- 00000000 000295   receiveVstTimeInfo: No
+- 00000000 000295   offline: No
+- 00000000 000295   midiProgramNames: Don't know
+- 00000000 000295   bypass: Don't know
+E 00000000 000295 Output source could not be opened, exiting

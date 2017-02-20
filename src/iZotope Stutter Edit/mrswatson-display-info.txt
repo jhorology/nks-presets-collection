@@ -1,0 +1,26 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000005 Plugin 'iZotope Stutter Edit' is of type VST2.x
+- 00000000 000006 Opening VST2.x plugin 'iZotope Stutter Edit'
+- 00000000 000226 Information for VST2.x plugin 'iZotope Stutter Edit'
+- 00000000 000226 Vendor: iZotope, Inc.
+- 00000000 000226 Version: 1050
+- 00000000 000226 Unique ID: iZSE
+- 00000000 000226 Plugin type: effect, category 1
+- 00000000 000226 Version: 1050
+- 00000000 000226 I/O: 2/2
+- 00000000 000226 InitialDelay: 0 frames
+- 00000000 000226 GUI Editor: yes
+- 00000000 000226 Parameters (0 total):
+- 00000000 000226 Programs (1 total):
+- 00000000 000226   0: 'Default'
+- 00000000 000226 Current program: 'Default'
+- 00000000 000226 Common canDo's:
+- 00000000 000226   sendVstEvents: No
+- 00000000 000226   sendVstMidiEvent: No
+- 00000000 000226   receiveVstEvents: No
+- 00000000 000226   receiveVstMidiEvent: Yes
+- 00000000 000226   receiveVstTimeInfo: No
+- 00000000 000226   offline: No
+- 00000000 000226   midiProgramNames: Don't know
+- 00000000 000226   bypass: Don't know
+E 00000000 000226 Output source could not be opened, exiting

@@ -1,0 +1,122 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000006 Plugin 'Neutron Equalizer' is of type VST2.x
+- 00000000 000006 Opening VST2.x plugin 'Neutron Equalizer'
+objc[22357]: Class HttpPostDelegate_UniqNEUTRON_1_01_3 is implemented in both /Library/Audio/Plug-Ins/VST/Neutron Equalizer.vst/Contents/MacOS/PluginHooksVST (0x10e5b5b10) and /Library/Audio/Plug-Ins/VST/Neutron Equalizer.vst/Contents/Resources/iZNeutronEqualizer.bundle/Contents/MacOS/iZNeutronEqualizer (0x113549908). One of the two will be used. Which one is undefined.
+objc[22357]: Class HttpPostDelegate_UniqNEUTRON_1_01_3 is implemented in both /Library/Audio/Plug-Ins/VST/Neutron Equalizer.vst/Contents/MacOS/PluginHooksVST (0x10e5b5b10) and /Library/Application Support/iZotope/Meter Tap 2/Meter Tap 2.bundle/Contents/MacOS/Meter Tap 2 (0x110254d58). One of the two will be used. Which one is undefined.
+- 00000000 000329 Information for VST2.x plugin 'Neutron Equalizer'
+- 00000000 000329 Vendor: iZotope, Inc.
+- 00000000 000329 Version: 1010
+- 00000000 000329 Unique ID: ZnBe
+- 00000000 000329 Plugin type: effect, category 1
+- 00000000 000329 Version: 1010
+- 00000000 000329 I/O: 8/8
+- 00000000 000329 InitialDelay: 0 frames
+- 00000000 000329 GUI Editor: yes
+- 00000000 000329 Parameters (94 total):
+- 00000000 000329   0: 'Global Bypass' (0.000000)
+- 00000000 000329   1: 'Global Dirty Flag' (0.500000)
+- 00000000 000329   2: 'Global Input Gain' (0.857143)
+- 00000000 000329   3: 'Global Output Gain' (0.857143)
+- 00000000 000329   4: 'EQ HP Frequency' (0.307449)
+- 00000000 000329   5: 'EQ LS Frequency' (0.443770)
+- 00000000 000329   6: 'EQ B1 Frequency' (0.535550)
+- 00000000 000329   7: 'EQ B2 Frequency' (0.588928)
+- 00000000 000329   8: 'EQ B3 Frequency' (0.642739)
+- 00000000 000329   9: 'EQ B4 Frequency' (0.714374)
+- 00000000 000329   10: 'EQ B5 Frequency' (0.766607)
+- 00000000 000329   11: 'EQ B6 Frequency' (0.807875)
+- 00000000 000330   12: 'EQ B7 Frequency' (0.859718)
+- 00000000 000330   13: 'EQ B8 Frequency' (0.893806)
+- 00000000 000330   14: 'EQ HS Frequency' (0.939549)
+- 00000000 000330   15: 'EQ LP Frequency' (0.977442)
+- 00000000 000330   16: 'EQ LS Gain' (0.666667)
+- 00000000 000330   17: 'EQ B1 Gain' (0.666667)
+- 00000000 000330   18: 'EQ B2 Gain' (0.666667)
+- 00000000 000330   19: 'EQ B3 Gain' (0.666667)
+- 00000000 000330   20: 'EQ B4 Gain' (0.666667)
+- 00000000 000330   21: 'EQ B5 Gain' (0.666667)
+- 00000000 000330   22: 'EQ B6 Gain' (0.666667)
+- 00000000 000330   23: 'EQ B7 Gain' (0.666667)
+- 00000000 000330   24: 'EQ B8 Gain' (0.666667)
+- 00000000 000330   25: 'EQ HS Gain' (0.666667)
+- 00000000 000330   26: 'EQ HP Res Q' (0.172954)
+- 00000000 000330   27: 'EQ LS Q' (1.000000)
+- 00000000 000330   28: 'EQ B1 Q' (0.286897)
+- 00000000 000330   29: 'EQ B2 Q' (0.286897)
+- 00000000 000330   30: 'EQ B3 Q' (0.286897)
+- 00000000 000330   31: 'EQ B4 Q' (0.286897)
+- 00000000 000330   32: 'EQ B5 Q' (0.286897)
+- 00000000 000330   33: 'EQ B6 Q' (0.286897)
+- 00000000 000330   34: 'EQ B7 Q' (0.286897)
+- 00000000 000330   35: 'EQ B8 Q' (0.286897)
+- 00000000 000330   36: 'EQ HS Q' (1.000000)
+- 00000000 000330   37: 'EQ LP Res Q' (0.172954)
+- 00000000 000330   38: 'EQ LS Threshold' (0.500000)
+- 00000000 000330   39: 'EQ B1 Threshold' (0.500000)
+- 00000000 000330   40: 'EQ B2 Threshold' (0.375000)
+- 00000000 000330   41: 'EQ B3 Threshold' (0.375000)
+- 00000000 000330   42: 'EQ B4 Threshold' (0.375000)
+- 00000000 000330   43: 'EQ B5 Threshold' (0.250000)
+- 00000000 000330   44: 'EQ B6 Threshold' (0.250000)
+- 00000000 000330   45: 'EQ B7 Threshold' (0.250000)
+- 00000000 000330   46: 'EQ B8 Threshold' (0.250000)
+- 00000000 000330   47: 'EQ HS Threshold' (0.250000)
+- 00000000 000330   48: 'EQ HP Shape' (0.250000)
+- 00000000 000330   49: 'EQ LS Shape' (0.000000)
+- 00000000 000330   50: 'EQ B1 Shape' (0.000000)
+- 00000000 000330   51: 'EQ B2 Shape' (0.000000)
+- 00000000 000330   52: 'EQ B3 Shape' (0.000000)
+- 00000000 000330   53: 'EQ B4 Shape' (0.000000)
+- 00000000 000330   54: 'EQ B5 Shape' (0.000000)
+- 00000000 000330   55: 'EQ B6 Shape' (0.000000)
+- 00000000 000330   56: 'EQ B7 Shape' (0.000000)
+- 00000000 000330   57: 'EQ B8 Shape' (0.000000)
+- 00000000 000330   58: 'EQ HS Shape' (0.000000)
+- 00000000 000330   59: 'EQ LP Shape' (0.250000)
+- 00000000 000330   60: 'EQ HP Enable' (0.000000)
+- 00000000 000330   61: 'EQ LS Enable' (1.000000)
+- 00000000 000330   62: 'EQ B1 Enable' (1.000000)
+- 00000000 000330   63: 'EQ B2 Enable' (0.000000)
+- 00000000 000330   64: 'EQ B3 Enable' (1.000000)
+- 00000000 000330   65: 'EQ B4 Enable' (0.000000)
+- 00000000 000330   66: 'EQ B5 Enable' (1.000000)
+- 00000000 000330   67: 'EQ B6 Enable' (0.000000)
+- 00000000 000330   68: 'EQ B7 Enable' (1.000000)
+- 00000000 000330   69: 'EQ B8 Enable' (0.000000)
+- 00000000 000330   70: 'EQ HS Enable' (1.000000)
+- 00000000 000330   71: 'EQ LP Enable' (0.000000)
+- 00000000 000330   72: 'EQ LS Dyn Mode' (0.000000)
+- 00000000 000330   73: 'EQ B1 Dyn Mode' (0.000000)
+- 00000000 000330   74: 'EQ B2 Dyn Mode' (0.000000)
+- 00000000 000330   75: 'EQ B3 Dyn Mode' (0.000000)
+- 00000000 000330   76: 'EQ B4 Dyn Mode' (0.000000)
+- 00000000 000330   77: 'EQ B5 Dyn Mode' (0.000000)
+- 00000000 000330   78: 'EQ B6 Dyn Mode' (0.000000)
+- 00000000 000330   79: 'EQ B7 Dyn Mode' (0.000000)
+- 00000000 000330   80: 'EQ B8 Dyn Mode' (0.000000)
+- 00000000 000330   81: 'EQ HS Dyn Mode' (0.000000)
+- 00000000 000330   82: 'EQ LS is Static' (1.000000)
+- 00000000 000330   83: 'EQ B1 is Static' (1.000000)
+- 00000000 000330   84: 'EQ B2 is Static' (1.000000)
+- 00000000 000330   85: 'EQ B3 is Static' (1.000000)
+- 00000000 000330   86: 'EQ B4 is Static' (1.000000)
+- 00000000 000330   87: 'EQ B5 is Static' (1.000000)
+- 00000000 000330   88: 'EQ B6 is Static' (1.000000)
+- 00000000 000330   89: 'EQ B7 is Static' (1.000000)
+- 00000000 000330   90: 'EQ B8 is Static' (1.000000)
+- 00000000 000330   91: 'EQ HS is Static' (1.000000)
+- 00000000 000330   92: 'EQ Process LFE' (1.000000)
+- 00000000 000330   93: 'EQ Global Mix' (1.000000)
+- 00000000 000330 Programs (1 total):
+- 00000000 000330   0: 'Default'
+- 00000000 000330 Current program: 'Default'
+- 00000000 000330 Common canDo's:
+- 00000000 000330   sendVstEvents: No
+- 00000000 000330   sendVstMidiEvent: No
+- 00000000 000330   receiveVstEvents: No
+- 00000000 000330   receiveVstMidiEvent: No
+- 00000000 000330   receiveVstTimeInfo: No
+- 00000000 000330   offline: No
+- 00000000 000330   midiProgramNames: Don't know
+- 00000000 000330   bypass: Don't know
+E 00000000 000330 Output source could not be opened, exiting
