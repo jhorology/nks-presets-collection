@@ -109,7 +109,7 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
           throw new Error 'unexpected file format.'
       .pipe rename
         basename: 'default-parameter-list'
-        extname: '.json'
+        extname: '.coffee'
       .pipe gulp.dest "src/#{$.dir}/mappings"
 
   # extract PCHK chunk from .nksf file
