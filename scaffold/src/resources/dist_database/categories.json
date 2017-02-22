@@ -1,0 +1,12 @@
+{
+  "Vendor" : "<%= vendor %>",
+  "Product" : "<%= product %>",
+  "CategoryDB" : [
+    {
+      "FileType" : "<%= type %>",
+      "Categories" : [
+        "<%= category %>"
+      ]
+    }
+  ]
+}
