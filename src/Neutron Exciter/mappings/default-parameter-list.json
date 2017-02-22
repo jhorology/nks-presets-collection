@@ -1,0 +1,26 @@
+module.exports = [
+  {id:  0, name: 'Global Bypass'          section=''}
+  {id:  1, name: 'Global Dirty Flag'      section=''}
+  {id:  2, name: 'Global Input Gain'      section=''}
+  {id:  3, name: 'Global Output Gain'     section=''}
+  {id:  4, name: 'EXC B1 Bypass'          section=''}
+  {id:  5, name: 'EXC B1 X'               section=''}
+  {id:  6, name: 'EXC B1 Y'               section=''}
+  {id:  7, name: 'EXC B1 Drive'           section=''}
+  {id:  8, name: 'EXC B1 Blend'           section=''}
+  {id:  9, name: 'EXC B2 Bypass'          section=''}
+  {id: 10, name: 'EXC B2 X'               section=''}
+  {id: 11, name: 'EXC B2 Y'               section=''}
+  {id: 12, name: 'EXC B2 Drive'           section=''}
+  {id: 13, name: 'EXC B2 Blend'           section=''}
+  {id: 14, name: 'EXC B3 Bypass'          section=''}
+  {id: 15, name: 'EXC B3 X'               section=''}
+  {id: 16, name: 'EXC B3 Y'               section=''}
+  {id: 17, name: 'EXC B3 Drive'           section=''}
+  {id: 18, name: 'EXC B3 Blend'           section=''}
+  {id: 19, name: 'EXC Post Filter Freq'   section=''}
+  {id: 20, name: 'EXC Post Filter Gain'   section=''}
+  {id: 21, name: 'EXC Global Filter Mode' section=''}
+  {id: 22, name: 'EXC Global Mix'         section=''}
+  {id: 23, name: 'EXC Process LFE'        section=''}
+]

@@ -4,10 +4,13 @@ del     = require 'del'
 gulp    = require 'gulp'
 data    = require 'gulp-data'
 exec    = require 'gulp-exec'
+rename  = require 'gulp-rename'
 extract = require 'gulp-riff-extractor'
+gutil   = require 'gulp-util'
 tap     = require 'gulp-tap'
 zip     = require 'gulp-zip'
 msgpack = require 'msgpack-lite'
+_       = require 'underscore'
 util    = require './util'
 $       = require '../config'
 
@@ -17,6 +20,7 @@ $       = require '../config'
 #   - #{$.prefix}-print-default-meta
 #   - #{$.prefix}-print-default-mapping
 #   - #{$.prefix}-generate-default-mapping
+#   - #{$.prefix}-generate-default-parameter-list
 #   - #{$.prefix}-extract-pchk
 #   - #{$.prefix}-extract-pchk-from-adg
 #   - #{$.prefix}-extract-pchk-from-bw
@@ -70,6 +74,42 @@ module.exports = ($, nksReady) ->
         filename_template: "default.json"
       .pipe tap (file) ->
         file.contents = new Buffer _deserialize file
+      .pipe gulp.dest "src/#{$.dir}/mappings"
+
+  # generate flat parameter list from mrswatoson info.txt
+  gulp.task "#{$.prefix}-generate-parameter-list", ->
+    template = _.template '''
+module.exports = [<% _.forEach(params, function(p, i) { %>
+  {id: <%= p.idSpaces %><%= p.id %>, name: '<%= p.name %>'<%= p.nameSpaces %> section=''}<% }); %>
+]
+'''
+    gulp.src ["src/#{$.dir}/mrswatson-display-info.txt"], read: on
+      .pipe tap (file, t) ->
+        txt = file.contents.toString()
+        if match = /^- [0-9]{8} [0-9]{6} Parameters \([0-9]+ total\):\n([\s\S]*)?\n^- [0-9]{8} [0-9]{6} Programs/m.exec txt
+          idLength = 0
+          nameLength = 0
+          params = for s in match[1].split '\n'
+            m = /^- [0-9]{8} [0-9]{6}\s+([0-9]+): \'(.*)?\'/.exec s
+            idLength = Math.max idLength, m[1].length
+            nameLength = Math.max nameLength, m[2].length
+            id: m[1]
+            name: m[2]
+          if params
+            params = for p in params
+              id: p.id
+              name: p.name
+              idSpaces: (Buffer.alloc (idLength - p.id.length), ' ').toString()
+              nameSpaces: (Buffer.alloc (nameLength - p.name.length), ' ').toString()
+            # console.info template params: params
+            file.contents = new Buffer template params: params
+          else
+            throw new Error 'empty paramter'
+        else
+          throw new Error 'unexpected file format.'
+      .pipe rename
+        basename: 'default-parameter-list'
+        extname: '.json'
       .pipe gulp.dest "src/#{$.dir}/mappings"
 
   # extract PCHK chunk from .nksf file

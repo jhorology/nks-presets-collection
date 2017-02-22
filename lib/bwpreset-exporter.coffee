@@ -84,13 +84,12 @@ class BwpresetExporter
         done undefined, file.data
 
   # gulp phase 4 reewrite metadata
-  #
   # @mapper function(metadata)
   #  NKSF metadata -> bwpreset metadata
   # --------------------------------
   gulpRewriteMetadata: (mapper) ->
     mapper ?= _default_meta_map
-    rewrite (file, nisi) ->
+    rewrite (file, bwmeta) ->
       mapper file.data.nksf.nisi
 
 # replace .fxb filename in

@@ -1,8 +1,8 @@
-# Ohm Force Ohmicide
+# iZotope Neutron Compressor
 #
 # notes
 #  - Komplete Kontrol 1.7.1(R49)
-#  - Thorus 1.0.0
+#  - Neutron Compressor Version: 1010
 # ---------------------------------------------------------------
 
 fs          = require 'fs'
@@ -13,13 +13,16 @@ tap         = require 'gulp-tap'
 data        = require 'gulp-data'
 gzip        = require 'gulp-gzip'
 rename      = require 'gulp-rename'
+xpath       = require 'xpath'
 _           = require 'underscore'
+zlib        = require 'zlib'
 unzip       = require 'gulp-unzip'
 util        = require '../lib/util'
 commonTasks = require '../lib/common-tasks'
 nksfBuilder = require '../lib/nksf-builder'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
+extract = require 'gulp-riff-extractor'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -29,9 +32,9 @@ $ = Object.assign {}, (require '../config'),
   #  common settings
   # -------------------------
   # dir: 'UVIWorkstationVST'
-  dir: 'Ohmicide'
-  vendor: 'Ohm Force'
-  magic: "Opd2"
+  dir: 'Neutron Compressor'
+  vendor: 'iZotope'
+  magic: "ZnBd"
 
 # regist common gulp tasks
 # --------------------------------
@@ -39,6 +42,17 @@ commonTasks $
 
 # preparing tasks
 # --------------------------------
+# generate metadata
+gulp.task "#{$.prefix}-analyze-pluginstate", ->
+  gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.nksf"], read: on
+    .pipe extract chunk_ids: ['PCHK']
+    .pipe tap (file) ->
+      size = file.contents.readUInt32LE 4
+      console.info size
+      archive = file.contents.slice 8, size + 8
+      fs.writeFileSync 'test.dat', archive
+      console.info (zlib.unzipSync archive).toString()
+
 
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->
