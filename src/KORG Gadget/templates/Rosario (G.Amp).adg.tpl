@@ -309,7 +309,7 @@
 							<PluginParameterSettings Id="<%=index%>">
 								<Index Value="<%=index%>" />
 								<VisualIndex Value="<%=param.visualIndex%>" />
-								<Id Value="<%=param.id%>" />
+								<ParameterId Value="<%=param.id%>" />
 								<Type Value="PluginFloatParameter" />
 								<MacroControlIndex Value="-1" />
 								<MidiControllerRange />
