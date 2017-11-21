@@ -1,0 +1,77 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000004 Plugin 'Wolfsburg' is of type VST2.x
+- 00000000 000004 Opening VST2.x plugin 'Wolfsburg'
+- 00000000 000073 Information for VST2.x plugin 'Wolfsburg'
+- 00000000 000073 Vendor: KORG
+- 00000000 000073 Version: 0
+- 00000000 000073 Unique ID: KG15
+- 00000000 000073 Plugin type: instrument, category 2
+- 00000000 000073 Version: 1
+- 00000000 000073 I/O: 0/2
+- 00000000 000073 InitialDelay: 0 frames
+- 00000000 000073 GUI Editor: yes
+- 00000000 000073 Parameters (52 total):
+- 00000000 000073   0: 'OSC1 Waveform' (0.250000)
+- 00000000 000073   1: 'OSC1 Pitch' (0.500000)
+- 00000000 000073   2: 'OSC1 Level' (1.000000)
+- 00000000 000073   3: 'OSC1 Detune' (0.500000)
+- 00000000 000073   4: 'OSC2 Waveform' (0.250000)
+- 00000000 000073   5: 'OSC2 Pitch' (0.750000)
+- 00000000 000073   6: 'OSC2 Level' (0.944882)
+- 00000000 000073   7: 'OSC2 Detune' (0.250000)
+- 00000000 000073   8: 'Noise Level' (0.000000)
+- 00000000 000073   9: 'Output Level' (0.866142)
+- 00000000 000073   10: 'Portamento' (0.000000)
+- 00000000 000073   11: 'Voice Mode' (1.000000)
+- 00000000 000073   12: 'Filter Type' (0.333333)
+- 00000000 000073   13: 'Filter Cutoff' (0.850000)
+- 00000000 000073   14: 'Filter Resonance' (0.503937)
+- 00000000 000073   15: 'Filter Env Amt' (0.650000)
+- 00000000 000073   16: 'Amp Env A' (0.000000)
+- 00000000 000073   17: 'Amp Env D' (0.000000)
+- 00000000 000073   18: 'Amp Env S' (1.000000)
+- 00000000 000073   19: 'Amp Env R' (0.000000)
+- 00000000 000073   20: 'Mod Env A' (0.000000)
+- 00000000 000073   21: 'Mod Env D' (0.000000)
+- 00000000 000073   22: 'Mod Env S' (1.000000)
+- 00000000 000073   23: 'Mod Env R' (0.251969)
+- 00000000 000073   24: 'LFO1 Waveform' (0.000000)
+- 00000000 000073   25: 'LFO1 Speed' (0.157480)
+- 00000000 000073   26: 'LFO1 Key Sync' (0.000000)
+- 00000000 000073   27: 'LFO1 BPM Sync' (0.000000)
+- 00000000 000073   28: 'LFO2 Waveform' (0.000000)
+- 00000000 000073   29: 'LFO2 Speed' (0.157480)
+- 00000000 000073   30: 'LFO2 Key Sync' (0.000000)
+- 00000000 000073   31: 'LFO2 BPM Sync' (0.000000)
+- 00000000 000073   32: 'MatrixA Source' (0.428571)
+- 00000000 000073   33: 'MatrixA Dest' (0.176471)
+- 00000000 000073   34: 'MatrixA Amt' (0.525000)
+- 00000000 000073   35: 'MatrixB Source' (0.000000)
+- 00000000 000073   36: 'MatrixB Dest' (0.000000)
+- 00000000 000073   37: 'MatrixB Amt' (0.500000)
+- 00000000 000073   38: 'MatrixC Source' (0.000000)
+- 00000000 000073   39: 'MatrixC Dest' (0.000000)
+- 00000000 000073   40: 'MatrixC Amt' (0.500000)
+- 00000000 000073   41: 'MatrixD Source' (0.000000)
+- 00000000 000073   42: 'MatrixD Dest' (0.000000)
+- 00000000 000073   43: 'MatrixD Amt' (0.500000)
+- 00000000 000073   44: 'FX1 Type' (0.560000)
+- 00000000 000073   45: 'FX1 Edit 1' (1.000000)
+- 00000000 000073   46: 'FX1 Edit 2' (1.000000)
+- 00000000 000073   47: 'FX2 Type' (0.880000)
+- 00000000 000073   48: 'FX2 Edit 1' (0.503937)
+- 00000000 000073   49: 'FX2 Edit 2' (0.275591)
+- 00000000 000073   50: 'Pitch Bend' (0.500000)
+- 00000000 000073   51: 'Damper' (0.000000)
+- 00000000 000073 Programs (0 total):
+- 00000000 000073 Current program: 'Electro Stab'
+- 00000000 000073 Common canDo's:
+- 00000000 000073   sendVstEvents: Don't know
+- 00000000 000073   sendVstMidiEvent: Don't know
+- 00000000 000073   receiveVstEvents: Don't know
+- 00000000 000073   receiveVstMidiEvent: Don't know
+- 00000000 000073   receiveVstTimeInfo: Don't know
+- 00000000 000073   offline: Don't know
+- 00000000 000073   midiProgramNames: Don't know
+- 00000000 000073   bypass: Don't know
+E 00000000 000073 Output source could not be opened, exiting

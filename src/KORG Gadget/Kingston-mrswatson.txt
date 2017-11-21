@@ -1,0 +1,42 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000003 Plugin 'Kingston' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Kingston'
+- 00000000 000058 Information for VST2.x plugin 'Kingston'
+- 00000000 000058 Vendor: KORG
+- 00000000 000058 Version: 0
+- 00000000 000058 Unique ID: KG09
+- 00000000 000058 Plugin type: instrument, category 2
+- 00000000 000058 Version: 1
+- 00000000 000058 I/O: 0/2
+- 00000000 000058 InitialDelay: 0 frames
+- 00000000 000058 GUI Editor: yes
+- 00000000 000058 Parameters (17 total):
+- 00000000 000058   0: 'Waveform' (0.250000)
+- 00000000 000058   1: 'Transpose' (0.250000)
+- 00000000 000058   2: 'Jump Switch' (0.000000)
+- 00000000 000058   3: 'Jump Height' (0.197000)
+- 00000000 000058   4: 'Run Switch' (1.000000)
+- 00000000 000058   5: 'Run Type' (0.500000)
+- 00000000 000058   6: 'Run Speed' (0.732283)
+- 00000000 000058   7: 'Env Attack' (0.000000)
+- 00000000 000058   8: 'Env Decay' (0.595381)
+- 00000000 000058   9: 'Env Sustain' (1.000000)
+- 00000000 000058   10: 'Env Release' (0.000000)
+- 00000000 000058   11: 'FX Type' (0.000000)
+- 00000000 000058   12: 'FX Edit 1' (0.322835)
+- 00000000 000058   13: 'FX Edit 2' (0.740157)
+- 00000000 000058   14: 'Output Level' (0.629921)
+- 00000000 000058   15: 'Pitch Bend' (0.500000)
+- 00000000 000058   16: 'Damper' (0.000000)
+- 00000000 000058 Programs (0 total):
+- 00000000 000058 Current program: 'POWER UP'
+- 00000000 000058 Common canDo's:
+- 00000000 000058   sendVstEvents: Don't know
+- 00000000 000058   sendVstMidiEvent: Don't know
+- 00000000 000058   receiveVstEvents: Don't know
+- 00000000 000058   receiveVstMidiEvent: Don't know
+- 00000000 000058   receiveVstTimeInfo: Don't know
+- 00000000 000058   offline: Don't know
+- 00000000 000058   midiProgramNames: Don't know
+- 00000000 000058   bypass: Don't know
+E 00000000 000058 Output source could not be opened, exiting

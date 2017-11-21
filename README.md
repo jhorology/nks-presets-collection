@@ -21,7 +21,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[iris 2](https://www.izotope.com/en/products/create-and-design/iris.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
 |[Keyscape](https://www.spectrasonics.net/products/keyscape/index.php) 5|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[KORG Gadget](http://www.korg.com/us/products/software/korg_gadget/gadget_collection.php)| - | - | - | - |  |  |
+|[KORG Gadget](http://www.korg.com/us/products/software/korg_gadget/gadget_collection.php)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
 |[Loom](http://www.airmusictech.com/product/loom)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[LuSH-101](http://d16.pl/lush-101) 5|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|

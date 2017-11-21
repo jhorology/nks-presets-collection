@@ -1,0 +1,37 @@
+- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000004 Plugin 'Alexandria' is of type VST2.x
+- 00000000 000004 Opening VST2.x plugin 'Alexandria'
+- 00000000 000065 Information for VST2.x plugin 'Alexandria'
+- 00000000 000065 Vendor: KORG
+- 00000000 000065 Version: 0
+- 00000000 000065 Unique ID: KG20
+- 00000000 000065 Plugin type: instrument, category 2
+- 00000000 000065 Version: 1
+- 00000000 000065 I/O: 0/2
+- 00000000 000065 InitialDelay: 0 frames
+- 00000000 000065 GUI Editor: yes
+- 00000000 000065 Parameters (12 total):
+- 00000000 000065   0: 'Pitch Bend' (0.500000)
+- 00000000 000065   1: 'Modulation Wheel' (0.000000)
+- 00000000 000065   2: 'Damper' (0.000000)
+- 00000000 000065   3: 'Mod Fx Edit 1' (0.503937)
+- 00000000 000065   4: 'Mod Fx Edit 2' (0.503937)
+- 00000000 000065   5: 'Ambi Fx Edit 1' (0.314961)
+- 00000000 000065   6: 'Ambi Fx Edit 2' (0.015748)
+- 00000000 000065   7: 'Rotation' (0.503937)
+- 00000000 000065   8: 'Vibrato SW' (0.000000)
+- 00000000 000065   9: 'Vibrato Preset' (1.000000)
+- 00000000 000065   10: 'Drive' (0.149606)
+- 00000000 000065   11: 'Inst Level' (0.755906)
+- 00000000 000065 Programs (0 total):
+- 00000000 000065 Current program: '1#0#3#1#1#Simple Organ#'
+- 00000000 000065 Common canDo's:
+- 00000000 000065   sendVstEvents: Don't know
+- 00000000 000065   sendVstMidiEvent: Don't know
+- 00000000 000065   receiveVstEvents: Don't know
+- 00000000 000065   receiveVstMidiEvent: Don't know
+- 00000000 000065   receiveVstTimeInfo: Don't know
+- 00000000 000065   offline: Don't know
+- 00000000 000065   midiProgramNames: Don't know
+- 00000000 000065   bypass: Don't know
+E 00000000 000065 Output source could not be opened, exiting

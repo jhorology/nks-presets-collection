@@ -1,0 +1,39 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000004 Plugin 'Firenze' is of type VST2.x
+- 00000000 000004 Opening VST2.x plugin 'Firenze'
+- 00000000 000063 Information for VST2.x plugin 'Firenze'
+- 00000000 000063 Vendor: KORG
+- 00000000 000063 Version: 0
+- 00000000 000063 Unique ID: KG21
+- 00000000 000063 Plugin type: instrument, category 2
+- 00000000 000063 Version: 1
+- 00000000 000063 I/O: 0/2
+- 00000000 000063 InitialDelay: 0 frames
+- 00000000 000063 GUI Editor: yes
+- 00000000 000063 Parameters (14 total):
+- 00000000 000063   0: 'Pitch Bend' (0.500000)
+- 00000000 000063   1: 'Modulation Wheel' (0.000000)
+- 00000000 000063   2: 'Damper' (0.000000)
+- 00000000 000063   3: 'Mod Fx Edit 1' (0.500000)
+- 00000000 000063   4: 'Mod Fx Edit 2' (0.500000)
+- 00000000 000063   5: 'Ambi Fx Edit 1' (0.236220)
+- 00000000 000063   6: 'Ambi Fx Edit 2' (0.007874)
+- 00000000 000063   7: 'Presence' (1.000000)
+- 00000000 000063   8: 'Treble' (1.000000)
+- 00000000 000063   9: 'Medium' (1.000000)
+- 00000000 000063   10: 'Bass' (1.000000)
+- 00000000 000063   11: 'Inst Level' (0.811024)
+- 00000000 000063   12: 'Keyoff Noise' (0.503937)
+- 00000000 000063   13: 'Mute' (0.000000)
+- 00000000 000063 Programs (0 total):
+- 00000000 000063 Current program: '1#0#4#1#1#Clav CA#Clav '
+- 00000000 000064 Common canDo's:
+- 00000000 000064   sendVstEvents: Don't know
+- 00000000 000064   sendVstMidiEvent: Don't know
+- 00000000 000064   receiveVstEvents: Don't know
+- 00000000 000064   receiveVstMidiEvent: Don't know
+- 00000000 000064   receiveVstTimeInfo: Don't know
+- 00000000 000064   offline: Don't know
+- 00000000 000064   midiProgramNames: Don't know
+- 00000000 000064   bypass: Don't know
+E 00000000 000064 Output source could not be opened, exiting

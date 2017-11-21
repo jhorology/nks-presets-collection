@@ -1,0 +1,56 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000004 Plugin 'Kiev' is of type VST2.x
+- 00000000 000004 Opening VST2.x plugin 'Kiev'
+- 00000000 000076 Information for VST2.x plugin 'Kiev'
+- 00000000 000076 Vendor: KORG
+- 00000000 000076 Version: 0
+- 00000000 000076 Unique ID: KG08
+- 00000000 000076 Plugin type: instrument, category 2
+- 00000000 000076 Version: 1
+- 00000000 000076 I/O: 0/2
+- 00000000 000076 InitialDelay: 0 frames
+- 00000000 000076 GUI Editor: yes
+- 00000000 000076 Parameters (31 total):
+- 00000000 000076   0: 'OSC A Pitch' (0.508735)
+- 00000000 000076   1: 'OSC B Pitch' (0.496061)
+- 00000000 000076   2: 'OSC B Tune' (0.500000)
+- 00000000 000076   3: 'OSC C Pitch' (0.753015)
+- 00000000 000076   4: 'OSC C Tune' (0.498112)
+- 00000000 000076   5: 'OSC D Pitch' (0.508921)
+- 00000000 000076   6: 'OSC D Tune' (0.570866)
+- 00000000 000076   7: 'Morpher X Axis' (0.472441)
+- 00000000 000076   8: 'Morpher Y Axis' (0.511811)
+- 00000000 000076   9: 'A/B Depth' (0.937008)
+- 00000000 000076   10: 'C/D Depth' (0.873216)
+- 00000000 000076   11: 'A/B Speed' (0.362205)
+- 00000000 000076   12: 'C/D Speed' (0.362205)
+- 00000000 000076   13: 'Filter Type' (0.450927)
+- 00000000 000076   14: 'Filter Cutoff' (0.450927)
+- 00000000 000076   15: 'Filter Reso' (0.241671)
+- 00000000 000076   16: 'Filter Env Amt' (0.592483)
+- 00000000 000076   17: 'Filter Attack' (0.000000)
+- 00000000 000076   18: 'Filter Decay' (0.087806)
+- 00000000 000076   19: 'Filter Sustain' (0.000000)
+- 00000000 000076   20: 'Filter Release' (0.398007)
+- 00000000 000076   21: 'Amp Attack' (0.530937)
+- 00000000 000076   22: 'Amp Decay' (0.775252)
+- 00000000 000076   23: 'Amp Sustain' (1.000000)
+- 00000000 000076   24: 'Amp Release' (0.380013)
+- 00000000 000076   25: 'Effect Type' (0.945347)
+- 00000000 000076   26: 'Effect Edit 1' (0.268341)
+- 00000000 000076   27: 'Effect Edit 2' (0.500000)
+- 00000000 000076   28: 'Master Level' (0.811024)
+- 00000000 000076   29: 'Pitch Bend' (0.500000)
+- 00000000 000076   30: 'Damper' (0.000000)
+- 00000000 000076 Programs (0 total):
+- 00000000 000076 Current program: 'Whitening Pad'
+- 00000000 000076 Common canDo's:
+- 00000000 000076   sendVstEvents: Don't know
+- 00000000 000076   sendVstMidiEvent: Don't know
+- 00000000 000076   receiveVstEvents: Don't know
+- 00000000 000076   receiveVstMidiEvent: Don't know
+- 00000000 000076   receiveVstTimeInfo: Don't know
+- 00000000 000076   offline: Don't know
+- 00000000 000076   midiProgramNames: Don't know
+- 00000000 000076   bypass: Don't know
+E 00000000 000076 Output source could not be opened, exiting

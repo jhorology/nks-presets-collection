@@ -1,0 +1,44 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000003 Plugin 'Madrid' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Madrid'
+- 00000000 000082 Information for VST2.x plugin 'Madrid'
+- 00000000 000082 Vendor: KORG
+- 00000000 000082 Version: 0
+- 00000000 000082 Unique ID: KG26
+- 00000000 000082 Plugin type: instrument, category 2
+- 00000000 000082 Version: 1
+- 00000000 000082 I/O: 0/2
+- 00000000 000082 InitialDelay: 0 frames
+- 00000000 000082 GUI Editor: yes
+- 00000000 000082 Parameters (19 total):
+- 00000000 000082   0: 'Amp Type' (0.600000)
+- 00000000 000082   1: 'Amp Gain' (0.690000)
+- 00000000 000082   2: 'Tone Bass' (0.660000)
+- 00000000 000082   3: 'Tone Mid' (0.740000)
+- 00000000 000082   4: 'Tone Treble' (0.750000)
+- 00000000 000082   5: 'Env Attack' (0.000000)
+- 00000000 000082   6: 'Env Decay' (0.505952)
+- 00000000 000082   7: 'Env Release' (0.055118)
+- 00000000 000082   8: 'Effect1 Type' (0.055556)
+- 00000000 000082   9: 'Effect1 Pos' (0.000000)
+- 00000000 000082   10: 'Effect1 Edit1' (0.307087)
+- 00000000 000082   11: 'Effect1 Edit2' (0.692913)
+- 00000000 000082   12: 'Effect2 Type' (0.222222)
+- 00000000 000082   13: 'Effect2 Pos' (1.000000)
+- 00000000 000082   14: 'Effect2 Edit1' (0.228346)
+- 00000000 000083   15: 'Effect2 Edit2' (0.669291)
+- 00000000 000083   16: 'Master Level' (0.708661)
+- 00000000 000083   17: 'Pitch Bend' (0.500000)
+- 00000000 000083   18: 'Damper' (0.000000)
+- 00000000 000083 Programs (0 total):
+- 00000000 000083 Current program: 'J-Finger'
+- 00000000 000083 Common canDo's:
+- 00000000 000083   sendVstEvents: Don't know
+- 00000000 000083   sendVstMidiEvent: Don't know
+- 00000000 000083   receiveVstEvents: Don't know
+- 00000000 000083   receiveVstMidiEvent: Don't know
+- 00000000 000083   receiveVstTimeInfo: Don't know
+- 00000000 000083   offline: Don't know
+- 00000000 000083   midiProgramNames: Don't know
+- 00000000 000083   bypass: Don't know
+E 00000000 000083 Output source could not be opened, exiting

@@ -1,0 +1,42 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000003 Plugin 'Montreal' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Montreal'
+- 00000000 000065 Information for VST2.x plugin 'Montreal'
+- 00000000 000065 Vendor: KORG
+- 00000000 000065 Version: 0
+- 00000000 000065 Unique ID: KG19
+- 00000000 000065 Plugin type: instrument, category 2
+- 00000000 000065 Version: 1
+- 00000000 000065 I/O: 0/2
+- 00000000 000065 InitialDelay: 0 frames
+- 00000000 000065 GUI Editor: yes
+- 00000000 000065 Parameters (17 total):
+- 00000000 000065   0: 'Pitch Bend' (0.500000)
+- 00000000 000065   1: 'Modulation Wheel' (0.000000)
+- 00000000 000065   2: 'Damper' (0.000000)
+- 00000000 000065   3: 'Mod Fx Edit 1' (0.503937)
+- 00000000 000065   4: 'Mod Fx Edit 2' (0.503937)
+- 00000000 000065   5: 'Ambi Fx Edit 1' (0.236220)
+- 00000000 000065   6: 'Ambi Fx Edit 2' (0.039370)
+- 00000000 000065   7: 'Keyoff Noise' (1.000000)
+- 00000000 000065   8: 'Release Time' (0.503937)
+- 00000000 000065   9: 'EQ High' (0.503937)
+- 00000000 000065   10: 'EQ Low' (0.503937)
+- 00000000 000065   11: 'Tremolo SW' (0.000000)
+- 00000000 000065   12: 'Tremolo Depth' (0.503937)
+- 00000000 000065   13: 'Tremolo Speed' (0.157480)
+- 00000000 000065   14: 'Amp SW' (0.000000)
+- 00000000 000065   15: 'Amp Drive' (0.000000)
+- 00000000 000065   16: 'Inst Level' (0.811024)
+- 00000000 000065 Programs (0 total):
+- 00000000 000065 Current program: '1#0#2#1#1#Natural Tine '
+- 00000000 000065 Common canDo's:
+- 00000000 000065   sendVstEvents: Don't know
+- 00000000 000065   sendVstMidiEvent: Don't know
+- 00000000 000065   receiveVstEvents: Don't know
+- 00000000 000065   receiveVstMidiEvent: Don't know
+- 00000000 000065   receiveVstTimeInfo: Don't know
+- 00000000 000065   offline: Don't know
+- 00000000 000065   midiProgramNames: Don't know
+- 00000000 000065   bypass: Don't know
+E 00000000 000065 Output source could not be opened, exiting

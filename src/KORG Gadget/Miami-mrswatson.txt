@@ -1,0 +1,43 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000003 Plugin 'Miami' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Miami'
+- 00000000 000055 Information for VST2.x plugin 'Miami'
+- 00000000 000055 Vendor: KORG
+- 00000000 000055 Version: 0
+- 00000000 000055 Unique ID: KG12
+- 00000000 000055 Plugin type: instrument, category 2
+- 00000000 000055 Version: 1
+- 00000000 000055 I/O: 0/2
+- 00000000 000055 InitialDelay: 0 frames
+- 00000000 000055 GUI Editor: yes
+- 00000000 000055 Parameters (18 total):
+- 00000000 000055   0: 'Carrier Wave' (0.000000)
+- 00000000 000055   1: 'Carrier Level' (0.000000)
+- 00000000 000055   2: 'Carrier Sub' (1.000000)
+- 00000000 000055   3: 'Carrier Pitch' (0.488189)
+- 00000000 000055   4: 'Glide' (0.299213)
+- 00000000 000055   5: 'XMod Level' (0.976378)
+- 00000000 000055   6: 'XMod Wave' (1.000000)
+- 00000000 000055   7: 'XMod Tune' (0.247000)
+- 00000000 000055   8: 'XMod Depth' (0.283000)
+- 00000000 000055   9: 'Filter Cutoff' (0.551000)
+- 00000000 000055   10: 'Filter Crush' (0.000000)
+- 00000000 000055   11: 'Wobble Shape' (0.666667)
+- 00000000 000055   12: 'Wobble Depth' (0.614173)
+- 00000000 000055   13: 'Wobble Rate' (0.142857)
+- 00000000 000055   14: 'Output Level' (0.834646)
+- 00000000 000055   15: 'Stereo' (0.622047)
+- 00000000 000055   16: 'Pitch Bend' (0.500000)
+- 00000000 000055   17: 'Damper' (0.000000)
+- 00000000 000055 Programs (0 total):
+- 00000000 000055 Current program: 'Vice Base'
+- 00000000 000055 Common canDo's:
+- 00000000 000055   sendVstEvents: Don't know
+- 00000000 000055   sendVstMidiEvent: Don't know
+- 00000000 000055   receiveVstEvents: Don't know
+- 00000000 000055   receiveVstMidiEvent: Don't know
+- 00000000 000055   receiveVstTimeInfo: Don't know
+- 00000000 000055   offline: Don't know
+- 00000000 000055   midiProgramNames: Don't know
+- 00000000 000055   bypass: Don't know
+E 00000000 000055 Output source could not be opened, exiting

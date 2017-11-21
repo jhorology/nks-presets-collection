@@ -1,0 +1,63 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000003 Plugin 'Dublin' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Dublin'
+- 00000000 000056 Information for VST2.x plugin 'Dublin'
+- 00000000 000056 Vendor: KORG
+- 00000000 000056 Version: 0
+- 00000000 000056 Unique ID: KG06
+- 00000000 000056 Plugin type: instrument, category 2
+- 00000000 000056 Version: 1
+- 00000000 000056 I/O: 0/2
+- 00000000 000056 InitialDelay: 0 frames
+- 00000000 000056 GUI Editor: yes
+- 00000000 000056 Parameters (38 total):
+- 00000000 000056   0: 'VCO1 Waveform' (0.500000)
+- 00000000 000056   1: 'VCO1 Shape' (0.630000)
+- 00000000 000056   2: 'VCO1 Scale' (0.666667)
+- 00000000 000056   3: 'VCO2 Waveform' (1.000000)
+- 00000000 000056   4: 'VCO2 Tune' (0.545000)
+- 00000000 000056   5: 'VCO2 Scale' (0.333333)
+- 00000000 000056   6: 'Portamento' (0.000000)
+- 00000000 000056   7: 'Legato' (0.000000)
+- 00000000 000056   8: 'VCO1 Level' (1.000000)
+- 00000000 000056   9: 'VCO2 Level' (0.661417)
+- 00000000 000056   10: 'Noise Level' (0.070866)
+- 00000000 000056   11: 'VCF Cutoff' (0.128000)
+- 00000000 000056   12: 'VCF Peak' (0.000000)
+- 00000000 000056   13: 'VCF KBD Amt' (0.393701)
+- 00000000 000056   14: 'VCA Attack' (0.000000)
+- 00000000 000056   15: 'VCA Decay' (0.125984)
+- 00000000 000056   16: 'VCA Sustain' (1.000000)
+- 00000000 000056   17: 'VCA Release' (0.322835)
+- 00000000 000056   18: 'Master Level' (0.850394)
+- 00000000 000056   19: 'Drive' (0.354331)
+- 00000000 000056   20: 'Tone' (0.496063)
+- 00000000 000056   21: 'MG1 Mod Amt' (0.500000)
+- 00000000 000056   22: 'MG1 Waveform' (0.000000)
+- 00000000 000056   23: 'MG1 Frequency' (0.433071)
+- 00000000 000056   24: 'MG1 Key Sync' (0.000000)
+- 00000000 000056   25: 'MG1 BPM Sync' (0.007382)
+- 00000000 000056   26: 'MG2 Mod Amt' (0.500000)
+- 00000000 000056   27: 'MG2 Waveform' (0.333333)
+- 00000000 000056   28: 'MG2 Frequency' (0.480315)
+- 00000000 000056   29: 'MG2 Key Sync' (0.000000)
+- 00000000 000056   30: 'MG2 BPM Sync' (0.000000)
+- 00000000 000056   31: 'MOD EG Amt' (0.990000)
+- 00000000 000056   32: 'MOD EG A' (0.000000)
+- 00000000 000056   33: 'MOD EG D' (0.259843)
+- 00000000 000056   34: 'MOD EG S' (0.385827)
+- 00000000 000056   35: 'MOD EG R' (0.385827)
+- 00000000 000056   36: 'Pitch Bend' (0.500000)
+- 00000000 000056   37: 'Damper' (0.000000)
+- 00000000 000056 Programs (0 total):
+- 00000000 000056 Current program: '80's Bass'
+- 00000000 000056 Common canDo's:
+- 00000000 000056   sendVstEvents: Don't know
+- 00000000 000056   sendVstMidiEvent: Don't know
+- 00000000 000056   receiveVstEvents: Don't know
+- 00000000 000056   receiveVstMidiEvent: Don't know
+- 00000000 000056   receiveVstTimeInfo: Don't know
+- 00000000 000056   offline: Don't know
+- 00000000 000056   midiProgramNames: Don't know
+- 00000000 000056   bypass: Don't know
+E 00000000 000056 Output source could not be opened, exiting

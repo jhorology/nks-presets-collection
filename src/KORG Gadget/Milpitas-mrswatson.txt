@@ -1,0 +1,33 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000003 Plugin 'Milpitas' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Milpitas'
+- 00000000 000179 Information for VST2.x plugin 'Milpitas'
+- 00000000 000179 Vendor: KORG
+- 00000000 000179 Version: 0
+- 00000000 000179 Unique ID: KG28
+- 00000000 000179 Plugin type: instrument, category 2
+- 00000000 000179 Version: 1
+- 00000000 000179 I/O: 0/2
+- 00000000 000179 InitialDelay: 0 frames
+- 00000000 000179 GUI Editor: yes
+- 00000000 000179 Parameters (8 total):
+- 00000000 000179   0: 'Joy X Value' (0.500000)
+- 00000000 000179   1: 'Joy Y Value' (0.500000)
+- 00000000 000179   2: 'Joy X Dest' (0.094659)
+- 00000000 000179   3: 'Joy Y Dest' (0.086392)
+- 00000000 000179   4: 'Master Volume' (1.000000)
+- 00000000 000179   5: 'Pitch Bend' (0.505952)
+- 00000000 000179   6: 'Modulation' (0.000000)
+- 00000000 000179   7: 'Damper' (0.000000)
+- 00000000 000179 Programs (0 total):
+- 00000000 000179 Current program: ''
+- 00000000 000179 Common canDo's:
+- 00000000 000179   sendVstEvents: Don't know
+- 00000000 000179   sendVstMidiEvent: Don't know
+- 00000000 000179   receiveVstEvents: Don't know
+- 00000000 000179   receiveVstMidiEvent: Don't know
+- 00000000 000179   receiveVstTimeInfo: Don't know
+- 00000000 000179   offline: Don't know
+- 00000000 000179   midiProgramNames: Don't know
+- 00000000 000179   bypass: Don't know
+E 00000000 000179 Output source could not be opened, exiting

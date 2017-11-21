@@ -1,0 +1,38 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000004 Plugin 'Salzburg' is of type VST2.x
+- 00000000 000004 Opening VST2.x plugin 'Salzburg'
+- 00000000 000067 Information for VST2.x plugin 'Salzburg'
+- 00000000 000067 Vendor: KORG
+- 00000000 000067 Version: 0
+- 00000000 000067 Unique ID: KG18
+- 00000000 000067 Plugin type: instrument, category 2
+- 00000000 000067 Version: 1
+- 00000000 000067 I/O: 0/2
+- 00000000 000067 InitialDelay: 0 frames
+- 00000000 000067 GUI Editor: yes
+- 00000000 000067 Parameters (13 total):
+- 00000000 000067   0: 'Pitch Bend' (0.500000)
+- 00000000 000067   1: 'Modulation Wheel' (0.000000)
+- 00000000 000067   2: 'Damper' (0.000000)
+- 00000000 000067   3: 'Mod Fx Edit 1' (0.503937)
+- 00000000 000067   4: 'Mod Fx Edit 2' (0.503937)
+- 00000000 000067   5: 'Ambi Fx Edit 1' (0.196850)
+- 00000000 000067   6: 'Ambi Fx Edit 2' (0.047244)
+- 00000000 000067   7: 'EQ Low' (0.503937)
+- 00000000 000067   8: 'EQ Mid' (0.503937)
+- 00000000 000067   9: 'EQ High' (0.503937)
+- 00000000 000067   10: 'Damper Level' (0.503937)
+- 00000000 000067   11: 'Release Time' (0.503937)
+- 00000000 000067   12: 'Inst Level' (0.787402)
+- 00000000 000067 Programs (0 total):
+- 00000000 000067 Current program: '1#0#1#1#1#Natural Grand'
+- 00000000 000067 Common canDo's:
+- 00000000 000067   sendVstEvents: Don't know
+- 00000000 000067   sendVstMidiEvent: Don't know
+- 00000000 000067   receiveVstEvents: Don't know
+- 00000000 000067   receiveVstMidiEvent: Don't know
+- 00000000 000067   receiveVstTimeInfo: Don't know
+- 00000000 000067   offline: Don't know
+- 00000000 000067   midiProgramNames: Don't know
+- 00000000 000067   bypass: Don't know
+E 00000000 000067 Output source could not be opened, exiting
