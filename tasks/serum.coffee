@@ -31,7 +31,7 @@ $ = Object.assign {}, (require '../config'),
   #  local settings
   # -------------------------
 
-  # Ableton Live 9.6.2
+  # Ableton Live 10.0.1
   abletonRackTemplate: 'src/Serum/templates/Serum.adg.tpl'
   # Bitwig Studio 1.3.14 RC1 preset file
   bwpresetTemplate: 'src/Serum/templates/Serum.bwpreset'

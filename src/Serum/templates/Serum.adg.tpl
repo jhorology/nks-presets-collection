@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ableton MajorVersion="4" MinorVersion="9.5_326" SchemaChangeCount="7" Creator="Ableton Live 9.6.2" Revision="725d800103a155613e55ab9674e8994dedc2e78c">
+<Ableton MajorVersion="5" MinorVersion="10.0_370" SchemaChangeCount="2" Creator="Ableton Live 10.0.1" Revision="24db47c40277255afc4229905992e7654e23ec0f">
 	<GroupDevicePreset>
-		<OverwriteProtectionNumber Value="2305" />
+		<OverwriteProtectionNumber Value="2560" />
 		<Device>
-			<InstrumentGroupDevice>
+			<InstrumentGroupDevice Id="0">
 				<LomId Value="0" />
 				<LomIdView Value="0" />
 				<IsExpanded Value="true" />
 				<On>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<BoolEvent Time="-63072000" Value="true" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="true" />
 					<AutomationTarget Id="0">
 						<LockEnvelope Value="0" />
@@ -28,34 +23,15 @@
 				<LastSelectedClipEnvelopeIndex Value="0" />
 				<LastPresetRef>
 					<Value>
-						<AbletonDefaultPresetRef>
+						<FilePresetRef Id="0">
 							<FileRef>
-								<HasRelativePath Value="true" />
-								<RelativePathType Value="5" />
-								<RelativePath>
-									<RelativePathElement Dir="Devices" />
-									<RelativePathElement Dir="Instruments" />
-									<RelativePathElement Dir="Instrument Rack" />
-								</RelativePath>
-								<Name Value="" />
-								<Type Value="2" />
-								<Data>
-									000000000224000200010D4D6163696E746F7368205353440000000000000000000000000000D01E
-									D2AF482B000003B5CC920F496E737472756D656E74205261636B0000000000000000000000000000
-									0000000000000000000000000000000000000000000000000000000000000000000003B5CDE0D399
-									0B450000000000000000FFFFFFFF000009200000000000000000000000000000000B496E73747275
-									6D656E747300001000080000D01E541F0000001100080000D3988CB500000001001C03B5CC9203B5
-									CA3F03B5BDDA03B5B8CD03B5B8CA03B5B8C900A21304000200824D6163696E746F7368205353443A
-									4170706C69636174696F6E733A0041626C65746F6E204C69766520392053756974652E6170703A00
-									436F6E74656E74733A004170702D5265736F75726365733A00436F7265204C6962726172793A0044
-									6576696365733A00496E737472756D656E74733A00496E737472756D656E74205261636B000E0020
-									000F0049006E0073007400720075006D0065006E00740020005200610063006B000F001C000D004D
-									006100630069006E0074006F0073006800200053005300440012006D4170706C69636174696F6E73
-									2F41626C65746F6E204C69766520392053756974652E6170702F436F6E74656E74732F4170702D52
-									65736F75726365732F436F7265204C6962726172792F446576696365732F496E737472756D656E74
-									732F496E737472756D656E74205261636B00001300012F00FFFF0000
-								</Data>
-								<RefersToFolder Value="true" />
+								<HasRelativePath Value="false" />
+								<RelativePathType Value="0" />
+								<RelativePath />
+								<Name Value="Serum.adg" />
+								<Type Value="0" />
+								<Data />
+								<RefersToFolder Value="false" />
 								<SearchHint>
 									<PathHint />
 									<FileSize Value="0" />
@@ -63,22 +39,21 @@
 									<MaxCrcSize Value="0" />
 									<HasExtendedInfo Value="false" />
 								</SearchHint>
-								<LivePackName Value="Core Library" />
-								<LivePackId Value="www.ableton.com/0" />
+								<LivePackName Value="" />
+								<LivePackId Value="" />
 							</FileRef>
-							<DeviceId Name="InstrumentGroupDevice" />
-						</AbletonDefaultPresetRef>
+						</FilePresetRef>
 					</Value>
 				</LastPresetRef>
 				<LockedScripts />
 				<IsFolded Value="false" />
 				<ShouldShowPresetName Value="true" />
-				<UserName Value="Serum" />
+				<UserName Value="" />
 				<Annotation Value="" />
 				<SourceContext>
 					<Value />
 				</SourceContext>
-				<OverwriteProtectionNumber Value="2305" />
+				<OverwriteProtectionNumber Value="2560" />
 				<Branches />
 				<IsBranchesListVisible Value="false" />
 				<IsReturnBranchesListVisible Value="false" />
@@ -86,11 +61,6 @@
 				<AreDevicesVisible Value="true" />
 				<MacroControls.0>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -102,17 +72,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.0>
 				<MacroControls.1>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -124,17 +86,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.1>
 				<MacroControls.2>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -146,17 +100,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.2>
 				<MacroControls.3>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -168,17 +114,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.3>
 				<MacroControls.4>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -190,17 +128,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.4>
 				<MacroControls.5>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -212,17 +142,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.5>
 				<MacroControls.6>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -234,17 +156,9 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.6>
 				<MacroControls.7>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -256,9 +170,6 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</MacroControls.7>
 				<MacroDisplayNames.0 Value="Macro 1" />
 				<MacroDisplayNames.1 Value="Macro 2" />
@@ -296,11 +207,6 @@
 				<IsAutoSelectEnabled Value="false" />
 				<ChainSelector>
 					<LomId Value="0" />
-					<ArrangerAutomation>
-						<Events>
-							<FloatEvent Time="-63072000" Value="0" />
-						</Events>
-					</ArrangerAutomation>
 					<Manual Value="0" />
 					<MidiControllerRange>
 						<Min Value="0" />
@@ -312,9 +218,6 @@
 					<ModulationTarget Id="0">
 						<LockEnvelope Value="0" />
 					</ModulationTarget>
-					<ModulationAutomation>
-						<Events />
-					</ModulationAutomation>
 				</ChainSelector>
 				<ChainSelectorRelativePosition Value="-1073741824" />
 				<ViewsToRestoreWhenUnfolding Value="0" />
@@ -335,38 +238,19 @@
 				<ReturnChainsListWrapper LomId="0" />
 				<ChainSelectorFilterMidiCtrl Value="false" />
 				<RangeTypeIndex Value="1" />
-				<MidiTargetShowsZonesInsteadOfNoteNames Value="false" />
+				<ShowsZonesInsteadOfNoteNames Value="false" />
 			</InstrumentGroupDevice>
 		</Device>
 		<PresetRef>
-			<AbletonDefaultPresetRef>
+			<FilePresetRef Id="0">
 				<FileRef>
-					<HasRelativePath Value="true" />
-					<RelativePathType Value="5" />
-					<RelativePath>
-						<RelativePathElement Dir="Devices" />
-						<RelativePathElement Dir="Instruments" />
-						<RelativePathElement Dir="Instrument Rack" />
-					</RelativePath>
-					<Name Value="" />
-					<Type Value="2" />
-					<Data>
-						000000000224000200010D4D6163696E746F7368205353440000000000000000000000000000D01E
-						D2AF482B000003B5CC920F496E737472756D656E74205261636B0000000000000000000000000000
-						0000000000000000000000000000000000000000000000000000000000000000000003B5CDE0D399
-						0B450000000000000000FFFFFFFF000009200000000000000000000000000000000B496E73747275
-						6D656E747300001000080000D01E541F0000001100080000D3988CB500000001001C03B5CC9203B5
-						CA3F03B5BDDA03B5B8CD03B5B8CA03B5B8C900A21304000200824D6163696E746F7368205353443A
-						4170706C69636174696F6E733A0041626C65746F6E204C69766520392053756974652E6170703A00
-						436F6E74656E74733A004170702D5265736F75726365733A00436F7265204C6962726172793A0044
-						6576696365733A00496E737472756D656E74733A00496E737472756D656E74205261636B000E0020
-						000F0049006E0073007400720075006D0065006E00740020005200610063006B000F001C000D004D
-						006100630069006E0074006F0073006800200053005300440012006D4170706C69636174696F6E73
-						2F41626C65746F6E204C69766520392053756974652E6170702F436F6E74656E74732F4170702D52
-						65736F75726365732F436F7265204C6962726172792F446576696365732F496E737472756D656E74
-						732F496E737472756D656E74205261636B00001300012F00FFFF0000
-					</Data>
-					<RefersToFolder Value="true" />
+					<HasRelativePath Value="false" />
+					<RelativePathType Value="0" />
+					<RelativePath />
+					<Name Value="Serum.adg" />
+					<Type Value="0" />
+					<Data />
+					<RefersToFolder Value="false" />
 					<SearchHint>
 						<PathHint />
 						<FileSize Value="0" />
@@ -374,24 +258,23 @@
 						<MaxCrcSize Value="0" />
 						<HasExtendedInfo Value="false" />
 					</SearchHint>
-					<LivePackName Value="Core Library" />
-					<LivePackId Value="www.ableton.com/0" />
+					<LivePackName Value="" />
+					<LivePackId Value="" />
 				</FileRef>
-				<DeviceId Name="InstrumentGroupDevice" />
-			</AbletonDefaultPresetRef>
+			</FilePresetRef>
 		</PresetRef>
 		<BranchPresets>
-			<InstrumentBranchPreset>
+			<InstrumentBranchPreset Id="0">
 				<Name Value="" />
 				<IsSoloed Value="false" />
 				<DevicePresets>
-					<VstPreset>
-						<OverwriteProtectionNumber Value="2305" />
+					<VstPreset Id="0">
+						<OverwriteProtectionNumber Value="2560" />
 						<ParameterSettings><% _.forEach(params, function(param, index) { %>
-							<PluginParameterSettings>
+							<PluginParameterSettings Id="<%=index%>">
 								<Index Value="<%=index%>" />
 								<VisualIndex Value="<%=param.visualIndex%>" />
-								<Id Value="<%=param.id%>" />
+								<ParameterId Value="<%=param.id%>" />
 								<Type Value="PluginFloatParameter" />
 								<MacroControlIndex Value="-1" />
 								<MidiControllerRange />
@@ -425,20 +308,15 @@
 					</VstPreset>
 				</DevicePresets>
 				<MixerPreset>
-					<AbletonDevicePreset>
-						<OverwriteProtectionNumber Value="2305" />
+					<AbletonDevicePreset Id="0">
+						<OverwriteProtectionNumber Value="2560" />
 						<Device>
-							<AudioBranchMixerDevice>
+							<AudioBranchMixerDevice Id="0">
 								<LomId Value="0" />
 								<LomIdView Value="0" />
 								<IsExpanded Value="true" />
 								<On>
 									<LomId Value="0" />
-									<ArrangerAutomation>
-										<Events>
-											<BoolEvent Time="-63072000" Value="true" />
-										</Events>
-									</ArrangerAutomation>
 									<Manual Value="true" />
 									<AutomationTarget Id="0">
 										<LockEnvelope Value="0" />
@@ -456,20 +334,15 @@
 								</LastPresetRef>
 								<LockedScripts />
 								<IsFolded Value="false" />
-								<ShouldShowPresetName Value="false" />
+								<ShouldShowPresetName Value="true" />
 								<UserName Value="" />
 								<Annotation Value="" />
 								<SourceContext>
 									<Value />
 								</SourceContext>
-								<OverwriteProtectionNumber Value="2305" />
+								<OverwriteProtectionNumber Value="2560" />
 								<Speaker>
 									<LomId Value="0" />
-									<ArrangerAutomation>
-										<Events>
-											<BoolEvent Time="-63072000" Value="true" />
-										</Events>
-									</ArrangerAutomation>
 									<Manual Value="true" />
 									<AutomationTarget Id="0">
 										<LockEnvelope Value="0" />
@@ -481,11 +354,6 @@
 								</Speaker>
 								<Volume>
 									<LomId Value="0" />
-									<ArrangerAutomation>
-										<Events>
-											<FloatEvent Time="-63072000" Value="1" />
-										</Events>
-									</ArrangerAutomation>
 									<Manual Value="1" />
 									<MidiControllerRange>
 										<Min Value="0.0003162277571" />
@@ -497,17 +365,9 @@
 									<ModulationTarget Id="0">
 										<LockEnvelope Value="0" />
 									</ModulationTarget>
-									<ModulationAutomation>
-										<Events />
-									</ModulationAutomation>
 								</Volume>
 								<Panorama>
 									<LomId Value="0" />
-									<ArrangerAutomation>
-										<Events>
-											<FloatEvent Time="-63072000" Value="0" />
-										</Events>
-									</ArrangerAutomation>
 									<Manual Value="0" />
 									<MidiControllerRange>
 										<Min Value="-1" />
@@ -519,9 +379,6 @@
 									<ModulationTarget Id="0">
 										<LockEnvelope Value="0" />
 									</ModulationTarget>
-									<ModulationAutomation>
-										<Events />
-									</ModulationAutomation>
 								</Panorama>
 								<SendInfos />
 								<RoutingHelper>
@@ -536,7 +393,7 @@
 							</AudioBranchMixerDevice>
 						</Device>
 						<PresetRef>
-							<AbletonDefaultPresetRef>
+							<AbletonDefaultPresetRef Id="0">
 								<FileRef>
 									<HasRelativePath Value="false" />
 									<RelativePathType Value="0" />
@@ -567,10 +424,11 @@
 					<CrossfadeMax Value="0" />
 				</BranchSelectorRange>
 				<SessionViewBranchWidth Value="55" />
-				<ColorIndex Value="165" />
+				<ColorIndex Value="164" />
 				<AutoColored Value="true" />
+				<AutoColorScheme Value="0" />
 				<SourceContext>
-					<BranchSourceContext>
+					<BranchSourceContext Id="0">
 						<OriginalFileRef />
 						<BrowserContentPath Value="" />
 						<PresetRef />

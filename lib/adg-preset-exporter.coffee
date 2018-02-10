@@ -39,8 +39,9 @@ class AdgPresetExporter
   # @return xml string
   # --------------------------------
   gulpTemplate: ->
-    tap (nksf) =>
-      nksf.contents = new Buffer @build nksf.data.nksf.pluginState, nksf.data.nksf.nica
+    _this = @
+    tap (nksf) ->
+      nksf.contents = new Buffer _this.build nksf.data.nksf.pluginState, nksf.data.nksf.nica
 
   # convert NKSF file to adg XML string
   #

@@ -14,7 +14,7 @@ _       = require 'underscore'
 util    = require './util'
 $       = require '../config'
 
-# regist following common tasks
+# register following common tasks
 # - preparing
 #   - #{$.prefix}-print-default-magic
 #   - #{$.prefix}-print-default-meta

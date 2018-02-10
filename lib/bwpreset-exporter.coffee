@@ -61,9 +61,10 @@ class BwpresetExporter
   # gulp phase 2 read template
   # --------------------------------
   gulpReadTemplate: ->
-    tap (file) =>
+    _this = @
+    tap (file) ->
       # read template file
-      bwpreset = fs.readFileSync @template
+      bwpreset = fs.readFileSync _this.template
       # ziped fxb offset
       offset = parseInt (bwpreset.toString 'ascii', 0x00000024, 0x00000024 + 8), 16
       # remove zipped fxb part
