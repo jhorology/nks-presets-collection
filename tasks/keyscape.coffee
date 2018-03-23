@@ -11,6 +11,10 @@
 #    - Software 1.0.2c
 #    - Sundsources v1.0.2
 #    - Patches v1.1d
+# - 20180328
+#    - Software 1.1.0v
+#    - Sundsources v1.0.2
+#    - Patches v1.2c
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -22,6 +26,7 @@ xpath       = require 'xpath'
 _           = require 'underscore'
 util        = require '../lib/util'
 commonTasks = require '../lib/common-tasks'
+steam       = require '../lib/gulp-steam-db'
 nksfBuilder = require '../lib/nksf-builder'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
@@ -40,10 +45,14 @@ $ = Object.assign {}, (require '../config'),
   #  local settings
   # -------------------------
 
-  # Ableton Live 9.7 Instrument Rack
+  # Ableton Live 10.0.1 Instrument Rack
   abletonRackTemplate: 'src/Keyscape/templates/Keyscape.adg.tpl'
-  # Bitwig Studio 1.3.14 RC1 preset file
+  # Bitwig Studio 2.3.2 preset file
   bwpresetTemplate: 'src/Keyscape/templates/Keyscape.bwpreset'
+  # STEAM patch
+  steamPatchDb: '/Volumes/Media/Music/Spectrasonics/STEAM/Keyscape/Settings Library/Patches/Factory/Keyscape Library.db'
+  # SynthMaster 1.1.0f template
+  synthMasterTpl: 'src/Keyscape/presets/SynthMaster-1.1.0f.xml.tpl'
   # common host map parameters
   commonParams: [
     { id: 'poly', name: 'Voices', section: 'Settings'}
@@ -60,14 +69,14 @@ $ = Object.assign {}, (require '../config'),
     SYNTHENG:
       # velocity curve for S61
       # ---------------------
-      VCname: 'NI Kontrol S61'
-      vcx: "3f000000"
-      vcy: "3f000000"
+      # VCname: 'NI Kontrol S61'
+      # vcx: "3f000000"
+      # vcy: "3f000000"
       # velocity curve for S88
       # ---------------------
-      # VCname: 'NI Kontrol S88'
-      # vcx: "3de38e39"
-      # vcy: "3d302c10"
+      VCname: 'NI Kontrol S88'
+      vcx: "3de38e39"
+      vcy: "3d302c10"
     
 # regist common gulp tasks
 # --------------------------------
@@ -78,14 +87,13 @@ commonTasks $
 
 # generate per preset mappings
 gulp.task "#{$.prefix}-generate-mappings", ->
-  presets = "src/#{$.dir}/presets"
-  gulp.src ["#{presets}/**/*.pchk"], read: on
+  gulp.src $.steamPatchDb, read: off
+    .pipe steam {filter: (filePath) -> (path.extname filePath) is ".prt_key"}
     .pipe tap (file) ->
-      basename = path.basename file.path, '.pchk'
       # read plugin state as XML DOM
       #     - first 4 bytes = PCHK version
       #     - last 1 byte = null(0x00) terminater
-      xml = util.xmlString (file.contents.slice 4, file.contents.length - 1).toString()
+      xml = util.xmlString file.contents.toString().trim()
       # select custom control nodes
       list = _createControlList xml
       pages = []
@@ -105,7 +113,6 @@ gulp.task "#{$.prefix}-generate-mappings", ->
             page.push autoname: false, vflag: false
           pages.push page
           page = []
-
         page.push
           autoname: false
           id: index
@@ -120,21 +127,22 @@ gulp.task "#{$.prefix}-generate-mappings", ->
         pages.push page
       file.contents = new Buffer util.beautify {ni8: pages}, on
     .pipe rename
+      dirname: 'Factory'
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"
-
+    
 # generate metadata
 gulp.task "#{$.prefix}-generate-meta", ->
-  presets = "src/#{$.dir}/presets"
-  gulp.src ["#{presets}/**/*.pchk"], read: on
+  gulp.src $.steamPatchDb, read: off
+    .pipe steam {filter: (filePath) -> (path.extname filePath) is ".prt_key"}
     .pipe data (file) ->
       # read as DOM
       # keyscape plugin state is xml
       #   - first 4 bytes = PCHK version
       #   - last 1 byte = null(0x00) terminater
-      xml = util.xmlString (file.contents.slice 4, file.contents.length - 1).toString()
+      xml = util.xmlString file.contents.toString().trim()
       query = '''
-/SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG/ENTRYDESCR/@ATTRIB_VALUE_DATA'''
+/KeyscapePart/SynthEngine/SYNTHENG/ENTRYDESCR/@ATTRIB_VALUE_DATA'''
       attrib = (xpath.select query, xml)[0]?.value
       # convert to JSON style
       authors = []
@@ -155,12 +163,13 @@ gulp.task "#{$.prefix}-generate-meta", ->
         bankchain: [$.dir, model, '']
         comment: comment
         deviceType: 'INST'
-        name: path.basename file.path, '.pchk'
+        name: path.basename file.path, '.prt_key'
         types: [[type, model]]
-        uuid: util.uuid file
+        uuid: util.uuid "src/#{$.dir}/presets/Factory/#{path.basename file.path, '.prt_key'}.meta"
         vendor: $.vendor
       , on    # print
     .pipe rename
+      dirname: 'Factory'
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"
 
@@ -170,39 +179,53 @@ gulp.task "#{$.prefix}-generate-meta", ->
 
 gulp.task "#{$.prefix}-dist-presets", ->
   builder = nksfBuilder $.magic
-  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
-    .pipe tap  (pchk) ->
+  templateDOM = util.xmlFile $.synthMasterTpl
+  gulp.src $.steamPatchDb, read: off
+    .pipe steam {filter: (filePath) -> (path.extname filePath) is ".prt_key"}
+    .pipe tap (file) ->
       # read plugin state as XMLDOM
       #   - first 4 bytes: PCHK chunk version
       #   - last 1 byte: null(0x00) terminater
-      xml = util.xmlString (pchk.contents.slice 4, pchk.contents.length - 1).toString()
+      xml = util.xmlString file.contents.toString().trim()
       # control list for host assignment
       list = _createControlList xml
       # select SYNTHENG node
-      syntheng = (xpath.select '/SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG', xml)[0]
+      syntheng = (xpath.select '/KeyscapePart/SynthEngine/SYNTHENG', xml)[0]
       # add host assign attribute
       for item, index in list
-        # host parameter = Device 0, Channel -1
+        # host parameter = Device 16, Channel -1
         syntheng.setAttribute "#{item.id}MidiLearnDevice0", '16'
         # host parameter index
         syntheng.setAttribute "#{item.id}MidiLearnIDnum0", "#{index}"
         syntheng.setAttribute "#{item.id}MidiLearnChannel0", '-1'
+
+      entrydescr = (xpath.select '/KeyscapePart/SynthEngine/SYNTHENG/ENTRYDESCR', xml)[0]
+      # "Keyscape Library FOOTBALL 1.2c" -> "Keyscape Library"
+      entrydescr.setAttribute 'library', 'Keyscape Library'
       # apply SYNTHENG options
       if $.buildOpts.SYNTHENG
         syntheng.setAttribute key, value for key, value of $.buildOpts.SYNTHENG
+      # merge prt_key into template
+      synthSubEngine = (xpath.select '/SynthMaster/SynthSubEngine', templateDOM)[0]
+      synthSubEngine.removeChild child while child = synthSubEngine?.lastChild
+      synthSubEngine.appendChild (xpath.select '/KeyscapePart//SynthEngine', xml)[0]
       # rebuild PCHK chunk
-      pchk.contents = Buffer.concat [
-        pchk.contents.slice 0, 4           # PCHK version
-        new Buffer xml.toString(), 'utf8'  # xml
-        new Buffer [0]                     # null terminate
+      header = Buffer.alloc 4
+      header.write
+      file.contents = Buffer.concat [
+        new Buffer [1, 0, 0, 0]           # PCHK version or flags
+        new Buffer templateDOM.toString(), 'ascii'  # xml
+        new Buffer [0]                    # null terminate
       ]
-    .pipe data (pchk) ->
+    .pipe rename
+      dirname: 'Factory'
+      extname: '.nksf'
+    .pipe data (file) ->
       nksf:
-        pchk: pchk
-        nisi: "#{pchk.path[..-5]}meta"
-        nica: "src/#{$.dir}/mappings/#{pchk.relative[..-5]}json"
+        pchk: file
+        nisi: "src/#{$.dir}/presets/Factory/#{path.basename file.path, '.nksf'}.meta"
+        nica: "src/#{$.dir}/mappings/Factory/#{path.basename file.path, '.nksf'}.json"
     .pipe builder.gulp()
-    .pipe rename extname: '.nksf'
     .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
 # export
@@ -248,8 +271,15 @@ gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
 #   - 21  rotaly selector
 _createControlList = (xml) ->
   list = []
+#   query = '''
+# /SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG/CustomData2/*[
+#   starts-with(local-name(), 'Custom') and
+#   @Kind != '0' and
+#   @Kind != '17'
+# ]
+# '''
   query = '''
-/SynthMaster/SynthSubEngine/SynthEngine/SYNTHENG/CustomData2/*[
+/KeyscapePart/SynthEngine/SYNTHENG/CustomData2/*[
   starts-with(local-name(), 'Custom') and
   @Kind != '0' and
   @Kind != '17'
