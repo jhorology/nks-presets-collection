@@ -8,6 +8,7 @@ sax     = require 'sax'
 PLUGIN_NAME = 'gulp-steam-db'
 
 module.exports = (opts) ->
+  opts ?= {}
   opts = _.defaults opts,
     filter: (filePath) -> on
     

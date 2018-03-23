@@ -69,19 +69,26 @@ $ = Object.assign {}, (require '../config'),
     SYNTHENG:
       # velocity curve for S61
       # ---------------------
-      # VCname: 'NI Kontrol S61'
-      # vcx: "3f000000"
-      # vcy: "3f000000"
+      VCname: 'NI Kontrol S61'
+      vcx: "3f000000"
+      vcy: "3f000000"
       # velocity curve for S88
       # ---------------------
-      VCname: 'NI Kontrol S88'
-      vcx: "3de38e39"
-      vcy: "3d302c10"
+      # VCname: 'NI Kontrol S88'
+      # vcx: "3de38e39"
+      # vcy: "3d302c10"
     
 # regist common gulp tasks
 # --------------------------------
 commonTasks $
 
+# for debug
+# --------------------------------
+gulp.task "#{$.prefix}-steam-extract-all", ->
+  gulp.src $.steamPatchDb, read: off
+    .pipe steam()
+    .pipe gulp.dest "temp/Keyscape"
+    
 # preparing tasks
 # --------------------------------
 
