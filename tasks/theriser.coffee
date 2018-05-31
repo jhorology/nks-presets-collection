@@ -79,7 +79,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         comment: ''
         bankchain: ['theRiser', 'theRiser Factory', '']
         author: ''
-      file.contents = new Buffer util.beautify meta, on
+      file.contents = Buffer.from util.beautify meta, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"
@@ -156,7 +156,7 @@ gulp.task "#{$.prefix}-suggest-mapping", ->
       for prefix in prefixes
         Array.prototype.push.apply mapping.ni8, makepages prefix, true
         
-      file.contents = new Buffer util.beautify mapping, on
+      file.contents = Buffer.from util.beautify mapping, on
     .pipe rename
       basename: 'default-suggest'
     .pipe gulp.dest "src/#{$.dir}/mappings"

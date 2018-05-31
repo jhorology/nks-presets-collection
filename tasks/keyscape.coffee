@@ -132,7 +132,7 @@ gulp.task "#{$.prefix}-generate-mappings", ->
         while page.length < 8
           page.push autoname: false, vflag: false
         pages.push page
-      file.contents = new Buffer util.beautify {ni8: pages}, on
+      file.contents = Buffer.from util.beautify {ni8: pages}, on
     .pipe rename
       dirname: 'Factory'
       extname: '.json'
@@ -165,7 +165,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
             model = match[2]
           when 'Description'
             comment = match[2]
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         author: authors.join '; '
         bankchain: [$.dir, model, '']
         comment: comment
@@ -220,9 +220,9 @@ gulp.task "#{$.prefix}-dist-presets", ->
       header = Buffer.alloc 4
       header.write
       file.contents = Buffer.concat [
-        new Buffer [1, 0, 0, 0]           # PCHK version or flags
-        new Buffer templateDOM.toString(), 'ascii'  # xml
-        new Buffer [0]                    # null terminate
+        Buffer.from [1, 0, 0, 0]           # PCHK version or flags
+        Buffer.from templateDOM.toString(), 'ascii'  # xml
+        Buffer.from [0]                    # null terminate
       ]
     .pipe rename
       dirname: 'Factory'

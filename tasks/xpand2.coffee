@@ -55,7 +55,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         'Xpand!2 Factory+'
       else
         'Xpand!2 Factory'
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[folder[3..]]]

@@ -71,7 +71,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
     .pipe tap (file) ->
       file.path = file.path.replace /^resource\/presets\//, ''
       metaFile = path.join presets, "#{file.relative[..-5]}meta"
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         author: ''
         bankchain: [$.dir, 'Thorus Factory', '']
         comment: ''
@@ -115,13 +115,13 @@ gulp.task "#{$.prefix}-dist-presets", ->
       #   - 4byte version or flags = 1 (32bit LE)
       #   - 4byte uncompressed file size (32bit LE)
       #   - <gzip deflate archive>
-      uvi4 = new Buffer file.data.xml.toString()
-      uncompressedSize = new Buffer 4
+      uvi4 = Buffer.from file.data.xml.toString()
+      uncompressedSize = Buffer.alloc 4
       uncompressedSize.writeUInt32LE uvi4.length, 0
-      file.contents = new Buffer.concat [
-        new Buffer [1,0,0,0]          # PCHK version
-        new Buffer "UVI4"
-        new Buffer [1,0,0,0]          # UVI4 version or flags
+      file.contents = Buffer.concat [
+        Buffer.from [1,0,0,0]          # PCHK version
+        Buffer.from "UVI4"
+        Buffer.from [1,0,0,0]          # UVI4 version or flags
         uncompressedSize
         zlib.deflateSync uvi4
       ]

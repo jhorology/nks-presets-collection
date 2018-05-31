@@ -47,7 +47,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
   presets = "src/#{$.dir}/presets"
   gulp.src ["#{presets}/**/*.pchk"]
     .pipe tap (file) ->
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [

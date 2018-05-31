@@ -97,7 +97,7 @@ gulp.task "#{$.prefix}-generate-mappings", ->
       assignments = eval "({#{assignments}})"
       mapping = template assignments
       # set buffer contents
-      file.contents = new Buffer mapping
+      file.contents = Buffer.from mapping
     .pipe rename
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"
@@ -142,7 +142,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
           author: author
     .pipe tap (file) ->
       file.data.uuid = util.uuid file
-      file.contents = new Buffer util.beautify file.data, on
+      file.contents = Buffer.from util.beautify file.data, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"

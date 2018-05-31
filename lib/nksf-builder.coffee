@@ -96,12 +96,12 @@ _pchk = (arg) ->
 
 # esrilize to PLID chunk
 _serializeMagic = (magic) ->
-  buffer = new Buffer 4
+  buffer = Buffer.alloc 4
   buffer.write magic, 0, 4, 'ascii'
   _serialize "VST.magic": buffer.readUInt32BE 0
 
 # srilize to chunk
 _serialize = (obj) ->
-  ver = new Buffer 4
+  ver = Buffer.alloc 4
   ver.writeUInt32LE $.chunkVer
   Buffer.concat [ver, msgpack.encode obj]

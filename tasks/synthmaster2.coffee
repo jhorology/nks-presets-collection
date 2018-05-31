@@ -74,7 +74,7 @@ gulp.task "#{$.prefix}-generate-default-mapping", ->
 # 5 attributes  c_PATT Z  'Analog%Factory%Mod Wheel%PWM%Pulse%Template%Velocity Mod%Version 2.8%' 'I'
 # 6 bank        c_PBNK a  'Factory Presets' 'alT'
 gulp.task "#{$.prefix}-generate-meta", ->
-  searchVal = (name) -> (new Buffer name + '\u0000').toString 'hex'
+  searchVal = (name) -> (Buffer.from name + '\u0000').toString 'hex'
   gulp.src ["#{$.presets}/**/*.smpr"], read: on
     .pipe data (file) ->
       hex = file.contents.toString 'hex'
@@ -101,7 +101,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         (util.readJson metaFile)?.uuid || uuid.v4()
       else
         uuid.v4()
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         author: if values[1] then "#{values[0]}@#{values[1]}" else values[0]
         bankchain: [$.dir, 'SynthMaster2 Factory', '']
         comment: values[2]
@@ -128,7 +128,7 @@ gulp.task "#{$.prefix}-dist-presets", ->
       # .smpr file is exactly same as plugin-state
       #  smpr -> PCHK chunk
       file.contents = Buffer.concat [
-        new Buffer [1,0,0,0]
+        Buffer.from [1,0,0,0]
         file.contents
       ]
     .pipe data (pchk) ->

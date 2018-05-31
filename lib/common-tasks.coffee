@@ -73,7 +73,7 @@ module.exports = ($, nksReady) ->
         chunk_ids: ['NICA']
         filename_template: "default.json"
       .pipe tap (file) ->
-        file.contents = new Buffer _deserialize file
+        file.contents = Buffer.from _deserialize file
       .pipe gulp.dest "src/#{$.dir}/mappings"
 
   # generate flat parameter list from mrswatoson info.txt
@@ -102,7 +102,7 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
               idSpaces: (Buffer.alloc (idLength - p.id.length), ' ').toString()
               nameSpaces: (Buffer.alloc (nameLength - p.name.length), ' ').toString()
             # console.info template params: params
-            file.contents = new Buffer template params: params
+            file.contents = Buffer.from template params: params
           else
             throw new Error 'empty paramter'
         else
@@ -252,6 +252,6 @@ _deserializeMagic = (file) ->
   assert.ok (ver is $.chunkVer), "Unsupported chunk format version. version:#{ver}"
   json = msgpack.decode file.contents.slice 4
   magic = json['VST.magic']
-  buffer = new Buffer 4
+  buffer = Buffer.alloc 4
   buffer.writeUInt32BE magic
   buffer.toString()

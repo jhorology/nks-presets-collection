@@ -50,7 +50,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       basename = path.basename file.path, '.pchk'
       folder = path.relative presets, path.dirname file.path
       # meta
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [["Piano/Keys", "Electric Piano"]]

@@ -227,7 +227,7 @@ gulp.task "#{$.prefix}-generate-default-mapping", ->
         while page.length < 8
           page.push autoname: false, vflag: false
         pages.push page
-      file.contents = new Buffer util.beautify {ni8: pages}, on
+      file.contents = Buffer.from util.beautify {ni8: pages}, on
 
     .pipe rename
       basename: 'default'
@@ -246,7 +246,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       unless synthModel
         throw new Error "undefined Synth Model. id: #{synthId}"
       folder = file.relative.split path.sep
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         author: ''
         bankchain: [$.dir, synthModel, '']
         comment: ''
@@ -305,9 +305,9 @@ gulp.task "#{$.prefix}-dist-presets", ->
       xml: xml
     .pipe tap (pchk) ->
       # rebuild PCHK chunk
-      uvi4 = new Buffer pchk.data.xml.toString()
+      uvi4 = Buffer.from pchk.data.xml.toString()
       uncompressedSize = uvi4.length
-      pchk.contents = new Buffer.concat [
+      pchk.contents = Buffer.concat [
         pchk.contents.slice 0, 16
         zlib.deflateSync uvi4
       ]

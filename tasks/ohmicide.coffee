@@ -56,7 +56,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when basename[0...6] is 'Vocals' then 'Vocals'
         else 'Default'
       console.info "#{type}  #{basename}"
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         author: ''
         bankchain: [$.dir, 'Ohmicide Factory', '']
         comment: ''

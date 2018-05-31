@@ -55,7 +55,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when basename.match /Bass/ then 'Bass'
         when basename.match /Lead/ then 'Lead'
         else "Other"
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[type]]

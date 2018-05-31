@@ -20,7 +20,7 @@ class RIFFBuilder
   # - file      String filepath or content buffer
   # - fileType  4 characters id
   constructor: (formType) ->
-    @buf = new Buffer 0
+    @buf = Buffer.alloc 0
     # file headder
     @_pushId 'RIFF'     # magic
     @_pushUInt32 4      # size
@@ -67,18 +67,18 @@ class RIFFBuilder
     @
 
   _pushUInt32: (value) ->
-    b = new Buffer 4
+    b = Buffer.alloc 4
     b.writeUInt32LE value, 0
     @_push b
     @
 
   _pushId: (value) ->
     assert.ok (_.isString value), "Id msut be string. id:#{value}"
-    b = new Buffer value, 'ascii'
+    b = Buffer.from value, 'ascii'
     assert.ok (b.length is 4), "Id msut be 4 characters string. id:#{value}"
     @_push b
     @
 
   _padding: (value) ->
-    @_push new Buffer [0]
+    @_push Buffer.from [0]
     @

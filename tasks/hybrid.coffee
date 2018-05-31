@@ -104,7 +104,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
           comment: ''
           bankchain: ['Hybrid', folder[0], '']
           author: ''
-      file.contents = new Buffer util.beautify meta, on
+      file.contents = Buffer.from util.beautify meta, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"

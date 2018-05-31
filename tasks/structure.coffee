@@ -57,7 +57,7 @@ gulp.task "#{$.prefix}-generate-mappings", ->
         data[key] = (xpath.select "/H3Patch/H3Assign[@Source=\"#{key}\"]/@Name", doc)[0].value
       mapping = template data
       # set buffer contents
-      file.contents = new Buffer mapping
+      file.contents = Buffer.from mapping
     .pipe rename
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"
@@ -74,7 +74,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       patch = util.xmlString util.readFile patchFile
       metaxml = (xpath.select "/H3Patch/MetaData/text()", patch).toString().replace /&lt;/mg, '<'
       meta = util.xmlString metaxml
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [(xpath.select "/DBValueMap/category/text()", meta).toString().trim().split ': ']

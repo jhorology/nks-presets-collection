@@ -242,7 +242,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       file.data.uuid = util.uuid file
       json = util.beautify (JSON.stringify file.data), indent_size: $.json_indent
       # console.info json
-      file.contents = new Buffer util.beautify file.data
+      file.contents = Buffer.from util.beautify file.data
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"
@@ -290,7 +290,7 @@ gulp.task "#{$.prefix}-generate-sound-mappings", ->
         done undefined, paramNames
     .pipe tap (file) ->
       # console.info json
-      file.contents = new Buffer template name: file.data
+      file.contents = Buffer.from template name: file.data
     .pipe rename
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"
@@ -332,7 +332,7 @@ gulp.task "#{$.prefix}-generate-multi-mappings", ->
             multiParamNames[row.MultiCtrlID] = partParamNames[row.MultiCtrlDestPart - 1][row.CtrlID]
           done undefined, multiParamNames
     .pipe tap (file) ->
-      file.contents = new Buffer template name: file.data
+      file.contents = Buffer.from template name: file.data
     .pipe rename
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings/MULTI"

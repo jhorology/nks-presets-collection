@@ -79,7 +79,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
           author: row.Author?.trim()
     .pipe tap (file) ->
       file.data.uuid = util.uuid file
-      file.contents = new Buffer json util.beautify file.data, on
+      file.contents = Buffer.from json util.beautify file.data, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"

@@ -44,7 +44,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
     .pipe tap (file) ->
       basename = path.basename file.path, '.pchk'
       folder = (path.relative presets, path.dirname file.path).split path.sep
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: switch
@@ -116,7 +116,7 @@ gulp.task "#{$.prefix}-suggest-mapping", ->
             autoname: false
             vflag: false
         mapping.ni8.push page
-      file.contents = new Buffer util.beautify mapping, on
+      file.contents = Buffer.from util.beautify mapping, on
     .pipe rename
       basename: 'default-suggest'
     .pipe gulp.dest "src/#{$.dir}/mappings"

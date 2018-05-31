@@ -89,7 +89,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
           bankchain: [$.dir, 'EightyEight 2 Factory', '']
     .pipe tap (file) ->
       file.data.uuid = util.uuid file
-      file.contents = new Buffer util.beautify file.data, on
+      file.contents = Buffer.from util.beautify file.data, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"

@@ -98,13 +98,13 @@ class BwpresetExporter
 #   @uid   uuid for .fxb filename
 _replace_fxb_filename = (buffer, uid) ->
   # convert uuid string -> hex coded binary
-  hexUuid = (new Buffer uid.toLowerCase(), 'ascii').toString 'hex'
+  hexUuid = (Buffer.from uid.toLowerCase(), 'ascii').toString 'hex'
   # convert template buffer -> hex coded string
   hex = buffer.toString 'hex'
   # replace fxb filename
   hex = hex.replace $.fxbHexRegexp, "\$1#{hexUuid}\$2"
   # revert to binary buffer
-  new Buffer hex, 'hex'
+  Buffer.from hex, 'hex'
 
 # build bitwig zipped fxb
 #  @pluginState buffer

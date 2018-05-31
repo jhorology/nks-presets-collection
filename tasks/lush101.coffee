@@ -117,7 +117,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         comment: ''
         bankchain: [$.dir, bank, '']
         author: author
-      file.contents = new Buffer util.beautify meta, on
+      file.contents = Buffer.from util.beautify meta, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"
@@ -151,7 +151,7 @@ gulp.task "#{$.prefix}-suggest-one-layers-mapping", ->
           page.push autoname: false, vflag: false
         pages.push page
         
-      file.contents = new Buffer util.beautify {ni8: pages}, on
+      file.contents = Buffer.from util.beautify {ni8: pages}, on
     .pipe rename
       suffix: '-generated'
       extname: '.json'
@@ -196,7 +196,7 @@ gulp.task "#{$.prefix}-suggest-two-layers-mapping", ->
           page.push autoname: false, vflag: false
         pages.push page
         
-      file.contents = new Buffer util.beautify {ni8: pages}, on
+      file.contents = Buffer.from util.beautify {ni8: pages}, on
     .pipe rename
       suffix: '-generated'
       extname: '.json'
@@ -231,7 +231,7 @@ gulp.task "#{$.prefix}-suggest-eight-layers-mapping", ->
           page.push autoname: false, vflag: false
         pages.push page
         
-      file.contents = new Buffer util.beautify {ni8: pages}, on
+      file.contents = Buffer.from util.beautify {ni8: pages}, on
     .pipe rename
       suffix: '-generated'
       extname: '.json'
@@ -264,14 +264,14 @@ gulp.task "#{$.prefix}-dist-presets", ->
         _replaceMapping pchk.data.pluginState, eightLayersAssigns
     .pipe tap (pchk) ->
       # rebuild PCHK chunk
-      pluginState = new Buffer pchk.data.pluginState.toString(), 'utf8'
-      size = new Buffer 4
+      pluginState = Buffer.from pchk.data.pluginState.toString(), 'utf8'
+      size = Buffer.alloc 4
       size.writeInt32LE pluginState.length
       pchk.contents = Buffer.concat [
         pchk.contents.slice 0, 8
         size                       # xml size
         pluginState                # xml
-        new Buffer [0]             # null terminate ?
+        Buffer.from [0]            # null terminate ?
       ]
     .pipe data (pchk) ->
       nksf:

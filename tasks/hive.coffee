@@ -108,7 +108,7 @@ gulp.task "#{$.prefix}-suggest-mapping", ->
         lastSection = section
       pages.push fillPage page if page.length
 
-      file.contents = new Buffer util.beautify ni8: pages, on
+      file.contents = Buffer.from util.beautify ni8: pages, on
     .pipe rename basename: 'default-suggest'
     .pipe gulp.dest "src/#{$.dir}/mappings"
 
@@ -151,7 +151,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       meta.comment = '' if not hiveMeta?.Description and hiveMeta?.Usage
       meta.comment += '\n' if hiveMeta?.Description and hiveMeta?.Usage
       meta.comment += "Usage:\n#{hiveMeta.Usage}" if hiveMeta?.Usage
-      file.contents = new Buffer util.beautify meta, on
+      file.contents = Buffer.from util.beautify meta, on
     .pipe rename
       extname: '.meta'
     .pipe gulp.dest "src/#{$.dir}/presets"

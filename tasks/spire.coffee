@@ -98,7 +98,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when basename[-3..] is ' eX'    then 'E.SoX'
         else ''
 
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[type]]

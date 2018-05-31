@@ -137,7 +137,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       mode = 'Hard FM' if bank is 'Factory Bank 6' and basename[-4..] is ' HFM'
 
       # meta
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[type]]

@@ -64,7 +64,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       basename = path.basename file.path, extname
       folder = path.relative presets, path.dirname file.path
       # meta
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: for t in folder.split '+'
@@ -95,7 +95,7 @@ gulp.task "#{$.prefix}-generate-mappings", ->
         name: (buf.toString 'ascii').replace /^([^\u0000]*).*/, '$1'
       channels = channels.filter (channel) -> channel.name
       mapping = JSON.parse template channels: channels
-      file.contents = new Buffer util.beautify mapping, on
+      file.contents = Buffer.from util.beautify mapping, on
     .pipe rename
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"

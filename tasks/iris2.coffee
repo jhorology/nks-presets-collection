@@ -112,7 +112,7 @@ gulp.task "#{$.prefix}-generate-mappings", ->
       console.info "#### macroName: #{macroName}"
       mapping = template macroName: macroName
       # set buffer contents
-      file.contents = new Buffer mapping
+      file.contents = Buffer.from mapping
     .pipe rename
       extname: '.json'
     .pipe gulp.dest "src/#{$.dir}/mappings"
@@ -124,7 +124,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
     .pipe data (file) ->
       basename = path.basename file.path, '.pchk'
       folder = path.relative presets, path.dirname file.path
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[folder]]

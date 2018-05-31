@@ -50,7 +50,7 @@ gulp.task "#{$.prefix}-generate-meta", ->
       basename = path.basename file.path, '.pchk'
       type = basename.replace /^[0-9]+ /, ''
       type = type.replace /[ ,0-9]+$/, ''
-      file.contents = new Buffer util.beautify
+      file.contents = Buffer.from util.beautify
         vendor: $.vendor
         uuid: util.uuid file
         types: [[type]]
