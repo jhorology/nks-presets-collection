@@ -6,6 +6,10 @@
 #  - Spire    1.1.8 Bank 6, Bank 7
 #  - Komplete Kontrol 1.6.2.5
 #  - Spire    1.1.9 Bank 6
+#  - 2018-06-01
+#      Spire  1.1.14
+#        - Update Factory Bank 6,7
+#        - add free banks
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -33,12 +37,12 @@ $ = Object.assign {}, (require '../config'),
   #  local settings
   # -------------------------
 
-  # Ableton Live 9.6.2
+  # Ableton Live 10.0.2
   abletonRackTemplate: 'src/Spire-1.1/templates/Spire-1.1.adg.tpl'
-  # Bitwig Studio 1.3.14 RC1 preset file
+  # Bitwig Studio 2.3.4 preset file
   bwpresetTemplate: 'src/Spire-1.1/templates/Spire-1.1.bwpreset'
 
-# regist common gulp tasks
+# register common gulp tasks
 # --------------------------------
 commonTasks $
 
@@ -89,6 +93,8 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when basename[0..4] is 'Bass ' then 'Bass'
         when basename[0..4] is 'Lead ' then 'Lead'
         when basename[0..4] is 'Chord' then 'Chord'
+        when basename[0..3] is 'BRS'   then 'Brass'
+        when basename[0..4] is 'INST'  then 'Instruments'
         when (basename.indexOf ' BS ') > 0  then 'Bass'
         when (basename.indexOf ' LD ') > 0  then 'Lead'
         when (basename.indexOf ' PD ') > 0  then 'Pad'
@@ -102,9 +108,14 @@ gulp.task "#{$.prefix}-generate-meta", ->
         when bank is 'Factory Bank 5'   then folder[1]
         # when bank is 'Factory Bank 6' and basename[-4..] is ' HFM' then 'HFM'  # couldn't find author name
         when bank is 'Factory Bank 6'   then 'Reveal Sound'
-        when bank is 'Factory Bank 7'   then folder[1]
+        when bank is 'Factory Bank 7'   then 'Reveal Sound'
+        when bank is 'Factory Bank 0'   then 'Reveal Sound'
         when bank.match /^EDM Remastered/  then 'Derrek'
         when bank.match /^Andi Vax/     then 'Andi Vax'
+        when bank.match /^AURAII/       then 'Bellatrix Audio'
+        when bank.match /^Avicii Remastered/ then 'Derrek'
+        when bank.match /^Rewind 2016/  then 'Derrek'
+        when bank.match /^Spire Factory Bank 2016 by Function Loops/  then 'Function Loops'
         when basename[-3..] is ' AS'    then 'Adam Szabo'
         when basename[-3..] is ' AZ'    then 'Aiyn Zahev Sounds'
         when basename[-4..] is ' IPM'   then 'Ice Planet Music'
