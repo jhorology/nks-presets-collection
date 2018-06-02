@@ -67,6 +67,12 @@ gulp.task 'release', (("#{prefix}-release" for prefix of dir).filter (task) -> t
 # --------------------------------
 gulp.task 'export-adg', (("#{prefix}-export-adg" for prefix of dir).filter (task) -> task in allTasks)
 
+# generate-appc
+# generate ableton default plugin parameter configuration
+#  - execute all *-generate-appc tasks
+# --------------------------------
+gulp.task 'generate-appc', (("#{prefix}-generate-appc" for prefix of dir).filter (task) -> task in allTasks)
+
 # export-bwpreset
 # export from .nksf to bitwig preset (.bwpreset)
 #  - execute all *-export-adg tasks

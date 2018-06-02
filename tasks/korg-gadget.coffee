@@ -5,6 +5,7 @@
 fs          = require 'fs'
 path        = require 'path'
 gulp        = require 'gulp'
+first       = require 'gulp-first'
 tap         = require 'gulp-tap'
 data        = require 'gulp-data'
 gzip        = require 'gulp-gzip'
@@ -12,6 +13,7 @@ rename      = require 'gulp-rename'
 commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
+appcGenerator = require '../lib/appc-generator'
 
 #
 # buld environment & misc settings
@@ -60,6 +62,7 @@ $ = Object.assign {}, (require '../config'),
   ]
 
 adgTasks = []
+appcTasks = []
 bwpresetTasks = []
 
 # regist each gadget tasks
@@ -67,8 +70,10 @@ bwpresetTasks = []
 $.gadgets.forEach (gadget) ->
   nksPresets = "/Library/Application Support/KORG/Gadget/Plug-Ins/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/Presets/**/*.nksf"
   adgTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-adg_"
+  appcTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-generate-appc_"
   bwpresetTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-bwpreset_"
   adgTasks.push(adgTask)
+  appcTasks.push(appcTask)
   bwpresetTasks.push(bwpresetTask)
   gulp.task adgTask, ->
     exporter = adgExporter "src/KORG Gadget/templates/#{gadget.dir}.adg.tpl"
@@ -90,6 +95,14 @@ $.gadgets.forEach (gadget) ->
         file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
       .pipe gulp.dest dest
 
+  # generate ableton default plugin parameter configuration
+  gulp.task appcTask, ->
+    isFirst = true
+    gulp.src [nksPresets]
+      .pipe first()
+      .pipe appcGenerator.gulpNksf2Appc(gadget.dir)
+      .pipe gulp.dest "#{$.Ableton.defaults}/#{gadget.dir}"
+    
   # export from .nksf to .bwpreset bitwig studio preset
   gulp.task bwpresetTask, ->
     exporter = bwExporter "src/KORG Gadget/templates/#{gadget.dir}.bwpreset"
@@ -111,6 +124,9 @@ $.gadgets.forEach (gadget) ->
 
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", adgTasks
+
+# generate ableton default plugin parameterconfiguration
+gulp.task "#{$.prefix}-generate-appc", appcTasks
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", bwpresetTasks
