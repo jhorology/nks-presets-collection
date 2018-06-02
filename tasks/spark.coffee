@@ -8,6 +8,7 @@
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
+first       = require 'gulp-first'
 tap         = require 'gulp-tap'
 data        = require 'gulp-data'
 gzip        = require 'gulp-gzip'
@@ -16,6 +17,7 @@ util        = require '../lib/util'
 commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
+appcGenerator = require '../lib/appc-generator'
 
 #
 # buld environment & misc settings
@@ -58,6 +60,16 @@ gulp.task "#{$.prefix}-export-adg", ->
       dirname = path.dirname file.path
       file.path = path.join dirname, file.data.nksf.nisi.types[0][1], file.relative
     .pipe gulp.dest "#{$.Ableton.drumRacks}/#{$.dir}"
+
+# generate ableton default plugin parameter configuration
+gulp.task "#{$.prefix}-generate-appc", ->
+  gulp.src ["#{$.nksPresets}/**/*.nksf"]
+    .pipe first()
+    .pipe appcGenerator.gulpNksf2Appc()
+    .pipe rename
+      basename: 'Default'
+      extname: '.appc'
+    .pipe gulp.dest "#{$.Ableton.defaults}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ->

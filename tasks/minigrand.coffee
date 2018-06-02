@@ -15,6 +15,7 @@ commonTasks = require '../lib/common-tasks'
 nksfBuilder = require '../lib/nksf-builder'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
+appcGenerator = require '../lib/appc-generator'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -92,6 +93,15 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
     .pipe gzip append: off       # append '.gz' extension
     .pipe rename extname: '.adg'
     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
+
+# generate ableton default plugin parameter configuration
+gulp.task "#{$.prefix}-generate-appc", ->
+  gulp.src "src/#{$.dir}/mappings/default.json"
+    .pipe appcGenerator.gulpNica2Appc $.magic, $.dir
+    .pipe rename
+      basename: 'Default'
+      extname: '.appc'
+    .pipe gulp.dest "#{$.Ableton.defaults}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->

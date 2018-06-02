@@ -97,10 +97,12 @@ $.gadgets.forEach (gadget) ->
 
   # generate ableton default plugin parameter configuration
   gulp.task appcTask, ->
-    isFirst = true
     gulp.src [nksPresets]
       .pipe first()
       .pipe appcGenerator.gulpNksf2Appc(gadget.dir)
+      .pipe rename
+        basename: 'Default'
+        extname: '.appc'
       .pipe gulp.dest "#{$.Ableton.defaults}/#{gadget.dir}"
     
   # export from .nksf to .bwpreset bitwig studio preset

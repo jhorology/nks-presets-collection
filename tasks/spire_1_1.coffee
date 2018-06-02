@@ -182,12 +182,12 @@ gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
     .pipe rename extname: '.adg'
     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
-# generate ableton default plugin parameterconfiguration
+# generate ableton default plugin parameter configuration
 gulp.task "#{$.prefix}-generate-appc", ->
   gulp.src "src/#{$.dir}/mappings/default.json"
     .pipe appcGenerator.gulpNica2Appc $.magic, $.dir
     .pipe rename
-      extname: 'Default'
+      basename: 'Default'
       extname: '.appc'
     .pipe gulp.dest "#{$.Ableton.defaults}/#{$.dir}"
     
