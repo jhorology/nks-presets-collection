@@ -1,0 +1,15 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer2:LoFi:S-H Interval\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "SEQ Nightshade Follower AD",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "8f8d905c-5049-476c-b310-13e7362d7344",
+  "vendor": "KV331 Audio"
+}

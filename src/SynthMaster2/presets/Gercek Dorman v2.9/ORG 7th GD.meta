@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer2:Osc1:Wave Index\r\n(+) Layer1:Ensemble:Effect Mix\r\n\r\nChannel Aftertouch modulates:\r\n(+) Tremolo:Effect Amount\r\n\r\nVelocity  modulates:\r\n(+) Layer2:Osc1:Volume\r\n(+) Layer1:Osc1:Volume\r\n(+) Layer1:Osc2:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Bluegrass", "Blues", "Dance", "DnB", "DubStep", "Funk", "Trance", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "ORG 7th GD",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "c7a730e1-d619-44d6-83b3-8e04e065f009",
+  "vendor": "KV331 Audio"
+}

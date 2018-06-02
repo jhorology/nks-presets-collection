@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "\n",
+  "deviceType": "INST",
+  "modes": ["Bluegrass", "Blues", "DnB", "DubStep", "Funk", "Factory", "Mod Wheel", "Phase Mod", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "ORG Wisper GD",
+  "types": [
+    ["Organ"]
+  ],
+  "uuid": "f47661b1-15ce-44d9-81ef-f0eec564b9a4",
+  "vendor": "KV331 Audio"
+}

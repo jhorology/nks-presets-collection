@@ -2,7 +2,7 @@
   "author": "Ufuk Kevser",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Glitch", "Handsup", "Hardstyle", "House", "Factory", "Legato", "Monophonic", "Saw", "SuperSaw", "Version 2.5", "Mod Wheel", "Aftertouch", "Unison"],
+  "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Glitch", "Handsup", "Hardstyle", "House", "Aftertouch", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Unison", "Version 2.5"],
   "name": "LED Pitchy UK",
   "types": [
     ["Arpeggiated"],

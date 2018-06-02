@@ -2,7 +2,7 @@
   "author": "Nori Ubukata",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Classical", "Pop", "Rock", "Analog", "Digital", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "modes": ["Classical", "Pop", "Rock", "Analog", "Digital", "Factory", "Mod Wheel", "SynthMasterCM", "Wavetable", "Velocity Mod", "Version 2.5"],
   "name": "KEY BigLayerClavier",
   "types": [
     ["Keys"],

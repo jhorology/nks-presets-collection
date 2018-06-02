@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Factory", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "SEQ StepSqu2 GD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "1b2b14fa-bbcf-48d5-98a0-35f36580ea7c",
+  "vendor": "KV331 Audio"
+}

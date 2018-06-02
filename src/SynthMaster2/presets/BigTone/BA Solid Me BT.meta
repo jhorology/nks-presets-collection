@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "the famous yamaha tx81z bass.",
   "deviceType": "INST",
-  "modes": ["Dance", "Disco", "Electro", "Electronica", "Funk", "HipHop", "House", "Soul", "Techno", "Trance", "Additive", "Digital", "Version 2.5", "Wavetable", "Factory", "Monophonic"],
+  "modes": ["Dance", "Disco", "Electro", "Electronica", "Funk", "HipHop", "House", "Soul", "Techno", "Trance", "Additive", "Digital", "Factory", "Monophonic", "Version 2.5", "Wavetable"],
   "name": "BA Solid Me BT",
   "types": [
     ["Bass"],

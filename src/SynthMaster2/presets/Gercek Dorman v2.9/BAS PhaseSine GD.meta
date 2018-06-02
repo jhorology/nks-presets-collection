@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Osc1:Volume\r\n(+) Layer1:Ensemble:Effect Mix\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Osc2:Wave Index\r\n(+) Layer1:Osc1:Wave Index\r\n(+) Layer1:Osc1:Detune Spread\r\n(+) Layer1:VoiceLFO1:Frequency\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Mod1:Volume\r\n(+) Layer1:Osc2:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "BAS PhaseSine GD",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "870c0689-d0a5-42dd-8432-19ef9207350d",
+  "vendor": "KV331 Audio"
+}

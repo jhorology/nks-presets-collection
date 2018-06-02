@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Factory", "Phase Mod", "Saw", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "DR HiSeq GD",
+  "types": [
+    ["Drums"],
+    ["Percussion"]
+  ],
+  "uuid": "c762f105-bcf6-41ab-bdbd-b8884d2e7246",
+  "vendor": "KV331 Audio"
+}

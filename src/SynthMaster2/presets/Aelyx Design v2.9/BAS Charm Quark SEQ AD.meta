@@ -1,0 +1,17 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Osc1:Drift Amount\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Sine", "Vector", "Velocity Mod", "Version 2.9", "Unison"],
+  "name": "BAS Charm Quark SEQ AD",
+  "types": [
+    ["Arpeggiated"],
+    ["Bass"],
+    ["Bells"],
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "9bf5f64c-af77-4228-b97a-df0307fe16bf",
+  "vendor": "KV331 Audio"
+}

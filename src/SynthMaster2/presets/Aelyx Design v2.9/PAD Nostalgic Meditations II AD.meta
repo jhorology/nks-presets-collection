@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Unison", "Version 2.9", "Wavescanning"],
+  "name": "PAD Nostalgic Meditations II AD",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "20b3baba-8250-44c5-a670-c855dea62b3a",
+  "vendor": "KV331 Audio"
+}

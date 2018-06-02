@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\n(+) Layer1:Filter1:Resonance\n(+) Layer1:Filter1:Cutoff\n\nVelocity  modulates:\n(+) Layer1:ADSR1:Envelope Amount\n(+) Layer1:Osc1:Wave 1: Tone\n(+) Layer1:Osc2:Volume\n\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Folk", "Factory", "Layered", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "Sine", "SuperSaw", "Vector", "Velocity Mod", "Version 2.9"],
+  "name": "PRC CongaX GD",
+  "types": [
+    ["Percussion"]
+  ],
+  "uuid": "f5d7b52f-03ba-4862-9cfb-1c13200ecf57",
+  "vendor": "KV331 Audio"
+}

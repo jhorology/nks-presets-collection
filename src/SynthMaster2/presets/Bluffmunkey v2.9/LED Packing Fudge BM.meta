@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Analog", "Digital", "Distorted", "Factory", "Mod Wheel", "Monophonic", "Noisy", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "LED Packing Fudge BM",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "50187ab0-4c65-45e4-b9dd-9fb7aba35ef9",
+  "vendor": "KV331 Audio"
+}

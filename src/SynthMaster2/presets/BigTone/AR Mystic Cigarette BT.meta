@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "a flexible, creamy ambient arp.\r\n\r\nmodwheel: opens filter env.\r\npitchbend: changes overall timbre of the sound.\r\naftertouch: adds fm to osc2.",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "Digital", "Factory", "Frequency Mod", "HardSync", "Legato", "Mod Wheel", "Pitch Wheel", "Pulse", "Ring Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Lounge", "Trance", "Aftertouch", "Digital", "Factory", "Frequency Mod", "HardSync", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Pulse", "Ring Mod", "Version 2.5", "Wavetable"],
   "name": "AR Mystic Cigarette BT",
   "types": [
     ["Arpeggiated"]

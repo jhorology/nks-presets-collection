@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Glitch", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Distorted", "Mod Wheel", "Monophonic", "Saw", "Sine", "SuperSaw", "Vector", "Velocity Mod", "Version 2.8", "Version 2.9"],
+  "name": "BAS Kicker AD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "c17d4d81-d037-471a-a3f9-b63d34893920",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,12 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Factory", "Frequency Mod", "Saw", "Sine", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "FX Histeria GD",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "2d684aa7-2e3b-48bc-ba42-8c16bb8a0dee",
+  "vendor": "KV331 Audio"
+}

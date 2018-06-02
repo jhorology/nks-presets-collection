@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Rock", "Analog", "PWM", "Velocity Mod", "Version 2.5", "Wavetable", "Saw"],
+  "modes": ["Rock", "Analog", "PWM", "Saw", "Wavetable", "Velocity Mod", "Version 2.5"],
   "name": "BR JP8 Brass TP",
   "types": [
     ["Brass"]

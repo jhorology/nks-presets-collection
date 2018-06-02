@@ -2,7 +2,7 @@
   "author": "Mr.Shoufuku",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Digital", "Factory", "Phase Mod", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "modes": ["Digital", "Factory", "Phase Mod", "Ring Mod", "Sine", "Wavetable", "Velocity Mod", "Version 2.5"],
   "name": "KY FM Edge 3 MS",
   "types": [
     ["Keys"]

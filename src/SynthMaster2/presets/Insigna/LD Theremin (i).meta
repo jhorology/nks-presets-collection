@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "This voice has dynamic glide. The glide \r\nduration changes based on the velocity of \r\nthe pressed note. \r\nCheck out this unique feature!\r\n\r\nAT: LFO Type I (Slow)\r\n\r\nMW: LFO Type II (Fast)\r\n\r\nfor full accuracy= decrease Velocity Error\r\nknob (in layer 1 section / main controls) \r\n\r\nUmit 'Insigna' Uy / Istanbul. \r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Handsup", "Hardstyle", "Hip House", "HipHop", "House", "Italo", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Legato", "Sine", "Version 2.5", "Mod Wheel", "Velocity Mod", "Monophonic"],
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Handsup", "Hardstyle", "Hip House", "HipHop", "House", "Italo", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Sine", "Velocity Mod", "Version 2.5"],
   "name": "LD Theremin (i)",
   "types": [
     ["Keys"],

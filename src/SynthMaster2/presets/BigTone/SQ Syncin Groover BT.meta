@@ -1,5 +1,5 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "a synced wavetable osc with a hostsyced movement on osc2.\r\n\r\nmodwheel: increases the ammount of pitch movement.\r\npitchbend (up+down): increases/decreases cutoff movement.",
   "deviceType": "INST",

@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Factory Presets",
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "Sine", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "SEQ Didgeridoo GD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "0b26c426-1f79-40b4-a8b8-5fc79a47c18d",
+  "vendor": "KV331 Audio"
+}

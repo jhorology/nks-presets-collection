@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Distorted", "Factory", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "SuperSaw", "Sine", "Version 2.9"],
+  "name": "BAS CrazyRees GD",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "8544cb6a-6c3f-4063-8d07-af9faa5318c2",
+  "vendor": "KV331 Audio"
+}

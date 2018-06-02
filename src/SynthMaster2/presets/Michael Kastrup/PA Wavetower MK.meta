@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Oldschool Electro", "Techno", "Trance", "Additive", "Digital", "Factory", "Gated", "Mod Wheel", "Version 2.5", "Wavetable", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Oldschool Electro", "Techno", "Trance", "Additive", "Digital", "Factory", "Gated", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "PA Wavetower MK",
   "types": [
     ["Arpeggiated"],

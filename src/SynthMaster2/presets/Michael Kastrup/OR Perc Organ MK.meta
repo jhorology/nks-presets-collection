@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Folk", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Additive", "Factory", "Mod Wheel", "Sine", "Version 2.5", "Velocity Mod"],
+  "modes": ["Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Folk", "Funk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Additive", "Factory", "Mod Wheel", "Sine", "Velocity Mod", "Version 2.5"],
   "name": "OR Perc Organ MK",
   "types": [
     ["Organ"]

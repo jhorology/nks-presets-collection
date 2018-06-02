@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "This voice has dynamic glide. The glide\r\nduration changes based on the velocity \r\nof the pressed note. Check out this \r\nunique feature!\r\n\r\nMW:Cutoff + Sequence\r\n\r\nAT: Vibrato\r\n\r\nUmit 'Insigna' Uy / Istanbul. \r\n\r\n\r\n\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "HipHop", "Lounge", "Newschool Electro", "Oldschool Electro", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Resonant", "Version 2.5", "Velocity Mod", "Monophonic"],
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "HipHop", "Lounge", "Newschool Electro", "Oldschool Electro", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Resonant", "Velocity Mod", "Version 2.5"],
   "name": "LD Moog Mark II (i)",
   "types": [
     ["Lead"]

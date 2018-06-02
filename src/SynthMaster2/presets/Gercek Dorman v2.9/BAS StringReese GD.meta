@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Factory", "Frequency Mod", "Monophonic", "Ring Mod", "Saw", "SuperSaw", "Wavescanning", "Version 2.9"],
+  "name": "BAS StringReese GD",
+  "types": [
+    ["Bass"],
+    ["Strings"]
+  ],
+  "uuid": "9f9b2c42-ba9f-4ae2-994d-5e8472e7e8e9",
+  "vendor": "KV331 Audio"
+}

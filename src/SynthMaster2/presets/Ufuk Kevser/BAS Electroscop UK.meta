@@ -2,7 +2,7 @@
   "author": "Ufuk Kevser",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Hardstyle", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Distorted", "Factory", "HardSync", "PWM", "Pulse", "Version 2.5", "Mod Wheel", "Aftertouch", "Monophonic"],
+  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Glitch", "Hardstyle", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Distorted", "Factory", "HardSync", "Mod Wheel", "Monophonic", "PWM", "Pulse", "Version 2.5"],
   "name": "BAS Electroscop UK",
   "types": [
     ["Bass"]

@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Analog", "Factory", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.9"],
+  "name": "BAS Basic Exceed Base BM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "020aa8b5-50f0-4be3-9f72-0c27de1f1ffe",
+  "vendor": "KV331 Audio"
+}

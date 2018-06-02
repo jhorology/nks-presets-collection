@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Acid", "Breakbeat", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Glitch", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Sine", "SuperSaw", "Vector", "Velocity Mod", "Version 2.9"],
+  "name": "BAS Battery AD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "48cd045e-5b1a-4efb-bada-9f2e998a0a84",
+  "vendor": "KV331 Audio"
+}

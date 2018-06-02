@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:ADSR2:Sustain Level\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "PLK TroubleGuitarist GD",
+  "types": [
+    ["Pluck"]
+  ],
+  "uuid": "819a0464-c411-47ef-8576-69bf6b10dfc4",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter2:Cutoff\r\n(+) Layer1:Osc2:Volume\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter2:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Aftertouch", "Factory", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "SuperSaw", "Sine", "Wavescanning", "Version 2.9"],
+  "name": "FX SciHi GD",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "eb2fa380-0b7d-4551-9c53-2ceb92901347",
+  "vendor": "KV331 Audio"
+}

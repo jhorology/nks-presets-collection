@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "An analog style Arp. \r\nGood with 4/4 drums loops.\r\n\r\nLayer 2 serves as a side-chain \r\nsignal for layer 1's compressor.\r\n\r\nMod (+) reduces side-chain signal.\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Dance", "Disco", "DubStep", "Electro", "Electronica", "Glitch", "House", "Minimal", "Techno", "Trance", "Analog", "Digital", "Factory", "Gated", "LoFi", "Metallic", "Mod Wheel", "Pitch Wheel", "Resonant", "Velocity Mod", "Version 2.5"],
+  "modes": ["Ambient", "Chillout", "Disco", "Dance", "DubStep", "Electro", "Electronica", "Glitch", "House", "Minimal", "Techno", "Trance", "Analog", "Digital", "Factory", "Gated", "LoFi", "Metallic", "Mod Wheel", "Pitch Wheel", "Resonant", "Velocity Mod", "Version 2.5"],
   "name": "ARP Silicone Circuits",
   "types": [
     ["Arpeggiated"]

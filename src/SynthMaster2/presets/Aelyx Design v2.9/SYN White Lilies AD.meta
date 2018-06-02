@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Additive", "Saw", "SuperSaw", "Unison", "Version 2.9", "Wavescanning"],
+  "name": "SYN White Lilies AD",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "c7c5d8c6-b0e1-4f82-8b9f-eb85d946b492",
+  "vendor": "KV331 Audio"
+}

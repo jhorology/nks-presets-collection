@@ -2,7 +2,7 @@
   "author": "Aiyn Zahev",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Chillout", "Electro", "Electronica", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "Mod Wheel", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison", "Monophonic"],
+  "modes": ["Chillout", "Electro", "Electronica", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Analog", "Digital", "Factory", "Mod Wheel", "Monophonic", "Saw", "SynthMasterBE", "Velocity Mod", "Version 2.5", "Unison"],
   "name": "ARP - Trance bass layer",
   "types": [
     ["Arpeggiated"],

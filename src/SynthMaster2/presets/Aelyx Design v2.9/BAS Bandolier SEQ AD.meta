@@ -1,0 +1,16 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Filter1:Key Tracking\r\n(+) Layer1:ADSR2:Decay Slope\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:VoiceLFO2:Volume\r\n\r\nVelocity  modulates:\r\n(+) Layer1:ADSR3:Envelope Amount\r\n(+) Layer1:ADSR4:Envelope Amount\r\n(+) Layer1:ADSR2:Decay Time\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Chillout", "Disco", "Dance", "Easy Listening", "Electro", "Electronica", "Handsup", "Hardstyle", "House", "Italo", "Minimal", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Additive", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9", "Unison"],
+  "name": "BAS Bandolier SEQ AD",
+  "types": [
+    ["Bass"],
+    ["Pluck"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "1170204e-35d0-4d6f-8921-bf479dfccf5f",
+  "vendor": "KV331 Audio"
+}

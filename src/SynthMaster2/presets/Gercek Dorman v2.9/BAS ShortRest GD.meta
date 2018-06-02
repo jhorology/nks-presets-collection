@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Mod1:Volume\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Factory", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "BAS ShortRest GD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "84e72ce8-f5bf-4633-a6e0-e1c5920739ef",
+  "vendor": "KV331 Audio"
+}

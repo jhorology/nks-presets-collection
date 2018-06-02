@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Amplitude Mod", "Analog", "Factory", "Mod Wheel", "Ring Mod", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "BAS Basic FM Bass 7 BM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "02f0eca6-b20f-40fe-9f6f-26f9a40f0b2f",
+  "vendor": "KV331 Audio"
+}

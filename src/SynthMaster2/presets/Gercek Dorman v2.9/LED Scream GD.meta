@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc1:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "LED Scream GD",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "45be2720-c3c6-4424-b393-c41cadb49a61",
+  "vendor": "KV331 Audio"
+}

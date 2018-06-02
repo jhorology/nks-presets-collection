@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Chorus:Effect Amount\r\n(+) Layer1:Filter2:Cutoff\r\n(+) Layer1:Osc2:Wave Index\r\n(+) Layer1:Osc2:Coarse Tune\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "LED WaitfortheLead GD",
+  "types": [
+    ["FX"],
+    ["Lead"]
+  ],
+  "uuid": "a96e73f6-15c7-422f-a4c5-270decc3e5b3",
+  "vendor": "KV331 Audio"
+}

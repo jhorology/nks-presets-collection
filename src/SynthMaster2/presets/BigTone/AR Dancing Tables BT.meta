@@ -1,5 +1,5 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "an amp modulated wavetable scanner.\r\n\r\nmodwheel: speeds up the amp modulating osc\r\npitchbend: increases the amp env´s attack and release\r\naftertouch: closes osc filter, filtering out the high frequency components of the wavetables\r\n",
   "deviceType": "INST",

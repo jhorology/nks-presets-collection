@@ -2,7 +2,7 @@
   "author": "Gercek Dorman",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw"],
+  "modes": ["Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Sine"],
   "name": "ARP Groovy GD",
   "types": [
     ["Arpeggiated"],

@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Distortion:Drive\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "LED Disto Lead BM",
+  "types": [
+    ["Lead"]
+  ],
+  "uuid": "071fa35b-2399-4a73-8737-213eb63ebd7d",
+  "vendor": "KV331 Audio"
+}

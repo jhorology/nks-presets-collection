@@ -2,7 +2,7 @@
   "author": "Rob Lee@www.rob-lee-music.com",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Factory", "Mod Wheel", "Wavetable", "Version 2.7", "Velocity Mod", "Unison"],
+  "modes": ["Ambient", "Factory", "Mod Wheel", "Unison", "Velocity Mod", "Version 2.7", "Wavetable"],
   "name": "PD Alpha Centurai RL",
   "types": [
     ["Pad"]

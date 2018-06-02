@@ -1,8 +1,8 @@
 {
-  "author": "Xenos from KVR",
+  "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Chillout", "Disco", "HipHop", "Pop", "Rock", "Additive", "Analog", "Legato", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Monophonic"],
+  "modes": ["Chillout", "Disco", "HipHop", "Pop", "Rock", "Additive", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Velocity Mod", "Version 2.5"],
   "name": "LD Fat 5ths",
   "types": [
     ["Lead"]

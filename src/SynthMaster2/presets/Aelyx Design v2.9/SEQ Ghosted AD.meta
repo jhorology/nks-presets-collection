@@ -1,0 +1,16 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Osc2:Drift Amount\r\n(+) Layer1:Osc1:Drift Amount\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "SEQ Ghosted AD",
+  "types": [
+    ["Arpeggiated"],
+    ["Pluck"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "cc4aec84-e50f-4ecf-99d2-3384eb81dcd8",
+  "vendor": "KV331 Audio"
+}

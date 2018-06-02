@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Rock", "Mod Wheel", "Vector", "Version 2.5", "Wavetable", "Factory"],
+  "modes": ["Rock", "Factory", "Mod Wheel", "Wavetable", "Vector", "Version 2.5"],
   "name": "KY Soft Keys TP",
   "types": [
     ["Keys"]

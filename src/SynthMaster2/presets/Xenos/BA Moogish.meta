@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Breakbeat", "Electro", "HipHop", "House", "Newschool Electro", "Oldschool Electro", "Pop", "Trance", "Analog", "Legato", "Mod Wheel", "Saw", "Square", "Velocity Mod", "Version 2.5", "Factory", "Monophonic"],
+  "modes": ["Breakbeat", "Electro", "HipHop", "House", "Newschool Electro", "Oldschool Electro", "Pop", "Trance", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Square", "Velocity Mod", "Version 2.5"],
   "name": "BA Moogish",
   "types": [
     ["Bass"]

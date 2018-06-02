@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "a hughe typical newschool electrohouse club bass.\r\n\r\nmodwheel: opens filtercutoff as well as lengthens the amp env release.\r\npitchbend: steeply highpasses the sound.\r\nvelocity: increases filter env ammount.",
   "deviceType": "INST",
-  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Additive", "Factory", "Layered", "Legato", "Mod Wheel", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Monophonic"],
+  "modes": ["Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Hi Nrg", "Hip House", "HipHop", "House", "Italo", "Lounge", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Pop", "Techno", "Trance", "Additive", "Factory", "Layered", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "BA Contemporary Puncher BT",
   "types": [
     ["Bass"],

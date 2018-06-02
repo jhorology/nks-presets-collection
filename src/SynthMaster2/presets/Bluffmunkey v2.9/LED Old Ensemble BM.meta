@@ -1,0 +1,14 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Echo:Effect Amount\r\n(+) Reverb:Effect Amount\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Easy Listening", "Electro", "Electronica", "House", "Techno", "Analog", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "LED Old Ensemble BM",
+  "types": [
+    ["Lead"],
+    ["Pluck"]
+  ],
+  "uuid": "911cc66a-773e-4435-bab7-a5ea6db5355f",
+  "vendor": "KV331 Audio"
+}

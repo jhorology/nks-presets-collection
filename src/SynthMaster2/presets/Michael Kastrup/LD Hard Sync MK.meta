@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Acid", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Pop", "Reggae", "Rock", "Soul", "Distorted", "Factory", "HardSync", "Monophonic", "PWM", "Saw", "Version 2.5", "Mod Wheel", "Aftertouch", "Velocity Mod"],
+  "modes": ["Acid", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Distorted", "Factory", "HardSync", "Mod Wheel", "Monophonic", "PWM", "Saw", "Velocity Mod", "Version 2.5"],
   "name": "LD Hard Sync MK",
   "types": [
     ["Lead"],

@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["House", "Pop", "Additive", "Analog", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Wavetable", "Factory", "Unison"],
+  "modes": ["House", "Pop", "Additive", "Analog", "Factory", "Mod Wheel", "Saw", "Wavetable", "Velocity Mod", "Version 2.5", "Unison"],
   "name": "BR Memory Brass TP",
   "types": [
     ["Brass"]

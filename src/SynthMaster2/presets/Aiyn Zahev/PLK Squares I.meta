@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "A simple yet very effective Square pluck\r\n\r\nMod (+) opens filter\r\n\r\nVel = Gain & Cut-off \r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Classical", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "HipHop", "House", "Newschool Electro", "Oldschool Electro", "Pop", "Trance", "Analog", "Factory", "Mod Wheel", "PWM", "Pitch Wheel", "Pulse", "Square", "Version 2.5", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Classical", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "HipHop", "House", "Newschool Electro", "Oldschool Electro", "Pop", "Trance", "Analog", "Factory", "Mod Wheel", "PWM", "Pitch Wheel", "Pulse", "Square", "Velocity Mod", "Version 2.5"],
   "name": "PLK Squares I",
   "types": [
     ["Lead"],

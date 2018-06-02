@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Trance", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable", "Factory"],
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Trance", "Factory", "Mod Wheel", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "PD Burnt Glass",
   "types": [
     ["Pad"]

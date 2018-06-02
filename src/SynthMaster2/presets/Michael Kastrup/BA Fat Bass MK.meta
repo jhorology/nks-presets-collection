@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Soul", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Square", "Version 2.5", "Velocity Mod"],
+  "modes": ["Chillout", "Disco", "Dance", "Easy Listening", "Electro", "Electronica", "HipHop", "Hip House", "House", "Funk", "Jazz", "Latin", "Lounge", "Soul", "Aftertouch", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Square", "Velocity Mod", "Version 2.5"],
   "name": "BA Fat Bass MK",
   "types": [
     ["Bass"]

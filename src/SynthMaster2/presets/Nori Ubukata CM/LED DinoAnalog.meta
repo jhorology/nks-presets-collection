@@ -2,7 +2,7 @@
   "author": "Nori Ubukata",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Electro", "Oldschool Electro", "Rock", "Analog", "Factory", "Mod Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "modes": ["Electro", "Oldschool Electro", "Rock", "Analog", "Factory", "Mod Wheel", "Monophonic", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
   "name": "LED DinoAnalog",
   "types": [
     ["Synth"]

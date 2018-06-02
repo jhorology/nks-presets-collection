@@ -1,0 +1,16 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer2:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Additive", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "SEQ Roadkill AD",
+  "types": [
+    ["Bass"],
+    ["Pad"],
+    ["Sequence"],
+    ["Synth"]
+  ],
+  "uuid": "d8a15199-7eea-4d11-9352-b3266b2aa3d6",
+  "vendor": "KV331 Audio"
+}

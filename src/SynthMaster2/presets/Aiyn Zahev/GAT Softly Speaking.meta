@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "A soft gated pad sound. Of course the \r\nmany modulations available can transform\r\nit drastically\r\n\r\nLayer two features an arp which can \r\nbe brought in with the second EZ control\r\n\r\nMod (+) Opens Filter\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Electro", "Electronica", "Glitch", "House", "Minimal", "Newschool Electro", "Techno", "Trance", "Digital", "Factory", "Gated", "Mod Wheel", "Noisy", "Saw", "Version 2.5", "Wavescanning", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Disco", "Dance", "Electro", "Electronica", "Glitch", "House", "Minimal", "Newschool Electro", "Techno", "Trance", "Digital", "Factory", "Gated", "Mod Wheel", "Noisy", "Saw", "Wavescanning", "Velocity Mod", "Version 2.5"],
   "name": "GAT Softly Speaking",
   "types": [
     ["Strings"],

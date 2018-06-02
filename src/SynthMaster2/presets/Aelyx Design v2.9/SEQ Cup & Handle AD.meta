@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer2:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Additive", "Layered", "Legato", "Mod Wheel", "Monophonic", "Saw", "Sine", "SuperSaw", "Version 2.8", "Version 2.9", "Wavescanning"],
+  "name": "SEQ Cup & Handle AD",
+  "types": [
+    ["Sequence"]
+  ],
+  "uuid": "17c746dc-4089-4fee-8640-174404cdde01",
+  "vendor": "KV331 Audio"
+}

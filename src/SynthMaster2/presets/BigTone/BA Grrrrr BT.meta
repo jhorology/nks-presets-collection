@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "another typical xpander/matrix12 sound.\r\n\r\nmodwheel: increases fm source osc pitch.",
   "deviceType": "INST",
-  "modes": ["Breakbeat", "Dance", "Disco", "Electro", "Electronica", "Funk", "HipHop", "House", "Trance", "Distorted", "Legato", "Mod Wheel", "Phase Mod", "Square", "Velocity Mod", "Version 2.5", "Factory", "Monophonic"],
+  "modes": ["Breakbeat", "Dance", "Disco", "Electro", "Electronica", "Funk", "HipHop", "House", "Trance", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Square", "Velocity Mod", "Version 2.5"],
   "name": "BA Grrrrr BT",
   "types": [
     ["Bass"]

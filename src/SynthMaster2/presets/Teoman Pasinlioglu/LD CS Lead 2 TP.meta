@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Pop", "Analog", "Mod Wheel", "Velocity Mod", "Version 2.5", "Mono", "Saw"],
+  "modes": ["Pop", "Analog", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5"],
   "name": "LD CS Lead 2 TP",
   "types": [
     ["Brass"],

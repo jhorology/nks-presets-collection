@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "combfilter pad with aring element.\r\n\r\nmodwheel: brilliance of arp component.\r\naftertouch: fades out pad component.",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Electro", "Electronica", "Trance", "Aftertouch", "Digital", "Layered", "Mod Wheel", "Noisy", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Factory"],
+  "modes": ["Ambient", "Chillout", "Electro", "Electronica", "Trance", "Aftertouch", "Digital", "Factory", "Layered", "Mod Wheel", "Noisy", "Resonant", "Saw", "SuperSaw", "Version 2.5"],
   "name": "AR Comb Arped Pad BT",
   "types": [
     ["Arpeggiated"],

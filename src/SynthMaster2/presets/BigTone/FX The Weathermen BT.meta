@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "played realisticly, this sounds like a tempest.\r\n\r\nmodwheel: adjusts \"rumble\" of the thunder.\r\nvelocity: adjusts \"thunder  intensity\".",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Lounge", "Pop", "Analog", "AudioFX", "Frequency Mod", "Layered", "Legato", "Mod Wheel", "Noisy", "Phase Mod", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable", "Factory"],
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Lounge", "Pop", "Analog", "AudioFX", "Factory", "Frequency Mod", "Layered", "Legato", "Mod Wheel", "Noisy", "Phase Mod", "Ring Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "FX The Weathermen BT",
   "types": [
     ["FX"]

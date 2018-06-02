@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Legato", "LoFi", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison", "Monophonic"],
+  "modes": ["Factory", "Legato", "LoFi", "Monophonic", "Saw", "Unison", "Velocity Mod", "Version 2.5"],
   "name": "LD Psycho Lead",
   "types": [
     ["Lead"]

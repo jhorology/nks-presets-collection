@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:VoiceLFO1:Frequency\r\n(+) Layer2:Filter2:Cutoff\r\n(+) Layer2:VoiceLFO1:Frequency\r\n(+) Layer1:Mod1:Volume\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Mod1:Volume\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc1:Wave Index\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Aftertouch", "Factory", "Frequency Mod", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "SuperSaw", "Sine", "Wavescanning", "Velocity Mod", "Version 2.9"],
+  "name": "BAS BandBass GD",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "fe068f86-639c-4d16-b510-ef65476d4f51",
+  "vendor": "KV331 Audio"
+}

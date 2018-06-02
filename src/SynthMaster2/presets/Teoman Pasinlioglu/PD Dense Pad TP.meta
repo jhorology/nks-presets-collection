@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Electro", "Electronica", "Pop", "Additive", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "Velocity Mod", "Version 2.0", "Unison"],
+  "modes": ["Electro", "Electronica", "Pop", "Additive", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "Unison", "Velocity Mod"],
   "name": "PD Dense Pad TP",
   "types": [
     ["Pad"]

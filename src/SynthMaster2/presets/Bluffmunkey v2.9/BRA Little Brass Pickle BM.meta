@@ -1,0 +1,14 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Distortion:Effect Amount\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Techno", "Analog", "Distorted", "Factory", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "BRA Little Brass Pickle BM",
+  "types": [
+    ["Brass"],
+    ["Lead"]
+  ],
+  "uuid": "ef0a57b2-c2cc-4dbd-a2d1-f5c2f4a2b7b6",
+  "vendor": "KV331 Audio"
+}

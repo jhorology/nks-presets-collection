@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "a cool chicago house stack.\r\n\r\nmodwheel: opens filter as well as shortens \r\namp release\r\n\r\npitchwheel (up): steeply highpasses the \r\nsummary\r\n\r\nvelocity: adds filter env ammount",
   "deviceType": "INST",
-  "modes": ["Acid", "Ambient", "Breakbeat", "Chillout", "Dance", "Electro", "Electronica", "Hip House", "House", "Newschool Electro", "Techno", "Factory", "HardSync", "Layered", "Mod Wheel", "honic", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Mono", "Legato", "Additive", "Square", "Saw", "Wavetable", "Monophonic"],
+  "modes": ["Acid", "Ambient", "Breakbeat", "Chillout", "Dance", "Electro", "Electronica", "Hip House", "House", "Newschool Electro", "Techno", "Additive", "Factory", "HardSync", "Layered", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Saw", "Square", "Velocity Mod", "Version 2.5", "Wavetable"],
   "name": "CH Chicago Tribute 01 BT",
   "types": [
     ["Bass"],

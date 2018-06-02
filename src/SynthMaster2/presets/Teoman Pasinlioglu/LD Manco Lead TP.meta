@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Disco", "Pop", "Rock", "Additive", "Analog", "Legato", "Mod Wheel", "Saw", "Triangle", "Velocity Mod", "Version 2.0", "Factory", "Unison", "Monophonic"],
+  "modes": ["Disco", "Pop", "Rock", "Additive", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Triangle", "Unison", "Velocity Mod"],
   "name": "LD Manco Lead TP",
   "types": [
     ["Lead"]

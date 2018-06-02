@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) SynthLFO2:Frequency\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "DnB", "DubStep", "Electro", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Analog", "Digital", "Distorted", "Factory", "Mod Wheel", "Noisy", "Saw", "SuperSaw", "Sine", "Wavescanning", "Version 2.9"],
+  "name": "BAS Table Wub BM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "cfcae66c-0011-45a9-8618-ee803bc96fba",
+  "vendor": "KV331 Audio"
+}

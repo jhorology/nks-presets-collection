@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:ADSR2:Decay Time\r\n(+) Layer1:ADSR2:Decay Slope\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "DnB", "DubStep", "Funk", "Techno", "Factory", "Mod Wheel", "Phase Mod", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "DR Kick99 GD",
+  "types": [
+    ["Drums"]
+  ],
+  "uuid": "202b0bfe-e386-42f2-81fb-3f78893d0c38",
+  "vendor": "KV331 Audio"
+}

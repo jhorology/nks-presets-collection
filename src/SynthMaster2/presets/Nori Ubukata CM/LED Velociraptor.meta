@@ -2,7 +2,7 @@
   "author": "Nori Ubukata",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Electro", "Oldschool Electro", "Rock", "Techno", "Digital", "Factory", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavescanning", "Unison", "Monophonic"],
+  "modes": ["Electro", "Oldschool Electro", "Rock", "Techno", "Digital", "Factory", "Monophonic", "SynthMasterCM", "Unison", "Velocity Mod", "Version 2.5", "Wavescanning"],
   "name": "LED Velociraptor",
   "types": [
     ["Lead"],

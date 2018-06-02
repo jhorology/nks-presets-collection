@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "Not that nice in isolation, but works \r\nexcellently as a background layer \r\nbehind pads.\r\n\r\nMod (+) Opens filter\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Chillout", "Dance", "Disco", "Electro", "Electronica", "Glitch", "House", "Minimal", "Pop", "Techno", "Trance", "Analog", "Digital", "Distorted", "Factory", "Frequency Mod", "LoFi", "Mod Wheel", "Pitch Wheel", "Pulse", "Ring Mod", "Version 2.5", "Velocity Mod", "Monophonic"],
+  "modes": ["Chillout", "Disco", "Dance", "Electro", "Electronica", "Glitch", "House", "Minimal", "Pop", "Techno", "Trance", "Analog", "Digital", "Distorted", "Factory", "Frequency Mod", "LoFi", "Mod Wheel", "Monophonic", "Pitch Wheel", "Pulse", "Ring Mod", "Velocity Mod", "Version 2.5"],
   "name": "ARP Sparkles",
   "types": [
     ["Arpeggiated"]

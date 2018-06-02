@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "A soft bit-crushed Arp.  \r\n\r\nMod (+) reduces S-H\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "House", "Minimal", "Techno", "Trance", "Digital", "Distorted", "Factory", "Frequency Mod", "LoFi", "Mod Wheel", "Noisy", "Pitch Wheel", "Pulse", "Ring Mod", "Sine", "Version 2.5", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "House", "Minimal", "Techno", "Trance", "Digital", "Distorted", "Factory", "Frequency Mod", "LoFi", "Mod Wheel", "Noisy", "Pitch Wheel", "Pulse", "Ring Mod", "Sine", "Velocity Mod", "Version 2.5"],
   "name": "ARP Space Station I",
   "types": [
     ["Arpeggiated"]

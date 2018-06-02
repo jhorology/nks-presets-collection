@@ -2,7 +2,7 @@
   "author": "Aiyn Zahev",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Chillout", "Electro", "Analog", "Factory", "Mod Wheel", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "modes": ["Chillout", "Electro", "Analog", "Factory", "Mod Wheel", "Pitch Wheel", "SynthMasterCM", "Wavetable", "Velocity Mod", "Version 2.5"],
   "name": "ARP Osmosis",
   "types": [
     ["Arpeggiated"]

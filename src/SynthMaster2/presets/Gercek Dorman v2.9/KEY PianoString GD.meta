@@ -1,0 +1,15 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Distortion:Drive\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc2:Volume\r\n(+) Layer1:Osc1:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Baroque", "DnB", "DubStep", "Aftertouch", "Factory", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Wavescanning", "Velocity Mod", "Version 2.9"],
+  "name": "KEY PianoString GD",
+  "types": [
+    ["Keys"],
+    ["Piano"],
+    ["Strings"]
+  ],
+  "uuid": "78d9a25d-723e-4ca8-81fd-6c2c47fee95e",
+  "vendor": "KV331 Audio"
+}

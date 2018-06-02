@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Soul", "Additive", "Digital", "Factory", "Sine", "Version 2.5", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Disco", "Easy Listening", "Ethnic", "Electro", "Electronica", "Folk", "Jazz", "Latin", "Lounge", "Reggae", "Pop", "Soul", "Additive", "Digital", "Factory", "Sine", "Velocity Mod", "Version 2.5"],
   "name": "BL Celeste MK",
   "types": [
     ["Bells"],

@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Ethnic", "Folk", "Funk", "HipHop", "House", "Jazz", "Latin", "Lounge", "Minimal", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Factory", "Mod Wheel", "Phase Mod", "Sine", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
+  "modes": ["Ambient", "Blues", "Bluegrass", "Breakbeat", "Chillout", "Country", "Disco", "Dance", "Easy Listening", "Ethnic", "HipHop", "House", "Funk", "Folk", "Jazz", "Latin", "Lounge", "Minimal", "Reggae", "Pop", "Rock", "Soul", "Aftertouch", "Factory", "Mod Wheel", "Phase Mod", "Sine", "SynthMasterBE", "Velocity Mod", "Version 2.5"],
   "name": "Bass FM Soft MK",
   "types": [
     ["Bass"]

@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc1:Wave Index\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Analog", "Digital", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.9"],
+  "name": "BAS Basic Table Bass 2 BM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "48e2ae97-0962-425f-98e2-dfa16c779348",
+  "vendor": "KV331 Audio"
+}

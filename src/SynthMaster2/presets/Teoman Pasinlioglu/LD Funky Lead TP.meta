@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Funk", "Rock", "Analog", "Factory", "Legato", "Mod Wheel", "Saw", "Velocity Mod", "Version 2.5", "Monophonic"],
+  "modes": ["Funk", "Rock", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Velocity Mod", "Version 2.5"],
   "name": "LD Funky Lead TP",
   "types": [
     ["Lead"]

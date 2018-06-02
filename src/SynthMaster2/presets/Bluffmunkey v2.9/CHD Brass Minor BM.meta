@@ -1,0 +1,15 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Analog", "Factory", "Mod Wheel", "Monophonic", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "CHD Brass Minor BM",
+  "types": [
+    ["Brass"],
+    ["Chords"],
+    ["Lead"]
+  ],
+  "uuid": "d6daafc1-9df8-482d-a20b-5ee124dd64b9",
+  "vendor": "KV331 Audio"
+}

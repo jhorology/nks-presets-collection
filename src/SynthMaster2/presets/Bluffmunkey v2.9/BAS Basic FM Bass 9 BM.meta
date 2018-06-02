@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Chorus:Effect Amount\r\n(+) Reverb:Effect Amount\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Mod1:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Ethnic", "Electro", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Analog", "Factory", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.9"],
+  "name": "BAS Basic FM Bass 9 BM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "03fa5d70-eb1c-4daa-858c-da29b069cac7",
+  "vendor": "KV331 Audio"
+}

@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Blues", "Breakbeat", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Newschool Electro", "Oldschool Electro", "Pop", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
+  "modes": ["Blues", "Breakbeat", "Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "HipHop", "Hip House", "House", "Funk", "Jazz", "Latin", "Lounge", "Newschool Electro", "Oldschool Electro", "Pop", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "SynthMasterCM", "Velocity Mod", "Version 2.5"],
   "name": "BRA Jazzy MK",
   "types": [
     ["Brass"]

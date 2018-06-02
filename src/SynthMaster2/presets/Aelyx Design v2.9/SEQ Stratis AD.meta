@@ -1,0 +1,14 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Master Volume\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Distortion:Drive\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Acid", "Ambient", "Chillout", "Dance", "Electro", "Electronica", "Lounge", "Minimal", "Trance", "Analog", "Distorted", "Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "SEQ Stratis AD",
+  "types": [
+    ["Keys"],
+    ["Sequence"]
+  ],
+  "uuid": "22e1a284-6a54-4a30-a9a4-d7d9b4020fb8",
+  "vendor": "KV331 Audio"
+}

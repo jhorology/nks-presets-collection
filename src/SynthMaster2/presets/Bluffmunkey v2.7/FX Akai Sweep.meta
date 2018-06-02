@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "Oldskool sample sytle FX sweep\r\n\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Classical", "Easy Listening", "Electro", "Electronica", "Ethnic", "Lounge", "Minimal", "Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
+  "modes": ["Ambient", "Classical", "Chillout", "Easy Listening", "Ethnic", "Electro", "Electronica", "Lounge", "Minimal", "Factory", "Mod Wheel", "Sampled", "Saw", "SuperSaw", "Velocity Mod", "Version 2.7"],
   "name": "FX Akai Sweep",
   "types": [
     ["FX"],

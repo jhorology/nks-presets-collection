@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Acid", "Ambient", "Bluegrass", "Blues", "Breakbeat", "Chillout", "Country", "Dance", "Disco", "Easy Listening", "Folk", "Funk", "Hip House", "HipHop", "House", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Pulse", "Version 2.5", "Velocity Mod"],
+  "modes": ["Acid", "Ambient", "Blues", "Bluegrass", "Breakbeat", "Chillout", "Country", "Disco", "Dance", "Easy Listening", "HipHop", "Hip House", "House", "Funk", "Folk", "Jazz", "Latin", "Lounge", "Reggae", "Pop", "Rock", "Soul", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Pulse", "Velocity Mod", "Version 2.5"],
   "name": "BA Finger Bass MK",
   "types": [
     ["Bass"]

@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\n\nChannel Aftertouch modulates:\n\nVelocity  modulates:\n(+) Layer1:Osc1:Volume\n(+) Layer1:Osc2:Volume\n(+) Layer2:Osc1:Volume\n\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Frequency Mod", "Layered", "Mod Wheel", "Monophonic", "Ring Mod", "Saw", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "LED DT GD",
+  "types": [
+    ["Lead"],
+    ["Pad"]
+  ],
+  "uuid": "e9717f63-188d-4a5e-9d98-f430c729d29c",
+  "vendor": "KV331 Audio"
+}

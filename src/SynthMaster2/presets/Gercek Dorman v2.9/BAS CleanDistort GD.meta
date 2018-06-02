@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Osc2:Wave Index\r\n(+) Layer1:Distortion:Drive\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc1:Volume\r\n(+) Layer1:Osc2:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Factory", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Wavescanning", "Velocity Mod", "Version 2.9"],
+  "name": "BAS CleanDistort GD",
+  "types": [
+    ["Bass"],
+    ["Guitar"]
+  ],
+  "uuid": "8023405a-7304-4e25-b501-5afed5a769e4",
+  "vendor": "KV331 Audio"
+}

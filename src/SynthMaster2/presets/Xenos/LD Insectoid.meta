@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Electro", "HipHop", "Pop", "Techno", "Trance", "Layered", "Legato", "Mod Wheel", "Noisy", "Pulse", "Saw", "Velocity Mod", "Version 2.5", "Factory", "Unison", "Monophonic"],
+  "modes": ["Electro", "HipHop", "Pop", "Techno", "Trance", "Factory", "Layered", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Pulse", "Saw", "Unison", "Velocity Mod", "Version 2.5"],
   "name": "LD Insectoid",
   "types": [
     ["Lead"]

@@ -1,0 +1,15 @@
+{
+  "author": "Vandalism",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ethnic", "Folk", "Jazz", "Pop", "Rock", "Trance", "Digital", "Factory", "Metallic", "Phase Mod", "Sine", "Velocity Mod", "Version 2.7"],
+  "name": "LED Trumpet",
+  "types": [
+    ["Keys"],
+    ["Percussion"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "5e47b464-a9fc-4cc3-b2a9-d503122e4329",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "SYN Silent Machinery II AD",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "80da955f-8f99-4031-8901-33edc77c40c6",
+  "vendor": "KV331 Audio"
+}

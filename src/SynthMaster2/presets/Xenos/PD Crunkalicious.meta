@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Breakbeat", "HipHop", "Pop", "Additive", "Triangle", "Velocity Mod", "Version 2.5", "Factory", "Unison"],
+  "modes": ["Breakbeat", "HipHop", "Pop", "Additive", "Factory", "Triangle", "Unison", "Velocity Mod", "Version 2.5"],
   "name": "PD Crunkalicious",
   "types": [
     ["Pad"]

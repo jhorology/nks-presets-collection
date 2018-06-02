@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "An ethereal pad sound.\r\n\r\nMod (+) opens filter\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Glitch", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Pop", "Rock", "Techno", "Trance", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Version 2.5", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Glitch", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Pop", "Rock", "Techno", "Trance", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Velocity Mod", "Version 2.5"],
   "name": "PAD Dream within a Dream",
   "types": [
     ["FX"],

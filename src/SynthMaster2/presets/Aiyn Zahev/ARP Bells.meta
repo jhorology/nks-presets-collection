@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "Beautiful Bells. The Arp is set in such a \r\nway that these bells sound out of time and\r\nnatural. If you need them to sync properly\r\nwith your tempo just adjust the swing \r\ncontrol.\r\n\r\nMod (+) adds resonance\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Classical", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "House", "Lounge", "Minimal", "Oldschool Electro", "Pop", "Techno", "Trance", "Digital", "Factory", "Frequency Mod", "Metallic", "Mod Wheel", "Physical Model", "Pitch Wheel", "Triangle", "Version 2.5", "Velocity Mod"],
+  "modes": ["Ambient", "Classical", "Chillout", "Disco", "Dance", "Easy Listening", "Ethnic", "Electro", "Electronica", "House", "Folk", "Lounge", "Minimal", "Oldschool Electro", "Pop", "Techno", "Trance", "Digital", "Factory", "Frequency Mod", "Metallic", "Mod Wheel", "Pitch Wheel", "Physical Model", "Triangle", "Velocity Mod", "Version 2.5"],
   "name": "ARP Bells",
   "types": [
     ["Arpeggiated"],

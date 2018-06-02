@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\n\nChannel Aftertouch modulates:\n\nVelocity  modulates:\n(+) Layer1:Osc2:Volume\n(+) Layer2:Osc1:Volume\n(+) Layer2:Osc2:Volume\n(+) Layer2:Filter1:Cutoff\n\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "LED Arcade GD",
+  "types": [
+    ["Lead"],
+    ["Strings"]
+  ],
+  "uuid": "4f56e618-7f44-4e64-b877-9e42de99f3da",
+  "vendor": "KV331 Audio"
+}

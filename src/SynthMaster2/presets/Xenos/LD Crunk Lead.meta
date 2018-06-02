@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["HipHop", "Analog", "Legato", "Mod Wheel", "Saw", "Square", "Version 2.5", "Factory", "Unison", "Monophonic"],
+  "modes": ["HipHop", "Analog", "Factory", "Legato", "Mod Wheel", "Monophonic", "Saw", "Square", "Unison", "Version 2.5"],
   "name": "LD Crunk Lead",
   "types": [
     ["Lead"]

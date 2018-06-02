@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Chillout", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Funk", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Additive", "Analog", "Factory", "Mod Wheel", "Physical Model", "Sine", "Version 2.5", "Velocity Mod"],
+  "modes": ["Chillout", "Disco", "Easy Listening", "Ethnic", "Electro", "Electronica", "Funk", "Folk", "Jazz", "Latin", "Lounge", "Reggae", "Pop", "Rock", "Soul", "Additive", "Analog", "Factory", "Mod Wheel", "Physical Model", "Sine", "Velocity Mod", "Version 2.5"],
   "name": "CR Xylophone MK",
   "types": [
     ["Percussion"],

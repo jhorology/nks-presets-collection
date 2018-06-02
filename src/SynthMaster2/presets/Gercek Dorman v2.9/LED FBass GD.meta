@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "Dance", "DnB", "DubStep", "Factory", "Layered", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "LED FBass GD",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "c3a2b6bc-7cf4-4603-9e05-0ab16f6db25f",
+  "vendor": "KV331 Audio"
+}

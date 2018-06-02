@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Additive", "Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.9"],
+  "name": "BAS Pulmonary Impact II AD",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "3da9bafa-8142-4d2b-ab58-fac2f1a21e43",
+  "vendor": "KV331 Audio"
+}

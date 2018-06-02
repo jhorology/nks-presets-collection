@@ -1,0 +1,13 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "Additive", "Factory", "Layered", "Legato", "Mod Wheel", "Monophonic", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "SYN Mushrooms AD",
+  "types": [
+    ["Synth"]
+  ],
+  "uuid": "72d5949c-a153-46c9-9fad-90ab0494a06e",
+  "vendor": "KV331 Audio"
+}

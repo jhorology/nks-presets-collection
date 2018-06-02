@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Distortion:Drive\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc2:Volume\r\n(+) Layer1:Osc1:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Trance", "Aftertouch", "Factory", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.9"],
+  "name": "KEY PianoSX GD",
+  "types": [
+    ["Keys"],
+    ["Piano"]
+  ],
+  "uuid": "78eb3b76-4008-4c83-bfc8-48dcc41e4e9c",
+  "vendor": "KV331 Audio"
+}

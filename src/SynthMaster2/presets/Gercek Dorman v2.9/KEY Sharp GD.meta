@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Saw", "SuperSaw", "Unison", "Version 2.9", "Wavescanning"],
+  "name": "KEY Sharp GD",
+  "types": [
+    ["Keys"]
+  ],
+  "uuid": "1fbd3636-1378-43a3-88c9-b9f2212d64bb",
+  "vendor": "KV331 Audio"
+}

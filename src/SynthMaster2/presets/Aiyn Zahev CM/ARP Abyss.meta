@@ -2,7 +2,7 @@
   "author": "Aiyn Zahev",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Additive", "Digital", "Factory", "Mod Wheel", "Phase Mod", "Pitch Wheel", "SynthMasterCM", "Velocity Mod", "Version 2.5", "Wavetable"],
+  "modes": ["Ambient", "Chillout", "Additive", "Digital", "Factory", "Mod Wheel", "Pitch Wheel", "Phase Mod", "SynthMasterCM", "Wavetable", "Velocity Mod", "Version 2.5"],
   "name": "ARP Abyss",
   "types": [
     ["Arpeggiated"],

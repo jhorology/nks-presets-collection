@@ -2,7 +2,7 @@
   "author": "Teoman Pasinlioglu",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Pop", "Analog", "Mod Wheel", "Version 2.5", "Vector", "Saw", "Sine"],
+  "modes": ["Pop", "Analog", "Mod Wheel", "Saw", "Sine", "Vector", "Version 2.5"],
   "name": "KY VS Bells TP",
   "types": [
     ["Keys"]

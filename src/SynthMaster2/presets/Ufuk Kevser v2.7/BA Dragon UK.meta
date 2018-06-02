@@ -2,7 +2,7 @@
   "author": "Ufuk Kevser",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Dance", "Disco", "DnB", "DubStep", "Electro", "Glitch", "Handsup", "Hardstyle", "Hip House", "HipHop", "House", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Unison", "Version 2.7"],
+  "modes": ["Disco", "Dance", "DnB", "DubStep", "Electro", "Glitch", "Handsup", "Hardstyle", "HipHop", "Hip House", "House", "Newschool Electro", "New Beat", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Monophonic", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Version 2.7", "Unison"],
   "name": "BA Dragon UK",
   "types": [
     ["Bass"]

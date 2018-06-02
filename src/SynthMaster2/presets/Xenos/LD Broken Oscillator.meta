@@ -2,7 +2,7 @@
   "author": "Xenos Soundworks",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Breakbeat", "DubStep", "Electro", "Electronica", "Hardstyle", "Pop", "Trance", "Digital", "Legato", "Mod Wheel", "Noisy", "Pulse", "Velocity Mod", "Version 2.5", "Factory", "Unison", "Monophonic"],
+  "modes": ["Breakbeat", "DubStep", "Electro", "Electronica", "Hardstyle", "Pop", "Trance", "Digital", "Factory", "Legato", "Mod Wheel", "Monophonic", "Noisy", "Pulse", "Velocity Mod", "Version 2.5", "Unison"],
   "name": "LD Broken Oscillator",
   "types": [
     ["Lead"]

@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\n\nChannel Aftertouch modulates:\n(+) Layer1:Filter1:Resonance\n(+) Layer1:Filter2:Resonance\n\nVelocity  modulates:\n\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Aftertouch", "Factory", "Mod Wheel", "Phase Mod", "Ring Mod", "Saw", "SuperSaw", "Wavescanning", "Velocity Mod", "Version 2.9"],
+  "name": "FX HawaianHorror GD",
+  "types": [
+    ["FX"]
+  ],
+  "uuid": "14e364ac-4ca7-426f-bea8-b9290bff0691",
+  "vendor": "KV331 Audio"
+}

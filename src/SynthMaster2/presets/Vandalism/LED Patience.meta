@@ -1,0 +1,15 @@
+{
+  "author": "Nori Ubukata",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ethnic", "Folk", "Jazz", "Pop", "Rock", "Trance", "Digital", "Factory", "Metallic", "Phase Mod", "Sine", "Velocity Mod", "Version 2.7"],
+  "name": "LED Patience",
+  "types": [
+    ["Keys"],
+    ["Percussion"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "075c943a-fd43-472e-9267-87bc521f3522",
+  "vendor": "KV331 Audio"
+}

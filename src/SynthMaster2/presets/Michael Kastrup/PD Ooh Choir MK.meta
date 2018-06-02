@@ -2,7 +2,7 @@
   "author": "Michael Kastrup",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "Version 2.5", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Dance", "Disco", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Hip House", "HipHop", "House", "Italo", "Jazz", "Latin", "Lounge", "Pop", "Reggae", "Rock", "Soul", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Saw", "Sine", "Velocity Mod", "Version 2.5"],
   "name": "PD Ooh Choir MK",
   "types": [
     ["Pad"],

@@ -2,7 +2,7 @@
   "author": "Ufuk Kevser",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Easy Listening", "Electro", "Electronica", "Ethnic", "Folk", "Glitch", "Minimal", "Oldschool Electro", "Analog", "Factory", "Gated", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Unison", "Version 2.7", "Wavescanning"],
+  "modes": ["Ambient", "Chillout", "Easy Listening", "Ethnic", "Electro", "Electronica", "Glitch", "Folk", "Minimal", "Oldschool Electro", "Analog", "Factory", "Gated", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Wavescanning", "Version 2.7", "Unison"],
   "name": "ARP Hyper UK",
   "types": [
     ["Arpeggiated"],

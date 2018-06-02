@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:ADSR2:Attack Slope\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Filter2:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Osc2:Volume\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Osc1:Volume\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "STR Flap GD",
+  "types": [
+    ["Strings"]
+  ],
+  "uuid": "8960ba77-17c2-48dd-9b45-cbad73609128",
+  "vendor": "KV331 Audio"
+}

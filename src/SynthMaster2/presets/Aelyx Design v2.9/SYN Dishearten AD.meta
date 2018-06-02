@@ -1,0 +1,14 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Filter1:Continuous Slope\r\n\r\nVelocity  modulates:\r\n(x) Layer1:ADSR1:Envelope Amount\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Pulse", "Saw", "SuperSaw", "Unison", "Velocity Mod", "Version 2.8", "Version 2.9", "Wavescanning"],
+  "name": "SYN Dishearten AD",
+  "types": [
+    ["Lead"],
+    ["Synth"]
+  ],
+  "uuid": "d3308663-0617-41a2-8070-eff0850f03c7",
+  "vendor": "KV331 Audio"
+}

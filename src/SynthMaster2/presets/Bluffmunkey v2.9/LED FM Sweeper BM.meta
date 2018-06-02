@@ -1,0 +1,14 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Echo:Effect Amount\r\n(+) Reverb:Effect Amount\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Additive", "Analog", "Factory", "Frequency Mod", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Version 2.9"],
+  "name": "LED FM Sweeper BM",
+  "types": [
+    ["Lead"],
+    ["Pluck"]
+  ],
+  "uuid": "20883f21-eb25-4ad5-a644-60ffad8da949",
+  "vendor": "KV331 Audio"
+}

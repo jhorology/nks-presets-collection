@@ -1,0 +1,14 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer2:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer2:Filter1:Resonance\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer2:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Additive", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9", "Wavescanning"],
+  "name": "SYN Mellow Tension II AD",
+  "types": [
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "48d69933-9a30-4125-aae9-e650656613d6",
+  "vendor": "KV331 Audio"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Osc2:Wave Index\r\n(+) Layer1:Osc1:Wave Index\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer2:Filter2:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer2:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Version 2.9"],
+  "name": "SEQ HiTuneBass GD",
+  "types": [
+    ["Bass"],
+    ["Sequence"]
+  ],
+  "uuid": "4ed71c31-84fd-4be1-a5ac-b4c688ea30e9",
+  "vendor": "KV331 Audio"
+}

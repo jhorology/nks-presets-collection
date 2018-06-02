@@ -1,0 +1,14 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(x) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Additive", "Analog", "Factory", "Mod Wheel", "Saw", "SuperSaw", "Unison", "Velocity Mod", "Version 2.9"],
+  "name": "SEQ When The Sun Arrives AD",
+  "types": [
+    ["Lead"],
+    ["Sequence"]
+  ],
+  "uuid": "2e3722af-998d-45d2-917c-71ca938fff6e",
+  "vendor": "KV331 Audio"
+}

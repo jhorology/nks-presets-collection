@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter2:Cutoff\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Reverb:Effect Amount\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Ambient", "DnB", "DubStep", "Easy Listening", "Electro", "Electronica", "Lounge", "Minimal", "Techno", "Digital", "Factory", "Metallic", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "PAD Table Pad 3 BM",
+  "types": [
+    ["Pad"]
+  ],
+  "uuid": "ef9c383e-f662-4900-92ec-92b44c73d1c4",
+  "vendor": "KV331 Audio"
+}

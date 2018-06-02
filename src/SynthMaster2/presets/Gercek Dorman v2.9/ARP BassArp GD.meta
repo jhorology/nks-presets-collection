@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\n(+) Layer1:Phaser:Effect Mix\n\nChannel Aftertouch modulates:\n(+) Layer1:Osc2:Wave Index\n(+) Echo:Effect Amount\n(+) Layer1:Osc2:Wave 1: Phase\n\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Aftertouch", "Factory", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "SuperSaw", "Sine", "Wavescanning", "Version 2.9"],
+  "name": "ARP BassArp GD",
+  "types": [
+    ["Arpeggiated"]
+  ],
+  "uuid": "fdff8154-07df-471c-a7fe-4fcfcdec8d7c",
+  "vendor": "KV331 Audio"
+}

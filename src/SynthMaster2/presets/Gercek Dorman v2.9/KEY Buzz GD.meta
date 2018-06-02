@@ -1,0 +1,15 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Filter2:Cutoff\r\n(+) Layer1:Osc1:Detune Spread\r\n(+) Layer1:Osc2:Detune Spread\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["DnB", "DubStep", "Factory", "Mod Wheel", "Ring Mod", "Saw", "SuperSaw", "Wavescanning", "Version 2.9"],
+  "name": "KEY Buzz GD",
+  "types": [
+    ["Keys"],
+    ["Organ"],
+    ["Strings"]
+  ],
+  "uuid": "c97b7e12-380e-4c54-a180-c89ce4c6d21a",
+  "vendor": "KV331 Audio"
+}

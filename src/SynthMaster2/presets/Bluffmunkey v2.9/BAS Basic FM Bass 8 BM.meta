@@ -1,0 +1,13 @@
+{
+  "author": "Bluffmunkey",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n(+) Layer1:Filter1:Resonance\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Dance", "Electro", "Electronica", "House", "Newschool Electro", "Oldschool Electro", "Techno", "Analog", "Factory", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.9"],
+  "name": "BAS Basic FM Bass 8 BM",
+  "types": [
+    ["Bass"]
+  ],
+  "uuid": "b7f23870-1868-4d3d-b930-c7c55f938f5f",
+  "vendor": "KV331 Audio"
+}

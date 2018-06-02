@@ -1,0 +1,13 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Ambient", "Dance", "DnB", "DubStep", "Aftertouch", "Factory", "Frequency Mod", "Layered", "Mod Wheel", "Phase Mod", "Saw", "Sine", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "LED BirdGarden GD",
+  "types": [
+    ["FX"],
+    ["Lead"]
+  ],
+  "uuid": "7ff28187-7792-4550-97ef-692e1991d8e4",
+  "vendor": "KV331 Audio"
+}

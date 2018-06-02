@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "a fat digital electro/dubstep bass.\r\n\r\nmodwheel: changes spectrum of the whole wave.\r\npitchwheel (up): adds samplereduction.\r\naftertouch: opens filtercuttoff for wobbling effect movement.\r\nvelocity: controls pitch/filter env ammount.",
   "deviceType": "INST",
-  "modes": ["Acid", "Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Hi Nrg", "House", "Italo", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Digital", "Distorted", "Factory", "Legato", "Mod Wheel", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Wavescanning", "Monophonic"],
+  "modes": ["Acid", "Ambient", "Breakbeat", "Chillout", "Dance", "DnB", "DubStep", "Electro", "Electronica", "Funk", "Hi Nrg", "House", "Italo", "Minimal", "New Beat", "Newschool Electro", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Digital", "Distorted", "Factory", "Legato", "Mod Wheel", "Monophonic", "Pitch Wheel", "Velocity Mod", "Version 2.5", "Wavescanning"],
   "name": "BA Supermorpher BT",
   "types": [
     ["Bass"]

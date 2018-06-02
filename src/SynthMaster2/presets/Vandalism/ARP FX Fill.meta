@@ -1,0 +1,14 @@
+{
+  "author": "Vandalism",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "deviceType": "INST",
+  "modes": ["Electro", "Electronica", "House", "AudioFX", "Mod Wheel", "Phase Mod", "Saw", "SuperSaw", "Sine", "Velocity Mod", "Version 2.8"],
+  "name": "ARP FX Fill",
+  "types": [
+    ["Arpeggiated"],
+    ["FX"],
+    ["Sequence"]
+  ],
+  "uuid": "00f305d0-0115-48f1-aff0-e1716eb5c14d",
+  "vendor": "KV331 Audio"
+}

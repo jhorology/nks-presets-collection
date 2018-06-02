@@ -1,0 +1,15 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nVelocity  modulates:\r\n(+) Layer1:Filter1:Resonance\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Factory", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Velocity Mod", "Version 2.9"],
+  "name": "SYN Silent Machinery AD",
+  "types": [
+    ["Keys"],
+    ["Pluck"],
+    ["Synth"]
+  ],
+  "uuid": "fab2a613-eb27-412d-9ced-1ecf678b1daa",
+  "vendor": "KV331 Audio"
+}

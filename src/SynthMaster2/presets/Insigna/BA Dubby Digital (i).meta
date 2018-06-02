@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "Use the EZ controls! \r\n\r\n(!)  The LFO in the EZ parameters is \r\neffective when ModWheel is turned on.\r\n\r\nMW: Wobble rate\r\n\r\nAT: Vowel (Bit Crush)\r\n\r\nUmit 'Insigna' Uy / Istanbul. \r\n\r\n",
   "deviceType": "INST",
-  "modes": ["Acid", "DubStep", "Electro", "Handsup", "Hardstyle", "Oldschool Electro", "Techno", "Trance", "Distorted", "Factory", "Legato", "LoFi", "Pulse", "Resonant", "Version 2.5", "Mod Wheel", "Aftertouch", "Velocity Mod", "Unison", "Monophonic"],
+  "modes": ["Acid", "DubStep", "Electro", "Handsup", "Hardstyle", "Oldschool Electro", "Techno", "Trance", "Aftertouch", "Distorted", "Factory", "Legato", "LoFi", "Mod Wheel", "Monophonic", "Pulse", "Resonant", "Velocity Mod", "Version 2.5", "Unison"],
   "name": "BA Dubby Digital (i)",
   "types": [
     ["Bass"]

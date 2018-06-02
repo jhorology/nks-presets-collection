@@ -1,9 +1,9 @@
 {
-  "author": "BIGTONE@BIGTONE",
+  "author": "BigTone Studios@BIGTONE",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "a pulsewidth modulated, noise pitch modulated chord groover.\r\n\r\nmodwheel: closes cutoff filter 1.\r\npitchwheel: decreses osc 1 tone.\r\naftertouch: increases steep highpass.",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Hi Nrg", "House", "Italo", "New Beat", "Oldschool Electro", "Trance", "Aftertouch", "Analog", "Mod Wheel", "Noisy", "PWM", "Pitch Wheel", "Pulse", "Resonant", "Saw", "SuperSaw", "Version 2.5", "Factory"],
+  "modes": ["Ambient", "Chillout", "Dance", "Electro", "Electronica", "Hi Nrg", "House", "Italo", "New Beat", "Oldschool Electro", "Trance", "Aftertouch", "Analog", "Factory", "Mod Wheel", "Noisy", "PWM", "Pitch Wheel", "Pulse", "Resonant", "Saw", "SuperSaw", "Version 2.5"],
   "name": "SQ Sandy Groovechord BT",
   "types": [
     ["Keys"],

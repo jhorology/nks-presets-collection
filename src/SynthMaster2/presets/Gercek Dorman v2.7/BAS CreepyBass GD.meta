@@ -2,7 +2,7 @@
   "author": "Gercek Dorman",
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "deviceType": "INST",
-  "modes": ["Factory", "Layered", "Saw", "SuperSaw", "Version 2.5", "Wavescanning"],
+  "modes": ["Factory", "Layered", "Saw", "SuperSaw", "Wavescanning", "Version 2.5"],
   "name": "BAS CreepyBass GD",
   "types": [
     ["Bass"]

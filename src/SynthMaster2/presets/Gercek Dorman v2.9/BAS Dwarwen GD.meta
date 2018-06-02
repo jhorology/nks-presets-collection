@@ -1,0 +1,14 @@
+{
+  "author": "Gercek Dorman",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Layer1:VoiceLFO1:Frequency\r\n(+) Layer1:Filter2:Cutoff\r\n(+) Layer1:Osc1:Detune Spread\r\n(+) Layer1:Filter2:Resonance\r\n(+) Layer1:Filter1:Cutoff\r\n\r\nChannel Aftertouch modulates:\r\n(+) Layer1:Osc1:Wave Index\r\n(+) Layer1:Osc2:Wave Index\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Breakbeat", "DnB", "DubStep", "Aftertouch", "Factory", "Legato", "Mod Wheel", "Monophonic", "Phase Mod", "Saw", "Sine", "SuperSaw", "Version 2.9", "Wavescanning"],
+  "name": "BAS Dwarwen GD",
+  "types": [
+    ["Bass"],
+    ["Lead"]
+  ],
+  "uuid": "403161f7-290a-4a99-9a4d-3f8f7dfa46ea",
+  "vendor": "KV331 Audio"
+}

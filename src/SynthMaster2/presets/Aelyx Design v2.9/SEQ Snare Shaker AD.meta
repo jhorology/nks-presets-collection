@@ -1,0 +1,14 @@
+{
+  "author": "Michael Chamerski@Aelyx Design",
+  "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
+  "comment": "Mod Wheel modulates:\r\n(+) Reverb:Effect Amount\r\n(+) Reverb:Reverb Time\r\n(+) Layer2:Gain\r\n\r\n",
+  "deviceType": "INST",
+  "modes": ["Layered", "Mod Wheel", "Saw", "Sine", "SuperSaw", "Version 2.8", "Version 2.9"],
+  "name": "SEQ Snare Shaker AD",
+  "types": [
+    ["Percussion"],
+    ["Sequence"]
+  ],
+  "uuid": "bb3c84ad-c4c7-414d-a10f-e8dbdf353ee9",
+  "vendor": "KV331 Audio"
+}

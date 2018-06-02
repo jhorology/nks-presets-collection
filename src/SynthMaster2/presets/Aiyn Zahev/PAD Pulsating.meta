@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "A pulsaing pad. Beautiful Atmospheric \r\nsound\r\n\r\nMod (+) Opens filter\r\n\r\nVel + Gain & Filter cut-off\r\n\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "DnB", "Electro", "Electronica", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Trance", "Analog", "Digital", "Factory", "Layered", "Mod Wheel", "Pitch Wheel", "Saw", "Velocity Mod", "Version 2.8", "Unison"],
+  "modes": ["Ambient", "Chillout", "DnB", "Electro", "Electronica", "House", "Minimal", "Newschool Electro", "Oldschool Electro", "Trance", "Analog", "Digital", "Factory", "Layered", "Mod Wheel", "Pitch Wheel", "Saw", "Unison", "Velocity Mod", "Version 2.8"],
   "name": "PAD Pulsating",
   "types": [
     ["Pad"],

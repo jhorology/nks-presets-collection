@@ -3,7 +3,7 @@
   "bankchain": ["SynthMaster2", "SynthMaster2 Factory", ""],
   "comment": "A resonant filter Arp sound. \r\nThe signal is compressed, \r\nthe side chain signal is \r\nprovided by layer 2.\r\n\r\nMod (+) reduces side-chain signal \r\nand opens filter\r\n\r\nVel + Gain & Filter cut-off\r\n",
   "deviceType": "INST",
-  "modes": ["Ambient", "Chillout", "Country", "Dance", "Disco", "Electro", "Electronica", "Glitch", "HipHop", "House", "Minimal", "Pop", "Techno", "Trance", "Analog", "Digital", "Distorted", "Factory", "Frequency Mod", "LoFi", "Mod Wheel", "Pitch Wheel", "Pulse", "Resonant", "Ring Mod", "Version 2.0", "Velocity Mod"],
+  "modes": ["Ambient", "Chillout", "Country", "Disco", "Dance", "Electro", "Electronica", "Glitch", "HipHop", "House", "Minimal", "Pop", "Techno", "Trance", "Analog", "Digital", "Distorted", "Factory", "Frequency Mod", "LoFi", "Mod Wheel", "Pitch Wheel", "Pulse", "Resonant", "Ring Mod", "Velocity Mod"],
   "name": "ARP Resonant waves I",
   "types": [
     ["Arpeggiated"],
