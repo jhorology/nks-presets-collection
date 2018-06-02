@@ -2,7 +2,7 @@
 # appc (ableton plugin parameter configuration) generator
 #
 #  note
-#  - it seems parameters are sorted by value (x-slot * 4 + y-slot) and couldn't define empty slot.
+#  - it seems parameters are sorted by value (x-slot * 4 + y-slot) and dosen't support absolute slot positioning.
 #  - parameter name property does not affect at all.
 #  - group name property and grouping does not affect at all.
 # --------------------------------
@@ -18,16 +18,17 @@ module.exports =
   #
   #  nica object to appc object
   #  - nica NICA object
-  #  - pluginId 4 character String or int32
-  #  - pluginName String
+  #  - pluginId   required 4 characters String or int32
+  #  - pluginName required String
+  #  - isAudioFX  optional default = off
   # --------------------------------
-  nica2appc: (nica, pluginId, pluginName) ->
+  nica2appc: (nica, pluginId, pluginName, isAudioFX) ->
     if _.isString pluginId
       pluginId = (Buffer.from pluginId).readUInt32BE(0)
     appc =
       id: 'application/vnd.ableton.plugin-configuration'
       version: '1.0'
-      "device-id": "device:vst:instr:#{pluginId}?n=#{encodeURIComponent(pluginName)}"
+      "device-id": "device:vst:#{if isAudioFX then 'audiofx' else 'instr'}:#{pluginId}?n=#{encodeURIComponent(pluginName)}"
       groups: []
     group = (name, params) ->
       name: name || "Undefined"
@@ -49,7 +50,7 @@ module.exports =
           appc.groups.push group section, params if params.length
           params = []
           section = param.section
-        if param.id
+        if param.id?
           param.slot = pageIndex * 8 + slotIndex
           params.push param
         slotIndex++
@@ -59,11 +60,12 @@ module.exports =
 
   #
   #  gulp plugin for .nksf to .appc
-  #  - pluginName optional String
+  #  - pluginName optional String default = bankchanin[0]
+  #  - isAudioFX  optional boolean default = off
   # --------------------------------
-  gulpNksf2Appc: (pluginName) ->
+  gulpNksf2Appc: (pluginName, isAudioFX) ->
     chunks = ['NICA', 'PLID']
-    unless pluginName
+    unless pluginName and _.isBoolean(isAudioFX)
       chunks.push 'NISI'
     _this = @
     tap (file) ->
@@ -71,25 +73,28 @@ module.exports =
       (riffReader file.contents or file.path, 'NIKS').readSync (id, chunk) ->
         switch id
           when 'NISI'
-            pluginName = (msgpack.decode chunk.slice 4).bankchain[0]
+            nisi = msgpack.decode chunk.slice 4
+            pluginName ?= nisi.bankchain[0]
+            isAudioFX ?= nisi.deviceType is 'FX'
           when 'NICA'
             nica = msgpack.decode chunk.slice 4
           when 'PLID'
             pluginId = (msgpack.decode chunk.slice 4)['VST.magic']
       , chunks
-      file.contents = Buffer.from (util.beautify _this.nica2appc nica, pluginId, pluginName), 'utf8'
+      file.contents = Buffer.from (util.beautify _this.nica2appc nica, pluginId, pluginName, isAudioFX), 'utf8'
 
   #
   #  gulp plugin for NICA json file to .appc
-  #  - pluginId required 4 characters String or int32
+  #  - pluginId   required 4 characters String or int32
   #  - pluginName required String
+  #  - isAudioFX  optional boolean default = off
   # --------------------------------
-  gulpNica2Appc: (pluginId, pluginName) ->
+  gulpNica2Appc: (pluginId, pluginName, isAudioFX) ->
     _this = @
     tap (file) ->
       nica = if file.contents
         JSON.parse file.contents.toString 'utf8'
       else
         util.readJson file.path
-      appc = _this.nica2appc nica, pluginId, pluginName
+      appc = _this.nica2appc nica, pluginId, pluginName, isAudioFX
       file.contents = Buffer.from (util.beautify appc), 'utf8'
