@@ -32,9 +32,10 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Neutron Exciter](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Neutron Transient Shaper](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Ohmicide](https://www.ohmforce.com/ViewProduct.do?p=Ohmicide)|:heavy_check_mark:| |:heavy_check_mark:| | | | | |
-|[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[SerumFX](https://xferrecords.com/products/serum)| | | | | | | | |
+|[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
+|[SparkVerb](https://www.uvi.net/software/sparkverb.html)| 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Spire 1.0.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:| - | - |
 |[Spire 1.1.x](http://www.reveal-sound.com/)|:heavy_check_mark:|:heavy_check_mark:2|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
 |[Strike](http://www.airmusictech.com/product/strike-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|

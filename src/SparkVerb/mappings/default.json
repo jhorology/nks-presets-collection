@@ -1,0 +1,126 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 0,
+      "name": "Room Size",
+      "section": "Reverb",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 20,
+      "name": "Pre Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 7,
+      "name": "Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 4,
+      "name": "Freeze",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 8,
+      "name": "Density",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 6,
+      "name": "Mix",
+      "section": "Output",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 19,
+      "name": "Rolloff",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 12,
+      "name": "Width",
+      "vflag": false
+    }],
+    [{
+      "autoname": false,
+      "id": 1,
+      "name": "Time",
+      "section": "Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 16,
+      "name": "Lo Cut",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 2,
+      "name": "Lo Decay",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 9,
+      "name": "Lo Xover",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 17,
+      "name": "Hi Cut",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Hi Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 10,
+      "name": "Hi Xover",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 14,
+      "name": "Mode",
+      "section": "Mod",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 13,
+      "name": "Depth",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 15,
+      "name": "Rate",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 5,
+      "name": "On/Off",
+      "section": "Diffusion",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 18,
+      "name": "Start",
+      "vflag": false
+    }, {
+      "autoname": false,
+      "id": 11,
+      "name": "Amount",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }]
+  ]
+}
