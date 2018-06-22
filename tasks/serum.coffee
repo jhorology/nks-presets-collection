@@ -31,7 +31,8 @@ $ = Object.assign {}, (require '../config'),
   
   #  local settings
   # -------------------------
-
+  # serum factory prestes folder
+  serumPresets: '/Library/Audio/Presets/Xfer Records/Serum Presets/Presets'
   # Ableton Live 10.0.1
   abletonRackTemplate: 'src/Serum/templates/Serum.adg.tpl'
   # Bitwig Studio 1.3.14 RC1 preset file
@@ -62,12 +63,13 @@ commonTasks $
 gulp.task "#{$.prefix}-generate-meta", ->
   # open database
   db = new sqlite3.Database $.db, sqlite3.OPEN_READONLY
-  gulp.src ["src/#{$.dir}/presets/**/*.pchk"]
+  gulp.src ["#{$.serumPresets}/**/*.fxp"]
     .pipe data (file, done) ->
+      console.info path.dirname file.relative
       # SQL bind parameters
       params =
-        $name: path.basename file.path, '.pchk'
-        $folder: path.relative "src/#{$.dir}/presets", path.dirname file.path
+        $name: path.basename file.path, '.fxp'
+        $folder: path.dirname file.relative
       # execute query
       db.get $.query, params, (err, row) ->
         done err,
@@ -92,14 +94,18 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # build
 # --------------------------------
 
-# build presets file to dist folder
+# build .nksf files to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
   builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
-  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
-    .pipe data (pchk) ->
+  gulp.src ["#{$.serumPresets}/**/*.fxp"], read: on
+    .pipe data (file) ->
+      # fxp header 60 byte - PCHK header 4 byte
+      file.contents = file.contents.slice 56
+      # write PCHK header
+      file.contents.writeUInt32LE 1, 0
       nksf:
-        pchk: pchk
-        nisi: "#{pchk.path[..-5]}meta"
+        pchk: file
+        nisi: "src/#{$.dir}/presets/#{file.relative[..-4]}meta"
     .pipe builder.gulp()
     .pipe rename extname: '.nksf'
     .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"

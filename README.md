@@ -27,7 +27,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
 |[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Ohmicide](https://www.ohmforce.com/ViewProduct.do?p=Ohmicide)|:heavy_check_mark:| |:heavy_check_mark:| | | | | |
-|[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Serum](https://xferrecords.com/products/serum)| 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[SerumFX](https://xferrecords.com/products/serum)| | | | | | | | |
 |[Spark](https://www.arturia.com/spark2/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:| - | - |
 |[SparkVerb](https://www.uvi.net/software/sparkverb.html)| 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
