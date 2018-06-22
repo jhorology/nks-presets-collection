@@ -26,11 +26,6 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[LuSH-101](http://d16.pl/lush-101) 5|:heavy_check_mark:|:heavy_check_mark:4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[Mini V2](https://www.arturia.com/products/analog-classics/mini-v/overview)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
 |[MiniGrand](http://www.airmusictech.com/product/mini-grand)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Neutron](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
-|[Neutron Compressor](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
-|[Neutron Equalizer](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
-|[Neutron Exciter](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
-|[Neutron Transient Shaper](https://www.izotope.com/en/products/mix/neutron.html)| | | | | | | | |
 |[Ohmicide](https://www.ohmforce.com/ViewProduct.do?p=Ohmicide)|:heavy_check_mark:| |:heavy_check_mark:| | | | | |
 |[Serum](https://xferrecords.com/products/serum)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[SerumFX](https://xferrecords.com/products/serum)| | | | | | | | |
