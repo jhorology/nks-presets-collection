@@ -41,46 +41,46 @@ commonTasks $
 # --------------------------------
 
           
-#
-# build
-# --------------------------------
+# #
+# # build
+# # --------------------------------
 
-# build presets file to dist folder
-gulp.task "#{$.prefix}-dist-presets", ->
-  builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
-  gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
-    .pipe data (pchk) ->
-      nksf:
-        pchk: pchk
-        nisi: "#{pchk.path[..-5]}meta"
-    .pipe builder.gulp()
-    .pipe rename extname: '.nksf'
-    .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
+# # build presets file to dist folder
+# gulp.task "#{$.prefix}-dist-presets", ->
+#   builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
+#   gulp.src ["src/#{$.dir}/presets/**/*.pchk"], read: on
+#     .pipe data (pchk) ->
+#       nksf:
+#         pchk: pchk
+#         nisi: "#{pchk.path[..-5]}meta"
+#     .pipe builder.gulp()
+#     .pipe rename extname: '.nksf'
+#     .pipe gulp.dest "dist/#{$.dir}/User Content/#{$.dir}"
 
-# export
-# --------------------------------
+# # export
+# # --------------------------------
 
-# export from .nksf to .adg ableton rack
-gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
-  exporter = adgExporter $.abletonRackTemplate
-  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
-    .pipe exporter.gulpParseNksf()
-    .pipe exporter.gulpTemplate()
-    .pipe gzip append: off       # append '.gz' extension
-    .pipe rename extname: '.adg'
-    .pipe tap (file) ->
-      # edit file path
-      dirname = path.dirname file.path
-      file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
-    .pipe gulp.dest "#{$.Ableton.effectRacks}/#{$.dir}"
+# # export from .nksf to .adg ableton rack
+# gulp.task "#{$.prefix}-export-adg", ["#{$.prefix}-dist-presets"], ->
+#   exporter = adgExporter $.abletonRackTemplate
+#   gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+#     .pipe exporter.gulpParseNksf()
+#     .pipe exporter.gulpTemplate()
+#     .pipe gzip append: off       # append '.gz' extension
+#     .pipe rename extname: '.adg'
+#     .pipe tap (file) ->
+#       # edit file path
+#       dirname = path.dirname file.path
+#       file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+#     .pipe gulp.dest "#{$.Ableton.effectRacks}/#{$.dir}"
 
-# export from .nksf to .bwpreset bitwig studio preset
-gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
-  exporter = bwExporter $.bwpresetTemplate
-  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
-    .pipe exporter.gulpParseNksf()
-    .pipe exporter.gulpReadTemplate()
-    .pipe exporter.gulpAppendPluginState()
-    .pipe exporter.gulpRewriteMetadata()
-    .pipe rename extname: '.bwpreset'
-    .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
+# # export from .nksf to .bwpreset bitwig studio preset
+# gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
+#   exporter = bwExporter $.bwpresetTemplate
+#   gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+#     .pipe exporter.gulpParseNksf()
+#     .pipe exporter.gulpReadTemplate()
+#     .pipe exporter.gulpAppendPluginState()
+#     .pipe exporter.gulpRewriteMetadata()
+#     .pipe rename extname: '.bwpreset'
+#     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
