@@ -138,7 +138,7 @@ _build_zipped_fxb = (pluginState, fxID, uid, done) ->
   fxb.write 'CcnK', offset
   offset += 4
   # byteSize
-  fxb.writeUInt32BE (154 + pluginState.length), offset
+  fxb.writeUInt32BE (152 + pluginState.length), offset
   offset += 4
   # fxMagic
   fxb.write 'FBCh', offset
