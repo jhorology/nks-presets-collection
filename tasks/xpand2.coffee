@@ -17,6 +17,7 @@ nksfBuilder = require '../lib/nksf-builder'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
 appcGenerator = require '../lib/appc-generator'
+fxpExporter  = require '../lib/fxp-exporter'
 
 # buld environment & misc settings
 #-------------------------------------------
@@ -32,12 +33,14 @@ $ = Object.assign {}, (require '../config'),
   #  local settings
   # -------------------------
 
+  # number of parameters, mrswaton -p Kyespcape --display-info
+  numParams: 148
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/Xpand!2/templates/Xpand!2.adg.tpl'
   # Bitwig Studio 1.3.14 RC1 preset file
   bwpresetTemplate: 'src/Xpand!2/templates/Xpand!2.bwpreset'
 
-# regist common gulp tasks
+# register common gulp tasks
 # --------------------------------
 commonTasks $
 
@@ -119,3 +122,10 @@ gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
     .pipe exporter.gulpRewriteMetadata()
     .pipe rename extname: '.bwpreset'
     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
+
+# export from .nksf to .fxp
+gulp.task "#{$.prefix}-export-fxp", ["#{$.prefix}-dist-presets"], ->
+  gulp.src ["dist/#{$.dir}/User Content/#{$.dir}/**/*.nksf"]
+    .pipe fxpExporter.gulpNksf2Fxp $.numParams
+    .pipe rename extname: '.fxp'
+    .pipe gulp.dest "#{$.fxpPresets}/#{$.dir}"

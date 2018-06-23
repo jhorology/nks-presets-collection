@@ -14,6 +14,7 @@ commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
 appcGenerator = require '../lib/appc-generator'
+fxpExporter = require '../lib/fxp-exporter'
 
 #
 # buld environment & misc settings
@@ -21,60 +22,63 @@ appcGenerator = require '../lib/appc-generator'
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   gadgets: [
-    {plugin: 'AbuDhabi',    dir: 'Abu Dhabi (Slicer)',      type: 'Drum'}
-    {plugin: 'Alexandria',  dir: 'Alexandria (Organ)',      type: 'Instrument'}
-    {plugin: 'Amsterdam',   dir: 'Amsterdam (SFX)',         type: 'Drum'}
-    {plugin: 'Berlin',      dir: 'Berlin (Sync)',           type: 'Instrument'}
-    {plugin: 'Bilbao',      dir: 'Bilbao (Sampler)',        type: 'Drum'}
-    {plugin: 'Brussels',    dir: 'Brussels (Lead)',         type: 'Instrument'}
-    {plugin: 'Chiangmai',   dir: 'Chiangmai (FM)',          type: 'Instrument'}
-    {plugin: 'Chicago',     dir: 'Chicago (Acid)',          type: 'Instrument'}
-    {plugin: 'Darwin',      dir: 'Darwin (M1)',             type: 'Instrument'}
-    {plugin: 'Dublin',      dir: 'Dublin (Semi-modular)',   type: 'Instrument'}
-    {plugin: 'Firenze',     dir: 'Firenze (Clav)',          type: 'Instrument'}
-    {plugin: 'Gladstone',   dir: 'Gladstone (Drum)',        type: 'Drum'}
-    {plugin: 'Glasgow',     dir: 'Glasgow (Keys)',          type: 'Instrument'}
-    {plugin: 'Helsinki',    dir: 'Helsinki (Pad)',          type: 'Instrument'}
-    {plugin: 'Kamata',      dir: 'Kamata (4-Bit)',          type: 'Instrument'}
-    {plugin: 'Kiev',        dir: 'Kiev (Vector)',           type: 'Instrument'}
-    {plugin: 'Kingston',    dir: 'Kingston (Arcade)',       type: 'Instrument'}
-    {plugin: 'Lexington',   dir: 'Lexington (Odyssey)',     type: 'Instrument'}
-    {plugin: 'Lisbon',      dir: 'Lisbon (Sc-Fi)',          type: 'Instrument'}
-    {plugin: 'London',      dir: 'London (Drum)',           type: 'Drum'}
-    {plugin: 'Madrid',      dir: 'Madrid (Bass)',           type: 'Instrument'}
-    {plugin: 'Marseille',   dir: 'Marseille (Keys)',        type: 'Instrument'}
-    {plugin: 'Miami',       dir: 'Miami (Wobble)',          type: 'Instrument'}
-    {plugin: 'Milpitas',    dir: 'Milpitas (Wavestation)',  type: 'Instrument'}
+    {plugin: 'AbuDhabi',    dir: 'Abu Dhabi (Slicer)',      type: 'Drum',       numParams: 151}
+    {plugin: 'Alexandria',  dir: 'Alexandria (Organ)',      type: 'Instrument', numParams: 12}
+    {plugin: 'Amsterdam',   dir: 'Amsterdam (SFX)',         type: 'Drum',       numParams: 32}
+    {plugin: 'Berlin',      dir: 'Berlin (Sync)',           type: 'Instrument', numParams: 30}
+    {plugin: 'Bilbao',      dir: 'Bilbao (Sampler)',        type: 'Drum',       numParams: 132}
+    {plugin: 'Brussels',    dir: 'Brussels (Lead)',         type: 'Instrument', numParams: 12}
+    {plugin: 'Chiangmai',   dir: 'Chiangmai (FM)',          type: 'Instrument', numParams: 31}
+    {plugin: 'Chicago',     dir: 'Chicago (Acid)',          type: 'Instrument', numParams: 22}
+    {plugin: 'Darwin',      dir: 'Darwin (M1)',             type: 'Instrument', numParams: 13}
+    {plugin: 'Dublin',      dir: 'Dublin (Semi-modular)',   type: 'Instrument', numParams: 38}
+    {plugin: 'Firenze',     dir: 'Firenze (Clav)',          type: 'Instrument', numParams: 14}
+    {plugin: 'Gladstone',   dir: 'Gladstone (Drum)',        type: 'Drum',       numParams: 62}
+    {plugin: 'Glasgow',     dir: 'Glasgow (Keys)',          type: 'Instrument', numParams: 14}
+    {plugin: 'Helsinki',    dir: 'Helsinki (Pad)',          type: 'Instrument', numParams: 19}
+    {plugin: 'Kamata',      dir: 'Kamata (4-Bit)',          type: 'Instrument', numParams: 65}
+    {plugin: 'Kiev',        dir: 'Kiev (Vector)',           type: 'Instrument', numParams: 31}
+    {plugin: 'Kingston',    dir: 'Kingston (Arcade)',       type: 'Instrument', numParams: 17}
+    {plugin: 'Lexington',   dir: 'Lexington (Odyssey)',     type: 'Instrument', numParams: 93}
+    {plugin: 'Lisbon',      dir: 'Lisbon (Sc-Fi)',          type: 'Instrument', numParams: 67}
+    {plugin: 'London',      dir: 'London (Drum)',           type: 'Drum',       numParams: 92}
+    {plugin: 'Madrid',      dir: 'Madrid (Bass)',           type: 'Instrument', numParams: 19}
+    {plugin: 'Marseille',   dir: 'Marseille (Keys)',        type: 'Instrument', numParams: 13}
+    {plugin: 'Miami',       dir: 'Miami (Wobble)',          type: 'Instrument', numParams: 18}
+    {plugin: 'Milpitas',    dir: 'Milpitas (Wavestation)',  type: 'Instrument', numParams: 8}
     # KORG failed packaging, half of montpellier's nksfs are size 0.
     # I will activate after update
-    # {plugin: 'Montpellier', dir: 'Montpellier (Mono-Poly)', type: 'Instrument'}
-    {plugin: 'Montreal',    dir: 'Montreal (E.Piano)',      type: 'Instrument'}
-    {plugin: 'Phoenix',     dir: 'Phoenix (Analog)',        type: 'Instrument'}
-    {plugin: 'Recife',      dir: 'Recife (Drum)',           type: 'Drum'}
+    # {plugin: 'Montpellier', dir: 'Montpellier (Mono-Poly)', type: 'Instrument', numParams: 69}
+    {plugin: 'Montreal',    dir: 'Montreal (E.Piano)',      type: 'Instrument', numParams: 17}
+    {plugin: 'Phoenix',     dir: 'Phoenix (Analog)',        type: 'Instrument', numParams: 38}
+    {plugin: 'Recife',      dir: 'Recife (Drum)',           type: 'Drum',       numParams: 196}
     # Rosairio doesn't have NKS Presets
-    # {plugin: 'Rosario',     dir: 'Rosario (G.Amp)',         type: 'Audio Effect'}
-    {plugin: 'Salzburg',    dir: 'Salzburg (Piano)',        type: 'Instrument'}
-    {plugin: 'Tokyo',       dir: 'Tokyo (E.Perc)',          type: 'Drum'}
-    {plugin: 'Vancouver',   dir: 'Vancouver (Sample)',      type: 'Instrument'}
-    {plugin: 'Wolfsburg',   dir: 'Wolfsburg (Digital)',     type: 'Instrument'}
+    # {plugin: 'Rosario',     dir: 'Rosario (G.Amp)',         type: 'Audio Effect', numParams: 18}
+    {plugin: 'Salzburg',    dir: 'Salzburg (Piano)',        type: 'Instrument', numParams: 13}
+    {plugin: 'Tokyo',       dir: 'Tokyo (E.Perc)',          type: 'Drum',       numParams: 34}
+    {plugin: 'Vancouver',   dir: 'Vancouver (Sample)',      type: 'Instrument', numParams: 32}
+    {plugin: 'Wolfsburg',   dir: 'Wolfsburg (Digital)',     type: 'Instrument', numParams: 52}
     # Zurich doesn't have NKS Presets
-    # {plugin: 'Zurich',      dir: 'Zurich (Recorder)',       type: 'Audio Effect'}
+    # {plugin: 'Zurich',      dir: 'Zurich (Recorder)',       type: 'Audio Effect', numParams: 5}
   ]
 
 adgTasks = []
 appcTasks = []
 bwpresetTasks = []
+fxpTasks = []
 
-# regist each gadget tasks
+# register each gadget tasks
 # --------------------------------
 $.gadgets.forEach (gadget) ->
   nksPresets = "/Library/Application Support/KORG/Gadget/Plug-Ins/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/Presets/**/*.nksf"
   adgTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-adg_"
   appcTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-generate-appc_"
   bwpresetTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-bwpreset_"
+  fxpTask = "#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-fxp_"
   adgTasks.push(adgTask)
   appcTasks.push(appcTask)
   bwpresetTasks.push(bwpresetTask)
+  fxpTasks.push(fxpTask)
   gulp.task adgTask, ->
     exporter = adgExporter "src/KORG Gadget/templates/#{gadget.dir}.adg.tpl"
     dest = switch gadget.type
@@ -121,6 +125,19 @@ $.gadgets.forEach (gadget) ->
       .pipe rename extname: '.bwpreset'
       .pipe gulp.dest dest
 
+  # export from .nksf to .fxp
+  gulp.task fxpTask, ->
+    dest = "#{$.fxpPresets}/KORG Gadget/#{gadget.dir}"
+    console.info dest
+    gulp.src [nksPresets]
+      .pipe fxpExporter.gulpNksf2Fxp(gadget.numParams)
+      .pipe tap (file) ->
+        # edit file path
+        dirname = path.dirname file.path
+        file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      .pipe rename extname: '.fxp'
+      .pipe gulp.dest dest
+
 # export
 # --------------------------------
 
@@ -132,3 +149,6 @@ gulp.task "#{$.prefix}-generate-appc", appcTasks
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", bwpresetTasks
+
+# export from .nksf to .fxp
+gulp.task "#{$.prefix}-export-fxp", fxpTasks

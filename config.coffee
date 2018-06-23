@@ -14,6 +14,8 @@ module.exports =
     stderr: true           # default = true, false means don't write stderr
     stdout: true           # default = true, false means don't write stdout
   
+  fxpPresets: '/Volumes/Media/Music/Presets/fxp'
+  
   # Native Instruments
   #-------------------------------------------
   NI:
@@ -28,9 +30,9 @@ module.exports =
     drumRacks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Instruments/Drum Rack"
     effectRacks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Audio Effects/Audio Effect Rack"
     defaults: "#{process.env.HOME}/Music/Ableton/User Library/Defaults/Plug-In Configurations/VSTs"
-
   #
   # Bitwig Studio
   #-------------------------------------------
   Bitwig:
     presets: "#{process.env.HOME}/Documents/Bitwig Studio/Library/Presets"
+
