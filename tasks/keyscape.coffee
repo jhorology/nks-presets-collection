@@ -15,6 +15,8 @@
 #    - Software 1.1.0v
 #    - Sundsources v1.0.2
 #    - Patches v1.2c
+# - 20180911
+#    - Patches v1.3c
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -72,14 +74,14 @@ $ = Object.assign {}, (require '../config'),
     SYNTHENG:
       # velocity curve for S61
       # ---------------------
-      VCname: 'NI Kontrol S61'
-      vcx: "3f000000"
-      vcy: "3f000000"
+      # VCname: 'NI Kontrol S61'
+      # vcx: "3f000000"
+      # vcy: "3f000000"
       # velocity curve for S88
       # ---------------------
-      # VCname: 'NI Kontrol S88'
-      # vcx: "3de38e39"
-      # vcy: "3d302c10"
+      VCname: 'NI Kontrol S88'
+      vcx: "3de38e39"
+      vcy: "3d302c10"
     
 # register common gulp tasks
 # --------------------------------
