@@ -80,7 +80,7 @@ module.exports = ($, nksReady) ->
   gulp.task "#{$.prefix}-generate-parameter-list", ->
     template = _.template '''
 module.exports = [<% _.forEach(params, function(p, i) { %>
-  {id: <%= p.idSpaces %><%= p.id %>, name: '<%= p.name %>'<%= p.nameSpaces %> section=''}<% }); %>
+  {id: <%= p.idSpaces %><%= p.id %>, name: '<%= p.name %>',<%= p.nameSpaces %> section: ''}<% }); %>
 ]
 '''
     gulp.src ["src/#{$.dir}/mrswatson-display-info.txt"], read: on
