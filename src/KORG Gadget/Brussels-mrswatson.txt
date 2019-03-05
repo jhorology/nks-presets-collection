@@ -1,37 +1,36 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
 - 00000000 000003 Plugin 'Brussels' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Brussels'
-- 00000000 000056 Information for VST2.x plugin 'Brussels'
-- 00000000 000056 Vendor: KORG
-- 00000000 000056 Version: 0
-- 00000000 000056 Unique ID: KG03
-- 00000000 000056 Plugin type: instrument, category 2
-- 00000000 000056 Version: 1
-- 00000000 000056 I/O: 0/2
-- 00000000 000056 InitialDelay: 0 frames
-- 00000000 000056 GUI Editor: yes
-- 00000000 000056 Parameters (12 total):
-- 00000000 000056   0: 'Repeat' (0.000000)
-- 00000000 000056   1: 'Pump' (0.692568)
-- 00000000 000056   2: 'Bottom' (0.000000)
-- 00000000 000056   3: 'Glide' (0.151944)
-- 00000000 000056   4: 'Diffuse' (0.858268)
-- 00000000 000056   5: 'Filter' (0.913386)
-- 00000000 000056   6: 'Twist' (0.500000)
-- 00000000 000056   7: 'Output Level' (0.803150)
-- 00000000 000056   8: 'Reverb Tone' (0.645669)
-- 00000000 000056   9: 'Reverb Level' (0.283465)
-- 00000000 000056   10: 'Pitch Bend' (0.500000)
-- 00000000 000056   11: 'Damper' (0.000000)
-- 00000000 000056 Programs (0 total):
-- 00000000 000056 Current program: 'Pumper'
-- 00000000 000056 Common canDo's:
-- 00000000 000056   sendVstEvents: Don't know
-- 00000000 000056   sendVstMidiEvent: Don't know
-- 00000000 000056   receiveVstEvents: Don't know
-- 00000000 000056   receiveVstMidiEvent: Don't know
-- 00000000 000056   receiveVstTimeInfo: Don't know
-- 00000000 000056   offline: Don't know
-- 00000000 000056   midiProgramNames: Don't know
-- 00000000 000056   bypass: Don't know
-E 00000000 000056 Output source could not be opened, exiting
+- 00000000 000003 Opening VST2.x plugin 'Brussels'
+- 00000000 000037 Information for VST2.x plugin 'Brussels'
+- 00000000 000037 Vendor: KORG
+- 00000000 000037 Version: 0
+- 00000000 000037 Unique ID: KG03
+- 00000000 000037 Plugin type: instrument, category 2
+- 00000000 000037 Version: 1
+- 00000000 000037 I/O: 0/2
+- 00000000 000037 InitialDelay: 0 frames
+- 00000000 000037 Parameters (12 total):
+- 00000000 000037   0: 'Repeat' (0.000000)
+- 00000000 000037   1: 'Pump' (0.692568)
+- 00000000 000037   2: 'Bottom' (0.000000)
+- 00000000 000037   3: 'Glide' (0.151944)
+- 00000000 000037   4: 'Diffuse' (0.858268)
+- 00000000 000037   5: 'Filter' (0.913386)
+- 00000000 000037   6: 'Twist' (0.500000)
+- 00000000 000037   7: 'Output Level' (0.803150)
+- 00000000 000037   8: 'Reverb Tone' (0.645669)
+- 00000000 000037   9: 'Reverb Level' (0.283465)
+- 00000000 000037   10: 'Pitch Bend' (0.500000)
+- 00000000 000037   11: 'Damper' (0.000000)
+- 00000000 000037 Programs (0 total):
+- 00000000 000037 Current program: 'Pumper'
+- 00000000 000037 Common canDo's:
+- 00000000 000037   sendVstEvents: Yes
+- 00000000 000037   sendVstMidiEvent: Yes
+- 00000000 000037   receiveVstEvents: Don't know
+- 00000000 000037   receiveVstMidiEvent: Don't know
+- 00000000 000037   receiveVstTimeInfo: Don't know
+- 00000000 000037   offline: Don't know
+- 00000000 000037   midiProgramNames: Don't know
+- 00000000 000037   bypass: Don't know
+E 00000000 000037 Output source could not be opened, exiting

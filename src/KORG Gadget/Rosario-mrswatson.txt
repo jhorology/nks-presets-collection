@@ -1,43 +1,42 @@
-- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000004 Plugin 'Rosario' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Rosario'
-- 00000000 000076 Information for VST2.x plugin 'Rosario'
-- 00000000 000076 Vendor: KORG
-- 00000000 000076 Version: 0
-- 00000000 000076 Unique ID: KG30
-- 00000000 000076 Plugin type: effect, category 0
-- 00000000 000076 Version: 1
-- 00000000 000076 I/O: 2/2
-- 00000000 000076 InitialDelay: 0 frames
-- 00000000 000076 GUI Editor: yes
-- 00000000 000076 Parameters (18 total):
-- 00000000 000076   0: 'Amp Type' (0.111111)
-- 00000000 000076   1: 'Amp VR Gain' (0.777000)
-- 00000000 000076   2: 'Amp Gain' (0.582000)
-- 00000000 000076   3: 'Amp Bass' (0.203000)
-- 00000000 000076   4: 'Amp Middle' (0.523000)
-- 00000000 000076   5: 'Amp Treble' (0.774000)
-- 00000000 000076   6: 'Amp Presence' (1.000000)
-- 00000000 000076   7: 'Cabinet Type' (0.545455)
-- 00000000 000076   8: 'Cabinet Blend' (0.990000)
-- 00000000 000076   9: 'NR Sens' (0.197000)
-- 00000000 000076   10: 'FX1 Type' (0.391304)
-- 00000000 000076   11: 'FX1 Edit1' (0.430000)
-- 00000000 000076   12: 'FX1 Edit2' (0.526000)
-- 00000000 000076   13: 'FX2 Type' (0.956522)
-- 00000000 000076   14: 'FX2 Edit1' (0.636000)
-- 00000000 000076   15: 'FX2 Edit2' (0.414000)
-- 00000000 000076   16: 'Input Level' (0.980000)
-- 00000000 000076   17: 'Output Level' (0.725000)
-- 00000000 000076 Programs (0 total):
-- 00000000 000076 Current program: 'AC Chorus'
-- 00000000 000076 Common canDo's:
-- 00000000 000076   sendVstEvents: Don't know
-- 00000000 000076   sendVstMidiEvent: Don't know
-- 00000000 000076   receiveVstEvents: Don't know
-- 00000000 000076   receiveVstMidiEvent: Don't know
-- 00000000 000076   receiveVstTimeInfo: Don't know
-- 00000000 000076   offline: Don't know
-- 00000000 000076   midiProgramNames: Don't know
-- 00000000 000076   bypass: Don't know
-E 00000000 000076 Output source could not be opened, exiting
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Rosario' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Rosario'
+- 00000000 000055 Information for VST2.x plugin 'Rosario'
+- 00000000 000055 Vendor: KORG
+- 00000000 000055 Version: 0
+- 00000000 000055 Unique ID: KG30
+- 00000000 000055 Plugin type: effect, category 0
+- 00000000 000055 Version: 1
+- 00000000 000055 I/O: 2/2
+- 00000000 000055 InitialDelay: 0 frames
+- 00000000 000055 Parameters (18 total):
+- 00000000 000055   0: 'Amp Type' (0.111111)
+- 00000000 000055   1: 'Amp VR Gain' (0.777000)
+- 00000000 000055   2: 'Amp Gain' (0.582000)
+- 00000000 000055   3: 'Amp Bass' (0.203000)
+- 00000000 000055   4: 'Amp Middle' (0.523000)
+- 00000000 000055   5: 'Amp Treble' (0.774000)
+- 00000000 000055   6: 'Amp Presence' (1.000000)
+- 00000000 000055   7: 'Cabinet Type' (0.545455)
+- 00000000 000055   8: 'Cabinet Blend' (0.990000)
+- 00000000 000055   9: 'NR Sens' (0.197000)
+- 00000000 000055   10: 'FX1 Type' (0.391304)
+- 00000000 000055   11: 'FX1 Edit1' (0.430000)
+- 00000000 000055   12: 'FX1 Edit2' (0.526000)
+- 00000000 000055   13: 'FX2 Type' (0.956522)
+- 00000000 000055   14: 'FX2 Edit1' (0.636000)
+- 00000000 000055   15: 'FX2 Edit2' (0.414000)
+- 00000000 000055   16: 'Input Level' (0.980000)
+- 00000000 000055   17: 'Output Level' (0.725000)
+- 00000000 000055 Programs (0 total):
+- 00000000 000055 Current program: 'AC Chorus'
+- 00000000 000055 Common canDo's:
+- 00000000 000055   sendVstEvents: Yes
+- 00000000 000055   sendVstMidiEvent: Yes
+- 00000000 000055   receiveVstEvents: Don't know
+- 00000000 000055   receiveVstMidiEvent: Don't know
+- 00000000 000055   receiveVstTimeInfo: Don't know
+- 00000000 000055   offline: Don't know
+- 00000000 000055   midiProgramNames: Don't know
+- 00000000 000055   bypass: Don't know
+E 00000000 000055 Output source could not be opened, exiting

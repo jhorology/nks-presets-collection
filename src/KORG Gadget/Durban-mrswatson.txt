@@ -1,0 +1,41 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Durban' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Durban'
+- 00000000 000056 Information for VST2.x plugin 'Durban'
+- 00000000 000056 Vendor: KORG
+- 00000000 000056 Version: 0
+- 00000000 000056 Unique ID: KG31
+- 00000000 000056 Plugin type: effect, category 0
+- 00000000 000056 Version: 1
+- 00000000 000056 I/O: 2/2
+- 00000000 000056 InitialDelay: 0 frames
+- 00000000 000056 Parameters (17 total):
+- 00000000 000056   0: 'Amp Type' (0.428571)
+- 00000000 000056   1: 'Amp Gain' (0.567000)
+- 00000000 000056   2: 'Amp Bass' (0.674000)
+- 00000000 000056   3: 'Amp Middle' (0.316000)
+- 00000000 000056   4: 'Amp Treble' (0.789000)
+- 00000000 000056   5: 'Amp Presence' (0.356000)
+- 00000000 000056   6: 'Cabinet Type' (0.454545)
+- 00000000 000056   7: 'Cabinet Blend' (1.000000)
+- 00000000 000056   8: 'NR Sens' (0.500000)
+- 00000000 000056   9: 'FX1 Type' (0.000000)
+- 00000000 000056   10: 'FX1 Edit1' (0.330000)
+- 00000000 000056   11: 'FX1 Edit2' (0.680000)
+- 00000000 000056   12: 'FX2 Type' (0.920000)
+- 00000000 000056   13: 'FX2 Edit1' (0.497000)
+- 00000000 000056   14: 'FX2 Edit2' (0.143000)
+- 00000000 000056   15: 'Input Level' (0.700000)
+- 00000000 000056   16: 'Output Level' (0.644000)
+- 00000000 000056 Programs (0 total):
+- 00000000 000056 Current program: 'Studio A'
+- 00000000 000056 Common canDo's:
+- 00000000 000056   sendVstEvents: Yes
+- 00000000 000056   sendVstMidiEvent: Yes
+- 00000000 000056   receiveVstEvents: Don't know
+- 00000000 000056   receiveVstMidiEvent: Don't know
+- 00000000 000056   receiveVstTimeInfo: Don't know
+- 00000000 000056   offline: Don't know
+- 00000000 000056   midiProgramNames: Don't know
+- 00000000 000056   bypass: Don't know
+E 00000000 000056 Output source could not be opened, exiting

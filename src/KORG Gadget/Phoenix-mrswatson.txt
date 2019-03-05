@@ -1,63 +1,62 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
 - 00000000 000003 Plugin 'Phoenix' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Phoenix'
-- 00000000 000114 Information for VST2.x plugin 'Phoenix'
-- 00000000 000114 Vendor: KORG
-- 00000000 000114 Version: 0
-- 00000000 000114 Unique ID: KG13
-- 00000000 000114 Plugin type: instrument, category 2
-- 00000000 000114 Version: 1
-- 00000000 000114 I/O: 0/2
-- 00000000 000114 InitialDelay: 0 frames
-- 00000000 000114 GUI Editor: yes
-- 00000000 000114 Parameters (38 total):
-- 00000000 000114   0: 'OSC1 Waveform' (0.500000)
-- 00000000 000114   1: 'OSC1 Pitch' (0.503937)
-- 00000000 000114   2: 'OSC Balance' (0.307087)
-- 00000000 000114   3: 'Pulse Width' (0.503937)
-- 00000000 000114   4: 'OSC2 Waveform' (0.500000)
-- 00000000 000114   5: 'OSC2 Pitch' (0.503937)
-- 00000000 000114   6: 'OSC2 Detune' (0.377953)
-- 00000000 000114   7: 'Portamento' (0.000000)
-- 00000000 000114   8: 'Filter Freq' (0.212000)
-- 00000000 000114   9: 'Filter Reso' (0.000000)
-- 00000000 000114   10: 'Filter Env Amt' (0.764000)
-- 00000000 000114   11: 'Filter KBD amt' (0.610000)
-- 00000000 000114   12: 'Filter Attack' (0.204724)
-- 00000000 000114   13: 'Filter Decay' (0.464567)
-- 00000000 000114   14: 'Filter Sustain' (0.000000)
-- 00000000 000114   15: 'Filter Release' (0.291339)
-- 00000000 000114   16: 'Amp Attack' (0.000000)
-- 00000000 000114   17: 'Amp Decay' (0.141732)
-- 00000000 000114   18: 'Amp Sustain' (1.000000)
-- 00000000 000114   19: 'Amp Release' (0.291339)
-- 00000000 000114   20: 'Vibrato Rate' (0.401575)
-- 00000000 000114   21: 'Vibrato Depth' (0.000000)
-- 00000000 000114   22: 'Pitch Bend' (0.500000)
-- 00000000 000114   23: 'P.Bend Range' (0.055118)
-- 00000000 000114   24: 'LFO Waveform' (0.000000)
-- 00000000 000114   25: 'LFO Rate' (0.409449)
-- 00000000 000114   26: 'LFO Key Sync' (0.000000)
-- 00000000 000114   27: 'LFO BPM Sync' (0.000000)
-- 00000000 000114   28: 'PW Mod Depth' (0.500000)
-- 00000000 000114   29: 'Filter Mod Depth' (0.500000)
-- 00000000 000114   30: 'Amp Mod Depth' (0.500000)
-- 00000000 000114   31: 'Output Level' (0.834646)
-- 00000000 000114   32: 'Unison Switch' (1.000000)
-- 00000000 000114   33: 'Unison Detune' (0.283465)
-- 00000000 000114   34: 'Delay Level' (0.133858)
-- 00000000 000114   35: 'Delay Time' (0.615385)
-- 00000000 000114   36: 'Delay Tone' (0.433071)
-- 00000000 000114   37: 'Damper' (0.000000)
-- 00000000 000114 Programs (0 total):
-- 00000000 000114 Current program: 'Fat Brass'
-- 00000000 000114 Common canDo's:
-- 00000000 000114   sendVstEvents: Don't know
-- 00000000 000114   sendVstMidiEvent: Don't know
-- 00000000 000114   receiveVstEvents: Don't know
-- 00000000 000114   receiveVstMidiEvent: Don't know
-- 00000000 000114   receiveVstTimeInfo: Don't know
-- 00000000 000114   offline: Don't know
-- 00000000 000114   midiProgramNames: Don't know
-- 00000000 000114   bypass: Don't know
-E 00000000 000114 Output source could not be opened, exiting
+- 00000000 000003 Opening VST2.x plugin 'Phoenix'
+- 00000000 000036 Information for VST2.x plugin 'Phoenix'
+- 00000000 000036 Vendor: KORG
+- 00000000 000036 Version: 0
+- 00000000 000036 Unique ID: KG13
+- 00000000 000036 Plugin type: instrument, category 2
+- 00000000 000036 Version: 1
+- 00000000 000036 I/O: 0/2
+- 00000000 000036 InitialDelay: 0 frames
+- 00000000 000036 Parameters (38 total):
+- 00000000 000036   0: 'OSC1 Waveform' (0.500000)
+- 00000000 000036   1: 'OSC1 Pitch' (0.503937)
+- 00000000 000036   2: 'OSC Balance' (0.307087)
+- 00000000 000036   3: 'Pulse Width' (0.503937)
+- 00000000 000036   4: 'OSC2 Waveform' (0.500000)
+- 00000000 000036   5: 'OSC2 Pitch' (0.503937)
+- 00000000 000036   6: 'OSC2 Detune' (0.377953)
+- 00000000 000036   7: 'Portamento' (0.000000)
+- 00000000 000036   8: 'Filter Freq' (0.212000)
+- 00000000 000036   9: 'Filter Reso' (0.000000)
+- 00000000 000036   10: 'Filter Env Amt' (0.764000)
+- 00000000 000036   11: 'Filter KBD amt' (0.610000)
+- 00000000 000036   12: 'Filter Attack' (0.204724)
+- 00000000 000036   13: 'Filter Decay' (0.464567)
+- 00000000 000036   14: 'Filter Sustain' (0.000000)
+- 00000000 000036   15: 'Filter Release' (0.291339)
+- 00000000 000036   16: 'Amp Attack' (0.000000)
+- 00000000 000036   17: 'Amp Decay' (0.141732)
+- 00000000 000036   18: 'Amp Sustain' (1.000000)
+- 00000000 000036   19: 'Amp Release' (0.291339)
+- 00000000 000036   20: 'Vibrato Rate' (0.401575)
+- 00000000 000036   21: 'Vibrato Depth' (0.000000)
+- 00000000 000036   22: 'Pitch Bend' (0.500000)
+- 00000000 000036   23: 'P.Bend Range' (0.055118)
+- 00000000 000036   24: 'LFO Waveform' (0.000000)
+- 00000000 000036   25: 'LFO Rate' (0.409449)
+- 00000000 000036   26: 'LFO Key Sync' (0.000000)
+- 00000000 000036   27: 'LFO BPM Sync' (0.000000)
+- 00000000 000036   28: 'PW Mod Depth' (0.500000)
+- 00000000 000036   29: 'Filter Mod Depth' (0.500000)
+- 00000000 000036   30: 'Amp Mod Depth' (0.500000)
+- 00000000 000036   31: 'Output Level' (0.834646)
+- 00000000 000036   32: 'Unison Switch' (1.000000)
+- 00000000 000036   33: 'Unison Detune' (0.283465)
+- 00000000 000036   34: 'Delay Level' (0.133858)
+- 00000000 000036   35: 'Delay Time' (0.615385)
+- 00000000 000036   36: 'Delay Tone' (0.433071)
+- 00000000 000036   37: 'Damper' (0.000000)
+- 00000000 000036 Programs (0 total):
+- 00000000 000036 Current program: 'Fat Brass'
+- 00000000 000036 Common canDo's:
+- 00000000 000036   sendVstEvents: Yes
+- 00000000 000036   sendVstMidiEvent: Yes
+- 00000000 000036   receiveVstEvents: Don't know
+- 00000000 000036   receiveVstMidiEvent: Don't know
+- 00000000 000036   receiveVstTimeInfo: Don't know
+- 00000000 000036   offline: Don't know
+- 00000000 000036   midiProgramNames: Don't know
+- 00000000 000036   bypass: Don't know
+E 00000000 000036 Output source could not be opened, exiting

@@ -1,38 +1,37 @@
-- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000004 Plugin 'Darwin' is of type VST2.x
+- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Darwin' is of type VST2.x
 - 00000000 000004 Opening VST2.x plugin 'Darwin'
-- 00000000 000296 Information for VST2.x plugin 'Darwin'
-- 00000000 000296 Vendor: KORG
-- 00000000 000296 Version: 0
-- 00000000 000296 Unique ID: KG23
-- 00000000 000296 Plugin type: instrument, category 2
-- 00000000 000296 Version: 1
-- 00000000 000296 I/O: 0/2
-- 00000000 000296 InitialDelay: 0 frames
-- 00000000 000296 GUI Editor: yes
-- 00000000 000296 Parameters (13 total):
-- 00000000 000296   0: 'Osc Balance' (0.500000)
-- 00000000 000296   1: 'Cutoff' (0.500000)
-- 00000000 000296   2: 'Resonance' (0.500000)
-- 00000000 000296   3: 'EG Intensity' (0.500000)
-- 00000000 000296   4: 'Attack Time' (0.500000)
-- 00000000 000296   5: 'Decay Time' (0.500000)
-- 00000000 000296   6: 'Release Time' (0.500000)
-- 00000000 000296   7: 'FX1 Dry/Wet' (0.200000)
-- 00000000 000296   8: 'FX2 Dry/Wet' (0.500000)
-- 00000000 000296   9: 'Output Level' (0.800000)
-- 00000000 000296   10: 'Pitch Bend' (0.500685)
-- 00000000 000296   11: 'Modulation' (0.000000)
-- 00000000 000296   12: 'Damper' (0.000000)
-- 00000000 000296 Programs (0 total):
-- 00000000 000296 Current program: ''
-- 00000000 000296 Common canDo's:
-- 00000000 000296   sendVstEvents: Don't know
-- 00000000 000296   sendVstMidiEvent: Don't know
-- 00000000 000296   receiveVstEvents: Don't know
-- 00000000 000296   receiveVstMidiEvent: Don't know
-- 00000000 000296   receiveVstTimeInfo: Don't know
-- 00000000 000296   offline: Don't know
-- 00000000 000296   midiProgramNames: Don't know
-- 00000000 000296   bypass: Don't know
-E 00000000 000296 Output source could not be opened, exiting
+- 00000000 000170 Information for VST2.x plugin 'Darwin'
+- 00000000 000170 Vendor: KORG
+- 00000000 000170 Version: 0
+- 00000000 000170 Unique ID: KG23
+- 00000000 000170 Plugin type: instrument, category 2
+- 00000000 000170 Version: 1
+- 00000000 000170 I/O: 0/2
+- 00000000 000170 InitialDelay: 0 frames
+- 00000000 000170 Parameters (13 total):
+- 00000000 000170   0: 'Osc Balance' (0.500000)
+- 00000000 000170   1: 'Cutoff' (0.500000)
+- 00000000 000170   2: 'Resonance' (0.500000)
+- 00000000 000170   3: 'EG Intensity' (0.500000)
+- 00000000 000170   4: 'Attack Time' (0.500000)
+- 00000000 000170   5: 'Decay Time' (0.500000)
+- 00000000 000170   6: 'Release Time' (0.500000)
+- 00000000 000170   7: 'FX1 Dry/Wet' (0.200000)
+- 00000000 000170   8: 'FX2 Dry/Wet' (0.500000)
+- 00000000 000170   9: 'Output Level' (0.800000)
+- 00000000 000170   10: 'Pitch Bend' (0.500685)
+- 00000000 000170   11: 'Modulation' (0.000000)
+- 00000000 000170   12: 'Damper' (0.000000)
+- 00000000 000170 Programs (0 total):
+- 00000000 000170 Current program: ''
+- 00000000 000170 Common canDo's:
+- 00000000 000170   sendVstEvents: Yes
+- 00000000 000170   sendVstMidiEvent: Yes
+- 00000000 000170   receiveVstEvents: Don't know
+- 00000000 000170   receiveVstMidiEvent: Don't know
+- 00000000 000170   receiveVstTimeInfo: Don't know
+- 00000000 000170   offline: Don't know
+- 00000000 000170   midiProgramNames: Don't know
+- 00000000 000170   bypass: Don't know
+E 00000000 000170 Output source could not be opened, exiting

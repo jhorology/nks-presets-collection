@@ -1,0 +1,77 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Stockholm' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Stockholm'
+- 00000000 000056 Information for VST2.x plugin 'Stockholm'
+- 00000000 000056 Vendor: KORG
+- 00000000 000056 Version: 0
+- 00000000 000056 Unique ID: KG36
+- 00000000 000056 Plugin type: instrument, category 2
+- 00000000 000056 Version: 1
+- 00000000 000056 I/O: 0/2
+- 00000000 000056 InitialDelay: 0 frames
+- 00000000 000056 Parameters (53 total):
+- 00000000 000056   0: 'Loop 1 Level' (0.787402)
+- 00000000 000056   1: 'Loop 2 Level' (0.787402)
+- 00000000 000056   2: 'Loop 3 Level' (0.787402)
+- 00000000 000056   3: 'Loop 4 Level' (0.787402)
+- 00000000 000056   4: 'Loop 5 Level' (0.787402)
+- 00000000 000056   5: 'Loop 6 Level' (0.787402)
+- 00000000 000056   6: 'Loop 7 Level' (0.787402)
+- 00000000 000056   7: 'Loop 8 Level' (0.787402)
+- 00000000 000056   8: 'Loop 1 Trans' (0.500000)
+- 00000000 000056   9: 'Loop 2 Trans' (0.500000)
+- 00000000 000056   10: 'Loop 3 Trans' (0.500000)
+- 00000000 000056   11: 'Loop 4 Trans' (0.500000)
+- 00000000 000056   12: 'Loop 5 Trans' (0.500000)
+- 00000000 000056   13: 'Loop 6 Trans' (0.500000)
+- 00000000 000056   14: 'Loop 7 Trans' (0.500000)
+- 00000000 000056   15: 'Loop 8 Trans' (0.500000)
+- 00000000 000056   16: 'OSC Env Amt' (0.503937)
+- 00000000 000056   17: 'OSC Octave' (0.500000)
+- 00000000 000056   18: 'OSC Fine Tune' (0.500000)
+- 00000000 000056   19: 'Mod Wheel' (0.000000)
+- 00000000 000056   20: 'F.Freq MW Amt' (0.000000)
+- 00000000 000056   21: 'F.Res MW Amt' (0.503937)
+- 00000000 000056   22: 'F.Decay MW Amt' (0.503937)
+- 00000000 000056   23: 'F.Env Vel Amt' (0.503937)
+- 00000000 000056   24: 'F.Decay Vel Amt' (0.503937)
+- 00000000 000056   25: 'Amp Vel Amt' (0.503937)
+- 00000000 000056   26: 'Filter Frequency' (1.000000)
+- 00000000 000056   27: 'Filter Resonance' (0.000000)
+- 00000000 000056   28: 'Filter On/Off' (1.000000)
+- 00000000 000056   29: 'Filter Mode' (1.000000)
+- 00000000 000056   30: 'Filter Env Amt' (0.000000)
+- 00000000 000056   31: 'F.Env Attack' (0.000000)
+- 00000000 000056   32: 'F.Env Decay' (0.500000)
+- 00000000 000056   33: 'F.Env Sustain' (0.000000)
+- 00000000 000056   34: 'F.Env Release' (0.500000)
+- 00000000 000056   35: 'LFO Sync' (0.000000)
+- 00000000 000056   36: 'LFO Waveform' (0.000000)
+- 00000000 000056   37: 'LFO Rate' (0.500000)
+- 00000000 000056   38: 'LFO Amount' (0.000000)
+- 00000000 000056   39: 'LFO Dest' (0.000000)
+- 00000000 000056   40: 'Amp Attack' (0.000000)
+- 00000000 000056   41: 'Amp Decay' (1.000000)
+- 00000000 000056   42: 'Amp Sustain' (0.000000)
+- 00000000 000056   43: 'Amp Release' (0.078000)
+- 00000000 000056   44: 'Pitch Bend' (0.500031)
+- 00000000 000056   45: 'Pitch Bend Range' (0.291667)
+- 00000000 000056   46: 'Polyphony' (0.999000)
+- 00000000 000056   47: 'Global Transpose' (0.482229)
+- 00000000 000056   48: 'Master Level' (0.881890)
+- 00000000 000056   49: 'Trig Next Loop' (0.000000)
+- 00000000 000056   50: 'Note Dest Loop' (0.000000)
+- 00000000 000056   51: 'Damper' (0.000000)
+- 00000000 000056   52: 'Loop Latch' (0.000000)
+- 00000000 000056 Programs (0 total):
+- 00000000 000056 Current program: 'Drum Breaks 1'
+- 00000000 000056 Common canDo's:
+- 00000000 000056   sendVstEvents: Yes
+- 00000000 000056   sendVstMidiEvent: Yes
+- 00000000 000056   receiveVstEvents: Don't know
+- 00000000 000056   receiveVstMidiEvent: Don't know
+- 00000000 000056   receiveVstTimeInfo: Don't know
+- 00000000 000056   offline: Don't know
+- 00000000 000056   midiProgramNames: Don't know
+- 00000000 000056   bypass: Don't know
+E 00000000 000056 Output source could not be opened, exiting

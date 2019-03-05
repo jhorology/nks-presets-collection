@@ -1,56 +1,55 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20150122
 - 00000000 000004 Plugin 'Chiangmai' is of type VST2.x
 - 00000000 000004 Opening VST2.x plugin 'Chiangmai'
-- 00000000 000138 Information for VST2.x plugin 'Chiangmai'
-- 00000000 000138 Vendor: KORG
-- 00000000 000138 Version: 0
-- 00000000 000138 Unique ID: KG04
-- 00000000 000138 Plugin type: instrument, category 2
-- 00000000 000138 Version: 1
-- 00000000 000138 I/O: 0/2
-- 00000000 000138 InitialDelay: 0 frames
-- 00000000 000138 GUI Editor: yes
-- 00000000 000138 Parameters (31 total):
-- 00000000 000138   0: 'OSC1 Level' (1.000000)
-- 00000000 000138   1: 'OSC1 Waveform' (0.000000)
-- 00000000 000138   2: 'OSC1 Pitch' (0.496893)
-- 00000000 000138   3: 'OSC1 Harmonics' (0.041667)
-- 00000000 000138   4: 'OSC1 Depth' (0.000000)
-- 00000000 000138   5: 'OSC1 EG Amt' (0.000000)
-- 00000000 000138   6: 'OSC2 Level' (0.000000)
-- 00000000 000138   7: 'OSC2 Waveform' (0.000000)
-- 00000000 000138   8: 'OSC2 Pitch' (0.500000)
-- 00000000 000138   9: 'OSC2 Harmonics' (0.000000)
-- 00000000 000138   10: 'OSC2 Depth' (0.000000)
-- 00000000 000138   11: 'OSC2 EG Amt' (0.000000)
-- 00000000 000138   12: 'Filter Freq' (1.000000)
-- 00000000 000138   13: 'Filter Reso' (0.000000)
-- 00000000 000138   14: 'Filter EG Amt' (0.499999)
-- 00000000 000138   15: 'Filter KBD amt' (0.499999)
-- 00000000 000138   16: 'Filter Attack' (0.000000)
-- 00000000 000138   17: 'Filter Decay' (0.204724)
-- 00000000 000138   18: 'Filter Sustain' (0.000000)
-- 00000000 000138   19: 'Filter Release' (0.196850)
-- 00000000 000138   20: 'Amp Attack' (0.000000)
-- 00000000 000138   21: 'Amp Decay' (0.433071)
-- 00000000 000138   22: 'Amp Sustain' (0.000000)
-- 00000000 000138   23: 'Amp Release' (0.433071)
-- 00000000 000138   24: 'Delay Level' (0.614173)
-- 00000000 000138   25: 'Delay Time' (0.500000)
-- 00000000 000138   26: 'Chorus Depth' (0.472441)
-- 00000000 000138   27: 'Chorus Speed' (0.496063)
-- 00000000 000138   28: 'Output Level' (1.000000)
-- 00000000 000138   29: 'Pitch Bend' (0.500000)
-- 00000000 000138   30: 'Damper' (0.000000)
-- 00000000 000138 Programs (0 total):
-- 00000000 000138 Current program: 'Signs'
-- 00000000 000138 Common canDo's:
-- 00000000 000138   sendVstEvents: Don't know
-- 00000000 000138   sendVstMidiEvent: Don't know
-- 00000000 000138   receiveVstEvents: Don't know
-- 00000000 000138   receiveVstMidiEvent: Don't know
-- 00000000 000138   receiveVstTimeInfo: Don't know
-- 00000000 000138   offline: Don't know
-- 00000000 000138   midiProgramNames: Don't know
-- 00000000 000138   bypass: Don't know
-E 00000000 000138 Output source could not be opened, exiting
+- 00000000 000039 Information for VST2.x plugin 'Chiangmai'
+- 00000000 000039 Vendor: KORG
+- 00000000 000039 Version: 0
+- 00000000 000039 Unique ID: KG04
+- 00000000 000039 Plugin type: instrument, category 2
+- 00000000 000039 Version: 1
+- 00000000 000039 I/O: 0/2
+- 00000000 000039 InitialDelay: 0 frames
+- 00000000 000039 Parameters (31 total):
+- 00000000 000039   0: 'OSC1 Level' (1.000000)
+- 00000000 000039   1: 'OSC1 Waveform' (0.000000)
+- 00000000 000039   2: 'OSC1 Pitch' (0.496893)
+- 00000000 000039   3: 'OSC1 Harmonics' (0.041667)
+- 00000000 000039   4: 'OSC1 Depth' (0.000000)
+- 00000000 000039   5: 'OSC1 EG Amt' (0.000000)
+- 00000000 000039   6: 'OSC2 Level' (0.000000)
+- 00000000 000039   7: 'OSC2 Waveform' (0.000000)
+- 00000000 000039   8: 'OSC2 Pitch' (0.500000)
+- 00000000 000039   9: 'OSC2 Harmonics' (0.000000)
+- 00000000 000039   10: 'OSC2 Depth' (0.000000)
+- 00000000 000039   11: 'OSC2 EG Amt' (0.000000)
+- 00000000 000039   12: 'Filter Freq' (1.000000)
+- 00000000 000039   13: 'Filter Reso' (0.000000)
+- 00000000 000039   14: 'Filter EG Amt' (0.499999)
+- 00000000 000039   15: 'Filter KBD amt' (0.499999)
+- 00000000 000039   16: 'Filter Attack' (0.000000)
+- 00000000 000039   17: 'Filter Decay' (0.204724)
+- 00000000 000039   18: 'Filter Sustain' (0.000000)
+- 00000000 000039   19: 'Filter Release' (0.196850)
+- 00000000 000039   20: 'Amp Attack' (0.000000)
+- 00000000 000039   21: 'Amp Decay' (0.433071)
+- 00000000 000039   22: 'Amp Sustain' (0.000000)
+- 00000000 000039   23: 'Amp Release' (0.433071)
+- 00000000 000039   24: 'Delay Level' (0.614173)
+- 00000000 000039   25: 'Delay Time' (0.500000)
+- 00000000 000040   26: 'Chorus Depth' (0.472441)
+- 00000000 000040   27: 'Chorus Speed' (0.496063)
+- 00000000 000040   28: 'Output Level' (1.000000)
+- 00000000 000040   29: 'Pitch Bend' (0.500000)
+- 00000000 000040   30: 'Damper' (0.000000)
+- 00000000 000040 Programs (0 total):
+- 00000000 000040 Current program: 'Signs'
+- 00000000 000040 Common canDo's:
+- 00000000 000040   sendVstEvents: Yes
+- 00000000 000040   sendVstMidiEvent: Yes
+- 00000000 000040   receiveVstEvents: Don't know
+- 00000000 000040   receiveVstMidiEvent: Don't know
+- 00000000 000040   receiveVstTimeInfo: Don't know
+- 00000000 000040   offline: Don't know
+- 00000000 000040   midiProgramNames: Don't know
+- 00000000 000040   bypass: Don't know
+E 00000000 000040 Output source could not be opened, exiting

@@ -1,44 +1,43 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000003 Plugin 'Helsinki' is of type VST2.x
+- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000004 Plugin 'Helsinki' is of type VST2.x
 - 00000000 000004 Opening VST2.x plugin 'Helsinki'
-- 00000000 000068 Information for VST2.x plugin 'Helsinki'
-- 00000000 000068 Vendor: KORG
-- 00000000 000068 Version: 0
-- 00000000 000068 Unique ID: KG07
-- 00000000 000068 Plugin type: instrument, category 2
-- 00000000 000068 Version: 1
-- 00000000 000068 I/O: 0/2
-- 00000000 000068 InitialDelay: 0 frames
-- 00000000 000068 GUI Editor: yes
-- 00000000 000068 Parameters (19 total):
-- 00000000 000068   0: 'Waveform' (0.000000)
-- 00000000 000068   1: 'Low Level' (1.000000)
-- 00000000 000068   2: 'High Level' (0.716535)
-- 00000000 000068   3: 'Higher Level' (0.456693)
-- 00000000 000068   4: 'Noise Level' (0.086614)
-- 00000000 000068   5: 'Filter Type' (0.000000)
-- 00000000 000068   6: 'Filter Freq' (1.000000)
-- 00000000 000068   7: 'Filter Reso' (0.000000)
-- 00000000 000069   8: 'Env Attack' (0.944882)
-- 00000000 000069   9: 'Env Decay' (0.661417)
-- 00000000 000069   10: 'Env Sustain' (1.000000)
-- 00000000 000069   11: 'Env Release' (0.456693)
-- 00000000 000069   12: 'Lofi Freq' (0.338583)
-- 00000000 000069   13: 'Lofi Mix' (0.181102)
-- 00000000 000069   14: 'Reverb Level' (0.511811)
-- 00000000 000069   15: 'Reverb Time' (0.579365)
-- 00000000 000069   16: 'Output Level' (1.000000)
-- 00000000 000069   17: 'Pitch Bend' (0.500000)
-- 00000000 000069   18: 'Damper' (0.000000)
-- 00000000 000069 Programs (0 total):
-- 00000000 000069 Current program: 'Northpole'
-- 00000000 000069 Common canDo's:
-- 00000000 000069   sendVstEvents: Don't know
-- 00000000 000069   sendVstMidiEvent: Don't know
-- 00000000 000069   receiveVstEvents: Don't know
-- 00000000 000069   receiveVstMidiEvent: Don't know
-- 00000000 000069   receiveVstTimeInfo: Don't know
-- 00000000 000069   offline: Don't know
-- 00000000 000069   midiProgramNames: Don't know
-- 00000000 000069   bypass: Don't know
-E 00000000 000069 Output source could not be opened, exiting
+- 00000000 000038 Information for VST2.x plugin 'Helsinki'
+- 00000000 000038 Vendor: KORG
+- 00000000 000038 Version: 0
+- 00000000 000038 Unique ID: KG07
+- 00000000 000038 Plugin type: instrument, category 2
+- 00000000 000038 Version: 1
+- 00000000 000038 I/O: 0/2
+- 00000000 000038 InitialDelay: 0 frames
+- 00000000 000038 Parameters (19 total):
+- 00000000 000038   0: 'Waveform' (0.000000)
+- 00000000 000038   1: 'Low Level' (1.000000)
+- 00000000 000039   2: 'High Level' (0.716535)
+- 00000000 000039   3: 'Higher Level' (0.456693)
+- 00000000 000039   4: 'Noise Level' (0.086614)
+- 00000000 000039   5: 'Filter Type' (0.000000)
+- 00000000 000039   6: 'Filter Freq' (1.000000)
+- 00000000 000039   7: 'Filter Reso' (0.000000)
+- 00000000 000039   8: 'Env Attack' (0.944882)
+- 00000000 000039   9: 'Env Decay' (0.661417)
+- 00000000 000039   10: 'Env Sustain' (1.000000)
+- 00000000 000039   11: 'Env Release' (0.456693)
+- 00000000 000039   12: 'Lofi Freq' (0.338583)
+- 00000000 000039   13: 'Lofi Mix' (0.181102)
+- 00000000 000039   14: 'Reverb Level' (0.511811)
+- 00000000 000039   15: 'Reverb Time' (0.579365)
+- 00000000 000039   16: 'Output Level' (1.000000)
+- 00000000 000039   17: 'Pitch Bend' (0.500000)
+- 00000000 000039   18: 'Damper' (0.000000)
+- 00000000 000039 Programs (0 total):
+- 00000000 000039 Current program: 'Northpole'
+- 00000000 000039 Common canDo's:
+- 00000000 000039   sendVstEvents: Yes
+- 00000000 000039   sendVstMidiEvent: Yes
+- 00000000 000039   receiveVstEvents: Don't know
+- 00000000 000039   receiveVstMidiEvent: Don't know
+- 00000000 000039   receiveVstTimeInfo: Don't know
+- 00000000 000039   offline: Don't know
+- 00000000 000039   midiProgramNames: Don't know
+- 00000000 000039   bypass: Don't know
+E 00000000 000039 Output source could not be opened, exiting

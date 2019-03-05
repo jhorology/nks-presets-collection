@@ -1,98 +1,97 @@
-- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000004 Plugin 'Montpellier' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Montpellier'
-2017-11-21 04:23:53.469 mrswatson[84602:4581350] MDE-X : Preset load error
-2017-11-21 04:23:53.469 mrswatson[84602:4581350] MDE-X : Preset load error
-2017-11-21 04:23:53.500 mrswatson[84602:4581350] MDE-X : Preset load error
-2017-11-21 04:23:53.500 mrswatson[84602:4581350] MDE-X : Preset load error
-- 00000000 000124 Information for VST2.x plugin 'Montpellier'
-- 00000000 000124 Vendor: KORG
-- 00000000 000124 Version: 0
-- 00000000 000124 Unique ID: KG33
-- 00000000 000124 Plugin type: instrument, category 2
-- 00000000 000124 Version: 1
-- 00000000 000124 I/O: 0/2
-- 00000000 000124 InitialDelay: 0 frames
-- 00000000 000124 GUI Editor: yes
-- 00000000 000124 Parameters (69 total):
-- 00000000 000124   0: 'Master VCO Tune' (0.500000)
-- 00000000 000124   1: 'VCO 1 Waveform' (0.333333)
-- 00000000 000124   2: 'VCO 1 Semitone' (0.500000)
-- 00000000 000124   3: 'VCO 1 Level' (1.000000)
-- 00000000 000124   4: 'VCO 2 Tune' (0.500000)
-- 00000000 000124   5: 'VCO 2 Waveform' (0.333333)
-- 00000000 000124   6: 'VCO 2 Semitone' (0.500000)
-- 00000000 000124   7: 'VCO 2 Level' (1.000000)
-- 00000000 000124   8: 'VCO 3 Tune' (0.490000)
-- 00000000 000124   9: 'VCO 3 Waveform' (0.333333)
-- 00000000 000124   10: 'VCO 3 Semitone' (0.250000)
-- 00000000 000124   11: 'VCO 3 Level' (0.400000)
-- 00000000 000124   12: 'VCO 4 Tune' (0.500000)
-- 00000000 000124   13: 'VCO 4 Waveform' (0.333333)
-- 00000000 000124   14: 'VCO 4 Semitone' (0.500000)
-- 00000000 000124   15: 'VCO 4 Level' (1.000000)
-- 00000000 000124   16: 'Portamento Time' (0.000000)
-- 00000000 000124   17: 'Detune' (0.610000)
-- 00000000 000124   18: 'Transpose' (0.250000)
-- 00000000 000124   19: 'PWM Intensity' (0.500000)
-- 00000000 000124   20: 'PW Width' (0.500000)
-- 00000000 000124   21: 'Noise Level' (0.000000)
-- 00000000 000124   22: 'VCF Cutoff' (0.367188)
-- 00000000 000124   23: 'VCF Resonance' (0.160000)
-- 00000000 000124   24: 'VCF EG Intensity' (0.610000)
-- 00000000 000124   25: 'VCF KBD Track' (0.133333)
-- 00000000 000124   26: 'VCF EG Attack' (0.380000)
-- 00000000 000124   27: 'VCF EG Decay' (0.210000)
-- 00000000 000124   28: 'VCF EG Sustain' (0.180000)
-- 00000000 000124   29: 'VCF EG Release' (0.140000)
-- 00000000 000124   30: 'VCA EG Attack' (0.040000)
-- 00000000 000124   31: 'VCA EG Decay' (0.390000)
-- 00000000 000124   32: 'VCA EG Sustain' (0.750000)
-- 00000000 000124   33: 'VCA EG Release' (0.200000)
-- 00000000 000124   34: 'VCO Mod X-Mod In' (0.000000)
-- 00000000 000124   35: 'VCO Mod Freq Mod' (0.000000)
-- 00000000 000124   36: 'MG 1 Waveform' (0.000000)
-- 00000000 000124   37: 'MG 1 Frequency' (0.300000)
-- 00000000 000124   38: 'MG 1 Base Note' (0.777778)
-- 00000000 000124   39: 'MG 1 Times' (1.000000)
-- 00000000 000124   40: 'MG 2 Waveform' (0.000000)
-- 00000000 000124   41: 'MG 2 Frequency' (0.390000)
-- 00000000 000124   42: 'MG 2 Base Note' (0.777778)
-- 00000000 000124   43: 'MG 2 Times' (1.000000)
-- 00000000 000124   44: 'V.Patch Int 1' (0.731000)
-- 00000000 000124   45: 'V.Patch Int 2' (0.194500)
-- 00000000 000124   46: 'V.Patch Int 3' (0.740000)
-- 00000000 000124   47: 'V.Patch Int 4' (0.400000)
-- 00000000 000124   48: 'V.Patch Int 5' (0.415000)
-- 00000000 000124   49: 'V.Patch Int 6' (0.500000)
-- 00000000 000124   50: 'V.Patch Int 7' (0.500000)
-- 00000000 000124   51: 'V.Patch Int 8' (0.500000)
-- 00000000 000124   52: 'Unison Detune' (0.090000)
-- 00000000 000124   53: 'Unison Spread' (0.410000)
-- 00000000 000124   54: 'Panpot' (0.500000)
-- 00000000 000124   55: 'Output Volume' (0.950000)
-- 00000000 000124   56: 'Master Volume' (0.830000)
-- 00000000 000124   57: 'FX1 Dry/Wet' (1.000000)
-- 00000000 000124   58: 'FX1 Input Gain' (0.777778)
-- 00000000 000124   59: 'FX1 Output Gain' (0.777778)
-- 00000000 000124   60: 'FX2 Dry/Wet' (0.030000)
-- 00000000 000124   61: 'FX2 Input Gain' (0.777778)
-- 00000000 000124   62: 'FX2 Output Gain' (0.777778)
-- 00000000 000124   63: 'PitchBend' (0.500000)
-- 00000000 000124   64: 'Modulation' (0.000000)
-- 00000000 000124   65: 'Modulation 2' (0.000000)
-- 00000000 000124   66: 'Modulation 3' (0.000000)
-- 00000000 000124   67: 'Modulation 4' (0.000000)
-- 00000000 000124   68: 'Damper' (0.000000)
-- 00000000 000124 Programs (0 total):
-- 00000000 000124 Current program: 'A#Poly Vinsky'
-- 00000000 000124 Common canDo's:
-- 00000000 000124   sendVstEvents: Don't know
-- 00000000 000124   sendVstMidiEvent: Don't know
-- 00000000 000124   receiveVstEvents: Don't know
-- 00000000 000124   receiveVstMidiEvent: Don't know
-- 00000000 000124   receiveVstTimeInfo: Don't know
-- 00000000 000124   offline: Don't know
-- 00000000 000124   midiProgramNames: Don't know
-- 00000000 000124   bypass: Don't know
-E 00000000 000124 Output source could not be opened, exiting
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Montpellier' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Montpellier'
+2019-03-06 00:31:57.323 mrswatson[3099:70132] MDE-X : Preset load error
+2019-03-06 00:31:57.323 mrswatson[3099:70132] MDE-X : Preset load error
+2019-03-06 00:31:57.341 mrswatson[3099:70132] MDE-X : Preset load error
+2019-03-06 00:31:57.341 mrswatson[3099:70132] MDE-X : Preset load error
+- 00000000 000077 Information for VST2.x plugin 'Montpellier'
+- 00000000 000077 Vendor: KORG
+- 00000000 000077 Version: 0
+- 00000000 000077 Unique ID: KG33
+- 00000000 000077 Plugin type: instrument, category 2
+- 00000000 000077 Version: 1
+- 00000000 000077 I/O: 0/2
+- 00000000 000077 InitialDelay: 0 frames
+- 00000000 000077 Parameters (69 total):
+- 00000000 000077   0: 'Master VCO Tune' (0.500000)
+- 00000000 000077   1: 'VCO 1 Waveform' (0.333333)
+- 00000000 000077   2: 'VCO 1 Semitone' (0.500000)
+- 00000000 000077   3: 'VCO 1 Level' (1.000000)
+- 00000000 000077   4: 'VCO 2 Tune' (0.500000)
+- 00000000 000077   5: 'VCO 2 Waveform' (0.333333)
+- 00000000 000077   6: 'VCO 2 Semitone' (0.500000)
+- 00000000 000077   7: 'VCO 2 Level' (1.000000)
+- 00000000 000077   8: 'VCO 3 Tune' (0.490000)
+- 00000000 000077   9: 'VCO 3 Waveform' (0.333333)
+- 00000000 000077   10: 'VCO 3 Semitone' (0.250000)
+- 00000000 000077   11: 'VCO 3 Level' (0.400000)
+- 00000000 000077   12: 'VCO 4 Tune' (0.500000)
+- 00000000 000077   13: 'VCO 4 Waveform' (0.333333)
+- 00000000 000077   14: 'VCO 4 Semitone' (0.500000)
+- 00000000 000077   15: 'VCO 4 Level' (1.000000)
+- 00000000 000077   16: 'Portamento Time' (0.000000)
+- 00000000 000077   17: 'Detune' (0.610000)
+- 00000000 000077   18: 'Transpose' (0.250000)
+- 00000000 000077   19: 'PWM Intensity' (0.500000)
+- 00000000 000077   20: 'PW Width' (0.500000)
+- 00000000 000077   21: 'Noise Level' (0.000000)
+- 00000000 000077   22: 'VCF Cutoff' (0.367188)
+- 00000000 000077   23: 'VCF Resonance' (0.160000)
+- 00000000 000077   24: 'VCF EG Intensity' (0.610000)
+- 00000000 000077   25: 'VCF KBD Track' (0.133333)
+- 00000000 000077   26: 'VCF EG Attack' (0.380000)
+- 00000000 000077   27: 'VCF EG Decay' (0.210000)
+- 00000000 000077   28: 'VCF EG Sustain' (0.180000)
+- 00000000 000077   29: 'VCF EG Release' (0.140000)
+- 00000000 000077   30: 'VCA EG Attack' (0.040000)
+- 00000000 000077   31: 'VCA EG Decay' (0.390000)
+- 00000000 000077   32: 'VCA EG Sustain' (0.750000)
+- 00000000 000077   33: 'VCA EG Release' (0.200000)
+- 00000000 000077   34: 'VCO Mod X-Mod In' (0.000000)
+- 00000000 000077   35: 'VCO Mod Freq Mod' (0.000000)
+- 00000000 000077   36: 'MG 1 Waveform' (0.000000)
+- 00000000 000077   37: 'MG 1 Frequency' (0.300000)
+- 00000000 000077   38: 'MG 1 Base Note' (0.777778)
+- 00000000 000077   39: 'MG 1 Times' (1.000000)
+- 00000000 000077   40: 'MG 2 Waveform' (0.000000)
+- 00000000 000077   41: 'MG 2 Frequency' (0.390000)
+- 00000000 000077   42: 'MG 2 Base Note' (0.777778)
+- 00000000 000077   43: 'MG 2 Times' (1.000000)
+- 00000000 000077   44: 'V.Patch Int 1' (0.731000)
+- 00000000 000077   45: 'V.Patch Int 2' (0.194500)
+- 00000000 000077   46: 'V.Patch Int 3' (0.740000)
+- 00000000 000077   47: 'V.Patch Int 4' (0.400000)
+- 00000000 000077   48: 'V.Patch Int 5' (0.415000)
+- 00000000 000077   49: 'V.Patch Int 6' (0.500000)
+- 00000000 000077   50: 'V.Patch Int 7' (0.500000)
+- 00000000 000077   51: 'V.Patch Int 8' (0.500000)
+- 00000000 000077   52: 'Unison Detune' (0.090000)
+- 00000000 000077   53: 'Unison Spread' (0.410000)
+- 00000000 000077   54: 'Panpot' (0.500000)
+- 00000000 000077   55: 'Output Volume' (0.950000)
+- 00000000 000077   56: 'Master Volume' (0.830000)
+- 00000000 000077   57: 'FX1 Dry/Wet' (1.000000)
+- 00000000 000077   58: 'FX1 Input Gain' (0.777778)
+- 00000000 000077   59: 'FX1 Output Gain' (0.777778)
+- 00000000 000077   60: 'FX2 Dry/Wet' (0.030000)
+- 00000000 000077   61: 'FX2 Input Gain' (0.777778)
+- 00000000 000077   62: 'FX2 Output Gain' (0.777778)
+- 00000000 000077   63: 'PitchBend' (0.500000)
+- 00000000 000077   64: 'Modulation' (0.000000)
+- 00000000 000077   65: 'Modulation 2' (0.000000)
+- 00000000 000077   66: 'Modulation 3' (0.000000)
+- 00000000 000077   67: 'Modulation 4' (0.000000)
+- 00000000 000077   68: 'Damper' (0.000000)
+- 00000000 000077 Programs (0 total):
+- 00000000 000077 Current program: 'A#Poly Vinsky'
+- 00000000 000077 Common canDo's:
+- 00000000 000077   sendVstEvents: Yes
+- 00000000 000077   sendVstMidiEvent: Yes
+- 00000000 000077   receiveVstEvents: Don't know
+- 00000000 000077   receiveVstMidiEvent: Don't know
+- 00000000 000077   receiveVstTimeInfo: Don't know
+- 00000000 000077   offline: Don't know
+- 00000000 000077   midiProgramNames: Don't know
+- 00000000 000077   bypass: Don't know
+E 00000000 000077 Output source could not be opened, exiting

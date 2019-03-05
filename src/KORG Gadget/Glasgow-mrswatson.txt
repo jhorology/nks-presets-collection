@@ -1,39 +1,38 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000004 Plugin 'Glasgow' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Glasgow'
-- 00000000 000088 Information for VST2.x plugin 'Glasgow'
-- 00000000 000088 Vendor: KORG
-- 00000000 000088 Version: 0
-- 00000000 000088 Unique ID: KG22
-- 00000000 000088 Plugin type: instrument, category 2
-- 00000000 000088 Version: 1
-- 00000000 000088 I/O: 0/2
-- 00000000 000088 InitialDelay: 0 frames
-- 00000000 000088 GUI Editor: yes
-- 00000000 000088 Parameters (14 total):
-- 00000000 000088   0: 'Pitch Bend' (0.500000)
-- 00000000 000088   1: 'Modulation Wheel' (0.000000)
-- 00000000 000088   2: 'Damper' (0.000000)
-- 00000000 000088   3: 'Mod Fx Edit 1' (0.582677)
-- 00000000 000088   4: 'Mod Fx Edit 2' (0.661417)
-- 00000000 000088   5: 'Ambi Fx Edit 1' (0.196850)
-- 00000000 000088   6: 'Ambi Fx Edit 2' (0.314961)
-- 00000000 000088   7: 'Edit 1' (1.000000)
-- 00000000 000088   8: 'Edit 2' (0.000000)
-- 00000000 000088   9: 'Edit 3' (0.503937)
-- 00000000 000088   10: 'Edit 4' (0.039370)
-- 00000000 000088   11: 'Attack' (0.291339)
-- 00000000 000088   12: 'Release' (0.291339)
-- 00000000 000088   13: 'Inst Level' (0.803150)
-- 00000000 000088 Programs (0 total):
-- 00000000 000088 Current program: '1#0#5#1#1#Strings#Strin'
-- 00000000 000088 Common canDo's:
-- 00000000 000088   sendVstEvents: Don't know
-- 00000000 000088   sendVstMidiEvent: Don't know
-- 00000000 000088   receiveVstEvents: Don't know
-- 00000000 000088   receiveVstMidiEvent: Don't know
-- 00000000 000088   receiveVstTimeInfo: Don't know
-- 00000000 000088   offline: Don't know
-- 00000000 000088   midiProgramNames: Don't know
-- 00000000 000088   bypass: Don't know
-E 00000000 000088 Output source could not be opened, exiting
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Glasgow' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Glasgow'
+- 00000000 000059 Information for VST2.x plugin 'Glasgow'
+- 00000000 000059 Vendor: KORG
+- 00000000 000059 Version: 0
+- 00000000 000059 Unique ID: KG22
+- 00000000 000059 Plugin type: instrument, category 2
+- 00000000 000059 Version: 1
+- 00000000 000059 I/O: 0/2
+- 00000000 000059 InitialDelay: 0 frames
+- 00000000 000059 Parameters (14 total):
+- 00000000 000059   0: 'Pitch Bend' (0.500000)
+- 00000000 000059   1: 'Modulation Wheel' (0.000000)
+- 00000000 000059   2: 'Damper' (0.000000)
+- 00000000 000059   3: 'Mod Fx Edit 1' (0.582677)
+- 00000000 000059   4: 'Mod Fx Edit 2' (0.661417)
+- 00000000 000059   5: 'Ambi Fx Edit 1' (0.196850)
+- 00000000 000059   6: 'Ambi Fx Edit 2' (0.314961)
+- 00000000 000059   7: 'Edit 1' (1.000000)
+- 00000000 000059   8: 'Edit 2' (0.000000)
+- 00000000 000059   9: 'Edit 3' (0.503937)
+- 00000000 000059   10: 'Edit 4' (0.039370)
+- 00000000 000059   11: 'Attack' (0.291339)
+- 00000000 000059   12: 'Release' (0.291339)
+- 00000000 000059   13: 'Inst Level' (0.803150)
+- 00000000 000059 Programs (0 total):
+- 00000000 000059 Current program: '1#0#5#1#1#Strings#Strin'
+- 00000000 000059 Common canDo's:
+- 00000000 000059   sendVstEvents: Yes
+- 00000000 000059   sendVstMidiEvent: Yes
+- 00000000 000059   receiveVstEvents: Don't know
+- 00000000 000059   receiveVstMidiEvent: Don't know
+- 00000000 000059   receiveVstTimeInfo: Don't know
+- 00000000 000059   offline: Don't know
+- 00000000 000059   midiProgramNames: Don't know
+- 00000000 000059   bypass: Don't know
+E 00000000 000059 Output source could not be opened, exiting

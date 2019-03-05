@@ -1,30 +1,29 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
 - 00000000 000003 Plugin 'Zurich' is of type VST2.x
 - 00000000 000003 Opening VST2.x plugin 'Zurich'
-- 00000000 000055 Information for VST2.x plugin 'Zurich'
-- 00000000 000055 Vendor: KORG
-- 00000000 000055 Version: 0
-- 00000000 000055 Unique ID: KG29
-- 00000000 000055 Plugin type: effect, category 0
-- 00000000 000055 Version: 1
-- 00000000 000055 I/O: 2/2
-- 00000000 000055 InitialDelay: 0 frames
-- 00000000 000055 GUI Editor: yes
-- 00000000 000055 Parameters (5 total):
-- 00000000 000055   0: 'FX Type' (0.000000)
-- 00000000 000055   1: 'FX Edit1' (0.503937)
-- 00000000 000055   2: 'FX Edit2' (0.503937)
-- 00000000 000055   3: 'Input Level' (0.800000)
-- 00000000 000055   4: 'Output Level' (0.800000)
-- 00000000 000055 Programs (0 total):
-- 00000000 000055 Current program: 'Zurich'
-- 00000000 000055 Common canDo's:
-- 00000000 000055   sendVstEvents: Don't know
-- 00000000 000055   sendVstMidiEvent: Don't know
-- 00000000 000055   receiveVstEvents: Don't know
-- 00000000 000055   receiveVstMidiEvent: Don't know
-- 00000000 000055   receiveVstTimeInfo: Don't know
-- 00000000 000055   offline: Don't know
-- 00000000 000055   midiProgramNames: Don't know
-- 00000000 000055   bypass: Don't know
-E 00000000 000055 Output source could not be opened, exiting
+- 00000000 000032 Information for VST2.x plugin 'Zurich'
+- 00000000 000032 Vendor: KORG
+- 00000000 000032 Version: 0
+- 00000000 000032 Unique ID: KG29
+- 00000000 000032 Plugin type: effect, category 0
+- 00000000 000032 Version: 1
+- 00000000 000032 I/O: 2/2
+- 00000000 000032 InitialDelay: 0 frames
+- 00000000 000032 Parameters (5 total):
+- 00000000 000032   0: 'FX Type' (0.000000)
+- 00000000 000032   1: 'FX Edit1' (0.503937)
+- 00000000 000032   2: 'FX Edit2' (0.503937)
+- 00000000 000032   3: 'Input Level' (0.800000)
+- 00000000 000032   4: 'Output Level' (0.800000)
+- 00000000 000032 Programs (0 total):
+- 00000000 000032 Current program: 'Zurich'
+- 00000000 000032 Common canDo's:
+- 00000000 000032   sendVstEvents: Yes
+- 00000000 000032   sendVstMidiEvent: Yes
+- 00000000 000032   receiveVstEvents: Don't know
+- 00000000 000032   receiveVstMidiEvent: Don't know
+- 00000000 000032   receiveVstTimeInfo: Don't know
+- 00000000 000032   offline: Don't know
+- 00000000 000032   midiProgramNames: Don't know
+- 00000000 000032   bypass: Don't know
+E 00000000 000032 Output source could not be opened, exiting

@@ -1,57 +1,56 @@
-- 00000000 000001 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000004 Plugin 'Vancouver' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Vancouver'
-- 00000000 000101 Information for VST2.x plugin 'Vancouver'
-- 00000000 000101 Vendor: KORG
-- 00000000 000101 Version: 0
-- 00000000 000101 Unique ID: KG35
-- 00000000 000101 Plugin type: instrument, category 2
-- 00000000 000101 Version: 1
-- 00000000 000101 I/O: 0/2
-- 00000000 000101 InitialDelay: 0 frames
-- 00000000 000101 GUI Editor: yes
-- 00000000 000101 Parameters (32 total):
-- 00000000 000101   0: 'OSC1 Start' (0.110200)
-- 00000000 000101   1: 'OSC1 Length' (1.000000)
-- 00000000 000101   2: 'OSC1 Loop SW' (0.000000)
-- 00000000 000101   3: 'OSC1 Loop Point' (0.000000)
-- 00000000 000101   4: 'OSC1 Reverse' (0.000000)
-- 00000000 000101   5: 'OSC1 Tune' (0.374792)
-- 00000000 000101   6: 'OSC1 Level' (0.874000)
-- 00000000 000101   7: 'EG1 Attack' (0.000000)
-- 00000000 000102   8: 'EG1 Release' (0.187000)
-- 00000000 000102   9: 'EG1 Sustain SW' (1.000000)
-- 00000000 000102   10: 'OSC2 Start' (0.000000)
-- 00000000 000102   11: 'OSC2 Length' (1.000000)
-- 00000000 000102   12: 'OSC2 Loop SW' (0.000000)
-- 00000000 000102   13: 'OSC2 Loop Point' (0.000000)
-- 00000000 000102   14: 'OSC2 Reverse SW' (0.000000)
-- 00000000 000102   15: 'OSC2 Tune' (0.646875)
-- 00000000 000102   16: 'OSC2 Level' (0.800000)
-- 00000000 000102   17: 'Sub Osc Wave' (0.000000)
-- 00000000 000102   18: 'Sub Osc Tune' (0.500000)
-- 00000000 000102   19: 'Sub Osc Level' (0.168000)
-- 00000000 000102   20: 'EG2 Attack' (0.000000)
-- 00000000 000102   21: 'EG2 Release' (0.200000)
-- 00000000 000102   22: 'EG2 Sustain SW' (1.000000)
-- 00000000 000102   23: 'Vibrato Speed' (0.380000)
-- 00000000 000102   24: 'Vibrato Depth' (0.000000)
-- 00000000 000102   25: 'Mono SW' (0.000000)
-- 00000000 000102   26: 'Portamento' (0.094488)
-- 00000000 000102   27: 'FX Time' (0.165354)
-- 00000000 000102   28: 'FX Depth' (0.338583)
-- 00000000 000102   29: 'Master Volume' (0.512000)
-- 00000000 000102   30: 'Pitch Bend' (0.500000)
-- 00000000 000102   31: 'Damper' (0.000000)
-- 00000000 000102 Programs (0 total):
-- 00000000 000102 Current program: 'Aye Lead'
-- 00000000 000102 Common canDo's:
-- 00000000 000102   sendVstEvents: Don't know
-- 00000000 000102   sendVstMidiEvent: Don't know
-- 00000000 000102   receiveVstEvents: Don't know
-- 00000000 000102   receiveVstMidiEvent: Don't know
-- 00000000 000102   receiveVstTimeInfo: Don't know
-- 00000000 000102   offline: Don't know
-- 00000000 000102   midiProgramNames: Don't know
-- 00000000 000102   bypass: Don't know
-E 00000000 000102 Output source could not be opened, exiting
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Vancouver' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Vancouver'
+- 00000000 000062 Information for VST2.x plugin 'Vancouver'
+- 00000000 000062 Vendor: KORG
+- 00000000 000062 Version: 0
+- 00000000 000062 Unique ID: KG35
+- 00000000 000062 Plugin type: instrument, category 2
+- 00000000 000062 Version: 1
+- 00000000 000062 I/O: 0/2
+- 00000000 000062 InitialDelay: 0 frames
+- 00000000 000062 Parameters (32 total):
+- 00000000 000062   0: 'OSC1 Start' (0.110200)
+- 00000000 000062   1: 'OSC1 Length' (1.000000)
+- 00000000 000062   2: 'OSC1 Loop SW' (0.000000)
+- 00000000 000062   3: 'OSC1 Loop Point' (0.000000)
+- 00000000 000062   4: 'OSC1 Reverse' (0.000000)
+- 00000000 000062   5: 'OSC1 Tune' (0.374792)
+- 00000000 000062   6: 'OSC1 Level' (0.874000)
+- 00000000 000062   7: 'EG1 Attack' (0.000000)
+- 00000000 000062   8: 'EG1 Release' (0.187000)
+- 00000000 000062   9: 'EG1 Sustain SW' (1.000000)
+- 00000000 000062   10: 'OSC2 Start' (0.000000)
+- 00000000 000062   11: 'OSC2 Length' (1.000000)
+- 00000000 000062   12: 'OSC2 Loop SW' (0.000000)
+- 00000000 000062   13: 'OSC2 Loop Point' (0.000000)
+- 00000000 000062   14: 'OSC2 Reverse SW' (0.000000)
+- 00000000 000062   15: 'OSC2 Tune' (0.646875)
+- 00000000 000062   16: 'OSC2 Level' (0.800000)
+- 00000000 000062   17: 'Sub Osc Wave' (0.000000)
+- 00000000 000062   18: 'Sub Osc Tune' (0.500000)
+- 00000000 000062   19: 'Sub Osc Level' (0.168000)
+- 00000000 000062   20: 'EG2 Attack' (0.000000)
+- 00000000 000062   21: 'EG2 Release' (0.200000)
+- 00000000 000062   22: 'EG2 Sustain SW' (1.000000)
+- 00000000 000062   23: 'Vibrato Speed' (0.380000)
+- 00000000 000062   24: 'Vibrato Depth' (0.000000)
+- 00000000 000062   25: 'Mono SW' (0.000000)
+- 00000000 000062   26: 'Portamento' (0.094488)
+- 00000000 000062   27: 'FX Time' (0.165354)
+- 00000000 000062   28: 'FX Depth' (0.338583)
+- 00000000 000062   29: 'Master Volume' (0.512000)
+- 00000000 000062   30: 'Pitch Bend' (0.500000)
+- 00000000 000062   31: 'Damper' (0.000000)
+- 00000000 000062 Programs (0 total):
+- 00000000 000062 Current program: 'Aye Lead'
+- 00000000 000062 Common canDo's:
+- 00000000 000062   sendVstEvents: Yes
+- 00000000 000062   sendVstMidiEvent: Yes
+- 00000000 000062   receiveVstEvents: Don't know
+- 00000000 000062   receiveVstMidiEvent: Don't know
+- 00000000 000062   receiveVstTimeInfo: Don't know
+- 00000000 000062   offline: Don't know
+- 00000000 000062   midiProgramNames: Don't know
+- 00000000 000062   bypass: Don't know
+E 00000000 000062 Output source could not be opened, exiting

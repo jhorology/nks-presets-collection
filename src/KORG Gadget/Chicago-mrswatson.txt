@@ -1,47 +1,46 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
 - 00000000 000003 Plugin 'Chicago' is of type VST2.x
 - 00000000 000003 Opening VST2.x plugin 'Chicago'
-- 00000000 000057 Information for VST2.x plugin 'Chicago'
-- 00000000 000057 Vendor: KORG
-- 00000000 000057 Version: 0
-- 00000000 000057 Unique ID: KG05
-- 00000000 000057 Plugin type: instrument, category 2
-- 00000000 000057 Version: 1
-- 00000000 000057 I/O: 0/2
-- 00000000 000057 InitialDelay: 0 frames
-- 00000000 000057 GUI Editor: yes
-- 00000000 000057 Parameters (22 total):
-- 00000000 000057   0: 'OSC Waveform' (0.000000)
-- 00000000 000057   1: 'Glide' (0.141732)
-- 00000000 000057   2: 'VCF Cutoff' (0.255000)
-- 00000000 000057   3: 'VCF Peak' (0.748031)
-- 00000000 000057   4: 'VCF Env Amt' (0.779955)
-- 00000000 000057   5: 'VCF Bite' (0.832513)
-- 00000000 000057   6: 'VCF Gnaw' (0.000000)
-- 00000000 000057   7: 'Env Attack' (0.267716)
-- 00000000 000057   8: 'Env Decay' (0.401575)
-- 00000000 000057   9: 'Env Sustain' (0.574803)
-- 00000000 000057   10: 'Env Release' (0.165354)
-- 00000000 000057   11: 'Amp Mode' (1.000000)
-- 00000000 000057   12: 'Amp Level' (0.803150)
-- 00000000 000057   13: 'Arp Switch' (1.000000)
-- 00000000 000057   14: 'Arp Mode' (0.500000)
-- 00000000 000057   15: 'Arp Range' (0.500000)
-- 00000000 000057   16: 'Arp Speed' (0.834646)
-- 00000000 000057   17: 'FX Type' (0.000000)
-- 00000000 000057   18: 'FX Edit 1' (0.425197)
-- 00000000 000057   19: 'FX Edit 2' (0.000000)
-- 00000000 000057   20: 'Pitch Bend' (0.500000)
-- 00000000 000057   21: 'Damper' (0.000000)
-- 00000000 000057 Programs (0 total):
-- 00000000 000057 Current program: 'Bite Bass'
-- 00000000 000057 Common canDo's:
-- 00000000 000057   sendVstEvents: Don't know
-- 00000000 000057   sendVstMidiEvent: Don't know
-- 00000000 000057   receiveVstEvents: Don't know
-- 00000000 000057   receiveVstMidiEvent: Don't know
-- 00000000 000057   receiveVstTimeInfo: Don't know
-- 00000000 000057   offline: Don't know
-- 00000000 000057   midiProgramNames: Don't know
-- 00000000 000057   bypass: Don't know
-E 00000000 000057 Output source could not be opened, exiting
+- 00000000 000038 Information for VST2.x plugin 'Chicago'
+- 00000000 000038 Vendor: KORG
+- 00000000 000038 Version: 0
+- 00000000 000038 Unique ID: KG05
+- 00000000 000038 Plugin type: instrument, category 2
+- 00000000 000038 Version: 1
+- 00000000 000038 I/O: 0/2
+- 00000000 000038 InitialDelay: 0 frames
+- 00000000 000038 Parameters (22 total):
+- 00000000 000038   0: 'OSC Waveform' (0.000000)
+- 00000000 000038   1: 'Glide' (0.141732)
+- 00000000 000038   2: 'VCF Cutoff' (0.255000)
+- 00000000 000038   3: 'VCF Peak' (0.748031)
+- 00000000 000038   4: 'VCF Env Amt' (0.779955)
+- 00000000 000038   5: 'VCF Bite' (0.832513)
+- 00000000 000038   6: 'VCF Gnaw' (0.000000)
+- 00000000 000038   7: 'Env Attack' (0.267716)
+- 00000000 000038   8: 'Env Decay' (0.401575)
+- 00000000 000038   9: 'Env Sustain' (0.574803)
+- 00000000 000038   10: 'Env Release' (0.165354)
+- 00000000 000038   11: 'Amp Mode' (1.000000)
+- 00000000 000038   12: 'Amp Level' (0.803150)
+- 00000000 000038   13: 'Arp Switch' (1.000000)
+- 00000000 000038   14: 'Arp Mode' (0.500000)
+- 00000000 000038   15: 'Arp Range' (0.500000)
+- 00000000 000038   16: 'Arp Speed' (0.834646)
+- 00000000 000038   17: 'FX Type' (0.000000)
+- 00000000 000038   18: 'FX Edit 1' (0.425197)
+- 00000000 000038   19: 'FX Edit 2' (0.000000)
+- 00000000 000038   20: 'Pitch Bend' (0.500000)
+- 00000000 000038   21: 'Damper' (0.000000)
+- 00000000 000038 Programs (0 total):
+- 00000000 000038 Current program: 'Bite Bass'
+- 00000000 000038 Common canDo's:
+- 00000000 000038   sendVstEvents: Yes
+- 00000000 000038   sendVstMidiEvent: Yes
+- 00000000 000038   receiveVstEvents: Don't know
+- 00000000 000038   receiveVstMidiEvent: Don't know
+- 00000000 000038   receiveVstTimeInfo: Don't know
+- 00000000 000038   offline: Don't know
+- 00000000 000038   midiProgramNames: Don't know
+- 00000000 000038   bypass: Don't know
+E 00000000 000038 Output source could not be opened, exiting

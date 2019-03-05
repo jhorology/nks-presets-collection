@@ -1,55 +1,54 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
 - 00000000 000003 Plugin 'Berlin' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Berlin'
-- 00000000 000132 Information for VST2.x plugin 'Berlin'
-- 00000000 000132 Vendor: KORG
-- 00000000 000132 Version: 0
-- 00000000 000132 Unique ID: KG02
-- 00000000 000132 Plugin type: instrument, category 2
-- 00000000 000132 Version: 1
-- 00000000 000132 I/O: 0/2
-- 00000000 000132 InitialDelay: 0 frames
-- 00000000 000132 GUI Editor: yes
-- 00000000 000132 Parameters (30 total):
-- 00000000 000132   0: 'Portamento' (0.230376)
-- 00000000 000132   1: 'Pitch Bend' (0.500046)
-- 00000000 000132   2: 'Vibrato Amt' (0.000000)
-- 00000000 000132   3: 'VCO Pitch' (0.500000)
-- 00000000 000132   4: 'VCO Waveform' (0.333333)
-- 00000000 000132   5: 'VCO Tone' (0.251969)
-- 00000000 000132   6: 'VCO Balance' (0.519685)
-- 00000000 000132   7: 'VCO Mod Amt' (0.566929)
-- 00000000 000132   8: 'VCO Mod Src' (0.000000)
-- 00000000 000132   9: 'EG1 Atack' (0.417323)
-- 00000000 000132   10: 'EG1 Decay' (0.472441)
-- 00000000 000132   11: 'LFO Shape' (0.000000)
-- 00000000 000132   12: 'LFO Freq' (0.196850)
-- 00000000 000132   13: 'LFO Key Sync' (0.004306)
-- 00000000 000132   14: 'LFO BPM Sync' (0.000000)
-- 00000000 000132   15: 'VCF Frequency' (1.000000)
-- 00000000 000132   16: 'VCF Resonance' (0.000000)
-- 00000000 000132   17: 'VCF EG1 Amt' (0.000000)
-- 00000000 000132   18: 'VCF LFO Amt' (0.000000)
-- 00000000 000132   19: 'VCF KBD Amt' (0.464567)
-- 00000000 000132   20: 'VCA Attack' (0.000000)
-- 00000000 000132   21: 'VCA Decay' (0.342643)
-- 00000000 000132   22: 'VCA Sustain' (0.939192)
-- 00000000 000132   23: 'VCA Release' (0.000000)
-- 00000000 000132   24: 'Legato' (1.000000)
-- 00000000 000132   25: 'Delay Time' (0.496061)
-- 00000000 000132   26: 'Delay Level' (0.598425)
-- 00000000 000132   27: 'Delay Spread' (1.000000)
-- 00000000 000132   28: 'Master Level' (0.708661)
-- 00000000 000132   29: 'Damper' (0.000000)
-- 00000000 000132 Programs (0 total):
-- 00000000 000132 Current program: 'Synkronized'
-- 00000000 000132 Common canDo's:
-- 00000000 000132   sendVstEvents: Don't know
-- 00000000 000132   sendVstMidiEvent: Don't know
-- 00000000 000132   receiveVstEvents: Don't know
-- 00000000 000132   receiveVstMidiEvent: Don't know
-- 00000000 000132   receiveVstTimeInfo: Don't know
-- 00000000 000132   offline: Don't know
-- 00000000 000132   midiProgramNames: Don't know
-- 00000000 000132   bypass: Don't know
-E 00000000 000132 Output source could not be opened, exiting
+- 00000000 000003 Opening VST2.x plugin 'Berlin'
+- 00000000 000075 Information for VST2.x plugin 'Berlin'
+- 00000000 000075 Vendor: KORG
+- 00000000 000075 Version: 0
+- 00000000 000075 Unique ID: KG02
+- 00000000 000075 Plugin type: instrument, category 2
+- 00000000 000075 Version: 1
+- 00000000 000075 I/O: 0/2
+- 00000000 000075 InitialDelay: 0 frames
+- 00000000 000075 Parameters (30 total):
+- 00000000 000075   0: 'Portamento' (0.230376)
+- 00000000 000075   1: 'Pitch Bend' (0.500046)
+- 00000000 000075   2: 'Vibrato Amt' (0.000000)
+- 00000000 000075   3: 'VCO Pitch' (0.500000)
+- 00000000 000075   4: 'VCO Waveform' (0.333333)
+- 00000000 000075   5: 'VCO Tone' (0.251969)
+- 00000000 000075   6: 'VCO Balance' (0.519685)
+- 00000000 000075   7: 'VCO Mod Amt' (0.566929)
+- 00000000 000075   8: 'VCO Mod Src' (0.000000)
+- 00000000 000075   9: 'EG1 Atack' (0.417323)
+- 00000000 000075   10: 'EG1 Decay' (0.472441)
+- 00000000 000075   11: 'LFO Shape' (0.000000)
+- 00000000 000075   12: 'LFO Freq' (0.196850)
+- 00000000 000075   13: 'LFO Key Sync' (0.004306)
+- 00000000 000075   14: 'LFO BPM Sync' (0.000000)
+- 00000000 000075   15: 'VCF Frequency' (1.000000)
+- 00000000 000075   16: 'VCF Resonance' (0.000000)
+- 00000000 000075   17: 'VCF EG1 Amt' (0.000000)
+- 00000000 000075   18: 'VCF LFO Amt' (0.000000)
+- 00000000 000075   19: 'VCF KBD Amt' (0.464567)
+- 00000000 000075   20: 'VCA Attack' (0.000000)
+- 00000000 000075   21: 'VCA Decay' (0.342643)
+- 00000000 000075   22: 'VCA Sustain' (0.939192)
+- 00000000 000075   23: 'VCA Release' (0.000000)
+- 00000000 000075   24: 'Legato' (1.000000)
+- 00000000 000075   25: 'Delay Time' (0.496061)
+- 00000000 000075   26: 'Delay Level' (0.598425)
+- 00000000 000075   27: 'Delay Spread' (1.000000)
+- 00000000 000075   28: 'Master Level' (0.708661)
+- 00000000 000075   29: 'Damper' (0.000000)
+- 00000000 000075 Programs (0 total):
+- 00000000 000075 Current program: 'Synkronized'
+- 00000000 000075 Common canDo's:
+- 00000000 000075   sendVstEvents: Yes
+- 00000000 000075   sendVstMidiEvent: Yes
+- 00000000 000075   receiveVstEvents: Don't know
+- 00000000 000075   receiveVstMidiEvent: Don't know
+- 00000000 000075   receiveVstTimeInfo: Don't know
+- 00000000 000075   offline: Don't know
+- 00000000 000075   midiProgramNames: Don't know
+- 00000000 000075   bypass: Don't know
+E 00000000 000075 Output source could not be opened, exiting

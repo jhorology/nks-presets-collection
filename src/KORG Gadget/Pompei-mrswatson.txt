@@ -1,0 +1,64 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Pompei' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Pompei'
+- 00000000 000080 Information for VST2.x plugin 'Pompei'
+- 00000000 000080 Vendor: KORG
+- 00000000 000080 Version: 0
+- 00000000 000080 Unique ID: KG37
+- 00000000 000080 Plugin type: instrument, category 2
+- 00000000 000080 Version: 1
+- 00000000 000080 I/O: 0/2
+- 00000000 000080 InitialDelay: 0 frames
+- 00000000 000080 Parameters (40 total):
+- 00000000 000080   0: 'Unison Detune' (0.000000)
+- 00000000 000080   1: 'Unison Spread' (0.510000)
+- 00000000 000080   2: 'VCO Octave' (0.500000)
+- 00000000 000080   3: 'VCO Waveform' (0.250000)
+- 00000000 000080   4: 'VCO PW / PWM' (0.000000)
+- 00000000 000080   5: 'VCO PWM Speed' (0.000000)
+- 00000000 000080   6: 'VCO EG Intensity' (0.500000)
+- 00000000 000080   7: 'VCO Sub OSC' (1.000000)
+- 00000000 000080   8: 'VCF Cutoff' (0.680000)
+- 00000000 000080   9: 'VCF Resonance' (0.000000)
+- 00000000 000080   10: 'VCF EG Intensity' (0.688000)
+- 00000000 000080   11: 'VCF Kbd Track' (0.148000)
+- 00000000 000080   12: 'VCF Mode' (0.000000)
+- 00000000 000080   13: 'VCA Mode' (1.000000)
+- 00000000 000080   14: 'VCA Attenuator' (0.600000)
+- 00000000 000080   15: 'Output Volume' (0.661000)
+- 00000000 000080   16: 'MG Key Sync' (0.000000)
+- 00000000 000080   17: 'MG BPM Sync' (0.000000)
+- 00000000 000080   18: 'MG Frequency' (0.588000)
+- 00000000 000080   19: 'MG Delay Time' (0.000000)
+- 00000000 000080   20: 'MG Level' (0.002000)
+- 00000000 000080   21: 'MG Destination' (1.000000)
+- 00000000 000080   22: 'EG Attack' (0.000000)
+- 00000000 000080   23: 'EG Decay' (0.440000)
+- 00000000 000080   24: 'EG Sustain' (0.470000)
+- 00000000 000080   25: 'EG Release' (0.431000)
+- 00000000 000080   26: 'Arp Switch' (0.000000)
+- 00000000 000080   27: 'Arp Key Sync' (1.000000)
+- 00000000 000080   28: 'Arp BPM Sync' (1.000000)
+- 00000000 000080   29: 'Arp Speed' (0.780000)
+- 00000000 000080   30: 'Arp Range' (0.000000)
+- 00000000 000080   31: 'Arp Mode' (1.000000)
+- 00000000 000080   32: 'P.Bend Range' (0.583333)
+- 00000000 000080   33: 'Transpose' (0.500000)
+- 00000000 000080   34: 'Pitch Bend' (0.500000)
+- 00000000 000080   35: 'Modulation' (0.000000)
+- 00000000 000080   36: 'FX Switch' (1.000000)
+- 00000000 000080   37: 'FX Type' (0.074074)
+- 00000000 000080   38: 'FX Edit 1' (0.881890)
+- 00000000 000080   39: 'FX Edit 2' (0.763780)
+- 00000000 000080 Programs (0 total):
+- 00000000 000080 Current program: 'Classic Poly'
+- 00000000 000080 Common canDo's:
+- 00000000 000080   sendVstEvents: Yes
+- 00000000 000080   sendVstMidiEvent: Yes
+- 00000000 000080   receiveVstEvents: Don't know
+- 00000000 000080   receiveVstMidiEvent: Don't know
+- 00000000 000080   receiveVstTimeInfo: Don't know
+- 00000000 000080   offline: Don't know
+- 00000000 000080   midiProgramNames: Don't know
+- 00000000 000080   bypass: Don't know
+E 00000000 000080 Output source could not be opened, exiting

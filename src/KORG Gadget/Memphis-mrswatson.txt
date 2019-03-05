@@ -1,0 +1,68 @@
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000003 Plugin 'Memphis' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Memphis'
+- 00000000 000034 Information for VST2.x plugin 'Memphis'
+- 00000000 000034 Vendor: KORG
+- 00000000 000034 Version: 0
+- 00000000 000034 Unique ID: KG38
+- 00000000 000034 Plugin type: instrument, category 2
+- 00000000 000034 Version: 1
+- 00000000 000034 I/O: 0/2
+- 00000000 000034 InitialDelay: 0 frames
+- 00000000 000034 Parameters (44 total):
+- 00000000 000034   0: 'VCO1 Waveform' (0.000000)
+- 00000000 000034   1: 'VCO1 PW' (0.000000)
+- 00000000 000034   2: 'VCO1 Scale' (0.000000)
+- 00000000 000034   3: 'Portamento Time' (0.431000)
+- 00000000 000034   4: 'VCO2 Waveform' (0.333333)
+- 00000000 000034   5: 'VCO2 Tune' (0.509000)
+- 00000000 000034   6: 'VCO2 Scale' (0.000000)
+- 00000000 000034   7: 'Master Tune' (0.500000)
+- 00000000 000034   8: 'VCO1 Level' (1.000000)
+- 00000000 000034   9: 'VCO2 Level' (0.000000)
+- 00000000 000034   10: 'Pitch MG/T.Ext' (0.000000)
+- 00000000 000034   11: 'Pitch Eg1/Ext' (0.297000)
+- 00000000 000034   12: 'HPF Cutoff' (0.000000)
+- 00000000 000034   13: 'HPF Peak' (0.000000)
+- 00000000 000034   14: 'HPF MG/T.Ext' (0.000000)
+- 00000000 000034   15: 'HPF EG2/Ext' (0.000000)
+- 00000000 000034   16: 'LPF Cutoff' (0.322000)
+- 00000000 000034   17: 'LPF Peak' (0.000000)
+- 00000000 000034   18: 'LPF MG/T.Ext' (0.000000)
+- 00000000 000034   19: 'LPF EG2/Ext' (0.822000)
+- 00000000 000034   20: 'MG Waveform' (0.500000)
+- 00000000 000034   21: 'MG Frequency' (0.400000)
+- 00000000 000034   22: 'EG 1 Delay' (0.000000)
+- 00000000 000034   23: 'EG 1 Attack' (0.000000)
+- 00000000 000034   24: 'EG 1 Release' (0.000000)
+- 00000000 000034   25: 'EG 2 Hold' (0.000000)
+- 00000000 000034   26: 'EG 2 Attack' (0.000000)
+- 00000000 000034   27: 'EG 2 Decay' (0.447000)
+- 00000000 000034   28: 'EG 2 Sustain' (0.012000)
+- 00000000 000034   29: 'EG 2 Release' (0.072000)
+- 00000000 000034   30: 'ESP Signal Level' (0.000000)
+- 00000000 000034   31: 'ESP Low Cut' (0.000000)
+- 00000000 000034   32: 'ESP High Cut' (1.000000)
+- 00000000 000034   33: 'ESP CV Adjust' (0.000000)
+- 00000000 000034   34: 'ESP Threshold' (0.000000)
+- 00000000 000034   35: 'Volume' (0.800101)
+- 00000000 000034   36: 'Wheel' (0.259843)
+- 00000000 000034   37: 'Momentary Switch' (0.000000)
+- 00000000 000034   38: 'MG Tempo Sync' (0.000000)
+- 00000000 000034   39: 'MG Key Sync' (0.000000)
+- 00000000 000034   40: 'Effect Type' (0.384615)
+- 00000000 000034   41: 'Effect SW' (0.000000)
+- 00000000 000034   42: 'Effect Edit 1' (0.800000)
+- 00000000 000034   43: 'Effect Edit 2' (0.800000)
+- 00000000 000034 Programs (0 total):
+- 00000000 000034 Current program: 'MS Tri Bass'
+- 00000000 000034 Common canDo's:
+- 00000000 000034   sendVstEvents: Yes
+- 00000000 000034   sendVstMidiEvent: Yes
+- 00000000 000034   receiveVstEvents: Don't know
+- 00000000 000034   receiveVstMidiEvent: Don't know
+- 00000000 000034   receiveVstTimeInfo: Don't know
+- 00000000 000034   offline: Don't know
+- 00000000 000034   midiProgramNames: Don't know
+- 00000000 000034   bypass: Don't know
+E 00000000 000034 Output source could not be opened, exiting

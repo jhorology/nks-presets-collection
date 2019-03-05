@@ -1,38 +1,37 @@
-- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20170220
-- 00000000 000003 Plugin 'Marseille' is of type VST2.x
-- 00000000 000004 Opening VST2.x plugin 'Marseille'
-- 00000000 000083 Information for VST2.x plugin 'Marseille'
-- 00000000 000083 Vendor: KORG
-- 00000000 000083 Version: 0
-- 00000000 000083 Unique ID: KG11
-- 00000000 000083 Plugin type: instrument, category 2
-- 00000000 000083 Version: 1
-- 00000000 000083 I/O: 0/2
-- 00000000 000083 InitialDelay: 0 frames
-- 00000000 000083 GUI Editor: yes
-- 00000000 000083 Parameters (13 total):
-- 00000000 000083   0: 'Env Attack' (0.000000)
-- 00000000 000083   1: 'Env Decay' (0.905512)
-- 00000000 000083   2: 'Env Sustain' (0.000000)
-- 00000000 000083   3: 'Env Release' (0.244094)
-- 00000000 000083   4: 'Output Level' (1.000000)
-- 00000000 000083   5: 'FX1 Type' (0.080000)
-- 00000000 000083   6: 'FX1 Edit 1' (0.582677)
-- 00000000 000083   7: 'FX1 Edit 2' (0.299213)
-- 00000000 000083   8: 'FX2 Type' (0.960000)
-- 00000000 000083   9: 'FX2 Edit 1' (0.102363)
-- 00000000 000083   10: 'FX2 Edit 2' (0.314961)
-- 00000000 000083   11: 'Pitch Bend' (0.500000)
-- 00000000 000083   12: 'Damper' (0.000000)
-- 00000000 000083 Programs (0 total):
-- 00000000 000083 Current program: 'Marseille Piano'
-- 00000000 000083 Common canDo's:
-- 00000000 000083   sendVstEvents: Don't know
-- 00000000 000083   sendVstMidiEvent: Don't know
-- 00000000 000083   receiveVstEvents: Don't know
-- 00000000 000083   receiveVstMidiEvent: Don't know
-- 00000000 000084   receiveVstTimeInfo: Don't know
-- 00000000 000084   offline: Don't know
-- 00000000 000084   midiProgramNames: Don't know
-- 00000000 000084   bypass: Don't know
-E 00000000 000084 Output source could not be opened, exiting
+- 00000000 000000 MrsWatson version 0.9.8 initialized, build 20150122
+- 00000000 000002 Plugin 'Marseille' is of type VST2.x
+- 00000000 000003 Opening VST2.x plugin 'Marseille'
+- 00000000 000055 Information for VST2.x plugin 'Marseille'
+- 00000000 000055 Vendor: KORG
+- 00000000 000055 Version: 0
+- 00000000 000055 Unique ID: KG11
+- 00000000 000055 Plugin type: instrument, category 2
+- 00000000 000055 Version: 1
+- 00000000 000055 I/O: 0/2
+- 00000000 000055 InitialDelay: 0 frames
+- 00000000 000055 Parameters (13 total):
+- 00000000 000055   0: 'Env Attack' (0.000000)
+- 00000000 000055   1: 'Env Decay' (0.905512)
+- 00000000 000055   2: 'Env Sustain' (0.000000)
+- 00000000 000055   3: 'Env Release' (0.244094)
+- 00000000 000055   4: 'Output Level' (1.000000)
+- 00000000 000055   5: 'FX1 Type' (0.080000)
+- 00000000 000055   6: 'FX1 Edit 1' (0.582677)
+- 00000000 000055   7: 'FX1 Edit 2' (0.299213)
+- 00000000 000055   8: 'FX2 Type' (0.960000)
+- 00000000 000055   9: 'FX2 Edit 1' (0.102363)
+- 00000000 000055   10: 'FX2 Edit 2' (0.314961)
+- 00000000 000055   11: 'Pitch Bend' (0.500000)
+- 00000000 000055   12: 'Damper' (0.000000)
+- 00000000 000055 Programs (0 total):
+- 00000000 000055 Current program: 'Marseille Piano'
+- 00000000 000055 Common canDo's:
+- 00000000 000055   sendVstEvents: Yes
+- 00000000 000055   sendVstMidiEvent: Yes
+- 00000000 000055   receiveVstEvents: Don't know
+- 00000000 000055   receiveVstMidiEvent: Don't know
+- 00000000 000055   receiveVstTimeInfo: Don't know
+- 00000000 000055   offline: Don't know
+- 00000000 000055   midiProgramNames: Don't know
+- 00000000 000055   bypass: Don't know
+E 00000000 000055 Output source could not be opened, exiting

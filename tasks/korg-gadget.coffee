@@ -10,6 +10,7 @@ tap         = require 'gulp-tap'
 data        = require 'gulp-data'
 gzip        = require 'gulp-gzip'
 rename      = require 'gulp-rename'
+ignore      = require 'gulp-ignore'
 commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
@@ -44,17 +45,18 @@ $ = Object.assign {}, (require '../config'),
     {plugin: 'London',      dir: 'London (Drum)',           type: 'Drum',       numParams: 92}
     {plugin: 'Madrid',      dir: 'Madrid (Bass)',           type: 'Instrument', numParams: 19}
     {plugin: 'Marseille',   dir: 'Marseille (Keys)',        type: 'Instrument', numParams: 13}
+    {plugin: 'Memphis',     dir: 'Memphis (MS-20)',         type: 'Instrument', numParams: 44}
     {plugin: 'Miami',       dir: 'Miami (Wobble)',          type: 'Instrument', numParams: 18}
     {plugin: 'Milpitas',    dir: 'Milpitas (Wavestation)',  type: 'Instrument', numParams: 8}
-    # KORG failed packaging, half of montpellier's nksfs are size 0.
-    # I will activate after update
-    # {plugin: 'Montpellier', dir: 'Montpellier (Mono-Poly)', type: 'Instrument', numParams: 69}
+    {plugin: 'Montpellier', dir: 'Montpellier (Mono-Poly)', type: 'Instrument', numParams: 69}
     {plugin: 'Montreal',    dir: 'Montreal (E.Piano)',      type: 'Instrument', numParams: 17}
     {plugin: 'Phoenix',     dir: 'Phoenix (Analog)',        type: 'Instrument', numParams: 38}
+    {plugin: 'Pompei',      dir: 'Pompei (Polysix)',        type: 'Instrument', numParams: 40}
     {plugin: 'Recife',      dir: 'Recife (Drum)',           type: 'Drum',       numParams: 196}
     # Rosairio doesn't have NKS Presets
     # {plugin: 'Rosario',     dir: 'Rosario (G.Amp)',         type: 'Audio Effect', numParams: 18}
     {plugin: 'Salzburg',    dir: 'Salzburg (Piano)',        type: 'Instrument', numParams: 13}
+    {plugin: 'Stockholm',   dir: 'Stockholm (Dr. Octorex)', type: 'Drum',       numParams: 53}
     {plugin: 'Tokyo',       dir: 'Tokyo (E.Perc)',          type: 'Drum',       numParams: 34}
     {plugin: 'Vancouver',   dir: 'Vancouver (Sample)',      type: 'Instrument', numParams: 32}
     {plugin: 'Wolfsburg',   dir: 'Wolfsburg (Digital)',     type: 'Instrument', numParams: 52}
@@ -89,6 +91,8 @@ $.gadgets.forEach (gadget) ->
       when 'Audio Effect'
         "#{$.Ableton.effectRacks}/KORG Gadget/#{gadget.dir}"
     gulp.src [nksPresets]
+      # some of Montpellier's nksf is size 0.
+      .pipe ignore (file) -> file.contents.length is 0
       .pipe exporter.gulpParseNksf()
       .pipe exporter.gulpTemplate()
       .pipe gzip append: off       # append '.gz' extension
@@ -114,6 +118,8 @@ $.gadgets.forEach (gadget) ->
     exporter = bwExporter "src/KORG Gadget/templates/#{gadget.dir}.bwpreset"
     dest = "#{$.Bitwig.presets}/KORG Gadget/#{gadget.dir}"
     gulp.src [nksPresets]
+      # some of Montpellier's nksf is size 0.
+      .pipe ignore (file) -> file.contents.length is 0
       .pipe exporter.gulpParseNksf()
       .pipe tap (file) ->
         # edit file path
@@ -130,6 +136,8 @@ $.gadgets.forEach (gadget) ->
     dest = "#{$.fxpPresets}/KORG Gadget/#{gadget.dir}"
     console.info dest
     gulp.src [nksPresets]
+      # some of Montpellier's nksf is size 0.
+      .pipe ignore (file) -> file.contents.length is 0
       .pipe fxpExporter.gulpNksf2Fxp(gadget.numParams)
       .pipe tap (file) ->
         # edit file path
