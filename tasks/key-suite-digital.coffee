@@ -96,10 +96,6 @@ $ = Object.assign {}, (require '../config'),
             </Children>
         </Synth>
         <Automation>
-            <AutomationConnection sourceIndex="0" targetPath="/uvi/Part 0/Program/EventProcessor0" parameterName="FilterOnOff" parameterDisplayName=""/>
-            <AutomationConnection sourceIndex="1" targetPath="/uvi/Part 0/Program/EventProcessor0" parameterName="FilterType" parameterDisplayName=""/>
-            <AutomationConnection sourceIndex="2" targetPath="/uvi/Part 0/Program/EventProcessor0" parameterName="Cutoff" parameterDisplayName=""/>
-            <AutomationConnection sourceIndex="3" targetPath="/uvi/Part 0/Program/EventProcessor0" parameterName="FilterReso" parameterDisplayName=""/>
         </Automation>
     </Engine>
     <NeededFS Source="/Library/Application Support/UVISoundBanks/Key Suite Digital.ufs"/>
