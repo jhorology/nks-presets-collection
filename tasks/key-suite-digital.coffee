@@ -115,7 +115,7 @@ $ = Object.assign {}, (require '../config'),
     PFM:  'E-MU PROFORMANCE /1'
     SPM:  'ensoniq SPM-1'
     T80:  'Rhodes mk-80'
-    TM:   'KURZERIL MicroPiano'
+    TM:   'KURZWEIL MicroPiano'
     T20:  'Roland MKS-20'
     TXP:  'YAMAHA TX1P'
   # bank
@@ -263,7 +263,6 @@ gulp.task "#{$.prefix}-generate-meta", ->
       )(basename)
       unless category
         throw new Error "category not found. name: #{basename}"
-      folder = file.relative.split path.sep
       file.contents = Buffer.from util.beautify
         author: ''
         bankchain: [$.dir, bankName, '']
