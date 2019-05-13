@@ -74,7 +74,7 @@ module.exports = [
   # Modulator Chorus
   {section: 'Chorus',       id: 'ThorusSpeed',          name: 'Speed'}
   {section: 'Chorus',       id: 'ThorusDepth',          name: 'Depth'}
-  {section: 'Chrous',       id: 'ThorusMix',            name: 'Mix'}
+  {section: 'Chorus',       id: 'ThorusMix',            name: 'Mix'}
 
   # Modulator Flanger
   {section: 'Flanger',      id: 'FlangerSpeed',         name: 'Speed'}
