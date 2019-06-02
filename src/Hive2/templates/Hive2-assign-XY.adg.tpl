@@ -26,28 +26,26 @@
 						<FilePresetRef Id="0">
 							<FileRef>
 								<HasRelativePath Value="true" />
-								<RelativePathType Value="3" />
+								<RelativePathType Value="6" />
 								<RelativePath>
 									<RelativePathElement Id="0" Dir="Presets" />
 									<RelativePathElement Id="1" Dir="Instruments" />
 									<RelativePathElement Id="2" Dir="Instrument Rack" />
-									<RelativePathElement Id="3" Dir="Hive2" />
-									<RelativePathElement Id="4" Dir="Bass" />
 								</RelativePath>
-								<Name Value="ARK Beefy.adg" />
+								<Name Value="Hive2.adg" />
 								<Type Value="2" />
 								<Data>
-									0000000001AC00020000054D65646961000000000000000000000000000000000000000000000000
-									000042440001FFFFFFFF0D41524B2042656566792E61646700000000000000000000000000000000
+									00000000019200020000054D65646961000000000000000000000000000000000000000000000000
+									000042440001FFFFFFFF0948697665322E6164670000000000000000000000000000000000000000
 									00000000000000000000000000000000000000000000000000000000000000000000FFFFFFFF0000
-									00000000000000000000FFFFFFFF00000A0063750000000000000000000000000004426173730002
-									00672F3A566F6C756D65733A4D656469613A4D757369633A41626C65746F6E3A55736572204C6962
-									726172793A507265736574733A496E737472756D656E74733A496E737472756D656E74205261636B
-									3A48697665323A426173733A41524B2042656566792E61646700000E001C000D00410052004B0020
-									00420065006500660079002E006100640067000F000C0005004D0065006400690061001200582F4D
-									757369632F41626C65746F6E2F55736572204C6962726172792F507265736574732F496E73747275
-									6D656E74732F496E737472756D656E74205261636B2F48697665322F426173732F41524B20426565
-									66792E6164670013000E2F566F6C756D65732F4D65646961FFFF0000
+									0000612D6467612D6C76FFFFFFFF00000A006375000000000000000000000000000F496E73747275
+									6D656E74205261636B00000200582F3A566F6C756D65733A4D656469613A4D757369633A41626C65
+									746F6E3A55736572204C6962726172793A507265736574733A496E737472756D656E74733A496E73
+									7472756D656E74205261636B3A48697665322E616467000E0014000900480069007600650032002E
+									006100640067000F000C0005004D0065006400690061001200492F4D757369632F41626C65746F6E
+									2F55736572204C6962726172792F507265736574732F496E737472756D656E74732F496E73747275
+									6D656E74205261636B2F48697665322E616467000013000E2F566F6C756D65732F4D65646961FFFF
+									0000
 								</Data>
 								<RefersToFolder Value="false" />
 								<SearchHint>
@@ -79,7 +77,7 @@
 				<AreDevicesVisible Value="true" />
 				<MacroControls.0>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -93,7 +91,7 @@
 				</MacroControls.0>
 				<MacroControls.1>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -107,7 +105,7 @@
 				</MacroControls.1>
 				<MacroControls.2>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -121,7 +119,7 @@
 				</MacroControls.2>
 				<MacroControls.3>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -135,7 +133,7 @@
 				</MacroControls.3>
 				<MacroControls.4>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -149,7 +147,7 @@
 				</MacroControls.4>
 				<MacroControls.5>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -163,7 +161,7 @@
 				</MacroControls.5>
 				<MacroControls.6>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -177,7 +175,7 @@
 				</MacroControls.6>
 				<MacroControls.7>
 					<LomId Value="0" />
-					<Manual Value="0" />
+					<Manual Value="63.5" />
 					<MidiControllerRange>
 						<Min Value="0" />
 						<Max Value="127" />
@@ -197,14 +195,14 @@
 				<MacroDisplayNames.5 Value="Macro 6" />
 				<MacroDisplayNames.6 Value="Macro 7" />
 				<MacroDisplayNames.7 Value="Macro 8" />
-				<MacroDefaults.0 Value="0" />
-				<MacroDefaults.1 Value="0" />
-				<MacroDefaults.2 Value="0" />
-				<MacroDefaults.3 Value="0" />
-				<MacroDefaults.4 Value="0" />
-				<MacroDefaults.5 Value="0" />
-				<MacroDefaults.6 Value="0" />
-				<MacroDefaults.7 Value="0" />
+				<MacroDefaults.0 Value="-1" />
+				<MacroDefaults.1 Value="-1" />
+				<MacroDefaults.2 Value="-1" />
+				<MacroDefaults.3 Value="-1" />
+				<MacroDefaults.4 Value="-1" />
+				<MacroDefaults.5 Value="-1" />
+				<MacroDefaults.6 Value="-1" />
+				<MacroDefaults.7 Value="-1" />
 				<MacroAnnotations.0 Value="" />
 				<MacroAnnotations.1 Value="" />
 				<MacroAnnotations.2 Value="" />
@@ -263,28 +261,26 @@
 			<FilePresetRef Id="0">
 				<FileRef>
 					<HasRelativePath Value="true" />
-					<RelativePathType Value="3" />
+					<RelativePathType Value="6" />
 					<RelativePath>
 						<RelativePathElement Id="0" Dir="Presets" />
 						<RelativePathElement Id="1" Dir="Instruments" />
 						<RelativePathElement Id="2" Dir="Instrument Rack" />
-						<RelativePathElement Id="3" Dir="Hive2" />
-						<RelativePathElement Id="4" Dir="Bass" />
 					</RelativePath>
-					<Name Value="ARK Beefy.adg" />
+					<Name Value="Hive2.adg" />
 					<Type Value="2" />
 					<Data>
-						0000000001AC00020000054D65646961000000000000000000000000000000000000000000000000
-						000042440001FFFFFFFF0D41524B2042656566792E61646700000000000000000000000000000000
+						00000000019200020000054D65646961000000000000000000000000000000000000000000000000
+						000042440001FFFFFFFF0948697665322E6164670000000000000000000000000000000000000000
 						00000000000000000000000000000000000000000000000000000000000000000000FFFFFFFF0000
-						00000000000000000000FFFFFFFF00000A0063750000000000000000000000000004426173730002
-						00672F3A566F6C756D65733A4D656469613A4D757369633A41626C65746F6E3A55736572204C6962
-						726172793A507265736574733A496E737472756D656E74733A496E737472756D656E74205261636B
-						3A48697665323A426173733A41524B2042656566792E61646700000E001C000D00410052004B0020
-						00420065006500660079002E006100640067000F000C0005004D0065006400690061001200582F4D
-						757369632F41626C65746F6E2F55736572204C6962726172792F507265736574732F496E73747275
-						6D656E74732F496E737472756D656E74205261636B2F48697665322F426173732F41524B20426565
-						66792E6164670013000E2F566F6C756D65732F4D65646961FFFF0000
+						0000612D6467612D6C76FFFFFFFF00000A006375000000000000000000000000000F496E73747275
+						6D656E74205261636B00000200582F3A566F6C756D65733A4D656469613A4D757369633A41626C65
+						746F6E3A55736572204C6962726172793A507265736574733A496E737472756D656E74733A496E73
+						7472756D656E74205261636B3A48697665322E616467000E0014000900480069007600650032002E
+						006100640067000F000C0005004D0065006400690061001200492F4D757369632F41626C65746F6E
+						2F55736572204C6962726172792F507265736574732F496E737472756D656E74732F496E73747275
+						6D656E74205261636B2F48697665322E616467000013000E2F566F6C756D65732F4D65646961FFFF
+						0000
 					</Data>
 					<RefersToFolder Value="false" />
 					<SearchHint>
@@ -312,8 +308,18 @@
 								<VisualIndex Value="<%=param.visualIndex%>" />
 								<ParameterId Value="<%=param.id%>" />
 								<Type Value="PluginFloatParameter" />
+                                <% if (index < 8) { %>
+								<MacroControlIndex Value="<%=index%>" />
+								<MidiControllerRange>
+									<MidiControllerRange Id="0">
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+								</MidiControllerRange>
+                                <% } else { %>
 								<MacroControlIndex Value="-1" />
 								<MidiControllerRange />
+                                <% } %>
 								<LomId Value="0" />
 							</PluginParameterSettings><% }); %>
 						</ParameterSettings>
@@ -366,38 +372,7 @@
 								<LastSelectedTimeableIndex Value="0" />
 								<LastSelectedClipEnvelopeIndex Value="0" />
 								<LastPresetRef>
-									<Value>
-										<AbletonDefaultPresetRef Id="0">
-											<FileRef>
-												<HasRelativePath Value="false" />
-												<RelativePathType Value="0" />
-												<RelativePath />
-												<Name Value="" />
-												<Type Value="2" />
-												<Data>
-													00000000011C000200010C4D6163696E746F73682048440000000000000000000000000000000000
-													000042440001FFFFFFFF074465736B746F7000000000000000000000000000000000000000000000
-													00000000000000000000000000000000000000000000000000000000000000000000FFFFFFFF0000
-													00000000000000000000FFFFFFFF00000A20637500000000000000000000000000086D6173616675
-													6D69000200192F3A55736572733A6D61736166756D693A4465736B746F702F00000E001000070044
-													00650073006B0074006F0070000F001A000C004D006100630069006E0074006F0073006800200048
-													00440012001655736572732F6D61736166756D692F4465736B746F70001300012F0000150002000F
-													FFFF0000
-												</Data>
-												<RefersToFolder Value="true" />
-												<SearchHint>
-													<PathHint />
-													<FileSize Value="0" />
-													<Crc Value="0" />
-													<MaxCrcSize Value="0" />
-													<HasExtendedInfo Value="false" />
-												</SearchHint>
-												<LivePackName Value="" />
-												<LivePackId Value="" />
-											</FileRef>
-											<DeviceId Name="AudioBranchMixerDevice" />
-										</AbletonDefaultPresetRef>
-									</Value>
+									<Value />
 								</LastPresetRef>
 								<LockedScripts />
 								<IsFolded Value="false" />
@@ -466,18 +441,9 @@
 									<RelativePathType Value="0" />
 									<RelativePath />
 									<Name Value="" />
-									<Type Value="2" />
-									<Data>
-										00000000011C000200010C4D6163696E746F73682048440000000000000000000000000000000000
-										000042440001FFFFFFFF074465736B746F7000000000000000000000000000000000000000000000
-										00000000000000000000000000000000000000000000000000000000000000000000FFFFFFFF0000
-										00000000000000000000FFFFFFFF00000A20637500000000000000000000000000086D6173616675
-										6D69000200192F3A55736572733A6D61736166756D693A4465736B746F702F00000E001000070044
-										00650073006B0074006F0070000F001A000C004D006100630069006E0074006F0073006800200048
-										00440012001655736572732F6D61736166756D692F4465736B746F70001300012F0000150002000F
-										FFFF0000
-									</Data>
-									<RefersToFolder Value="true" />
+									<Type Value="0" />
+									<Data />
+									<RefersToFolder Value="false" />
 									<SearchHint>
 										<PathHint />
 										<FileSize Value="0" />
@@ -500,7 +466,7 @@
 					<CrossfadeMax Value="0" />
 				</BranchSelectorRange>
 				<SessionViewBranchWidth Value="55" />
-				<ColorIndex Value="162" />
+				<ColorIndex Value="143" />
 				<AutoColored Value="true" />
 				<AutoColorScheme Value="0" />
 				<SourceContext>
