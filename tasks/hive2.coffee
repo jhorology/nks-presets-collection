@@ -30,7 +30,8 @@ $ = Object.assign {}, (require '../config'),
   # -------------------------
   nksPresets: '/Library/Application Support/u-he/Hive/NKS/Hive'
   # Ableton Live 10.1
-  abletonRackTemplate: 'src/Hive2/templates/Hive2.adg.tpl'
+  # abletonRackTemplate: 'src/Hive2/templates/Hive2.adg.tpl'
+  abletonRackTemplate: 'src/Hive2/templates/Hive2-assign-XY.adg.tpl'
   # Bitwig Studio 2.5.1 preset file
   bwpresetTemplate: 'src/Hive2/templates/Hive2.bwpreset'
 
