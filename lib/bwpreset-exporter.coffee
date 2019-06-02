@@ -22,7 +22,7 @@ $ =
 # @templateFilePath required String
 #    template file path
 # --------------------------------
-module.exports = (templateFilePath) ->
+bwpresetExporter = (templateFilePath) ->
   new BwpresetExporter templateFilePath
 
 class BwpresetExporter
@@ -193,3 +193,6 @@ _default_meta_map = (nisi) ->
       delete bitwig[key]
   # return metadat for rewriting
   bitwig
+
+bwpresetExporter.defaultMetaMapper = _default_meta_map
+module.exports = bwpresetExporter

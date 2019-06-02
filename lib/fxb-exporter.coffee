@@ -81,7 +81,7 @@ module.exports =
     offset += 4 # total 4 bytes
 
     # byteSize
-    fxb.writeUInt32BE (152 + chumk.length), offset
+    fxb.writeUInt32BE (152 + chunk.length), offset
     offset += 4 # total 8 bytes
 
     # fxMagic

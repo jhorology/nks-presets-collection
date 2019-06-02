@@ -18,6 +18,7 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 |[Diva](http://www.u-he.com/cms/diva)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
 |[EightyEight](http://sonivoxmi.com/products/details/eighty-eight-ensemble-2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 7 | 7 |
 |[Hive](https://www.u-he.com/cms/hive)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[Hive2](http://www.u-he.com/products/hive)| - | - | - | - |:heavy_check_mark:|:heavy_check_mark:|
 |[Hybrid](http://www.airmusictech.com/product/hybrid-3)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[iris 2](https://www.izotope.com/en/products/create-and-design/iris.html)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
 |[Key Suite Digital](http://www.uvi.net/en/key-suite-digital)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:1|:heavy_check_mark:|:heavy_check_mark:|
