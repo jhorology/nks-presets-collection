@@ -53,15 +53,16 @@ class AdgPresetExporter
     embed =
       params: []
       bufferLines: []
-    for page, pageIndex in nica.ni8
-      for param, paramIndex in page
-        if _.isNumber param.id
-          embed.params.push
-            id: param.id
-            name: param.name
-            visualIndex: pageIndex * 8 + paramIndex
+    if nica.ni8
+      for page, pageIndex in nica.ni8
+        for param, paramIndex in page
+          if _.isNumber param.id
+            embed.params.push
+              id: param.id
+              name: param.name
+              visualIndex: pageIndex * 8 + paramIndex
+          break if embed.params.length >= 128
         break if embed.params.length >= 128
-      break if embed.params.length >= 128
     lines = []
     size = pluginState.length
     offset = 0
