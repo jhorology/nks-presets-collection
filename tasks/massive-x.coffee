@@ -2,12 +2,17 @@
 #
 # ---------------------------------------------------------------
 path        = require 'path'
+{ Readable } = require 'stream'
+zlib        = require 'zlib'
 gulp        = require 'gulp'
 first       = require 'gulp-first'
 tap         = require 'gulp-tap'
+data        = require 'gulp-data'
 gzip        = require 'gulp-gzip'
 rename      = require 'gulp-rename'
 _           = require 'underscore'
+riff        = require 'gulp-riff-extractor'
+msgpack     = require 'msgpack-lite'
 util        = require '../lib/util'
 commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
@@ -37,6 +42,37 @@ $ = Object.assign {}, (require '../config'),
 # register common gulp tasks
 # --------------------------------
 commonTasks $, on  # nks-ready
+
+# decode plugin-states
+gulp.task "#{$.prefix}-parse-plugin-states", ->
+  gulp.src ["#{$.nksPresets}/**/*.nksf"]
+    .pipe riff
+      chunk_ids: ['PCHK']
+    .pipe data (file, done) ->
+      # PCHK chunk content
+      #   - 4byte NKS header flags or version 32bit LE
+      #   - Massive X plugin-states
+      #     - A 8byte header unknown =  always 0200 0000 0000 0000
+      #     - B 4byte content size of C + D (32bit LE)
+      #     - C 4byte uncompressed content size of D (32bit BE)
+      #     - D zlib compressed content
+      inflateStream = zlib.createInflate()
+      decodeStream = msgpack.createDecodeStream();
+      buffer = Buffer.alloc 0
+      inflateStream
+        .pipe decodeStream
+        .on 'data',  (data) ->
+          buffer = Buffer.concat [
+            buffer
+            Buffer.from "#{if _.isObject data then util.beautify data else data.toString()}\n"
+          ]
+        .on 'end', ->
+          file.contents = buffer
+          done()
+      inflateStream.write file.contents.slice 20
+      inflateStream.end()
+    .pipe rename extname: '.txt'
+    .pipe gulp.dest "temp/#{$.dir}"
 
 # export
 # --------------------------------
