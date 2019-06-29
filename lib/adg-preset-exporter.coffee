@@ -34,22 +34,22 @@ class AdgPresetExporter
       nksf: obj
       
   # gulp phase 2 template
-  #
-  # @file vinyl file or file path
-  # @return xml string
+  # @param func {function} - function to modifying embed params.
+  # @return {TransformStream}
   # --------------------------------
-  gulpTemplate: ->
+  gulpTemplate: (func) ->
     _this = @
     tap (nksf) ->
-      nksf.contents = Buffer.from _this.build nksf.data.nksf.pluginState, nksf.data.nksf.nica
+      nksf.contents = Buffer.from _this.build nksf.data.nksf.pluginState, nksf.data.nksf.nica, nksf, func
 
   # convert NKSF file to adg XML string
   #
-  # @pluginState Buffer
-  # @nica        Object NICA ni8 object
+  # @param pluginState {Buffer}
+  # @param nica {Object} - Object NICA ni8 object
+  # @param func {function} - function to modifying embed params.
   # @return xml string
   # --------------------------------
-  build: (pluginState, nica) ->
+  build: (pluginState, nica, nksf, func) ->
     embed =
       params: []
       bufferLines: []
@@ -71,4 +71,5 @@ class AdgPresetExporter
       end = size if end > size
       embed.bufferLines.push pluginState.toString 'hex', offset, end
       offset += 40
+    func nksf, embed if _.isFunction func
     @template embed

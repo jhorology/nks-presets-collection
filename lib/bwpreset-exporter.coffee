@@ -186,7 +186,7 @@ _default_meta_map = (nisi) ->
     for t in nisi.types
       tags.push t[1] if t.length > 1
   tags.push nisi.bankchain[1] if nisi.bankchain and nisi.bankchain.length > 1
-  bitwig.tags = _.uniq ((tags.filter (t) -> t).map (t) ->((t.replace /\s([\/&])\s/, '$1').replace /\s/g, '_').toLowerCase())
+  bitwig.tags = _.uniq ((tags.filter (t) -> t).map (t) -> ((t.replace /\s([\/&])\s/, '$1').replace /\s/g, '_').toLowerCase())
   # delete undefined properties
   for key in Object.keys(bitwig)
     unless bitwig[key]
