@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic"],
+  "name": "AH_Bass_Monster",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "9ea68075-4386-4db5-bd35-128ecc68c5b9",
+  "vendor": "Propellerhead Software"
+}

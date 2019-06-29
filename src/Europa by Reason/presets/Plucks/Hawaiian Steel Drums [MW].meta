@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Hawaiian Steel Drums [MW]",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "2e400423-1b6d-4d61-8127-f00b380bbc25",
+  "vendor": "Propellerhead Software"
+}

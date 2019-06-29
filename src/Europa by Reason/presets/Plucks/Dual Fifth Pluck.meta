@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Chord"],
+  "name": "Dual Fifth Pluck",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"]
+  ],
+  "uuid": "edec8dda-1c16-49fe-ab42-e508a1b99838",
+  "vendor": "Propellerhead Software"
+}

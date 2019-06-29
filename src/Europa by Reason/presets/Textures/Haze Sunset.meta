@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Haze Sunset",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Misc", "Sweeps & Swells"],
+    ["Synth Pad", "Other Pad"],
+    ["Soundscapes", "Ambivalent"],
+    ["Soundscapes", "Wind & Noise"]
+  ],
+  "uuid": "44db1686-4c66-4ad0-9802-4a95829171ba",
+  "vendor": "Propellerhead Software"
+}

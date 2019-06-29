@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "TraktorGlitterB",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Mallet Instruments"],
+    ["Mallet Instruments", "Other Mallet"],
+    ["Soundscapes", "Peaceful"],
+    ["Soundscapes", "Heavenly"],
+    ["Synth Pad", "Chime Pad"],
+    ["Synth Pad", "Other Pad"]
+  ],
+  "uuid": "ed609b75-0d2d-455f-82c5-58b5ad542091",
+  "vendor": "Propellerhead Software"
+}

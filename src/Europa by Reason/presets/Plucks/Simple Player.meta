@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Simple Player",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"]
+  ],
+  "uuid": "1b31c4e2-7a9e-4a02-838b-0e09e31823b0",
+  "vendor": "Propellerhead Software"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Hard SNES",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "d4730471-d684-4828-bbab-c865f8c953c4",
+  "vendor": "Propellerhead Software"
+}

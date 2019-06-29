@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Wormulon",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "f206b289-4692-4284-8725-4a3396707c66",
+  "vendor": "Propellerhead Software"
+}

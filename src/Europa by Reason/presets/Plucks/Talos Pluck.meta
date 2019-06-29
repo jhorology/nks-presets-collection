@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Talos Pluck",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"]
+  ],
+  "uuid": "722afc34-291b-4175-a653-ad7bde6d8d66",
+  "vendor": "Propellerhead Software"
+}

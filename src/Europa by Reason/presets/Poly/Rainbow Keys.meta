@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Rainbow Keys",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Piano / Keys"],
+    ["Piano / Keys", "Other Piano / Keys"],
+    ["Piano / Keys", "Digital Piano"]
+  ],
+  "uuid": "9f30b2d5-42d8-446e-964b-0a59315dccbd",
+  "vendor": "Propellerhead Software"
+}

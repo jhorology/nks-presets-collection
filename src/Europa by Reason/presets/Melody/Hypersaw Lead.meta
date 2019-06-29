@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Hypersaw Lead",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "7a090130-8069-4972-99b6-53dbf0891f96",
+  "vendor": "Propellerhead Software"
+}

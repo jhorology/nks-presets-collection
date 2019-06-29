@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Jupiter Relay Texture",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Ambivalent"],
+    ["Synth Misc", "Sweeps & Swells"],
+    ["Synth Pad", "Other Pad"],
+    ["Synth Pad", "Layered Pad"]
+  ],
+  "uuid": "57961912-1464-4bf1-987f-bc0679a48180",
+  "vendor": "Propellerhead Software"
+}

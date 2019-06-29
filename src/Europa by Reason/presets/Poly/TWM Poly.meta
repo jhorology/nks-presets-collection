@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "TWM Poly",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "aa8c31cb-cf82-4b33-8845-3b18b61ca23b",
+  "vendor": "Propellerhead Software"
+}

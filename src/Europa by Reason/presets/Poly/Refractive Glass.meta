@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Refractive Glass",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "328c0c65-fc0d-43fa-b05b-82dc65bf6d5b",
+  "vendor": "Propellerhead Software"
+}

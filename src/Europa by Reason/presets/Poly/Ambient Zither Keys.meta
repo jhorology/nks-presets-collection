@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Ambient Zither Keys",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Piano / Keys"],
+    ["Piano / Keys", "Other Piano / Keys"],
+    ["Piano / Keys", "Digital Piano"]
+  ],
+  "uuid": "b2f29fbf-89cd-4cf5-aeaf-f02f5401354d",
+  "vendor": "Propellerhead Software"
+}

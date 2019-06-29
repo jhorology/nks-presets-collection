@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Bastard",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Synth Lead", "Dirty Lead"]
+  ],
+  "uuid": "c8e23e16-cc84-456f-b806-aa3471250621",
+  "vendor": "Propellerhead Software"
+}

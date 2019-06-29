@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Spectral Poly",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "1b73149a-c0e7-40bf-9167-bab8f722c601",
+  "vendor": "Propellerhead Software"
+}

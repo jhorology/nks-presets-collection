@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Moonweed Drone",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Other Pad"],
+    ["Soundscapes", "Peaceful"],
+    ["Soundscapes", "Heavenly"]
+  ],
+  "uuid": "e8992f9a-a4b6-4d86-8509-649e170eec0c",
+  "vendor": "Propellerhead Software"
+}

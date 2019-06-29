@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Hans First Lead",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "1c32c543-dac8-440f-97e1-0a8cf4464c99",
+  "vendor": "Propellerhead Software"
+}

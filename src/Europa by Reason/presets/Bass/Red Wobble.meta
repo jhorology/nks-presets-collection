@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Tempo-synced"],
+  "name": "Red Wobble",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"],
+    ["Synth Misc", "Other Sequences"]
+  ],
+  "uuid": "671a5999-f884-4c05-bdb6-7fe355543429",
+  "vendor": "Propellerhead Software"
+}

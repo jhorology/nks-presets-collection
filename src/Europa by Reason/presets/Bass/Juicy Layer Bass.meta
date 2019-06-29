@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic"],
+  "name": "Juicy Layer Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Sub Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "46cd9864-a399-463f-bb5a-12f60564ae1e",
+  "vendor": "Propellerhead Software"
+}

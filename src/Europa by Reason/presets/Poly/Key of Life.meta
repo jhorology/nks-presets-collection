@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Key of Life",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Piano / Keys"],
+    ["Piano / Keys", "Other Piano / Keys"],
+    ["Piano / Keys", "Digital Piano"]
+  ],
+  "uuid": "8ff5f1cf-2eba-4b10-aaa0-47e2651e5dcf",
+  "vendor": "Propellerhead Software"
+}

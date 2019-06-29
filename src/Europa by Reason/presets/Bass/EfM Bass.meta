@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic"],
+  "name": "EfM Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "4fcb01a7-e2ec-4014-a022-454d0efbcdc4",
+  "vendor": "Propellerhead Software"
+}

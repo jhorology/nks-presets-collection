@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Soft Spread",
+  "types": [
+    ["Synth Pad"],
+    ["Synth Pad", "Basic Pad"]
+  ],
+  "uuid": "76f1ea98-da5a-4f09-bd69-4f4f4620f4c5",
+  "vendor": "Propellerhead Software"
+}

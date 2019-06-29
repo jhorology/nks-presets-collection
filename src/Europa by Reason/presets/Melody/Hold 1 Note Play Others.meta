@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Hold 1 Note Play Others",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"]
+  ],
+  "uuid": "2ccd81bb-11b7-4dc8-9cb8-a537f095ad08",
+  "vendor": "Propellerhead Software"
+}

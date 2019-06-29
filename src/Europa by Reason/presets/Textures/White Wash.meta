@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "White Wash",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Airy Pad"],
+    ["Synth Pad", "Other Pad"],
+    ["Soundscapes", "Heavenly"],
+    ["Soundscapes", "Peaceful"]
+  ],
+  "uuid": "4428ae09-32df-42ee-82b1-d76ebe0e221c",
+  "vendor": "Propellerhead Software"
+}

@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Europiano",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Piano / Keys", "Digital Piano"],
+    ["Piano / Keys", "Other Piano / Keys"]
+  ],
+  "uuid": "086e8263-3f45-418a-a35b-1636468930e8",
+  "vendor": "Propellerhead Software"
+}

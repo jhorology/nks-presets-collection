@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Tempo-synced"],
+  "name": "Europa Sequence",
+  "types": [
+    ["Synth Misc"],
+    ["Synth Misc", "Other Sequences"]
+  ],
+  "uuid": "2ebd0f29-d447-46be-bbbd-85383b917c5f",
+  "vendor": "Propellerhead Software"
+}

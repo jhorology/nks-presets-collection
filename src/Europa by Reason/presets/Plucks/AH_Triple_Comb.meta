@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "AH_Triple_Comb",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"]
+  ],
+  "uuid": "64a3a8bb-3645-4587-861a-9d88485cba7e",
+  "vendor": "Propellerhead Software"
+}

@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed", "Chord"],
+  "name": "Warm Fifth Keys [MW]",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Piano / Keys"],
+    ["Piano / Keys", "Other Piano / Keys"],
+    ["Piano / Keys", "Digital Piano"]
+  ],
+  "uuid": "69413194-2834-4837-98c9-9015ddaa0449",
+  "vendor": "Propellerhead Software"
+}

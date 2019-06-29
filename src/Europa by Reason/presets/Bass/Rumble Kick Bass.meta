@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Percussive"],
+  "name": "Rumble Kick Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Sub Bass"]
+  ],
+  "uuid": "f1c8cd13-8c0e-4c98-972b-2cd8f71aa441",
+  "vendor": "Propellerhead Software"
+}

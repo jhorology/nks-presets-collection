@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Bass Ramp up",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"]
+  ],
+  "uuid": "8bfca15b-ad54-4b53-9bd2-f0b5382126ae",
+  "vendor": "Propellerhead Software"
+}

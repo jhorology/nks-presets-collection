@@ -1,0 +1,762 @@
+{
+  "ni8": [
+    [{
+      "autoname": true,
+      "id": 73,
+      "name": "Eng1 Oct",
+      "section": "ENGINE 1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 72,
+      "name": "Eng1 Semi",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 74,
+      "name": "Eng1 Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 75,
+      "name": "Eng1 Pitch Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 159,
+      "name": "Eng1 Wave",
+      "section": "SHAPE",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 158,
+      "name": "Eng1 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 187,
+      "name": "Eng1 Shape Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 188,
+      "name": "Eng1 Shape Vel",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 185,
+      "name": "Eng1 SyncPhase",
+      "section": "SYNC",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 161,
+      "name": "Eng1 Mod1",
+      "section": "MOD1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 162,
+      "name": "Eng1 Mod1 Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 193,
+      "name": "Eng1 Mod1 Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 175,
+      "name": "Eng1 Mod2",
+      "section": "MOD2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 176,
+      "name": "Eng1 Mod2 Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 195,
+      "name": "Eng1 Mod2 Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 163,
+      "name": "Eng1 Filter",
+      "section": "SPECTRAL FILTER",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 164,
+      "name": "Eng1 Filter Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 165,
+      "name": "Eng1 Filter Reso",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 167,
+      "name": "Eng1 Filter Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 190,
+      "name": "Eng1 Filter Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 191,
+      "name": "Eng1 Filter Vel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 189,
+      "name": "Eng1 Filter Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 173,
+      "name": "Eng1 Harm",
+      "section": "HARMONICS",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 174,
+      "name": "Eng1 Harm Pos",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 184,
+      "name": "Eng1 Harm Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 172,
+      "name": "Eng1 Unison Mode",
+      "section": "UNISON",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 168,
+      "name": "Eng1 Count",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 170,
+      "name": "Eng1 Blend",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 169,
+      "name": "Eng1 Detune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 171,
+      "name": "Eng1 Spread",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 200,
+      "name": "Eng2 Oct",
+      "section": "ENGINE 2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 199,
+      "name": "Eng2 Semi",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 201,
+      "name": "Eng2 Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 202,
+      "name": "Eng2 Pitch Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 205,
+      "name": "Eng2 Wave",
+      "section": "SHAPE",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 204,
+      "name": "Eng2 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 231,
+      "name": "Eng2 Shape Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 232,
+      "name": "Eng2 Shape Vel",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 229,
+      "name": "Eng2 SyncPhase",
+      "section": "SYNC",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 206,
+      "name": "Eng2 Mod1",
+      "section": "MOD1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 207,
+      "name": "Eng2 Mod1 Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 237,
+      "name": "Eng2 Mod1 Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 220,
+      "name": "Eng2 Mod2",
+      "section": "MOD2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 221,
+      "name": "Eng2 Mod2 Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 239,
+      "name": "Eng2 Mod2 Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 208,
+      "name": "Eng2 Filter",
+      "section": "SPECTRAL FILTER",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 209,
+      "name": "Eng2 Filter Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 210,
+      "name": "Eng2 Filter Reso",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 212,
+      "name": "Eng2 Filter Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 234,
+      "name": "Eng2 Filter Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 235,
+      "name": "Eng2 Filter Vel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 233,
+      "name": "Eng2 Filter Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 218,
+      "name": "Eng2 Harm",
+      "section": "HARMONICS",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 219,
+      "name": "Eng2 Harm Pos",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 228,
+      "name": "Eng2 Harm Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 217,
+      "name": "Eng2 Unison Mode",
+      "section": "UNISON",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 213,
+      "name": "Eng2 Count",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 215,
+      "name": "Eng2 Blend",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 214,
+      "name": "Eng2 Detune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 216,
+      "name": "Eng2 Spread",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 242,
+      "name": "Eng3 Oct",
+      "section": "ENGINE 3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 241,
+      "name": "Eng3 Semi",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 243,
+      "name": "Eng3 Tune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 244,
+      "name": "Eng3 Pitch Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 247,
+      "name": "Eng3 Wave",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 246,
+      "name": "Eng3 Shape",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 273,
+      "name": "Eng3 Shape Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 274,
+      "name": "Eng3 Shape Vel",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 271,
+      "name": "Eng3 SyncPhase",
+      "section": "SYNC",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 248,
+      "name": "Eng3 Mod1",
+      "section": "MOD1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 249,
+      "name": "Eng3 Mod1 Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 279,
+      "name": "Eng3 Mod1 Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 262,
+      "name": "Eng3 Mod2",
+      "section": "MOD2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 263,
+      "name": "Eng3 Mod2 Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 281,
+      "name": "Eng3 Mod2 Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 250,
+      "name": "Eng3 Filter",
+      "section": "SPECTRAL FILTER",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 251,
+      "name": "Eng3 Filter Freq",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 252,
+      "name": "Eng3 Filter Reso",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 254,
+      "name": "Eng3 Filter Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 276,
+      "name": "Eng3 Filter Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 277,
+      "name": "Eng3 Filter Vel",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 275,
+      "name": "Eng3 Filter Source",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 260,
+      "name": "Eng3 Harm",
+      "section": "HARMONICS",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 261,
+      "name": "Eng3 Harm Pos",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 270,
+      "name": "Eng3 Harm Amt",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 259,
+      "name": "Eng3 Unison Mode",
+      "section": "UNISON",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 255,
+      "name": "Eng3 Count",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 257,
+      "name": "Eng3 Blend",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 256,
+      "name": "Eng3 Detune",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 258,
+      "name": "Eng3 Spread",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 197,
+      "name": "Eng1 On",
+      "section": "MIX1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 129,
+      "name": "Eng1 Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 166,
+      "name": "Eng1 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 183,
+      "name": "Eng1 To Filter",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 240,
+      "name": "Eng2 On",
+      "section": "MIX2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 203,
+      "name": "Eng2 Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 211,
+      "name": "Eng2 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 227,
+      "name": "Eng2 To Filter",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 282,
+      "name": "Eng3 On",
+      "section": "MIX3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 245,
+      "name": "Eng3 Level",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 253,
+      "name": "Eng3 Pan",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 269,
+      "name": "Eng3 To Filter",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 77,
+      "name": "Key Mode",
+      "section": "GLOBALS",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 78,
+      "name": "Portamento Mode",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 76,
+      "name": "Portamento",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 160,
+      "name": "Master Volume",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 123,
+      "name": "Filter Freq",
+      "section": "GLOBAL FILTER",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 124,
+      "name": "Filter Reso",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 177,
+      "name": "Filter Drive",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 125,
+      "name": "Filter Type",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 126,
+      "name": "Filter Kbd",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 127,
+      "name": "Filter Mod",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 128,
+      "name": "Filter Velocity",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 196,
+      "name": "Filter Mod Source",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 122,
+      "name": "Pan",
+      "section": "AMP",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 120,
+      "name": "Amp Gain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 121,
+      "name": "Amp Velocity",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 0,
+      "name": "Amp Attack",
+      "section": "AMP ENV",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 1,
+      "name": "Amp Decay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 2,
+      "name": "Amp Sustain",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 3,
+      "name": "Amp Release",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 81,
+      "name": "Env 1 Rate",
+      "section": "ENV RATE",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 82,
+      "name": "Env 2 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 83,
+      "name": "Env 3 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 84,
+      "name": "Env 4 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 104,
+      "name": "LFO 1 Wave",
+      "section": "LFO1",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 69,
+      "name": "LFO 1 Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 9,
+      "name": "LFO 1 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 101,
+      "name": "LFO 1 KeySync",
+      "vflag": false
+    }],
+    [{
+      "autoname": true,
+      "id": 111,
+      "name": "LFO 2 Wave",
+      "section": "LFO2",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 106,
+      "name": "LFO 2 Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 105,
+      "name": "LFO 2 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 108,
+      "name": "LFO 2 KeySync",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 118,
+      "name": "LFO 3 Wave",
+      "section": "LFO3",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 113,
+      "name": "LFO 3 Delay",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 112,
+      "name": "LFO 3 Rate",
+      "vflag": false
+    }, {
+      "autoname": true,
+      "id": 115,
+      "name": "LFO 3 KeySync",
+      "vflag": false
+    }]
+  ]
+}

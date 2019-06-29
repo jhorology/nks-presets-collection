@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Rising Noise FX",
+  "types": [
+    ["Sound Effects"],
+    ["Synth Misc"],
+    ["Synth Misc", "FX Synth"],
+    ["Sound Effects", "Big & Bad"],
+    ["Sound Effects", "Other FX"],
+    ["Sound Effects", "Noise"]
+  ],
+  "uuid": "07b630b2-a7a8-4535-8828-8f2f43f0ddbb",
+  "vendor": "Propellerhead Software"
+}

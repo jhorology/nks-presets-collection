@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Velour Pluck",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"]
+  ],
+  "uuid": "dc5ec2e7-f7f2-4532-816a-13e392b9b264",
+  "vendor": "Propellerhead Software"
+}

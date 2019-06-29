@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Poly Wants a Synth",
+  "types": [
+    ["Synth Pad"],
+    ["Synth Pad", "Basic Pad"]
+  ],
+  "uuid": "d3e58696-12c0-4af4-b0c5-0fd1e742bb79",
+  "vendor": "Propellerhead Software"
+}

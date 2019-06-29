@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Central Processing",
+  "types": [
+    ["Synth Pad"],
+    ["Synth Pad", "Basic Pad"]
+  ],
+  "uuid": "6eaacea9-6b54-4673-b4d3-1ef099fea25f",
+  "vendor": "Propellerhead Software"
+}

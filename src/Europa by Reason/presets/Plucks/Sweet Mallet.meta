@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Sweet Mallet",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "45d21612-b7de-4f10-b055-8210fc8d43dc",
+  "vendor": "Propellerhead Software"
+}

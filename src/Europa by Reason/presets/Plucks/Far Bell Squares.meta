@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Far Bell Squares",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Mallet Instruments", "Bell"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "b61c3687-6665-4372-8435-17eed9b26c15",
+  "vendor": "Propellerhead Software"
+}

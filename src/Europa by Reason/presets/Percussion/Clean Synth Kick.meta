@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Percussive"],
+  "name": "Clean Synth Kick",
+  "types": [
+    ["Percussion"],
+    ["Percussion", "Other Percussion"],
+    ["Synth Misc", "Percussive Synth"],
+    ["Drums", "Kick Drum"]
+  ],
+  "uuid": "6f7b093e-6318-45c6-81e4-b812f78a0514",
+  "vendor": "Propellerhead Software"
+}

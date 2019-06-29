@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Picture Box Pad",
+  "types": [
+    ["Synth Pad"],
+    ["Synth Pad", "Basic Pad"]
+  ],
+  "uuid": "b73410a2-a447-4c0a-867b-152e33f1399e",
+  "vendor": "Propellerhead Software"
+}

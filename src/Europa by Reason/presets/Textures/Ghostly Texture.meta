@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Ghostly Texture",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Ambivalent"],
+    ["Soundscapes", "Gloomy"],
+    ["Soundscapes"],
+    ["Soundscapes", "Insanity"]
+  ],
+  "uuid": "85292e73-2b49-4e3e-aff7-21f2c627b8e3",
+  "vendor": "Propellerhead Software"
+}

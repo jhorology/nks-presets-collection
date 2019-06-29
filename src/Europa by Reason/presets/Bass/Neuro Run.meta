@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Tempo-synced", "Monophonic", "Glide/Pitch Mod"],
+  "name": "Neuro Run",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "3f6fdc6b-960d-4ce6-a6ee-1784d5d45839",
+  "vendor": "Propellerhead Software"
+}

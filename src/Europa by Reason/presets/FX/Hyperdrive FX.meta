@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Hyperdrive FX",
+  "types": [
+    ["Sound Effects"],
+    ["Synth Misc"],
+    ["Synth Misc", "FX Synth"],
+    ["Sound Effects", "Machines"],
+    ["Sound Effects", "Big & Bad"],
+    ["Sound Effects", "Other FX"]
+  ],
+  "uuid": "7099b32f-3fea-46f4-8839-d2e3f4483ca2",
+  "vendor": "Propellerhead Software"
+}

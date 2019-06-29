@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack", "Chord"],
+  "name": "Crystal Chords",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Heavenly"],
+    ["Synth Pad", "Chime Pad"],
+    ["Synth Pad", "Bright Pad"]
+  ],
+  "uuid": "acb30386-15ea-4043-a75f-ec0ea6737dfb",
+  "vendor": "Propellerhead Software"
+}

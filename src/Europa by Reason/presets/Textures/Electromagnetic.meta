@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Electromagnetic",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Wind & Noise"],
+    ["Synth Pad", "Other Pad"]
+  ],
+  "uuid": "1a8a8aa2-f169-47e9-ae2f-3bb7e10a96aa",
+  "vendor": "Propellerhead Software"
+}

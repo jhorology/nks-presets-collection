@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Odyssey",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Peaceful"],
+    ["Synth Pad", "Chord Pad"],
+    ["Synth Pad", "Layered Pad"],
+    ["Synth Pad", "Other Pad"]
+  ],
+  "uuid": "d7a1330a-bdcd-470b-aa5c-9c9b1752c41a",
+  "vendor": "Propellerhead Software"
+}

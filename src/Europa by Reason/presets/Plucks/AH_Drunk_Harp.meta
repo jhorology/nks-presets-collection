@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "AH_Drunk_Harp",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Plucked Strings", "Harp"]
+  ],
+  "uuid": "02e95a74-52ec-4786-9a25-4ced839970f6",
+  "vendor": "Propellerhead Software"
+}

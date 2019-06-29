@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Smother Keys",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Piano / Keys"],
+    ["Piano / Keys", "Other Piano / Keys"],
+    ["Piano / Keys", "Digital Piano"]
+  ],
+  "uuid": "490f7e7c-b55e-49f0-bc73-3184bb978978",
+  "vendor": "Propellerhead Software"
+}

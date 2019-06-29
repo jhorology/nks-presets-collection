@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Glide/Pitch Mod", "Monophonic"],
+  "name": "Big Pew Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "5f9758f0-14fa-4ff0-99a1-379b04352264",
+  "vendor": "Propellerhead Software"
+}

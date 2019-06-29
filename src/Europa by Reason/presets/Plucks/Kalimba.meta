@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Kalimba",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "a93ea225-e3d2-4445-815a-ddc893bebc05",
+  "vendor": "Propellerhead Software"
+}

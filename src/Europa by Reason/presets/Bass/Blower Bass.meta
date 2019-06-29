@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic"],
+  "name": "Blower Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "48259713-4a12-460a-a024-a527adf530e7",
+  "vendor": "Propellerhead Software"
+}

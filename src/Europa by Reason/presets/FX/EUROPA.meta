@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "EUROPA",
+  "types": [
+    ["Sound Effects"],
+    ["Synth Misc"],
+    ["Synth Misc", "FX Synth"],
+    ["Sound Effects", "Other FX"]
+  ],
+  "uuid": "5cc6e595-fe4c-4147-9265-5ab6718ba0fd",
+  "vendor": "Propellerhead Software"
+}

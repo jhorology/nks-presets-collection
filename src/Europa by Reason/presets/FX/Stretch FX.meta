@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Stretch FX",
+  "types": [
+    ["Sound Effects"],
+    ["Synth Misc"],
+    ["Synth Misc", "FX Synth"],
+    ["Sound Effects", "Other FX"]
+  ],
+  "uuid": "e3647d08-6d09-4abb-aff2-165f36785e69",
+  "vendor": "Propellerhead Software"
+}

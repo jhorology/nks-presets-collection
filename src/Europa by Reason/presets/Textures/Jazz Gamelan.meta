@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Jazz Gamelan",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Heavenly"],
+    ["Synth Pad", "Chime Pad"],
+    ["Synth Pad", "Layered Pad"],
+    ["Synth Pad", "Other Pad"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "2e9a5902-16c8-4b1b-a81a-66c3f3cfb4f5",
+  "vendor": "Propellerhead Software"
+}

@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "AH_Flautist",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Mono Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Flute"],
+    ["Flute", "Synthetic Flute"]
+  ],
+  "uuid": "3cd742a7-487c-4ea5-8499-0c59eda32ebc",
+  "vendor": "Propellerhead Software"
+}

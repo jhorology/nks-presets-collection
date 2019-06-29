@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Tempo-synced"],
+  "name": "Pluck Train Sequence",
+  "types": [
+    ["Synth Misc"],
+    ["Synth Misc", "Other Sequences"]
+  ],
+  "uuid": "dc8074a6-df57-4a77-bdb4-c312645cf23c",
+  "vendor": "Propellerhead Software"
+}

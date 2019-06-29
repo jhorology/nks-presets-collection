@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Percussive"],
+  "name": "Revelation BassDrum",
+  "types": [
+    ["Percussion"],
+    ["Percussion", "Other Percussion"],
+    ["Synth Misc", "Percussive Synth"],
+    ["Drums", "Kick Drum"]
+  ],
+  "uuid": "2df5a500-3194-4be4-8458-2102630d4878",
+  "vendor": "Propellerhead Software"
+}

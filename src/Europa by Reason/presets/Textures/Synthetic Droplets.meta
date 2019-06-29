@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Synthetic Droplets",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Deep Pad"],
+    ["Soundscapes", "Peaceful"],
+    ["Soundscapes", "Heavenly"],
+    ["Synth Misc", "Sweeps & Swells"]
+  ],
+  "uuid": "5974550b-31cd-4458-96ca-0f499fdcf918",
+  "vendor": "Propellerhead Software"
+}

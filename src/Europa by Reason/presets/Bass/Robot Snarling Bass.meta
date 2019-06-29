@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Glide/Pitch Mod", "Monophonic", "Processed"],
+  "name": "Robot Snarling Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "251348c3-5af1-45b4-ad55-d8d4e5872ab8",
+  "vendor": "Propellerhead Software"
+}

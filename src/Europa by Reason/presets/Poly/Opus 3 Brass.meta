@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Opus 3 Brass",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Brass"],
+    ["Brass", "Synthetic Brass"]
+  ],
+  "uuid": "b82762e9-8324-4798-81f7-d5158775b538",
+  "vendor": "Propellerhead Software"
+}

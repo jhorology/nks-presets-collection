@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Stellar Encounter",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Misc", "Sweeps & Swells"],
+    ["Synth Pad", "Other Pad"],
+    ["Synth Pad", "Deep Pad"],
+    ["Synth Pad", "Airy Pad"],
+    ["Soundscapes", "Heavenly"]
+  ],
+  "uuid": "ac2eee7f-67a9-4b85-845d-8f1b65b90d3c",
+  "vendor": "Propellerhead Software"
+}

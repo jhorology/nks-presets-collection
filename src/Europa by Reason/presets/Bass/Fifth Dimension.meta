@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Glide/Pitch Mod", "Monophonic", "Chord"],
+  "name": "Fifth Dimension",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "cdaff645-6d25-4dc0-8067-7cd56add59fe",
+  "vendor": "Propellerhead Software"
+}

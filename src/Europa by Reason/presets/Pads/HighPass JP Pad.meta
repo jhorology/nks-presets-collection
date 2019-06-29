@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "HighPass JP Pad",
+  "types": [
+    ["Synth Pad"],
+    ["Synth Pad", "Basic Pad"]
+  ],
+  "uuid": "05167c4b-ccd8-4df0-b8b9-d8139abc4199",
+  "vendor": "Propellerhead Software"
+}

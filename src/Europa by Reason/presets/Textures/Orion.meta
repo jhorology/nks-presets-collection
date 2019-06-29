@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Orion",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Other Pad"],
+    ["Synth Pad", "Dirty Pad"],
+    ["Soundscapes", "Ambivalent"]
+  ],
+  "uuid": "f06b127e-e430-4d47-8746-d4d4f2174ec4",
+  "vendor": "Propellerhead Software"
+}

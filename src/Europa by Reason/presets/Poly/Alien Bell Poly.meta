@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Polysynth", "Synthetic", "Processed"],
+  "name": "Alien Bell Poly",
+  "types": [
+    ["Synth Lead"],
+    ["Synth Lead", "Classic Poly Lead"],
+    ["Synth Lead", "Other Lead"],
+    ["Mallet Instruments", "Bell"]
+  ],
+  "uuid": "45fe8b6c-d08c-450c-9e1f-b2cee32b417c",
+  "vendor": "Propellerhead Software"
+}

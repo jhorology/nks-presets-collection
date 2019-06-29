@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Glide/Pitch Mod", "Long Release", "Monophonic"],
+  "name": "Grime Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"],
+    ["Synth Misc", "Sweeps & Swells"]
+  ],
+  "uuid": "8309a8ac-4e9e-4e33-83f4-946328c1f777",
+  "vendor": "Propellerhead Software"
+}

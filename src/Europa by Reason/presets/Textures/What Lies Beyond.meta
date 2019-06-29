@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "What Lies Beyond",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Heavenly"],
+    ["Soundscapes"],
+    ["Soundscapes", "Peaceful"],
+    ["Synth Misc", "Sweeps & Swells"],
+    ["Synth Pad", "Chord Pad"]
+  ],
+  "uuid": "5407aa8c-ce1c-482b-a369-726725cd733f",
+  "vendor": "Propellerhead Software"
+}

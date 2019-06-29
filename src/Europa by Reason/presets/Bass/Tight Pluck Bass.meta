@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Processed"],
+  "name": "Tight Pluck Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Picked Bass"],
+    ["Bass", "Slapped Bass"]
+  ],
+  "uuid": "4d710a06-655f-4220-b884-bf1387f449ec",
+  "vendor": "Propellerhead Software"
+}

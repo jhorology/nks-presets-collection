@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Tempo-synced", "Processed", "Monophonic"],
+  "name": "Hard Brexit",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"],
+    ["Synth Misc", "Other Sequences"]
+  ],
+  "uuid": "c41e16dd-c7e8-4ca8-ac35-1a9955d5501b",
+  "vendor": "Propellerhead Software"
+}

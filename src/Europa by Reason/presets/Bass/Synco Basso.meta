@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Monophonic", "Glide/Pitch Mod"],
+  "name": "Synco Basso",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "1b39af10-828b-49e9-b785-b2da94f9fa8d",
+  "vendor": "Propellerhead Software"
+}

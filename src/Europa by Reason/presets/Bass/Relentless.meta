@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Tempo-synced", "Monophonic"],
+  "name": "Relentless",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"],
+    ["Synth Misc", "Other Sequences"]
+  ],
+  "uuid": "5faa002b-b43b-45d7-8622-ffd873bc78f5",
+  "vendor": "Propellerhead Software"
+}

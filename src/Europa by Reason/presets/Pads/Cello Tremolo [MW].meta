@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Cello Tremolo [MW]",
+  "types": [
+    ["Synth Pad"],
+    ["Synth Pad", "Basic Pad"],
+    ["Bowed Strings"],
+    ["Bowed Strings"],
+    ["Bowed Strings", "Synth Strings"],
+    ["Bowed Strings", "Cello"]
+  ],
+  "uuid": "0930655a-34ca-426f-a5a1-b1ea2e99935e",
+  "vendor": "Propellerhead Software"
+}

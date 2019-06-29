@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Space Texture",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Other Pad"],
+    ["Synth Pad", "Deep Pad"],
+    ["Soundscapes", "Heavenly"],
+    ["Soundscapes"]
+  ],
+  "uuid": "b5998db2-288f-47c7-aa36-364e91437b17",
+  "vendor": "Propellerhead Software"
+}

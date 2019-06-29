@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Harpsine",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Plucked Strings", "Harp"]
+  ],
+  "uuid": "2fe831f3-8b4c-4e75-9d90-f884b7231605",
+  "vendor": "Propellerhead Software"
+}

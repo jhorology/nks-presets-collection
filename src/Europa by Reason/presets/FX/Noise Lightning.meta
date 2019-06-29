@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Noise Lightning",
+  "types": [
+    ["Sound Effects"],
+    ["Synth Misc"],
+    ["Synth Misc", "FX Synth"],
+    ["Sound Effects", "Big & Bad"],
+    ["Sound Effects", "Other FX"],
+    ["Sound Effects", "Noise"],
+    ["Sound Effects", "Shots"],
+    ["Sound Effects", "Nature"]
+  ],
+  "uuid": "e491e0bf-db1e-40bb-aca0-0a79ae91971b",
+  "vendor": "Propellerhead Software"
+}

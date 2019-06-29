@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Percussive"],
+  "name": "Analog Tom",
+  "types": [
+    ["Percussion"],
+    ["Percussion", "Other Percussion"],
+    ["Synth Misc", "Percussive Synth"],
+    ["Drums", "Tom"]
+  ],
+  "uuid": "6bf74512-d733-4b3b-9a5f-315e4bea0a1c",
+  "vendor": "Propellerhead Software"
+}

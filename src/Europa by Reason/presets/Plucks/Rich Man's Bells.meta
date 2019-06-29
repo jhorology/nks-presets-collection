@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Rich Man's Bells",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Mallet Instruments", "Bell"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "a2826047-9af3-43d4-919c-8c77be6c4741",
+  "vendor": "Propellerhead Software"
+}

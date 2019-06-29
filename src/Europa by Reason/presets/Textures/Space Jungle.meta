@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Space Jungle",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Airy Pad"],
+    ["Soundscapes", "Peaceful"]
+  ],
+  "uuid": "34c338a9-5ec2-414d-b323-2de6a2b66d7c",
+  "vendor": "Propellerhead Software"
+}

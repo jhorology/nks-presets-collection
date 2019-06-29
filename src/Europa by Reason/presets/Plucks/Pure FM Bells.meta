@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic"],
+  "name": "Pure FM Bells",
+  "types": [
+    ["Plucked Strings"],
+    ["Plucked Strings", "Other Plucked"],
+    ["Synth Pluck"],
+    ["Mallet Instruments", "Bell"],
+    ["Mallet Instruments", "Other Mallet"]
+  ],
+  "uuid": "64917062-5cd9-41bb-bd6a-e56804114744",
+  "vendor": "Propellerhead Software"
+}

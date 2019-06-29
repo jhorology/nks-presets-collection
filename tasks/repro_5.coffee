@@ -52,7 +52,8 @@ gulp.task "#{$.prefix}-export-adg", ->
     .pipe tap (file) ->
       # edit file path
       dirname = path.dirname file.path
-      file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      type = file.data.nksf.nisi.types[0][0].replace 'Piano/Keys', 'Piano & Keys'
+      file.path = path.join dirname, type, file.relative
     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
@@ -63,7 +64,8 @@ gulp.task "#{$.prefix}-export-bwpreset", ->
     .pipe tap (file) ->
       # edit file path
       dirname = path.dirname file.path
-      file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      type = file.data.nksf.nisi.types[0][0].replace 'Piano/Keys', 'Piano & Keys'
+      file.path = path.join dirname, type, file.relative
     .pipe exporter.gulpReadTemplate()
     .pipe exporter.gulpAppendPluginState()
     .pipe exporter.gulpRewriteMetadata()

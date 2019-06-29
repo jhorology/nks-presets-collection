@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed"],
+  "name": "Hectic Arcade Noise",
+  "types": [
+    ["Sound Effects"],
+    ["Synth Misc"],
+    ["Synth Misc", "FX Synth"],
+    ["Sound Effects", "Big & Bad"],
+    ["Sound Effects", "Other FX"],
+    ["Sound Effects", "Noise"],
+    ["Sound Effects", "Machines"]
+  ],
+  "uuid": "27b986a2-c5fa-444f-a322-528a7cf07964",
+  "vendor": "Propellerhead Software"
+}

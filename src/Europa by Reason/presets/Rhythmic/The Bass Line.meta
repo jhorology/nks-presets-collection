@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Tempo-synced"],
+  "name": "The Bass Line",
+  "types": [
+    ["Synth Misc"],
+    ["Synth Misc", "Other Sequences"],
+    ["Bass"],
+    ["Bass", "Bass Line"]
+  ],
+  "uuid": "8b2b5152-9dc9-4e3c-b81c-6597d26d4f83",
+  "vendor": "Propellerhead Software"
+}

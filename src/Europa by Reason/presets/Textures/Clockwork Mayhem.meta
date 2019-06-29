@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Clockwork Mayhem",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Soundscapes", "Destructive"],
+    ["Soundscapes", "Insanity"]
+  ],
+  "uuid": "a21f6fff-091a-48d7-89d5-7376f9609423",
+  "vendor": "Propellerhead Software"
+}

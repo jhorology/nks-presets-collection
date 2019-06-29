@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Monophonic", "Tempo-synced", "Sequence/Loop"],
+  "name": "Distort Runner",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Bass Line"],
+    ["Bass", "Distorted Bass"],
+    ["Synth Misc"],
+    ["Synth Misc", "Other Sequences"]
+  ],
+  "uuid": "a7f41260-eb51-4748-882f-ee09d0c7d97f",
+  "vendor": "Propellerhead Software"
+}

@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Processed", "Long/Evolving", "Long Release", "Slow Attack"],
+  "name": "Voices of the Stars [MW]",
+  "types": [
+    ["Soundscapes"],
+    ["Synth Pad"],
+    ["Synth Pad", "Evolving Pad"],
+    ["Synth Pad", "Airy Pad"],
+    ["Synth Pad", "Other Pad"],
+    ["Soundscapes", "Heavenly"],
+    ["Soundscapes", "Peaceful"]
+  ],
+  "uuid": "732b0d3d-aeaa-4675-8a86-f548d07e5bfb",
+  "vendor": "Propellerhead Software"
+}

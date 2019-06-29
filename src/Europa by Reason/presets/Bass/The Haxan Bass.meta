@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "bankchain": ["Europa by Reason", "Europa Factory", ""],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Synthetic", "Glide/Pitch Mod", "Monophonic"],
+  "name": "The Haxan Bass",
+  "types": [
+    ["Bass"],
+    ["Bass", "Digital Bass"],
+    ["Bass", "Distorted Bass"]
+  ],
+  "uuid": "a83631ca-fc2b-4534-b9ad-1f9dee333a2a",
+  "vendor": "Propellerhead Software"
+}
