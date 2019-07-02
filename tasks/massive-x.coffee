@@ -14,6 +14,7 @@ rename      = require 'gulp-rename'
 _           = require 'underscore'
 riff        = require 'gulp-riff-extractor'
 msgpack     = require 'msgpack-lite'
+xmlescape   = require 'xml-escape'
 util        = require '../lib/util'
 commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
@@ -140,7 +141,7 @@ gulp.task "#{$.prefix}-export-adg", ->
       inflateStream.end()
     .pipe exporter.gulpTemplate (file, embedParams) ->
       embedParams.macros = for i in [1..16]
-        name: file.data.massive.strings["root/engine/global/macros/macro#{i}/macroName/value"]
+        name: xmlescape file.data.massive.strings["root/engine/global/macros/macro#{i}/macroName/value"]
         normalizedValue: file.data.massive.doubles["root/engine/global/macros/macro#{i}/macroValue/normalizedValue"]
     .pipe gzip append: off       # append '.gz' extension
     .pipe rename extname: '.adg'
