@@ -141,7 +141,8 @@ gulp.task "#{$.prefix}-export-adg", ->
       inflateStream.end()
     .pipe exporter.gulpTemplate (file, embedParams) ->
       embedParams.macros = for i in [1..16]
-        name: xmlescape file.data.massive.strings["root/engine/global/macros/macro#{i}/macroName/value"]
+        # macro name of Borken Bow.nksf contains 0x1c
+        name: xmlescape file.data.massive.strings["root/engine/global/macros/macro#{i}/macroName/value"].replace /[\u0000-\u001f]+/, ''
         normalizedValue: file.data.massive.doubles["root/engine/global/macros/macro#{i}/macroValue/normalizedValue"]
     .pipe gzip append: off       # append '.gz' extension
     .pipe rename extname: '.adg'

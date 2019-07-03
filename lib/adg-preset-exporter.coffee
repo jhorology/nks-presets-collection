@@ -4,6 +4,7 @@ data       = require 'gulp-data'
 tap        = require 'gulp-tap'
 riffReader = require 'riff-reader'
 msgpack    = require 'msgpack-lite'
+xmlescape  = require 'xml-escape'
 
 # @templateFilePath required String
 #    template file path
@@ -59,7 +60,7 @@ class AdgPresetExporter
           if _.isNumber param.id
             embed.params.push
               id: param.id
-              name: param.name
+              name: xmlescape param.name
               visualIndex: pageIndex * 8 + paramIndex
           break if embed.params.length >= 128
         break if embed.params.length >= 128
