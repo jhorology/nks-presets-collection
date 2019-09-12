@@ -67,8 +67,8 @@ Fully assembled NKSF files can be downloaded from [here](https://www.dropbox.com
 
   I recommend to use [nvm](https://github.com/creationix/nvm).
     ```shellscript
-    nvm install stable
-    nvm use stable
+    nvm install v10  # I have no plan to migrate this project to gulp4, stay node.js v10.
+    nvm use v10
     ```
 
   - [gulp](http://gulpjs.com/)
