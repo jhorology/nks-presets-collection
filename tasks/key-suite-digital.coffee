@@ -4,6 +4,9 @@
 #  - Key Suite Digital
 #    - UVI Workstation v3.0.5
 #    - Library 1.0.0
+#  - 20190912
+#    - UVI Workstation v3.0.5
+#    - Library 1.1.0
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -174,6 +177,11 @@ $ = Object.assign {}, (require '../config'),
       pattern: /EBass/
       type: ['Bass', 'Fingered']
       modes: ['Sample-based']
+    }
+    {
+      pattern: /Pad/
+      type: ['Synth Pad', 'Basic']
+      modes: ['Sample-based', 'Slow Attack']
     }
   ]
 # register common gulp tasks
