@@ -4,10 +4,10 @@
   "comment": "",
   "deviceType": "INST",
   "modes": ["Sample-based"],
-  "name": "NP Harpsichord",
+  "name": "NP Woodophone",
   "types": [
-    ["Piano / Keys", "Harpsichord"]
+    ["Mallet Instruments", "Other"]
   ],
-  "uuid": "4ad7de5a-919f-4e36-8f47-0a6d9a45d50d",
+  "uuid": "a5d62564-f926-42cc-891d-8aea7acc13cb",
   "vendor": "UVI"
 }

@@ -7,6 +7,12 @@
 #  - 20190912
 #    - UVI Workstation v3.0.5
 #    - Library 1.1.0
+#  - 20190912
+#    - UVI Workstation v3.0.5
+#    - Library 1.1.0
+#  - 201901010
+#    - UVI Workstation v3.0.5
+#    - Library 1.1.1
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -154,7 +160,7 @@ $ = Object.assign {}, (require '../config'),
       modes: ['Sample-based']
     }
     {
-      pattern: /Vibraphone|Vibes/
+      pattern: /Vibraphone|Vibes|NP Electric Vibe/
       type: ['Mallet Instruments', 'Vibraphone']
       modes: ['Sample-based']
     }
@@ -182,6 +188,21 @@ $ = Object.assign {}, (require '../config'),
       pattern: /Pad/
       type: ['Synth Pad', 'Basic']
       modes: ['Sample-based', 'Slow Attack']
+    }
+    {
+      pattern: /Pad/
+      type: ['Synth Pad', 'Basic']
+      modes: ['Sample-based', 'Slow Attack']
+    }
+    {
+      pattern: /^NP Lead/
+      type: ['Synth Lead', 'Classic Mono']
+      modes: ['Sample-based']
+    }
+    {
+      pattern: /^NP /
+      type: ['Mallet Instruments', 'Other']
+      modes: ['Sample-based']
     }
   ]
 # register common gulp tasks
@@ -294,32 +315,32 @@ gulp.task "#{$.prefix}-generate-meta", ->
 # build presets file to dist folder
 gulp.task "#{$.prefix}-dist-presets", ->
   builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
-  replacePath = (node, attrName) ->
+  replacePath = (node, attrName, regexp) ->
     v = node.getAttribute attrName
+    v = v.replace regexp, "#{$.ufs}$2"
     if v
-      node.setAttribute attrName, v.replace './../..', $.ufs
+      node.setAttribute attrName, v
+    v
   params = require "../src/#{$.dir}/mappings/uvi-host-automation-params"
   gulp.src ["src/#{$.dir}/presets/**/*.uvip"], read: on
     .pipe data (uvip) ->
       uvi4 = util.xmlString $.uvi4Template
       program = (xpath.select '/UVI4/Program', util.xmlString uvip.contents.toString())[0]
       # replace ProogramPath
-      programPath = program.getAttribute 'ProgramPath'
-      programPath = programPath.replace /(.*)\/Presets\//, "#{$.ufs}/Presets/"
-      program.setAttribute 'ProgramPath', programPath
+      programPath = replacePath program, 'ProgramPath', /^(.+)(\/Presets\/.+)/
       # remove <BusRouters/>
       (xpath.select '//BusRouters', program).forEach (node) ->
         node.parentNode.removeChild node
       # Properties[@ScriptPath]
       (xpath.select '//Properties[@ScriptPath]', program).forEach (node) ->
-        replacePath node, 'ScriptPath'
+        replacePath node, 'ScriptPath', /^(.+)(\/Scripts\/.+)/
         node.setAttribute 'OriginalProgramPath', programPath
       # Convolver[@SamplePath]
       (xpath.select '//Convolver[@SamplePath]', program).forEach (node) ->
-        replacePath node, 'SamplePath'
+        replacePath node, 'SamplePath', /^(.+)(\/IR\/.+)/
       # SamplePlayer[@SamplePath]
       (xpath.select '//SamplePlayer[@SamplePath]', program).forEach (node) ->
-        replacePath node, 'SamplePath'
+        replacePath node, 'SamplePath', /^(.+)(\/Samples\/.+)/
       automation = (xpath.select '/UVI4/Engine/Automation', uvi4)[0]
       # append <AutomationConnection props.../>
       params.forEach (param, index) ->
