@@ -1,0 +1,1074 @@
+<UVI4>
+  <Program Bypass="0" Name="Program" Gain="0.501187" Pan="0" LoopProgram="0" Streaming="1" BypassInsertFX="0" TransposeOctaves="0" TransposeSemiTones="0" Polyphony="16" NotePolyphony="0" DisplayName="DS77-Marimba" OutputName="" ProgramPath="/Users/alainetchart/Desktop/DS77/Base/Presets/DS77-Marimba.M5p">
+    <ControlSignalSources>
+      <DAHDSR Bypass="0" Name="DAHDSR 1" DisplayName="DAHDSR 1" VelocityAmount="0.73" VelocitySens="0.75" NoteOffRetrigger="0" Retrigger="1" DelayTime="0" AttackTime="0" AttackCurve="-0.504014" HoldTime="0" DecayTime="0" DecayCurve="-0.960651" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.959695">
+        <Connections>
+          <SignalConnection Ratio="-1" Bypass="1" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="AttackTime" Mapper="Mapper 0" />
+        </Connections>
+        <Properties PresetPath="/Users/Soundesign1A/Documents/MOTU/MachFive3/User Presets/Modulations/DAHDSR/Default.env" />
+      </DAHDSR>
+      <DAHDSR Bypass="0" Name="DAHDSR 2" DisplayName="DAHDSR 2" VelocityAmount="0" VelocitySens="0.75" NoteOffRetrigger="0" Retrigger="1" DelayTime="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0" DecayCurve="0" SustainLevel="1" ReleaseTime="0.005" ReleaseCurve="0" />
+      <LFO Bypass="1" Name="LFO 1" DisplayName="LFO 1" DelayTime="0" RiseTime="0" Freq="5.135" Depth="1" Phase="0" Smooth="0" SyncToHost="0" Bipolar="1" WaveFormType="0" Retrigger="1">
+        <Connections>
+          <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="@MIDI CC 1" Destination="Depth" Mapper="" />
+        </Connections>
+      </LFO>
+      <AHD Bypass="0" Name="AHD 1" DisplayName="AHD 1" VelocityAmount="0" VelocitySens="0.75" NoteOffRetrigger="0" Retrigger="1" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0" DecayCurve="0" />
+      <LFO Bypass="1" Name="LFO 2" DisplayName="LFO 2" DelayTime="0" RiseTime="0" Freq="0.5" Depth="1" Phase="0" Smooth="0" SyncToHost="1" Bipolar="1" WaveFormType="0" Retrigger="1" />
+    </ControlSignalSources>
+    <EventProcessors>
+      <ScriptProcessor Bypass="0" Name="EventProcessor0" ampVelAmount="0.73" ampAttack="0" ampDecay="0" ampSustain="1" ampRelease="1" FilterEnvAmount="0" Cutoff="1" FilterReso="0.811111" velToFilter="0.844444" filterAttack="0" filterDecay="0" filterSustain="1" filterRelease="0" VibratoRate="0.5" TremoloRate="0.5" WheelFilterDepth="-0.358579" PitchEnvAmount="0" PitchEnvTime="0" DriveAmount="0.0671224" phaserAmount="0" delayAmount="0.0176946" sparkleAmount="0.0803937" bitCrusherBitSize="9.68889" bitCrusherFreq="17333.3" bitCrusherDrive="0.455556" AmpVelToAttack="0" FilterType1="0" FilterType2="0" FilterType3="1" VibratoOnOff="0" TremoloOnOff="0" WheelFilterOnOff="1" LayerModes1="0" LayerModes2="1" DriveOnOff="1" StereoType1="0" StereoType2="1" StereoType3="0" phaserOnOff="0" delayOnOff="1" sparkleOnOff="1" bitCrusherOnOff="0" toneShift="0" panSpread="33" detune="30" API_version="5">
+        <Properties ScriptPath="./../../../Scripts/DS77Stub.lua" />
+        <script>
+          <![CDATA[require "DS77"
+
+]]>
+        </script>
+        <ScriptData />
+      </ScriptProcessor>
+    </EventProcessors>
+    <Inserts>
+      <CrossPhaser Bypass="1" Name="InsertFX0" Speed="0.6" MinFreq="209.398" MaxFreq="959.389" Feedback="0.4" Depth="0" SyncToHost="0">
+        <Properties PresetPath="$Resource/resource/FactoryPresets/FX/04 - Modulation/04 - Cross Phaser/Low phase.fxps" />
+      </CrossPhaser>
+      <PingPongDelay Bypass="0" Name="InsertFX1" DelayTime="0.5" Feedback="0.3" Cutoff="0.158668" Spread="1" Mix="0.0176946" SyncToHost="1">
+        <Properties PresetPath="$Resource/resource/FactoryPresets/FX/01 - Delay/05 - Ping Pong Delay/Eight Miles.fxps" />
+      </PingPongDelay>
+      <BitCrusher Bypass="1" Name="InsertFX2" EffectiveSampleRate="17333.3" BitSize="9.68889" Drive="0.455556" Cutoff="0" Mix="1" />
+      <SparkVerb Bypass="0" Name="InsertFX3" ModDepth="1.62263" ModRate="1" Diffusion="0.618" DiffusionStart="5" Width="1" RoomSize="14.4255" DecayTime="2.77288" DecayLow="0.4" DecayHigh="0.5" FreqLow="110.367" FreqHigh="12000" Shape="0" Mix="0.0803937" Rolloff="8665.39" HiCut="0" LowCut="1" DiffusionOnOff="1" Quality="4" Mode="2">
+        <Properties PresetPath="$Resource/resource/FactoryPresets/FX/02 - Reverberation/04 - SparkVerb/04- Hall/Small Hall.fxps" />
+      </SparkVerb>
+    </Inserts>
+    <Layers>
+      <Layer Bypass="0" Name="Layer 0" Gain="1" Pan="0" PortamentoTime="0.023952" VelocityCurve="0" Mute="0" MidiMute="0" Solo="0" BypassInsertFX="0" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" NumVoicesPerNote="1" DisplayName="Layer 1" OutputName="">
+        <Connections>
+          <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 2" Destination="Gain" Mapper="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="@MIDI CC 1" Destination="Ratio" Mapper="" />
+            </Connections>
+          </SignalConnection>
+        </Connections>
+        <Properties Color="ffa0522d" />
+        <ControlSignalSources />
+        <BusRouters />
+        <Keygroups>
+          <Keygroup Bypass="0" Name="Keygroup 24" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="0" HighKey="36" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-C1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-C1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 26" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="37" HighKey="38" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-D1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="38" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-D1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 28" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="39" HighKey="40" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-E1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="40" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-E1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 29" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="41" HighKey="41" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-F1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="41" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-F1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 31" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="42" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-G1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-G1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 33" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="44" HighKey="45" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-A1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="45" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-A1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 35" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="46" HighKey="47" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-B1.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="47" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-B1.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 36" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="48" HighKey="48" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-C2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-C2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 38" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="49" HighKey="50" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-D2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="50" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-D2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 40" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="51" HighKey="52" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-E2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="52" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-E2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 41" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="53" HighKey="53" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-F2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="53" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-F2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 43" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="54" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-G2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-G2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 45" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="56" HighKey="57" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-A2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="57" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-A2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 47" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="58" HighKey="59" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-B2.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="59" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-B2.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 48" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="60" HighKey="60" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-C3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-C3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 52" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="63" HighKey="64" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-E3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="64" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-E3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 50" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="61" HighKey="62" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-D3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="62" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-D3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 53" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="65" HighKey="65" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-F3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="65" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-F3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 55" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="66" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-G3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-G3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 57" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="68" HighKey="69" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-A3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="69" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-A3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 59" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="70" HighKey="71" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-B3.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="71" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-B3.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 62" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="73" HighKey="74" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-D4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="74" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-D4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 65" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="77" HighKey="77" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-F4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="77" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-F4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 64" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="75" HighKey="76" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-E4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="76" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-E4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 60" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="72" HighKey="72" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-C4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-C4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 67" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="78" HighKey="79" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-G4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="79" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-G4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 69" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="80" HighKey="81" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-A4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="81" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-A4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 71" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="82" HighKey="83" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-B4.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="83" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-B4.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 72" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="94" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-B5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="95" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-B5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 75" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="84" HighKey="84" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-C5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-C5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 76" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="87" HighKey="88" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-E5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="88" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-E5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 77" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="85" HighKey="86" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-D5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="86" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-D5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 78" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="90" HighKey="91" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-G5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="91" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-G5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 79" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="89" HighKey="89" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-F5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="89" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-F5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+          <Keygroup Bypass="0" Name="Keygroup 82" Gain="1" Pan="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0" ExclusiveGroup="0" LowKey="92" HighKey="93" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" DisplayName="DS77-Marimba-A5.wav" OutputName="">
+            <Connections>
+              <SignalConnection Ratio="1" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" />
+            </Connections>
+            <Inserts>
+              <XpanderFilter Bypass="0" Name="Filter" Freq="20000" Q="0.811111" Drive="0" Mode="3" DistortionType="0">
+                <Connections>
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" />
+                  <SignalConnection Ratio="-0.358579" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="@MIDI CC 1" Destination="Freq" Mapper="" />
+                </Connections>
+              </XpanderFilter>
+              <Drive Bypass="0" Name="Drive" DriveAmount="0.0671224" Mode="0" Oversampling="0" />
+              <OnePole Bypass="0" Name="Filter 2" Freq="20000" Mode="0">
+                <Connections>
+                  <SignalConnection Ratio="-0.844444" Bypass="0" Inverted="1" ConnectionMode="0" Name="SignalConnection 0" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" />
+                </Connections>
+              </OnePole>
+            </Inserts>
+            <BusRouters />
+            <Oscillators>
+              <SamplePlayer Bypass="0" Name="Oscillator" Gain="1" Pitch="0" NoteTracking="1" CoarseTune="0" FineTune="0" BaseNote="93" DisplayName="Oscillator 1" SamplePath="./../../../Samples/DS77/DS77-Marimba/DS77-Marimba-A5.wav" SampleStart="0" InterpolationMode="1" SamplePurged="0">
+                <Connections>
+                  <SignalConnection Ratio="2" Bypass="0" Inverted="0" ConnectionMode="0" Name="PitchBendMod" Source="@PitchBend" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="1.384" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 0" Source="$Program/LFO 1" Destination="Pitch" Mapper="" />
+                  <SignalConnection Ratio="0" Bypass="0" Inverted="0" ConnectionMode="0" Name="SignalConnection 1" Source="$Program/AHD 1" Destination="Pitch" Mapper="" />
+                </Connections>
+              </SamplePlayer>
+            </Oscillators>
+          </Keygroup>
+        </Keygroups>
+      </Layer>
+    </Layers>
+  </Program>
+</UVI4>

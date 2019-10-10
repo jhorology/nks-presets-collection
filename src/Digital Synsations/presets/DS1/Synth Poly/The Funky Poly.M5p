@@ -1,0 +1,1099 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" Gain="0.446684" Pan="0" DisplayName="The Funky Poly" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="/Volumes/UVI_SoundDesign/1-UVI/1-Master_UVI-1/SC30-Digital_Synsations/Master/Digital_Synsations/Base/Presets/DS1/Synth Poly/The Funky Poly.M5p" LoopProgram="0" Streaming="1" BypassInsertFX="0">
+        <ControlSignalSources>
+            <DAHDSR Name="DAHDSR 1" DisplayName="DAHDSR 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="-0.50401402" HoldTime="0" DecayTime="0" DecayCurve="-0.96065098" SustainLevel="1" ReleaseTime="0.11955654" ReleaseCurve="-0.95969498" VelocityAmount="0.61000001" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="AttackTime" Mapper="Mapper 0" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                </Connections>
+                <Properties PresetPath="/Users/Soundesign1A/Documents/MOTU/MachFive3/User Presets/Modulations/DAHDSR/Default.env"/>
+            </DAHDSR>
+            <DAHDSR Name="DAHDSR 2" DisplayName="DAHDSR 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0" DecayCurve="0" SustainLevel="1" ReleaseTime="0.0049999999" ReleaseCurve="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="6.1755505" Depth="1" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Depth" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                </Connections>
+            </LFO>
+            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0" DecayCurve="0"/>
+            <LFO Name="LFO 2" DisplayName="LFO 2" Bypass="1" SyncToHost="1" DelayTime="0" RiseTime="0" Freq="0.5" Depth="1" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0"/>
+        </ControlSignalSources>
+        <EventProcessors>
+            <ScriptProcessor Name="EventProcessor0" Bypass="0" AmpVelToAttack="0" ampVelAmount="61" ampAttack="0" ampDecay="0" ampSustain="100" ampRelease="27" FilterType1="0" FilterType2="0" FilterType3="1" FilterEnvAmount="0" Cutoff="100" FilterReso="80" velToFilter="85" filterAttack="0" filterDecay="0" filterSustain="100" filterRelease="0" VibratoRate="0.55000001" VibratoOnOff="1" TremoloRate="0.5" TremoloOnOff="0" WheelFilterOnOff="1" WheelFilterDepth="-0.50272799" LayerModes1="0" LayerModes2="1" PitchEnvAmount="0" PitchEnvTime="0" DriveOnOff="1" DriveAmount="0.252" toneShift="0" panSpread="1" detune="0.30000001" StereoType1="1" StereoType2="0" StereoType3="0" phaserOnOff="1" phaserAmount="0.5" delayOnOff="1" delayAmount="0.029999999" sparkleOnOff="0" sparkleAmount="0.050000001" bitCrusherOnOff="0" bitCrusherBitSize="9" bitCrusherFreq="17000" bitCrusherDrive="0.40000001" API_version="5">
+                <Properties ScriptPath="./../../../Scripts/DS1Stub.lua"/>
+                <script><![CDATA[require "DS1"]]></script>
+                <ScriptData/>
+            </ScriptProcessor>
+        </EventProcessors>
+        <Inserts>
+            <CrossPhaser Name="InsertFX0" Bypass="0" SyncToHost="0" Speed="0.60000002" MinFreq="209.39799" MaxFreq="959.38898" Feedback="0.40000001" Depth="0.5">
+                <Properties PresetPath="$Resource/resource/FactoryPresets/FX/04 - Modulation/04 - Cross Phaser/Low phase.fxps"/>
+            </CrossPhaser>
+            <PingPongDelay Name="InsertFX1" Bypass="0" SyncToHost="1" DelayTime="0.5" Feedback="0.30000001" Cutoff="0.158668" Spread="1" Mix="0.029999999">
+                <Properties PresetPath="$Resource/resource/FactoryPresets/FX/01 - Delay/05 - Ping Pong Delay/Eight Miles.fxps"/>
+            </PingPongDelay>
+            <BitCrusher Name="InsertFX2" Bypass="1" EffectiveSampleRate="17000" BitSize="9" Drive="0.40000001" Cutoff="0" Mix="1"/>
+            <SparkVerb Name="InsertFX3" Bypass="1" ModDepth="1.62263" ModRate="1" Diffusion="0.61799997" DiffusionStart="5" Width="1" RoomSize="14.4255" DecayTime="2.7728801" DecayLow="0.40000001" DecayHigh="0.5" FreqLow="250" FreqHigh="12000" Shape="0" Mix="0.050000001" Quality="4" Mode="2" HiCut="0" LowCut="1" Rolloff="8665.3896" DiffusionOnOff="1" PreDelay="0" MixMode="0" SparkVerbVersion="1">
+                <Properties PresetPath="$Resource/resource/FactoryPresets/FX/02 - Reverberation/04 - SparkVerb/04- Hall/Small Hall.fxps"/>
+            </SparkVerb>
+        </Inserts>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 1" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.023952" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                    </SignalConnection>
+                </Connections>
+                <Properties Color="ffa0522d"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 21" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-A0.wav" OutputName="" ExclusiveGroup="0" LowKey="43" HighKey="44" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-A0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 23" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-B0.wav" OutputName="" ExclusiveGroup="0" LowKey="45" HighKey="46" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="46" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-B0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 24" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-C1.wav" OutputName="" ExclusiveGroup="0" LowKey="47" HighKey="47" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="47" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-C1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 26" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-D1.wav" OutputName="" ExclusiveGroup="0" LowKey="48" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="49" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-D1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 28" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-E1.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="51" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="51" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-E1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 29" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-F1.wav" OutputName="" ExclusiveGroup="0" LowKey="52" HighKey="52" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="52" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-F1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 31" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-G1.wav" OutputName="" ExclusiveGroup="0" LowKey="53" HighKey="54" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="54" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-G1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 33" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-A1.wav" OutputName="" ExclusiveGroup="0" LowKey="55" HighKey="56" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-A1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 35" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-B1.wav" OutputName="" ExclusiveGroup="0" LowKey="57" HighKey="58" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="58" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-B1.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 36" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-C2.wav" OutputName="" ExclusiveGroup="0" LowKey="59" HighKey="59" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="59" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-C2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 38" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-D2.wav" OutputName="" ExclusiveGroup="0" LowKey="60" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="61" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-D2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 40" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-E2.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="63" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="63" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-E2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 41" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-F2.wav" OutputName="" ExclusiveGroup="0" LowKey="64" HighKey="64" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="64" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-F2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 43" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-G2.wav" OutputName="" ExclusiveGroup="0" LowKey="65" HighKey="66" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="66" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-G2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 45" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-A2.wav" OutputName="" ExclusiveGroup="0" LowKey="67" HighKey="68" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-A2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 47" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-B2.wav" OutputName="" ExclusiveGroup="0" LowKey="69" HighKey="70" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="70" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-B2.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 48" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-C3.wav" OutputName="" ExclusiveGroup="0" LowKey="71" HighKey="71" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="71" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-C3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 52" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-E3.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="75" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="75" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-E3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 50" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-D3.wav" OutputName="" ExclusiveGroup="0" LowKey="72" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="73" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-D3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 53" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-F3.wav" OutputName="" ExclusiveGroup="0" LowKey="76" HighKey="76" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="76" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-F3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 55" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-G3.wav" OutputName="" ExclusiveGroup="0" LowKey="77" HighKey="78" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="78" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-G3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 57" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-A3.wav" OutputName="" ExclusiveGroup="0" LowKey="79" HighKey="80" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="80" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-A3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 59" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-B3.wav" OutputName="" ExclusiveGroup="0" LowKey="81" HighKey="82" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="82" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-B3.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 62" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-D4.wav" OutputName="" ExclusiveGroup="0" LowKey="84" HighKey="85" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="85" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-D4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 16" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-E0.wav" OutputName="" ExclusiveGroup="0" LowKey="38" HighKey="39" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="39" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-E0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 17" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-F0.wav" OutputName="" ExclusiveGroup="0" LowKey="40" HighKey="40" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="40" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-F0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 19" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-G0.wav" OutputName="" ExclusiveGroup="0" LowKey="41" HighKey="42" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="42" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-G0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 65" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-F4.wav" OutputName="" ExclusiveGroup="0" LowKey="88" HighKey="88" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="88" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-F4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 64" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-E4.wav" OutputName="" ExclusiveGroup="0" LowKey="86" HighKey="87" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="87" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-E4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 60" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-C4.wav" OutputName="" ExclusiveGroup="0" LowKey="83" HighKey="83" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="83" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-C4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 12" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-C0.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="35" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="35" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-C0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 14" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-D0.wav" OutputName="" ExclusiveGroup="0" LowKey="36" HighKey="37" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="37" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-D0.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 67" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-G4.wav" OutputName="" ExclusiveGroup="0" LowKey="89" HighKey="90" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="90" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-G4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 69" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-A4.wav" OutputName="" ExclusiveGroup="0" LowKey="91" HighKey="92" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="92" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-A4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 71" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-B4.wav" OutputName="" ExclusiveGroup="0" LowKey="93" HighKey="94" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="94" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-B4.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 75" Bypass="0" Gain="1" Pan="0" DisplayName="DS1-SoloSynth-C5.wav" OutputName="" ExclusiveGroup="0" LowKey="95" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="20000" Q="0.80000001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="-0.50272799" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.252" Mode="0" Oversampling="0"/>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="20000" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.85000002" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="95" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./../../../Samples/DS1/DS1-SoloSynth/DS1-SoloSynth-C5.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1.3839999" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>
