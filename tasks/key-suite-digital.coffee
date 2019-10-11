@@ -395,6 +395,9 @@ gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
     .pipe exporter.gulpParseNksf()
     .pipe exporter.gulpReadTemplate()
     .pipe exporter.gulpAppendPluginState()
-    .pipe exporter.gulpRewriteMetadata()
+    .pipe exporter.gulpRewriteMetadata (nisi) ->
+      meta = bwExporter.defaultMetaMapper nisi
+      meta.creator = $.dir
+      meta
     .pipe rename extname: '.bwpreset'
     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"

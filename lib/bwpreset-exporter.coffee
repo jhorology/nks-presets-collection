@@ -66,7 +66,7 @@ class BwpresetExporter
       # read template file
       bwpreset = fs.readFileSync _this.template
       # ziped fxb offset
-      offset = parseInt (bwpreset.toString 'ascii', 0x00000024, 0x00000024 + 8), 16
+      offset = parseInt (bwpreset.toString 'ascii', 32, 40), 16
       # remove zipped fxb part
       bwpreset = bwpreset.slice 0, offset
       file.contents = _replace_fxb_filename bwpreset, file.data.nksf.nisi.uuid
