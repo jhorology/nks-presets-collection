@@ -17,6 +17,10 @@
 #    - Patches v1.2c
 # - 20180911
 #    - Patches v1.3c
+# - 20200809
+#    - Software 1.1.3c
+#    - Sundsources v1.0.3c
+#    - Patches v1.3.1c
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -52,12 +56,12 @@ $ = Object.assign {}, (require '../config'),
   numParams: 512
   # Ableton Live 10.0.1 Instrument Rack
   abletonRackTemplate: 'src/Keyscape/templates/Keyscape.adg.tpl'
-  # Bitwig Studio 2.3.2 preset file
+  # Bitwig Studio 3.2.6 preset file
   bwpresetTemplate: 'src/Keyscape/templates/Keyscape.bwpreset'
   # STEAM patch
   steamPatchDb: '/Volumes/Media/Music/Spectrasonics/STEAM/Keyscape/Settings Library/Patches/Factory/Keyscape Library.db'
   # SynthMaster 1.1.0f template
-  synthMasterTpl: 'src/Keyscape/presets/SynthMaster-1.1.0f.xml.tpl'
+  synthMasterTpl: 'src/Keyscape/presets/SynthMaster-1.1.3c.xml.tpl'
   # common host map parameters
   commonParams: [
     { id: 'poly', name: 'Voices', section: 'Settings'}
@@ -74,14 +78,14 @@ $ = Object.assign {}, (require '../config'),
     SYNTHENG:
       # velocity curve for S61
       # ---------------------
-      # VCname: 'NI Kontrol S61'
-      # vcx: "3f000000"
-      # vcy: "3f000000"
+      VCname: 'NI Kontrol S61'
+      vcx: "3f000000"
+      vcy: "3f000000"
       # velocity curve for S88
       # ---------------------
-      VCname: 'NI Kontrol S88'
-      vcx: "3de38e39"
-      vcy: "3d302c10"
+      # VCname: 'NI Kontrol S88'
+      # vcx: "3de38e39"
+      # vcy: "3d302c10"
     
 # register common gulp tasks
 # --------------------------------

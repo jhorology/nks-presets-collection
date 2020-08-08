@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ableton MajorVersion="5" MinorVersion="10.0_370" SchemaChangeCount="2" Creator="Ableton Live 10.0.1" Revision="24db47c40277255afc4229905992e7654e23ec0f">
+<Ableton MajorVersion="5" MinorVersion="10.0_377" SchemaChangeCount="3" Creator="Ableton Live 10.1.17" Revision="927bd3e6bccfedef1950a604df10430cf0dbf449">
 	<GroupDevicePreset>
-		<OverwriteProtectionNumber Value="2560" />
+		<OverwriteProtectionNumber Value="2561" />
 		<Device>
 			<InstrumentGroupDevice Id="0">
 				<LomId Value="0" />
@@ -71,7 +71,7 @@
 				<SourceContext>
 					<Value />
 				</SourceContext>
-				<OverwriteProtectionNumber Value="2560" />
+				<OverwriteProtectionNumber Value="2561" />
 				<Branches />
 				<IsBranchesListVisible Value="false" />
 				<IsReturnBranchesListVisible Value="false" />
@@ -221,7 +221,7 @@
 				<ForceDisplayGenericValue.5 Value="false" />
 				<ForceDisplayGenericValue.6 Value="false" />
 				<ForceDisplayGenericValue.7 Value="false" />
-				<AreMacroControlsVisible Value="true" />
+				<AreMacroControlsVisible Value="false" />
 				<IsAutoSelectEnabled Value="false" />
 				<ChainSelector>
 					<LomId Value="0" />
@@ -238,7 +238,7 @@
 					</ModulationTarget>
 				</ChainSelector>
 				<ChainSelectorRelativePosition Value="-1073741824" />
-				<ViewsToRestoreWhenUnfolding Value="4" />
+				<ViewsToRestoreWhenUnfolding Value="0" />
 				<ReturnBranches />
 				<BranchesSplitterProportion Value="0.5" />
 				<ShowBranchesInSessionMixer Value="false" />
@@ -305,7 +305,7 @@
 				<IsSoloed Value="false" />
 				<DevicePresets>
 					<VstPreset Id="0">
-						<OverwriteProtectionNumber Value="2560" />
+						<OverwriteProtectionNumber Value="2561" />
 						<ParameterSettings><% _.forEach(params, function(param, index) { %>
 							<PluginParameterSettings Id="<%=index%>">
 								<Index Value="<%=index%>" />
@@ -345,7 +345,7 @@
 				</DevicePresets>
 				<MixerPreset>
 					<AbletonDevicePreset Id="0">
-						<OverwriteProtectionNumber Value="2560" />
+						<OverwriteProtectionNumber Value="2561" />
 						<Device>
 							<AudioBranchMixerDevice Id="0">
 								<LomId Value="0" />
@@ -376,7 +376,7 @@
 								<SourceContext>
 									<Value />
 								</SourceContext>
-								<OverwriteProtectionNumber Value="2560" />
+								<OverwriteProtectionNumber Value="2561" />
 								<Speaker>
 									<LomId Value="0" />
 									<Manual Value="true" />
@@ -460,7 +460,7 @@
 					<CrossfadeMax Value="0" />
 				</BranchSelectorRange>
 				<SessionViewBranchWidth Value="55" />
-				<ColorIndex Value="148" />
+				<ColorIndex Value="164" />
 				<AutoColored Value="true" />
 				<AutoColorScheme Value="0" />
 				<SourceContext>
