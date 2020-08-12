@@ -20,7 +20,7 @@ module.exports =
   #-------------------------------------------
   NI:
     # content: '/Users/Shared'
-    content: '/Volume/Media/Music/Native Instruments'
+    content: '/Volumes/Media/Music/Native Instruments'
     userContent: "#{process.env.HOME}/Documents/Native Instruments/User Content"
     resources: '/Users/Shared/NI Resources'
 

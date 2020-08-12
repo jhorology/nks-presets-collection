@@ -21,16 +21,16 @@ appcGenerator = require '../lib/appc-generator'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'DB-33'
   vendor: 'AIR Music Technology'
   magic: '33BD'
-  
+
   #  local settings
   # -------------------------
-   
+
   # Ableton Live 9.6.2
   abletonRackTemplate: 'src/DB-33/templates/DB-33.adg.tpl'
   # Bitwig Studio 1.3.14 RC1 preset file

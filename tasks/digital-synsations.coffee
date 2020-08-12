@@ -251,7 +251,7 @@ gulp.task "#{$.prefix}-dist-presets", ->
         automationConnection.setAttribute 'targetPath', '/uvi/Part 0/Program/EventProcessor0'
         automationConnection.setAttribute 'parameterName', "#{param.id}"
         automationConnection.setAttribute 'parameterDisplayName', ''
-        automation.appendChild automationConnection 
+        automation.appendChild automationConnection
       # append <Program props.../> to Part0
       (xpath.select "/UVI4/Engine/Synth/Children/Part[@Name='Part 0']", uvi4)[0].appendChild program
       # create PCHK chunk
@@ -259,7 +259,7 @@ gulp.task "#{$.prefix}-dist-presets", ->
       #   - 4byte chunkId = "UVI4"
       #   - 4byte version or flags = 1 (32bit LE)
       #   - 4byte uncompressed xml size (32bit LE)
-      #   - <zlib deflate archive (.uviws file)> 
+      #   - <zlib deflate archive (.uviws file)>
       xml = Buffer.from uvi4.toString()
       uncompressedSize = Buffer.alloc 4
       uncompressedSize.writeUInt32LE xml.length
