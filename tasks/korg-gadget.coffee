@@ -151,6 +151,8 @@ $.gadgets.forEach (gadget) ->
   # gather .nksf for windows
   gulp.task "#{prefix}-gather-nksf_", ->
     gulp.src [nksPresets]
+      # some .nksf files are corrupted. size = 0
+      .pipe ignore (file) -> file.contents.length is 0
       .pipe gulp.dest "dist/KORG Gadget/Presets/#{gadget.dir}"
 
   # gather .previews for windows
@@ -166,7 +168,7 @@ $.gadgets.forEach (gadget) ->
   gulp.task "#{prefix}-gather-resources_", ->
     gulp.src [
       "#{$.pluginsDir}/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/PAResources/**/*.{meta,json,png}"
-      'src/KORG Gadget/resources/**/*.png' # added missing image resources
+      'src/KORG Gadget/resources/**/*.{meta,json,png}' # added missing image resources
     ]
       .pipe rename (file) ->
         # fix wrong filename
