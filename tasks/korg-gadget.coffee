@@ -164,9 +164,21 @@ $.gadgets.forEach (gadget) ->
 
   # gather .previews for windows
   gulp.task "#{prefix}-gather-resources_", ->
-    gulp.src ["#{$.pluginsDir}/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/PAResources/**/*"]
+    gulp.src [
+      "#{$.pluginsDir}/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/PAResources/**/*.{meta,json,png}"
+      'src/KORG Gadget/resources/**/*.png' # added missing image resources
+    ]
       .pipe rename (file) ->
-        file.basename = file.basename.toLowerCase()
+        # fix wrong filename
+        if file.basename is 'MST_artwork_Pompei'
+          file.basename = 'MST_artwork'
+        if file.basename is 'VB_artwork_Pompei'
+          file.basename = 'VB_artwork'
+        #  de-capitalize .meta
+        if file.extname.endsWith '.meta'
+          file.basename = file.basename.toLowerCase()
+        #  de-capitalize folder name
+        file.dirname = file.dirname.toLowerCase()
       .pipe gulp.dest "dist/KORG Gadget"
 
 # export
@@ -184,16 +196,16 @@ gulp.task "#{$.prefix}-export-bwpreset", ("#{$.prefix}-#{gadget.plugin.toLowerCa
 # export from .nksf to .fxp
 gulp.task "#{$.prefix}-export-fxp", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-fxp_" for gadget in $.gadgets)
 
-# export NKS gather nksf for windows
+# gather nksf for windows
 gulp.task "#{$.prefix}-gather-nksf", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-gather-nksf_" for gadget in $.gadgets)
 
-# export NKS gather nksf for windows
+# gather nksf for windows
 gulp.task "#{$.prefix}-gather-previews", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-gather-previews_" for gadget in $.gadgets)
 
-# export NKS gather resources for windows
+# gather resources for windows
 gulp.task "#{$.prefix}-gather-resources", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-gather-resources_" for gadget in $.gadgets)
 
-# export NKS gather resources for windows
+# packaging for windows
 gulp.task "#{$.prefix}-package-for-windows", [
   "#{$.prefix}-gather-nksf"
   "#{$.prefix}-gather-previews"
