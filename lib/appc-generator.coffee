@@ -21,14 +21,15 @@ module.exports =
   #  - pluginId   required 4 characters String or int32
   #  - pluginName required String
   #  - isAudioFX  optional default = off
+  #  - isVst3  vst3 or not default = off
   # --------------------------------
-  nica2appc: (nica, pluginId, pluginName, isAudioFX) ->
-    if _.isString pluginId
+  nica2appc: (nica, pluginId, pluginName, isAudioFX, isVst3) ->
+    if not isVst3 and _.isString pluginId
       pluginId = (Buffer.from pluginId).readUInt32BE(0)
     appc =
       id: 'application/vnd.ableton.plugin-configuration'
       version: '1.0'
-      "device-id": "device:vst:#{if isAudioFX then 'audiofx' else 'instr'}:#{pluginId}?n=#{encodeURIComponent(pluginName)}"
+      "device-id": "device:vst#{if isVst3 then '3' else ''}:#{if isAudioFX then 'audiofx' else 'instr'}:#{pluginId}?n=#{encodeURIComponent(pluginName)}"
       groups: []
     group = (name, params) ->
       name: name || "Undefined"
@@ -67,8 +68,7 @@ module.exports =
     chunks = ['NICA', 'PLID']
     unless pluginName and _.isBoolean(isAudioFX)
       chunks.push 'NISI'
-    _this = @
-    tap (file) ->
+    tap (file) =>
       nica = pluginId = undefined
       (riffReader file.contents or file.path, 'NIKS').readSync (id, chunk) ->
         switch id
@@ -81,20 +81,40 @@ module.exports =
           when 'PLID'
             pluginId = (msgpack.decode chunk.slice 4)['VST.magic']
       , chunks
-      file.contents = Buffer.from (util.beautify _this.nica2appc nica, pluginId, pluginName, isAudioFX), 'utf8'
+      file.contents = Buffer.from (util.beautify @nica2appc nica, pluginId, pluginName, isAudioFX), 'utf8'
 
+  #
+  #  gulp plugin for .nksf to .appc
+  #  - pluginName optional String default = bankchanin[0]
+  #  - isAudioFX  optional boolean default = off
+  # --------------------------------
+  gulpNksf2Vst3Appc: (classId, pluginName, isAudioFX) ->
+    chunks = ['NICA']
+    unless pluginName and _.isBoolean(isAudioFX)
+      chunks.push 'NISI'
+    tap (file) =>
+      nica = pluginId = undefined
+      (riffReader file.contents or file.path, 'NIKS').readSync (id, chunk) ->
+        switch id
+          when 'NISI'
+            nisi = msgpack.decode chunk.slice 4
+            pluginName ?= nisi.bankchain[0]
+            isAudioFX ?= nisi.deviceType is 'FX'
+          when 'NICA'
+            nica = msgpack.decode chunk.slice 4
+      , chunks
+      file.contents = Buffer.from (util.beautify @nica2appc nica, classId, pluginName, isAudioFX, on), 'utf8'
   #
   #  gulp plugin for NICA json file to .appc
   #  - pluginId   required 4 characters String or int32
   #  - pluginName required String
   #  - isAudioFX  optional boolean default = off
   # --------------------------------
-  gulpNica2Appc: (pluginId, pluginName, isAudioFX) ->
-    _this = @
-    tap (file) ->
+  gulpNica2Appc: (pluginId, pluginName, isAudioFX, isVst3) ->
+    tap (file) =>
       nica = if file.contents
         JSON.parse file.contents.toString 'utf8'
       else
         util.readJson file.path
-      appc = _this.nica2appc nica, pluginId, pluginName, isAudioFX
+      appc = @nica2appc nica, pluginId, pluginName, isAudioFX, isVst3
       file.contents = Buffer.from (util.beautify appc), 'utf8'
