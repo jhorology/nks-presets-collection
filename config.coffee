@@ -31,7 +31,9 @@ module.exports =
     racks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Instruments/Instrument Rack"
     drumRacks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Instruments/Drum Rack"
     effectRacks: "#{process.env.HOME}/Music/Ableton/User Library/Presets/Audio Effects/Audio Effect Rack"
+    vstPresets: "#{process.env.HOME}/Music/Ableton/User Library/VstPresets"
     defaults: "#{process.env.HOME}/Music/Ableton/User Library/Defaults/Plug-In Configurations/VSTs"
+    vst3Defaults: "#{process.env.HOME}/Music/Ableton/User Library/Defaults/Plug-In Configurations/VST3s"
   #
   # Bitwig Studio
   #-------------------------------------------

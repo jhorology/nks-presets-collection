@@ -67,7 +67,8 @@ gulp.task "#{$.prefix}-export-adg", ->
     .pipe tap (file) ->
       # edit file path
       dirname = path.dirname file.path
-      file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      type = file.data.nksf.nisi.types[0][0].replace 'Piano/Keys', 'Piano & Keys'
+      file.path = path.join dirname, type, file.relative
     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # generate ableton default plugin parameter configuration
@@ -84,13 +85,13 @@ gulp.task "#{$.prefix}-generate-appc", ->
 gulp.task "#{$.prefix}-generate-vst3-appc", ->
   gulp.src ["#{$.nksPresets}/**/*.nksf"]
     .pipe first()
-    .pipe appcGenerator.gulpNksf2Vst3Appc($.vst3ClassId)
+    .pipe appcGenerator.gulpNksf2Vst3Appc $.vst3ClassId
     .pipe rename
       basename: 'Default'
       extname: '.appc'
     .pipe gulp.dest "#{$.Ableton.vst3Defaults}/#{$.vendor}/Hive"
 
-# export from .nksf to .vstpresets ableton rack
+# export from .nksf to .vstpreset
 gulp.task "#{$.prefix}-export-vstpreset", ->
   exporter = adgExporter $.abletonRackTemplate
   gulp.src ["#{$.nksPresets}/**/*.nksf"]
@@ -99,17 +100,17 @@ gulp.task "#{$.prefix}-export-vstpreset", ->
     .pipe tap (file) ->
       # edit file path
       dirname = path.dirname file.path
-      file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      type = file.data.nksf.nisi.types[0][0].replace 'Piano/Keys', 'Piano & Keys'
+      file.path = path.join dirname, type, file.relative
     .pipe data (file, done) ->
-      # PCHK contents
-      #  - version = 4 byte - 32bit
-      #  - plugin-states
-      #  ||
       # Comp, Cont chunk contents
       #  - size = 4 byte  UInt32LE
       #  - plugin-states
-      contents = file.data.nksf.pluginState
-      size = contents.length - 4
+      size = file.data.nksf.pluginState.length
+      contents = Buffer.concat [
+        Buffer.alloc 4
+        file.data.nksf.pluginState
+      ]
       contents.writeUInt32LE(size)
       readable = new stream.Readable objectMode: on
       writable = vstpreset.createWriteObjectStream $.vst3ClassId
@@ -138,7 +139,8 @@ gulp.task "#{$.prefix}-export-bwpreset", ->
     .pipe tap (file) ->
       # edit file path
       dirname = path.dirname file.path
-      file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      type = file.data.nksf.nisi.types[0][0].replace 'Piano/Keys', 'Piano & Keys'
+      file.path = path.join dirname, type, file.relative
     .pipe exporter.gulpReadTemplate()
     .pipe exporter.gulpAppendPluginState()
     .pipe exporter.gulpRewriteMetadata (nisi) ->
