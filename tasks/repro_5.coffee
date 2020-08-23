@@ -145,4 +145,4 @@ gulp.task "#{$.prefix}-generate-vst3-appc", ->
     .pipe rename
       basename: 'Default'
       extname: '.appc'
-    .pipe gulp.dest "#{$.Ableton.vst3Defaults}/#{$.dir}"
+    .pipe gulp.dest "#{$.Ableton.vst3Defaults}/#{$.vendor}/#{$.dir}"
