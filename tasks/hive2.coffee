@@ -93,7 +93,6 @@ gulp.task "#{$.prefix}-generate-vst3-appc", ->
 
 # export from .nksf to .vstpreset
 gulp.task "#{$.prefix}-export-vstpreset", ->
-  exporter = adgExporter $.abletonRackTemplate
   gulp.src ["#{$.nksPresets}/**/*.nksf"]
     .pipe parseNksf()
     .pipe rename extname: '.vstpreset'
