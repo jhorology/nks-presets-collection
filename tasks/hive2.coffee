@@ -40,7 +40,7 @@ $ = Object.assign {}, (require '../config'),
   # Bitwig Studio 2.5.1 preset file
   bwpresetTemplate: 'src/Hive2/templates/Hive2.bwpreset'
   # Ableton live MetaInfo
-  abletonMetaInfo: '''
+  metaInfo: '''
 <?xml version='1.0' encoding='utf-8'?>
 <MetaInfo>
   <Attribute id='MediaType' value='VstPreset' type='string' flags='writeProtected'></Attribute>
@@ -126,7 +126,7 @@ gulp.task "#{$.prefix}-export-vstpreset", ->
         contents: contents
       readable.push
         id: 'Info'
-        contents: Buffer.from $.abletonMetaInfo
+        contents: Buffer.from $.metaInfo
       readable.push null
     .pipe gulp.dest "#{$.Ableton.vstPresets}/#{$.vendor}/Hive"
 
