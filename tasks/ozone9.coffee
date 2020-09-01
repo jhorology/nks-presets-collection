@@ -137,24 +137,24 @@ $.plugins.forEach (plugin) ->
     gulp.src [nksPresets]
       .pipe exporter.gulpParseNksf()
       .pipe tap (file) -> editFilePath file, plugin, file.data.nksf.nisi
-    .pipe exporter.gulpReadTemplate()
-    .pipe exporter.gulpAppendPluginState (nksf, done) ->
-      contents = vst3Contents nksf.pluginState
-      readable = new stream.Readable objectMode: on
-      writable = vstpreset.createWriteObjectStream plugin.classId
-      readable.pipe writable
-      writable.on 'finish', ->
-        done undefined, writable.getBuffer()
-      readable.push
-        id: 'Comp'
-        contents: contents
-      readable.push
-        id: 'Cont'
-        contents: contents
-      readable.push null
-    .pipe exporter.gulpRewriteMetadata()
-    .pipe rename extname: '.bwpreset'
-    .pipe gulp.dest "#{$.Bitwig.presets}/#{plugin.name}"
+      .pipe exporter.gulpReadTemplate()
+      .pipe exporter.gulpAppendPluginState (nksf, done) ->
+        contents = vst3Contents nksf.pluginState
+        readable = new stream.Readable objectMode: on
+        writable = vstpreset.createWriteObjectStream plugin.classId
+        readable.pipe writable
+        writable.on 'finish', ->
+          done undefined, writable.getBuffer()
+        readable.push
+          id: 'Comp'
+          contents: contents
+        readable.push
+          id: 'Cont'
+          contents: contents
+        readable.push null
+      .pipe exporter.gulpRewriteMetadata()
+      .pipe rename extname: '.bwpreset'
+      .pipe gulp.dest "#{$.Bitwig.presets}/#{plugin.name}"
 
 # generate ableton default plugin parameter configuration
 gulp.task "#{$.prefix}-generate-vst3-appc", ("#{prefix(plugin)}-generate-vst3-appc_" for plugin in $.plugins)
