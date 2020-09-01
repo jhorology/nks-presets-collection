@@ -10,6 +10,26 @@ bl         = require 'bl'
 rewrite    = require 'gulp-bitwig-rewrite-meta'
 
 $ =
+  headers: [
+    {
+       regexp: /^BtWg[0-9a-f]{12}([0-9a-f]{8})0{8}([0-9a-f]{8})\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004meta/
+       size: 52
+       contentAddress: 16
+       zipContentAddress: 32
+    }
+    {
+      regexp: /^BtWg[0-9a-f]{12}([0-9a-f]{8})0{8}([0-9a-f]{8})00\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004meta/
+      size: 54
+      contentAddress: 16
+      zipContentAddress: 32
+    }
+    {
+      regexp: /^BtWg[0-9a-f]{12}([0-9a-f]{8})0{28}([0-9a-f]{8})\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0004meta/
+      size: 72
+      contentAddress: 16
+      zipContentAddress: 52
+    }
+  ]
   uuidRegexp: /^[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}$/
   # regexp for finding fxb filename
   #   00000be5 indetifier
@@ -17,18 +37,21 @@ $ =
   #   00000028 size
   #   <uuid>
   #   2e667862  '.fxb'
-  fxbHexRegexp: /(00000be50800000028)\w{16}2d\w{8}2d\w{8}2d\w{8}2d\w{24}(2e667862)/
+  #                                                                            . f x b
+  fxbHexRegexp:       /(00000be50800000028)\w{16}2d\w{8}2d\w{8}2d\w{8}2d\w{24}(2e667862)/
+  #                                                                            . v s t p r e s e t
+  vstpresetHexRegexp: /(00000be5080000002e)\w{16}2d\w{8}2d\w{8}2d\w{8}2d\w{24}(2e767374707265736574)/
 
 # @templateFilePath required String
 #    template file path
 # --------------------------------
-bwpresetExporter = (templateFilePath) ->
-  new BwpresetExporter templateFilePath
+bwpresetExporter = (templateFilePath, opts) ->
+  new BwpresetExporter templateFilePath, opts
 
 class BwpresetExporter
-  constructor: (templateFilePath) ->
+  constructor: (templateFilePath, opts) ->
     @template = templateFilePath
-
+    @opts = opts
   # gulp phase 1 parse nksf
   # --------------------------------
   gulpParseNksf: ->
@@ -61,57 +84,85 @@ class BwpresetExporter
   # gulp phase 2 read template
   # --------------------------------
   gulpReadTemplate: ->
-    _this = @
-    tap (file) ->
+    tap (file) =>
       # read template file
-      bwpreset = fs.readFileSync _this.template
-      # ziped fxb offset
-      offset = parseInt (bwpreset.toString 'ascii', 32, 40), 16
-      # remove zipped fxb part
-      bwpreset = bwpreset.slice 0, offset
-      file.contents = _replace_fxb_filename bwpreset, file.data.nksf.nisi.uuid
-      
-  # gulp phase 3 read template
-  # --------------------------------
-  gulpAppendPluginState: ->
-    data (file, done) ->
-      # append zipped fxb to file contents
-      _build_zipped_fxb file.data.nksf.pluginState
-      , file.data.nksf.plid['VST.magic']
+      bwpreset = fs.readFileSync @template
+
+      headerStr = bwpreset.toString 'ascii', 0, 80
+      headerData = undefined
+      headerFormat = $.headers.find (fmt) ->
+        headerData = headerStr.match fmt.regexp
+      unless headerFormat
+        throw new Error "Unknown bwpreset header format. header:#{headerStr}"
+      # content data offset
+      contentOffset = parseInt headerData[1], 16
+      # zip content offset
+      zippedContentOffset = parseInt headerData[2], 16
+      # remove zipped content part
+      bwpreset = bwpreset.slice 0, zippedContentOffset
+      file.contents = _replaceFilename bwpreset
+      , (if @opts?.vst3 then $.vstpresetHexRegexp else $.fxbHexRegexp)
       , file.data.nksf.nisi.uuid
-      , (err, zippedFxb) ->
-        throw new Error err if err
-        file.contents = Buffer.concat [file.contents, zippedFxb]
-        done undefined, file.data
+
+  # gulp phase 3 append zipped content
+  # --------------------------------
+  gulpAppendPluginState: (builder) ->
+    data (file, done) =>
+      if @opts?.vst3
+        builder file.data.nksf, (err, vstpreset) ->
+          if err
+            done err
+            return
+          # append zipped vstpreset
+          _zip vstpreset
+          , "plugin-states/#{file.data.nksf.nisi.uuid}.vstpreset"
+          , (err, zippedContent) ->
+            if err
+              done err
+              return
+            file.contents = Buffer.concat [file.contents, zippedContent]
+            done undefined, file.data
+      else
+        builder ?= _buildFxb
+        fxb = builder file.data.nksf
+        # append zipped fxb
+        _zip fxb
+        , "plugin-states/#{file.data.nksf.nisi.uuid}.fxb"
+        , (err, zippedContent) ->
+          if err
+            done err
+            return
+          file.contents = Buffer.concat [file.contents, zippedContent]
+          done undefined, file.data
 
   # gulp phase 4 reewrite metadata
   # @mapper function(metadata)
   #  NKSF metadata -> bwpreset metadata
   # --------------------------------
   gulpRewriteMetadata: (mapper) ->
-    mapper ?= _default_meta_map
+    mapper ?= _metaMapper
     rewrite (file, bwmeta) ->
       mapper file.data.nksf.nisi
 
-# replace .fxb filename in
-#   @buffer bwpreset template
-#   @uid   uuid for .fxb filename
-_replace_fxb_filename = (buffer, uid) ->
+# replace filename of zipped content
+# @param {Buffer} buffer - bwpreset template (without zipped content)
+# @param {regexp} pattern
+# @param {string} uid
+_replaceFilename = (buffer, pattern, uid) ->
   # convert uuid string -> hex coded binary
   hexUuid = (Buffer.from uid.toLowerCase(), 'ascii').toString 'hex'
   # convert template buffer -> hex coded string
   hex = buffer.toString 'hex'
   # replace fxb filename
-  hex = hex.replace $.fxbHexRegexp, "\$1#{hexUuid}\$2"
+  unless hex.match pattern
+    throw new Error("filename pattern unmatch error. pattern:#{pattern}")
+  hex = hex.replace pattern, "\$1#{hexUuid}\$2"
   # revert to binary buffer
   Buffer.from hex, 'hex'
 
 # build bitwig zipped fxb
-#  @pluginState buffer
-#  @fxID       Vst magic
-#  @uid
-#  @done       callback function(err, buffer) to support async call
-#    @buffer   zipped fxb
+# @param {object} nksf
+# 
 # //--------------------------------------------------------------------
 # // For Bank (.fxb) with chunk (magic = 'FBCh')
 # //--------------------------------------------------------------------
@@ -131,14 +182,14 @@ _replace_fxb_filename = (buffer, uid) ->
 # 	long chunkSize;
 # 	char chunk[8];			// variable
 # }
-_build_zipped_fxb = (pluginState, fxID, uid, done) ->
+_buildFxb = (nksf) ->
   fxb = Buffer.alloc 160, 0
   offset = 0
   # fxMagic
   fxb.write 'CcnK', offset
   offset += 4
   # byteSize
-  fxb.writeUInt32BE (152 + pluginState.length), offset
+  fxb.writeUInt32BE (152 + nksf.pluginState.length), offset
   offset += 4
   # fxMagic
   fxb.write 'FBCh', offset
@@ -147,7 +198,7 @@ _build_zipped_fxb = (pluginState, fxID, uid, done) ->
   fxb.writeUInt32BE 2, offset
   offset += 4
   # fxID
-  fxb.writeUInt32BE fxID, offset
+  fxb.writeUInt32BE nksf.plid['VST.magic'], offset
   offset += 4
   # fxVersion
   fxb.writeUInt32BE 1, offset
@@ -158,21 +209,23 @@ _build_zipped_fxb = (pluginState, fxID, uid, done) ->
   # future
   offset += 128
   # chunkSize
-  fxb.writeUInt32BE pluginState.length, offset
+  fxb.writeUInt32BE nksf.pluginState.length, offset
   # concat header + plugin state
-  fxb = Buffer.concat [fxb, pluginState]
+  Buffer.concat [fxb, nksf.pluginState]
+
+_zip = (buffer, filePath, done) ->
   # compress zip
   zip = new yazl.ZipFile()
-  zip.addBuffer fxb, "plugin-states/#{uid}.fxb"
+  zip.addBuffer buffer, filePath
 
   # async function
   zip.end (finalSize) -> zip.outputStream.pipe bl done
 
 
-# default metadata map
-#   map nks metadat -> bitwig metadata
-#   @nks  metadata of .nksf file
-_default_meta_map = (nisi) ->
+# default metadata mapper
+# map NKS soundInfo -> bitwig metadata
+# @param {object} nisi - NKS soundInfo
+_metaMapper = (nisi) ->
   # util.beautify nks, on
   bitwig =
     name: nisi.name
@@ -194,5 +247,5 @@ _default_meta_map = (nisi) ->
   # return metadat for rewriting
   bitwig
 
-bwpresetExporter.defaultMetaMapper = _default_meta_map
+bwpresetExporter.defaultMetaMapper = _metaMapper
 module.exports = bwpresetExporter

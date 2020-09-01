@@ -85,6 +85,12 @@ vst3Contents = (vst2PluginStates) ->
   # sizeC.writeUInt32LE buffer.length
   vst2PluginStates.slice(4, 4 + size)
 
+editFilePath = (file, plugin, soundInfo) ->
+  dirname = path.dirname file.path
+  if plugin.name is 'Ozone 9' and soundInfo.bankchain.length and soundInfo.bankchain[1]
+    dirname = path.join dirname, soundInfo.bankchain[1]
+  file.path = path.join dirname, file.relative
+  
 # register each plugin tasks
 # --------------------------------
 $.plugins.forEach (plugin) ->
@@ -102,38 +108,59 @@ $.plugins.forEach (plugin) ->
   # export from .nksf to .vstpreset
   gulp.task "#{prefix(plugin)}-export-vstpreset_", ->
     gulp.src [nksPresets]
-    .pipe parseNksf()
-    .pipe rename extname: '.vstpreset'
-    .pipe tap (file) ->
-      # edit file path
-      dirname = path.dirname file.path
-      if plugin.name is 'Ozone 9' and file.data.nksf.nisi.bankchain.length > 0 and file.data.nksf.nisi.bankchain[1]
-        dirname = path.join dirname, file.data.nksf.nisi.bankchain[1]
-      file.path = path.join dirname, file.relative
-    .pipe data (file, done) ->
-      contents = vst3Contents file.data.nksf.pluginState
+      .pipe parseNksf()
+      .pipe rename extname: '.vstpreset'
+      .pipe tap (file) -> editFilePath file, plugin, file.data.nksf.nisi
+      .pipe data (file, done) ->
+        contents = vst3Contents file.data.nksf.pluginState
+        readable = new stream.Readable objectMode: on
+        writable = vstpreset.createWriteObjectStream plugin.classId
+        readable.pipe writable
+        writable.on 'finish', ->
+          file.contents = writable.getBuffer()
+          done()
+        readable.push
+          id: 'Comp'
+          contents: contents
+        readable.push
+          id: 'Cont'
+          contents: contents
+        readable.push
+          id: 'Info'
+          contents: Buffer.from $.metaInfoTemplate plugin
+        readable.push null
+      .pipe gulp.dest "#{$.Ableton.vstPresets}/#{$.vendor}/#{plugin.name}"
+
+  # export from .nksf to .bwpreset bitwig studio preset
+  gulp.task "#{prefix(plugin)}-export-bwpreset_", ->
+    exporter = bwExporter "src/Ozone 9/templates/#{plugin.name}.bwpreset", vst3: on
+    gulp.src [nksPresets]
+      .pipe exporter.gulpParseNksf()
+      .pipe tap (file) -> editFilePath file, plugin, file.data.nksf.nisi
+    .pipe exporter.gulpReadTemplate()
+    .pipe exporter.gulpAppendPluginState (nksf, done) ->
+      contents = vst3Contents nksf.pluginState
       readable = new stream.Readable objectMode: on
       writable = vstpreset.createWriteObjectStream plugin.classId
-      readable
-        .pipe writable
+      readable.pipe writable
       writable.on 'finish', ->
-        file.contents = writable.getBuffer()
-        done()
+        done undefined, writable.getBuffer()
       readable.push
         id: 'Comp'
         contents: contents
       readable.push
         id: 'Cont'
         contents: contents
-      readable.push
-        id: 'Info'
-        contents: Buffer.from $.metaInfoTemplate plugin
       readable.push null
-    .pipe gulp.dest "#{$.Ableton.vstPresets}/#{$.vendor}/#{plugin.name}"
-
+    .pipe exporter.gulpRewriteMetadata()
+    .pipe rename extname: '.bwpreset'
+    .pipe gulp.dest "#{$.Bitwig.presets}/#{plugin.name}"
 
 # generate ableton default plugin parameter configuration
 gulp.task "#{$.prefix}-generate-vst3-appc", ("#{prefix(plugin)}-generate-vst3-appc_" for plugin in $.plugins)
 
 # export VST3 vstpreset
 gulp.task "#{$.prefix}-export-vstpreset", ("#{prefix(plugin)}-export-vstpreset_" for plugin in $.plugins)
+
+# export bwpreset
+gulp.task "#{$.prefix}-export-bwpreset", ("#{prefix(plugin)}-export-bwpreset_" for plugin in $.plugins)
