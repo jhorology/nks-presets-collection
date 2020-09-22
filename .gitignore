@@ -4,6 +4,7 @@
 \#*\#
 *.log
 package-lock.json
+.idea/
 target/
 build/
 dist/
