@@ -38,7 +38,7 @@ $ = Object.assign {}, (require '../config'),
   # Bitwig Studio 1.3.14 preset file
   bwpresetTemplate: 'src/Diva/templates/Diva.bwpreset'
   # Ableton live MetaInfo
-  abletonMetaInfo: '''
+  metaInfo: '''
 <?xml version='1.0' encoding='utf-8'?>
 <MetaInfo>
   <Attribute id='MediaType' value='VstPreset' type='string' flags='writeProtected'></Attribute>
@@ -73,7 +73,6 @@ gulp.task "#{$.prefix}-export-adg", ->
 
 # export from .nksf to .vstpreset
 gulp.task "#{$.prefix}-export-vstpreset", ->
-  exporter = adgExporter $.abletonRackTemplate
   gulp.src ["#{$.nksPresets}/**/*.nksf"]
     .pipe parseNksf()
     .pipe rename extname: '.vstpreset'
@@ -107,7 +106,7 @@ gulp.task "#{$.prefix}-export-vstpreset", ->
         contents: contents
       readable.push
         id: 'Info'
-        contents: Buffer.from $.abletonMetaInfo
+        contents: Buffer.from $.metaInfo
       readable.push null
     .pipe gulp.dest "#{$.Ableton.vstPresets}/#{$.vendor}/#{$.dir}"
 

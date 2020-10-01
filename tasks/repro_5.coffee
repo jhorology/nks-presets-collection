@@ -38,7 +38,7 @@ $ = Object.assign {}, (require '../config'),
   abletonRackTemplate: 'src/Repro-5/templates/Repro-5.adg.tpl'
   # Bitwig Studio 2.5.0 beta 5 preset file
   bwpresetTemplate: 'src/Repro-5/templates/Repro-5.bwpreset'
-  abletonMetaInfo: '''
+  metaInfo: '''
 <?xml version='1.0' encoding='utf-8'?>
 <MetaInfo>
   <Attribute id='MediaType' value='VstPreset' type='string' flags='writeProtected'></Attribute>
@@ -48,9 +48,9 @@ $ = Object.assign {}, (require '../config'),
 </MetaInfo>
 '''
 
-# regist common gulp tasks
+# register common gulp tasks
 # --------------------------------
-commonTasks $, on  # nks-ready
+# commonTasks $, on  # nks-ready
 
 # export
 # --------------------------------
@@ -89,7 +89,6 @@ gulp.task "#{$.prefix}-export-bwpreset", ->
 
 # export from .nksf to .vstpreset
 gulp.task "#{$.prefix}-export-vstpreset", ->
-  exporter = adgExporter $.abletonRackTemplate
   gulp.src ["#{$.nksPresets}/**/*.nksf"]
     .pipe parseNksf()
     .pipe rename extname: '.vstpreset'
@@ -123,7 +122,7 @@ gulp.task "#{$.prefix}-export-vstpreset", ->
         contents: contents
       readable.push
         id: 'Info'
-        contents: Buffer.from $.abletonMetaInfo
+        contents: Buffer.from $.metaInfo
       readable.push null
     .pipe gulp.dest "#{$.Ableton.vstPresets}/#{$.vendor}/#{$.dir}"
 
