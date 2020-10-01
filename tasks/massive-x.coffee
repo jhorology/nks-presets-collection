@@ -24,7 +24,8 @@ appcGenerator = require '../lib/appc-generator'
 #
 # buld environment & misc settings
 #-------------------------------------------
-$ = Object.assign {}, (require '../config'),
+$ = require '../config'
+$ = Object.assign {}, $,
   prefix: path.basename __filename, '.coffee'
   
   #  common settings
@@ -35,7 +36,15 @@ $ = Object.assign {}, (require '../config'),
   
   #  local settings
   # -------------------------
-  nksPresets: "/Volumes/Media/Music/Native Instruments/Massive X Factory Library/Presets"
+  nksPresets: [
+    "#{$.NI.content}/Massive X Factory Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Drive Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Mechanix Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Moebius Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Pulse Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Rush Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Scene Library/Presets/**/*.nksf"
+  ]
   # Ableton Live 10.1
   # abletonRackTemplate: 'src/Massive X/templates/Massive X.adg.tpl'
   abletonRackTemplate: 'src/Massive X/templates/Massive X with macro.adg.tpl'
@@ -48,7 +57,7 @@ commonTasks $, on  # nks-ready
 
 # decode plugin-states
 gulp.task "#{$.prefix}-parse-plugin-states", ->
-  gulp.src ["#{$.nksPresets}/**/*.nksf"]
+  gulp.src $.nksPresets
     .pipe riff
       chunk_ids: ['PCHK']
     .pipe data (file, done) ->
@@ -79,7 +88,7 @@ gulp.task "#{$.prefix}-parse-plugin-states", ->
 
 # decode plugin-states
 gulp.task "#{$.prefix}-parse-plugin-states-as-single-json", ->
-  gulp.src ["#{$.nksPresets}/**/*.nksf"]
+  gulp.src $.nksPresets
     .pipe riff
       chunk_ids: ['PCHK']
     .pipe data (file, done) ->
@@ -117,7 +126,7 @@ gulp.task "#{$.prefix}-parse-plugin-states-as-single-json", ->
 # export from .nksf to .adg ableton rack
 gulp.task "#{$.prefix}-export-adg", ->
   exporter = adgExporter $.abletonRackTemplate
-  gulp.src ["#{$.nksPresets}/**/*.nksf"]
+  gulp.src $.nksPresets
     .pipe exporter.gulpParseNksf()
     .pipe data (file, done) ->
       inflateStream = zlib.createInflate()
@@ -148,21 +157,27 @@ gulp.task "#{$.prefix}-export-adg", ->
     .pipe rename extname: '.adg'
     .pipe tap (file) ->
       # edit file path
-      dirname = path.dirname file.path
-      type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
-      file.path = path.join dirname, type, file.relative
+      if file.data.nksf.nisi.types and file.data.nksf.nisi.types.length
+        dirname = path.dirname file.path
+        type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
+        file.path = path.join dirname, type, file.relative
+      else
+        console.warn "[#{file.path}] doesn't have types property."
     .pipe gulp.dest "#{$.Ableton.racks}/#{$.dir}"
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ->
   exporter = bwExporter $.bwpresetTemplate
-  gulp.src ["#{$.nksPresets}/**/*.nksf"]
+  gulp.src $.nksPresets
     .pipe exporter.gulpParseNksf()
     .pipe tap (file) ->
       # edit file path
-      dirname = path.dirname file.path
-      type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
-      file.path = path.join dirname, type, file.relative
+      if file.data.nksf.nisi.types and file.data.nksf.nisi.types.length
+        dirname = path.dirname file.path
+        type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
+        file.path = path.join dirname, type, file.relative
+      else
+        console.warn "[#{file.path}] doesn't have types property."
     .pipe exporter.gulpReadTemplate()
     .pipe exporter.gulpAppendPluginState()
     .pipe exporter.gulpRewriteMetadata (nisi) ->
