@@ -1,0 +1,921 @@
+{
+   "Context State" : {
+      "Type" : "Dictionary",
+      "Value" : {
+         "AreWeSubscribingToAnyone" : {
+            "Type" : "Bool",
+            "Value" : false
+         },
+         "Global UI" : {
+            "Type" : "Dictionary",
+            "Value" : {
+               "Advanced Panel Visible" : {
+                  "Type" : "Bool",
+                  "Value" : false
+               },
+               "PluginHeight" : {
+                  "Type" : "Float",
+                  "Value" : 606
+               },
+               "PluginName" : {
+                  "Type" : "String",
+                  "Value" : "Neoverb"
+               },
+               "PluginWidth" : {
+                  "Type" : "Float",
+                  "Value" : 788
+               },
+               "SelectedEQModule" : {
+                  "Type" : "UInt",
+                  "Value" : 0
+               },
+               "Who set the Plugin Name" : {
+                  "Type" : "UInt",
+                  "Value" : 0
+               }
+            }
+         },
+         "PluginUUID" : {
+            "Type" : "String",
+            "Value" : "CD994A4C-91F9-4BD7-A9EE-9D4250ACD147"
+         },
+         "SourcePluginUUID" : {
+            "Type" : "String",
+            "Value" : ""
+         },
+         "assistant" : {
+            "Type" : "Dictionary",
+            "Value" : {
+               "size" : {
+                  "Type" : "UInt",
+                  "Value" : 2
+               },
+               "space" : {
+                  "Type" : "Float",
+                  "Value" : 0.5
+               },
+               "state" : {
+                  "Type" : "UInt",
+                  "Value" : 0
+               },
+               "tone" : {
+                  "Type" : "UInt",
+                  "Value" : 0
+               }
+            }
+         }
+      }
+   },
+   "DSP State" : {
+      "Type" : "Dictionary",
+      "Value" : {
+         "DSP Elements" : {
+            "Type" : "Dictionary",
+            "Value" : {
+               "DryPowerSpectrum" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "DryPowerSpectrum"
+                     },
+                     "Input Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "MaskingMeter" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Bypass Masking Calculation" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Clear Collisions For Single Band On Toggle" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Clear Collisions On Toggle" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Collision Peak Hold Time [ms]" : {
+                        "Type" : "UInt",
+                        "Value" : 1
+                     },
+                     "Collision Sensitivity" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "MaskingMeter"
+                     },
+                     "Enable Subtraction" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Fast Smoothing Attack" : {
+                        "Type" : "Float",
+                        "Value" : 0.02199999988079071
+                     },
+                     "Fast Smoothing Release" : {
+                        "Type" : "Float",
+                        "Value" : 0.05000000074505806
+                     },
+                     "Invert Source & Masker" : {
+                        "Type" : "Bool",
+                        "Value" : true
+                     },
+                     "Loudness Averaging Smoothing Time" : {
+                        "Type" : "Float",
+                        "Value" : 0.5
+                     },
+                     "Masking Mode" : {
+                        "Type" : "UInt",
+                        "Value" : 2
+                     },
+                     "Maximum Input Value for Scaling Partial Loudness Average" : {
+                        "Type" : "Float",
+                        "Value" : 25
+                     },
+                     "Minimum Input Value for Scaling Partial Loudness Average" : {
+                        "Type" : "Float",
+                        "Value" : 11
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "Partial Loudness Averaging Mode" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "Scale Partial Loudness Average" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Slow Smoothing Attack" : {
+                        "Type" : "Float",
+                        "Value" : 0.10000000149011612
+                     },
+                     "Slow Smoothing Release" : {
+                        "Type" : "Float",
+                        "Value" : 2
+                     },
+                     "Source Power Spectrum Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Subtraction Mode" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "Use Estimated Gain in Subtraction" : {
+                        "Type" : "Bool",
+                        "Value" : true
+                     }
+                  }
+               },
+               "OutputElement" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "DryWetMix" : {
+                        "Type" : "Float",
+                        "Value" : 50
+                     },
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "OutputElement"
+                     },
+                     "GlobalBypass" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "OutputGain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "PostEqualizer" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Bypass" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "PostEqualizer"
+                     },
+                     "Learned Band 0 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 0 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 0 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 0 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 1 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 1 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 1 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 1 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 2 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 2 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 2 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 2 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 3 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 3 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 3 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 3 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 4 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 4 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 4 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 4 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 5 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 5 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 5 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 5 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 6 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 6 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 6 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 6 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 7 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 7 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 7 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 7 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 8 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 8 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 8 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 8 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 9 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 9 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 9 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 9 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "LearnedBandsAmount" : {
+                        "Type" : "Float",
+                        "Value" : 100
+                     },
+                     "LearnedBandsEnabled" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "User Band 0 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 100
+                     },
+                     "User Band 0 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "User Band 0 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "User Band 0 Shape" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "User Band 1 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 11000
+                     },
+                     "User Band 1 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "User Band 1 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "User Band 1 Shape" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "User Band 2 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 2000
+                     },
+                     "User Band 2 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "User Band 2 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "User Band 2 Shape" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "PostEqualizerSmoothAudioStreamer" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "PostEqualizerSmoothAudioStreamer"
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "PreEqualizer" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Bypass" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "PreEqualizer"
+                     },
+                     "Learned Band 0 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 0 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 0 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 0 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 1 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 1 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 1 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 1 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 2 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 2 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 2 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 2 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 3 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 3 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 3 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 3 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 4 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 4 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 4 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 4 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 5 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 5 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 5 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 5 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 6 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 6 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 6 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 6 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 7 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 7 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 7 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 7 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 8 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 8 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 8 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 8 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "Learned Band 9 Enable" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Learned Band 9 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 1000
+                     },
+                     "Learned Band 9 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "Learned Band 9 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "LearnedBandsAmount" : {
+                        "Type" : "Float",
+                        "Value" : 100
+                     },
+                     "LearnedBandsEnabled" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "User Band 0 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 100
+                     },
+                     "User Band 0 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "User Band 0 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "User Band 0 Shape" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "User Band 1 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 11000
+                     },
+                     "User Band 1 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "User Band 1 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "User Band 1 Shape" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "User Band 2 Frequency" : {
+                        "Type" : "Float",
+                        "Value" : 2000
+                     },
+                     "User Band 2 Gain" : {
+                        "Type" : "Float",
+                        "Value" : 0
+                     },
+                     "User Band 2 Q" : {
+                        "Type" : "Float",
+                        "Value" : 0.7070000171661377
+                     },
+                     "User Band 2 Shape" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "PreEqualizerSmoothAudioStreamer" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "PreEqualizerSmoothAudioStreamer"
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "Reverb" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "ChorusDepth" : {
+                        "Type" : "Float",
+                        "Value" : 25
+                     },
+                     "ChorusRate" : {
+                        "Type" : "Float",
+                        "Value" : 0.47999998927116394
+                     },
+                     "ChorusType" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "Reverb"
+                     },
+                     "Extra Bytes" : {
+                        "Type" : "Base64",
+                        "Value" : "AQAAAI4WuDY="
+                     },
+                     "HostSyncPreDelay" : {
+                        "Type" : "UInt",
+                        "Value" : 7
+                     },
+                     "HostSyncPreDelayEnabled" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "PreDelay" : {
+                        "Type" : "Float",
+                        "Value" : 20
+                     },
+                     "ReverbEarlyOneBypass" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "ReverbEarlyOneDiffusionAmount" : {
+                        "Type" : "Float",
+                        "Value" : 100
+                     },
+                     "ReverbEarlyOneEarlyAttack" : {
+                        "Type" : "Float",
+                        "Value" : 40.200000762939453
+                     },
+                     "ReverbEarlyOneEarlyLevel" : {
+                        "Type" : "Float",
+                        "Value" : -3
+                     },
+                     "ReverbEarlyOneEarlySlope" : {
+                        "Type" : "Float",
+                        "Value" : 414.89999389648438
+                     },
+                     "ReverbEarlyOneEarlyTime" : {
+                        "Type" : "Float",
+                        "Value" : 30.600000381469727
+                     },
+                     "ReverbEarlyOneReverbSize" : {
+                        "Type" : "Float",
+                        "Value" : 4.9000000953674316
+                     },
+                     "ReverbTailOneBypass" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "ReverbTailOneDampingFactor" : {
+                        "Type" : "UInt",
+                        "Value" : 4
+                     },
+                     "ReverbTailOneDampingFrequency" : {
+                        "Type" : "Float",
+                        "Value" : 4016
+                     },
+                     "ReverbTailOneDiffusionAmount" : {
+                        "Type" : "Float",
+                        "Value" : 39.599998474121094
+                     },
+                     "ReverbTailOneEnvelopeTime" : {
+                        "Type" : "Float",
+                        "Value" : 24.600000381469727
+                     },
+                     "ReverbTailOneHiLoBalance" : {
+                        "Type" : "Float",
+                        "Value" : 0.40999999642372131
+                     },
+                     "ReverbTailOneHostSyncReverbTime" : {
+                        "Type" : "UInt",
+                        "Value" : 16
+                     },
+                     "ReverbTailOneHostSyncReverbTimeEnabled" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "ReverbTailOneLowCrossover" : {
+                        "Type" : "Float",
+                        "Value" : 2678
+                     },
+                     "ReverbTailOneReverbLevel" : {
+                        "Type" : "Float",
+                        "Value" : -3
+                     },
+                     "ReverbTailOneReverbSize" : {
+                        "Type" : "Float",
+                        "Value" : 7.440000057220459
+                     },
+                     "ReverbTailOneReverbTime" : {
+                        "Type" : "Float",
+                        "Value" : 1.1000000238418579
+                     },
+                     "ReverbTailOneReverbType" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     },
+                     "ReverbTailTwoBypass" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "ReverbTailTwoDampingFactor" : {
+                        "Type" : "UInt",
+                        "Value" : 3
+                     },
+                     "ReverbTailTwoDampingFrequency" : {
+                        "Type" : "Float",
+                        "Value" : 7843
+                     },
+                     "ReverbTailTwoDiffusionAmount" : {
+                        "Type" : "Float",
+                        "Value" : 30
+                     },
+                     "ReverbTailTwoEnvelopeTime" : {
+                        "Type" : "Float",
+                        "Value" : 43.099998474121094
+                     },
+                     "ReverbTailTwoHiLoBalance" : {
+                        "Type" : "Float",
+                        "Value" : 0.61000001430511475
+                     },
+                     "ReverbTailTwoHostSyncReverbTime" : {
+                        "Type" : "UInt",
+                        "Value" : 16
+                     },
+                     "ReverbTailTwoHostSyncReverbTimeEnabled" : {
+                        "Type" : "Bool",
+                        "Value" : false
+                     },
+                     "ReverbTailTwoLowCrossover" : {
+                        "Type" : "Float",
+                        "Value" : 1818
+                     },
+                     "ReverbTailTwoReverbLevel" : {
+                        "Type" : "Float",
+                        "Value" : -3
+                     },
+                     "ReverbTailTwoReverbSize" : {
+                        "Type" : "Float",
+                        "Value" : 11
+                     },
+                     "ReverbTailTwoReverbTime" : {
+                        "Type" : "Float",
+                        "Value" : 2.5
+                     },
+                     "ReverbTailTwoReverbType" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "Shaper" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Amount" : {
+                        "Type" : "Float",
+                        "Value" : 100
+                     },
+                     "Bypass" : {
+                        "Type" : "Bool",
+                        "Value" : true
+                     },
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "Shaper"
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               },
+               "SmoothAudioStreamer" : {
+                  "Type" : "Dictionary",
+                  "Value" : {
+                     "Element Name" : {
+                        "Type" : "String",
+                        "Value" : "SmoothAudioStreamer"
+                     },
+                     "Param Version" : {
+                        "Type" : "UInt",
+                        "Value" : 0
+                     }
+                  }
+               }
+            }
+         }
+      }
+   },
+   "Major Version" : {
+      "Type" : "UInt",
+      "Value" : 1
+   },
+   "Minor Version" : {
+      "Type" : "UInt",
+      "Value" : 1
+   }
+}

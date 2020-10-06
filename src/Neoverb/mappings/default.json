@@ -1,0 +1,406 @@
+[05:45:28] Requiring external module coffeescript/register
+[05:45:28] Using gulpfile ~/Desktop/Neoverb/gulpfile.coffee
+[05:45:28] Starting 'parse-nica'...
+{
+  "ni8": [
+    [
+      {
+        "autoname": true,
+        "id": 0,
+        "name": "Global Bypass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 1,
+        "name": "Output Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 2,
+        "name": "Dry/Wet",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 3,
+        "name": "R1 Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 4,
+        "name": "R2 Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 5,
+        "name": "R3 Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 6,
+        "name": "R1 Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 7,
+        "name": "R1 Size",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 8,
+        "name": "R1 Diffusion",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 9,
+        "name": "R1 Angle",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 10,
+        "name": "R1 Lowpass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 11,
+        "name": "R2 Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 12,
+        "name": "R2 Synced Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 13,
+        "name": "R2 Tempo Sync",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 14,
+        "name": "R2 Size",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 15,
+        "name": "R2 Diffusion",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 16,
+        "name": "R2 Attack",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 17,
+        "name": "R2 Lowpass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 18,
+        "name": "R2 Damping",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 19,
+        "name": "R2 Balance",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 20,
+        "name": "R2 Crossover",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 21,
+        "name": "R3 Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 22,
+        "name": "R3 Synced Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 23,
+        "name": "R3 Tempo Sync",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 24,
+        "name": "R3 Size",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 25,
+        "name": "R3 Diffusion",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 26,
+        "name": "R3 Attack",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 27,
+        "name": "R3 Lowpass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 28,
+        "name": "R3 Damping",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 29,
+        "name": "R3 Balance",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 30,
+        "name": "R3 Crossover",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 31,
+        "name": "Mod Rate",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 32,
+        "name": "Mod Depth",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 33,
+        "name": "Mod Type",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 34,
+        "name": "Predelay Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 35,
+        "name": "Predelay Synced Time",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 36,
+        "name": "Predelay Tempo Sync",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 37,
+        "name": "PreEQ Bypass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 38,
+        "name": "PreEQ Low Band Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 39,
+        "name": "PreEQ Low Band Frequenc",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 40,
+        "name": "PreEQ Low Band Slope",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 41,
+        "name": "PreEQ Low Band Shape",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 42,
+        "name": "PreEQ High Band Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 43,
+        "name": "PreEQ High Band Frequen",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 44,
+        "name": "PreEQ High Band Slope",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 45,
+        "name": "PreEQ High Band Shape",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 46,
+        "name": "PreEQ Bell Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 47,
+        "name": "PreEQ Bell Frequency",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 48,
+        "name": "PreEQ Bell Q",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 49,
+        "name": "ReverbEQ Bypass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 50,
+        "name": "ReverbEQ Low Band Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 51,
+        "name": "ReverbEQ Low Band Frequ",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 52,
+        "name": "ReverbEQ Low Band Slope",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 53,
+        "name": "ReverbEQ Low Band Shape",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 54,
+        "name": "ReverbEQ High Band Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 55,
+        "name": "ReverbEQ High Band Freq",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": true,
+        "id": 56,
+        "name": "ReverbEQ High Band Slop",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 57,
+        "name": "ReverbEQ High Band Shap",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 58,
+        "name": "ReverbEQ Bell Gain",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 59,
+        "name": "ReverbEQ Bell Frequency",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 60,
+        "name": "ReverbEQ Bell Q",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 61,
+        "name": "Smoothing Bypass",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "id": 62,
+        "name": "Smoothing Amount",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      }
+    ]
+  ]
+}
+[05:45:28] Finished 'parse-nica' after 13 ms
