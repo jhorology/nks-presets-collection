@@ -25,9 +25,9 @@ $ = Object.assign {}, (require '../config'),
   #  common settings
   # -------------------------
   dir: 'iZotope Iris 2'
-  # change vender name, 'cause resource forlder name can't conatin characters ",."
-  # vendor: 'iZotope, Inc.'
-  vendor: 'iZotope'
+  vendor: 'iZotope, Inc.'
+  # TODO what's encoding method? '939ccee2f3f4075de5d40af6aaf5c5c7'
+  vendor_sanitized: 'izotope inc_939ccee2f3f4075de5d40af6aaf5c5c7'
   magic: "Zir2"
 
   #  local settings
