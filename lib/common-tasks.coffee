@@ -50,25 +50,25 @@ module.exports = ($, nksReady) ->
   # --------------------------------
   # print plugin id of _Default.nksf
   gulp.task "#{$.prefix}-print-default-magic", ->
-    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.nksf"]
+    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.{nksf,nksfx}"]
       .pipe extract chunk_ids: ['PLID']
       .pipe tap (file) -> console.info "magic: '#{_deserializeMagic file}'"
 
   # print default NISI chunk as JSON
   gulp.task "#{$.prefix}-print-default-meta", ->
-    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.nksf"]
+    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.{nksf,nksfx}"]
       .pipe extract chunk_ids: ['NISI']
       .pipe tap (file) ->  console.info _deserialize file
 
   # print default NACA chunk as JSON
   gulp.task "#{$.prefix}-print-default-mapping", ->
-    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.nksf"]
+    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.{nksf,nksfx}"]
       .pipe extract chunk_ids: ['NICA']
       .pipe tap (file) -> console.info _deserialize file
 
   # generate default parameter mapping file
   gulp.task "#{$.prefix}-generate-default-mapping", ->
-    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.nksf"]
+    gulp.src ["#{$.NI.userContent}/#{$.dir}/_Default.{nksf,nksfx}"]
       .pipe extract
         chunk_ids: ['NICA']
         filename_template: "default.json"
@@ -114,7 +114,7 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
 
   # extract PCHK chunk from .nksf file
   gulp.task "#{$.prefix}-extract-pchk", ->
-    gulp.src ["temp/#{$.dir}/**/*.nksf"]
+    gulp.src ["temp/#{$.dir}/**/*.{nksf,nksfx}"]
       .pipe extract chunk_ids: ['PCHK']
       .pipe gulp.dest "src/#{$.dir}/presets"
 
@@ -171,21 +171,21 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
   # copy image resources to dist folder
   gulp.task "#{$.prefix}-dist-image", ->
     d = util.normalizeDirname $.dir.toLowerCase()
-    v = $.vendor.toLowerCase()
+    v = ($.vendor_sanitized or $.vendor).toLowerCase()
     gulp.src ["src/#{$.dir}/resources/image/**/*.{json,meta,png}"]
       .pipe gulp.dest "dist/#{$.dir}/NI Resources/image/#{v}/#{d}"
 
   # copy database resources to dist folder
   gulp.task "#{$.prefix}-dist-database", ->
     d = util.normalizeDirname $.dir.toLowerCase()
-    v = $.vendor.toLowerCase()
+    v = ($.vendor_sanitized or $.vendor).toLowerCase()
     gulp.src ["src/#{$.dir}/resources/dist_database/**/*.{json,meta,png}"]
       .pipe gulp.dest "dist/#{$.dir}/NI Resources/dist_database/#{v}/#{d}"
 
   # print all presets
   gulp.task "#{$.prefix}-check-dist-presets", ->
     dist = "dist/#{$.dir}/User Content/#{$.dir}"
-    gulp.src ["#{dist}/**/*.nksf"], read: true
+    gulp.src ["#{dist}/**/*.{nksf,nksfx}"], read: true
       .pipe extract chunk_ids: ['NISI', 'NICA', 'PLID']
       .pipe tap (file) -> console.info _deserialize file
 
@@ -209,9 +209,8 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
   gulp.task "#{$.prefix}-deploy-presets", [
     "#{$.prefix}-dist-presets"
   ] , ->
-    gulp.src ["dist/#{$.dir}/User Content/**/*.nksf"]
+    gulp.src ["dist/#{$.dir}/User Content/**/*.{nksf,nksfx}"]
       .pipe gulp.dest $.NI.userContent
-
   #
   # release
   # --------------------------------
@@ -233,7 +232,7 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
   gulp.task "#{$.prefix}-release"
   , ["#{$.prefix}-#{if $.releaseExcludes then 'exclude-release' else 'dist'}"]
   , ->
-    gulp.src ["dist/#{$.dir}/**/*.{json,meta,png,nksf}"]
+    gulp.src ["dist/#{$.dir}/**/*.{json,meta,png,nksf,nksfx}"]
       .pipe zip "#{$.dir}.zip"
       .pipe gulp.dest $.release
 

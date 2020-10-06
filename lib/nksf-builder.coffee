@@ -22,9 +22,8 @@ class NksfBuilder
     @nica = _chunk nica if nica
 
   gulp: ->
-    _this = @
-    tap (f) ->
-      f.contents = _this.build f.data.nksf.pchk, f.data.nksf.nisi, f.data.nksf.nica
+    tap (f) =>
+      f.contents = @build f.data.nksf.pchk, f.data.nksf.nisi, f.data.nksf.nica
 
   # @pchk required PCHK chunk - plugin state
   #   Buffer or vinyl file    - PCHK file contents

@@ -1,399 +1,515 @@
-[05:45:28] Requiring external module coffeescript/register
-[05:45:28] Using gulpfile ~/Desktop/Neoverb/gulpfile.coffee
-[05:45:28] Starting 'parse-nica'...
 {
   "ni8": [
     [
       {
-        "autoname": true,
+        "autoname": false,
         "id": 0,
-        "name": "Global Bypass",
+        "name": "Bypass",
+        "section": "Global",
         "vflag": false
       },
       {
-        "autoname": true,
-        "id": 1,
-        "name": "Output Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 2,
-        "name": "Dry/Wet",
-        "vflag": false
-      },
-      {
-        "autoname": true,
+        "autoname": false,
         "id": 3,
         "name": "R1 Gain",
         "vflag": false
       },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 4,
         "name": "R2 Gain",
         "vflag": false
       },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 5,
         "name": "R3 Gain",
         "vflag": false
       },
       {
-        "autoname": true,
-        "id": 6,
-        "name": "R1 Time",
+        "autoname": false,
+        "id": 2,
+        "name": "Dry/Wet",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 1,
+        "name": "Level",
         "vflag": false
       },
       {
         "autoname": true,
-        "id": 7,
-        "name": "R1 Size",
+        "vflag": false
+      },
+      {
+        "autoname": true,
         "vflag": false
       }
     ],
     [
       {
-        "autoname": true,
-        "id": 8,
-        "name": "R1 Diffusion",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 9,
-        "name": "R1 Angle",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 10,
-        "name": "R1 Lowpass",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 11,
-        "name": "R2 Time",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 12,
-        "name": "R2 Synced Time",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 13,
-        "name": "R2 Tempo Sync",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 14,
-        "name": "R2 Size",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 15,
-        "name": "R2 Diffusion",
-        "vflag": false
-      }
-    ],
-    [
-      {
-        "autoname": true,
-        "id": 16,
-        "name": "R2 Attack",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 17,
-        "name": "R2 Lowpass",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 18,
-        "name": "R2 Damping",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 19,
-        "name": "R2 Balance",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 20,
-        "name": "R2 Crossover",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 21,
-        "name": "R3 Time",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 22,
-        "name": "R3 Synced Time",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 23,
-        "name": "R3 Tempo Sync",
-        "vflag": false
-      }
-    ],
-    [
-      {
-        "autoname": true,
-        "id": 24,
-        "name": "R3 Size",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 25,
-        "name": "R3 Diffusion",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 26,
-        "name": "R3 Attack",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 27,
-        "name": "R3 Lowpass",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 28,
-        "name": "R3 Damping",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 29,
-        "name": "R3 Balance",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 30,
-        "name": "R3 Crossover",
-        "vflag": false
-      },
-      {
-        "autoname": true,
+        "autoname": false,
         "id": 31,
-        "name": "Mod Rate",
+        "name": "Rate",
+        "section": "Mod",
         "vflag": false
-      }
-    ],
-    [
+      },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 32,
-        "name": "Mod Depth",
+        "name": "Depth",
         "vflag": false
       },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 33,
-        "name": "Mod Type",
+        "name": "Type",
         "vflag": false
       },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 34,
-        "name": "Predelay Time",
+        "name": "Time",
+        "section": "Pre Delay",
         "vflag": false
       },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 35,
-        "name": "Predelay Synced Time",
+        "name": "Synced Time",
         "vflag": false
       },
       {
-        "autoname": true,
+        "autoname": false,
         "id": 36,
-        "name": "Predelay Tempo Sync",
+        "name": "Tempo Sync",
         "vflag": false
       },
       {
-        "autoname": true,
-        "id": 37,
-        "name": "PreEQ Bypass",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 38,
-        "name": "PreEQ Low Band Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 39,
-        "name": "PreEQ Low Band Frequenc",
-        "vflag": false
-      }
-    ],
-    [
-      {
-        "autoname": true,
-        "id": 40,
-        "name": "PreEQ Low Band Slope",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 41,
-        "name": "PreEQ Low Band Shape",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 42,
-        "name": "PreEQ High Band Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 43,
-        "name": "PreEQ High Band Frequen",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 44,
-        "name": "PreEQ High Band Slope",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 45,
-        "name": "PreEQ High Band Shape",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 46,
-        "name": "PreEQ Bell Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 47,
-        "name": "PreEQ Bell Frequency",
-        "vflag": false
-      }
-    ],
-    [
-      {
-        "autoname": true,
-        "id": 48,
-        "name": "PreEQ Bell Q",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 49,
-        "name": "ReverbEQ Bypass",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 50,
-        "name": "ReverbEQ Low Band Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 51,
-        "name": "ReverbEQ Low Band Frequ",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 52,
-        "name": "ReverbEQ Low Band Slope",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 53,
-        "name": "ReverbEQ Low Band Shape",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 54,
-        "name": "ReverbEQ High Band Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 55,
-        "name": "ReverbEQ High Band Freq",
-        "vflag": false
-      }
-    ],
-    [
-      {
-        "autoname": true,
-        "id": 56,
-        "name": "ReverbEQ High Band Slop",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 57,
-        "name": "ReverbEQ High Band Shap",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 58,
-        "name": "ReverbEQ Bell Gain",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 59,
-        "name": "ReverbEQ Bell Frequency",
-        "vflag": false
-      },
-      {
-        "autoname": true,
-        "id": 60,
-        "name": "ReverbEQ Bell Q",
-        "vflag": false
-      },
-      {
-        "autoname": true,
+        "autoname": false,
         "id": 61,
-        "name": "Smoothing Bypass",
+        "name": "Bypass",
+        "section": "Smooth",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 62,
+        "name": "Amount",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 6,
+        "name": "Time",
+        "section": "R1",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 7,
+        "name": "Size",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 8,
+        "name": "Diffusion",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 9,
+        "name": "Angle",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 10,
+        "name": "Lowpass",
         "vflag": false
       },
       {
         "autoname": true,
-        "id": 62,
-        "name": "Smoothing Amount",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 11,
+        "name": "Time",
+        "section": "R2",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 12,
+        "name": "Synced Time",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 13,
+        "name": "Tempo Sync",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 14,
+        "name": "Size",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 15,
+        "name": "Diffusion",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 16,
+        "name": "Attack",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 17,
+        "name": "Lowpass",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 18,
+        "name": "Damping",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 19,
+        "name": "Balance",
+        "section": "R2",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 20,
+        "name": "Crossover",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 21,
+        "name": "Time",
+        "section": "R3",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 22,
+        "name": "Synced Time",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 23,
+        "name": "Tempo Sync",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 24,
+        "name": "Size",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 25,
+        "name": "Diffusion",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 26,
+        "name": "Attack",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 27,
+        "name": "Lowpass",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 28,
+        "name": "Damping",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 29,
+        "name": "Balance",
+        "section": "R3",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 30,
+        "name": "Crossover",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 37,
+        "name": "Bypass",
+        "section": "Pre EQ",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 38,
+        "name": "Gain",
+        "section": "Pre EQ Low Band",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 39,
+        "name": "Frequency",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 40,
+        "name": "Slope",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 41,
+        "name": "Shape",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 46,
+        "section": "Pre EQ Bell",
+        "name": "Gain",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 47,
+        "name": "Freq",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 48,
+        "name": "Q",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 42,
+        "section": "Pre EQ High Band",
+        "name": "Gain",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 43,
+        "name": "Freq",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 44,
+        "name": "Slopee",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 45,
+        "name": "Shape",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 49,
+        "name": "Bypass",
+        "section": "Reverb EQ",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 50,
+        "name": "Gain",
+        "section": "Reverb EQ Low Band",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 51,
+        "name": "Freq",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 52,
+        "name": "Slope",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 53,
+        "name": "Shape",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 58,
+        "name": "Gain",
+        "section": "Reverb EQ Bell",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 59,
+        "name": "Freq",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 60,
+        "name": "Q",
+        "vflag": false
+      }
+    ],
+    [
+      {
+        "autoname": false,
+        "id": 54,
+        "name": "Gain",
+        "section": "Reverb EQ High Band",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 55,
+        "name": "Freq",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 56,
+        "name": "Slope",
+        "vflag": false
+      },
+      {
+        "autoname": false,
+        "id": 57,
+        "name": "Shape",
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
+        "vflag": false
+      },
+      {
+        "autoname": true,
         "vflag": false
       },
       {
@@ -403,4 +519,3 @@
     ]
   ]
 }
-[05:45:28] Finished 'parse-nica' after 13 ms

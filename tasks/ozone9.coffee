@@ -19,6 +19,8 @@ vstpreset     = require '../lib/vstpreset'
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
   vendor: 'iZotope, Inc.'
+  # TODO what's encoding method? '939ccee2f3f4075de5d40af6aaf5c5c7'
+  vendor_sanitized: 'izotope inc_939ccee2f3f4075de5d40af6aaf5c5c7'
   nksDir: '/Library/Application Support/iZotope/Ozone 9/NKS'
   plugins: [
     #                                    VST3 plugin class ID

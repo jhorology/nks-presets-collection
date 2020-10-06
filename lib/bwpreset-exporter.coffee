@@ -99,16 +99,16 @@ class BwpresetExporter
       # zip content offset
       zippedContentOffset = parseInt headerData[2], 16
       # remove zipped content part
-      bwpreset = bwpreset.slice 0, zippedContentOffset
-      file.contents = _replaceFilename bwpreset
-      , (if @opts?.vst3 then $.vstpresetHexRegexp else $.fxbHexRegexp)
-      , file.data.nksf.nisi.uuid
+      file.contents = bwpreset.slice 0, zippedContentOffset
 
   # gulp phase 3 append zipped content
   # --------------------------------
   gulpAppendPluginState: (builder) ->
     data (file, done) =>
       if @opts?.vst3
+        file.contents = _replaceFilename file.contents
+        , $.vstpresetHexRegexp
+        , file.data.nksf.nisi.uuid
         builder file.data.nksf, (err, vstpreset) ->
           if err
             done err
@@ -123,11 +123,37 @@ class BwpresetExporter
             file.contents = Buffer.concat [file.contents, zippedContent]
             done undefined, file.data
       else
+        file.contents = _replaceFilename file.contents
+        , $.fxbHexRegexp
+        , file.data.nksf.nisi.uuid
         builder ?= _buildFxb
         fxb = builder file.data.nksf
         # append zipped fxb
         _zip fxb
         , "plugin-states/#{file.data.nksf.nisi.uuid}.fxb"
+        , (err, zippedContent) ->
+          if err
+            done err
+            return
+          file.contents = Buffer.concat [file.contents, zippedContent]
+          done undefined, file.data
+
+  # gulp phase 3 append zipped content (w/o NKSF version)
+  # --------------------------------
+  gulpAppendVstPreset: (builder) ->
+    unless @opts.vst3
+      throw new Error 'Illegal mode, vts3 option should be true.'
+    data (file, done) =>
+      builder file, (err, vstpreset) ->
+        file.contents = _replaceFilename file.contents
+        , $.vstpresetHexRegexp
+        , vstpreset.uuid
+        if err
+          done err
+          return
+        # append zipped vstpreset
+        _zip vstpreset.contents
+        , "plugin-states/#{vstpreset.uuid}.vstpreset"
         , (err, zippedContent) ->
           if err
             done err
