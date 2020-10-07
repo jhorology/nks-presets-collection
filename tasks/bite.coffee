@@ -1,4 +1,4 @@
-# Native Instruments Raum 1.0.0 (R29) - initial commit
+#  Native Instruments Bite 1.1.0 (R47) - initial commit
 # ---------------------------------------------------------------
 fs            = require 'fs'
 path          = require 'path'
@@ -22,19 +22,19 @@ $ = Object.assign {}, $,
   
   #  common settings
   # -------------------------
-  dir: 'Raum'
+  dir: 'Bite'
   vendor: 'Native Instruments'
-  magic: 'Ni$Q'
+  magic: 'Ni$M'
   
   #  local settings
   # -------------------------
   nksPresets: [
-    '/Library/Application Support/Native Instruments/Raum/**/*.nksfx'
+    '/Library/Application Support/Native Instruments/Bite/**/*.nksfx'
   ]
   # Ableton Live 10.1.18
-  abletonRackTemplate: 'src/Raum/templates/Raum.adg.tpl'
-  # Bitwig Studio 2.5.1 preset file
-  bwpresetTemplate: 'src/Raum/templates/Raum.bwpreset'
+  abletonRackTemplate: 'src/Bite/templates/Bite.adg.tpl'
+  # Bitwig Studio 3.2.8 preset file
+  bwpresetTemplate: 'src/Bite/templates/Bite.bwpreset'
   # VST2 plugin state object template
   pluginStateTemplate:
     cached_preset_state:
@@ -60,6 +60,50 @@ $ = Object.assign {}, $,
 # --------------------------------
 # commonTasks $, on  # nks-ready
 
+# study
+# --------------------------------
+
+gulp.task "#{$.prefix}-parse-nksf", ->
+  exporter = adgExporter $.abletonRackTemplate
+  gulp.src $.nksPresets
+    .pipe exporter.gulpParseNksf()
+    .pipe tap (file) ->
+      # console.log JSON.stringify file.data.nksf.nisi, null, '  '
+      # console.log JSON.stringify file.data.nksf.nica, null, '  '
+      # console.log JSON.stringify file.data.nksf.plid, null, '  '
+      # WTF! some nksfx presets have extra byte
+      console.log file.relative, '------------>'
+      codec = msgpack.createCodec()
+      decode = codec.decode
+      codec.decode = (decoder) ->
+        result = decode(decoder)
+        console.log file.data.nksf.pluginState.length, decoder.offset, result
+        result
+      readable = new Readable()
+      readable.push(file.data.nksf.pluginState)
+      readable.push(null)
+      readable.pipe msgpack.createDecodeStream codec: codec
+        .on 'data', (d) ->
+          console.log JSON.stringify d, null, '  '
+          console.log '<------------'
+
+gulp.task "#{$.prefix}-parse-fxb", ->
+  exporter = adgExporter $.abletonRackTemplate
+  gulp.src [
+    "#{process.env.HOME}/Desktop/INIT - Bite.fxb"
+    "#{process.env.HOME}/Desktop/Crappy Recording.fxb"
+  ]
+    .pipe tap (file) ->
+      console.log file.relative, '------------>'
+      offset = 160 # skip fxb headers
+      magic = file.contents.slice(offset, offset + 4).toString()
+      offset += 4
+      unknown = file.contents.slice(offset, offset + 4).toString 'hex'
+      offset += 4
+      object = msgpack.decode file.contents.slice(offset)
+      console.log {magic, unknown}
+      console.log JSON.stringify object, null, '  '
+      console.log '<------------'
 
 # export
 # --------------------------------
@@ -73,18 +117,18 @@ vst2PluginState = (file, nksf) ->
   decode = codec.decode
   encode = codec.encode
   # parameters object should be type-strict.
-  parametersStart
   parametersStart = undefined
   parameters = undefined
   codec.decode = (decoder) ->
     result = decode(decoder)
     if result is 'parameters'
       parametersStart = decoder.offset
-    # WTF! some files has extra byte 0
+    # WTF! some nksfx has extra byte 0
     if typeof result is 'object' and result.parameters
-      parameters = decoder.buffer.slice parametersStart, decoder.offset
+      parameters = nksf.pluginState.slice parametersStart, decoder.offset
       if decoder.offset isnt nksf.pluginState.length
         console.warn "[#{file.relative}] has extra byte(s). packed message size:", decoder.offset, 'plugin-state size:', nksf.pluginState.length
+    result
     result
   codec.encode = (encoder, input) ->
     if input is '%PARAMETERS%'

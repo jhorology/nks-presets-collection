@@ -1,4 +1,4 @@
-# Native Instruments Raum 1.0.0 (R29) - initial commit
+#  Native Instruments Dirt 1.1.0 (R47) - initial commit
 # ---------------------------------------------------------------
 fs            = require 'fs'
 path          = require 'path'
@@ -22,19 +22,19 @@ $ = Object.assign {}, $,
   
   #  common settings
   # -------------------------
-  dir: 'Raum'
+  dir: 'Dirt'
   vendor: 'Native Instruments'
-  magic: 'Ni$Q'
+  magic: 'Ni$L'
   
   #  local settings
   # -------------------------
   nksPresets: [
-    '/Library/Application Support/Native Instruments/Raum/**/*.nksfx'
+    '/Library/Application Support/Native Instruments/Dirt/**/*.nksfx'
   ]
   # Ableton Live 10.1.18
-  abletonRackTemplate: 'src/Raum/templates/Raum.adg.tpl'
-  # Bitwig Studio 2.5.1 preset file
-  bwpresetTemplate: 'src/Raum/templates/Raum.bwpreset'
+  abletonRackTemplate: 'src/Dirt/templates/Dirt.adg.tpl'
+  # Bitwig Studio 3.2.8 preset file
+  bwpresetTemplate: 'src/Dirt/templates/Dirt.bwpreset'
   # VST2 plugin state object template
   pluginStateTemplate:
     cached_preset_state:
@@ -73,18 +73,18 @@ vst2PluginState = (file, nksf) ->
   decode = codec.decode
   encode = codec.encode
   # parameters object should be type-strict.
-  parametersStart
   parametersStart = undefined
   parameters = undefined
   codec.decode = (decoder) ->
     result = decode(decoder)
     if result is 'parameters'
       parametersStart = decoder.offset
-    # WTF! some files has extra byte 0
+    # WTF! some nksfx has extra byte 0
     if typeof result is 'object' and result.parameters
-      parameters = decoder.buffer.slice parametersStart, decoder.offset
+      parameters = nksf.pluginState.slice parametersStart, decoder.offset
       if decoder.offset isnt nksf.pluginState.length
         console.warn "[#{file.relative}] has extra byte(s). packed message size:", decoder.offset, 'plugin-state size:', nksf.pluginState.length
+    result
     result
   codec.encode = (encoder, input) ->
     if input is '%PARAMETERS%'
