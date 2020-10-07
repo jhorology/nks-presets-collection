@@ -129,7 +129,6 @@ vst2PluginState = (file, nksf) ->
       if decoder.offset isnt nksf.pluginState.length
         console.warn "[#{file.relative}] has extra byte(s). packed message size:", decoder.offset, 'plugin-state size:', nksf.pluginState.length
     result
-    result
   codec.encode = (encoder, input) ->
     if input is '%PARAMETERS%'
       offset = encoder.offset
