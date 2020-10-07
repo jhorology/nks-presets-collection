@@ -73,11 +73,18 @@ vst2PluginState = (file, nksf) ->
   decode = codec.decode
   encode = codec.encode
   # parameters object should be type-strict.
+  parametersStart
+  parametersStart = undefined
   parameters = undefined
   codec.decode = (decoder) ->
     result = decode(decoder)
     if result is 'parameters'
-      parameters = decoder.buffer.slice decoder.offset
+      parametersStart = decoder.offset
+    # WTF! some files has extra bye 0
+    if typeof result is 'object' and result.parameters
+      parameters = decoder.buffer.slice parametersStart, decoder.offset
+      if decoder.offset isnt nksf.pluginState.length
+        console.warn "[#{file.relative}] has extra byte(s). packed message size:", decoder.offset, 'plugin-state size:', nksf.pluginState.length
     result
   codec.encode = (encoder, input) ->
     if input is '%PARAMETERS%'
@@ -121,10 +128,10 @@ gulp.task "#{$.prefix}-export-adg", ->
 # generate ableton default plugin parameter configuration
 gulp.task "#{$.prefix}-generate-appc", ->
   gulp.src $.nksPresets
-    .pipe tap (file) -> console.log(file.path)
     .pipe first()
     .pipe appcGenerator.gulpNksf2Appc $.magic, $.dir, on
     .pipe rename
+      dirname: ''
       basename: 'Default'
       extname: '.appc'
     .pipe gulp.dest "#{$.Ableton.defaults}/#{$.dir}"
