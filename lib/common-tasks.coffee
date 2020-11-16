@@ -209,7 +209,10 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
   gulp.task "#{$.prefix}-deploy-presets", [
     "#{$.prefix}-dist-presets"
   ] , ->
-    gulp.src ["dist/#{$.dir}/User Content/**/*.{nksf,nksfx}"]
+    gulp.src [
+      "dist/#{$.dir}/User Content/**/*.{nksf,nksfx}"
+      "dist/#{$.dir}/User Content/**/.previews/*.nksf.ogg"
+    ]
       .pipe gulp.dest $.NI.userContent
   #
   # release
@@ -232,7 +235,10 @@ module.exports = [<% _.forEach(params, function(p, i) { %>
   gulp.task "#{$.prefix}-release"
   , ["#{$.prefix}-#{if $.releaseExcludes then 'exclude-release' else 'dist'}"]
   , ->
-    gulp.src ["dist/#{$.dir}/**/*.{json,meta,png,nksf,nksfx}"]
+    gulp.src [
+      "dist/#{$.dir}/**/*.{json,meta,png,nksf,nksfx}"
+      "dist/#{$.dir}/**/.previews/*.nksf.ogg"
+    ]
       .pipe zip "#{$.dir}.zip"
       .pipe gulp.dest $.release
 

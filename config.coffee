@@ -21,7 +21,7 @@ module.exports =
   NI:
     # content: '/Users/Shared'
     content: '/Volumes/Media/Music/Native Instruments'
-    userContent: "#{process.env.HOME}/Documents/Native Instruments/User Content"
+    userContent: "#{process.env.HOME}/Documents/Native Instruments/Custom NKS"
     resources: '/Users/Shared/NI Resources'
 
   #

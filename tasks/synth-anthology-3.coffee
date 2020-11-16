@@ -7,6 +7,7 @@
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
+glob        = require 'glob'
 tap         = require 'gulp-tap'
 data        = require 'gulp-data'
 rename      = require 'gulp-rename'
@@ -37,13 +38,14 @@ $ = Object.assign {}, (require '../config'),
   #  local settings
   # -------------------------
 
-  # Ableton Live 9.7 Instrument Rack
+  # Ableton Live 10.1.25 Instrument Rack
   abletonRackTemplate: 'src/Synth Anthology 3/templates/Synth Anthology 3.adg.tpl'
-  # Bitwig Studio 1.3.14 RC2 preset file
+  # Bitwig Studio 3.3.0 Beta 4
   bwpresetTemplate: 'src/Synth Anthology 3/templates/Synth Anthology 3.bwpreset'
 
   ufs: '$Synth Anthology 3.ufs'
 
+  # edit this hash-table to specify category in your rules.
   types:
     'Atmosphere-Ethereal': ['Atmosphere-Ethereal']
     Bass: ['Bass']
@@ -65,6 +67,7 @@ $ = Object.assign {}, (require '../config'),
     'Synth Brass': ['Synth Brass']
     'Vox-Choirs': ['Vox-Choirs']
 
+  # edit this hash-table to specify category in your rules.
   characters:
     '1-Classic Analog': ['Classic Analog']
     '2-Modern Analog': ['Modern Analog']
@@ -154,34 +157,47 @@ gulp.task "#{$.prefix}-decode-plugin-state", ->
     .pipe extract
       chunk_ids: ['PCHK']
     .pipe tap (file) ->
-      # - UVIWorkstation plugin states
-      #   - A id  4bytes string "UVI4"
-      #   - B version or flags  always 1 (32bit LE)
-      #   - C unncompressed size of D    (32bit LE)
-      #   - D zlib compressed content    (same as .uviws file)
+      # - UVIWorkstation plugin state
+      #   - A 4 bytes   string "UVI4"
+      #   - B 4 bytes   always 1 (32bit LE)
+      #   - C 4 bytes   unncompressed size of D  (32bit LE)
+      #   - D content   zlib compressed content  (same as .uviws file)
       console.info (zlib.inflateSync file.contents.slice 16).toString()
-  
+
 gulp.task "#{$.prefix}-analyze-uvip", ->
   types = {}
   characters = {}
-  validatePathh = (p) ->
-    /^.+(\/Presets\/.+)/.exec p
-
-  gulp.src ["src/#{$.dir}/presets/**/*.uvip"]
+  machines = createMachineMap()
+  gulp.src ["src/#{$.dir}/presets/**/*.uvip"], read: on
     .pipe data (file) ->
-      console.info '----------------', file.relative, '----------------------'
       # create XML DOM tree
-      dom = util.xmlFile file.path
-      # maschine, category & character
-      program = (xpath.select '//Program', dom)[0]
-      programPath = program.getAttribute('ProgramPath')
-      paths = programPath.split('/')[-3...-1]
-      unless paths[0].match /^[0-9]+\-/
-        console.warn "ProgramPath is something different. ProgramPath='#{programPath}'"
-        samplePlayer = (xpath.select '//SamplePlayer', dom)[0]
+      program: xpath.select('/UVI4/Program', util.xmlString(file.contents.toString()))[0]
+    .pipe data (file) ->
+      console.info '----------------', file.relative
+      # machine, category & character
+      program = file.data.program
+      animated = file.relative.startsWith 'Animated SA3 Presets'
+      {machine, character, type, animateType} = if animated
+        machineId = ((path.basename file.relative).split '-')[0]
+        samplePlayer = (xpath.select '//SamplePlayer', program)[0]
         paths = samplePlayer.getAttribute('SamplePath').split('/')[-4...-2]
-      maschine =  path.dirname file.relative
-      [character, type] = paths
+        unless machines[machineId]
+          console.warn "Unknown machine. machineId='#{machineId}'"
+        machine: machines[machineId]
+        character: paths[0]
+        type: paths[1]
+        animateType: (file.relative.split '/')[-2..][0]
+      else
+        programPath = program.getAttribute('ProgramPath')
+        paths = programPath.split('/')[-3...-1]
+        unless paths[0].match /^[0-9]+\-/
+          console.warn "ProgramPath is something different. ProgramPath='#{programPath}'"
+          samplePlayer = (xpath.select '//SamplePlayer', program)[0]
+          paths = samplePlayer.getAttribute('SamplePath').split('/')[-4...-2]
+        machine: path.dirname file.relative
+        character: paths[0]
+        type: paths[1]
+      console.info {machine, character, type, animateType}
       unless $.types[type] and $.characters[character]
         throw new Error "Unknown type or character.#{{file: file.relative, type, character}}"
       node = xpath.select('//ScriptProcessor/Properties', program)[0]
@@ -260,10 +276,10 @@ gulp.task "#{$.prefix}-generate-default-mapping", ->
 # build
 # --------------------------------
 
-
 gulp.task "#{$.prefix}-dist-presets", ->
   builder = nksfBuilder $.magic, "src/#{$.dir}/mappings/default.json"
   params = require "../src/#{$.dir}/mappings/uvi-host-automation-params"
+  machines = createMachineMap()
   gulp.src ["src/#{$.dir}/presets/**/*.uvip"], read: on
     .pipe data (file) ->
       # create DOM tree
@@ -275,21 +291,43 @@ gulp.task "#{$.prefix}-dist-presets", ->
       basename = path.basename file.relative
       name = path.basename file.relative, '.uvip'
       programPath = program.getAttribute('ProgramPath')
-      paths = programPath.split('/')[-3...-1]
-      unless paths[0].match /^[0-9]+\-/
-        console.warn "ProgramPath is something different. ProgramPath='#{programPath}'"
+      animated = file.relative.startsWith 'Animated SA3 Presets'
+      {machine, character, type, animateType} = if animated
+        machineId = ((path.basename file.relative).split '-')[0]
         samplePlayer = (xpath.select '//SamplePlayer', program)[0]
         paths = samplePlayer.getAttribute('SamplePath').split('/')[-4...-2]
-      machine =  path.dirname file.relative
-      [character, type] = paths
+        unless machines[machineId]
+          console.warn "Unknown machine. machineId='#{machineId}'"
+        machine: machines[machineId]
+        character: paths[0]
+        type: paths[1]
+        animateType: (file.relative.split '/')[-2..][0]
+      else
+        programPath = program.getAttribute('ProgramPath')
+        paths = programPath.split('/')[-3...-1]
+        unless paths[0].match /^[0-9]+\-/
+          console.warn "ProgramPath is something different. ProgramPath='#{programPath}'"
+          samplePlayer = (xpath.select '//SamplePlayer', program)[0]
+          paths = samplePlayer.getAttribute('SamplePath').split('/')[-4...-2]
+        machine: path.dirname file.relative
+        character: paths[0]
+        type: paths[1]
+
       unless $.types[type] and $.characters[character]
         throw new Error "Unknown type or character.#{{file: file.relative, type, character}}"
 
-      program.setAttribute 'ProgramPath', "#{$.ufs}/Presets/11-Sorted by Machines/#{machine}/#{basename}"
+      if animated
+        program.setAttribute 'ProgramPath', "#{$.ufs}/Presets/0-Animated SA3 Presets/#{animateType}/#{basename}"
+      else
+        program.setAttribute 'ProgramPath', "#{$.ufs}/Presets/11-Sorted by Machines/#{machine}/#{basename}"
       node = xpath.select('//ScriptProcessor/Properties', program)[0]
       unless node
         throw new Error "node '//ScriptProcessor/Properties' is missing."
-      node.setAttribute 'OriginalProgramPath', "#{$.ufs}/Presets/11-Sorted by Machines/#{machine}/#{basename}"
+      if animated
+        node.setAttribute 'OriginalProgramPath', "#{$.ufs}/Presets/0-Animated SA3 Presets/#{animateType}/#{basename}"
+      else
+        node.setAttribute 'OriginalProgramPath', "#{$.ufs}/Presets/11-Sorted by Machines/#{machine}/#{basename}"
+
       match = /^.+(\/Scripts\/.+)/.exec node.getAttribute('ScriptPath')
       unless match and match[1]
         throw new Error "Unknown ScriptPath='#{match}'"
@@ -321,34 +359,32 @@ gulp.task "#{$.prefix}-dist-presets", ->
         automation.appendChild automationConnection
       # append <Program props.../> to Part0
       (xpath.select "/UVI4/Engine/Synth/Children/Part[@Name='Part 0']", uviws)[0].appendChild program
-      # create PCHK chunk
-      # - UVIWorkstation plugin states
-      #   - 4byte chunkId = "UVI4"
-      #   - 4byte version or flags = 1 (32bit LE)
-      #   - 4byte uncompressed xml size (32bit LE)
-      #   - <zlib deflate archive (.uviws file)>
+
       xml = Buffer.from uviws.toString()
       uncompressedSize = Buffer.alloc 4
       uncompressedSize.writeUInt32LE xml.length
       nksf:
         pchk: Buffer.concat [
-          Buffer.from [1,0,0,0]         # PCHK header
-          Buffer.from 'UVI4'
-          Buffer.from [1,0,0,0]
-          uncompressedSize
-          zlib.deflateSync xml
+          Buffer.from [1,0,0,0]  # PCHK version or flags
+          Buffer.from 'UVI4'     # A
+          Buffer.from [1,0,0,0]  # B
+          uncompressedSize       # C
+          zlib.deflateSync xml   # D
         ]
         nisi:
           author: ''
-          bankchain: [$.dir, machine, ''],
+          bankchain: [$.dir, correctMachineName(machine), '']
           comment: '',
-          deviceType: 'INST',
-          modes: $.characters[character],
+          deviceType: 'INST'
+          modes: if animated
+            $.characters[character].concat([animateType])
+          else
+            $.characters[character]
           name: name,
           types: [
             $.types[type]
-          ],
-          uuid: uuid.v4()
+          ]
+          # uuid: uuid.v4()
           vendor: 'UVI'
     .pipe builder.gulp()
     .pipe rename extname: '.nksf'
@@ -380,3 +416,40 @@ gulp.task "#{$.prefix}-export-bwpreset", ["#{$.prefix}-dist-presets"], ->
       meta
     .pipe rename extname: '.bwpreset'
     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
+
+# functions
+# --------------------------------
+
+createMachineMap = ->
+  map = {}
+  (glob.sync "src/#{$.dir}/presets/**/*.uvip", ignore: "src/#{$.dir}/presets/Animated SA3 Presets/**").forEach (f) ->
+    machineId = ((path.basename f).split '-')[0]
+    unless map[machineId]
+      machine = ((path.dirname f).split '/')[-1..][0]
+      map[machineId] = machine
+  map
+
+correctMachineName = (machine) ->
+  # moog Synths
+  match = /^M-(.+)/.exec machine
+  if match
+    return "moog #{match[1]}"
+  # Roland Synths
+  match = /^RLD (.+)/.exec machine
+  if match
+    mcs =
+      '3o3': 'TB-303'
+      'D-Fifty': 'D-50'
+      'J 6': 'JUNO-6'
+      'J 60': 'JUNO-60'
+      'J 106': 'JUNO-106'
+      'JD800': 'JD-800'
+      'Jup 4': 'JUPITER-4'
+      'Jup 8': 'JUPITER-8'
+      'JX8P': 'JX-8P'
+      'VP330': 'VP-330'
+    return "Roland #{mcs[match[1]] or match[1]}"
+  machine
+
+
+

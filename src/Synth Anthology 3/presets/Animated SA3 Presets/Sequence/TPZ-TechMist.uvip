@@ -1,0 +1,864 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="0.93899149" Pan="0" DisplayName="TPZ-TechMist 1K" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="24" NotePolyphony="0" ProgramPath="/Volumes/MiniKeyAL/Synth Anthology 3 Vince/Batch 1/TPZ-TechMist 1K.uvip" LoopProgram="0" Streaming="1">
+        <Properties description="Synth Anthology 3
+Made from 132 hardware synths 
+
+Emulations Need Not Apply
+No matter how many variables you try to emulate in software there&apos;s still something unmistakable about the sound of a real hardware synth, from subtle differences between analog voice circuits and drift, to the varied ways different filters bite into your sound; there&apos;s a distinct character and energy. Synth Anthology 3 delivers the authentic and uncompromising hardware sound with all the conveniences of a modern software instrument.
+
+So Much Of A Good Thing
+There&apos;s no such thing as &quot;too much&quot; when it comes to hardware synths. They all have their own unique creative visions, innovations, sonic character and uses. Whatever you&apos;re looking for, from analog to digital, vintage classic to future classic, you&apos;ll likely find it here. With Synth Anthology 3 you get access to an unprecedented collection of hardware synthesizers, every major manufacturer, every type of synthesis, every era, 132 synthesizers in all. Yamaha, Oberheim, Sequential, PPG, Korg, Casio, Crumar, ARP, Waldorf, Vermona, NED, Access, Teenage Engineering, Novation, EMS, Kawai and more. Load up unique multisampled patches to use in your own sound design or tweak and layer them to make your own.
+
+Sonic Perfection
+While the differences between hardware and emulation can be discernible the difference between a straight signal and mastered recording can be night and day. With Synth Anthology 3 our sound designers worked through a magnificent rig of hardware processors including EQs, compressors and effects from Manley, Langevin, Lexicon, Publison, Focusrite, SPL and more. Each patch was hand-crafted and sculpted to perfection, accentuating the natural sounds of the synthesizers with a mastered finish.
+
+Master Of One, Master Of All
+Synth Anthology 3 provides deep sound editing capability in a clear and easy-to-use interface. This means you can quickly browse, tweak, edit, effect, modulate and layer sounds from any synth any way you want to. And unlike hardware synthesizers, which require you to learn drastically different front-panel controls and menu systems, with Synth Anthology 3 there&apos;s only one. Learning to use it is fast and painless, and once you do that knowledge will translate seamlessly across the entire suite.
+"/>
+        <ControlSignalSources>
+            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0.013172985" DecayCurve="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="1" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="7" Depth="1" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Depth" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                </Connections>
+            </LFO>
+            <DAHDSR Name="DAHDSR 1" DisplayName="DAHDSR 1" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="-0.50224799" HoldTime="0" DecayTime="1.0438704" DecayCurve="-0.96192098" SustainLevel="0" ReleaseTime="0.90713024" ReleaseCurve="-0.97217202" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" ShouldFakeMachFiveReleaseTriggerBug="1">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="AttackTime" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                </Connections>
+                <Properties PresetPath="$Resource/resource/FactoryPresets/Modulation/DAHDSR/Piano.env"/>
+            </DAHDSR>
+            <StepEnvelope Name="Step Envelope 1" DisplayName="Step Env 1" Bypass="0" SyncToHost="1" NumSteps="8" Freq="0.25" Retrigger="2" Bipolar="0" InterpolationMode="0" Smooth="0" Levels="0,000000 0,000000 1,000000 1,000000 0,000000 0,000000 0,643939 0,643939"/>
+            <DAHDSR Name="DAHDSR 2" DisplayName="DAHDSR 2" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0.43262839" DecayCurve="0" SustainLevel="0" ReleaseTime="0.17831562" ReleaseCurve="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+            <LFO Name="LFO 2" DisplayName="LFO 2" Bypass="0" SyncToHost="1" DelayTime="0" RiseTime="0" Freq="0.75" Depth="1" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0"/>
+            <AHD Name="AHD 2" DisplayName="AHD 2" Bypass="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0.038120791" DecayCurve="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+            <LFO Name="LFO 3" DisplayName="LFO 3" Bypass="1" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="6" Depth="1" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Depth" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                </Connections>
+            </LFO>
+            <DAHDSR Name="DAHDSR 3" DisplayName="DAHDSR 3" Bypass="0" DelayTime="0.094424695" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="0" DecayCurve="0" SustainLevel="1" ReleaseTime="20" ReleaseCurve="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+            <DAHDSR Name="DAHDSR 4" DisplayName="DAHDSR 4" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="-0.50206399" HoldTime="0" DecayTime="1.5759515" DecayCurve="-0.97053599" SustainLevel="0.34482759" ReleaseTime="0.050950639" ReleaseCurve="-0.97053701" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" ShouldFakeMachFiveReleaseTriggerBug="1">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="AttackTime" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                </Connections>
+                <Properties PresetPath="$Resource/resource/FactoryPresets/Modulation/DAHDSR/Piano.env"/>
+            </DAHDSR>
+            <DAHDSR Name="DAHDSR 5" DisplayName="DAHDSR 5" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="1.5" DecayCurve="0" SustainLevel="0" ReleaseTime="0.13612923" ReleaseCurve="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+            <LFO Name="LFO 4" DisplayName="LFO 4" Bypass="1" SyncToHost="1" DelayTime="0" RiseTime="0" Freq="0.25" Depth="1" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0"/>
+            <LFO Name="LFO 5" DisplayName="LFO 5" Bypass="0" SyncToHost="1" DelayTime="0" RiseTime="0" Freq="1" Depth="1" Phase="0" WaveFormType="1" Retrigger="0" Bipolar="1" Smooth="0"/>
+        </ControlSignalSources>
+        <EventProcessors>
+            <ScriptProcessor Name="EventProcessor0" Bypass="0" VCO1OnOff="1" VCO2OnOff="1" OscBMenu="5" VCO2PDMenu="4" VCO2PDAmount="0" VCO1Level="0.59600002" VCO1Pan="-0.64179105" VCO2Level="0.68400002" VCO2Pan="0.4029851" ampVelAmount1="1" ampVelToAttack1="0" ampAttack1="0" ampDecay1="0.45977011" ampSustain1="0" ampRelease1="0.48275861" filterAttack1="0" filterDecay1="0.375" filterSustain1="0" filterRelease1="0.33333334" filterEnvAmount1="1" velToFilter1="1" filterType1_1="0" filterType2_1="1" filterType3_1="0" filterType4_1="0" filterCutoff1="60.39904" filterReso1="0.77200001" ampVelAmount2="1" ampVelToAttack2="0" ampAttack2="0" ampDecay2="0.50574714" ampSustain2="0.34482759" ampRelease2="0.1" filterAttack2="0" filterDecay2="0.5" filterSustain2="0" filterRelease2="0.3125" filterEnvAmount2="0.63999999" velToFilter2="0.80000001" filterType1_2="0" filterType2_2="1" filterType3_2="0" filterType4_2="0" filterCutoff2="65.519913" filterReso2="0.204" octave1="-1" tune1="0" layerMode1="0" glideTime1="0.31281251" glideDepth1="22.655998" PitchBendRange1="2" wheelVibrato1="0" vibratoRate1="7" wheelTremolo1="1" tremoloRate1="0.39915627" wheelFilter1="1" wheelFilterDepth1="0.24399996" wheelDrive1="1" wheelDriveDepth1="1" toneShift1="0" panSpread1="1" detune1="3.1367188" stereoMode1_1="1" stereoMode2_1="0" stereoMode3_1="0" octave2="-1" tune2="0" layerMode2="0" glideTime2="0.40000001" glideDepth2="0" PitchBendRange2="2" wheelVibrato2="0" vibratoRate2="6" wheelTremolo2="0" tremoloRate2="0.73378128" wheelFilter2="1" wheelFilterDepth2="0.69037509" pwmWheelDepth2="1" pwmWheelDest2="1" unisonVoices2="3" panSpread2="1" detune2="0.30000001" stereoModeSelector1="1" stereoModeSelector2="0" DriveOnOff="1" Drive="0.59600002" ReduxOnOff="0" ReduxBits="32" ReduxFreq="44100" ReduxMix="0" ThorusOnOff="0" ThorusSpeed="0.20794663" ThorusDepth="7.8402967" PhasorOnOff="0" PhasorSpeed="0.20211831" PhasorDepth="0.66026562" PhasorEdge="0.19171882" EQOnOff="1" GainLow="2" GainMid="1.5360031" FreqMidHigh="4150.9858" GainHigh="3.7680016" DelayOnOff="1" DelayMix="0.67383468" DelayTime="0.477375" DelayFeedback="0.53254199" DelayLowCut="137.9493" DelayHighCut="5940.0156" SparkleOnOff="0" SparkleMix="0.36800003" SparkleSize="19.244167" SparkleDecay="0.49190623" SparkleLoDecay="0.10354688" SparkleHiDecay="0.29690626" stepResolution="0.19803125" modNumSteps="8" modDelay="0.34" modRise="0" modSmooth="0" volumeStepDepth1="0.67634374" volumeStepDest1="0" cutoffStepDepth1="0.82200003" cutoffStepDest1="1" resoStepDepth1="0" resoStepDest1="0" driveStepDepth1="0.96278131" driveStepDest1="1" volumeStepDepth2="0.69999999" volumeStepDest2="0" cutoffStepDepth2="0.52399993" cutoffStepDest2="1" resoStepDepth2="0" resoStepDest2="0" pwmStepDepth2="1" pwmStepDest2="1" lfoSpeed="0.29982567" lfoSync="1" LfoWaveform1="0" LfoWaveform2="0" LfoWaveform3="1" LfoWaveform4="0" LfoRetrigger1="0" LfoRetrigger2="1" LfoRetrigger3="0" pitchLfoDepth1="12" pitchLfoDest1="0" volumeLfoDepth1="1" volumeLfoDest1="0" panLfoDepth1="-0.45799994" panLfoDest1="1" filterLfoDepth1="0.204" filterLfoDest1="1" pitchLfoDepth2="12" pitchLfoDest2="0" volumeLfoDepth2="1" volumeLfoDest2="0" panLfoDepth2="-0.296" panLfoDest2="1" filterLfoDepth2="0.53999996" filterLfoDest2="1" arpOnOff1="1" arpModeType1_1="0" arpModeType2_1="0" arpModeType3_1="0" arpModeType4_1="0" arpModeType5_1="1" arpResolution1="4" arpOct1="1" arpGate1="0.64835203" arpNumStepsBox1="16" linked1_1="0" pitch1_1="0" linked1_2="1" pitch1_2="0" linked1_3="0" pitch1_3="3" linked1_4="0" pitch1_4="0" linked1_5="0" pitch1_5="0" linked1_6="0" pitch1_6="-5" linked1_7="0" pitch1_7="0" linked1_8="0" pitch1_8="0" linked1_9="1" pitch1_9="-7" linked1_10="0" pitch1_10="3" linked1_11="0" pitch1_11="0" linked1_12="0" pitch1_12="3" linked1_13="0" pitch1_13="0" linked1_14="1" pitch1_14="-12" linked1_15="0" pitch1_15="7" linked1_16="0" pitch1_16="0" arpOnOff2="1" arpModeType1_2="1" arpModeType2_2="0" arpModeType3_2="0" arpModeType4_2="0" arpModeType5_2="0" arpResolution2="9" arpOct2="-1" arpGate2="1" arpNumStepsBox2="16" linked2_1="0" pitch2_1="0" linked2_2="0" pitch2_2="0" linked2_3="0" pitch2_3="0" linked2_4="0" pitch2_4="0" linked2_5="0" pitch2_5="0" linked2_6="0" pitch2_6="0" linked2_7="0" pitch2_7="0" linked2_8="0" pitch2_8="0" linked2_9="0" pitch2_9="0" linked2_10="0" pitch2_10="0" linked2_11="0" pitch2_11="0" linked2_12="0" pitch2_12="0" linked2_13="0" pitch2_13="0" linked2_14="0" pitch2_14="0" linked2_15="0" pitch2_15="0" linked2_16="0" pitch2_16="0" ProgramVolume="0.75862068" API_version="16">
+                <Properties OriginalProgramPath="$Synth Anthology 3.ufs/Presets/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3.uvip" PresetPath="C:/Users/otristan/code/EventProcessorScripts/scripts/soundbankScripts/SynthAnthology2/Scripts/SA2Stub.lua" ScriptPath="./../../../Scripts/SA3Stub.lua"/>
+                <script><![CDATA[require "SA3"]]></script>
+                <ScriptData modSteps="0,000000 0,000000 1,000000 1,000000 0,000000 0,000000 0,643939 0,643939 0,000000 0,000000 0,000000 0,000000 0,000000 0,000000 0,000000 0,000000" arpSteps1="62 115 100 83 83 63 80 113 62 97 55 44 28 97 104 121" arpSteps2="127 76 43 66 78 83 89 112 49 64 109 33 37 90 56 55"/>
+            </ScriptProcessor>
+        </EventProcessors>
+        <Inserts>
+            <Redux Name="InsertFX0" Bypass="1" Frequency="44100" Bits="32" Jitter="0" Type="1" QuantizeLaw="0" Dither="0" FilterFreq="10000" FilterRes="0" FilterMode="0" FilterPosition="0" Antialiasing="1" Mix="0"/>
+            <WhiteChorus Name="InsertFX1" Bypass="1" Speed="0.20794663" Depth="7.8402967" Edge="0.14999998" Tone="17999.998" Crossover="80.869316" LowGain="1" Mix="1" Trim="0" NumVoices="4" Mode="1"/>
+            <Phasor Name="InsertFX3" Bypass="1" SyncToHost="0" Speed="0.20211831" MinFreq="200" MaxFreq="3000" Feedback="0.19171882" Depth="0.66026562" Spread="1" Order="5" LFOSHape="0"/>
+            <DualDelay Name="InsertFX4" Bypass="0" SyncToHost="1" DelayTime="0.5" LowCut="137.9493" HighCut="5940.0156" PeakFreq="1000" PeakGain="0" PeakQ="1" Feedback="0.53254199" Mix="0.67383468" Rotation="90" InputWidth="0.099999994" OutputWidth="1" DelayRatio="0" FeedbackRatio="0" InputRotation="1" OutputRotation="0" ModDepth="0" ModRate="1" ModChannelOffset="1" Interpolation="1" DualDelayVersion="1">
+                <Properties PresetPath="$Resource/resource/FactoryPresets/FX/01 - Delay/07 - Dual Delay/1 Stereo Delay/Ping Pong 8.preset"/>
+            </DualDelay>
+            <SparkVerb Name="InsertFX2" Bypass="1" ModDepth="4" ModRate="1" Diffusion="0.61799997" DiffusionStart="5" Width="1" RoomSize="19.244167" DecayTime="0.96341288" DecayLow="0.16109934" DecayHigh="0.39247549" FreqLow="250" FreqHigh="12000" Shape="0" Mix="0.36800003" Quality="3" Mode="1" HiCut="0" LowCut="0" Rolloff="20000" DiffusionOnOff="0" PreDelay="0" MixMode="1" SparkVerbVersion="1"/>
+            <ThreeBandShelves Name="InsertFX5" Bypass="0" FreqLowMid="179.99998" FreqMidHigh="4150.9858" GainLow="2" GainMid="1.5360031" GainHigh="3.7680016">
+                <Properties PresetPath="$Resource/resource/FactoryPresets/FX/3 Band Shelf/Super Hi-Fi.preset"/>
+            </ThreeBandShelves>
+            <Maximizer Name="InsertFX6" Bypass="0" Threshold="-2" Attack="0" Lookahead="2" Release="10" Ceiling="-0.1" Knee="0" ReleaseBlend="0.1" SlewRate="20"/>
+        </Inserts>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" BypassInsertFX="0" Gain="0.48516199" Pan="-0.64179105" Mute="0" MidiMute="0" Solo="0" DisplayName="Osc A" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.90325171" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 2" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                    </SignalConnection>
+                </Connections>
+                <Properties Color="ffff00ff"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 16" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C4.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="75" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="72" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 21" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C1.wav" OutputName="" ExclusiveGroup="0" LowKey="32" HighKey="39" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="36" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 38" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-G2.wav" OutputName="" ExclusiveGroup="0" LowKey="49" HighKey="57" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="55" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-G2.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 74" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C5.wav" OutputName="" ExclusiveGroup="0" LowKey="80" HighKey="87" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="84" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 75" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-G5.wav" OutputName="" ExclusiveGroup="0" LowKey="88" HighKey="93" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="-1" Gain="1" Pitch="0" NoteTracking="1" BaseNote="91" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-G5.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 78" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-G4.wav" OutputName="" ExclusiveGroup="0" LowKey="76" HighKey="79" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="79" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-G4.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 82" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C0.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="27" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="24" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C0.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 85" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C3.wav" OutputName="" ExclusiveGroup="0" LowKey="58" HighKey="63" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 98" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-G1.wav" OutputName="" ExclusiveGroup="0" LowKey="40" HighKey="45" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="43" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-G1.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 102" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C2.wav" OutputName="" ExclusiveGroup="0" LowKey="46" HighKey="48" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="48" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C2.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 113" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-C6.wav" OutputName="" ExclusiveGroup="0" LowKey="94" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="-2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="96" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-C6.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 116" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-G0.wav" OutputName="" ExclusiveGroup="0" LowKey="28" HighKey="31" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="31" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-G0.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 117" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="TPZ-TOPZ Funk 3-G3.wav" OutputName="" ExclusiveGroup="0" LowKey="64" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.45799994" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="60.39904" Q="0.77200001" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 2" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.82200003" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.24399996" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.204" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.96278131" Source="$Program/Step Envelope 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-1" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="67" DisplayName="Oscillator 1" SamplePath="./../../../Samples/5-Wavetable and Digital/Polysynth/TPZ-TOPZ Funk 3/TPZ-TOPZ Funk 3-G3.wav" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="22.655998" Source="$Program/AHD 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 1" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 9" Bypass="0" BypassInsertFX="0" Gain="0.70726842" Pan="0.4029851" Mute="0" MidiMute="0" Solo="0" DisplayName="Osc B" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.038120791" PortamentoCurve="0" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 4" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 1" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                    </SignalConnection>
+                </Connections>
+                <Properties Color="ffff69b4"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" BypassInsertFX="0" Gain="1" Pan="0" DisplayName="Keygroup 1" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" FadeCurve="2" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0">
+                        <Connections>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 4" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="0.69999999" Source="$Program/Step Envelope 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SignalConnection>
+                            <SignalConnection Name="SignalConnection 2" Ratio="1" Source="$Program/LFO 5" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="-0.296" Source="$Program/LFO 5" Destination="Pan" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <Inserts>
+                            <XpanderFilter Name="Filter" Bypass="0" Freq="65.519913" Q="0.204" KeyTracking="0" Mode="3" DistortionType="0" Drive="0" Fat="1" Algorithm="0" Oversampling="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.63999999" Source="$Program/DAHDSR 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0.52399993" Source="$Program/Step Envelope 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="0.69037509" Source="@MIDI CC 1" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 3" Ratio="0.53999996" Source="$Program/LFO 5" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/Step Envelope 1" Destination="Q" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </XpanderFilter>
+                            <Drive Name="Drive" Bypass="0" DriveAmount="0.59600002" Mode="0" Oversampling="3">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/LFO 5" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="0" Source="@MIDI CC 1" Destination="DriveAmount" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                </Connections>
+                            </Drive>
+                            <OnePole Name="Filter 2" Bypass="0" Freq="19999.992" KeyTracking="0" Mode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="-0.80000001" Source="@VoiceParam Velocity" Destination="Freq" Mapper="" ConnectionMode="0" Bypass="0" Inverted="1"/>
+                                </Connections>
+                            </OnePole>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <WaveTableOscillator Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="60" DisplayName="Oscillator 1" WavetablePath="./../../../Scripts/../Samples/WT/0 SA2 Waveforms/SA2-SQ1.wav" StartPhase="0" PhaseDistortionAmount="0" PhaseDistortionMode="3" Spread="0.30000001" DetuneMode="0" WaveIndex="0" WaveIndexSpread="0" StereoSpread="1" StereoSpreadMode="1" NumOscs="3" FadeMipMap="0" FadeWaveIndex="1" Stereo="1" PhaseSpread="1" EnableFM="0" FMDepth="0.1" FMRatio="0" FMRatioFine="0" FMRatioMode="1" FMFreq="0.1" FMFixedFreq="0" FMFreqMultiplier="3">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0" Source="$Program/AHD 2" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Program/LFO 3" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 2" Ratio="12" Source="$Program/LFO 5" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="1" Inverted="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Step Envelope 1" Destination="PhaseDistortionAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/DAHDSR 3" Destination="Ratio" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                    <SignalConnection Name="SignalConnection 1" Ratio="1" Source="@MIDI CC 1" Destination="PhaseDistortionAmount" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </WaveTableOscillator>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+    
+</UVI4>
