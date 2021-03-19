@@ -1,6 +1,10 @@
 # KORG Gadget 1.5.0(build 40)
 #   bitwig studio 2.2.2
 #   ableton live 10.0b146
+# CHANGES
+#  20210320
+#   - KORG Gadget 2.7.1
+#   
 # ---------------------------------------------------------------
 fs          = require 'fs'
 path        = require 'path'
@@ -36,8 +40,8 @@ $ = Object.assign {}, (require '../config'),
     {plugin: 'Dublin',      dir: 'Dublin (Semi-modular)',   type: 'Instrument', numParams: 38,  uuid: 'e1e0f3d1-1336-4766-b37a-b5d73214d3da'}
     # Durban doesn't have NKS Presets
     # {plugin: 'Durban',      dir: 'Durban (B.Amp)',          type: 'Audio Effect', numParams: 17}
-    # Ebina has NKS presets, but it's not yet NKS plugin.
     {plugin: 'Ebina',       dir: 'Ebina (Taito)',           type: 'Instrument', numParams: 43}
+    {plugin: 'Fairbanks',   dir: 'Fairbanks (Hybrid)',      type: 'Instrument', numParams: 16}
     {plugin: 'Firenze',     dir: 'Firenze (Clav)',          type: 'Instrument', numParams: 14,  uuid: '0d734bc9-e36d-426e-9097-d6d96df9cbde'}
     {plugin: 'Gladstone',   dir: 'Gladstone (Drum)',        type: 'Drum',       numParams: 62,  uuid: 'ee23311f-3c83-41c4-a73a-2755ea0c4b36'}
     {plugin: 'Glasgow',     dir: 'Glasgow (Keys)',          type: 'Instrument', numParams: 14,  uuid: '31f98755-eef2-47b6-90f4-0ed638c1fc59'}
@@ -50,16 +54,13 @@ $ = Object.assign {}, (require '../config'),
     {plugin: 'London',      dir: 'London (Drum)',           type: 'Drum',       numParams: 92,  uuid: '3f0f8ce8-c249-4a8f-afac-6c7588a30c50'}
     {plugin: 'Madrid',      dir: 'Madrid (Bass)',           type: 'Instrument', numParams: 19,  uuid: '416818d8-5649-479c-8337-3f8187c22606'}
     {plugin: 'Marseille',   dir: 'Marseille (Keys)',        type: 'Instrument', numParams: 13,  uuid: 'ab9080c6-e47a-4f0a-90c5-2e5845ee9df7'}
-    # Memphis has NKS presets, but it's not yet NKS plugin.
     {plugin: 'Memphis',     dir: 'Memphis (MS-20)',         type: 'Instrument', numParams: 44}
     {plugin: 'Miami',       dir: 'Miami (Wobble)',          type: 'Instrument', numParams: 18,  uuid: 'a02b8e36-f40b-4ab7-8e27-5c61233cb019'}
     {plugin: 'Milpitas',    dir: 'Milpitas (Wavestation)',  type: 'Instrument', numParams: 8,   uuid: 'd1a18c95-d7ab-41c5-96ac-c77df466c0b2'}
     {plugin: 'Montpellier', dir: 'Montpellier (Mono-Poly)', type: 'Instrument', numParams: 69,  uuid: '99f5877c-0720-4389-9cf5-ee1508709a8c'}
     {plugin: 'Montreal',    dir: 'Montreal (E.Piano)',      type: 'Instrument', numParams: 17,  uuid: '0baae08c-e48d-465d-8853-ae7b0f692076'}
-    # Otorii has pointless (Chiangmai's) NKS presets, and it's not yet NKS plugin.
-    # {plugin: 'Otorii',      dir: 'Otorii (SEGA)',           type: 'Instrument', numParams: 136}
+    {plugin: 'Otorii',      dir: 'Otorii (SEGA)',           type: 'Drum',       numParams: 136}
     {plugin: 'Phoenix',     dir: 'Phoenix (Analog)',        type: 'Instrument', numParams: 38,  uuid: 'aef46075-102a-4ceb-b672-4425672b20d0'}
-    # Pompei has NKS presets, but it's not yet NKS plugin.
     {plugin: 'Pompei',      dir: 'Pompei (Polysix)',        type: 'Instrument', numParams: 40}
     {plugin: 'Recife',      dir: 'Recife (Drum)',           type: 'Drum',       numParams: 196, uuid: '66b4115f-5249-494b-a8bf-341639717fc3'}
     # Rosairio doesn't have NKS Presets
@@ -67,11 +68,10 @@ $ = Object.assign {}, (require '../config'),
     {plugin: 'Salzburg',    dir: 'Salzburg (Piano)',        type: 'Instrument', numParams: 13,  uuid: '577b7cae-3c7b-4e5a-ba85-628c238fad8a'}
     # preview files exists only in presets folder. no preview files in NBPL.
     {plugin: 'Stockholm',   dir: 'Stockholm (Dr. Octorex)', type: 'Drum',       numParams: 53}
-    # Rosairio doesn't have NKS Presets
+    # Taipei doesn't have NKS Presets
     # {plugin: 'Taipei',      dir: 'Taipei (Midi)',           type: 'Instrument', numParams: 22}
     {plugin: 'Tokyo',       dir: 'Tokyo (E.Perc)',          type: 'Drum',       numParams: 34,  uuid: '9834b7a8-5527-410c-96d1-a4ec3aed8ef6'}
     {plugin: 'Vancouver',   dir: 'Vancouver (Sample)',      type: 'Instrument', numParams: 32,  uuid: 'ff55f8a8-55b3-4beb-8c37-0549ad0db401'}
-    # Warszawa has NKS presets, but it's not yet NKS plugin.
     {plugin: 'Warszawa',    dir: 'Warszawa (Wavetable)',    type: 'Instrument', numParams: 34}
     {plugin: 'Wolfsburg',   dir: 'Wolfsburg (Digital)',     type: 'Instrument', numParams: 52,  uuid: 'c52345eb-c65b-445a-ae2b-10ceef32945a'}
     # Zurich doesn't have NKS Presets
@@ -148,40 +148,6 @@ $.gadgets.forEach (gadget) ->
       .pipe rename extname: '.fxp'
       .pipe gulp.dest dest
 
-  # gather .nksf for windows
-  gulp.task "#{prefix}-gather-nksf_", ->
-    gulp.src [nksPresets]
-      # some .nksf files are corrupted. size = 0
-      .pipe ignore (file) -> file.contents.length is 0
-      .pipe gulp.dest "dist/KORG Gadget/Presets/#{gadget.dir}"
-
-  # gather .previews for windows
-  gulp.task "#{prefix}-gather-previews_", ->
-    srcs = []
-    if gadget.uuid
-      srcs.push "#{$.NI.content}/NBPL/Samples/#{gadget.uuid}/Presets/**/.previews/*.ogg"
-    srcs.push "#{$.pluginsDir}/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/Presets/**/.previews/*.ogg"
-    gulp.src srcs
-      .pipe gulp.dest "dist/KORG Gadget/Presets/#{gadget.dir}"
-
-  # gather .previews for windows
-  gulp.task "#{prefix}-gather-resources_", ->
-    gulp.src [
-      "#{$.pluginsDir}/#{gadget.plugin}Library.bundle/Contents/Resources/NKS/PAResources/**/*.{meta,json,png}"
-      'src/KORG Gadget/resources/**/*.{meta,json,png}' # added missing image resources
-    ]
-      .pipe rename (file) ->
-        # fix wrong filename
-        if file.basename is 'MST_artwork_Pompei'
-          file.basename = 'MST_artwork'
-        if file.basename is 'VB_artwork_Pompei'
-          file.basename = 'VB_artwork'
-        #  de-capitalize .meta
-        if file.extname.endsWith '.meta'
-          file.basename = file.basename.toLowerCase()
-        #  de-capitalize folder name
-        file.dirname = file.dirname.toLowerCase()
-      .pipe gulp.dest "dist/KORG Gadget"
 
 # export
 # --------------------------------
@@ -197,19 +163,3 @@ gulp.task "#{$.prefix}-export-bwpreset", ("#{$.prefix}-#{gadget.plugin.toLowerCa
 
 # export from .nksf to .fxp
 gulp.task "#{$.prefix}-export-fxp", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-fxp_" for gadget in $.gadgets)
-
-# gather nksf for windows
-gulp.task "#{$.prefix}-gather-nksf", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-gather-nksf_" for gadget in $.gadgets)
-
-# gather nksf for windows
-gulp.task "#{$.prefix}-gather-previews", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-gather-previews_" for gadget in $.gadgets)
-
-# gather resources for windows
-gulp.task "#{$.prefix}-gather-resources", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-gather-resources_" for gadget in $.gadgets)
-
-# packaging for windows
-gulp.task "#{$.prefix}-package-for-windows", [
-  "#{$.prefix}-gather-nksf"
-  "#{$.prefix}-gather-previews"
-  "#{$.prefix}-gather-resources"
-]
