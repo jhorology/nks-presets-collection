@@ -1,5 +1,9 @@
 # Native Instruments Massive 1.0.0(R116)
 #
+# CHANGES
+#  20210320
+#    - add 'Hour House' libarary.
+#    - renew templeate for Live 11
 # ---------------------------------------------------------------
 assert      = require 'assert'
 path        = require 'path'
@@ -41,13 +45,13 @@ $ = Object.assign {}, $,
     "#{$.NI.content}/Drive Library/Presets/**/*.nksf"
     "#{$.NI.content}/Mechanix Library/Presets/**/*.nksf"
     "#{$.NI.content}/Moebius Library/Presets/**/*.nksf"
+    "#{$.NI.content}/Our House Library/Presets/**/*.nksf"
     "#{$.NI.content}/Pulse Library/Presets/**/*.nksf"
     "#{$.NI.content}/Rush Library/Presets/**/*.nksf"
     "#{$.NI.content}/Scene Library/Presets/**/*.nksf"
   ]
-  # Ableton Live 10.1
-  # abletonRackTemplate: 'src/Massive X/templates/Massive X.adg.tpl'
-  abletonRackTemplate: 'src/Massive X/templates/Massive X with macro.adg.tpl'
+  # Ableton Live 11.0
+  abletonRackTemplate: 'src/Massive X/templates/Massive X 16 macors.adg.tpl'
   # Bitwig Studio 2.5.1 preset file
   bwpresetTemplate: 'src/Massive X/templates/Massive X.bwpreset'
 
