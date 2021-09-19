@@ -24,6 +24,8 @@ commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
 appcGenerator = require '../lib/appc-generator'
+parseNksf   = require '../lib/gulp-parse-nksf'
+vstpreset   = require '../lib/vstpreset'
 
 #
 # buld environment & misc settings
@@ -31,13 +33,14 @@ appcGenerator = require '../lib/appc-generator'
 $ = require '../config'
 $ = Object.assign {}, $,
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'Massive X'
   vendor: 'Native Instruments'
   magic: 'Ni$H'
-  
+  vst3ClassId: '5653544e-6924-486D-6173-736976652078'
+
   #  local settings
   # -------------------------
   nksPresets: [
@@ -52,12 +55,25 @@ $ = Object.assign {}, $,
   ]
   # Ableton Live 11.0
   abletonRackTemplate: 'src/Massive X/templates/Massive X 16 macors.adg.tpl'
-  # Bitwig Studio 2.5.1 preset file
+  # Bitwig Studio 4.0.2 vst3 preset file
   bwpresetTemplate: 'src/Massive X/templates/Massive X.bwpreset'
+  metaInfo: '''
+<?xml version='1.0' encoding='utf-8'?>
+<MetaInfo>
+  <Attribute id='MediaType' value='VstPreset' type='string' flags='writeProtected'></Attribute>
+  <Attribute id='PlugInCategory' value='Instrument|Synth' type='string' flags='writeProtected'></Attribute>
+  <Attribute id='plugtype' value='Instrument|Synth' type='string' flags='writeProtected'></Attribute>
+  <Attribute id='PlugInName' value='Massive X' type='string' flags='writeProtected'></Attribute>
+  <Attribute id='plugname' value='Massive X' type='string' flags='writeProtected'></Attribute>
+  <Attribute id='PlugInVendor' value='Native Instruments' type='string' flags='writeProtected'></Attribute>
+</MetaInfo>
+'''
 
 # register common gulp tasks
 # --------------------------------
 commonTasks $, on  # nks-ready
+
+
 
 # decode plugin-states
 gulp.task "#{$.prefix}-parse-plugin-states", ->
@@ -171,32 +187,74 @@ gulp.task "#{$.prefix}-export-adg", ->
 
 # export from .nksf to .bwpreset bitwig studio preset
 gulp.task "#{$.prefix}-export-bwpreset", ->
-  exporter = bwExporter $.bwpresetTemplate
+  exporter = bwExporter $.bwpresetTemplate, vst3: on
   gulp.src $.nksPresets
     .pipe exporter.gulpParseNksf()
-    .pipe tap (file) ->
-      # edit file path
-      if file.data.nksf.nisi.types and file.data.nksf.nisi.types.length
-        dirname = path.dirname file.path
-        type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
-        file.path = path.join dirname, type, file.relative
-      else
-        console.warn "[#{file.path}] doesn't have types property."
+    .pipe tap exportFilePath
     .pipe exporter.gulpReadTemplate()
-    .pipe exporter.gulpAppendPluginState()
-    .pipe exporter.gulpRewriteMetadata (nisi) ->
-      meta = bwExporter.defaultMetaMapper nisi
-      meta.tags.push 'massive_x_factory'
-      meta
+    .pipe exporter.gulpAppendPluginState (nksf, done) ->
+      readable = new Readable objectMode: on
+      writable = vstpreset.createWriteObjectStream $.vst3ClassId
+      readable.pipe writable
+      writable.on 'finish', ->
+        done undefined, writable.getBuffer()
+      readable.push
+        id: 'Comp'
+        # probably same as vst2 pluginState
+        contents: nksf.pluginState
+      # 'Cont' chunk size = 0
+      readable.push
+        id: 'Cont'
+        contents: Buffer.from []
+      readable.push null
+    .pipe exporter.gulpRewriteMetadata()
     .pipe rename extname: '.bwpreset'
     .pipe gulp.dest "#{$.Bitwig.presets}/#{$.dir}"
 
+# export from .nksf to .vstpreset
+gulp.task "#{$.prefix}-export-vstpreset", ->
+  gulp.src $.nksPresets
+    .pipe parseNksf()
+    .pipe rename extname: '.vstpreset'
+    .pipe tap exportFilePath
+    .pipe data (file, done) ->
+      readable = new Readable objectMode: on
+      writable = vstpreset.createWriteObjectStream $.vst3ClassId
+      readable
+        .pipe writable
+      writable.on 'finish', ->
+        file.contents = writable.getBuffer()
+        done()
+      readable.push
+        id: 'Comp'
+        # probably same as vst2 pluginState
+        contents: file.data.nksf.pluginState
+      # 'Cont' chunk size = 0
+      readable.push
+        id: 'Cont'
+        contents: Buffer.from []
+      readable.push
+        id: 'Info'
+        contents: Buffer.from $.metaInfo
+      readable.push null
+    .pipe gulp.dest "#{$.Ableton.vstPresets}/#{$.vendor}/#{$.dir}"
+
+
+###
+ categorized by folder
+###
+exportFilePath = (file) ->
+  if file.data.nksf.nisi.types and file.data.nksf.nisi.types.length
+    dirname = path.dirname file.path
+    type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
+    file.path = path.join dirname, type, file.relative
+  else
+    console.warn "[#{file.path}] doesn't have types property."
 
 _decodeMessage = (msg, stats) ->
   resetStats = ->
     ['dataType', 'numItems', 'numVectItems', 'vectItemIndex', 'vectKey'].forEach (k) -> delete stats[k]
     stats.st = 0
-  
   switch
     when stats.st is 0  # data type
       assert.ok (_.isString msg), "dataType should be a string. occurs:[#{msg}]"
@@ -204,6 +262,7 @@ _decodeMessage = (msg, stats) ->
       , "unknown dataType. occurs:#{msg}"
       stats.dataType = msg
       stats.st = 1
+
     when stats.st is 1
        # 1 number of data items + 1
       assert.ok (_.isNumber msg), "numItems should be a Number. occurs:[#{msg}]"
