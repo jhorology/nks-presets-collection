@@ -277,7 +277,7 @@ gulp.task "#{$.prefix}-export-aupreset", ->
         name: xmlescape file.data.nksf.nisi.name
         dataLines: for i in [1..numLines]
           base64Data.slice lineWidth * (i - 1), if i < numLines then lineWidth * i
-    .pipe gulp.dest "#{$.Ableton.auPresets}/#{$.vendor}/#{$.dir}"
+    .pipe gulp.dest "#{$.AuPresets}/#{$.vendor}/#{$.dir}"
 
 ###
  categorized by folder
@@ -285,7 +285,7 @@ gulp.task "#{$.prefix}-export-aupreset", ->
 exportFilePath = (file) ->
   if file.data.nksf.nisi.types and file.data.nksf.nisi.types.length
     dirname = path.dirname file.path
-    type = file.data.nksf.nisi.types[0][0].replace 'Piano / Keys', 'Piano & Keys'
+    type = file.data.nksf.nisi.types[0][0].replace /Piano \/ Keys|Piano\/Keys/, 'Piano & Keys'
     file.path = path.join dirname, type, file.relative
   else
     console.warn "[#{file.path}] doesn't have types property."
