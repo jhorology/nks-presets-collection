@@ -11,6 +11,7 @@ rename      = require 'gulp-rename'
 data        = require 'gulp-data'
 _           = require 'underscore'
 msgpack     = require 'msgpack-lite'
+xmlescape   = require 'xml-escape'
 util        = require '../lib/util'
 commonTasks = require '../lib/common-tasks'
 bwExporter  = require '../lib/bwpreset-exporter'
@@ -24,14 +25,14 @@ riffBuilder = require '../lib/riff-builder'
 #-------------------------------------------
 $ = Object.assign {}, (require '../config'),
   prefix: path.basename __filename, '.coffee'
-  
+
   #  common settings
   # -------------------------
   dir: 'Super 8'
   vendor: 'Native Instruments'
   magic: 'NIS8'
   vst3ClassId: '5653544e-4953-3873-7570-657220380000'
-  
+
   #  local settings
   # -------------------------
   nksPresets: [
@@ -48,7 +49,31 @@ $ = Object.assign {}, (require '../config'),
   <Attribute id='PlugInVendor' value='Native Instruments' type='string' flags='writeProtected'></Attribute>
 </MetaInfo>
 '''
-
+  aupresetTemplate: _.template '''
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>data</key>
+    <data>
+    </data>
+    <key>manufacturer</key>
+    <integer>760105261</integer>
+    <key>name</key>
+    <string>Super 8</string>
+    <key>subtype</key>
+    <integer>1313428280</integer>
+    <key>type</key>
+    <integer>1635085685</integer>
+    <key>version</key>
+    <integer>0</integer>
+    <key>vstdata</key>
+    <data><% _.forEach(dataLines, function(line) { %>
+      <%= line %><% }); %>
+    </data>
+  </dict>
+</plist>
+'''
 # register common gulp tasks
 # --------------------------------
 # commonTasks $, on  # nks-ready
@@ -160,3 +185,19 @@ gulp.task "#{$.prefix}-generate-vst3-appc", ->
       basename: 'Default'
       extname: '.appc'
     .pipe gulp.dest "#{$.Ableton.vst3Defaults}/#{$.vendor}/#{$.dir}"
+
+# export from .nksf to .aupreset
+gulp.task "#{$.prefix}-export-aupreset", ->
+  gulp.src $.nksPresets
+    .pipe parseNksf()
+    .pipe rename extname: '.aupreset'
+    .pipe tap exportFilePath
+    .pipe data (file) ->
+      base64Data = (vst3ComponentState file.data.nksf).toString 'base64'
+      lineWidth = 68
+      numLines = (base64Data.length + lineWidth - 1) / lineWidth | 0
+      file.contents = Buffer.from $.aupresetTemplate
+        name: xmlescape file.data.nksf.nisi.name
+        dataLines: for i in [1..numLines]
+          base64Data.slice lineWidth * (i - 1), if i < numLines then lineWidth * i
+    .pipe gulp.dest "#{$.AuPresets}/#{$.vendor}/#{$.dir}"
