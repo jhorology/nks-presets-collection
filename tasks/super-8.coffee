@@ -53,25 +53,25 @@ $ = Object.assign {}, (require '../config'),
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>data</key>
-    <data>
-    </data>
-    <key>manufacturer</key>
-    <integer>760105261</integer>
-    <key>name</key>
-    <string>Super 8</string>
-    <key>subtype</key>
-    <integer>1313428280</integer>
-    <key>type</key>
-    <integer>1635085685</integer>
-    <key>version</key>
-    <integer>0</integer>
-    <key>vstdata</key>
-    <data><% _.forEach(dataLines, function(line) { %>
-      <%= line %><% }); %>
-    </data>
-  </dict>
+<dict>
+  <key>data</key>
+  <data>
+  </data>
+  <key>manufacturer</key>
+  <integer>760105261</integer>
+  <key>name</key>
+  <string><%= name %></string>
+  <key>subtype</key>
+  <integer>1313428280</integer>
+  <key>type</key>
+  <integer>1635085685</integer>
+  <key>version</key>
+  <integer>0</integer>
+  <key>vstdata</key>
+  <data><% _.forEach(dataLines, function(line) { %>
+    <%= line %><% }); %>
+  </data>
+</dict>
 </plist>
 '''
 # register common gulp tasks
@@ -88,7 +88,7 @@ $ = Object.assign {}, (require '../config'),
   - NISI chunk = {} empty object
   - NICA chunk = {} empty object
 ###
-vst3ComponentState= (nksf) ->
+vst3ComponentState = (nksf) ->
   riffBuilder 'NIKS'
     # soundInfo = empty object
     .pushChunk 'NISI', Buffer.concat [
@@ -110,7 +110,7 @@ vst3ComponentState= (nksf) ->
       Buffer.from [1,0,0,0]
       nksf.pluginState
     ]
-   .buffer()
+    .buffer()
 
 ###
  categorized by folder

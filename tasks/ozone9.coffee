@@ -8,6 +8,7 @@ first         = require 'gulp-first'
 tap           = require 'gulp-tap'
 data          = require 'gulp-data'
 rename        = require 'gulp-rename'
+xmlescape     = require 'xml-escape'
 bwExporter    = require '../lib/bwpreset-exporter'
 appcGenerator = require '../lib/appc-generator'
 parseNksf     = require '../lib/gulp-parse-nksf'
@@ -23,23 +24,23 @@ $ = Object.assign {}, (require '../config'),
   vendor_sanitized: 'izotope inc_939ccee2f3f4075de5d40af6aaf5c5c7'
   nksDir: '/Library/Application Support/iZotope/Ozone 9/NKS'
   plugins: [
-    #                                    VST3 plugin class ID
-    {name: 'Ozone 9',                    category: 'Fx|Mastering',           classId: '5653545a-6e4f-394f-7a6f-6e6520390000'}
-    {name: 'Ozone 9 Dynamic EQ',         category: 'Fx|Dynamics',            classId: '5653545a-6e59-394f-7a6f-6e6520392044'}
-    {name: 'Ozone 9 Dynamics',           category: 'Fx|Dynamics',            classId: '5653545a-6e44-394f-7a6f-6e6520392044'}
-    {name: 'Ozone 9 Equalizer' ,         category: 'Fx|EQ',                  classId: '5653545a-4f39-554f-7a6f-6e6520392045'}
-    {name: 'Ozone 9 Exciter',            category: 'Fx|Distortion',          classId: '5653545a-4f39-584f-7a6f-6e6520392045'}
-    {name: 'Ozone 9 Imager',             category: 'Fx|Spatial',             classId: '5653545a-6e49-394f-7a6f-6e6520392049'}
-    {name: 'Ozone 9 Low End Focus',      category: 'Fx|EQ',                  classId: '5653545a-4f39-4c4f-7a6f-6e652039204c'}
-    {name: 'Ozone 9 Master Rebalance',   category: 'Fx|Mastering',           classId: '5653545a-4f39-524f-7a6f-6e652039204d'}
+    #                                                                        VST3 plugin class ID                             AU subtype
+    {name: 'Ozone 9',                    category: 'Fx|Mastering',           classId: '5653545a-6e4f-394f-7a6f-6e6520390000', auSubtype: 'ZnO9'}
+    {name: 'Ozone 9 Dynamic EQ',         category: 'Fx|Dynamics',            classId: '5653545a-6e59-394f-7a6f-6e6520392044', auSubtype: 'ZnY9'}
+    {name: 'Ozone 9 Dynamics',           category: 'Fx|Dynamics',            classId: '5653545a-6e44-394f-7a6f-6e6520392044', auSubtype: 'ZnD9'}
+    {name: 'Ozone 9 Equalizer' ,         category: 'Fx|EQ',                  classId: '5653545a-4f39-554f-7a6f-6e6520392045', auSubtype: 'ZO9U'}
+    {name: 'Ozone 9 Exciter',            category: 'Fx|Distortion',          classId: '5653545a-4f39-584f-7a6f-6e6520392045', auSubtype: 'ZO9X'}
+    {name: 'Ozone 9 Imager',             category: 'Fx|Spatial',             classId: '5653545a-6e49-394f-7a6f-6e6520392049', auSubtype: 'ZnI9'}
+    {name: 'Ozone 9 Low End Focus',      category: 'Fx|EQ',                  classId: '5653545a-4f39-4c4f-7a6f-6e652039204c', auSubtype: 'ZO9L'}
+    {name: 'Ozone 9 Master Rebalance',   category: 'Fx|Mastering',           classId: '5653545a-4f39-524f-7a6f-6e652039204d', auSubtype: 'ZO9R'}
     # Match EQ dosen't have NKS presets
-    {name: 'Ozone 9 Match EQ',           category: 'Fx|EQ',                  classId: '5653545a-4f39-484f-7a6f-6e652039204d'}
-    {name: 'Ozone 9 Maximizer',          category: 'Fx|Dynamics',            classId: '5653545a-4f39-4d4f-7a6f-6e652039204d'}
-    {name: 'Ozone 9 Spectral Shaper',    category: 'Fx|Dynamics',            classId: '5653545a-4f39-534f-7a6f-6e6520392053'}
-    {name: 'Ozone 9 Vintage Compressor', category: 'Fx|Dynamics',            classId: '5653545a-4f39-434f-7a6f-6e6520392056'}
-    {name: 'Ozone 9 Vintage EQ',         category: 'Fx|EQ',                  classId: '5653545a-4f39-514f-7a6f-6e6520392056'}
-    {name: 'Ozone 9 Vintage Limiter',    category: 'Fx|Dynamics',            classId: '5653545a-4f39-564f-7a6f-6e6520392056'}
-    {name: 'Ozone 9 Vintage Tape',       category: 'Fx|Distortion|Dynamics', classId: '5653545a-4f39-544f-7a6f-6e6520392056'}
+    {name: 'Ozone 9 Match EQ',           category: 'Fx|EQ',                  classId: '5653545a-4f39-484f-7a6f-6e652039204d', auSubtype: 'ZO9H'}
+    {name: 'Ozone 9 Maximizer',          category: 'Fx|Dynamics',            classId: '5653545a-4f39-4d4f-7a6f-6e652039204d', auSubtype: 'ZO9M'}
+    {name: 'Ozone 9 Spectral Shaper',    category: 'Fx|Dynamics',            classId: '5653545a-4f39-534f-7a6f-6e6520392053', auSubtype: 'ZO9S'}
+    {name: 'Ozone 9 Vintage Compressor', category: 'Fx|Dynamics',            classId: '5653545a-4f39-434f-7a6f-6e6520392056', auSubtype: 'ZO9C'}
+    {name: 'Ozone 9 Vintage EQ',         category: 'Fx|EQ',                  classId: '5653545a-4f39-514f-7a6f-6e6520392056', auSubtype: 'ZO9Q'}
+    {name: 'Ozone 9 Vintage Limiter',    category: 'Fx|Dynamics',            classId: '5653545a-4f39-564f-7a6f-6e6520392056', auSubtype: 'ZO9V'}
+    {name: 'Ozone 9 Vintage Tape',       category: 'Fx|Distortion|Dynamics', classId: '5653545a-4f39-544f-7a6f-6e6520392056', auSubtype: 'ZO9T'}
   ]
 
   # plugin MetaInfo
@@ -53,6 +54,30 @@ $ = Object.assign {}, (require '../config'),
 </MetaInfo>
 '''
 
+  # AU manufacturer 1767535728 = 'iZtp'
+  # AU type 1635083896 = 'aufx'
+  aupresetTemplate: _.template '''
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>data</key>
+  <data><% _.forEach(dataLines, function(line) { %>
+    <%= line %><% }); %>
+  </data>
+  <key>manufacturer</key>
+  <integer>1767535728</integer>
+  <key>name</key>
+  <string><%= name %></string>
+  <key>subtype</key>
+  <integer><%= subtype %></integer>
+  <key>type</key>
+  <integer>1635083896</integer>
+  <key>version</key>
+  <integer>0</integer>
+</dict>
+</plist>
+'''
 
 prefix = (plugin) ->
   "#{$.prefix}-#{plugin.name.replace(/^Ozone 9 */, '').toLowerCase().split(' ').join('-')}"
@@ -158,6 +183,27 @@ $.plugins.forEach (plugin) ->
       .pipe rename extname: '.bwpreset'
       .pipe gulp.dest "#{$.Bitwig.presets}/#{plugin.name}"
 
+  # export from .nksf to .aupreset
+  gulp.task "#{prefix(plugin)}-export-aupreset_", ->
+    gulp.src [nksPresets]
+      .pipe parseNksf()
+      .pipe rename extname: '.aupreset'
+      .pipe tap (file) -> editFilePath file, plugin, file.data.nksf.nisi
+      .pipe tap (file) ->
+        console.info 0, file.path
+        base64Data = (vst3Contents file.data.nksf.pluginState).toString 'base64'
+        lineWidth = 68
+        numLines = (base64Data.length + lineWidth - 1) / lineWidth | 0
+        console.info 1, file.path
+        file.contents = Buffer.from $.aupresetTemplate
+          name: xmlescape file.data.nksf.nisi.name
+          subtype: (Buffer.from plugin.auSubtype).readUInt32BE()
+          dataLines: for i in [1..numLines]
+            base64Data.slice lineWidth * (i - 1), if i < numLines then lineWidth * i
+        console.info 2, file.path
+      .pipe gulp.dest "#{$.AuPresets}/iZotope/#{plugin.name}"
+      .pipe tap (file) -> console.info file.path
+
 # generate ableton default plugin parameter configuration
 gulp.task "#{$.prefix}-generate-vst3-appc", ("#{prefix(plugin)}-generate-vst3-appc_" for plugin in $.plugins)
 
@@ -166,3 +212,6 @@ gulp.task "#{$.prefix}-export-vstpreset", ("#{prefix(plugin)}-export-vstpreset_"
 
 # export bwpreset
 gulp.task "#{$.prefix}-export-bwpreset", ("#{prefix(plugin)}-export-bwpreset_" for plugin in $.plugins)
+
+# export bwpreset
+gulp.task "#{$.prefix}-export-aupreset", ("#{prefix(plugin)}-export-aupreset_" for plugin in $.plugins)
