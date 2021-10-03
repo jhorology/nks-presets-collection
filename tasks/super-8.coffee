@@ -69,7 +69,7 @@ $ = Object.assign {}, (require '../config'),
   <integer>0</integer>
   <key>vstdata</key>
   <data><% _.forEach(dataLines, function(line) { %>
-    <%= line %><% }); %>
+  <%= line %><% }); %>
   </data>
 </dict>
 </plist>

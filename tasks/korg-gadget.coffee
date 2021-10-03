@@ -15,11 +15,14 @@ data        = require 'gulp-data'
 gzip        = require 'gulp-gzip'
 rename      = require 'gulp-rename'
 ignore      = require 'gulp-ignore'
+_           = require 'underscore'
+xmlescape   = require 'xml-escape'
 commonTasks = require '../lib/common-tasks'
 adgExporter = require '../lib/adg-preset-exporter'
 bwExporter  = require '../lib/bwpreset-exporter'
 appcGenerator = require '../lib/appc-generator'
 fxpExporter = require '../lib/fxp-exporter'
+parseNksf   = require '../lib/gulp-parse-nksf'
 
 #
 # buld environment & misc settings
@@ -78,6 +81,39 @@ $ = Object.assign {}, (require '../config'),
     # {plugin: 'Zurich',      dir: 'Zurich (Recorder)',       type: 'Audio Effect', numParams: 5}
   ]
 
+  ###
+    AU preset
+    manufacturer = 1262956854 'KORG'
+    type = 1635085685 'aumu'
+    note:
+      The data field contains parameter mappings, but it's work without data.
+  ###
+  aupresetTemplate: _.template '''
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>data</key>
+  <data>
+  </data>
+  <key>jp.co.korg.GadgetMac</key>
+  <data><% _.forEach(dataLines, function(line) { %>
+  <%= line %><% }); %>
+  </data>
+  <key>manufacturer</key>
+  <integer>1263489607</integer>
+  <key>name</key>
+  <string><%= name %></string>
+  <key>subtype</key>
+  <integer><%= subtype %></integer>
+  <key>type</key>
+  <integer>1635085685</integer>
+  <key>version</key>
+  <integer>0</integer>
+</dict>
+</plist>
+'''
+
 # register each gadget tasks
 # --------------------------------
 $.gadgets.forEach (gadget) ->
@@ -114,7 +150,7 @@ $.gadgets.forEach (gadget) ->
         basename: 'Default'
         extname: '.appc'
       .pipe gulp.dest "#{$.Ableton.defaults}/#{gadget.dir}"
-    
+
   # export from .nksf to .bwpreset bitwig studio preset
   gulp.task "#{prefix}-export-bwpreset_", ->
     exporter = bwExporter "src/KORG Gadget/templates/#{gadget.dir}.bwpreset"
@@ -148,6 +184,30 @@ $.gadgets.forEach (gadget) ->
       .pipe rename extname: '.fxp'
       .pipe gulp.dest dest
 
+  # export from .nksf to .aupreset
+  gulp.task "#{prefix}-export-aupreset_", ->
+    dest = "#{$.fxpPresets}/KORG Gadget/#{gadget.dir}"
+    console.info dest
+    gulp.src [nksPresets]
+      # some of Montpellier's nksf is size 0.
+      .pipe ignore (file) -> file.contents.length is 0
+      .pipe parseNksf()
+      .pipe rename extname: '.aupreset'
+      .pipe tap (file) ->
+        # edit file path
+        dirname = path.dirname file.path
+        file.path = path.join dirname, file.data.nksf.nisi.types[0][0], file.relative
+      .pipe tap (file) ->
+        base64Data = file.data.nksf.pluginState.toString 'base64'
+        lineWidth = 68
+        numLines = (base64Data.length + lineWidth - 1) / lineWidth | 0
+        # subtype is same as VST2 magic
+        file.contents = Buffer.from $.aupresetTemplate
+          name: xmlescape file.data.nksf.nisi.name
+          subtype: file.data.nksf.plid['VST.magic']
+          dataLines: for i in [1..numLines]
+            base64Data.slice lineWidth * (i - 1), if i < numLines then lineWidth * i
+      .pipe gulp.dest "#{$.AuPresets}/KORG/#{gadget.dir}"
 
 # export
 # --------------------------------
@@ -163,3 +223,6 @@ gulp.task "#{$.prefix}-export-bwpreset", ("#{$.prefix}-#{gadget.plugin.toLowerCa
 
 # export from .nksf to .fxp
 gulp.task "#{$.prefix}-export-fxp", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-fxp_" for gadget in $.gadgets)
+
+# export from .nksf to .aupreset
+gulp.task "#{$.prefix}-export-aupreset", ("#{$.prefix}-#{gadget.plugin.toLowerCase()}-export-aupreset_" for gadget in $.gadgets)
