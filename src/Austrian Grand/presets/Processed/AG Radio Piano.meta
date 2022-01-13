@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Austrian Grand"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Processed"],
+  "name": "AG Radio Piano",
+  "types": [
+    ["Piano / Keys", "Grand Piano"]
+  ],
+  "uuid": "1df1acc1-9cba-4327-8297-00aafe9a4223",
+  "vendor": "UVI"
+}

@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Austrian Grand"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Processed"],
+  "name": "AG Tsymbaly Piano",
+  "types": [
+    ["Piano / Keys", "Grand Piano"]
+  ],
+  "uuid": "dcaafbcb-3ff7-4bd5-abd8-f2d3fe3f16c4",
+  "vendor": "UVI"
+}

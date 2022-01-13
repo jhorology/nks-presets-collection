@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Austrian Grand"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Basic"],
+  "name": "AG Basic Hall",
+  "types": [
+    ["Piano / Keys", "Grand Piano"]
+  ],
+  "uuid": "4c433e48-adff-48d4-bee7-9dba6df80c65",
+  "vendor": "UVI"
+}

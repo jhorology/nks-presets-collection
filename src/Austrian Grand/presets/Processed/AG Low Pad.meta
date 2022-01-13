@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Austrian Grand"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Processed"],
+  "name": "AG Low Pad",
+  "types": [
+    ["Piano / Keys", "Grand Piano"]
+  ],
+  "uuid": "8e14e5e0-7f30-4e9a-ab94-28500720383f",
+  "vendor": "UVI"
+}

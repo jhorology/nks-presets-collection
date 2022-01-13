@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Key Suite Electric", "YAMAHA CP-60M"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Rotary Wheel"],
+  "name": "CPIano 60M Rotary Wheel",
+  "types": [
+    ["Piano / Keys", "Upright Piano"]
+  ],
+  "uuid": "edc027ca-ca72-4259-9cfb-3f2c5c3f2ac7",
+  "vendor": "UVI"
+}

@@ -13,6 +13,9 @@
 #  - 201901010
 #    - UVI Workstation v3.0.5
 #    - Library 1.1.1
+#  - 202201012
+#    - UVI Workstation v3.0.5
+#    - Library 1.1.1
 # ---------------------------------------------------------------
 path        = require 'path'
 gulp        = require 'gulp'
@@ -111,9 +114,9 @@ $ = Object.assign {}, (require '../config'),
 </UVI4>
 '''
   ufs: '$Key Suite Digital.ufs'
-  # Ableton Live 10.1b21 Instrument Rack
+  # Ableton Live 11.0.12 Instrument Rack
   abletonRackTemplate: 'src/Key Suite Digital/templates/Key Suite Digital.adg.tpl'
-  # Bitwig Studio 2.5.1 preset file
+  # Bitwig Studio 4.1.2 preset file
   bwpresetTemplate: 'src/Key Suite Digital/templates/Key Suite Digital.bwpreset'
   # bank
   models:

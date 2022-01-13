@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Austrian Grand"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Processed"],
+  "name": "AG Gomme Piano",
+  "types": [
+    ["Piano / Keys", "Grand Piano"]
+  ],
+  "uuid": "0b7ab30e-ee25-4ea3-aab5-c1ecec0a01e2",
+  "vendor": "UVI"
+}

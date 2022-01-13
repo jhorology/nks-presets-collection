@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "bankchain": ["Austrian Grand"],
+  "comment": "",
+  "deviceType": "INST",
+  "modes": ["Sample-based", "Processed"],
+  "name": "AG Bowing Piano",
+  "types": [
+    ["Piano / Keys", "Grand Piano"]
+  ],
+  "uuid": "3e93588f-8042-49d2-a1db-da780629b809",
+  "vendor": "UVI"
+}
